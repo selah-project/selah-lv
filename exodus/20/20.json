@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Moše ļaudīm",
-      "rationale": "tieša uzruna Israēla ļaudīm: nebai­dies — Dievs pārbauda, lai nebūtu grēka"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bijāšana",
-      "rationale": "יראה ir 'bīšanās\/bijāšanās' — tas pats vārds, ko 'nebīstieties': Moše atšķir šausmas no bijāšanas"
-    }
-  ],
-  "translation": "Un Moše sacīja ļaudīm: Nebīstieties, jo Elohim atnāca pārbaudīt ⟨את⟩ jūs un tāpēc, lai Viņa bijāšana būtu jūsu seju priekšā, lai jūs nesagrēkotu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/17-20.1792513029509.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Moše sacīja ⟨את⟩ tautai: Nebīstieties, jo pārbaudīt ⟨את⟩ jūs ir atnācis Elohim, un lai Viņa bijāšana būtu jūsu priekšā, lai jūs negrēkotu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Un Moše sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "משה",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩ tautai"
     },
     {
       "surface": "העם",
-      "gloss": "ļaudīm"
+      "gloss": "tautai"
     },
     {
       "surface": "אל",
-      "gloss": "ne"
+      "gloss": "Nē"
     },
     {
       "surface": "תיראו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לבעבור",
-      "gloss": "tāpēc, lai"
+      "gloss": "lai"
     },
     {
       "surface": "נסות",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "atnāca"
+      "gloss": "ir atnācis"
     },
     {
       "surface": "האלהים",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ובעבור",
-      "gloss": "un tāpēc, lai"
+      "gloss": "un lai"
     },
     {
       "surface": "תהיה",
@@ -91,11 +70,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "פניכם",
-      "gloss": "jūsu seju priekšā"
+      "gloss": "jūsu vaigiem"
     },
     {
       "surface": "לבלתי",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "תחטאו",
-      "gloss": "jūs nesagrēkotu"
+      "gloss": "jūs negrēkotu"
     }
   ],
-  "timestamp": "2026-10-20T16:17:09.510773117Z",
+  "timestamp": "2026-10-20T22:41:52.870141193Z",
   "model": "glm-5.3"
 }

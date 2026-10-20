@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā nav saikļa apgalvojumam 'ir elki'"
-    }
-  ],
-  "translation": "Jo visi tautu dievi ⟨ir⟩ elki, bet Jahve radīja ⟨את⟩ debesis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7fc9f5eea7c6f001a0f7567b1e4981a50a9c597393febdfe54b852999f884d58",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/25-28.1792531370968.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo visu tautu dievi ir elki, bet Jahve darīja debesis.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "visi"
+      "gloss": "visu"
     },
     {
       "surface": "אלהי",
@@ -49,13 +33,13 @@
     },
     {
       "surface": "שמים",
-      "gloss": "⟨את⟩ debesis"
+      "gloss": "debesis"
     },
     {
       "surface": "עשה",
-      "gloss": "radīja"
+      "gloss": "darīja"
     }
   ],
-  "timestamp": "2026-10-20T21:22:50.969901127Z",
+  "timestamp": "2026-10-20T22:31:49.354681906Z",
   "model": "glm-5.3"
 }

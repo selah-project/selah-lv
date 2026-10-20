@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השחת תשחתון",
-      "rationale": "Infinitīva absolūta konstrukcija — darbības vārda atkārtojums pastiprinājumam: 'pilnīgi sagandēsiet'; latviski viens vārds ar pastiprinājumu."
-    },
-    {
-      "kind": "crux",
-      "subject": "וקראת אתכם הרעה",
-      "rationale": "Burtiski 'un tas sastaps jūs — ļaunums'; daži tulki lasa 'jūs sauks ļaunuma (cēlonis) liecinieki' sal. 31:28, bet lielākā daļa: ļaunums jūs piemeklēs."
-    },
-    {
-      "kind": "addition",
-      "subject": "esmu",
-      "rationale": "Latviešu perfektam pievienots palīgdarbības vārds, ebreju valodā trūkst."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraēlam",
-      "rationale": "Moše runā tieši uz Israēlu, pareģojot tā novēršanos."
-    }
-  ],
-  "translation": "Jo es zinu, ka pēc manas nāves jūs pilnīgi sagandēsiet un novērsīsities no ceļa, ko es ⟨את⟩ jums esmu pavēlējis, un ļaunums jūs sastaps pēdējās dienās, jo jūs darīsiet ⟨את⟩ ļauno Jahves acīs, lai Viņu sadusmotu ar sava roku darbiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/29-30.1792517404531.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo es zinu, ka pēc manas nāves jūs pilnīgi sagandēsiet un nogriezīsities no ceļa, kuru es jums pavēlēju; un piemeklēs ⟨את⟩ jūs ļaunums pēdējās dienās, jo jūs darīsiet ⟨את⟩ ļauno Jahves acīs, lai Viņu sadusmotu ar sava roku darbiem.",
   "tokens": [
     {
       "surface": "כי",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "השחת",
-      "gloss": "pilnīgi sagandēsiet"
+      "gloss": "pilnīgi"
     },
     {
       "surface": "תשחתון",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "וסרתם",
-      "gloss": "un novērsīsities"
+      "gloss": "un nogriezīsities"
     },
     {
       "surface": "מן",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kuru"
     },
     {
       "surface": "צויתי",
@@ -88,15 +57,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "וקראת",
-      "gloss": "un sastaps"
+      "gloss": "un piemeklēs"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "הרעה",
@@ -145,9 +116,9 @@
     },
     {
       "surface": "ידיכם",
-      "gloss": "jūsu roku"
+      "gloss": "jūsu rokām"
     }
   ],
-  "timestamp": "2026-10-20T17:30:04.532774797Z",
+  "timestamp": "2026-10-20T22:40:28.323290199Z",
   "model": "glm-5.3"
 }

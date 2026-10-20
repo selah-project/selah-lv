@@ -5,45 +5,24 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minha",
-      "rationale": "מנחה kā upuris paliek 'minha' pēc D2, nevis viens latvisks vārds."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nopļāva",
-      "rationale": "ויזרק burtiski 'uzšļākstīja\/izkaisīja' — asinis apšļākāja ap altāri."
-    }
-  ],
-  "translation": "Un viņš izkūpināja ⟨את⟩ savu dedzināmo upuri un ⟨את⟩ savu minhu, izlēja ⟨את⟩ savu libāciju un nopļāva ⟨את⟩ asinis לְשֶׁ hašalomim upuriem, kas piederēja viņam, uz ⟨את⟩ altāra.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/16\/13-16.1792521550718.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Ahazs sāpināja kvēpināmā upura dūmu ⟨את⟩ savu augšupējo upuri un ⟨את⟩ savu minhu, izlēja ⟨את⟩ savu neseķu, un apšļākstīja ⟨את⟩ asinis šelamim upuriem, kas piederēja ⟨viņam⟩, uz altāra.",
   "tokens": [
     {
       "surface": "ויקטר",
-      "gloss": "izkūpināja"
+      "gloss": "sāpināja kvēpināmā upura dūmu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savu dedzināmo upuri"
+      "marks": "savu augšupējo upuri"
     },
     {
       "surface": "עלתו",
-      "gloss": "savu dedzināmo upuri"
+      "gloss": "savu augšupējo upuri"
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "savu minhu"
     },
     {
@@ -57,20 +36,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savu libāciju"
+      "marks": "savu neseķu"
     },
     {
       "surface": "נסכו",
-      "gloss": "savu libāciju"
+      "gloss": "savu neseķu"
     },
     {
       "surface": "ויזרק",
-      "gloss": "nopļāva"
+      "gloss": "apšļākstīja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asinis"
+      "marks": "asinis šelamim upuriem"
     },
     {
       "surface": "דם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "šalomim upuriem"
+      "gloss": "šelamim upuriem"
     },
     {
       "surface": "אשר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "piederēja viņam"
+      "gloss": "piederēja ⟨viņam⟩"
     },
     {
       "surface": "על",
@@ -97,6 +76,6 @@
       "gloss": "altāra"
     }
   ],
-  "timestamp": "2026-10-20T18:39:10.718863697Z",
+  "timestamp": "2026-10-20T22:36:31.306119600Z",
   "model": "glm-5.3"
 }

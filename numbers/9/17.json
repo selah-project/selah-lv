@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי \/ לפי",
-      "rationale": "Burtiski 'pēc mutes' — ebreju idiomā 'pēc pavēles'; šeit ולפי העלת nozīmē 'atbilstoši tam, kad pacēlās'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישכן \/ יחנו",
-      "rationale": "Atslēgvārdu atkārtojums: mākonis 'apmetas' (šakan), tāpēc tauta 'nometojas' (hanah) — spēle zūd tulkojumā."
-    }
-  ],
-  "translation": "Un pēc ⟨tā⟩, kad mākonis pacēlās no virs telts, pēc tam Jisraēla dēli devās ceļā; un vietā, kur mākonis apmetās, tur Jisraēla dēli nometojās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5b4317e2f11da8bf2ae02187120cc6d963ae5268a285d5e209b5bf492733aa5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/9\/17-20.1792515646718.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, tiklīdz mākonis cēlās augšup no telts, pēc tam Jisraēla dēli devās ceļā; un vietā, kur mākonis apmetās, tur Jisraēla dēli apmetās ar teltīm.",
   "tokens": [
     {
       "surface": "ולפי",
-      "gloss": "un pēc ⟨tā⟩, kad"
+      "gloss": "un, tiklīdz"
     },
     {
       "surface": "העלת",
-      "gloss": "pacēlās"
+      "gloss": "cēlās augšup"
     },
     {
       "surface": "הענן",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "מעל",
-      "gloss": "no virs"
+      "gloss": "no"
     },
     {
       "surface": "האהל",
-      "gloss": "telts"
+      "gloss": "teltīm"
     },
     {
       "surface": "ואחרי",
-      "gloss": "pēc tam"
+      "gloss": "pēc"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "tam"
     },
     {
       "surface": "יסעו",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "nometojās"
+      "gloss": "apmetās ar teltīm"
     },
     {
       "surface": "בני",
@@ -105,6 +84,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T17:00:46.719459710Z",
+  "timestamp": "2026-10-20T22:58:55.169289502Z",
   "model": "glm-5.3"
 }

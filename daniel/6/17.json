@@ -5,33 +5,7 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņi \/ viņu",
-      "rationale": "aramiešu darbnieks ir bezpersonisks; latviešu valodai vajadzēja darītāju un skaidrību par to, ko iemeta"
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "gloss": "aramiešu relatīvais partikls, kurai latviešu locījumā nav atsevišķa vārda (iekļauts 'lauvu' formā)"
-    },
-    {
-      "kind": "crux",
-      "subject": "Eloah",
-      "rationale": "aramiešu אלהך 'tavs Eloah'; daudzi tulkojumi liek 'Dievs', bet Vārds netiek aizstāts"
-    }
-  ],
-  "translation": "Tad ķēniņš pavēlēja, un ⟨viņi⟩ atveda Danielu un iemeta ⟨viņu⟩ lauvu bedrē; tad ķēniņš atbildēja un sacīja Danielam: tavs Eloah, kuram tu kalpo pastāvīgi, viņš tevi izglābs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3d8cdf0a33f668e6f08a554bfc050a5f8db21f3afa22858ea4470ef80de23841",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/17-20.1792530355580.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tad ķēniņš pavēlēja, un Danieli atveda un iemeta lauvu bedrē; tad ķēniņš atbildēja un sacīja Danielim: tavs Eloah, kuram tu kalvo pastāvīgi, ⟨viņš⟩ tevi izglābs.",
   "tokens": [
     {
       "surface": "באדין",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לדניאל",
-      "gloss": "Danielu"
+      "gloss": "Danieli"
     },
     {
       "surface": "ורמו",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨kurā⟩"
     },
     {
       "surface": "אריותא",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "לדניאל",
-      "gloss": "Danielam"
+      "gloss": "Danielim"
     },
     {
       "surface": "אלהך",
-      "gloss": "Eloah"
+      "gloss": "tavs Eloah"
     },
     {
       "surface": "די",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "פלח",
-      "gloss": "kalpo"
+      "gloss": "kalvo"
     },
     {
       "surface": "לה",
@@ -118,6 +92,6 @@
       "gloss": "tevi izglābs"
     }
   ],
-  "timestamp": "2026-10-20T21:05:55.581610295Z",
+  "timestamp": "2026-10-20T22:39:16.475551202Z",
   "model": "glm-5.3"
 }

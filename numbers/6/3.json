@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שכר",
-      "rationale": "'Šņabis' kā apreibinošs dzēriens — nevis vispārīgs 'stiprais dzēriens'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "משרת ענבים",
-      "rationale": "'Vīnogu mērce' — izspiesta vīnogu sula; var arī 'vīnogu sula'."
-    }
-  ],
-  "translation": "no vīna un šņabja viņš atturēsies; vīna etiķi un šņabja etiķi viņš nedzers, un nevienu vīnogu mērci viņš nedzers, un vīnogas svaigas un kaltētas viņēdīs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "743e64924af960efb46e38b43799081fa4ad958eb3537626317e0b8d19f08eab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/6\/1-4.1792515552090.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No vīna un stipra dzēriena viņš atturēsies; etiķi no vīna un etiķi no stipra dzēriena viņš nedzers, un nevienu vīnogu mírumu viņš nedzers, un vīnogas svaigas un žāvētas viņās neēdīs.",
   "tokens": [
     {
       "surface": "מיין",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ושכר",
-      "gloss": "un šņabja"
+      "gloss": "un stipra dzēriena"
     },
     {
       "surface": "יזיר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "יין",
-      "gloss": "vīna"
+      "gloss": "no vīna"
     },
     {
       "surface": "וחמץ",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "שכר",
-      "gloss": "šņabja"
+      "gloss": "no stipra dzēriena"
     },
     {
       "surface": "לא",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "ישתה",
-      "gloss": "viņš dzers"
+      "gloss": "viņš nedzers"
     },
     {
       "surface": "וכל",
       "gloss": "un nevienu"
     },
     {
-      "surface": "משרat",
-      "gloss": "mērci"
+      "surface": "משרת",
+      "gloss": "vīnogu mácējumu"
     },
     {
       "surface": "ענבים",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ישתה",
-      "gloss": "viņš dzers"
+      "gloss": "viņās nedzers"
     },
     {
       "surface": "וענבים",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ויבשים",
-      "gloss": "un kaltētas"
+      "gloss": "un žāvētas"
     },
     {
       "surface": "לא",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "viņš ēdīs"
+      "gloss": "viņās neēdīs"
     }
   ],
-  "timestamp": "2026-10-20T16:59:12.096109076Z",
+  "timestamp": "2026-10-20T22:59:08.164887184Z",
   "model": "glm-5.3"
 }

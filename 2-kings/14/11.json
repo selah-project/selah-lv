@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויתראו פנים",
-      "rationale": "'Raudzīties sejā' — idiomāls izteikums, kas nozīmē 'satikties kaujā', burtiski 'redzēja sejas'."
-    },
-    {
-      "kind": "elision",
-      "subject": "בבית שמש",
-      "rationale": "Vietvārds Beit-Šemeša latviešu tulkojumā ir viens vārds; otrais tokens paliek tukšs."
-    }
-  ],
-  "translation": "Bet Amacjahu neklausīja. Un Jéhoass, Jisraēla ķēniņš, gāja augšup, un viņi raudzījās viens otram sejā — viņš un Amacjahu, Jehudas ķēniņš, Beit-Šemešā, kas pieder Jehudai.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/14\/9-12.1792521441531.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet Amacjahu neklausīja, un Jēoass, Jisraēla ķēniņš, devās augšup, un viņi saskatījās vaigā vaigā ⟨viņš⟩ un Amacjahu, Jehudas ķēniņš, pie Bet-Šemešas, kas pieder Jehudai.",
   "tokens": [
     {
       "surface": "ולא",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "Un gāja augšup"
+      "gloss": "un devās augšup"
     },
     {
       "surface": "יהואש",
-      "gloss": "Jéhoass"
+      "gloss": "Jēoass"
     },
     {
       "surface": "מלך",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ויתראו",
-      "gloss": "un raudzījās"
+      "gloss": "un saskatījās"
     },
     {
       "surface": "פנים",
-      "gloss": "sejā"
+      "gloss": "vaigā vaigā"
     },
     {
       "surface": "הוא",
-      "gloss": "viņš"
+      "gloss": "⟨viņš⟩"
     },
     {
       "surface": "ואמציהו",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "בבית",
-      "gloss": "Beit-Šemešā"
+      "gloss": "pie Bet-"
     },
     {
       "surface": "שמש",
-      "gloss": ""
+      "gloss": "Šemešas"
     },
     {
       "surface": "אשר",
@@ -97,6 +76,6 @@
       "gloss": "pieder Jehudai"
     }
   ],
-  "timestamp": "2026-10-20T18:37:21.533054654Z",
+  "timestamp": "2026-10-20T22:36:21.911300759Z",
   "model": "glm-5.3"
 }

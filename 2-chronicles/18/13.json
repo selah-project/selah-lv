@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Epitets 'dzīvs ir Jahve' — zvēresta formula, burtiski 'dzīvs Jahve'."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Latviešu valodai vajadzīga saikle, ebreju tekstā tās nav."
-    }
-  ],
-  "translation": "Un Mihaja sacīja: Lai dzīvs ir Jahve — ⟨את⟩ to, ko mans Elohim sacīs, to es runāšu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ed9b2c20a17a972ab269d4bcfd60b968cd5398ce3a0322421c9e0265a515598f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/18\/13-16.1792531998833.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Mikauss sacīja: tik ilgi, cik dzīvs ir Jahve — ⟨את⟩ to, ko mans Elohim sacīs, ⟨את⟩ to es runāšu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mihaja"
+      "gloss": "Mikauss"
     },
     {
       "surface": "חי",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "כי",
-      "gloss": "ka"
+      "gloss": "tik ilgi, cik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, ko"
+      "marks": "to, ko mans Elohim sacīs"
     },
     {
       "surface": "אשר",
@@ -67,14 +46,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "to"
+      "gloss": "⟨את⟩ to"
     },
     {
       "surface": "אדבר",
       "gloss": "es runāšu"
     }
   ],
-  "timestamp": "2026-10-20T21:33:18.834565723Z",
+  "timestamp": "2026-10-20T22:34:56.196976924Z",
   "model": "glm-5.3"
 }

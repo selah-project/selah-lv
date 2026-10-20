@@ -5,32 +5,11 @@
   "book": "ecclesiastes",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "durvis, putna balss, dziesmu meitas",
-      "rationale": "turpinātā vecumdienas alegorija: dzirnavu kļūst klusa — zobi vairs nemalā."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dziesmu meitas",
-      "gloss": "בנות השיר burtiski 'dziesmu meitas' — dzirdes un dziedāšanas spēja."
-    }
-  ],
-  "translation": "un aizveras durvis uz ielas, kad dzirnavu kļūst klusa balss, un pieceļas pie putna balss, un noliekas visas dziesmu meitas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/12\/1-4.1792529996997.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "un durvis tiks aizvērtas uz ielas, kad dzirdu klusinās, un ⟨viņš⟩ celsies putna balsī, un visas dziesmu meitas nolieksies.",
   "tokens": [
     {
       "surface": "וסגרו",
-      "gloss": "un aizveras"
+      "gloss": "un tiks aizvērtas"
     },
     {
       "surface": "דלתים",
@@ -42,45 +21,45 @@
     },
     {
       "surface": "בשפל",
-      "gloss": "kļūst klusa"
+      "gloss": "klusinās"
     },
     {
-      "surface": "кול",
-      "gloss": "balss"
+      "surface": "קול",
+      "gloss": "dzirdu balsī"
     },
     {
       "surface": "הטחנה",
-      "gloss": "dzirnavu"
+      "gloss": "un celsies"
     },
     {
       "surface": "ויקום",
-      "gloss": "un pieceļas"
+      "gloss": "putna balsī"
     },
     {
       "surface": "לקול",
-      "gloss": "pie balss"
+      "gloss": "un nolieksies"
     },
     {
       "surface": "הצפור",
-      "gloss": "putna"
-    },
-    {
-      "surface": "וישחו",
-      "gloss": "un noliekas"
-    },
-    {
-      "surface": "כל",
       "gloss": "visas"
     },
     {
-      "surface": "בנות",
+      "surface": "וישחו",
+      "gloss": "dziesmu"
+    },
+    {
+      "surface": "כל",
       "gloss": "meitas"
     },
     {
+      "surface": "בנות",
+      "gloss": ""
+    },
+    {
       "surface": "השיר",
-      "gloss": "dziesmu"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-20T20:59:56.998329725Z",
+  "timestamp": "2026-10-20T22:40:48.989677134Z",
   "model": "glm-5.3"
 }

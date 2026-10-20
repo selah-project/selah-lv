@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "Es dzīvoju, ja",
-      "rationale": "חי אני אם — ebreju zvēresta formula 'Es dzīvoju, ja...'; burtiski nosacījums, nozīme: 'kā es dzīvoju, tā nenotiks'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אדרש לכם",
-      "rationale": "'Ja es jums vaicāšu\/atbildēšu' — vai nu 'ja es jums ļaušu vaicāt', vai 'ja es jums atbildēšu'; aba noliedzoša zvērestā."
-    },
-    {
-      "kind": "you",
-      "subject": "Cilvēka dēls",
-      "rationale": "Jahve vēršas pie Ezekiela kā 'cilvēka dēls'."
-    }
-  ],
-  "translation": "Cilvēka dēls, runā ar Jisraēla vecajiem un saki tiem: Tā saka Adonai Jahve: Vai jūs atnākat vaicāt Mani? Es dzīvoju, ja es jums atbildēšu vaicājot, saka Adonai Jahve.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/20\/1-4.1792525135695.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Cilvēka dēls, runā ar Jisraēla vecajiem un saki tiem: Tā saka Adonai Jahve: Vai jūs nākat vaicāt ⟨את⟩ mani? Es dzīvoju — ja Es jums atbildēšu, saka Adonai Jahve ⟨את⟩.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Cilvēka dēls"
+      "gloss": "dēls"
     },
     {
       "surface": "אדם",
-      "gloss": "..."
+      "gloss": "cilvēka"
     },
     {
       "surface": "דבר",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "vecajiem"
+      "gloss": "vecajie"
     },
     {
       "surface": "ישראל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "tiem"
+      "gloss": " tiem"
     },
     {
       "surface": "כה",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "הלדרש",
-      "gloss": "Vai ... vaicāt"
+      "gloss": "vai vaicāt"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "Mani (1. personā)"
+      "marks": "mani"
     },
     {
       "surface": "אתם",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "באים",
-      "gloss": "atnākat"
+      "gloss": "nākat"
     },
     {
       "surface": "חי",
-      "gloss": "Es dzīvoju"
+      "gloss": "dzīvoju"
     },
     {
       "surface": "אני",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "אדרש",
-      "gloss": "atbildēšu vaicājot"
+      "gloss": "atbildēšu"
     },
     {
       "surface": "לכם",
@@ -132,6 +106,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T19:38:55.696666576Z",
+  "timestamp": "2026-10-20T22:44:10.236692750Z",
   "model": "glm-5.3"
 }

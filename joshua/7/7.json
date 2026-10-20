@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "העברת העביר",
-      "rationale": "Atkārtota sakne עבר 'pāriet' divreiz pēc kārtas — 'pārcēli... pāri' — uzsvars un vārds spēle ar Jordānas 'pāreju', latviski daļēi zudis."
-    },
-    {
-      "kind": "idiom",
-      "subject": "העברת העביר",
-      "rationale": "Intensīvs infinitivs absolūts: 'pārcēli pārceļot' — 'vispār pārcēli', uzsvars."
-    }
-  ],
-  "translation": "Un Jēšua sacīja: Ak, Adonai Jahve! Kāpēc Tu vispār pārcēli ⟨את⟩ šo tautu pāri ⟨את⟩ Jordānam, lai nodotu mūs emoriešu rokā mūs iznīcināt? Ak, būtu mēs bijuši ar mieru un palikuši Jordānas otrā pusē!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/7\/5-8.1792517709035.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jehošua sacīja: Ak, Adonai Jahve, kāpēc Tu vispār izvedi ⟨את⟩ šo tautu pāri pār Jordānu, lai dotu ⟨את⟩ mūs amoriešu rokā mūs iznīcināt? Ak, kā būtu bijis, ja būtu bijuši ar mieru un palikuši otrpus Jordānai!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jēšua"
+      "gloss": "Jehošua"
     },
     {
       "surface": "אהה",
-      "gloss": "Ak!"
+      "gloss": "Ak"
     },
     {
       "surface": "אדני",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "למה",
-      "gloss": "Kāpēc"
+      "gloss": "kāpēc"
     },
     {
       "surface": "העברת",
-      "gloss": "Tu pārcēli"
+      "gloss": "Tu izvedi pāri"
     },
     {
       "surface": "העביר",
-      "gloss": "pāri"
+      "gloss": "izvest pāri"
     },
     {
       "surface": "את",
@@ -80,15 +59,16 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordānam"
+      "gloss": "Jordānu"
     },
     {
       "surface": "לתת",
-      "gloss": "lai nodotu"
+      "gloss": "lai dotu"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ mūs"
+      "gloss": "⟨את⟩ mūs",
+      "marks": "mūs"
     },
     {
       "surface": "ביד",
@@ -96,7 +76,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "emoriešu"
+      "gloss": "amoriešu"
     },
     {
       "surface": "להאבידנו",
@@ -104,11 +84,11 @@
     },
     {
       "surface": "ולו",
-      "gloss": "Ak, būtu"
+      "gloss": "ak, kā būtu bijis"
     },
     {
       "surface": "הואלנו",
-      "gloss": "bijuši ar mieru"
+      "gloss": "ja būtu bijuši ar mieru"
     },
     {
       "surface": "ונשב",
@@ -116,13 +96,13 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "otrā pusē"
+      "gloss": "otrupus"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordānas"
+      "gloss": "Jordānai"
     }
   ],
-  "timestamp": "2026-10-20T17:35:09.037064792Z",
+  "timestamp": "2026-10-20T22:53:29.685397111Z",
   "model": "glm-5.3"
 }

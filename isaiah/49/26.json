@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "salds vīns",
-      "rationale": "עסיס ir tikko izspiests vīnogu misas — salds vīns kā tuvākais latviskais priekšstats"
-    },
-    {
-      "kind": "addition",
-      "subject": "esmu",
-      "rationale": "ebreju valodā pietiek ar כי אני — latviešu teikumam vajadzīgs saiklis"
-    },
-    {
-      "kind": "elision",
-      "subject": "viņu pašu",
-      "rationale": "בשרם un דמם ir piederības formas 'viņu miesa, viņu asinis' — 'pašu' pievienots priekšskatam, lai lasītājs saprot, kā miesa un kā asinis"
-    }
-  ],
-  "translation": "Un Es barošu tavus apspiedējus ⟨את⟩ ar viņu pašu miesu, un kā ar saldu vīnu viņi iedzersies savām asinīm; un pazīs visa miesa, ka ⟨esmu⟩ Es, Jahve, tavs pestītājs un tavs atpestītājs, Jaakoba Varenais.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/49\/25-26.1792522766407.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es barošu ⟨את⟩ tavus apspiedējus ar ⟨את⟩ viņu pašu miesu, un kā ar sulaini viņi piedzersies no sava asins, un zinās visa miesa, ka es esmu Jahve, tavs pestītājs un tavs atbrīvotājs, Jēkaba stiprinājums — Ābīrs, stiprais — Jēkaba stiprais.",
   "tokens": [
     {
       "surface": "והאכלתי",
-      "gloss": "Un Es barošu"
+      "gloss": "Un es barošu"
     },
     {
       "surface": "את",
@@ -49,27 +23,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņu pašu miesu"
+      "marks": "viņu miesu"
     },
     {
       "surface": "בשרם",
-      "gloss": "viņu pašu miesu"
+      "gloss": "viņu miesu"
     },
     {
       "surface": "וכעסיס",
-      "gloss": "un kā ar saldu vīnu"
+      "gloss": "un kā ar sulaini"
     },
     {
       "surface": "דמם",
-      "gloss": "savām asinīm"
+      "gloss": "no sava asins"
     },
     {
       "surface": "ישכרון",
-      "gloss": "iedzersies"
+      "gloss": "viņi piedzersies"
     },
     {
       "surface": "וידעו",
-      "gloss": "un pazīs"
+      "gloss": "un zinās"
     },
     {
       "surface": "כל",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Es"
+      "gloss": "es"
     },
     {
       "surface": "יהוה",
@@ -97,17 +71,17 @@
     },
     {
       "surface": "וגאלך",
-      "gloss": "un tavs atpestītājs"
+      "gloss": "un tavs atbrīvotājs"
     },
     {
       "surface": "אביר",
-      "gloss": "Varenais"
+      "gloss": "stiprais (Ābīrs)"
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakoba"
+      "gloss": "Jēkaba"
     }
   ],
-  "timestamp": "2026-10-20T18:59:26.408219800Z",
+  "timestamp": "2026-10-20T22:48:06.221598102Z",
   "model": "glm-5.3"
 }

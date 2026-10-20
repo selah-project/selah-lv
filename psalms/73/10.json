@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 73,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨viņa⟩",
-      "rationale": "Possessīvs vietniekvārds pie 'tauta' — ivritā עמו nozīmē 'viņa tauta', latviešu skaidrībai dots atsevišķi."
-    },
-    {
-      "kind": "crux",
-      "subject": "pilna kausa ūdeņi",
-      "rationale": "ומימלא ימצו: 'pilna kausa ūdeņi tiek izspiesti tiem' (KJV) — citi lasa 'pilnības ūdeņi tiem iztecināti' (BSB: dzer bagātības ūdeņus)."
-    },
-    {
-      "kind": "elision",
-      "subject": "למו",
-      "rationale": "Dziesmu partikula ar uzsvaru 'tiem', latviski pārklājas ar datīva 'tiem'."
-    }
-  ],
-  "translation": "Tāpēc ⟨viņa⟩ tauta atgriežas šurp, un tiem tiek izspiesti pilna kausa ⟨⟨ ūdeņi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/9-12.1792527823297.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc viņa tauta atgriežas šurp, un ūdeņu-pilnu-kausu izspiež viņiem.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Tāpēc"
+      "gloss": "tāpēc"
     },
     {
       "surface": "ישיב",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "⟨viņa⟩ tauta"
+      "gloss": "viņa tauta"
     },
     {
       "surface": "הלם",
@@ -51,21 +25,21 @@
     },
     {
       "surface": "ומי",
-      "gloss": "un ūdeņi"
+      "gloss": "ūdeņu"
     },
     {
       "surface": "מלא",
-      "gloss": "pilna kausa"
+      "gloss": "pilnu-kausu"
     },
     {
       "surface": "ימצו",
-      "gloss": "tiek izspiesti"
+      "gloss": "izspiež"
     },
     {
       "surface": "למו",
-      "gloss": "tiem"
+      "gloss": "viņiem"
     }
   ],
-  "timestamp": "2026-10-20T20:23:43.298022865Z",
+  "timestamp": "2026-10-20T23:00:20.625032352Z",
   "model": "glm-5.3"
 }

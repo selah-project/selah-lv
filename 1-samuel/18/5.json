@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "bעיני",
-      "rationale": "Ebreju 'viņa acīs' = 'viņa uzskatā', pieņemts labs, zaudē ķermeņa attēlu."
-    },
-    {
-      "kind": "alternative",
-      "subject": "rīkojās gudri",
-      "rationale": "ישכיל arī 'viņam veicās \/ gūt panākumus' (JPS 'had good success')."
-    }
-  ],
-  "translation": "Un Davids izgāja, visur, kur viņu Šauls sūtīja, un viņš rīkojās gudri; un Šauls viņu iecēla pār kara vīriem, un tas bija labs visu ⟨ה⟩ tautas acīs un arī ⟨ה⟩ Šaula kalpu acīs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "820840fba9991ffd6206252921cb7c2d49af3ef3b8b7cdff731f01dd6072a652",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/18\/5-8.1792519226433.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Davids izgāja visur, kur viņu sūtīja Šauls, un rīkojās gudri; un Šauls viņu iecela pār karavīriem, un viņš bija labs visai tautai acīs un arī Šaula kalpu acīs.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Un izgāja"
+      "gloss": "un izgāja"
     },
     {
       "surface": "דוד",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "וישמהו",
-      "gloss": "un viņu iecēla"
+      "gloss": "un viņu iecela"
     },
     {
       "surface": "שאול",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "vīriem"
+      "gloss": "karavīriem"
     },
     {
       "surface": "המלחמה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "וייטב",
-      "gloss": "un tas bija labs"
+      "gloss": "un bija labs"
     },
     {
       "surface": "בעיני",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "visu"
+      "gloss": "visai"
     },
     {
       "surface": "העם",
-      "gloss": "tautas"
+      "gloss": "tautai"
     },
     {
       "surface": "וגם",
@@ -109,6 +88,6 @@
       "gloss": "Šaula"
     }
   ],
-  "timestamp": "2026-10-20T18:00:26.434018487Z",
+  "timestamp": "2026-10-20T23:22:12.945813173Z",
   "model": "glm-5.3"
 }

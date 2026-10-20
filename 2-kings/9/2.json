@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חדר בחדר",
-      "rationale": "Atkārtots vārds 'istaba istabā' — iekšēja istaba; atkārtojums latviskajā renderējumā saglabāts"
-    }
-  ],
-  "translation": "Un, kad tur ieradies, tur ieraudzīsi Jehu, Jehošafata dēlu, Nimši dēlu, un tu iešot un viņu celšot augšā no viņa brāļu vidus, un ievedīsi viņu istabā iekš istabas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "49d7381be83fab99717fde4179baed19449b1bcd6a197a572ba4c80b9e2f77ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/9\/1-4.1792521325863.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu nonāksi tur un skatīsi tur Jēhu, Jēhofata dēlu, Nimši dēlu, un tu ieiesi un celsi viņu augšā no viņa brāļu vidus, un ievedīsi ⟨את⟩ viņu istabā istabas iekšienē.",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "Un, kad ieradies"
+      "gloss": "un tu nonāksi"
     },
     {
       "surface": "שמה",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "וראה",
-      "gloss": "ieraudzīsi"
+      "gloss": "un skatīsi"
     },
     {
       "surface": "שם",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jēhu"
     },
     {
       "surface": "בן",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehošafata"
+      "gloss": "Jēhofata"
     },
     {
       "surface": "בן",
@@ -61,11 +45,11 @@
     },
     {
       "surface": "ובאת",
-      "gloss": "un tu iešot"
+      "gloss": "un tu ieiesi"
     },
     {
       "surface": "והקמתו",
-      "gloss": "viņu celšot augšā"
+      "gloss": "un celsi viņu augšā"
     },
     {
       "surface": "מתוך",
@@ -82,7 +66,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "viņu (Jēhu)"
     },
     {
       "surface": "חדר",
@@ -90,9 +74,9 @@
     },
     {
       "surface": "בחדר",
-      "gloss": "iekš istabas"
+      "gloss": "istabas iekšienē"
     }
   ],
-  "timestamp": "2026-10-20T18:35:25.864798977Z",
+  "timestamp": "2026-10-20T22:37:29.836003382Z",
   "model": "glm-5.3"
 }

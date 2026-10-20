@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "את פני",
-      "rationale": "Burtiski 'ar ... seju' — nozīmē 'kāda priekšā, klātesot'; latviski 'priekšā'."
-    },
-    {
-      "kind": "elision",
-      "subject": "lai ⟨es⟩",
-      "rationale": "Ebreju teikumā nav izteikts subjekts 'es'; latviešu valoda to prasa."
-    }
-  ],
-  "translation": "Un ķēniņš Rehabeams apspriedās ⟨את⟩ ⟨ar⟩ vecajiem, kas stāvēja Šelomo, viņa tēva, priekšā, kamēr tas vēl bija dzīvs, sacīdams: Kā jūs padomat atbildēt ⟨את⟩ šiem ļaudīm vārdu?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/12\/5-8.1792520737732.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ķēniņš Rehavjams apspriedās ar ⟨את⟩ vecajiem vīriem, kas stāvēja ⟨את⟩ Sālmaņa, sava tēva, priekšā, kamēr viņš vēl dzīvoja, un sacīja: Kā jūs padomat, lai es atbildētu ⟨את⟩ šai tautai vārdus?",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "Un apspriedās"
+      "gloss": "apspriedās"
     },
     {
       "surface": "המלך",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rehabeams"
+      "gloss": "Rehavjams"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨ar⟩",
-      "marks": "vecajie"
+      "gloss": "⟨את⟩",
+      "marks": "vecajiem vīriem"
     },
     {
       "surface": "הזקנים",
-      "gloss": "vecajie"
+      "gloss": "vecajiem vīriem"
     },
     {
       "surface": "אשר",
@@ -64,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šelomo priekšā"
+      "marks": "priekšā (פני)"
     },
     {
       "surface": "פני",
@@ -72,15 +51,15 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Sālmans"
     },
     {
       "surface": "אביו",
-      "gloss": "viņa tēvs"
+      "gloss": "sava tēva"
     },
     {
       "surface": "בהיתו",
-      "gloss": "kamēr tas bija"
+      "gloss": "kamēr viņš bija"
     },
     {
       "surface": "חי",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "un sacīja"
     },
     {
       "surface": "איך",
-      "gloss": "Kā"
+      "gloss": "kā"
     },
     {
       "surface": "אתם",
@@ -104,26 +83,26 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "atbildēt"
+      "gloss": "lai atbildētu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šiem ļaudīm"
+      "marks": "šai tautai"
     },
     {
       "surface": "העם",
-      "gloss": "ļaudis"
+      "gloss": "tautai"
     },
     {
       "surface": "הזה",
-      "gloss": "šiem"
+      "gloss": "šai"
     },
     {
       "surface": "דבר",
-      "gloss": "vārdu"
+      "gloss": "vārdus"
     }
   ],
-  "timestamp": "2026-10-20T18:25:37.733684395Z",
+  "timestamp": "2026-10-20T22:32:26.645088873Z",
   "model": "glm-5.3"
 }

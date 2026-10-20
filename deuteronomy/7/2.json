@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "herems",
-      "rationale": "חרם ir 'izņemšana no lietošanas, nodevība iznīcībai' — atstāts transkribēts, nevis 'pilnīga iznīcināšana'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "החרם תחרים",
-      "rationale": "infinitivus absolutus — 'iznīdēdams iznīdēsi'; latviski dot kā pastiprinājumu 'pilnīgi'"
-    },
-    {
-      "kind": "crux",
-      "subject": "תחנם",
-      "rationale": "saka 'nedosi viņiem hannā' — 'nerādīsi viņiem labvēlību\/žēlastību'; citi lasa no חנה 'nemitināsi viņus'"
-    }
-  ],
-  "translation": "un Jahve, tavs Elohim, tos nodos tavā priekšā un tu viņus sakausi — pilnīgā heremā tos iznīdēsi: neslēgsi ar viņiem derību un neizrādīsi viņiem žēlastību.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/1-4.1792516678717.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve, tavs Elohim, tos atdos tev priekšā, un tu viņus sitīsi — pilnīgi iznīcini ⟨את⟩ viņus; nedersi ar viņiem derību un neparādīsi viņiem žēlsirdību.",
   "tokens": [
     {
       "surface": "ונתנם",
-      "gloss": "un tos nodos"
+      "gloss": "un atdos tos"
     },
     {
       "surface": "יהוה",
@@ -47,24 +21,24 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "tavā priekšā"
+      "gloss": "tev priekšā"
     },
     {
       "surface": "והכיתם",
-      "gloss": "un tu viņus sakausi"
+      "gloss": "un tu viņus sitīsi"
     },
     {
       "surface": "החרם",
-      "gloss": "pilnīgā heremā"
+      "gloss": "pilnīgi iznīcini"
     },
     {
       "surface": "תחרים",
-      "gloss": "tos iznīdēsi"
+      "gloss": "iznīcini (pilnīgā banā)"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tos (tautas)"
+      "marks": "viņus (tautas)"
     },
     {
       "surface": "לא",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "תכרת",
-      "gloss": "slēgsi"
+      "gloss": "dersi"
     },
     {
       "surface": "להם",
@@ -88,9 +62,9 @@
     },
     {
       "surface": "תחנם",
-      "gloss": "izrādīsi viņiem žēlastību"
+      "gloss": "parādīsi viņiem žēlsirdību"
     }
   ],
-  "timestamp": "2026-10-20T17:17:58.719444018Z",
+  "timestamp": "2026-10-20T22:40:51.378977350Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "zemes",
-      "rationale": "Latviešu valodai vajadzīgs ģenitīvs 'Uras kasdiešu zemes' — ebreju teksts saka tikai 'no Uras kasdiešu'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתם",
-      "rationale": "'Ar viņiem' — vai Terahs ņēma viņus līdzi, vai viņi visi gāja kopā; tulkojumi dalās starp 'kopā ar viņiem' un 'viņi izgāja ar viņiem'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Prievārds 'ar viņiem' latviešu teikumā daļēji saplūst ar darbības vārdu 'izgāja'."
-    }
-  ],
-  "translation": "Un Terahs paņēma ⟨את⟩ Avramu, savu dēlu, un ⟨את⟩ Lotu, Harana dēlu, sava dēla dēlu, un ⟨את⟩ Saraju, savu vedeklu, sava dēla Avrama sievu; un viņi izgāja kopā ar viņiem no Uras, kasdiešu ⟨zemes⟩, lai ietu uz Kenaana zemi; un viņi nonāca līdz Haranai un apmetās tur.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e6f48ac4a94a4e9ee9cef3b9acbf058591b0f52dc402ee82a9a9724d10cfc8fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/11\/29-32.1792511694556.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Terahs ņēma ⟨את⟩ Avramu, savu dēlu, un ⟨את⟩ Lotu, Harana dēlu, sava dēla dēlu, un ⟨את⟩ Saraju, savu vedeklu, Avrama, sava dēla, sievu; un viņi izgāja ⟨את⟩ ⟨ar viņiem⟩ no Ūras kasdiešu, lai ietu uz Kenaana zemi, un nonāca līdz Haranai un apmetās tur.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Un ... paņēma"
+      "gloss": "Un ņēma"
     },
     {
       "surface": "תרח",
@@ -110,11 +84,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ kopā ⟨ar⟩ viņiem"
+      "gloss": "⟨את⟩ ⟨ar viņiem⟩"
     },
     {
       "surface": "מאור",
-      "gloss": "no Uras"
+      "gloss": "no Ūras"
     },
     {
       "surface": "כשדים",
@@ -125,12 +99,8 @@
       "gloss": "lai ietu"
     },
     {
-      "surface": "ārcts",
-      "gloss": ""
-    },
-    {
       "surface": "ארצה",
-      "gloss": "uz ... zemi"
+      "gloss": "uz zemi"
     },
     {
       "surface": "כנען",
@@ -138,7 +108,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "un viņi nonāca"
+      "gloss": "un nonāca"
     },
     {
       "surface": "עד",
@@ -157,6 +127,6 @@
       "gloss": "tur"
     }
   ],
-  "timestamp": "2026-10-20T15:54:54.557231629Z",
+  "timestamp": "2026-10-20T22:45:47.591515643Z",
   "model": "glm-5.3"
 }

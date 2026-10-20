@@ -5,49 +5,23 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ar zobena muti",
-      "rationale": "לפי חרב burtiski 'zobena mute' — zoba asmens"
-    },
-    {
-      "kind": "measurement",
-      "subject": "divpadsmit tūkstotis",
-      "rationale": "Precīzs skaitlis karotāju vienībai"
-    },
-    {
-      "kind": "you",
-      "subject": "pavēle",
-      "rationale": "Imperatīvi 'Ejiet un sitiet' vērsti pie divpadsmit tūkstošiem vīru"
-    }
-  ],
-  "translation": "Un tur sapulce nosūtīja divpadsmit tūkstotis vīru no varonīgajiem dēliem, un tiem pavēlēja, sacīdami: Ejiet un sitiet ⟨את⟩ Jabeša Gileādas iedzīvotājus ar zobena muti, ⟨kopā ar⟩ sievietēm un bērniem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b4375730f88e155a209dba8cb1ab499942e1d826162bbb0d0fab7198a4186ecf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/21\/9-12.1792518783354.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un turp sūtīja saime divpadsmit tūkstoš vīru no dēliem-varoņiem un tiem pavēlēja, sacīdami: Eita un sitiet ⟨את⟩ Jabešas-Gilādas iedzīvotājus ar mutes-zobena, ⟨un⟩ sievietes un bērnus.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "nosūtīja"
+      "gloss": "un sūtīja"
     },
     {
       "surface": "שם",
-      "gloss": "tur"
+      "gloss": "turp"
     },
     {
       "surface": "העדה",
-      "gloss": "sapulce"
+      "gloss": "saime"
     },
     {
       "surface": "שנים",
-      "gloss": "div"
+      "gloss": "divi"
     },
     {
       "surface": "עשר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "tūkstotis"
+      "gloss": "tūkstoš"
     },
     {
       "surface": "איש",
@@ -67,16 +41,16 @@
     },
     {
       "surface": "החיל",
-      "gloss": "varonīgajiem"
+      "gloss": "varoņiem"
     },
     {
       "surface": "ויצוו",
-      "gloss": "pavēlēja"
+      "gloss": "un pavēlēja"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tiem",
-      "marks": "pavēle (לאמר)"
+      "gloss": "⟨את⟩ viņiem",
+      "marks": "viņiem (divpadsmit tūkstoš vīriem)"
     },
     {
       "surface": "לאמר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "ejiet"
+      "gloss": "Eita"
     },
     {
       "surface": "והכיתם",
@@ -93,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jabeša Gileādas iedzīvotājus"
+      "marks": "Jabešas-Gilādas iedzīvotājus"
     },
     {
       "surface": "יושבי",
@@ -101,11 +75,11 @@
     },
     {
       "surface": "יבש",
-      "gloss": "Jabeša"
+      "gloss": "Jabešas"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gileādas"
+      "gloss": "Gilādas"
     },
     {
       "surface": "לפי",
@@ -117,13 +91,13 @@
     },
     {
       "surface": "והנשים",
-      "gloss": "un sievietēm"
+      "gloss": "un sievietes"
     },
     {
       "surface": "והטף",
-      "gloss": "un bērniem"
+      "gloss": "un bērnus"
     }
   ],
-  "timestamp": "2026-10-20T17:53:03.355440906Z",
+  "timestamp": "2026-10-20T22:54:13.426717953Z",
   "model": "glm-5.3"
 }

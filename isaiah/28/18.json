@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "atcelta",
-      "rationale": "כפר 'nosedz\/apmierina' — derības anullēšanas nozīmē"
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā trūkst kopulas priekšlaicīgam pilnajam laikam"
-    },
-    {
-      "kind": "crux",
-      "subject": "חזותכם",
-      "rationale": "'jūsu redzējums' — arī 'jūsu vienošanās ar šeolu'; redzējums\/vienošanās alternatīvas"
-    }
-  ],
-  "translation": "Un ⟨ir⟩ atcelta jūsu derība ar nāvi, un jūsu redzējums ⟨attieksies⟩ ⟨את⟩ uz šeolu — tas necelsies; pārplūstoša pātaga, kad tā pāries, jūs kļūsiet tai par mīdāmu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/17-20.1792522305832.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un jūsu derība ar ⟨את⟩ nāvi tiks atcelta, un jūsu redzējums ⟨ar⟩ ⟨את⟩ šeolu nestāvēs; kad pārplūdošā pātaga pāries, jūs kļūsiet tai par mīdīšanu.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "Un ⟨ir⟩ atcelta"
+      "gloss": "tiks atcelta"
     },
     {
       "surface": "בריתכם",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "וחזותכם",
-      "gloss": "un jūsu redzējums"
+      "gloss": "jūsu redzējums"
     },
     {
       "surface": "את",
@@ -65,11 +39,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "—"
+      "gloss": "ne"
     },
     {
       "surface": "תקום",
-      "gloss": "necelsies"
+      "gloss": "stāvēs"
     },
     {
       "surface": "שוט",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "שוטף",
-      "gloss": "pārplūstoša"
+      "gloss": "pārplūdošā"
     },
     {
       "surface": "כי",
@@ -97,9 +71,9 @@
     },
     {
       "surface": "למרמס",
-      "gloss": "par mīdāmu"
+      "gloss": "par mīdīšanu"
     }
   ],
-  "timestamp": "2026-10-20T18:51:45.834193794Z",
+  "timestamp": "2026-10-20T22:47:49.538370898Z",
   "model": "glm-5.3"
 }

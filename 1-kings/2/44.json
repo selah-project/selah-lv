@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בראשך",
-      "rationale": "'Uz tavu galvu' — ebreju idiomas atgriešanās forma: ļaunums atkrīt atpakaļ pār darītāju."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידעת\/ידע",
-      "rationale": "Atkārtota sakne ידע: 'tu zini' un 'zina tava sirds' — zināšanas dublējas."
-    },
-    {
-      "kind": "you",
-      "subject": "to Šimī",
-      "rationale": "Ķēniņa spriedums tieši Šimī."
-    }
-  ],
-  "translation": "Un ķēniņš sacīja Šimī: Tu pats zini ⟨את⟩ visu ļauno, ko zina tavs sirds prāts, ko tu izdarīji Davidam, manam tēvam; un Jahve atmaksās ⟨את⟩ tavu ļaunumu atpakaļ uz tavu galvu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/41-44.1792520397134.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ķēniņš sacīja Šimjam: tu pats zini ⟨את⟩ visu ļauno, ko tavs sirds apziņa zina, ko tu dariji Davidam, manam tēvam; un Jahve atgriezīs ⟨את⟩ tavu ļaunumu uz tavu galvu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "שמעי",
-      "gloss": "Šimī"
+      "gloss": "Šimjam"
     },
     {
       "surface": "אתה",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "tavs sirds prāts"
+      "gloss": "tava sirds"
     },
     {
       "surface": "אשר",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "עשית",
-      "gloss": "tu izdarīji"
+      "gloss": "tu dariji"
     },
     {
       "surface": "לדוד",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "והשיב",
-      "gloss": "atmaksās atpakaļ"
+      "gloss": "un atgriezīs"
     },
     {
       "surface": "יהוה",
@@ -120,6 +94,6 @@
       "gloss": "uz tavu galvu"
     }
   ],
-  "timestamp": "2026-10-20T18:19:57.135483754Z",
+  "timestamp": "2026-10-20T22:32:51.245730591Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועשית מרעה",
-      "rationale": "Burtiski 'un Tu darītu no ļaunā' — tradicionāli 'atbrīvo no ļauna'; KJV 'keep me from evil', JPS 'work deliverance from evil'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עצבי \/ יעבץ",
-      "rationale": "Lūguma beigās atgriežas sakne עצב no 4:9 — 'lai mani nesagādātu sāpes' atbalso vārdu Jābecs."
-    },
-    {
-      "kind": "addition",
-      "subject": "Ak, vai",
-      "rationale": "אם kā optatīva daļiņa latviski prasa vēlējuma ievadu, kas ebreju tekstā nav pilns jautājums."
-    },
-    {
-      "kind": "you",
-      "subject": "Jābeca lūgums Elohim",
-      "rationale": "Tieša uzruna Dievam: svētības, robežas un aizsardzības lūgums."
-    }
-  ],
-  "translation": "Un Jābecs piesauca Jisraēla Elohim, sacīdams: Ak, vai Tu svētītu mani patiesi un paplašinātu manu robežu, un Tava roka būtu ar mani, un Tu darītu labu, lai mani nesagādātu sāpes! Un Elohim atnesa ⟨את⟩ to, ko viņš lūdza.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/9-12.1792531074715.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Japecs piesauca Jisraēla Elohim, sacīdams: Ja Tu svētīdams svētīsi mani un paplašināsi ⟨את⟩ manu robežu, un Tava roka būs ar mani, un Tu darīsi labu, lai es neciestu sāpes — un Elohim pielaida ⟨את⟩ to, ko viņš lūdza.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "יעבץ",
-      "gloss": "Jābecs"
+      "gloss": "Japecs"
     },
     {
       "surface": "לאלהי",
-      "gloss": "Jisraēla Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -60,19 +29,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "Ak, vai"
+      "gloss": "Ja"
     },
     {
       "surface": "ברך",
-      "gloss": "svētītu"
+      "gloss": "svētīdams"
     },
     {
       "surface": "תברכני",
-      "gloss": "Tu svētītu mani"
+      "gloss": "svētīsi mani"
     },
     {
       "surface": "והרבית",
-      "gloss": "un paplašinātu"
+      "gloss": "un paplašināsi"
     },
     {
       "surface": "את",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "un būtu"
+      "gloss": "un būs"
     },
     {
       "surface": "ידך",
@@ -97,23 +66,23 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "un Tu darītu"
+      "gloss": "un darīsi"
     },
     {
       "surface": "מרעה",
-      "gloss": "labu (no ļaunā atbrīvojumu)"
+      "gloss": "labu"
     },
     {
       "surface": "לבלתי",
-      "gloss": "lai ne"
+      "gloss": "lai es ne"
     },
     {
       "surface": "עצבי",
-      "gloss": "manesagādātu sāpes"
+      "gloss": "ciestu sāpes"
     },
     {
       "surface": "ויבא",
-      "gloss": "Un atnesa"
+      "gloss": "un pielaida"
     },
     {
       "surface": "אלהים",
@@ -133,6 +102,6 @@
       "gloss": "viņš lūdza"
     }
   ],
-  "timestamp": "2026-10-20T21:17:54.716998570Z",
+  "timestamp": "2026-10-20T22:32:29.000360985Z",
   "model": "glm-5.3"
 }

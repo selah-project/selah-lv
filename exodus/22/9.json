@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "דּ vel adpositions in lv pievienojas darbības vārdam; glosa izlaista, lai izvairītos no dubultas locījuma"
-    },
-    {
-      "kind": "crux",
-      "subject": "נשבה",
-      "rationale": "'aizdzīts\/iefs nolaupīts' — šeit no שבה (aizvest), KJV 'driven away', JPS 'driven away', YLT 'taken captive'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אין רואה",
-      "rationale": "'nav, kas redz' — burtiski 'nav redzētāja'; drukā saglabāts burtiskais skaitlis"
-    }
-  ],
-  "translation": "Ja kāds cilvēks dod savam tuvākajam ēzeli, vai vērsi, vai jēru, vai jebkādu lopu glabāt, un tas nomirst, vai tiek salauzts, vai aizdzīts, nav ⟨tāda, kas⟩ redz:",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/9-12.1792513070018.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kāds vīrs dod savam tuvākam ēzeli, vai vērsi, vai jēru, vai jebkādus lopus glabāšanai, un tas nomirst, vai tiek saspiests, vai tiek aizdzīts — nav redzētāja:",
   "tokens": [
     {
       "surface": "כי",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "kāds cilvēks"
+      "gloss": "kāds vīrs"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "savam"
     },
     {
       "surface": "רעהו",
-      "gloss": "savam tuvākajam"
+      "gloss": "tuvākam"
     },
     {
       "surface": "חמור",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "vai jebkādu"
+      "gloss": "vai jebkādus"
     },
     {
       "surface": "בהמה",
-      "gloss": "lopu"
+      "gloss": "lopus"
     },
     {
       "surface": "לשמר",
-      "gloss": "glabāt"
+      "gloss": "glabāšanai"
     },
     {
       "surface": "ומת",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "נשבר",
-      "gloss": "tiekt salauzts"
+      "gloss": "tas tiek saspiests"
     },
     {
       "surface": "או",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "נשבה",
-      "gloss": "aizdzīts"
+      "gloss": "tas tiek aizdzīts"
     },
     {
       "surface": "אין",
@@ -111,9 +85,9 @@
     },
     {
       "surface": "ראה",
-      "gloss": "redz"
+      "gloss": "redzētāja"
     }
   ],
-  "timestamp": "2026-10-20T16:17:50.019367497Z",
+  "timestamp": "2026-10-20T22:42:18.625631302Z",
   "model": "glm-5.3"
 }

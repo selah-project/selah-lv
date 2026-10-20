@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Divkāršs saiklis, ko ebreju frāze bez darbības vārda nepieprasa latviešu valodā"
-    },
-    {
-      "kind": "you",
-      "subject": "Natans Davidam",
-      "rationale": "Tieša uzruna — Natanam personīgs aicinājums Davīdam"
-    }
-  ],
-  "translation": "Un Natans sacīja Davidam: Darī visu, kas ⟨ir⟩ tavā sirdī, jo Elohim ⟨ir⟩ ar tevi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/17\/1-4.1792531462040.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Nātans sacīja Davida m: visu, kas ⟨ir⟩ tavā sirdī, dari, jo Elohim ⟨ir⟩ ar tevi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "נתן",
-      "gloss": "Natans"
+      "gloss": "Nātans"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidam"
+      "gloss": "Davida m"
     },
     {
       "surface": "כל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Darī"
+      "gloss": "dari"
     },
     {
       "surface": "כי",
@@ -73,6 +52,6 @@
       "gloss": "ar tevi"
     }
   ],
-  "timestamp": "2026-10-20T21:24:22.041329201Z",
+  "timestamp": "2026-10-20T22:31:49.365487365Z",
   "model": "glm-5.3"
 }

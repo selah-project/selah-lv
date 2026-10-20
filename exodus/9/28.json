@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ורב מהית",
-      "rationale": "Burtiski «un pietiek no būt» — «lai vairs nav»; izteiksme par pārpilnību, kas beigusies."
-    },
-    {
-      "kind": "crux",
-      "subject": "קלת אלהים",
-      "rationale": "«Elohim balsis» — pārnēsājums par pērkona dārdiem; daudzi tulkotāji liek vienkārši «pērkons», šeit saglabāts Elohim burtiski."
-    },
-    {
-      "kind": "you",
-      "subject": "Mošem un Aharonam",
-      "rationale": "Faraona lūgums turpinās — tieša uzruna Mošem un Aharonam."
-    },
-    {
-      "kind": "elision",
-      "subject": "לעמד",
-      "rationale": "Burtiski «stāvēt» — «palikt»; latviski pievienots ⟨šeit⟩ vietu skaidrojumam."
-    }
-  ],
-  "translation": "Lūdzieties pie Jahves, un lai vairs ⟨nav⟩ Elohim balsu un krusas; tad es jūs palaidīšu, un jūs vairs nepaliksiet ⟨šeit⟩.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/25-28.1792512835395.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lūdziet Jahvi, jo pietiek ⟨ir⟩ šo Elohim balšu un krusas, un es atlaidīšu ⟨את⟩ jūs, un jūs vairs neturpināsiet palikt.”",
   "tokens": [
     {
       "surface": "העתירו",
-      "gloss": "lūdzieties"
+      "gloss": "Lūdziet"
     },
     {
       "surface": "אל",
@@ -52,15 +21,15 @@
     },
     {
       "surface": "ורב",
-      "gloss": "un lai vairs"
+      "gloss": "jo pietiek"
     },
     {
       "surface": "מהית",
-      "gloss": "nav"
+      "gloss": "ir"
     },
     {
       "surface": "קלת",
-      "gloss": "balsu"
+      "gloss": "balšu"
     },
     {
       "surface": "אלהים",
@@ -72,11 +41,12 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "tad es palaidīšu"
+      "gloss": "un es atlaidīšu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "ולא",
@@ -84,13 +54,13 @@
     },
     {
       "surface": "תספון",
-      "gloss": "nepaliksiet"
+      "gloss": "neturpināsiet"
     },
     {
       "surface": "לעמד",
-      "gloss": "šeit"
+      "gloss": "palikt"
     }
   ],
-  "timestamp": "2026-10-20T16:13:55.396238886Z",
+  "timestamp": "2026-10-20T23:01:22.534616622Z",
   "model": "glm-5.3"
 }

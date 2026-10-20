@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dzīvības",
-      "rationale": "נפשות ir 'elpojošas būtnes, dzīvības spēks', ne tikai 'dvēseles'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "palīdzēs",
-      "rationale": "יעשה burtiski 'darīs (viņam)'; konteksts prasa 'palīdzēs', kā lielākā daļa tulkojumu"
-    }
-  ],
-  "translation": "Un ne ar lielu karaspēku un ne ar lielu pulku Faraons viņam palīdzēs karā, lejot valni un ceļot aplenktorņus, lai iznīcinātu daudzas dzīvības.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "be0978ccc929a9c28b4ba27c5d5ae05661c75d4b0020e6ff57555d033de0f734",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/17\/17-20.1792525021797.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ne ar lielu spēku un ne ar skaitļu pulku Paro viņam palīdzēs karā, izgāžot valni un celjot aplenktorņa sienu, lai iznīcinātu daudzas dvēseles.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Un ne"
+      "gloss": "un ne"
     },
     {
       "surface": "בחיל",
-      "gloss": "ar karaspēku"
+      "gloss": "ar spēku"
     },
     {
       "surface": "גדול",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "lielu"
+      "gloss": "skaitļu"
     },
     {
       "surface": "יעשה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faraons"
+      "gloss": "Paro"
     },
     {
       "surface": "במלחמה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בשפך",
-      "gloss": "lejot"
+      "gloss": "izgāžot"
     },
     {
       "surface": "סללה",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ובבנות",
-      "gloss": "un ceļot"
+      "gloss": "un celjot"
     },
     {
       "surface": "דיק",
-      "gloss": "aplenktorni"
+      "gloss": "aplenktorņa sienu"
     },
     {
       "surface": "להכרית",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "נפשות",
-      "gloss": "dzīvības"
+      "gloss": "dvēseles"
     },
     {
       "surface": "רבות",
       "gloss": "daudzas"
     }
   ],
-  "timestamp": "2026-10-20T19:37:01.798263114Z",
+  "timestamp": "2026-10-20T22:43:51.509130588Z",
   "model": "glm-5.3"
 }

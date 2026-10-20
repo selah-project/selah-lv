@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תשכב בעבטו",
-      "rationale": "Literāri 'neguli viņa ķīlā' — ķīla aizturēta pa nakti; latviski 'neguli ar'."
-    }
-  ],
-  "translation": "Un ja viņš ir nabaga vīrs, neguli ar viņa ķīlu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cdf8b6e50b4230c3fef408b52b36eddd2e935af721eb46878f63230031d1d515",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/24\/9-12.1792517176561.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ja ⟨tas⟩ vīrs ir nabags, tu nedrīksti guldīties ar viņa ķīlu.",
   "tokens": [
     {
       "surface": "ואם",
@@ -33,25 +17,25 @@
     },
     {
       "surface": "עני",
-      "gloss": "nabaga"
+      "gloss": "nabags"
     },
     {
       "surface": "הוא",
-      "gloss": "viņš ir"
+      "gloss": "⟨ir⟩"
     },
     {
       "surface": "לא",
-      "gloss": "neguli"
+      "gloss": "nedrīksti"
     },
     {
       "surface": "תשכב",
-      "gloss": ""
+      "gloss": "guldīties"
     },
     {
       "surface": "בעבטו",
       "gloss": "ar viņa ķīlu"
     }
   ],
-  "timestamp": "2026-10-20T17:26:16.571873068Z",
+  "timestamp": "2026-10-20T22:40:06.547288471Z",
   "model": "glm-5.3"
 }

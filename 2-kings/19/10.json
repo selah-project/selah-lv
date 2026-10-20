@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Hizkijam",
-      "rationale": "Sanheriba vēstule tieši vērsta pie Hizkijas, Jūdas ķēniņa"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "prievārds 'pie' saplūst ar vārdu Hizkijam latviešu lokījumā"
-    }
-  ],
-  "translation": "Tā sakiet Hizkijam, Jūdas ķēniņam: Lai nepieviļ tevi tavs Elohim, uz kuru tu paļaujies, sacīdams: Jerušalaima netiks nodota Ašūras ķēniņa rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/19\/9-12.1792521566759.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tā sakiet Hizkijam, Jūdas ķēniņam: Lai tavas Elohim, uz ko tu ceri, tevi nepieviltu, sacīdami: Jerušalaima netiks nodota Asīrijas ķēniņa rokā.",
   "tokens": [
     {
       "surface": "כה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "sacīdami"
     },
     {
       "surface": "אל",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "ישאך",
-      "gloss": "pieviļ tevi"
+      "gloss": "pieviltu tevi"
     },
     {
       "surface": "אלהיך",
-      "gloss": "tavs Elohim"
+      "gloss": "tavas Elohim"
     },
     {
       "surface": "אשר",
-      "gloss": "uz kuru"
+      "gloss": "uz ko"
     },
     {
       "surface": "אתה",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "בטח",
-      "gloss": "paļaujies"
+      "gloss": "ceri"
     },
     {
       "surface": "בו",
-      "gloss": "uz viņu"
+      "gloss": "uz ⟨viņu⟩"
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "sacīdami"
     },
     {
       "surface": "לא",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "netiks nodota"
+      "gloss": "tiks nodota"
     },
     {
       "surface": "ירושלם",
@@ -110,9 +89,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ašūras"
+      "gloss": "Asīrijas"
     }
   ],
-  "timestamp": "2026-10-20T18:39:26.760444662Z",
+  "timestamp": "2026-10-20T22:37:03.321763476Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ושכבת את אבתיך",
-      "rationale": "Burtiski 'gulēsi ar saviem tēviem' — ebreju eifēmisms mirt; saglabāts burtiski"
-    },
-    {
-      "kind": "note",
-      "subject": "את אבתיך",
-      "rationale": "Šeit אֵת ir prievārds 'ar', nevis tiešā objekta marķieris — tāpēc bez ⟨את⟩ iekavām"
-    },
-    {
-      "kind": "you",
-      "subject": "Davids",
-      "rationale": "Jahve runā tieši ar Davidu"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ימיך",
-      "rationale": "Dzīves dienas skaitītas kā piepildāms mērs"
-    }
-  ],
-  "translation": "Kad tavas dienas būs piepildījušās un tu gulēsi ⟨את⟩ ar saviem tēviem, tad celšu augšā tavu sēklu pēc tevis, kas izies no tavām iekšām, un iestiprināšu ⟨את⟩ viņa ķēniņvalsti.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/7\/9-12.1792519737733.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kad tavas dienas būs piepildītas un tu gulēsi kopā ar ⟨את⟩ saviem tēviem, es celšu ⟨את⟩ tavu pēcnācēju pēc tevis, kas izies no tavām iekšām, un es nostiprināšu ⟨את⟩ viņa ķēniņvalsti.",
   "tokens": [
     {
       "surface": "כי",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "ימלאו",
-      "gloss": "būs piepildījušās"
+      "gloss": "būs piepildītas"
     },
     {
       "surface": "ימיך",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ar"
+      "gloss": "⟨את⟩ kopā ⟨ar⟩"
     },
     {
       "surface": "אבתיך",
@@ -64,16 +33,16 @@
     },
     {
       "surface": "והקימתי",
-      "gloss": "celšu augšā"
+      "gloss": "un es celšu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tavu sēklu"
+      "marks": "tavu pēcnācēju (zēruak = tavu sēklu\/pēcnācēju)"
     },
     {
       "surface": "זרעך",
-      "gloss": "tavu sēklu"
+      "gloss": "tavu pēcnācēju"
     },
     {
       "surface": "אחריך",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "והכינתי",
-      "gloss": "un iestiprināšu"
+      "gloss": "un es nostiprināšu"
     },
     {
       "surface": "את",
@@ -105,6 +74,6 @@
       "gloss": "viņa ķēniņvalsti"
     }
   ],
-  "timestamp": "2026-10-20T18:08:57.735372029Z",
+  "timestamp": "2026-10-20T22:38:44.519018979Z",
   "model": "glm-5.3"
 }

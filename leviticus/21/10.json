@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מלא את ידו",
-      "rationale": "burtiski 'pildīja ⟨את⟩ viņa roku' — iesvētīšanas idioms, latviskajā glabāts burtiskais attēls 'pilnināja roku'"
-    },
-    {
-      "kind": "crux",
-      "subject": "לא יפרע",
-      "rationale": "'nesalaizīs matus brīvām' pret 'neatsegs galvu' (KJV) — פרע nozīmē atbrīvot\/atrisināt matus"
-    }
-  ],
-  "translation": "Un priesteris, lielākais no saviem brāļiem, uz kura galvu ir izlieta svaidīšanas eļļa un kura roka ⟨ir⟩ pilnināta, lai vilktu mugurā ⟨את⟩ tērpus, — ⟨את⟩ savu galvu viņš nesalaizīs brīvām un savus tērpus neplēsīs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/21\/9-12.1792515069344.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteris, lielākais no saviem brāļiem, uz kura galvas ir salieta svaidīšanas eļļa un kura roka ir piepildīta ⟨את⟩, lai vilktu mugurā ⟨את⟩ drēbes, savu galvu neseglos un savas drēbes neplēsīs.",
   "tokens": [
     {
       "surface": "והכהן",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurš"
+      "gloss": "uz kura"
     },
     {
       "surface": "יוצק",
-      "gloss": "ir izlieta"
+      "gloss": "ir salieta"
     },
     {
       "surface": "על",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "viņa galvu"
+      "gloss": "galvas"
     },
     {
       "surface": "שמן",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "ומלא",
-      "gloss": "un pilnināja"
+      "gloss": "un ir piepildīta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņa roku"
+      "marks": "viņa roka"
     },
     {
       "surface": "ידו",
-      "gloss": "viņa roku"
+      "gloss": "viņa roka"
     },
     {
       "surface": "ללבש",
@@ -84,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tērpus"
+      "marks": "drēbes"
     },
     {
       "surface": "הבגדים",
-      "gloss": "tērpus"
+      "gloss": "drēbes"
     },
     {
       "surface": "את",
@@ -105,11 +84,11 @@
     },
     {
       "surface": "יפרע",
-      "gloss": "nesalaizīs brīvām"
+      "gloss": "seglos"
     },
     {
       "surface": "ובגדיו",
-      "gloss": "un savus tērpus"
+      "gloss": "un savas drēbes"
     },
     {
       "surface": "לא",
@@ -117,9 +96,9 @@
     },
     {
       "surface": "יפרם",
-      "gloss": "neplēsīs"
+      "gloss": "plēsīs"
     }
   ],
-  "timestamp": "2026-10-20T16:51:09.347576314Z",
+  "timestamp": "2026-10-20T22:55:53.680412542Z",
   "model": "glm-5.3"
 }

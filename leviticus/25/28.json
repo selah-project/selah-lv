@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "roka nav atradusi",
-      "rationale": "ebr. 'roka neatrada pietiekami' = nespēja sameklēt līdzekļus"
-    },
-    {
-      "kind": "measurement",
-      "subject": "jūbela gads",
-      "rationale": "laika termiņš — pārdošums spēkā līdz jūbela gadam, kad zeme atgriežas"
-    }
-  ],
-  "translation": "Bet ja viņa roka nav atradusi pietiekami, lai viņam atmaksātu, tad viņa pārdotais paliek pircēja rokā līdz jūbela gadam; un jūbelī tas iziet, un viņš atgriežas savā īpašumā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/25-28.1792515227479.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ja viņa roka nav atradusi pietiekami, lai atdotu viņam, tad viņa pārdotais paliks pircēja rokā līdz jubeļa gadam; un jubeļa gadā tas izies, un viņš atgriezīsies savā īpašumā.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "bet ja"
+      "gloss": "Un ja"
     },
     {
       "surface": "לא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "lai atmaksātu"
+      "gloss": "lai atdotu"
     },
     {
       "surface": "לו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "tad ir"
+      "gloss": "tad"
     },
     {
       "surface": "ממכרו",
@@ -87,25 +66,25 @@
     },
     {
       "surface": "היובל",
-      "gloss": "jūbela"
+      "gloss": "jubeļa"
     },
     {
       "surface": "ויצא",
-      "gloss": "un iziet"
+      "gloss": "izies"
     },
     {
       "surface": "ביבל",
-      "gloss": "jūbelī"
+      "gloss": "jubeļa gadā"
     },
     {
       "surface": "ושב",
-      "gloss": "un atgriežas"
+      "gloss": "atgriezīsies"
     },
     {
       "surface": "לאחזתו",
       "gloss": "savā īpašumā"
     }
   ],
-  "timestamp": "2026-10-20T16:53:47.483923628Z",
+  "timestamp": "2026-10-20T22:55:57.252329014Z",
   "model": "glm-5.3"
 }

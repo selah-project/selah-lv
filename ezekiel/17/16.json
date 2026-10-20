@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "burtiski 'ja ne' — apzvēresta formula, kas apstiprina: 'citādi nevar būt'"
-    },
-    {
-      "kind": "crux",
-      "subject": "במקום המלך",
-      "rationale": "KJV 'kur ķēniņš dzīvo' pret YLT 'ķēniņa vietā, kas viņu cēla' — hv 'valdnieka vietā' ebreju tekstā nav darbības vārda 'dzīvot'"
-    }
-  ],
-  "translation": "Es dzīvojos, saka Adonai Jahve: ja ne — ķēniņa vietā, kas viņu cēla ķēniņā, kura zvērestu viņš nicināja un kura derību viņš lauza, — ⟨את⟩ viņu Babilonas vidū viņš nomirs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/17\/13-16.1792525047394.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Cik es dzīvoju, saka Adonai Jahve: vai ne tur, kur ķēniņš, kas ⟨את⟩ viņu iecēla par ķēniņu, kura zvērestu viņš nicināja un kura derību viņš pārkāpa — ⟨את⟩ ar viņu Babilonijas vidū viņš mirs.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Es dzīvojos"
+      "gloss": "dzīvoju"
     },
     {
       "surface": "אני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "saka (oracle)"
+      "gloss": "saka"
     },
     {
       "surface": "אדני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ja"
+      "gloss": "vai"
     },
     {
       "surface": "לא",
@@ -58,28 +37,28 @@
     },
     {
       "surface": "במקום",
-      "gloss": "vietā"
+      "gloss": "tur, vietā"
     },
     {
       "surface": "המלך",
-      "gloss": "ķēniņa"
+      "gloss": "ķēniņš"
     },
     {
       "surface": "הממליך",
-      "gloss": "kas cēla ķēniņā"
+      "gloss": "kas iecēla par ķēniņu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu",
-      "marks": "viņu (ķēniņā celtais)"
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
     },
     {
       "surface": "אשר",
-      "gloss": "kura"
+      "gloss": "kurš"
     },
     {
       "surface": "בזה",
-      "gloss": "viņš nicināja"
+      "gloss": "nicināja"
     },
     {
       "surface": "את",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "הפר",
-      "gloss": "viņš lauza"
+      "gloss": "pārkāpa"
     },
     {
       "surface": "את",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ar viņu"
+      "gloss": "ar ⟨את⟩ viņu"
     },
     {
       "surface": "בתוך",
@@ -117,13 +96,13 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilonas"
+      "gloss": "Babilonijas"
     },
     {
       "surface": "ימות",
-      "gloss": "viņš nomirs"
+      "gloss": "viņš mirs"
     }
   ],
-  "timestamp": "2026-10-20T19:37:27.395703237Z",
+  "timestamp": "2026-10-20T22:44:00.018535388Z",
   "model": "glm-5.3"
 }

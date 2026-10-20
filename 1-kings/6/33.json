@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מאת רבעית",
-      "rationale": "'no ceturtaļas' — KJV\/JPS pievieno 'sienas' vai 'četrstūrveida rāmi'; ebreju teksts saka tikai 'no ceturtaļas'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨sienas⟩",
-      "rationale": "Ivriešu tekstā 'siena' nav; pievienots pēc KJV tradīcijas, lai ceturtaļa būtu saprotama."
-    },
-    {
-      "kind": "measurement",
-      "subject": "רבעית",
-      "rationale": "Pants satur mēra norādi — ceturto daļu."
-    }
-  ],
-  "translation": "Tāpat viņš izgatavoja tempļa ieejai durvju stabus no olīvkoka — no ceturtaļas ⟨sienas⟩.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/6\/33-36.1792520511735.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tāpat viņš darīja ⟨את⟩ hēikala ieejai — sliekšņus no eļļas koka kokmateriāla, ⟨no⟩ ceturtdaļas.",
   "tokens": [
     {
       "surface": "וכן",
-      "gloss": "tāpat"
+      "gloss": "Un tāpat"
     },
     {
       "surface": "עשה",
-      "gloss": "izgatavoja"
+      "gloss": "viņš darīja"
     },
     {
       "surface": "לפתח",
@@ -47,30 +21,30 @@
     },
     {
       "surface": "ההיכל",
-      "gloss": "tempļa"
+      "gloss": "hēikala"
     },
     {
       "surface": "מזוזות",
-      "gloss": "durvju stabi"
+      "gloss": "sliekšņus"
     },
     {
       "surface": "עצי",
-      "gloss": "koks"
+      "gloss": "kokmateriāla"
     },
     {
       "surface": "שמן",
-      "gloss": "olīvkoka"
+      "gloss": "eļļas koka"
     },
     {
       "surface": "מאת",
-      "gloss": "no ⟨את⟩",
-      "marks": "ceturtaļas"
+      "gloss": "⟨את⟩",
+      "marks": "eļļas koka kokmateriāla"
     },
     {
       "surface": "רבעית",
-      "gloss": "ceturtaļa"
+      "gloss": "ceturtdaļas"
     }
   ],
-  "timestamp": "2026-10-20T18:21:51.736409191Z",
+  "timestamp": "2026-10-20T22:32:35.938013452Z",
   "model": "glm-5.3"
 }

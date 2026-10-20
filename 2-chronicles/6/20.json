@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמך שם",
-      "rationale": "Vārda 'šem' (Vārds) un apstārkļa 'šam' (tur) skaņu atbalss — zuduma risks latviešu tulkojumā"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל (pēc לשמוע)",
-      "rationale": "Izraēla semītiskais 'klausīties uz' — latviski 'dzirdētu' pievēršas lūgšanai bez prievārda"
-    }
-  ],
-  "translation": "Lai tavas acis būtu atvērtas pret šo namu dienu un nakti, pret vietu, par kuru tu sacīji likt tur savu Vārdu, lai dzirdētu lūgšanu, ko tavs kalps skaita pret šo vietu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/6\/17-20.1792531762415.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lai tavas acis ⟨ir⟩ atvērtas uz šo namu dienu un nakti, uz vietu, par kuru tu esi teicis likt tur savu Vārdu, lai dzirdētu lūgšanu, ko tavs kalps lūdz uz šo vietu.",
   "tokens": [
     {
       "surface": "להיות",
-      "gloss": "Lai būtu"
+      "gloss": "lai ⟨ir⟩"
     },
     {
       "surface": "עיניך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "pret"
+      "gloss": "uz"
     },
     {
       "surface": "הבית",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "pret"
+      "gloss": "uz"
     },
     {
       "surface": "המקום",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "tu sacīji"
+      "gloss": "tu esi teicis"
     },
     {
       "surface": "לשום",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "התפלה",
@@ -106,7 +85,7 @@
     },
     {
       "surface": "יתפלל",
-      "gloss": "skaita"
+      "gloss": "lūdz"
     },
     {
       "surface": "עבדך",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "pret"
+      "gloss": "uz"
     },
     {
       "surface": "המקום",
@@ -125,6 +104,6 @@
       "gloss": "šo"
     }
   ],
-  "timestamp": "2026-10-20T21:29:22.417047911Z",
+  "timestamp": "2026-10-20T22:35:58.082883459Z",
   "model": "glm-5.3"
 }

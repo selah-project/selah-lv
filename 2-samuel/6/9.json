@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bijās bail",
-      "rationale": "וירא ir 'baidījās\/bijās ar godbijību'; latviski viens vārds nav pietiekams 'bīties un godbijīt' divējābai nozīmei"
-    },
-    {
-      "kind": "you",
-      "subject": "Kā Jahves šķirstis nāks pie manis?",
-      "rationale": "Davida jautājums ar tiešu pavērsienu pie sevis — tieša runa"
-    }
-  ],
-  "translation": "Un Davids to dienu bijās bail no Jahves, un viņš sacīja: Kā Jahves šķirstis nāks pie manis?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/6\/9-12.1792519731417.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Davids tobrīd baidījās no Jahves ⟨את⟩ un sacīja: Kā lai pie manis nāk Jahves šķirsts?",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "bijās bail"
+      "gloss": "un baidījās"
     },
     {
       "surface": "דוד",
@@ -39,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "no Jahves"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahve"
     },
     {
       "surface": "ביום",
-      "gloss": "to dienu"
+      "gloss": "tanjā dienā"
     },
     {
       "surface": "ההוא",
-      "gloss": "to"
+      "gloss": "tā"
     },
     {
       "surface": "ויאמר",
-      "gloss": "un viņš sacīja"
+      "gloss": "un sacīja"
     },
     {
       "surface": "איך",
-      "gloss": "Kā"
+      "gloss": "kā"
     },
     {
       "surface": "יבוא",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "ארון",
-      "gloss": "šķirstis"
+      "gloss": "šķirsts"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T18:08:51.418724511Z",
+  "timestamp": "2026-10-20T22:38:29.071267933Z",
   "model": "glm-5.3"
 }

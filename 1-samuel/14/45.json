@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חלילה",
-      "rationale": "Burtiski 'apgānīta lieta'; latviskais izsauciens 'Lai tas nenotiek!' sniedz nozīmi, ne burtu."
-    },
-    {
-      "kind": "crux",
-      "subject": "היונתן ימות",
-      "rationale": "Jautājuma partikula ה trūkst latviešu valodā — 'Vai' pievienots; ebreju jautājums izteikts ar uzsvari."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Virziens 'pie' iekļauts lokatīvā 'Šaulam'."
-    }
-  ],
-  "translation": "Un ļaudis sacīja Šaulam: Vai Jonatānam mirt, tam, kas paveca šo lielo pestīšanu Jisraēlā? Lai tas nenotiek! Patiesi, dzīvs ir Jahve, ja no matiņa viņa galvas nokritīs uz zemi, jo ar Elohim viņš paveica šo šodien. Un ļaudis izglāba ⟨את⟩ Jonatānu, un viņš nemira.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ca69a4d5f5fcbe18d345bcc6c26bf0aa10cc6a94d482d0ba5dc7c4e76beed602",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/45-48.1792519081127.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ļaudis sacīja Šaulam: vai Jonatānam jāmirst, ⟨tam⟩ kurš darīja šo lielo pestīšanu Jisraēlā? Lai nekad! Tik dzīvs ir Jahve, ja no viņa galvas matiņa nokritīs zemē, jo ar Elohim ⟨palīdzību⟩ viņš šodien to darīja. Un ļaudis izglāba ⟨את⟩ Jonatānu, un viņš nomira.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulam"
+      "gloss": "Šaulu"
     },
     {
       "surface": "היונתן",
-      "gloss": "Jonatānam"
+      "gloss": "vai Jonatānam"
     },
     {
       "surface": "ימות",
-      "gloss": "mirt"
+      "gloss": "jāmirst"
     },
     {
       "surface": "אשר",
-      "gloss": "tam, kas"
+      "gloss": "kurš"
     },
     {
       "surface": "עשה",
-      "gloss": "paveca"
+      "gloss": "darīja"
     },
     {
       "surface": "הישועה",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "Lai tas nenotiek!"
+      "gloss": "Lai nekad"
     },
     {
       "surface": "חי",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "משערת",
-      "gloss": "no matiņa"
+      "gloss": "matiņa"
     },
     {
       "surface": "ראשו",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "uz zemi"
+      "gloss": "zemē"
     },
     {
       "surface": "כי",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "paveica"
+      "gloss": "darīja"
     },
     {
       "surface": "היום",
@@ -139,7 +113,7 @@
     },
     {
       "surface": "ויפדו",
-      "gloss": "Un izglāba"
+      "gloss": "izglāba"
     },
     {
       "surface": "העם",
@@ -160,9 +134,9 @@
     },
     {
       "surface": "מת",
-      "gloss": "mira"
+      "gloss": "nomira"
     }
   ],
-  "timestamp": "2026-10-20T17:58:01.128549014Z",
+  "timestamp": "2026-10-20T22:33:40.954291327Z",
   "model": "glm-5.3"
 }

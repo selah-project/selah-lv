@@ -5,45 +5,19 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esi",
-      "rationale": "latviešu valodai vajadzīgs saiklis, ebreju valodā nav."
-    },
-    {
-      "kind": "crux",
-      "subject": "בודד במועדיו",
-      "rationale": "'neviena atsevišķa viņa norunātajos laikos\/pulku ierindā' — tulki svārstās stark 'atpalicējs pulkā' un 'viens pats savā laikā'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הילילי...זעקי...נמוג",
-      "rationale": "kāstoņa trijnieks: kauciens, kliedziens, kušana — zaudēta fonētiskā virkne."
-    }
-  ],
-  "translation": "Kaū, vārti; kliedz, pilsēta; izkususi ⟨esi⟩, Pelešeta, visa tu! Jo no ziemeļiem nāk dūmi, un nav neviena, kas atpaliktu no viņa pulkiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/29-32.1792522090211.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kauci, vārtu; klieg, pilsēta; izkūsti, Pelešeta, ⟨visa⟩ tu! Jo no ziemeļiem nāk dūmi, un nav neviena vientuļa savos noteiktajos laikos.",
   "tokens": [
     {
       "surface": "הילילי",
-      "gloss": "kaū"
+      "gloss": "Kauci"
     },
     {
       "surface": "שער",
-      "gloss": "vārti"
+      "gloss": "vārtu"
     },
     {
       "surface": "זעקי",
-      "gloss": "kliedz"
+      "gloss": "klieg"
     },
     {
       "surface": "עיר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "נמוג",
-      "gloss": "izkususi"
+      "gloss": "izkūsti"
     },
     {
       "surface": "פלשת",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "כלך",
-      "gloss": "visa tu"
+      "gloss": "⟨visa⟩ tu"
     },
     {
       "surface": "כי",
-      "gloss": "jo"
+      "gloss": "Jo"
     },
     {
       "surface": "מצפון",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "ואין",
-      "gloss": "un nav"
+      "gloss": "un nav neviena"
     },
     {
       "surface": "בודד",
-      "gloss": "kas atpaliktu"
+      "gloss": "vientuļa"
     },
     {
-      "surface": "במועדיv",
-      "gloss": "no viņa pulkiem"
+      "surface": "במועדיו",
+      "gloss": "savos noteiktajos laikos"
     }
   ],
-  "timestamp": "2026-10-20T18:48:10.212635237Z",
+  "timestamp": "2026-10-20T22:47:31.279796188Z",
   "model": "glm-5.3"
 }

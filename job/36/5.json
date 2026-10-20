@@ -5,33 +5,7 @@
   "book": "job",
   "lang": "lv",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nevienu \/ ir",
-      "rationale": "Ebreju tekstā nav objekta 'neviens' un nav kopulas; abas pievienotas latviešu teikuma struktūrai."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כביר ... כביר",
-      "rationale": "Vārds 'varens' atkārtots divreiz — ietvars ap El spēku; latviešu atkārtojums to saglabā."
-    },
-    {
-      "kind": "crux",
-      "subject": "כח לב",
-      "rationale": "Burtiski 'spēks sirds': KJV 'strength and wisdom', YLT 'power and heart'; dots 'sirds”\tno\tpriekšstats\tparsēts: izvēlēts 'spēkā un sirdī'."
-    }
-  ],
-  "translation": "Redzi, El ir varens un nenicina ⟨nevienu⟩; varens ⟨ir⟩ spēkā un sirdī.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/36\/5-8.1792529510778.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Redzi, El ir varens un ⟨את⟩ neviena neatsakās, varens spēkā un sirdī.",
   "tokens": [
     {
       "surface": "הן",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un nenicina"
+      "gloss": "un ne"
     },
     {
       "surface": "ימאס",
-      "gloss": ""
+      "gloss": "atsakās"
     },
     {
       "surface": "כביר",
@@ -66,6 +40,6 @@
       "gloss": "sirdī"
     }
   ],
-  "timestamp": "2026-10-20T20:51:50.778959301Z",
+  "timestamp": "2026-10-20T22:51:44.336571624Z",
   "model": "glm-5.3"
 }

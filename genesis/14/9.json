@@ -5,38 +5,12 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "Sākuma את norāda pretinieku — latviski pievienots ⟨Pret⟩, lai teikums stāv."
-    },
-    {
-      "kind": "substitution",
-      "subject": "גוים",
-      "rationale": "goji — tautu kopums, nav vienas tautas nosaukums."
-    },
-    {
-      "kind": "measurement",
-      "subject": "četri pret pieciem",
-      "rationale": "Ķēniņu skaitīšana — četri pret pieciem."
-    }
-  ],
-  "translation": "⟨Pret⟩ Kedorlaomeru, Elamas ķēniņu, un Tidalu, goju ķēniņu, un Amrafelu, Šinaras ķēniņu, un Arjoku, Elasaras ķēniņu — četri ķēniņi ⟨את⟩ pret pieciem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/14\/9-12.1792511642193.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ Kedorlaomeru, ķēniņam Elamas, un Tidalam, ķēniņam Gojima, un Amrafelam, ķēniņam Šīnāras, un Arjokam, ķēniņam Elasaras — četri ķēniņi ⟨את⟩ ⟨tos⟩ piecus.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kedorlaomeru, Elamas ķēniņu"
+      "marks": "Kedorlaomeru"
     },
     {
       "surface": "כדרלעמר",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņu"
+      "gloss": "ķēniņam"
     },
     {
       "surface": "עילם",
@@ -52,35 +26,35 @@
     },
     {
       "surface": "ותדעל",
-      "gloss": "un Tidalu"
+      "gloss": "un Tidalam"
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņu"
+      "gloss": "ķēniņam"
     },
     {
       "surface": "גוים",
-      "gloss": "goju"
+      "gloss": "Gojima"
     },
     {
       "surface": "ואמרפל",
-      "gloss": "un Amrafelu"
+      "gloss": "un Amrafelam"
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņu"
+      "gloss": "ķēniņam"
     },
     {
       "surface": "שנער",
-      "gloss": "Šinaras"
+      "gloss": "Šīnāras"
     },
     {
       "surface": "ואריוך",
-      "gloss": "un Arjoku"
+      "gloss": "un Arjokam"
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņu"
+      "gloss": "ķēniņam"
     },
     {
       "surface": "אלסר",
@@ -97,13 +71,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pieciem"
+      "marks": "⟨tos⟩ piecus"
     },
     {
       "surface": "החמשה",
-      "gloss": "pieciem"
+      "gloss": "piecus"
     }
   ],
-  "timestamp": "2026-10-20T15:54:02.194016701Z",
+  "timestamp": "2026-10-20T22:45:36.729567464Z",
   "model": "glm-5.3"
 }

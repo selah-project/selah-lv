@@ -5,43 +5,7 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esi",
-      "rationale": "Ebreju valodā nav saikļa: 'jo tu — mīļotības (daudzskaitlis)'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ļoti mīļots",
-      "rationale": "חמודות ir daudzskaitļa formas 'vēlamības' — 'vēlētu lietu vīrs'; tulkotāji: 'ļoti mīlēts' \/ 'vēlamu'."
-    },
-    {
-      "kind": "crux",
-      "subject": "vārds",
-      "rationale": "דבר — 'vārds' (JPS) pret 'pavēle' (KJV\/Ģeneve): izgāja vārds vai pavēle no Jahves?"
-    },
-    {
-      "kind": "secret",
-      "subject": "redzējums",
-      "rationale": "Daniēlam tiek pavēlēts ievākt prātā apslēpto redzējumu — atklāsmes motīvs."
-    },
-    {
-      "kind": "you",
-      "subject": "Gabriēls runā ar Daniēlu",
-      "rationale": "Imperatīvi tieši Daniēlam: 'saproti… ievāci prātā'."
-    }
-  ],
-  "translation": "Tavu lūgumu sākumā izgāja vārds, un es atnācu to pateikt, jo tu ⟨esi⟩ ļoti mīļots; tad saproti ⟨את⟩ vārdu un ievāci prātā ⟨את⟩ redzējumu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bb906e85a45df0a21f500a442a59a0894bb9fede8406a89d07f57b105a279bc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/9\/22-23.1792532898297.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tavu lūgšanu sākumā izgāja vārds, un es atnācu to paziņot, jo tu esi ļoti mīļots; tad saproti ⟨את⟩ vārdu un saproti ⟨את⟩ redzējumu.",
   "tokens": [
     {
       "surface": "בתחלת",
@@ -49,7 +13,7 @@
     },
     {
       "surface": "תחנוניך",
-      "gloss": "tavu lūgumu"
+      "gloss": "tavu lūgšanu"
     },
     {
       "surface": "יצא",
@@ -69,7 +33,7 @@
     },
     {
       "surface": "להגיד",
-      "gloss": "to pateikt"
+      "gloss": "paziņot"
     },
     {
       "surface": "כי",
@@ -81,7 +45,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "tu"
+      "gloss": "tu esi"
     },
     {
       "surface": "ובין",
@@ -89,17 +53,19 @@
     },
     {
       "surface": "בדבר",
-      "gloss": "⟨את⟩ vārdu"
+      "gloss": "⟨את⟩ vārdu",
+      "marks": "vārds"
     },
     {
       "surface": "והבן",
-      "gloss": "ievāci prātā"
+      "gloss": "un saproti"
     },
     {
       "surface": "במראה",
-      "gloss": "⟨את⟩ redzējumu"
+      "gloss": "⟨את⟩ redzējumu",
+      "marks": "redzējums"
     }
   ],
-  "timestamp": "2026-10-20T21:48:18.298309610Z",
+  "timestamp": "2026-10-20T22:39:38.016268242Z",
   "model": "glm-5.3"
 }

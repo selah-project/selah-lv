@@ -5,38 +5,7 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mierīgo smaržu",
-      "rationale": "הניחח ir atpūtas\/miera jēdziens — 'smarža, kas dod mieru', nevis vienkārši 'jauka'"
-    },
-    {
-      "kind": "crux",
-      "subject": "iedoma",
-      "rationale": "יצר רע: 'sirds veidojums\/iedoma' — vēlāk kļust par tehnisks termins 'ļaunā tieksme', šeit vēl tikai 'veidojums'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ניחח\/ניחום",
-      "rationale": "ניחח (mierīgā smarža) un וינחם — tā paša saknes skanējums, zudis latviski"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve sirdī",
-      "rationale": "Jahve runā pie sevis savā sirdī — iekšējs solījums, nav adresāts cilvēks"
-    }
-  ],
-  "translation": "Un Jahve sajuta ⟨את⟩ mierīgo smaržu, un Jahve sacīja savā sirdī: vairs nelādēšu ⟨את⟩ zemi cilvēka dēļ, jo cilvēka sirds iedoma ir ļauna no viņa jaunības, un vairs nesitu ⟨את⟩ visu dzīvo, kā esmu darījis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/8\/21-22.1792511506979.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sajuta ⟨את⟩ mierīgās smaržas, un Jahve sacīja savā sirdī: Vairs nesūdzēšu zemi cilvēka dēļ, jo cilvēka sirds iedibinājums ir ļauns no viņa jaunības, un vairs nesitīšu ⟨את⟩ visu dzīvo, kā esmu darījis.",
   "tokens": [
     {
       "surface": "וירח",
@@ -49,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mierīgo smaržu"
+      "marks": "mierīgās smaržas"
     },
     {
       "surface": "ריח",
-      "gloss": "smaržu"
+      "gloss": "smaržas"
     },
     {
       "surface": "הניחח",
-      "gloss": "mierīgo"
+      "gloss": "mierīgās"
     },
     {
       "surface": "ויאמר",
@@ -77,15 +46,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "vairs ne"
+      "gloss": "ne"
     },
     {
       "surface": "אסף",
-      "gloss": "nelādēšu"
+      "gloss": "vairs"
     },
     {
       "surface": "לקלל",
-      "gloss": ""
+      "gloss": "nesūdzēšu"
     },
     {
       "surface": "עוד",
@@ -114,7 +83,7 @@
     },
     {
       "surface": "יצר",
-      "gloss": "iedoma"
+      "gloss": "iedibinājums"
     },
     {
       "surface": "לב",
@@ -126,7 +95,7 @@
     },
     {
       "surface": "רע",
-      "gloss": "ļauna"
+      "gloss": "ļauns"
     },
     {
       "surface": "מנעריו",
@@ -134,11 +103,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un vairs ne"
+      "gloss": "un ne"
     },
     {
       "surface": "אסף",
-      "gloss": "nesitu"
+      "gloss": "vairs"
     },
     {
       "surface": "עוד",
@@ -146,7 +115,7 @@
     },
     {
       "surface": "להכות",
-      "gloss": ""
+      "gloss": "nesitīšu"
     },
     {
       "surface": "את",
@@ -170,6 +139,6 @@
       "gloss": "esmu darījis"
     }
   ],
-  "timestamp": "2026-10-20T15:51:46.979739571Z",
+  "timestamp": "2026-10-20T22:47:40.947870979Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "izpestītājs",
-      "rationale": "גואל nozīmē radinieku-izpirkēju pēc radniecības likuma, ne vienkārši 'izpestītāju'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ריב יריב \/ ריבם",
-      "rationale": "Saknes רי׬ atkārtojums — 'aizstāvēs viņu tiesu' — latviskajā atveidā zaudē spēli ar vārdiem"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הרגיע \/ הרגיז",
-      "rationale": "Pretstatīgie darbības vārdi: dot-mieru zemei pret sacelt-nemieru Bābelei — uzturēts atveidā"
-    }
-  ],
-  "translation": "Viņu izpestītājs ir stiprs, Jahve Cevaot ir Viņa vārds; Viņš pilnīgi aizstāvēs ⟨את⟩ viņu tiesu, lai dotu mieru zemei un saceltu nemieru Bābeles iedzīvotājiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "947d18e6784ac56f5d103f5fd2e8c66b02d1f1a62bb7d2efa262c8f3b3a3efee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/50\/33-36.1792524502428.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņu izpestītājs ir stiprs — Jahve Cevaot ⟨ir⟩ viņa vārds; viņš aizstāvēs viņu tiesu ⟨את⟩, lai dotu mieru zemei ⟨את⟩ un sakustināt Babeles iedzīvotājus.",
   "tokens": [
     {
       "surface": "גאלם",
-      "gloss": "viņu-izpestītājs"
+      "gloss": "viņu izpestītājs"
     },
     {
       "surface": "חזק",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "שמו",
-      "gloss": "Viņa-vārds"
+      "gloss": "viņa vārds"
     },
     {
       "surface": "ריב",
-      "gloss": "tiesu-aizstāvēs"
+      "gloss": "tiesu"
     },
     {
       "surface": "יריב",
-      "gloss": "pilnīgi"
+      "gloss": "aizstāvēs"
     },
     {
       "surface": "את",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "ריבם",
-      "gloss": "viņu-tiesu"
+      "gloss": "viņu tiesu"
     },
     {
       "surface": "למען",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "הרגיע",
-      "gloss": "dotu-mieru"
+      "gloss": "dotu mieru"
     },
     {
       "surface": "את",
@@ -89,17 +63,17 @@
     },
     {
       "surface": "והרגיז",
-      "gloss": "saceltu-nemieru"
+      "gloss": "un sakustināt"
     },
     {
       "surface": "לישבי",
-      "gloss": "iedzīvotājiem"
+      "gloss": "iedzīvotājus"
     },
     {
       "surface": "בבל",
-      "gloss": "Bābeles"
+      "gloss": "Babeles"
     }
   ],
-  "timestamp": "2026-10-20T19:28:22.429482447Z",
+  "timestamp": "2026-10-20T22:51:05.695335379Z",
   "model": "glm-5.3"
 }

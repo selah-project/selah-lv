@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סרני",
-      "rationale": "Filistiešu tituls 'sereni' — 'valdnieki\/firstri' (Daudzskaitļa forma, kas raksturīga tikai filistiešiem)."
-    },
-    {
-      "kind": "you",
-      "subject": "ekroniešu lūgums",
-      "rationale": "Tieša uzruna valdniekiem: imperatīvs 'Sūtiet projām', pirmā persona 'mani, manu tautu'."
-    }
-  ],
-  "translation": "Un tie sūtīja un sapulcēja ⟨את⟩ visus filistiešu valdniekus, un tie sacīja: Sūtiet projām ⟨את⟩ Jisraēla Elohim šķirstu, lai tas atgriežas savā vietā, un tas nenonāvē mani un ⟨את⟩ manu tautu, jo visā pilsētā bija nāves satricinājums, un Elohim roka bija tur ļoti smaga.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/5\/9-12.1792518866191.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi nosūtīja un sapulcēja ⟨את⟩ visus filistiešu sarnus, un viņi sacīja: Aizsūtiet ⟨את⟩ Jisraēla Elohim šķirstu, un lai tas atgriežas savā vietā, un lai tas nenonāvē ⟨את⟩ mani un ⟨את⟩ manu tautu, jo pilsētā bija nāves juceklis, ļoti smags — tur bija Elohim roka.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Un tie sūtīja"
+      "gloss": "un viņi nosūtīja"
     },
     {
       "surface": "ויאספו",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus valdniekus"
+      "marks": "visus filistiešu sarnus"
     },
     {
       "surface": "כל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "סרני",
-      "gloss": "valdniekus"
+      "gloss": "sarnus (valdniekus)"
     },
     {
       "surface": "פלשתים",
@@ -55,16 +34,16 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "un tie sacīja"
+      "gloss": "un viņi sacīja"
     },
     {
       "surface": "שלחו",
-      "gloss": "Sūtiet projām"
+      "gloss": "aizsūtiet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šķirstu"
+      "marks": "Jisraēla Elohim šķirstu"
     },
     {
       "surface": "ארון",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "lai tas atgriežas"
+      "gloss": "un lai tas atgriežas"
     },
     {
       "surface": "למקמו",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mani",
+      "gloss": "⟨את⟩",
       "marks": "mani"
     },
     {
@@ -118,7 +97,7 @@
     },
     {
       "surface": "מהומת",
-      "gloss": "satricinājums"
+      "gloss": "juceklis"
     },
     {
       "surface": "מות",
@@ -153,6 +132,6 @@
       "gloss": "tur"
     }
   ],
-  "timestamp": "2026-10-20T17:54:26.192872187Z",
+  "timestamp": "2026-10-20T22:34:54.528454448Z",
   "model": "glm-5.3"
 }

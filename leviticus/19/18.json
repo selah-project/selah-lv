@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nesargā ļaunumu",
-      "rationale": "נטר burtiski 'sargāt\/glabāt' — par dusmām: 'turēt prātā ļaunumu'; latviski pievienots 'ļaunumu', lai skaidrotu"
-    },
-    {
-      "kind": "addition",
-      "subject": "esmu",
-      "rationale": "Ebreju teikumam nav izsauksmes vārda; latviešu valodai vajag 'esmu'"
-    }
-  ],
-  "translation": "Neatrieb un nesargā ļaunumu pret sava tautas dēliem, bet mīli savu tuvāko kā sevi pašu; es ⟨esmu⟩ Jahve.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/17-20.1792514980515.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neatmaksā un nesargā ļaunu pret ⟨את⟩ sava tautas dēliem, bet mīli savu tuvāko kā ⟨sevi pašu⟩; es ⟨esmu⟩ Jahve.",
   "tokens": [
     {
       "surface": "לא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תקם",
-      "gloss": "atrieb"
+      "gloss": "atmaksā"
     },
     {
       "surface": "ולא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תטר",
-      "gloss": "sargā ļaunumu"
+      "gloss": "sargā ļaunu"
     },
     {
       "surface": "את",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "כמוך",
-      "gloss": "kā sevi pašu"
+      "gloss": "kā ⟨sevi pašu⟩"
     },
     {
       "surface": "אני",
@@ -78,6 +57,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T16:49:40.518545623Z",
+  "timestamp": "2026-10-20T22:55:17.389122698Z",
   "model": "glm-5.3"
 }

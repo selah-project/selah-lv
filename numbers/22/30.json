@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ההסכן הסכנתי",
-      "rationale": "Atkārtota sakne סכן (pierast\/būt pazīstamam): 'Vai pieradusi — pieradusi esmu' — jautājums un atbilde vienā formā; latviski zaudē spēku."
-    },
-    {
-      "kind": "you",
-      "subject": "ēzeļu māte runā ar Bileāmu",
-      "rationale": "Reti dzīvnieka runātāja tekstā; ironija — pravietis neredz to, ko redz ēzeļu māte."
-    }
-  ],
-  "translation": "Un ēzeļu māte sacīja Bileāmam: Vai es neesmu tava ēzeļu māte, uz kuras tu jāji no sava sākuma līdz šai dienai? Vai esmu pieradusi darīt tev tā? Un viņš sacīja: Nē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bce836cf692ace5da97acc02a3533a472ce87e23867afd01549cefb36a5ec027",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/22\/29-32.1792516064446.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ēzeļu māte sacīja Bileāmam: Vai es neesmu tava ēzeļu māte, uz kuras tu jāji no ⟨sava⟩ sākuma līdz šai dienai? Vai esmu paradusi darīt tev tā? Un viņš sacīja: Nē.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bileāmam"
+      "gloss": "Bileāma"
     },
     {
       "surface": "הלוא",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "עלי",
-      "gloss": "uz"
+      "gloss": "uz viņas"
     },
     {
       "surface": "מעודך",
-      "gloss": "no sava sākuma"
+      "gloss": "no ⟨sava⟩ sākuma"
     },
     {
       "surface": "עד",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "diena"
+      "gloss": "šai dienai"
     },
     {
       "surface": "הזה",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "ההסכן",
-      "gloss": "Vai esmu pieradusi"
+      "gloss": "Vai esmu paradusi"
     },
     {
       "surface": "הסכנתי",
-      "gloss": "pieradusi darīt"
+      "gloss": "esmu paradusi"
     },
     {
       "surface": "לעשות",
@@ -113,6 +92,6 @@
       "gloss": "Nē"
     }
   ],
-  "timestamp": "2026-10-20T17:07:44.447486061Z",
+  "timestamp": "2026-10-20T22:57:40.552173952Z",
   "model": "glm-5.3"
 }

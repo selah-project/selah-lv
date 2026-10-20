@@ -5,31 +5,15 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā trūkst palīgdarbības vārda 'būt' izteiksmē 'būšu iznīcinājis'"
-    }
-  ],
-  "translation": "Un es izkaisīšu tos starp tautām, kuras viņi paši un viņu tēvi nav pazinuši, un sūtīšu aiz viņiem ⟨את⟩ zobenu, kamēr es tos būšu iznīcinājis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/9\/13-16.1792523453043.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es izkliedēšu viņus tautu vidū, kuras nedz viņi, nedz viņu tēvi ir pazinuši, un sūtīšu viņiem pakaļ ⟨את⟩ zobenu, līdz būšu viņus ⟨את⟩ iznīcinājis.",
   "tokens": [
     {
       "surface": "והפצותים",
-      "gloss": "Un es izkaisīšu viņus"
+      "gloss": "Un Es izkliedēšu"
     },
     {
       "surface": "בגוים",
-      "gloss": "starp tautām"
+      "gloss": "tautu vidū"
     },
     {
       "surface": "אשר",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "nav"
+      "gloss": "nedz... nav"
     },
     {
       "surface": "ידעו",
@@ -45,19 +29,19 @@
     },
     {
       "surface": "המה",
-      "gloss": "viņi paši"
+      "gloss": "viņi"
     },
     {
       "surface": "ואבותם",
-      "gloss": "un viņu tēvi"
+      "gloss": "nedz viņu tēvi"
     },
     {
       "surface": "ושלחתי",
-      "gloss": "un es sūtīšu"
+      "gloss": "un sūtīšu"
     },
     {
       "surface": "אחריהם",
-      "gloss": "aiz viņiem"
+      "gloss": "viņiem pakaļ"
     },
     {
       "surface": "את",
@@ -70,17 +54,18 @@
     },
     {
       "surface": "עד",
-      "gloss": "kamēr"
+      "gloss": "līdz"
     },
     {
       "surface": "כלותי",
-      "gloss": "es būšu iznīcinājis"
+      "gloss": "būšu iznīcinājis"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tos"
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
     }
   ],
-  "timestamp": "2026-10-20T19:10:53.044317411Z",
+  "timestamp": "2026-10-20T22:51:52.356828479Z",
   "model": "glm-5.3"
 }

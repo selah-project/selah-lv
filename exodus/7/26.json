@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "laid",
-      "rationale": "שלח 'sūti prom, atlaid' — ebreju valodā viens darbības vārds"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošem un Para",
-      "rationale": "Jahve runā tieši pie Mošes, kurš runās pie Para"
-    }
-  ],
-  "translation": "Un Jahve sacīja Mošem: ej pie Para un saki viņam: Tā saka Jahve: lai ⟨⟨savāc⟩⟩ ⟨את⟩ manu tautu, lai tie Man kalpo.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/7\/25-28.1792512794476.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja Mošem: Ej pie Para un saki ⟨viņam⟩: Tā saka Jahve: Atlaid ⟨את⟩ manu tautu, un tie lai kalpo ⟨man⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "ej"
+      "gloss": "Ej"
     },
     {
       "surface": "אל",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "viņam"
+      "gloss": "⟨viņam⟩"
     },
     {
       "surface": "כה",
@@ -78,12 +57,12 @@
     },
     {
       "surface": "שלח",
-      "gloss": "laid"
+      "gloss": "Atlaid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manu tautu"
+      "marks": "manu tautu (עמי)"
     },
     {
       "surface": "עמי",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "ויעבדני",
-      "gloss": "lai tie Man kalpo"
+      "gloss": "un tie lai kalpo ⟨man⟩"
     }
   ],
-  "timestamp": "2026-10-20T16:13:14.477605690Z",
+  "timestamp": "2026-10-20T22:43:12.493398834Z",
   "model": "glm-5.3"
 }

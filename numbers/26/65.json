@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Būtisks apstākļa savienojums 'izņemot' — literāli 'jo ja vien', saliedēts vienā vārdā."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מות ימומתו",
-      "rationale": "Infinitivus absolutus pastiprinājums: 'miršanas nomirs' → 'nāvē nomirs'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "censuss",
-      "rationale": "Pants noslēdz tautas skaitīšanu: neviens no skaitītajiem vīriešiem nepalika."
-    }
-  ],
-  "translation": "jo Jahve bija teicis par viņiem: nāvē tie nomirs tuksnesī; un nav palicis no viņiem neviens vīrs, izņemot Kalebs, Jefunes dēls, un Jehošua, Nuna dēls.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "038b8dab8e6273b9e8a76887bb704667e59dcd06a6fa67d3b097db98d3eb6a51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/26\/65-65.1792516188865.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo Jahve bija sacījis par viņiem: Nāvē tie mirs tuksnesī. Un no viņiem nepalika neviens vīrs, izņemot Kalevu, Jefuneha dēlu, un Jehošuu, Nuna dēlu.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "bija teicis"
+      "gloss": "bija sacījis"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ימתו",
-      "gloss": "tie nomirs"
+      "gloss": "tie mirs"
     },
     {
       "surface": "במדבר",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un nav"
+      "gloss": "un ne"
     },
     {
       "surface": "נותר",
-      "gloss": "palicis"
+      "gloss": "palika"
     },
     {
       "surface": "מהם",
       "gloss": "no viņiem"
     },
     {
-      "surface": "אישׁ",
+      "surface": "איש",
       "gloss": "neviens vīrs"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "izņemot"
     },
     {
       "surface": "אם",
@@ -87,29 +61,29 @@
     },
     {
       "surface": "כלב",
-      "gloss": "Kalebs"
+      "gloss": "Kalevu"
     },
     {
       "surface": "בן",
-      "gloss": "dēls"
+      "gloss": "dēlu"
     },
     {
       "surface": "יפנה",
-      "gloss": "Jefunes"
+      "gloss": "Jefuneha"
     },
     {
       "surface": "ויהושע",
-      "gloss": "un Jehošua"
+      "gloss": "un Jehošuu"
     },
     {
       "surface": "בן",
-      "gloss": "dēls"
+      "gloss": "dēlu"
     },
     {
       "surface": "נון",
       "gloss": "Nuna"
     }
   ],
-  "timestamp": "2026-10-20T17:09:48.866597761Z",
+  "timestamp": "2026-10-20T22:58:18.057958394Z",
   "model": "glm-5.3"
 }

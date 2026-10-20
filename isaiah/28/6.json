@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "רוח vienmēr 'ruah' — šeit par tiesas garu, nevis 'gars' viens"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "על המשפט saplūst ar 'sēd tiesā'; atsevišķs 'uz' latviski lieks"
-    }
-  ],
-  "translation": "un par tiesas ruah tam, kas sēd tiesā, un par spēku tiem, kas atgriež kauju līdz vārtiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/5-8.1792522263466.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ruah tiesas tam, kas sēž tiesā, un spēks tiem, kas atgriež karu ⟨pie⟩ vārtiem.",
   "tokens": [
     {
       "surface": "ולרוח",
-      "gloss": "un par ruah"
+      "gloss": "Un ruah"
     },
     {
       "surface": "משפט",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ליושב",
-      "gloss": "tam, kas sēd"
+      "gloss": "tam, kas sēž"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "tiesā"
     },
     {
       "surface": "המשפט",
@@ -50,21 +29,21 @@
     },
     {
       "surface": "ולגבורה",
-      "gloss": "un par spēku"
+      "gloss": "un spēks"
     },
     {
       "surface": "משיבי",
-      "gloss": "kas atgriež"
+      "gloss": "tiem, kas atgriež"
     },
     {
       "surface": "מלחמה",
-      "gloss": "kauju"
+      "gloss": "karu"
     },
     {
       "surface": "שערה",
-      "gloss": "līdz vārtiem"
+      "gloss": "vārtiem"
     }
   ],
-  "timestamp": "2026-10-20T18:51:03.467848326Z",
+  "timestamp": "2026-10-20T22:47:47.618454996Z",
   "model": "glm-5.3"
 }

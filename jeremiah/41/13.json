@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩ pie",
-      "rationale": "Ebreju את\/אתו šeit ir priekšpozīcija 'ar\/pie', latviski vajadzīgs izteikums"
-    },
-    {
-      "kind": "substitution",
-      "subject": "priecājās",
-      "rationale": "וישמחו — cēlās prieks; atgriezto gūstekņu atvieglojums, redzot glābējus"
-    }
-  ],
-  "translation": "Un notika: kad viss ļaudis, kas ⟨bija⟩ pie Jišmaēla, ieraudzīja Jochananu, Kareaha dēlu, un ⟨את⟩ visus karaspēka virsniekus, kas ⟨bija⟩ pie viņa, tad tie priecājās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ab8b0b76bdfb311fd0f7c121e377008b83663e3994a66df64375b37d4f8549ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/41\/13-16.1792524215182.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kad viss ļaudis, kas bija pie Jišmaēla, ieraudzīja ⟨את⟩ Jochananu, Kareaha dēlu, un ⟨את⟩ visus karaspēka pavēlniekus, kas bija ⟨את⟩ ar viņu, tad viņi priecājās.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "un notika"
+      "gloss": "Un notika"
     },
     {
       "surface": "כראות",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "viss"
+      "gloss": "visu"
     },
     {
       "surface": "העם",
@@ -50,8 +29,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ pie",
-      "marks": "Jišmaēla — priekšpozīcija ar (H854), nevis ⟨את⟩ objekta marķieris"
+      "gloss": "⟨את⟩",
+      "marks": "pie Jišmaēla"
     },
     {
       "surface": "ישמעאל",
@@ -60,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jochananu"
+      "marks": "Jochananu, Kareaha dēlu"
     },
     {
       "surface": "יוחנן",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "dēlu"
+      "gloss": "dēls"
     },
     {
       "surface": "קרח",
@@ -76,8 +55,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
-      "marks": "visus karaspēka virsniekus"
+      "gloss": "⟨את⟩",
+      "marks": "visus karaspēka pavēlniekus"
     },
     {
       "surface": "כל",
@@ -85,7 +64,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "virsniekus"
+      "gloss": "pavēlniekus"
     },
     {
       "surface": "החילים",
@@ -97,13 +76,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "pie viņa ⟨את⟩"
+      "gloss": "⟨את⟩ ar viņu"
     },
     {
       "surface": "וישמחו",
-      "gloss": "tad tie priecājās"
+      "gloss": "tad viņi priecājās"
     }
   ],
-  "timestamp": "2026-10-20T19:23:35.183020133Z",
+  "timestamp": "2026-10-20T22:50:33.195908344Z",
   "model": "glm-5.3"
 }

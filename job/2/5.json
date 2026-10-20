@@ -5,32 +5,11 @@
   "book": "job",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יברכך",
-      "rationale": "Burtiski 'svētīs Tevi' — eufēmisms 'nolādēt'; tulkotāji sadalās starp 'svētīt' (YLT) un 'nolādēt\/apsvētīt' (KJV eufēmisms 'curse')"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Prievārds 'אל' pirms 'kauliem' latviski absorbējas darbības vārdā 'aizskar'"
-    }
-  ],
-  "translation": "Bet izstiep tagad savu roku un aizskar viņa kaulus un viņa miesu — ja viņš ne Tevi sejā svētīs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/2\/5-8.1792528987649.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tomēr izstiepiet ⟨tagad⟩ savu roku un aizskariet viņa kaulu un viņa miesu — ja viņš neapmelos Tev sejas priekšā.",
   "tokens": [
     {
       "surface": "אולם",
-      "gloss": "Bet"
+      "gloss": "Tomēr"
     },
     {
       "surface": "שלח",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "tagad"
+      "gloss": "⟨tagad⟩"
     },
     {
       "surface": "ידך",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "וגע",
-      "gloss": "un aizskar"
+      "gloss": "un aizskariet"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "עצמו",
-      "gloss": "viņa kaulus"
+      "gloss": "viņa kaula"
     },
     {
       "surface": "ואל",
-      "gloss": "un"
+      "gloss": "un pie"
     },
     {
       "surface": "בשרו",
-      "gloss": "viņa miesu"
+      "gloss": "viņa miesas"
     },
     {
       "surface": "אם",
@@ -74,17 +53,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "sejā"
+      "gloss": "sejas priekšā"
     },
     {
       "surface": "פניך",
-      "gloss": "Tevi"
+      "gloss": "Tavā sejā"
     },
     {
       "surface": "יברכך",
-      "gloss": "svētīs"
+      "gloss": "viņš Tevi nesvētīs"
     }
   ],
-  "timestamp": "2026-10-20T20:43:07.650413089Z",
+  "timestamp": "2026-10-20T22:51:39.932791946Z",
   "model": "glm-5.3"
 }

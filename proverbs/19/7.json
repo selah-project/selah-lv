@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "'אף כי' kopā veido 'cik vēl vairāk'; כי atsevišķi nav tulkots."
-    },
-    {
-      "kind": "crux",
-      "subject": "מרדף אמרים לא המה",
-      "rationale": "Slaveni strīdīga vieta: 'viņš dzenas pēc vārdiem — bet viņu nav' (KJV) pret 'viņš dzenas ar vārdiem — tie neko nesasniedz'; turēts pie burtiskā skata."
-    },
-    {
-      "kind": "alternative",
-      "subject": "אמרים",
-      "rationale": "ךEm 'vārdi' var nozīmē arī 'lūgumus, runas' — 'viņš dzenas pakaļ lūgumiem'."
-    }
-  ],
-  "translation": "Visi nabaga brāļi viņu ienīst, cik vēl vairāk viņa draugi attālinās no viņa; ⟨kad⟩ vārdus viņš dzen ⟨pēc⟩, ⟨bet⟩ to nav.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/19\/5-8.1792528797390.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visi nabaga brāļi viņu ienīst, cik vēl vairāk viņa draugi attālinājušies no viņa; viņš dzenas pakaļ vārdiem — ⟨bet⟩ ⟨viņu⟩ tur nav.",
   "tokens": [
     {
       "surface": "כל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "⟨vēl⟩"
     },
     {
       "surface": "מרעהו",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "רחקו",
-      "gloss": "attālinās"
+      "gloss": "attālinājušies"
     },
     {
       "surface": "ממנו",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "מרדף",
-      "gloss": "viņš dzen"
+      "gloss": "viņš dzenas pakaļ"
     },
     {
       "surface": "אמרים",
-      "gloss": "vārdus"
+      "gloss": "vārdiem"
     },
     {
       "surface": "לא",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "המה",
-      "gloss": "to"
+      "gloss": "viņu tur ⟨nav⟩"
     }
   ],
-  "timestamp": "2026-10-20T20:39:57.391319026Z",
+  "timestamp": "2026-10-20T22:58:45.984976948Z",
   "model": "glm-5.3"
 }

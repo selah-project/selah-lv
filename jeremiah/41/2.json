@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שפן",
-      "rationale": "šeiet cilvēka vārds Šafans, nevis dzīvnieks damans — viens vārds, divas lietas"
-    }
-  ],
-  "translation": "Un piecēlās Jišmaēls, Netanjaha dēls, un desmit vīri, kas bija ⟨kopā ar viņu⟩, un viņi sagāza ⟨את⟩ Gedaljahu, Ahikama dēlu, Šafana dēlu, ar zobenu, un nonāvēja ⟨את⟩ viņu — to, ko Bābeles ķēniņš bija iecicis pār zemi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/41\/1-4.1792524219535.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un piecēlās Jišmaēls, Netanjahas dēls, un desmit vīri, kas bija ⟨את⟩ viņam līdz, un viņi sita ⟨את⟩ Gedaljahu, Ahikama dēlu, Šafāna dēlu, ar zobenu, un nogalināja ⟨את⟩ viņu — viņu, ko Babilonas ķēniņš bija iecēlis pār zemi.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "נתניה",
-      "gloss": "Netanjaha"
+      "gloss": "Netanjahas"
     },
     {
       "surface": "ועשרת",
@@ -57,11 +41,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņam"
+      "gloss": "⟨את⟩ viņam līdz",
+      "marks": "viņam līdz"
     },
     {
       "surface": "ויכו",
-      "gloss": "un viņi sagāza"
+      "gloss": "un viņi sita"
     },
     {
       "surface": "את",
@@ -86,7 +71,7 @@
     },
     {
       "surface": "שפן",
-      "gloss": "Šafana"
+      "gloss": "Šafāna"
     },
     {
       "surface": "בחרב",
@@ -94,19 +79,20 @@
     },
     {
       "surface": "וימת",
-      "gloss": "un nonāvēja"
+      "gloss": "un nogalināja"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu"
     },
     {
       "surface": "אשר",
-      "gloss": "to, kas"
+      "gloss": "ko"
     },
     {
       "surface": "הפקיד",
-      "gloss": "bija iecicis"
+      "gloss": "iecēlis"
     },
     {
       "surface": "מלך",
@@ -114,13 +100,13 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bābeles"
+      "gloss": "Babilonas"
     },
     {
       "surface": "בארץ",
       "gloss": "pār zemi"
     }
   ],
-  "timestamp": "2026-10-20T19:23:39.536449732Z",
+  "timestamp": "2026-10-20T22:50:27.864120774Z",
   "model": "glm-5.3"
 }

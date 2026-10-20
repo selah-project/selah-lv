@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relatīvais\/apstākļu vietā latviešu 'tāpēc ka' uzsūc אשר bez atsevišķa vārda"
-    }
-  ],
-  "translation": "Un Joabs un Avišajs, viņa brālis, nogalināja Avneru, tāpēc ka viņš bija nogalinājis ⟨את⟩ Asahelu, savu brāli, Givonā kaujā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/3\/29-32.1792519665007.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Joabs un Abišai, viņa brālis, nogalināja Avneru, tāpēc ka viņš bija nonāvējis ⟨את⟩ Asahēlu, viņu brāli, Gibeonā, kaujā.",
   "tokens": [
     {
       "surface": "ויואב",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "ואבישי",
-      "gloss": "un Avišajs"
+      "gloss": "un Abišai"
     },
     {
       "surface": "אחיו",
@@ -49,34 +33,34 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "המית",
-      "gloss": "bija nogalinājis"
+      "gloss": "bija nonāvējis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asahelu"
+      "marks": "Asahēlu"
     },
     {
       "surface": "עשהאל",
-      "gloss": "Asahelu"
+      "gloss": "Asahēlu"
     },
     {
       "surface": "אחיהם",
-      "gloss": "savu brāli"
+      "gloss": "viņu brāli"
     },
     {
       "surface": "בגבעון",
-      "gloss": "Givonā"
+      "gloss": "Gibeonā"
     },
     {
       "surface": "במלחמה",
       "gloss": "kaujā"
     }
   ],
-  "timestamp": "2026-10-20T18:07:45.008664922Z",
+  "timestamp": "2026-10-20T22:38:36.776939965Z",
   "model": "glm-5.3"
 }

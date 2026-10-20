@@ -5,33 +5,7 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "dievu dēls",
-      "rationale": "בר אלהין: aramiešu daudzskaitlis — 'dievu dēls' (KJV 'Dieva Dēls' ir vēlāka lasījuma ietekme); te ir valdnieka izsauciens, ne apliecinājums."
-    },
-    {
-      "kind": "measurement",
-      "subject": "četrus vīrus",
-      "rationale": "Ķēniņš redz četrus, kaut ugunī tika iemesti trīs — skaitlis nes pārsteiguma darbu."
-    },
-    {
-      "kind": "mystery",
-      "subject": "ceturtā izskats",
-      "rationale": "Kas ir ceturtais, netiek paskaidrots — teksts apzināti atstāj to neredzamu skaidrību."
-    }
-  ],
-  "translation": "Atbildēdams viņš sacīja: Redzi, es redzu četrus vīrus brīvus staigājam uguns vidū, un viņiem nav nekāda ļaunuma, un ceturtā izskats ir līdzīgs dievu dēlam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c9a579dad25a879e2de132a0c186c01a149bf74db04dcafaa810cae694a93521",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/3\/25-28.1792530278484.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņš atbildēja un sacīja: Lūk, es redzu četrus vīrus, nesaistītus, staigājam uguns vidū, un kaitējuma viņiem nav, un ceturtā izskats līdzinās dievu dēlam.",
   "tokens": [
     {
       "surface": "ענה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "הא",
-      "gloss": "redzi"
+      "gloss": "lūk"
     },
     {
       "surface": "אנה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "שרין",
-      "gloss": "brīvus"
+      "gloss": "nesaistītus"
     },
     {
       "surface": "מהלכין",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "וחבל",
-      "gloss": "un ļaunuma"
+      "gloss": "un kaitējuma"
     },
     {
       "surface": "לא",
@@ -99,15 +73,15 @@
     },
     {
       "surface": "די",
-      "gloss": ""
-    },
-    {
-      "surface": "רביעיא",
       "gloss": "ceturtā"
     },
     {
+      "surface": "רביעיא",
+      "gloss": "⊗"
+    },
+    {
       "surface": "דמה",
-      "gloss": "līdzīgs"
+      "gloss": "līdzinās"
     },
     {
       "surface": "לבר",
@@ -118,6 +92,6 @@
       "gloss": "dievu"
     }
   ],
-  "timestamp": "2026-10-20T21:04:38.484999298Z",
+  "timestamp": "2026-10-20T22:39:18.354683310Z",
   "model": "glm-5.3"
 }

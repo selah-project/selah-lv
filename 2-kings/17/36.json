@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "apvienots vienā ‘Bet’ — ‘tikai’ paliek netulkots kā atsevišķs vārds."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אתו תיראו",
-      "rationale": "priekšlaicīgs objekts ⟨את⟩ Viņu + bīstieties — uzsvars atkārto 35. panta noliegumu pozitīvi; latviski saglabāts ar pārkārtotu vārdu secību."
-    },
-    {
-      "kind": "you",
-      "subject": "pavēle",
-      "rationale": "tiešs uzrunājums 2. personā — Jahve runā ⟨את⟩ Jisraēla dēliem."
-    }
-  ],
-  "translation": "Bet ⟨את⟩ Jahvi — To, kas izveda ⟨את⟩ jūs no Micraima zemes ar lielu spēku un izstieptu roku, — ⟨את⟩ Viņu bīstieties, un Viņam pakļaujieties, un Viņam ziedojiet.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/33-36.1792521560630.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet ⟨את⟩ Jahvu, kurš izveda ⟨את⟩ jūs no Micraimas zemes ar lielu spēku un izstieptu roku, — ⟨את⟩ Viņu bīstieties, Viņam pielūdzat un Viņam upurējat.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,20 +13,20 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tikai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvi"
+      "marks": "Jahvu"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvi"
+      "gloss": "Jahvu"
     },
     {
       "surface": "אשר",
-      "gloss": "To, kas"
+      "gloss": "kurš"
     },
     {
       "surface": "העלה",
@@ -61,7 +35,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ jūs",
-      "marks": "jūs"
+      "marks": "no Micraimas zemes"
     },
     {
       "surface": "מארץ",
@@ -69,7 +43,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraima"
+      "gloss": "Micraimas"
     },
     {
       "surface": "בכח",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ Viņu",
       "marks": "Viņu"
     },
     {
@@ -102,7 +76,7 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "pakļaujieties"
+      "gloss": "pielūdzat"
     },
     {
       "surface": "ולו",
@@ -110,9 +84,9 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "ziedojiet"
+      "gloss": "upurējat"
     }
   ],
-  "timestamp": "2026-10-20T18:39:20.632027080Z",
+  "timestamp": "2026-10-20T22:36:48.583369433Z",
   "model": "glm-5.3"
 }

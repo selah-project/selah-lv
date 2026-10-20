@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "savās sāpēs",
-      "rationale": "מצרה no צרר 'šaustīties, krampjos'; tradīcija saprot kā dzemdību sāpes"
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodai trūkst kopulas; latviešu pilnajam teikumam vajag 'ir'"
-    }
-  ],
-  "translation": "Ir ieņemta Kerijota, un nocietinājumi ir sagūstīti, un Moāba varoņu sirds tanī dienā būs kā sievietes sirds savās sāpēs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0fe9c419ce9dfa805a91c5353bc7f0bb72cdfa1b9d90f6266f33806e627414a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/48\/41-44.1792524468484.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sagūstīta ir Kerjota, un nocietinājumi ir ieņemti, un varonīgo Moābas vīru sirds tai dienā būs kā sievietes sirds dzemdību sāpēs.",
   "tokens": [
     {
       "surface": "נלכדה",
-      "gloss": "ir ieņemta"
+      "gloss": "ir sagūstīta"
     },
     {
       "surface": "הקריות",
-      "gloss": "Kerijota"
+      "gloss": "Kerjota"
     },
     {
       "surface": "והמצדות",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "נתפשה",
-      "gloss": "ir sagūstīti"
+      "gloss": "ir ieņemti"
     },
     {
       "surface": "והיה",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "גבורי",
-      "gloss": "varoņu"
+      "gloss": "varonīgo vīru"
     },
     {
       "surface": "מואב",
-      "gloss": "Moāba"
+      "gloss": "Moābas"
     },
     {
       "surface": "ביום",
-      "gloss": "tanī dienā"
+      "gloss": "tai dienā"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "tai"
     },
     {
       "surface": "כלב",
-      "gloss": "kā sirds"
+      "gloss": "kā ... sirds"
     },
     {
       "surface": "אשה",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "מצרה",
-      "gloss": "savās sāpēs"
+      "gloss": "dzemdību sāpēs"
     }
   ],
-  "timestamp": "2026-10-20T19:27:48.485403405Z",
+  "timestamp": "2026-10-20T22:51:07.470487224Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "גלא רזין",
-      "rationale": "Eloah in heaven is 'the revealer of secrets' — the verse's central claim"
-    },
-    {
-      "kind": "mystery",
-      "subject": "sapnis",
-      "rationale": "The dream's content is withheld and now about to be revealed: 'this is it'"
-    },
-    {
-      "kind": "addition",
-      "subject": "Viņš",
-      "rationale": "Pronoun supplied before 'ir padarījis zināmu' where Aramaic participle carries the subject"
-    },
-    {
-      "kind": "crux",
-      "subject": "beigu dienās",
-      "rationale": "באחרית יומיא 'end of the days' — 'latter days' vs eschatological 'end times'"
-    }
-  ],
-  "translation": "Bet ir Eloah debesīs, kas atklāj noslēpumus, un Viņš ir padarījis zināmu ķēniņam Nebukadnecaram, kas notiks beigu dienās. Tavs sapnis un tavas galvas redzes uz tavas gultas — tas ⟨ir⟩ šis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d119cf6ce1316d0eb8337f2b5f6cc3fbea8743594596ab4d956e0aa4bc5a413b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/25-28.1792530179098.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tomēr ir Eloah debesīs, kas atklāj noslēpumus, un Viņš darīja zināmu ķēniņam Nebukadnecaram, kas notiks pēdējās dienās; tavs sapnis un tavas galvas redzējumi uz tava gultas — ⟨tā ir⟩ ⟨tāda⟩.",
   "tokens": [
     {
       "surface": "ברם",
-      "gloss": "Bet"
+      "gloss": "tomēr"
     },
     {
       "surface": "איתי",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "והודע",
-      "gloss": "un-padarījis-zināmu"
+      "gloss": "un darīja zināmu"
     },
     {
       "surface": "למלכא",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨kas⟩"
     },
     {
       "surface": "להוא",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "באחרית",
-      "gloss": "beigu"
+      "gloss": "pēdējās"
     },
     {
       "surface": "יומיא",
@@ -96,15 +65,15 @@
     },
     {
       "surface": "חלמך",
-      "gloss": "tavs-sapnis"
+      "gloss": "tavs sapnis"
     },
     {
       "surface": "וחזוי",
-      "gloss": "un-redzes"
+      "gloss": "un redzējumi"
     },
     {
       "surface": "ראשך",
-      "gloss": "tavas-galvas"
+      "gloss": "tavas galvas"
     },
     {
       "surface": "על",
@@ -112,17 +81,17 @@
     },
     {
       "surface": "משכבך",
-      "gloss": "tavas-gultas"
+      "gloss": "tava gultas"
     },
     {
       "surface": "דנה",
-      "gloss": "šis"
+      "gloss": "⟨tāda⟩"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ir⟩"
+      "gloss": "⟨tā ir⟩"
     }
   ],
-  "timestamp": "2026-10-20T21:02:59.100067525Z",
+  "timestamp": "2026-10-20T22:39:05.712818720Z",
   "model": "glm-5.3"
 }

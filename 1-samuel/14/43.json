@@ -5,38 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Izsakāms darbājums, ko ebreju valoda izlaiž"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lūdz",
-      "rationale": "הנני burtiski 'lūdz, es šeit' — personas klātbūtnes žests, ne tikai piezīme"
-    },
-    {
-      "kind": "crux",
-      "subject": "mirstu",
-      "rationale": "אמות: paziņojums 'es miršu' (JPS) pret jautājumu 'vai man jāmirst?' (BSB) — intonācija nenozīmēta"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טעם טעמתי",
-      "rationale": "Nenoteiksmes akuzatīva atkārtojums 'garšu garšoju' — apzvēresta vienkāršība, saglabāts burtiski"
-    }
-  ],
-  "translation": "Un sacīja Šauls Jonatānam: Pastāsti man, ko tu darīji! Un pastāstīja viņam Jonatāns un sacīja: Garšu garšoju ar žezla galu, kas ⟨ir⟩ manā rokā, mazliet medus — lūdz, ⟨es⟩ mirstu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/41-44.1792519079150.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šauls sacīja Jōnatānam: Pasaki man, ko tu esi darījis. Un Jōnatāns pasaka ⟨viņam⟩ un sacīja: Es tiešām nogaršoju ar nūjas galu, kas bija manā rokā, mazdruscieti medus — lūk, es nomiršu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -48,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "יונתן",
-      "gloss": "Jonatānam"
+      "gloss": "Jōnatāns"
     },
     {
       "surface": "הגידה",
-      "gloss": "Pastāsti"
+      "gloss": "Pasaki"
     },
     {
       "surface": "לי",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "עשיתה",
-      "gloss": "tu darīji"
+      "gloss": "esi darījis"
     },
     {
       "surface": "ויגד",
@@ -76,11 +45,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "viņam"
+      "gloss": "⟨viņam⟩"
     },
     {
       "surface": "יונתן",
-      "gloss": "Jonatāns"
+      "gloss": "Jōnatāns"
     },
     {
       "surface": "ויאמר",
@@ -88,11 +57,11 @@
     },
     {
       "surface": "טעם",
-      "gloss": "Garšu"
+      "gloss": "garšojot"
     },
     {
       "surface": "טעמתי",
-      "gloss": "garšoju"
+      "gloss": "es nogaršoju"
     },
     {
       "surface": "בקצה",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "המטה",
-      "gloss": "žezla"
+      "gloss": "nūjas"
     },
     {
       "surface": "אשר",
@@ -112,7 +81,7 @@
     },
     {
       "surface": "מעט",
-      "gloss": "mazliet"
+      "gloss": "mazdruscieti"
     },
     {
       "surface": "דבש",
@@ -120,13 +89,13 @@
     },
     {
       "surface": "הנני",
-      "gloss": "lūdz"
+      "gloss": "lūk, es"
     },
     {
       "surface": "אמות",
-      "gloss": "mirstu"
+      "gloss": "nomiršu"
     }
   ],
-  "timestamp": "2026-10-20T17:57:59.152244018Z",
+  "timestamp": "2026-10-20T22:33:30.733008059Z",
   "model": "glm-5.3"
 }

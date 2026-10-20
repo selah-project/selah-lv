@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "gurna krišana",
-      "rationale": "נפל ירך — 'gurns krīt': 'izžūt\/sašļukt' (KJV) pret burtiski 'krist'; eufēmisms dzimumorgāniem un neauglībai."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pampstam",
-      "rationale": "צבה — 'uzpūsts, tūcis'; vēdera pampšana kā lāsta zīme."
-    },
-    {
-      "kind": "you",
-      "subject": "pie sievas",
-      "rationale": "Priestera zvēresta vārdi tieši vērsti pie sievas: 'tevis, tavs'."
-    }
-  ],
-  "translation": "Un priesteris liks sievai zvērēt lāsta zvērestu, un priesteris sacīs sievai: Jahve lai ⟨את⟩ tevi dod par lāstu un par zvērestu tavas tautas vidū, kad Jahve dos tavu gurnu kritam un tavu vēderu pampstam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c2b1bc0fcd1f8edb088f4e20b5b2ebe4b137c32cec4491f10285ecc5070772d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/5\/21-24.1792515530870.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteris likšs ⟨את⟩ sievai zvērēt lāsta zvērestu, un priesteris sacīs sievai: lai Jahve dod ⟨את⟩ tevi par lāstu un par zvērestu tavas tautas vidū, kad Jahve dos ⟨את⟩ tavu gurnu krītam un ⟨את⟩ tavu vēderu uzbriestam.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "liks zvērēt"
+      "gloss": "likšs zvērēt"
     },
     {
       "surface": "הכהן",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "בשבעת",
-      "gloss": "zvērestā"
+      "gloss": "zvērestu"
     },
     {
       "surface": "האלה",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "dos"
+      "gloss": "lai dod"
     },
     {
       "surface": "יהוה",
@@ -80,7 +54,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tevi"
+      "gloss": "⟨את⟩ tevi",
+      "marks": "lāsts"
     },
     {
       "surface": "לאלה",
@@ -113,26 +88,26 @@
     },
     {
       "surface": "ירכך",
-      "gloss": "tavo gurnu"
+      "gloss": "tavu gurnu"
     },
     {
       "surface": "נפלת",
-      "gloss": "kritam"
+      "gloss": "krītošu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tava vēdere"
+      "gloss": "un ⟨את⟩",
+      "marks": "tavs vēders"
     },
     {
       "surface": "בטנך",
-      "gloss": "tavo vēderu"
+      "gloss": "tavu vēderu"
     },
     {
       "surface": "צבה",
-      "gloss": "pampstam"
+      "gloss": "uzbriestošu"
     }
   ],
-  "timestamp": "2026-10-20T16:58:50.873173111Z",
+  "timestamp": "2026-10-20T22:58:37.995061871Z",
   "model": "glm-5.3"
 }

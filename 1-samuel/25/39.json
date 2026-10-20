@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רב את ריב",
-      "rationale": "Darbības vārda un lietvārda vienādā sakne ריב — 'tiesāja mana tiesu'; atbalss zūd latviski."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נבל",
-      "rationale": "Vārds Navals skan kā נבל 'muļķis' — stāstā jau 25:25 paša izskaidrots; vārda spēle dzirdama jebkurā valodā."
-    }
-  ],
-  "translation": "Un Davids dzirdēja, ka Navals nomiris, un viņš sacīja: Slavēts lai ir Jahve, kas izcīnīja ⟨את⟩ mana apkaunojuma tiesu no Navala rokas, un savu kalpu atturēja no ļauna; un Navala ļaunumu Jahve atgrieza uz viņa paša galvas. Un Davids nosūtīja un runāja ar Avigaīlu, lai ņemtu viņu sev par sievu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/37-40.1792519404378.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Davids dzirdēja, ka Nabals ir miris, un viņš sacīja: Slavēts lai ir Jahve, kas aizstāvēja ⟨את⟩ mana apkaunojuma lietu no Nabala rokas un savu kalpu atturēja no ļauna; un Nabala ļaunumu Jahve atgrieza uz viņa paša galvas. Un Davids sūtīja un runāja ar Avigaju, lai ņemtu viņu sev par sievu.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Un dzirdēja"
+      "gloss": "un dzirdēja"
     },
     {
       "surface": "דוד",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "מת",
-      "gloss": "nomiris"
+      "gloss": "miris"
     },
     {
       "surface": "נבל",
-      "gloss": "Navals"
+      "gloss": "Nabals"
     },
     {
       "surface": "ויאמר",
-      "gloss": "un viņš sacīja"
+      "gloss": "un sacīja"
     },
     {
       "surface": "ברוך",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "רב",
-      "gloss": "izcīnīja tiesu"
+      "gloss": "aizstāvēja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mana apkaunojuma tiesu"
+      "marks": "mana apkaunojuma lietu"
     },
     {
       "surface": "ריב",
-      "gloss": "tiesu"
+      "gloss": "lietu"
     },
     {
       "surface": "חרפתי",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Navala"
+      "gloss": "Nabala"
     },
     {
       "surface": "ואת",
@@ -109,7 +88,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "Navala ļaunumu"
+      "marks": "Nabala ļaunumu"
     },
     {
       "surface": "רעת",
@@ -117,7 +96,7 @@
     },
     {
       "surface": "נבל",
-      "gloss": "Navala"
+      "gloss": "Nabala"
     },
     {
       "surface": "השיב",
@@ -133,7 +112,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "Un nosūtīja"
+      "gloss": "un sūtīja"
     },
     {
       "surface": "דוד",
@@ -145,7 +124,7 @@
     },
     {
       "surface": "באביגיל",
-      "gloss": "ar Avigaīlu"
+      "gloss": "ar Avigaju"
     },
     {
       "surface": "לקחתה",
@@ -160,6 +139,6 @@
       "gloss": "par sievu"
     }
   ],
-  "timestamp": "2026-10-20T18:03:24.380217096Z",
+  "timestamp": "2026-10-20T22:34:28.138009581Z",
   "model": "glm-5.3"
 }

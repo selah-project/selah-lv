@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שמר",
-      "rationale": "'Sargāt, apjozt ar ērkšķiem' — latviskais 'paturēt' atspoguļo aktīvu uzraudzību."
-    },
-    {
-      "kind": "mystery",
-      "subject": "pārbaudījums",
-      "rationale": "Dievs atstāj tautas, lai pārbaudītu Jisraēlu — nodoms ir slēpts no paša tautas."
-    }
-  ],
-  "translation": "Lai ar tām pārbaudītu <את> Jisraēlu — vai tie paturēs <את> Jahves ceļu, ejot pa to, kā to paturēja viņu tēvi, vai nē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fd916b61eb8bf07e4ba660b21adf2282fbc24589931b49b3428a6a2e4c54b1ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/2\/21-23.1792518098823.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lai ar viņiem pārbaudītu ⟨את⟩ Jisraēlu — vai tie sargā ⟨את⟩ Jahves ceļu, lai staigātu pa to, kā to sargāja viņu tēvi, vai ⟨nav⟩.",
   "tokens": [
     {
       "surface": "למען",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בם",
-      "gloss": "ar tām"
+      "gloss": "ar viņiem"
     },
     {
       "surface": "את",
-      "gloss": "את",
+      "gloss": "⟨את⟩",
       "marks": "Jisraēlu"
     },
     {
@@ -51,7 +30,7 @@
     },
     {
       "surface": "השמרים",
-      "gloss": "vai tie paturēs"
+      "gloss": "sargā"
     },
     {
       "surface": "הם",
@@ -59,8 +38,8 @@
     },
     {
       "surface": "את",
-      "gloss": "את",
-      "marks": "ceļu"
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ceļu"
     },
     {
       "surface": "דרך",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "ejot"
+      "gloss": "staigāt"
     },
     {
       "surface": "בם",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "paturēja"
+      "gloss": "sargāja"
     },
     {
       "surface": "אבותם",
@@ -96,9 +75,9 @@
     },
     {
       "surface": "לא",
-      "gloss": "nē"
+      "gloss": "⟨nav⟩"
     }
   ],
-  "timestamp": "2026-10-20T17:41:38.825094033Z",
+  "timestamp": "2026-10-20T22:54:01.084821677Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Bileāmam",
-      "rationale": "Jahve runā tieši pie Bileāma ar norādi atgriezties un runāt dotajos vārdos."
-    }
-  ],
-  "translation": "Un Jahve satika Bileāmu un lika vārdu viņa mutē un sacīja: Atgriezies pie Balaka un tā runā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0988d0f547045cda27a7b829a9203c95fd16c7bd55c0902a864f191d2cfff8e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/13-16.1792516128003.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve satika Bileāmu un ielika vārdu viņa mutē un sacīja: Atgriezies pie Balaka un ⟨tā⟩ runā.",
   "tokens": [
     {
       "surface": "ויקר",
-      "gloss": "Un satika"
+      "gloss": "un satika"
     },
     {
       "surface": "יהוה",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bileāmu"
+      "gloss": "Bileāma"
     },
     {
       "surface": "וישם",
-      "gloss": "un lika"
+      "gloss": "un ielika"
     },
     {
       "surface": "דבר",
@@ -69,13 +53,13 @@
     },
     {
       "surface": "וכה",
-      "gloss": "un tā"
+      "gloss": "⟨tā⟩"
     },
     {
       "surface": "תדבר",
       "gloss": "runā"
     }
   ],
-  "timestamp": "2026-10-20T17:08:48.005962575Z",
+  "timestamp": "2026-10-20T22:57:53.398919902Z",
   "model": "glm-5.3"
 }

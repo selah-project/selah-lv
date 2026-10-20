@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר אם",
-      "rationale": "Divu daļiņu saite 'ka ja \/ ja vien' latviešu teikumā izšķīst 'Kamēr' — tās pārnestas bez atsevišķas glosas."
-    },
-    {
-      "kind": "you",
-      "subject": "Adonai",
-      "rationale": "Ješajahu vēršas tieši pie Adonai ar jautājumu 'Cik ilgi?'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תשאה שממה",
-      "rationale": "Saknes שׁאה un שׁמם skanēšanas līdzība — posts, kas beidzas ar klušu tuksnesi; latviešu valodā dublējums 'postu — klušu tuksnesis'."
-    }
-  ],
-  "translation": "Un es sacīju: Cik ilgi, Adonai? Un Viņš sacīja: Kamēr pilsētas paliek izpostītas bez iedzīvotāja un mājas bez cilvēka, un zeme kļūst par postu — klušu tuksnesi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/6\/9-12.1792521948395.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es sacīju: Cik ilgi, Adonai? Un ⟨viņš⟩ sacīja: Kamēr pilsētas kļūs izpostītas bez iedzīvotāja un mājas bez cilvēka, un zeme tiks izpostīta posta pamestībā.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "Cik"
+      "gloss": "līdz"
     },
     {
       "surface": "מתי",
-      "gloss": "ilgi"
+      "gloss": "cik ilgi"
     },
     {
       "surface": "אדני",
@@ -51,23 +25,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Un Viņš sacīja"
+      "gloss": "Un ⟨viņš⟩ sacīja"
     },
     {
       "surface": "עד",
-      "gloss": "Kamēr"
+      "gloss": "kamēr"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tiešām"
     },
     {
       "surface": "שאו",
-      "gloss": "paliek izpostītas"
+      "gloss": "tiks izpostītas"
     },
     {
       "surface": "ערים",
@@ -99,13 +73,13 @@
     },
     {
       "surface": "תשאה",
-      "gloss": "kļūst par postu"
+      "gloss": "tiks izpostīta"
     },
     {
       "surface": "שממה",
-      "gloss": "klušu tuksnesi"
+      "gloss": "posta pamestībā"
     }
   ],
-  "timestamp": "2026-10-20T18:45:48.396902603Z",
+  "timestamp": "2026-10-20T22:48:37.660633403Z",
   "model": "glm-5.3"
 }

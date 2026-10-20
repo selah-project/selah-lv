@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לא אסף",
-      "rationale": "Burtiski 'nes pievienošu' — 'vairs ne'; ebreju idiomā tulkots ar 'vairs nedzirdu'"
-    },
-    {
-      "kind": "elision",
-      "subject": "לשמע",
-      "rationale": "Infinitīvs 'dzirdēt' iekļauts darbā 'nedzirdu', atsevišķi netulkots"
-    }
-  ],
-  "translation": "Pēc visa, ko tu lūdzi no Jahves, sava Elohim, Horebā sapulces dienā, sacīdams: Lai vairs nedzirdu Jahves, sava Elohim, balsi un ⟨את⟩ šo lielo uguni vairs neredzu, un lai nemirstu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a1dd87fc64440fbbf284c1bcd670e84ef1c6ab5cdcea4e3597080ccbca0ca6c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/18\/13-16.1792517070704.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pēc visa tā, ko tu lūdzi no Jahves, sava Elohim, Horebā sapulces dienā, sacīdams: Negribu vairs dzirdēt ⟨את⟩ Jahves, sava Elohim, balsi, un ⟨את⟩ šo lielo uguni negribu vairs redzēt, lai es nenomirstu.",
   "tokens": [
     {
       "surface": "ככל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "dienu"
+      "gloss": "dienā"
     },
     {
       "surface": "הקהל",
@@ -70,20 +49,20 @@
     },
     {
       "surface": "לא",
-      "gloss": "lai vairs ne"
+      "gloss": "ne"
     },
     {
       "surface": "אסף",
-      "gloss": "nedzirdu"
+      "gloss": "vairs"
     },
     {
       "surface": "לשמע",
-      "gloss": "-"
+      "gloss": "dzirdēt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "balsi"
+      "marks": "Jahves, sava Elohim, balsi"
     },
     {
       "surface": "קול",
@@ -116,11 +95,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "vairs ne"
+      "gloss": "ne"
     },
     {
       "surface": "אראה",
-      "gloss": "neredzu"
+      "gloss": "redzēt"
     },
     {
       "surface": "עוד",
@@ -128,13 +107,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un lai ne"
+      "gloss": "lai ne"
     },
     {
       "surface": "אמות",
-      "gloss": "mirstu"
+      "gloss": "es nenomirstu"
     }
   ],
-  "timestamp": "2026-10-20T17:24:30.707982490Z",
+  "timestamp": "2026-10-20T22:39:43.890040565Z",
   "model": "glm-5.3"
 }

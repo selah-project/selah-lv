@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ar",
-      "rationale": "latviešu valodai vajadzīgs prievārds, ebreju valodā את only atzīmē objektu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יריבך\/אריב",
-      "rationale": "sarkanms: tas pats darbības vārds ריב atkārtots — 'tavu cīnītāju Es cīnīšos', latviski daļēi saglabāts"
-    }
-  ],
-  "translation": "Jo tā saka Jahve: pat varoņa gūstekni atņems, un nežēlīgā laupījumu atbrīvos; un ⟨ar⟩ to, kas ar tevi cīnās, Es cīnīšos, un tavus dēlus Es izglābšu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/49\/25-26.1792522766407.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo tā saka Jahve: pat varonīgā gūstekņi tiks atņemti, un bargā laupījums tiks izglābts; un ar ⟨את⟩ tavu cīņas pretinieku es cīnīšos, un ⟨את⟩ tavus dēlus es izglābšu.",
   "tokens": [
     {
       "surface": "כי",
@@ -50,32 +29,31 @@
     },
     {
       "surface": "שבי",
-      "gloss": "gūstekni"
+      "gloss": "gūstekņi"
     },
     {
       "surface": "גבור",
-      "gloss": "varoņa"
+      "gloss": "varonīgā"
     },
     {
       "surface": "יקח",
-      "gloss": "atņems"
+      "gloss": "tiks atņemti"
     },
     {
       "surface": "ומלקוח",
-      "gloss": "un laupījumu"
+      "gloss": "un laupījums"
     },
     {
       "surface": "עריץ",
-      "gloss": "nežēlīgā"
+      "gloss": "bargā"
     },
     {
       "surface": "ימלט",
-      "gloss": "atbrīvos"
+      "gloss": "tiks izglābts"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "to, kas ar tevi cīnās"
+      "gloss": "un ⟨את⟩"
     },
     {
       "surface": "יריבך",
@@ -83,7 +61,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Es"
+      "gloss": "es"
     },
     {
       "surface": "אריב",
@@ -91,7 +69,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "un ⟨את⟩",
       "marks": "tavus dēlus"
     },
     {
@@ -100,13 +78,13 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Es"
+      "gloss": "es"
     },
     {
       "surface": "אושיע",
       "gloss": "izglābšu"
     }
   ],
-  "timestamp": "2026-10-20T18:59:26.407894801Z",
+  "timestamp": "2026-10-20T22:48:03.970475311Z",
   "model": "glm-5.3"
 }

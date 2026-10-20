@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "baidījušies",
-      "rationale": "וייראו ir 'bīties\/cienīt' — ' pielūdza' (BSB) ir interpretācija; burtiski 'bījās citus dievus'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dieviem",
-      "rationale": "אלהים אחרים — svešie elki; mazais burts 'dieviem' pareizi ne-Ėlohim kontekstā"
-    }
-  ],
-  "translation": "Un notika tā, ka Jisraēla dēli bija grēkojuši pret Jahvu, savu Elohim, kas tos bija izvedis augšup no Micraimas zemes, no Faraona, Micraimas ķēniņa, rokas, un bija baidījušies no citiem dieviem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/5-8.1792521552752.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika tāpēc, ka Jisraēla dēli bija grēkojuši pret Jahvi, savu Elohim, kas bija viņus izcēlis ⟨את⟩ no Micraimas zemes, no zem Faraona, Micraimas ķēniņa, rokas, un bija sākuši bīties citu elohimus.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Un notika"
+      "gloss": "un notika"
     },
     {
       "surface": "כי",
-      "gloss": "ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "חטאו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "pret Jahvu"
+      "gloss": "pret Jahvi"
     },
     {
       "surface": "אלהיהם",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "kas bija izvedis augšup"
+      "gloss": "kas bija izcēlis"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tos"
+      "marks": "viņus"
     },
     {
       "surface": "מארץ",
@@ -95,17 +74,17 @@
     },
     {
       "surface": "וייראו",
-      "gloss": "un bija baidījušies"
+      "gloss": "un bija sākuši bīties"
     },
     {
       "surface": "אלהים",
-      "gloss": "dieviem"
+      "gloss": "elohimus"
     },
     {
       "surface": "אחרים",
-      "gloss": "citiem"
+      "gloss": "citu"
     }
   ],
-  "timestamp": "2026-10-20T18:39:12.753122023Z",
+  "timestamp": "2026-10-20T22:37:05.748246172Z",
   "model": "glm-5.3"
 }

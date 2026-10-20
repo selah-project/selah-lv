@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "קראו מלאו",
-      "rationale": "literally 'call, fill (the voice)' — idiom for crying out at full volume"
-    },
-    {
-      "kind": "invitation",
-      "subject": "verse",
-      "rationale": "a cascade of imperatives summoning Judah and Jerusalem to alarm and flight"
-    },
-    {
-      "kind": "addition",
-      "subject": "visā",
-      "rationale": "Hebrew says only 'in the land'; Latvian needs a quantifier"
-    }
-  ],
-  "translation": "Paziņojiet Jūdā un Jerušalaimā, pasludiniet un sakiet: Pūtiet šāurfu — šofaru — visā zemē, sauciet pilnā balsī un sakiet: Pulcējieties, un ieiesim nocietinātajās pilsētās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0330dace8a2ade107e04055ff248811b2ee0d12c0952fc8f4a8ec68cd99021a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/4\/5-8.1792523297047.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Paziņojiet Jehudā un Jerušalaimā ⟨to⟩ pasludiniet, un sakiet: Pūtiet šofaru zemē, sauciet pilnā balsī un sakiet: Sakopojieties, un ieiesim nocietinātajās pilsētās!",
   "tokens": [
     {
       "surface": "הגידו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ביהודה",
-      "gloss": "Jūdā"
+      "gloss": "Jehudā"
     },
     {
       "surface": "ובירושלם",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "השמיעו",
-      "gloss": "pasludiniet"
+      "gloss": "⟨to⟩ pasludiniet"
     },
     {
       "surface": "ואמרו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "קראו",
-      "gloss": "saukiet"
+      "gloss": "saucait pilnā balsī"
     },
     {
       "surface": "מלאו",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "האספו",
-      "gloss": "Pulcējieties"
+      "gloss": "Sakopojieties"
     },
     {
       "surface": "ונבואה",
@@ -87,18 +61,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "",
-      "note": "merged"
+      "gloss": ""
     },
     {
       "surface": "ערי",
-      "gloss": "pilsētās"
+      "gloss": "nocietinātajās pilsētās"
     },
     {
       "surface": "המבצר",
       "gloss": "nocietinātajās"
     }
   ],
-  "timestamp": "2026-10-20T19:08:17.047883584Z",
+  "timestamp": "2026-10-20T22:50:37.896739045Z",
   "model": "glm-5.3"
 }

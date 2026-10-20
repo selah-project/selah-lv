@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jaakovs",
-      "rationale": "Rivka runā tieši pie dēla — pavēles 'ej', 'paņem'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kārumi",
-      "rationale": "מטעמים ir 'delikateses, gardumi' — kārumi tuvu, bet zūd 'garšas kāruma' nokrāsa."
-    }
-  ],
-  "translation": "Ej taču pie ganāmpulka un paņem man no turienes divus labus kazas jērus, un es no tiem gatavošu kārumus tavam tēvam, kādus viņš mīl.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/27\/9-12.1792512122284.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ej, lūdzu, pie ganāmpulka un atnes man no turienes divus labus āžu jērus, un es sagatavošu no ⟨את⟩ viņiem kārumus tavam tēvam, tādus, kādus viņš mīl.",
   "tokens": [
     {
       "surface": "לך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "taču"
+      "gloss": "lūdzu"
     },
     {
       "surface": "אל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וקח",
-      "gloss": "un paņem"
+      "gloss": "un atnes"
     },
     {
       "surface": "לי",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "עזים",
-      "gloss": "kazas"
+      "gloss": "āžu"
     },
     {
       "surface": "טבים",
@@ -74,12 +53,12 @@
     },
     {
       "surface": "ואעשה",
-      "gloss": "un es gatavošu"
+      "gloss": "un es sagatavošu"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "kārumus"
+      "marks": "kārumi (מטעמים)"
     },
     {
       "surface": "מטעמים",
@@ -91,13 +70,13 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kādus"
+      "gloss": "tādus, kādus"
     },
     {
       "surface": "אהב",
       "gloss": "viņš mīl"
     }
   ],
-  "timestamp": "2026-10-20T16:02:02.285093942Z",
+  "timestamp": "2026-10-20T22:46:15.843686186Z",
   "model": "glm-5.3"
 }

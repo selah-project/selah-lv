@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ממתים ידך",
-      "rationale": "'no vīriem, Tava roka' — KJV lasa 'kas ir Tava roka'; locījums nepilnīgs, tulkotāji dalāti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חלד",
-      "gloss": "pelēkā pasaule — 'iznīcīgā dzīve\/pasaule' viena vārdā"
-    }
-  ],
-  "translation": "no vīriem — Tava roka, Jahve, — no vīriem no šīs pelēkās pasaules: viņu daļa ir šajā dzīvē, un ar saviem apslēptajiem dārgumiem Tu pilda viņu vēderus; viņi sātīgi paiet ar bērniem un atstāj savu pāraplikumu saviem zīdaiņiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/17\/13-15.1792527091125.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No vīriem — Tava roka, Jahve — no vīriem ⟨no šīs⟩ īslaicīgās pasaules: viņu daļa ir ⟨šajā⟩ dzīvē, un ar Saviem apslēptajiem dārgumiem Tu pilda viņu vēderu; viņi kļūst sāti ar bērniem un atstāj savu pārpalikumu saviem zīdaiņiem.",
   "tokens": [
     {
       "surface": "ממתים",
@@ -45,8 +24,8 @@
       "gloss": "no vīriem"
     },
     {
-      "surface": "מחלdz",
-      "gloss": "no šīs pelēkās pasaules"
+      "surface": "מחלד",
+      "gloss": "no šīs īslaicīgās pasaules"
     },
     {
       "surface": "חלקם",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בחיים",
-      "gloss": "šajā dzīvē"
+      "gloss": "dzīvē"
     },
     {
       "surface": "וצפינך",
-      "gloss": "ar saviem apslēptajiem dārgumiem"
+      "gloss": "un ar Saviem apslēptajiem dārgumiem"
     },
     {
       "surface": "תמלא",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "בטנם",
-      "gloss": "viņu vēderus"
+      "gloss": "viņu vēderu"
     },
     {
       "surface": "ישבעו",
-      "gloss": "viņi sātīgi paiet"
+      "gloss": "viņi kļūst sāti"
     },
     {
       "surface": "בנים",
@@ -82,13 +61,13 @@
     },
     {
       "surface": "יתרם",
-      "gloss": "savu pāraplikumu"
+      "gloss": "savu pārpalikumu"
     },
     {
       "surface": "לעולליהם",
       "gloss": "saviem zīdaiņiem"
     }
   ],
-  "timestamp": "2026-10-20T20:11:31.127325981Z",
+  "timestamp": "2026-10-20T23:00:04.372447864Z",
   "model": "glm-5.3"
 }

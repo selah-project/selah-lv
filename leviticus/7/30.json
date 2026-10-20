@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "pacēluma dāvana",
-      "rationale": "תנופה — šūpošanas\/pacelšanas žests priekš Jahves, latviski 'pacēluma dāvana'"
-    }
-  ],
-  "translation": "Savas rokas lai atnes ⟨את⟩ Jahves ugunskupurus, ⟨את⟩ taukiem uz krūts — viņš to atnesīs, ⟨את⟩ krūti, lai to paceltu kā pacēluma dāvanu Jahves priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/7\/29-32.1792513680394.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņa paša rokas lai atnes ⟨את⟩ Jahves uguns upurus: ⟨את⟩ taukus kopā ar krūti viņš to atnes, ⟨את⟩ krūti, lai to paceltu kā pacelšanas upuri Jahves priekšā.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "Savas rokas"
+      "gloss": "viņa paša rokas"
     },
     {
       "surface": "תביאינה",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves ugunskupurus"
+      "marks": "Jahves uguns upurus"
     },
     {
       "surface": "אשי",
-      "gloss": "ugunskupurus"
+      "gloss": "uguns upurus"
     },
     {
       "surface": "יהוה",
@@ -47,23 +31,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taukiem"
+      "marks": "taukus"
     },
     {
       "surface": "החלב",
-      "gloss": "taukiem"
+      "gloss": "taukus"
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "kopā ar"
     },
     {
       "surface": "החזה",
-      "gloss": "krūts"
+      "gloss": "krūti"
     },
     {
       "surface": "יביאנו",
-      "gloss": "viņš to atnesīs"
+      "gloss": "viņš to atnes"
     },
     {
       "surface": "את",
@@ -80,12 +64,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "to"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "kā pacelšanas upuri"
     },
     {
       "surface": "תנופה",
-      "gloss": "pacēluma dāvanu"
+      "gloss": "kā pacelšanas upuri"
     },
     {
       "surface": "לפני",
@@ -96,6 +80,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T16:28:00.395087009Z",
+  "timestamp": "2026-10-20T22:56:23.707048477Z",
   "model": "glm-5.3"
 }

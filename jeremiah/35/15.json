@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אלהים אחרים — citiem dieviem",
-      "rationale": "par citu tautu dieviem pareizi ar mazo burtu 'dieviem', nevis 'Elohim'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הטיתם אזנכם",
-      "rationale": "'noliekt ausi' — ebreju idioms par ieklausīšanos; saglabāts burtiski"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Atgriezieties, lūdzu, katrs no savā ļaunā ceļa",
-      "rationale": "praviešu aicinājums atgriezties, pievērsts jebkuram vīram atsevišķi"
-    }
-  ],
-  "translation": "Un es sūtīju pie jums ⟨את⟩ visus savus kalpus, praviešus, celdamies agri un sūtīdams, lai sacītu: Atgriezieties, lūdzu, katrs no savā ļaunā ceļa un dariet labu savus darbus, un neejiet pakaļ citiem dieviem, lai tiem kalpotu, un dzīvojiet zemē, ko es esmu devis jums un jūsu tēviem; bet jūs nenoliecāt ⟨את⟩ savu ausu un neklausījāt man.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/35\/13-16.1792524099015.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es sūtīju pie jums ⟨את⟩ visus savus kalpus, praviešus, celdamies agri un sūtīdams, sacīdams: Atgriezieties, lūdzu, ikviens no sava ļaunā ceļa un dariet labu savus darbus, un neejiet pakaļ citiem dieviem, tiem kalpodami, un mājojiet zemē, ko es devu jums un jūsu tēviem. Bet jūs nenoliecāt ⟨את⟩ savu ausu un neklausījāt mani.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus savus kalpus"
+      "marks": "visus savus kalpus, praviešus"
     },
     {
       "surface": "כל",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "lai sacītu"
+      "gloss": "sacīdams"
     },
     {
       "surface": "שבו",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "katrs"
+      "gloss": "ikviens"
     },
     {
       "surface": "מדרכו",
-      "gloss": "no savā ... ceļa"
+      "gloss": "no sava ceļa"
     },
     {
       "surface": "הרעה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "מעלליכם",
-      "gloss": "savus darbus"
+      "gloss": "saviem darbiem"
     },
     {
       "surface": "ואל",
@@ -120,19 +94,19 @@
     },
     {
       "surface": "לעבדם",
-      "gloss": "lai tiem kalpotu"
+      "gloss": "tiem kalpodami"
     },
     {
       "surface": "ושבו",
-      "gloss": "un dzīvojiet"
+      "gloss": "un mājojiet"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "האדמה",
-      "gloss": "zemē"
+      "gloss": "zemi"
     },
     {
       "surface": "אשר",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "es esmu devis"
+      "gloss": "es devu"
     },
     {
       "surface": "לכם",
@@ -152,11 +126,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "bet ne"
+      "gloss": "Bet ne"
     },
     {
       "surface": "הטיתם",
-      "gloss": "jūs noliecāt"
+      "gloss": "jūs nenoliecāt"
     },
     {
       "surface": "את",
@@ -177,9 +151,9 @@
     },
     {
       "surface": "אלי",
-      "gloss": "man"
+      "gloss": "mani"
     }
   ],
-  "timestamp": "2026-10-20T19:21:39.016229102Z",
+  "timestamp": "2026-10-20T22:49:51.148847018Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "machabat barzel",
-      "rationale": "„Dzelzs cepamā panna“ pret „dzelzs plāksne“ (BSB) — priekšmets ir sadzīves rīks, ko simboliski dara par sienu."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "Latviešu valodai vajadzīgs saiklis „tā ir zīme“, ebreju tekstā nav darbības vārda."
-    },
-    {
-      "kind": "mystery",
-      "subject": "zīme",
-      "rationale": "Rīcība ir simboliska parādība — zīme Jisraēla namam ar slēptu nozīmi, kas tiks atklāta vēlāk."
-    }
-  ],
-  "translation": "Un tu paņem sev dzelzs cepamo pannu un cel to par dzelzs sienu starp tevi un pilsētu, un vērs ⟨את⟩ savu seju pret to, un tā būs aplenkumā, un tu to aplenksi; tā ⟨ir⟩ zīme Jisraēla namam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/4\/1-4.1792524772020.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu ņem sev dzelzs cepamo pannu un liec to par dzelzs sienu ⟨את⟩ starp tevi un starp pilsētu, un tu nostādi ⟨את⟩ savu seju pret to, un tā būs aplenkumā, un tu aplenci to — tā ir zīme Jisraēla namam.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "קח",
-      "gloss": "paņem"
+      "gloss": "ņem"
     },
     {
       "surface": "לך",
@@ -55,16 +29,15 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "un cel"
+      "gloss": "un liec"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "to (pannu)"
+      "gloss": "⟨את⟩ to"
     },
     {
       "surface": "קיר",
-      "gloss": "sienu"
+      "gloss": "par sienu"
     },
     {
       "surface": "ברזל",
@@ -76,7 +49,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "un"
+      "gloss": "un starp"
     },
     {
       "surface": "העיר",
@@ -84,7 +57,7 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "un vērs"
+      "gloss": "un tu nostādi"
     },
     {
       "surface": "את",
@@ -109,7 +82,7 @@
     },
     {
       "surface": "וצרת",
-      "gloss": "un tu aplenksi"
+      "gloss": "un tu aplenci"
     },
     {
       "surface": "עליה",
@@ -121,7 +94,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "tā"
+      "gloss": "tā ir"
     },
     {
       "surface": "לבית",
@@ -132,6 +105,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T19:32:52.021796327Z",
+  "timestamp": "2026-10-20T22:44:56.438937094Z",
   "model": "glm-5.3"
 }

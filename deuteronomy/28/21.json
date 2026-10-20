@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Israēls",
-      "rationale": "klātesošā laika 'tev' — lāstu uzruna tieši Izraēlam."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הדבר \/ דבר",
-      "rationale": "'mēris' un 'vārds' vienādi burtiem — lāsts nāk kā runāts vārds, latviski zudīgs."
-    }
-  ],
-  "translation": "Jahve liks pielipt tev ⟨את⟩ mēri, līdz tas tevi iznīcinās no virs zemes, uz kuru tu ej, lai to ieņemtu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/21-24.1792517311397.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve pieķirs pie tevis ⟨את⟩ mēri, līdz būs ⟨את⟩ tevi iznīcinājis no virs zemes, uz kuru tu turp dodi to ieņemt.",
   "tokens": [
     {
       "surface": "ידבק",
-      "gloss": "liks pielipt"
+      "gloss": "pieķirs"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בך",
-      "gloss": "tev"
+      "gloss": "pie tevis"
     },
     {
       "surface": "את",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "iznīcinās"
+      "gloss": "būs iznīcinājis"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "tevi"
+      "gloss": "⟨את⟩ tevi",
+      "marks": "no virs zemes"
     },
     {
       "surface": "מעל",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "ej"
+      "gloss": "dodi"
     },
     {
       "surface": "שמה",
@@ -88,9 +67,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "lai to ieņemtu"
+      "gloss": "to ieņemt"
     }
   ],
-  "timestamp": "2026-10-20T17:28:31.398915736Z",
+  "timestamp": "2026-10-20T22:40:19.376781851Z",
   "model": "glm-5.3"
 }

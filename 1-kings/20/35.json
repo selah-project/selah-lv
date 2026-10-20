@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "Prievārds 'pie' iekļauts datīvā 'savam draugam'."
-    },
-    {
-      "kind": "you",
-      "subject": "pravietis savam draugam",
-      "rationale": "Pavēle 'Siti mani' tieši vērsta uz līdzgaitnieku."
-    }
-  ],
-  "translation": "Un kāds vīrs no praviešu dēliem sacīja savam draugam pēc Jahves vārda: Siti mani, lūdzu. Bet vīrs atteicās viņu sist.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8048adefe8470d0ef1272e65122f624efafa6dd840b7ea53b4abc1ecbd0475b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/33-36.1792520990596.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viens vīrs no praviešu dēliem sacīja savam biedram pēc Jahves vārda: Sities man ⟨lūdzu⟩! Bet vīrs atteicās viņu sist.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Un kāds vīrs"
+      "gloss": "Un vīrs"
     },
     {
       "surface": "אחד",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "savam draugam"
+      "gloss": "savam biedram"
     },
     {
       "surface": "בדבר",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "הכיני",
-      "gloss": "Siti mani"
+      "gloss": "Sities man"
     },
     {
       "surface": "נא",
-      "gloss": "lūdzu"
+      "gloss": "⟨lūdzu⟩"
     },
     {
       "surface": "וימאן",
-      "gloss": "un atteicās"
+      "gloss": "Bet atteicās"
     },
     {
       "surface": "האיש",
@@ -85,6 +64,6 @@
       "gloss": "viņu sist"
     }
   ],
-  "timestamp": "2026-10-20T18:29:50.597999646Z",
+  "timestamp": "2026-10-20T22:32:42.710341979Z",
   "model": "glm-5.3"
 }

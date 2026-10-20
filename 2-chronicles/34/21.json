@@ -5,38 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "דרשו את יהוה",
-      "rationale": "burtiski 'meklēt Jahvi' — aprasts izteiciens 'vaicāt\/pētīt Dieva vārdu', latviski 'vaicāt manā vietā'."
-    },
-    {
-      "kind": "elision",
-      "subject": "על (uz)",
-      "rationale": "'uzrakstīts UZ grāmatas' — latviešu valodā 'grāmatā', prievārds izlaists."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ejiet, vaicājiet",
-      "rationale": "karaļa pavēle pavēlējošā locījumā vērsta pie Hilkijas un sūtņiem."
-    },
-    {
-      "kind": "you",
-      "subject": "Ejiet",
-      "rationale": "uzruna sūtņiem, kurus Josija sūtī pie pravietes."
-    }
-  ],
-  "translation": "Ejiet, vaicājiet Jahve manā vietā un tās atlikušās daļas labā Jisraēlā un Jehudā par šīs grāmatas vārdiem, kas atrasts, jo liela ir Jahves dusmība, kas izlieta pār mums par to, ka mūsu tēvi nav sargājuši ⟨את⟩ Jahves ⟨את⟩ vārdu, lai darītu viss, kas uzrakstīts šajā grāmatā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/21-24.1792532412739.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ejiet, vaicājiet Jahve ⟨את⟩ manis dēļ un atlikušo dēļ Jisraēlā un Jehudā par šīs grāmatas vārdiem, kas ir atrasta, jo liela ir Jahves dusmu kvēle, kas ir izlieta pār ⟨mums⟩, tāpēc, ka mūsu tēvi nav sargājuši ⟨את⟩ Jahves vārdu, darīt visu, kas rakstīts šajā grāmatā.",
   "tokens": [
     {
       "surface": "לכו",
@@ -57,15 +26,15 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "manā vietā"
+      "gloss": "manis dēļ"
     },
     {
       "surface": "ובעד",
-      "gloss": "un ... labā"
+      "gloss": "un — dēļ"
     },
     {
       "surface": "הנשאר",
-      "gloss": "atlikušās daļas"
+      "gloss": "atlikušo"
     },
     {
       "surface": "בישראל",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "atrasts"
+      "gloss": "ir atrasta"
     },
     {
       "surface": "כי",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "dusmība"
+      "gloss": "dusmu kvēle"
     },
     {
       "surface": "יהוה",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "נתכה",
-      "gloss": "izlieta"
+      "gloss": "ir izlieta"
     },
     {
       "surface": "בנו",
@@ -125,11 +94,11 @@
     },
     {
       "surface": "על",
-      "gloss": "par"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "אשר",
-      "gloss": "to, ka"
+      "gloss": ""
     },
     {
       "surface": "לא",
@@ -158,29 +127,29 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "lai darītu"
+      "gloss": "darīt"
     },
     {
       "surface": "ככל",
-      "gloss": "viss"
+      "gloss": "visu"
     },
     {
       "surface": "הכתוב",
-      "gloss": "uzrakstīts"
+      "gloss": "rakstīts"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "הספר",
-      "gloss": "grāmatā"
+      "gloss": "šajā grāmatā"
     },
     {
       "surface": "הזה",
       "gloss": "šajā"
     }
   ],
-  "timestamp": "2026-10-20T21:40:12.740342672Z",
+  "timestamp": "2026-10-20T22:35:41.418163511Z",
   "model": "glm-5.3"
 }

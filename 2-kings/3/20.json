@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minha",
-      "rationale": "המנחה — upuris dāvana; pēc noteikuma atstāts kā minha, nevis 'upuris' viens"
-    },
-    {
-      "kind": "elision",
-      "subject": "כעלות",
-      "gloss": "burtiski 'uziešanas laikā' — laika apzīmējums minhas upurim"
-    }
-  ],
-  "translation": "Un no rīta, kad uzrāpās rīta minha, — un lūk, ūdens nāca pa Edomas ceļu, un zeme tika piepildīta ⟨את⟩ ar ūdeni.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/3\/17-20.1792521109477.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika no rīta, kad uz­nesa rīta minhā ⟨את⟩ ūdeņus nāca pa ceļu no Edomas, un zeme piepildījās ⟨את⟩ ūdeņiem.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "כעלות",
-      "gloss": "kad uzrāpās"
+      "gloss": "kad uznesa"
     },
     {
-      "surface": "המנחha",
-      "gloss": "minha"
+      "surface": "המנחה",
+      "gloss": "rīta minhā"
     },
     {
       "surface": "והנה",
-      "gloss": "un lūk"
+      "gloss": "un"
     },
     {
       "surface": "מים",
-      "gloss": "ūdens"
+      "gloss": "ūdeņi"
     },
     {
       "surface": "באים",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "אדום",
-      "gloss": "Edomas"
+      "gloss": "no Edomas"
     },
     {
       "surface": "ותמלא",
-      "gloss": "un tika piepildīta"
+      "gloss": "un piepildījās"
     },
     {
       "surface": "הארץ",
@@ -75,13 +54,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ūdeni"
+      "marks": "ūdeņiem"
     },
     {
       "surface": "המים",
-      "gloss": "ar ūdeni"
+      "gloss": "ūdeņiem"
     }
   ],
-  "timestamp": "2026-10-20T18:31:49.479014149Z",
+  "timestamp": "2026-10-20T22:37:28.281257547Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "pirmā אשר ietilpst cēloniecības konstrukcijā על אשר 'tāpēc, ka' un atsevišķi netiek tulkots."
-    },
-    {
-      "kind": "substitution",
-      "subject": "klausīt",
-      "rationale": "שמע nozīmē 'dzirdēt\/paklausīt' — viens vārds abām nozīmēm; latviski 'klausīt'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ולא שמעו ולא עשו",
-      "rationale": "atkārtots noliegums divos pāros — 'neklausīja un nedarīja' — noslēdz pants ar ritmisku divkāršu noraidījumu."
-    }
-  ],
-  "translation": "Tāpēc, ka viņi neklausīja Jahves, sava Elohim, balsij, bet pārkāpa ⟨את⟩ Viņa derību — ⟨את⟩ visu, ko Moše, Jahves kalps, bija pavēlējis — un neklausīja un nedarīja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/9-12.1792521550358.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc, ka viņi neklausīja Jahves, sava Elohim, balsī, bet pārkāpa ⟨את⟩ viņa derību — ⟨את⟩ visu, ko bija pavēlējis Moše, Jahves kalps, — un neklausīja un nedarīja.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Tāpēc, ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "לא",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "balsij"
+      "gloss": "balsī"
     },
     {
       "surface": "יהוה",
@@ -68,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "derību"
+      "marks": "viņa derību"
     },
     {
       "surface": "בריתו",
-      "gloss": "Viņa derību"
+      "gloss": "viņa derību"
     },
     {
       "surface": "את",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "pavēlēja"
+      "gloss": "bija pavēlējis"
     },
     {
       "surface": "משה",
@@ -120,6 +94,6 @@
       "gloss": "darīja"
     }
   ],
-  "timestamp": "2026-10-20T18:39:10.359665712Z",
+  "timestamp": "2026-10-20T22:37:10.470045257Z",
   "model": "glm-5.3"
 }

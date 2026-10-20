@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nesavaldīga",
-      "rationale": "יפרע burtiski 'atbrīvots, kails': 'iet bojā' (KJV) pret 'atlaiž važas \/ kļūst nesavaldīga' (ASV\/JPS)"
-    },
-    {
-      "kind": "elision",
-      "subject": "ir",
-      "rationale": "ascii valodā iztrūkstošs saiklis 'ir' klusumā pie 'laime viņam'"
-    }
-  ],
-  "translation": "Bez redzējuma tauta kļūst nesavaldīga, bet tas, kas sargā ⟨את⟩ Toru, — laime viņam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/29\/17-20.1792528896525.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bez redzējuma tauta kļūst nevaldāma, bet tas, kas sargā Toru, — laime ⟨ir⟩ viņam.",
   "tokens": [
     {
       "surface": "באין",
-      "gloss": "Bez"
+      "gloss": "bez"
     },
     {
       "surface": "חזון",
@@ -38,30 +17,25 @@
     },
     {
       "surface": "יפרע",
-      "gloss": "kļūst nesavaldīga"
+      "gloss": "kļūst nevaldāma"
     },
     {
       "surface": "עם",
       "gloss": "tauta"
     },
     {
-      "surface": "ו שומר",
+      "surface": "ושמר",
       "gloss": "bet tas, kas sargā"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Toru"
     },
     {
       "surface": "תורה",
       "gloss": "Toru"
     },
     {
-      "surface": "אשריו",
-      "gloss": "laime viņam"
+      "surface": "אשרהו",
+      "gloss": "laime ⟨ir⟩ viņam"
     }
   ],
-  "timestamp": "2026-10-20T20:41:36.526463581Z",
+  "timestamp": "2026-10-20T22:59:21.301072584Z",
   "model": "glm-5.3"
 }

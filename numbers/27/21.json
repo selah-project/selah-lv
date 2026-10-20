@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Urim",
-      "rationale": "האורים — 'Urim' (gaismas); tulkojums 'gaismas' (ylt) pret apzīmējumu 'Urim' kā īpašvārds."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לפני",
-      "rationale": "'seja' burtiski; tulkots kā 'priekšā'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "על פיו",
-      "rationale": "burtiski 'pār viņa muti' — latviski 'pēc viņa mutes', tas ir, pēc viņa vārda."
-    },
-    {
-      "kind": "secret",
-      "subject": "Urim tiesa",
-      "rationale": "Orākulārā Urim vaicāšana — slēpta, pieejama tikai priesterim Jahve priekšā."
-    }
-  ],
-  "translation": "Un priestera Elazara priekšā viņš stāvēs, un viņš vaicās viņam pēc Urim tiesas, Jahve priekšā; pēc viņa mutes tie izies, un pēc viņa mutes tie ieies — viņš un visi Jisraēla dēli ⟨ar viņu⟩ un visa saime.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b00ac22eff1690ee6d1b9b57002958b15c6cf37929006a231829eb6992574035",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/27\/21-23.1792516216535.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Aharona dēls Elazars priesteris priekšā viņš stāvēs, un tas vaicās viņam pēc Urim tiesas Jahves priekšā; pēc viņa mutes tie izies, un pēc viņa mutes tie ienāks — viņš un visi Jisraēla dēli ⟨את⟩ viņu ⟨līdz⟩ un visa draudze.",
   "tokens": [
     {
       "surface": "ולפני",
-      "gloss": "Un ... priekšā"
+      "gloss": "priekšā"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazaram"
+      "gloss": "Elazars"
     },
     {
       "surface": "הכהן",
@@ -52,11 +21,11 @@
     },
     {
       "surface": "יעמד",
-      "gloss": "viņš stāvēs"
+      "gloss": "stāvēs"
     },
     {
       "surface": "ושאל",
-      "gloss": "un viņš vaicās"
+      "gloss": "vaicās"
     },
     {
       "surface": "לו",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahves"
     },
     {
       "surface": "על",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "tie ieies"
+      "gloss": "tie ienāks"
     },
     {
       "surface": "הוא",
@@ -120,8 +89,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ar viņu",
-      "marks": "ar viņu"
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
     },
     {
       "surface": "וכל",
@@ -129,9 +98,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "saime"
+      "gloss": "draudze"
     }
   ],
-  "timestamp": "2026-10-20T17:10:16.536773592Z",
+  "timestamp": "2026-10-20T22:58:33.129265584Z",
   "model": "glm-5.3"
 }

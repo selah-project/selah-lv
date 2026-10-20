@@ -5,42 +5,16 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju tekstā nav saikla; 'un viņš jūsu bailes' — pievienots ⟨ir⟩ latviešu valodai."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraēla ļaudis",
-      "rationale": "Pavēle 'svētdariet' vērsta pie Isaija Auditorijas — tieša uzruna."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מוראכם\/מערצכם",
-      "rationale": "Divi līdzskaņaini 'bailju' vārdi pārī — intensitātes pieaugums, daļēji zūd latviski."
-    }
-  ],
-  "translation": "⟨את⟩ Jahvu Cevaot — viņu svētdariet, un viņš ⟨ir⟩ jūsu bailes, un viņš ⟨ir⟩ jūsu trīsas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/8\/13-16.1792521943682.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ Jahvi Cevaot turiet svētu, un ⟨את⟩ viņš — viņš lai ir jūsu bailes, un viņš — jūsu trīsas.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvu Cevaot"
+      "marks": "Jahvi Cevaot"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahvi"
     },
     {
       "surface": "צבאות",
@@ -49,11 +23,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "viņš"
     },
     {
       "surface": "תקדישו",
-      "gloss": "svētdariet"
+      "gloss": "turiet svētu"
     },
     {
       "surface": "והוא",
@@ -72,6 +46,6 @@
       "gloss": "jūsu trīsas"
     }
   ],
-  "timestamp": "2026-10-20T18:45:43.683485431Z",
+  "timestamp": "2026-10-20T22:48:31.032827326Z",
   "model": "glm-5.3"
 }

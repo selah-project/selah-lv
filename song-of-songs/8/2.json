@@ -5,28 +5,7 @@
   "book": "song-of-songs",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תלמדני",
-      "rationale": "'tu mācītu mani' (vīrieša kārtas 2. persona) pret tradicionālo 'viņa mani mācīja' (māte); darbības vārda forma atļauj abas lasījumus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הרקח",
-      "rationale": "'smaržvielu sajaukums' — atgriezeniskās nozīmes darbības vārds ar pašsaprotamu objektu, latviski attēlots kā aprakstošs piedēklis"
-    }
-  ],
-  "translation": "Es tevi vadītu, es tevi vestu iekšā mana mātes namā; tu mācītu mani; es tevi dzirdinātu ar vīnu, kas sajaukts ar smaržvielām, ar sulaini no maniem granātiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/1-4.1792529746320.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Es tevi vadītu, tevi ievedu mana mātes namā, tu mācītu mani, es tevi dzirdinātu ar mēsīgo vīnu, ar granātābola mans sulu.",
   "tokens": [
     {
       "surface": "אנהגך",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אביאך",
-      "gloss": "es tevi vestu iekšā"
+      "gloss": "tevi ievedu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨ielā⟩"
     },
     {
       "surface": "בית",
@@ -62,17 +41,17 @@
     },
     {
       "surface": "הרקח",
-      "gloss": "kas sajaukts ar smaržvielām"
+      "gloss": "mēsīgo (ar garšvielām sajaukto)"
     },
     {
       "surface": "מעסיס",
-      "gloss": "ar sulaini"
+      "gloss": "ar sulu"
     },
     {
       "surface": "רמני",
-      "gloss": "no maniem granātiem"
+      "gloss": "mana granātābola"
     }
   ],
-  "timestamp": "2026-10-20T20:55:46.321971834Z",
+  "timestamp": "2026-10-20T23:00:51.600656282Z",
   "model": "glm-5.3"
 }

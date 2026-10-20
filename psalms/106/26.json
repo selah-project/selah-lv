@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "pacēla savu roku",
-      "rationale": "וישא ידו — zvēresta žests (kā ASV\/JPS 'he sware') vai draudošs žests pret viņiem (kā KJV); teikts burtiski: pacēla roku"
-    }
-  ],
-  "translation": "Tad viņš pacēla savu roku pret viņiem, lai nogāztu tos tuksnesī.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/25-28.1792528189009.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš pacēla savu roku pret viņiem, lai gāztu viņus ⟨את⟩ tuksnesī.",
   "tokens": [
     {
       "surface": "וישא",
@@ -37,18 +21,18 @@
     },
     {
       "surface": "להפיל",
-      "gloss": "lai nogāztu"
+      "gloss": "lai gāztu"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "tos"
+      "marks": "viņus"
     },
     {
       "surface": "במדבר",
       "gloss": "tuksnesī"
     }
   ],
-  "timestamp": "2026-10-20T20:29:49.010640932Z",
+  "timestamp": "2026-10-20T22:59:33.975844704Z",
   "model": "glm-5.3"
 }

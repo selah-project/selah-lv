@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הלוך ורב",
-      "rationale": "Burtiski 'eja, ejot un augot' — pastiprinošs atkārtojums; atveidots kā 'aizvien tālāk un arvien lielāks'"
-    },
-    {
-      "kind": "elision",
-      "subject": "הכהן",
-      "rationale": "Otrā 'priesteris' apzīmējums saplūst ar pirmo latviešu teikumā; glosā atstāts viens vārds 'priesterim'"
-    }
-  ],
-  "translation": "Un notika, kamēr Šauls runāja ar priesteri, ka troksnis, kas bija filistiešu nometnē, gāja aizvien tālāk un kļuva arvien lielāks; un sacīja Šauls priesterim: Atvelc savu roku!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/17-20.1792519026599.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kamēr Šauls runāja ar priesteri, ka troksnis ⟨kas⟩ bija filistiešu nometnē gāja aizvien tālāk un pieauga, un Šauls sacīja priesterim: Atvelc ⟨savu⟩ roku!",
   "tokens": [
     {
       "surface": "ויהי",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "⟨kas⟩"
     },
     {
       "surface": "במחנה",
-      "gloss": "bija nometnē"
+      "gloss": "nometnē"
     },
     {
       "surface": "פלשתים",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "וילך",
-      "gloss": "gāja"
+      "gloss": "gāja tālāk"
     },
     {
       "surface": "הלוך",
-      "gloss": "aizvien tālāk"
+      "gloss": "aizvien ejot"
     },
     {
       "surface": "ורב",
-      "gloss": "un kļuva lielāks"
+      "gloss": "un pieauga"
     },
     {
       "surface": "ויאמר",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": ""
+      "gloss": "priesterim"
     },
     {
       "surface": "אסף",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "ידך",
-      "gloss": "savu roku"
+      "gloss": "roku"
     }
   ],
-  "timestamp": "2026-10-20T17:57:06.600176937Z",
+  "timestamp": "2026-10-20T22:33:40.046893279Z",
   "model": "glm-5.3"
 }

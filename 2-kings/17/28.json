@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מורה\/תורה",
-      "rationale": "מורה no saknes ירה — tā pati sakne, no kā Tora; mācītājs ir Toras nesējs vārda burtiskajā nozīmē"
-    },
-    {
-      "kind": "substitution",
-      "subject": "worship",
-      "rationale": "BSB 'worship' par ירא; ebreju vārds ir 'bīties' — baiļu un godāšanas vienība"
-    }
-  ],
-  "translation": "Un ieradās viens no priesteriem, kurus aizdzina no Šomronas, un viņš apmetās Beit-Elā un kļuva par mācītāju ⟨את⟩ viņiem, kā bīties no Jahves.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d51b58fdc7b9ac26e707ab9c755f7613ad643c8c1f315d5bc327fdbd4d369f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/25-28.1792521608961.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viens no priesteriem, kurus bija izsūtījuši no Šomronas, atnāca un apmetās Beit-Elā, un viņš kļuva par ⟨viņu⟩ mācītāju, ⟨את⟩ viņus mācot, kā bīties no ⟨את⟩ Jahves.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Un ieradās"
+      "gloss": "un atnāca"
     },
     {
       "surface": "אחד",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "aizdzina"
+      "gloss": "bija izsūtījuši"
     },
     {
       "surface": "משמרון",
@@ -62,19 +41,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "-Elā"
+      "gloss": "Elā"
     },
     {
       "surface": "ויהי",
-      "gloss": "un viņš bija"
+      "gloss": "un kļuva"
     },
     {
       "surface": "מורה",
-      "gloss": "mācītājs"
+      "gloss": "par mācītāju"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ viņus"
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
     },
     {
       "surface": "איך",
@@ -87,13 +67,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvi"
+      "marks": "Jahves"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvi"
+      "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T18:40:08.962888806Z",
+  "timestamp": "2026-10-20T22:36:46.800781613Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יראה ×3",
-      "rationale": "Darbības vārds 'redzēt' atkārtojas trīsreiz — cilvēks redz, cilvēks redz, Jahve redz — parallēle, kas latviski saglabāta."
-    },
-    {
-      "kind": "you",
-      "subject": "Neskaties",
-      "rationale": "Jahve vēršas tieši pie Šmuēla ar aizlieguma pavēli."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לעינים \/ ללבב",
-      "rationale": "Burtiski 'pie acīm' un 'pie sirds' — redzēšanas orgāni kā priekšnoteikuma mērķis."
-    }
-  ],
-  "translation": "Bet Jahve sacīja Šmuēlam: Neskaties uz viņa izskatu un uz viņa auguma augstumu, jo es viņu atraidīju; jo ne tā, kā cilvēks redz — jo cilvēks redz acīm, bet Jahve redz sirdi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/16\/5-8.1792519158670.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet Jahve sacīja Šemuēlam: Neraugies uz viņa izskatu un uz viņa auguma augstumu, jo es viņu atraidīju, jo ne tā, kā redz cilvēks ⟨tiek redzēts⟩ — cilvēks redz ar acīm, bet Jahve redz uz sirdi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Bet sacīja"
+      "gloss": "sacīja"
     },
     {
       "surface": "יהוה",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "שמואל",
-      "gloss": "Šmuēlam"
+      "gloss": "Šemuēlu"
     },
     {
       "surface": "אל",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תבט",
-      "gloss": "skaties"
+      "gloss": "raugies"
     },
     {
       "surface": "אל",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tā, kā"
+      "gloss": "kā"
     },
     {
       "surface": "יראה",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "לעינים",
-      "gloss": "acīm"
+      "gloss": "ar acīm"
     },
     {
       "surface": "ויהוה",
@@ -131,9 +105,9 @@
     },
     {
       "surface": "ללבב",
-      "gloss": "sirdi"
+      "gloss": "uz sirdi"
     }
   ],
-  "timestamp": "2026-10-20T17:59:18.671668103Z",
+  "timestamp": "2026-10-20T22:34:11.936443064Z",
   "model": "glm-5.3"
 }

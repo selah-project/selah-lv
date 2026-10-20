@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויחר אף",
-      "rationale": "Burtiski 'viņa deguns iedegās' — ebreju idiomu dusmām; ⟨dusmu⟩ pievienots iekavās."
-    },
-    {
-      "kind": "substitution",
-      "subject": "תחת",
-      "rationale": "Burtiski 'zem' — 'kalna pakājē' pēc konteksta."
-    }
-  ],
-  "translation": "Un notika, kad viņš tuvojās nometnei, ka viņš ieraudzīja ⟨את⟩ teļu un dejas, un Mošem iedegās ⟨dusmu⟩ deguns, un viņš izmeta no savām rokām ⟨את⟩ plāksnes un sadauzīja ⟨את⟩ tās kalna pakājē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/32\/17-20.1792513408347.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kad ⟨viņš⟩ tuvojās nometnei, ⟨kad⟩ viņš ieraudzīja ⟨את⟩ teļu un dejas, tad Mošes dega dusmās un no savām rokām svieda ⟨את⟩ plāksnes un sasita ⟨את⟩ tās kalna pakājē.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Un notika"
+      "gloss": "un notika"
     },
     {
       "surface": "כאשר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "המחנה",
@@ -67,19 +46,19 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "iedegās"
+      "gloss": "dega dusmās"
     },
     {
       "surface": "אף",
-      "gloss": "degunu"
+      "gloss": "degā (nāsis\/dusmas)"
     },
     {
       "surface": "משה",
-      "gloss": "Mošem"
+      "gloss": "Mošes"
     },
     {
       "surface": "וישלך",
-      "gloss": "izmeta"
+      "gloss": "svieda"
     },
     {
       "surface": "מידו",
@@ -96,11 +75,12 @@
     },
     {
       "surface": "וישבר",
-      "gloss": "sadauzīja"
+      "gloss": "sasita"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ tās"
+      "gloss": "⟨את⟩",
+      "marks": "tās"
     },
     {
       "surface": "תחת",
@@ -111,6 +91,6 @@
       "gloss": "kalna"
     }
   ],
-  "timestamp": "2026-10-20T16:23:28.348125810Z",
+  "timestamp": "2026-10-20T22:42:46.460952591Z",
   "model": "glm-5.3"
 }

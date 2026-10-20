@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩",
-      "rationale": "latviešu valodai vajadzīgs saiklis, ebreju valodā nav"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עיפים ורדפים",
-      "rationale": "atskaņa noguruši\/dzīki — ritmiskais kontrasts saglabāts ar diviem vārdiem bez saikļa"
-    }
-  ],
-  "translation": "Un Gideons nonāca Jordānā, pārejot, viņš un trīs simti vīru, kas ⟨bija⟩ ar viņu, izsmelti, tomēr dzīki.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "37d4d622d2a82eab9d45e2026f919f5c81d33a0171484b1baeac7202322a1d72",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/8\/1-4.1792518368157.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Gidēons nonāca pie Jordānas, pārejot ⟨viņš⟩ un trīs simti vīru, kas ⟨ bija⟩ ar viņu — noguruši un tomēr dzenoties pakaļ.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideons"
+      "gloss": "Gidēons"
     },
     {
       "surface": "הירדנה",
-      "gloss": "Jordānā"
+      "gloss": "pie Jordānas"
     },
     {
       "surface": "עבר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "viņš"
+      "gloss": "⟨viņš⟩"
     },
     {
       "surface": "ושלש",
@@ -66,18 +45,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ar viņu"
+      "gloss": "ar ⟨את⟩-viņu",
+      "marks": "vīri, kas bija ar Gidēonu"
     },
     {
       "surface": "עיפים",
-      "gloss": "izsmelti"
+      "gloss": "noguruši"
     },
     {
       "surface": "ורדפים",
-      "gloss": "tomēr dzīki"
+      "gloss": "un dzenoties pakaļ"
     }
   ],
-  "timestamp": "2026-10-20T17:46:08.158576639Z",
+  "timestamp": "2026-10-20T22:54:55.653661548Z",
   "model": "glm-5.3"
 }

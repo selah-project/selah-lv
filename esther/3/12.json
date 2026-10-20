@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "trīspadsmitajā dienā pirmajā mēnesī",
-      "rationale": "Precīza datēšana — pavēle par iznīcināšanu rakstīta nīsana trīspadsmitajā dienā, gadu pirms adara trīspadsmitās."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "zemi un zemi, tautu un tautu",
-      "rationale": "Ebreju atkārtojums מדינה ומדינה, עם ועם uzsver pilnību — katra zeme, katra tauta bez izņēmuma."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Virziens izteikts latviešu datīvā 'satrapiem', atsevišķs prievārds nav vajadzīgs."
-    }
-  ],
-  "translation": "Un ķēniņa rakstveži tika izsaukti pirmajā mēnesī, tā trīspadsmitajā dienā, un tika uzrakstīts viss, ko Hamans pavēlēja ķēniņa satrapiem un pārvaldniekiem, kas ir pār zemi un zemi, un katras tautas un tautas pavēlniekiem — katrai zemei un zemei pēc tās raksta un katrai tautai un tautai pēc tās mēles; ķēniņa Ahašveroša vārdā tas tika uzrakstīts un apzīmogots ar ķēniņa gredzenu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/3\/9-12.1792530069873.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tika sasaukti ķēniņa rakstveži pirmajā mēnesī, trīspadsmitajā dienā ⟨tā⟩, un tika uzrakstīts viss, ko Hāmans bija pavēlējis ķēniņa ahšdarpaniem un pārvaldniekiem, kas bija pār katru zemi un zemi, un firstiem no tautas un tautas, katrai zemei pēc tās rakstības un katrai tautai pēc tās valodas, ķēniņa Ahašveroša vārdā tika uzrakstīts un apzīmogots ar ķēniņa gredzenu.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "un tika izsaukti"
+      "gloss": "un tika sasaukti"
     },
     {
       "surface": "ספרי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "tajā"
+      "gloss": "⟨tā⟩"
     },
     {
       "surface": "ויכתב",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "pavēlēja"
+      "gloss": "bija pavēlējis"
     },
     {
       "surface": "המן",
-      "gloss": "Hamans"
+      "gloss": "Hāmans"
     },
     {
       "surface": "אל",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אחשדרפני",
-      "gloss": "satrapiem"
+      "gloss": "ahšdarpaniem"
     },
     {
       "surface": "המלך",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "מדינה",
-      "gloss": "zemi"
+      "gloss": "katru zemi"
     },
     {
       "surface": "ומדינה",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "pavēlniekiem"
+      "gloss": "firstiem"
     },
     {
       "surface": "עם",
@@ -143,7 +117,7 @@
     },
     {
       "surface": "מדינה",
-      "gloss": "zemei"
+      "gloss": "katrai zemei"
     },
     {
       "surface": "ומדינה",
@@ -151,11 +125,11 @@
     },
     {
       "surface": "ככתבה",
-      "gloss": "pēc tās raksta"
+      "gloss": "pēc tās rakstības"
     },
     {
       "surface": "ועם",
-      "gloss": "un tautai"
+      "gloss": "un katrai tautai"
     },
     {
       "surface": "ועם",
@@ -163,7 +137,7 @@
     },
     {
       "surface": "כלשונו",
-      "gloss": "pēc tās mēles"
+      "gloss": "pēc tās valodas"
     },
     {
       "surface": "בשם",
@@ -194,6 +168,6 @@
       "gloss": "ķēniņa"
     }
   ],
-  "timestamp": "2026-10-20T21:01:09.874482854Z",
+  "timestamp": "2026-10-20T22:41:44.486294729Z",
   "model": "glm-5.3"
 }

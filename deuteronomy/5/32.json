@@ -5,40 +5,19 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ne pa labi, ne pa kreisi",
-      "rationale": "ימין ושמאל — idiomāls ceļa metaforas apzīmējums: neatkāpties no pavēlētā ceļa"
-    },
-    {
-      "kind": "you",
-      "subject": "Moše Israēlam",
-      "rationale": "Tiešs uzrunājums tautai: pildīt Jahves pavēles bez novirzes"
-    }
-  ],
-  "translation": "Un jūs pildīsiet, darot tā, kā pavēlēja Jahve, jūsu Elohim, ⟨את⟩ jums; neatkāpsities ne pa labi, ne pa kreisi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/5\/29-32.1792516714235.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un jūs sargāsit ⟨את⟩ darīt, kā pavēlēja Jahve, jūsu Elohim, ⟨את⟩ jūs; nenovērsīšieties ne pa labi, ne pa kreisi.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Un jūs pildīsiet"
+      "gloss": "Un jūs sargāsit"
     },
     {
       "surface": "לעשות",
-      "gloss": "darot"
+      "gloss": "darīt"
     },
     {
       "surface": "כאשר",
-      "gloss": "tā, kā"
+      "gloss": "kā"
     },
     {
       "surface": "צוה",
@@ -55,15 +34,15 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jums"
+      "marks": "jūs"
     },
     {
       "surface": "לא",
       "gloss": "ne"
     },
     {
-      "surface": "תסרu",
-      "gloss": "atgriezīsities"
+      "surface": "תסרו",
+      "gloss": "novērsīsities"
     },
     {
       "surface": "ימין",
@@ -74,6 +53,6 @@
       "gloss": "un pa kreisi"
     }
   ],
-  "timestamp": "2026-10-20T17:18:34.237507281Z",
+  "timestamp": "2026-10-20T22:40:40.704555312Z",
   "model": "glm-5.3"
 }

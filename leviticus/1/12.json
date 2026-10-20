@@ -5,63 +5,42 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נתח \/ לנתחיו",
-      "rationale": "Darbības vārds un tā daudzskaitlis no vienas saknes — 'sadalīs tā daļās'; latviski atspoguļots ar 'gabalos'."
-    },
-    {
-      "kind": "hapax-risk",
-      "subject": "פדר",
-      "rationale": "פדר 'tauki (ap iekšām)' — rets, tikai upura kontekstā lietots vārds; tulkots 'tauki'."
-    }
-  ],
-  "translation": "Un viņš to sadalīs gabalos, un ⟨את⟩ tā galvu un ⟨את⟩ tā taukus; un priesteris izkārtos ⟨את⟩ tos uz malkas, kas ir uz uguns, kas ir uz altāra.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/1\/9-12.1792513561146.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš to sadalīs ⟨את⟩ savos gabalos, un ⟨את⟩ tā galvu, un ⟨את⟩ tā taukus; un priesteris tos sakārtos ⟨את⟩ uz malkas, kas ir uz uguns, kas ir uz altāra.",
   "tokens": [
     {
       "surface": "ונתח",
-      "gloss": "Un viņš sadalīs gabalos"
+      "gloss": "Un viņš sadalīs"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to",
-      "marks": "to (upurnieku)"
+      "gloss": "⟨את⟩",
+      "marks": "to — savos gabalos"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "tā gabalos"
+      "gloss": "savos gabalos"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "un ⟨את⟩",
       "marks": "tā galvu"
     },
     {
       "surface": "ראשו",
-      "gloss": "un tā galvu"
+      "gloss": "tā galvu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "un ⟨את⟩",
       "marks": "tā taukus"
     },
     {
       "surface": "פדרו",
-      "gloss": "un tā taukus"
+      "gloss": "tā taukus"
     },
     {
       "surface": "וערך",
-      "gloss": "un izkārtos"
+      "gloss": "Un priesteris sakārtos"
     },
     {
       "surface": "הכהן",
@@ -70,7 +49,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tos (gabalus)"
+      "marks": "tos — gabalus, galvu un taukus"
     },
     {
       "surface": "על",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "ir uz"
     },
     {
       "surface": "האש",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "ir uz"
     },
     {
       "surface": "המזבח",
       "gloss": "altāra"
     }
   ],
-  "timestamp": "2026-10-20T16:26:01.147909650Z",
+  "timestamp": "2026-10-20T22:54:49.822823928Z",
   "model": "glm-5.3"
 }

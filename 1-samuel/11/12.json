@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מי האמר שאול ימלך עלינו",
-      "rationale": "Teikums bez pieturzīmēm: vai nu 'Kurš teica: Šauls valdīs pār mums?' (pretinieku meklēšana), vai 'Kurš sacīja, ka Šauls nedrīkst valdīt?'; KJV uztver kā apgalvojumu jautājuma veidā."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "Priedēklis 'אל' saplūst ar vārdu 'Šemuēlam' latviešu locījumā; atsevišķs prievārds nav vajadzīgs."
-    },
-    {
-      "kind": "addition",
-      "subject": "šos",
-      "rationale": "Noteiktības izteikšanai latviešu valodā pievienots rādāmais vietniekvārds."
-    }
-  ],
-  "translation": "Un tauta sacīja Šemuēlam: kas ir tas, kas sacīja: 'Vai Šauls valdīs pār mums?' Atdodiet ⟨את⟩ šos vīrus, un mēs tos nogalināsim.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/11\/9-12.1792518963265.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨טauta⟩ sacīja Šemuelim: Kas ir ⟨tas⟩, kas sacīja: Šauls valdīs pār mums? Atdodiet ⟨tos⟩ vīrus, un mēs tos nonāvēsim!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuēlam"
+      "gloss": "Šemuela"
     },
     {
       "surface": "מי",
-      "gloss": "kas"
+      "gloss": "Kas"
     },
     {
       "surface": "האמר",
-      "gloss": "ir tas, kas sacīja"
+      "gloss": "kas sacīja"
     },
     {
       "surface": "שאול",
@@ -75,13 +49,13 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨את⟩ šos vīrus"
+      "gloss": "vīrus"
     },
     {
       "surface": "ונמיתם",
-      "gloss": "un mēs tos nogalināsim"
+      "gloss": "un mēs nonāvēsim"
     }
   ],
-  "timestamp": "2026-10-20T17:56:03.266394385Z",
+  "timestamp": "2026-10-20T22:33:21.621226791Z",
   "model": "glm-5.3"
 }

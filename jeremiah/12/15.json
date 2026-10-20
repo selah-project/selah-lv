@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אשוב \/ והשבתים",
-      "rationale": "sakne שוב divreiz: 'Es atgriezīšos' un 'Es atgriezīšu viņus' — spēle ar atgriešanos"
-    },
-    {
-      "kind": "alternative",
-      "subject": "viņus",
-      "rationale": "נתשי objekts var būt kaimiņu tautas vai Jūda — konteksts (12:14) runā par kaimiņiem, kurus pēc tam atgriež"
-    }
-  ],
-  "translation": "Un notiks, kad Es būšu viņus izravies, Es atgriezīšos un apžēlošu viņus, un atgriezīšu viņus — katru pie sava mantojuma un katru savā zemē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3fc4f534b4d305adb8964613d2acaff60e2d42f7daa22d12c36b789094add8cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/13-16.1792523501774.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notiks: pēc tam, kad Es būšu tos izraujis ⟨את⟩, Es atgriezīšos un tos apžēlošu, un atgriezīšu katru pie viņa mantojuma un katru pie viņa zemes.",
   "tokens": [
     {
       "surface": "והיה",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kad"
+      "gloss": "pēc tam, kad"
     },
     {
       "surface": "נתשי",
-      "gloss": "Es būšu izravies"
+      "gloss": "Es būšu izraujis"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ viņus",
-      "marks": "viņus"
+      "gloss": "⟨את⟩",
+      "marks": "tos"
     },
     {
       "surface": "אשוב",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ורחמתים",
-      "gloss": "un apžēlošu viņus"
+      "gloss": "un tos apžēlošu"
     },
     {
       "surface": "והשבתים",
-      "gloss": "un atgriezīšu viņus"
+      "gloss": "un atgriezīšu"
     },
     {
       "surface": "איש",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "לנחלתו",
-      "gloss": "pie sava mantojuma"
+      "gloss": "pie viņa mantojuma"
     },
     {
       "surface": "ואיש",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "לארצו",
-      "gloss": "savā zemē"
+      "gloss": "pie viņa zemes"
     }
   ],
-  "timestamp": "2026-10-20T19:11:41.776025467Z",
+  "timestamp": "2026-10-20T22:48:47.117159874Z",
   "model": "glm-5.3"
 }

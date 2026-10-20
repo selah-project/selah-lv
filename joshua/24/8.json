@@ -5,36 +5,16 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pret jums",
-      "rationale": "אתם šeit ir prievārds 'ar, pret', nevis priekšmets zīme ⟨את⟩ — viens vārds, divas nozīmes"
-    },
-    {
-      "kind": "idiom",
-      "subject": "no jūsu acīm",
-      "rationale": "מפניכ׈ burtiski 'no jūsu vaiga\/sejas', idiomātiski 'no jūsu priekšas, no jūsu redzesloka'"
-    }
-  ],
-  "translation": "Un es atvedu jūs uz emoriešu zemi, kas dzīvoja aiz Jordānas, un viņi karoja pret jums, un es devu viņus jūsu rokā, un jūs apņēmāt ⟨את⟩ viņu zemi, un es tos iznīcināju no jūsu acīm.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/24\/5-8.1792518164438.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es atvedu ⟨את⟩ jūs uz emoriešu zemi, kas dzīvoja aiz Jordānas, un tie karoja ar jums, un Es nodevu tos jūsu rokā, un jūsņēmāt ⟨את⟩ to zemi īpašumā, un Es iznīcināju tos no jūsu acīm priekšā.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "Un es atvedu"
+      "gloss": "Un Es atvedu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
     },
     {
       "surface": "אל",
@@ -62,19 +42,21 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "un viņi karoja"
+      "gloss": "un tie karoja"
     },
     {
       "surface": "אתכם",
-      "gloss": "pret jums ⟨את⟩"
+      "gloss": "⟨את⟩ ar jums",
+      "marks": "ar jums"
     },
     {
       "surface": "ואתן",
-      "gloss": "un es devu"
+      "gloss": "un Es nodevu"
     },
     {
       "surface": "אותם",
-      "gloss": "viņus ⟨את⟩"
+      "gloss": "⟨את⟩ tos",
+      "marks": "tos"
     },
     {
       "surface": "בידכם",
@@ -82,26 +64,26 @@
     },
     {
       "surface": "ותירשו",
-      "gloss": "un jūs apņēmāt"
+      "gloss": "un jūs ņēmāt īpašumā"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņu zemi"
+      "marks": "to zemi"
     },
     {
       "surface": "ארצם",
-      "gloss": "viņu zemi"
+      "gloss": "to zemi"
     },
     {
       "surface": "ואשמידם",
-      "gloss": "un es tos iznīcināju"
+      "gloss": "un Es iznīcināju tos"
     },
     {
       "surface": "מפניכם",
-      "gloss": "no jūsu acīm"
+      "gloss": "no jūsu acīm priekšā"
     }
   ],
-  "timestamp": "2026-10-20T17:42:44.439758531Z",
+  "timestamp": "2026-10-20T22:53:15.419845909Z",
   "model": "glm-5.3"
 }

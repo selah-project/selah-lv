@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Hizkijahs",
-      "rationale": "Jahves vārds tieši uzrunā Hizkijahu caur Jeshajahu."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "priekšvārds 'el' iekļauts locījumā 'Hizkijaham'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "trešajā dienā",
-      "rationale": "dziedināšanas laiks precīzi noteikts ar dienu skaitu."
-    }
-  ],
-  "translation": "Atgriezies un saki Hizkijaham, mana ļaužu valdniekam: Tā saka Jahve, Davida, tava tēva, Elohim: Es dzirdēju ⟨את⟩ tavu lūgšanu, es redzēju ⟨את⟩ tavas asaras; lūk, es dziedināšu tevi; trešajā dienā tu kāpsi Jahves namā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/20\/5-8.1792521678443.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Atgriezies un saki Hizkijaham, mana tautas pavēlniekam: tā saka Jahve, Davida, tava tēva, Elohim: dzirdēju ⟨את⟩ tavu lūgšanu, redzēju ⟨את⟩ tavas asaras — lūk, es tevi dziedēju; trešajā dienā tu kāpsi Jahves namā.",
   "tokens": [
     {
       "surface": "שוב",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "חזקיהו",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "valdniekam"
+      "gloss": "pavēlniekam"
     },
     {
       "surface": "עמי",
-      "gloss": "mana ļaužu"
+      "gloss": "mana tautas"
     },
     {
       "surface": "כה",
-      "gloss": "Tā"
+      "gloss": "tā"
     },
     {
       "surface": "אמר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "Es dzirdēju"
+      "gloss": "dzirdēju"
     },
     {
       "surface": "את",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "es redzēju"
+      "gloss": "redzēju"
     },
     {
       "surface": "את",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "רפא",
-      "gloss": "dziedināšu"
+      "gloss": "dziedēju"
     },
     {
       "surface": "לך",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "diena"
+      "gloss": "dienā"
     },
     {
       "surface": "השלישי",
@@ -140,6 +114,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T18:41:18.444531963Z",
+  "timestamp": "2026-10-20T22:36:56.893037773Z",
   "model": "glm-5.3"
 }

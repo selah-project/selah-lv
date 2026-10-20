@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "mans tauta",
-      "rationale": "Jahve tieši adresē Jisraēla namu: 'mans tauta' izsaucums runas vidū."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mans tauta",
-      "rationale": "Sieviešu dzimtes izsaucums 'mans tauta' (עמי) — latviski dabisks 'mana tauta', bet tekstā saglabāta burtiska cilme."
-    }
-  ],
-  "translation": "Tāpēc pravieto un sacīsi viņiem: Tā saka Adonai Jahve: Lūk, es atvēršu ⟨את⟩ jūsu kapus, un es celšu jūs augšā no jūsu kapiem, mans tauta, un es ievedīšu jūs Jisraēla zemē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/37\/9-12.1792525600228.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc pravieto un saki viņiem: Tā saka Adonai Jahve: Lūk, es atveru ⟨את⟩ jūsu kapenes un izceļu jūs ⟨את⟩ no jūsu kapenēm, mans tauta, un ievedīšu jūs ⟨את⟩ Jisraēla zemē.",
   "tokens": [
     {
       "surface": "לכן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "un sacīsi"
+      "gloss": "un saki"
     },
     {
       "surface": "אליהם",
@@ -70,28 +49,29 @@
     },
     {
       "surface": "פתח",
-      "gloss": "atvēršu"
+      "gloss": "atveru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jūsu kapus"
+      "marks": "jūsu kapenes"
     },
     {
       "surface": "קברותיכם",
-      "gloss": "jūsu kapus"
+      "gloss": "jūsu kapenes"
     },
     {
       "surface": "והעליתי",
-      "gloss": "un es celšu augšā"
+      "gloss": "un izceļu jūs"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "מקברותיכם",
-      "gloss": "no jūsu kapiem"
+      "gloss": "no jūsu kapenēm"
     },
     {
       "surface": "עמי",
@@ -99,15 +79,16 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "un es ievedīšu"
+      "gloss": "un ievedīšu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "…ē"
     },
     {
       "surface": "אדמת",
@@ -118,6 +99,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T19:46:40.229416323Z",
+  "timestamp": "2026-10-20T22:44:41.726360889Z",
   "model": "glm-5.3"
 }

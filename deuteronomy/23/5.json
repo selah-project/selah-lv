@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "על דבר",
-      "rationale": "burtiski 'uz vārda\/pie lietas' — latviski 'tāpēc, ka'; piezīme: pante 4. pants šo pašu frāzi atkārto kā pamatojumu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לקללך \/ הקללה (5:6)",
-      "rationale": "nolādēt\/lāsts — sakne קלל savijas ar nākamo pantu, kur Jahve pārvērš lāstu svētībā"
-    }
-  ],
-  "translation": "Tāpēc, ka viņi nesagaidīja jūs ar maizi un ar ūdeni ceļā, kad jūs izgājāt no Micraimas, un tāpēc, ka viņi algotja pret tevi ⟨את⟩ Bileāmu, Beora dēlu, no Ptoras, Aram-Naharaimas, lai tevi nolādētu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d6ede65aefb17f4b829a1b78ef840c148d95d542599b5cd9a3495bb81d4470a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/23\/5-8.1792517201740.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Par to, ka viņi nesagaidīja jūs ⟨את⟩ ar maizi un ar ūdeni ceļā, kad jūs izgājāt no Micraimas, un par to, ka viņi algoja pret tevi ⟨את⟩ Bileāmu, Beora dēlu, no Ptoras, Aram-Naharaimas, lai tevi nolādētu.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "tāpēc, ka"
+      "gloss": "par"
     },
     {
       "surface": "דבר",
-      "gloss": "dēļ"
+      "gloss": "to"
     },
     {
       "surface": "אשר",
@@ -50,8 +29,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "בלחם"
+      "gloss": "jūs ⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "בלחם",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "un ka"
+      "gloss": "un par to, ka"
     },
     {
       "surface": "שכר",
-      "gloss": "algotja"
+      "gloss": "algoja"
     },
     {
       "surface": "עליך",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "Aram-"
     },
     {
       "surface": "נהרים",
@@ -119,6 +98,6 @@
       "gloss": "lai tevi nolādētu"
     }
   ],
-  "timestamp": "2026-10-20T17:26:41.742479775Z",
+  "timestamp": "2026-10-20T22:40:10.381766460Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "לשקול",
-      "rationale": "burtiski 'nosvērt' (sudrabu svara vienībās) — 'noguldīt' kā mērķa norāde"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "'uz\/iezvī' ar גנזי — latviešu lokatīvs to uzņem, atsevišķs vārds nav vajadzīgs"
-    },
-    {
-      "kind": "hapax",
-      "subject": "פרשת",
-      "rationale": "פרשה te 'precīza summa, izklāsts' — reti vārds ar skaitļa nozīmi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sudraba summa",
-      "rationale": "pants min precīzu naudas summu krātuvēm"
-    }
-  ],
-  "translation": "Un Mordehajs pastāstīja viņam ⟨את⟩ visu, kas viņu bija piemeklējis, un ⟨את⟩ sudraba summu, ko Hamans bija teicis noguldīt ķēniņa krātuvēs par jūdiem, lai tos iznīcinātu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/5-8.1792530102058.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Mordehajs izstāstīja viņam ⟨את⟩ visu, kas viņam bija noticis, un ⟨את⟩ sudraba parashu, ko Hāmans bija teicis izsvērt ķēniņa glabātavām par jūdiem, lai tos iznīcinātu.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "pastāstīja"
+      "gloss": "izstāstīja"
     },
     {
       "surface": "לו",
@@ -53,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visu"
+      "marks": "visu (kas bija noticis)"
     },
     {
       "surface": "כל",
@@ -65,16 +34,16 @@
     },
     {
       "surface": "קרהו",
-      "gloss": "bija piemeklējis"
+      "gloss": "bija noticis"
     },
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "sudraba summu"
+      "marks": "sudraba parashu"
     },
     {
       "surface": "פרשת",
-      "gloss": "summu"
+      "gloss": "parashu"
     },
     {
       "surface": "הכסף",
@@ -90,11 +59,11 @@
     },
     {
       "surface": "המן",
-      "gloss": "Hamans"
+      "gloss": "Hāmans"
     },
     {
       "surface": "לשקול",
-      "gloss": "noguldīt"
+      "gloss": "izsvērt"
     },
     {
       "surface": "על",
@@ -102,7 +71,7 @@
     },
     {
       "surface": "גנזי",
-      "gloss": "krātuvēs"
+      "gloss": "glabātavām"
     },
     {
       "surface": "המלך",
@@ -117,6 +86,6 @@
       "gloss": "lai tos iznīcinātu"
     }
   ],
-  "timestamp": "2026-10-20T21:01:42.059938445Z",
+  "timestamp": "2026-10-20T22:41:18.333233378Z",
   "model": "glm-5.3"
 }

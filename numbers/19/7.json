@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "עד הערב",
-      "rationale": "Nešķīstības termiņš izteikts kā laika mērs — 'līdz vakaram'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nešķīsts",
-      "rationale": "טמא apzīmē rituālu nepiemērotību, ne morālu netīrību; latviešu 'nešķīsts' ir tuvākais viena vārda atbils."
-    }
-  ],
-  "translation": "Un priesteris izmazgās savas drēbes un nomazgās savu miesu ūdenī, un pēc tam ieies nometnē; un priesteris būs nešķīsts līdz vakaram.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/19\/5-8.1792515990378.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteris mazgās ⟨את⟩ savas drēbes, un mazgās savu miesu ūdenī, un pēc tam viņš varēs nākt ⟨iekšā⟩ nometnē, un priesteris būs nešķīsts līdz vakaram.",
   "tokens": [
     {
       "surface": "וכבס",
-      "gloss": "izmazgās"
+      "gloss": "un mazgās"
     },
     {
       "surface": "בגדיו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "nomazgās"
+      "gloss": "un mazgās"
     },
     {
       "surface": "בשרו",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "ieies"
+      "gloss": "viņš varēs nākt"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨iekšā⟩"
     },
     {
       "surface": "המחנה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "būs nešķīsts"
+      "gloss": "un būs nešķīsts"
     },
     {
       "surface": "הכהן",
@@ -85,6 +64,6 @@
       "gloss": "vakaram"
     }
   ],
-  "timestamp": "2026-10-20T17:06:30.379854291Z",
+  "timestamp": "2026-10-20T22:57:40.922302924Z",
   "model": "glm-5.3"
 }

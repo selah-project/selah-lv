@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "urinētājs pret sienu",
-      "rationale": "משתין בקיר — ebreju idiomā 'vīrietis'; daudzi tulkojumi to mīkstina par 'neviens vīrietis', šeit paturēts burtiski."
-    },
-    {
-      "kind": "addition",
-      "subject": "darīšanas",
-      "rationale": "latviešu valodai vajadzīgs paskaidrojošs vārds pie 'no ļauna'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "dubultā sasaiste 'tad ja' latviešu teikumā saplūst vienā 'tad'."
-    }
-  ],
-  "translation": "Un tiešām, dzīvs ir Jahve, Jisraēla Elohim, kas atturēja mani no ļauna darīšanas ⟨את⟩ tev, jo, ja tu nebūtu steigusies un nākusi man pretī, tad Nābalam līdz rīta gaismai nebūtu palicis neviens urinētājs pret sienu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1c815526323512d4e74d506d6dfb3ff207a74f9dc9281d34f1f68b575073f572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/33-36.1792519393593.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet, tiklīdz dzīvs ir Jahve, Jisraēla Elohim, kas mani atturēja no ļauna pret ⟨את⟩ tevi — jo, ja tu nebūtu steigusies un nākusi man pretī, Navalam līdz rīta gaismai nebūtu palicis neviens slienājs pret sienu.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "un tiešām"
+      "gloss": "bet"
     },
     {
       "surface": "חי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "מנעני",
-      "gloss": "atturēja mani"
+      "gloss": "mani atturēja"
     },
     {
       "surface": "מהרע",
@@ -67,7 +41,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tev"
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
     },
     {
       "surface": "כי",
@@ -75,15 +50,15 @@
     },
     {
       "surface": "לולי",
-      "gloss": "ja ne"
+      "gloss": "ja nebūtu"
     },
     {
       "surface": "מהרת",
-      "gloss": "tu steidzies"
+      "gloss": "steigusies"
     },
     {
       "surface": "ותבאתי",
-      "gloss": "un nāci"
+      "gloss": "un nākusi"
     },
     {
       "surface": "לקראתי",
@@ -91,11 +66,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tad"
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "נותר",
@@ -103,7 +78,7 @@
     },
     {
       "surface": "לנבל",
-      "gloss": "Nābalam"
+      "gloss": "Navalam"
     },
     {
       "surface": "עד",
@@ -119,13 +94,13 @@
     },
     {
       "surface": "משתין",
-      "gloss": "urinētājs"
+      "gloss": "slienājs"
     },
     {
       "surface": "בקיר",
       "gloss": "pret sienu"
     }
   ],
-  "timestamp": "2026-10-20T18:03:13.593969609Z",
+  "timestamp": "2026-10-20T22:34:21.183217982Z",
   "model": "glm-5.3"
 }

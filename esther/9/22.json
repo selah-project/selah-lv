@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "porcijas",
-      "rationale": "מנות ir 'izsvērtas daļas' — ēdamās porcijas Purim paraža mishloach manot."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מיגון לשמחה ומאבל ליום טוב",
-      "rationale": "Divas pretēju pāru apmaiņas — skumjas→prieks, sēras→labā diena — hiasma par apvērsumu."
-    }
-  ],
-  "translation": "kā dienas, kad jūdi guva mieru no saviem ienaidniekiem, un mēnesis, kas tiem tika pagriezts no skumjām priekā un no sērām par labu dienu, — lai šīs dienas darītu par dzīru un prieka dienām, sūtītu porcijas ikvienam savam tuvākajam un dāvanas nabagajiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "afb35f8b97601cd5d31cf30a07ffa2c173831fda55d7190397f6c413de80bd54",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/21-24.1792530162831.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kā dienas, kurās jūdi atpūtās no saviem ienaidniekiem, un mēnesis, kas viņiem tika pavērsts no bēdām uz prieku un no sērām uz labu dienu — lai darītu ⟨את⟩ tās par dienām dzīrēm un priekam, un lai sūtītu porcijas, katrs savam tuvākajam, un dāvanas nabagiem.",
   "tokens": [
     {
       "surface": "כימים",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kad"
+      "gloss": "kurās"
     },
     {
       "surface": "נחו",
-      "gloss": "guva mieru"
+      "gloss": "atpūtās"
     },
     {
       "surface": "בהם",
-      "gloss": "tās"
+      "gloss": "tajās"
     },
     {
       "surface": "היהודים",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "נהפך",
-      "gloss": "tika pagriezts"
+      "gloss": "tika pavērsts"
     },
     {
       "surface": "להם",
-      "gloss": "tiem"
+      "gloss": "viņiem"
     },
     {
       "surface": "מיגון",
-      "gloss": "no skumjām"
+      "gloss": "no bēdām"
     },
     {
       "surface": "לשמחה",
-      "gloss": "priekā"
+      "gloss": "uz prieku"
     },
     {
       "surface": "ומאבל",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ליום",
-      "gloss": "par dienu"
+      "gloss": "uz dienu"
     },
     {
       "surface": "טוב",
@@ -94,23 +73,24 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tās"
+      "gloss": "⟨את⟩",
+      "marks": "tās (dienas)"
     },
     {
       "surface": "ימי",
-      "gloss": "dienas"
+      "gloss": "par dienām"
     },
     {
       "surface": "משתה",
-      "gloss": "dzīru"
+      "gloss": "dzīrēm"
     },
     {
       "surface": "ושמחה",
-      "gloss": "un prieka"
+      "gloss": "un priekam"
     },
     {
       "surface": "ומשלוח",
-      "gloss": "sūtītu"
+      "gloss": "un lai sūtītu"
     },
     {
       "surface": "מנות",
@@ -118,7 +98,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ikvienam"
+      "gloss": "katrs"
     },
     {
       "surface": "לרעהו",
@@ -130,9 +110,9 @@
     },
     {
       "surface": "לאביונים",
-      "gloss": "nabagajiem"
+      "gloss": "nabagiem"
     }
   ],
-  "timestamp": "2026-10-20T21:02:42.832693228Z",
+  "timestamp": "2026-10-20T22:41:41.015051645Z",
   "model": "glm-5.3"
 }

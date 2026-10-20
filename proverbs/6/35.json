@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא פני",
-      "rationale": "Burtiski 'celt seju' — izrādīt labvēlību, pieņemt; latviski 'necieš nevienu izpirkumu'"
-    },
-    {
-      "kind": "crux",
-      "subject": "כפר",
-      "rationale": "Izpirkuma nauda vai arī 'priekšnoziedzējs' — KJV 'ransom', YLT 'atonement'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dāvanas",
-      "rationale": "שחד ir 'dūriņnauda, kukulis' — neitrāla dāvana"
-    }
-  ],
-  "translation": "Viņš necieš nevienu izpirkuma summu un nav ar mieru, kaut tu vairotu dāvanas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/6\/33-35.1792528590850.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņš nepieņems seju ne par kādu izpirkšanas maksu un nebūs ar mieru, kaut arī tu vairotu dāvanas.",
   "tokens": [
     {
       "surface": "לא",
@@ -39,41 +13,41 @@
     },
     {
       "surface": "ישא",
-      "gloss": "necieš"
+      "gloss": "pieņems (pacels)"
     },
     {
       "surface": "פני",
-      "gloss": ""
+      "gloss": "seju"
     },
     {
       "surface": "כל",
-      "gloss": "jebkuru"
+      "gloss": "ne par kādu"
     },
     {
       "surface": "כפר",
-      "gloss": "izpirkuma summu"
+      "gloss": "izpirkšanas maksu"
     },
     {
       "surface": "ולא",
-      "gloss": "un nav"
+      "gloss": "un ne"
     },
     {
       "surface": "יאבה",
-      "gloss": "ar mieru"
+      "gloss": "būs ar mieru"
     },
     {
       "surface": "כי",
-      "gloss": "kaut"
+      "gloss": "kaut arī"
     },
     {
       "surface": "תרבה",
-      "gloss": "vairotu"
+      "gloss": "tu vairotu"
     },
     {
       "surface": "שחד",
       "gloss": "dāvanas"
     }
   ],
-  "timestamp": "2026-10-20T20:36:30.851352548Z",
+  "timestamp": "2026-10-20T22:59:29.124289045Z",
   "model": "glm-5.3"
 }

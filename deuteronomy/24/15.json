@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesu",
-      "rationale": "נפש — rīkle\/elpa\/dzīvības spēks, ne 'dvēsele' vien; 'ceļ uz to savu nefesu' — no tā viņš dzīvo"
-    },
-    {
-      "kind": "idiom",
-      "subject": "nenāks pār viņu saule",
-      "rationale": "Būtisks: saulrietam jābūt samaksātam; 'saule nenāks pār (neapmaksātu algu)'"
-    }
-  ],
-  "translation": "Savā dienā dosi viņa algu, un nenāks pār viņu saule, jo nabags viņš ir, un uz to viņš ceļ ⟨את⟩ savu nefesu, un viņš nesauks tev pāri uz Jahvi, un tev būs grēks.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/24\/13-16.1792517195020.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņa dienā tu dosi viņa algu, un sauls neies virsū tam, jo viņš ir nabags, un uz to viņš ceļ ⟨את⟩ savu nefesh, un viņš nesauks pret tevi uz Jahvi, un tev būs grēks.",
   "tokens": [
     {
       "surface": "ביומו",
-      "gloss": "Savā dienā"
+      "gloss": "viņa dienā"
     },
     {
       "surface": "תתן",
-      "gloss": "dosi"
+      "gloss": "tu dosi"
     },
     {
       "surface": "שכרו",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un nenāks"
+      "gloss": "un ne"
     },
     {
       "surface": "תבוא",
-      "gloss": ""
+      "gloss": "ies"
     },
     {
       "surface": "עליו",
-      "gloss": "pār viņu"
+      "gloss": "virsn tas"
     },
     {
       "surface": "השמש",
-      "gloss": "saule"
+      "gloss": "saules"
     },
     {
       "surface": "כי",
@@ -83,23 +62,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savu nefesu"
+      "marks": "savu nefesh"
     },
     {
       "surface": "נפשו",
-      "gloss": "savu nefesu"
+      "gloss": "savu nefesh"
     },
     {
       "surface": "ולא",
-      "gloss": "un nesauks"
+      "gloss": "un ne"
     },
     {
       "surface": "יקרא",
-      "gloss": ""
+      "gloss": "viņš sauks"
     },
     {
       "surface": "עליך",
-      "gloss": "tev pāri"
+      "gloss": "pret tevi"
     },
     {
       "surface": "אל",
@@ -122,6 +101,6 @@
       "gloss": "grēks"
     }
   ],
-  "timestamp": "2026-10-20T17:26:35.023921362Z",
+  "timestamp": "2026-10-20T22:40:09.542637321Z",
   "model": "glm-5.3"
 }

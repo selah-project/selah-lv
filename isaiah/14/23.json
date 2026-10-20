@@ -5,40 +5,19 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קפוד",
-      "rationale": "Kipod: 'dipernieks\/bitterns' pret 'ezis' (LXX, Vulg.) — neskaidrs dzīvnieka nosaukums."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טאטאתיה\/במטאטא",
-      "rationale": "Saknes tat'a atgriezenība: 'noslaucīšu ar slotu' — verbāls mājiens ar to pašu sakni, latviski atveidots ar 'slaucīšanas-slotu'."
-    }
-  ],
-  "translation": "Un es to pārvērtīšu par īpumu diperniekiem un ūdens purviem, un es to noslaucīšu ar iznīcināšanas slaucīšanas-slotu, saka Jahve Cevaot.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "59667e0982093202e389629c90fd1afbe790e077df09e4fcfcdd4ce70855ba52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/21-24.1792522050208.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es viņu padarīšu par īpašumu diperei un ūdens purviem, un Es viņu aizslaukšu ar iznīcības slauku, saka Jahve Cevaot.",
   "tokens": [
     {
       "surface": "ושמתיה",
-      "gloss": "Un es to pārvērtīšu"
+      "gloss": "Un Es viņu padarīšu"
     },
     {
       "surface": "למורש",
-      "gloss": "par īpumu"
+      "gloss": "par īpašumu"
     },
     {
-      "surface": "קפod",
-      "gloss": "diperniekiem"
+      "surface": "קפד",
+      "gloss": "diperei"
     },
     {
       "surface": "ואגמי",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "וטאטאתיה",
-      "gloss": "un es to noslaucīšu"
+      "gloss": "un Es viņu aizslaukšu"
     },
     {
       "surface": "במטאטא",
-      "gloss": "ar slaucīšanas-slotu"
+      "gloss": "ar slauku"
     },
     {
       "surface": "השמד",
-      "gloss": "iznīcināšanas"
+      "gloss": "iznīcības"
     },
     {
       "surface": "נאם",
@@ -73,6 +52,6 @@
       "gloss": "Cevaot"
     }
   ],
-  "timestamp": "2026-10-20T18:47:30.209288611Z",
+  "timestamp": "2026-10-20T22:47:44.034598406Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,15 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "gloss": "רוח tulkots kā 'ruah' pēc skanējuma — vējš, elpa, Gars vienā vārdā.",
-      "rationale": ""
-    },
-    {
-      "kind": "crux",
-      "subject": "סמל הקנאה המקנה",
-      "rationale": "'Greizsirdības elks, kas izraisa greizsirdību' — vārds מקנה ir spēles ar קנאה; daži lasa 'kas izraisa (Jahves) greizsirdību'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קנאה\/המקנה",
-      "rationale": "Saknes קנא atkārtošanās: greizsirdības elks, kas padara greizsirdīgu."
-    }
-  ],
-  "translation": "Un viņš pastiepa rokas veidolu, un satvēra mani aiz matu cekula manā galvā, un pacēla mani ruah starp zemi un starp debesīm, un atnesa mani ⟨את⟩ uz Jerušalaimu Elohim redzējumos, pie iekšējā vārtu ieejas, kas vērsta uz ziemeļiem, kur tur bija sēdeklis greizsirdības elkam, kas izraisa greizsirdību.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "562cc385200a1cacf6f8961199e72d8a10c201ab9483bd1e67df10aae3083d67",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/8\/1-4.1792524801419.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨Viņš⟩ pastiepa rokas veidolu un paņēma mani aiz matu cirtas uz mana galvas, un ruah pacēla ⟨את⟩ mani starp zemi un starp debesīm, un atveda ⟨את⟩ mani uz Jerušalaimu Elohim redzējumos, pie iekšējā vārtu ieejas, kas vērsta ziemeļu virzienā, kur ir greizsirdības veidola sēdeklis, kas izraisa greizsirdību.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Un viņš pastiepa"
+      "gloss": "un pastiepa"
     },
     {
       "surface": "תבנית",
-      "gloss": "veidolu"
+      "gloss": "veidols"
     },
     {
       "surface": "יד",
@@ -48,15 +21,15 @@
     },
     {
       "surface": "ויקחני",
-      "gloss": "un satvēra mani"
+      "gloss": "un paņēma mani"
     },
     {
       "surface": "בציצת",
-      "gloss": "aiz matu cekula"
+      "gloss": "aiz matu cirtas"
     },
     {
       "surface": "ראשי",
-      "gloss": "manā galvā"
+      "gloss": "uz mana galvas"
     },
     {
       "surface": "ותשא",
@@ -65,7 +38,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mani"
+      "marks": "mani (ruah objekts)"
     },
     {
       "surface": "רוח",
@@ -89,16 +62,16 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "un atnesa"
+      "gloss": "un atveda"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mani"
+      "marks": "mani (uz Jerušalaimu)"
     },
     {
       "surface": "ירושלמה",
-      "gloss": "uz Jerušalaimu"
+      "gloss": "Jerušalaimu"
     },
     {
       "surface": "במראות",
@@ -130,7 +103,7 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "uz ziemeļiem"
+      "gloss": "ziemeļu virzienā"
     },
     {
       "surface": "אשר",
@@ -138,7 +111,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "tur"
+      "gloss": "ir"
     },
     {
       "surface": "מושב",
@@ -146,7 +119,7 @@
     },
     {
       "surface": "סמל",
-      "gloss": "elkam"
+      "gloss": "veidols"
     },
     {
       "surface": "הקנאה",
@@ -157,6 +130,6 @@
       "gloss": "kas izraisa greizsirdību"
     }
   ],
-  "timestamp": "2026-10-20T19:33:21.420263810Z",
+  "timestamp": "2026-10-20T22:45:30.999548726Z",
   "model": "glm-5.3"
 }

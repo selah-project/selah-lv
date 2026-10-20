@@ -5,54 +5,27 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בנותיה",
-      "rationale": "Burtiski 'tās meitas' — mazās pilsētas pie lielās pilsētas; atstāts tuvu burtiskajam 'meitu pilsētas'."
-    },
-    {
-      "kind": "crux",
-      "subject": "עפרון",
-      "rationale": "KJV lasa 'Ephraim'; vairums Efronu — vieta netālu no Beit-Elas."
-    },
-    {
-      "kind": "elision",
-      "subject": "אחרי",
-      "gloss": "",
-      "rationale": "Vajāt + aiz — latviešu 'vajāja' jau ietver virzienu; vārds apvienots ar verbu."
-    }
-  ],
-  "translation": "Un Abija vajāja Jroveamu un ieņēma no viņa pilsētas: ⟨את⟩ Beit-Elu ar tās meitu pilsētām, un ⟨את⟩ Ješanu ar tās meitu pilsētām, un ⟨את⟩ Efronu ar tās meitu pilsētām.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f05b0fa9fef9bbce540275551967e13bef28c1794828c512749a257ddce2aff5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/13\/17-20.1792531997005.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Avija dzinās pakaļ Jerobeamam un ieņēma no viņa pilsētas: ⟨את⟩ Bet-Elu ar tās meitaspilsētām, un ⟨את⟩ Ješanu ar tās meitaspilsētām, un ⟨את⟩ Efronu ar tās meitaspilsētām.",
   "tokens": [
     {
       "surface": "וירדף",
-      "gloss": "vajāja"
+      "gloss": "Un dzinās pakaļ"
     },
     {
       "surface": "אביה",
-      "gloss": "Abija"
+      "gloss": "Avija"
     },
     {
       "surface": "אחרי",
-      "gloss": ""
+      "gloss": "pakaļ"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jroveamu"
+      "gloss": "Jerobeamam"
     },
     {
       "surface": "וילכד",
-      "gloss": "ieņēma"
+      "gloss": "un ieņēma"
     },
     {
       "surface": "ממנו",
@@ -65,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Beit-Elu"
+      "marks": "Bet-Elu"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
@@ -78,11 +51,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Ješanu"
+      "marks": "meitaspilsētām"
     },
     {
       "surface": "בנותיה",
-      "gloss": "ar tās meitu pilsētām"
+      "gloss": "ar tās meitaspilsētām"
     },
     {
       "surface": "ואת",
@@ -91,16 +64,16 @@
     },
     {
       "surface": "ישנה",
-      "gloss": "Ješana"
+      "gloss": "Ješanu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ar tās meitu pilsētām"
+      "marks": "meitaspilsētām"
     },
     {
       "surface": "בנותיה",
-      "gloss": "ar tās meitu pilsētām"
+      "gloss": "ar tās meitaspilsētām"
     },
     {
       "surface": "ואת",
@@ -113,9 +86,9 @@
     },
     {
       "surface": "ובנתיה",
-      "gloss": "ar tās meitu pilsētām"
+      "gloss": "un ar tās meitaspilsētām"
     }
   ],
-  "timestamp": "2026-10-20T21:33:17.006244114Z",
+  "timestamp": "2026-10-20T22:35:15.611059814Z",
   "model": "glm-5.3"
 }

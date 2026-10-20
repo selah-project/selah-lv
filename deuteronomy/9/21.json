@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "טחון",
-      "rationale": "Sakne nozīmē 'malšana'; 'samalu' saglabā dzirnavu priekšstatu, nevis vienkārši 'saberzu'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨īsti⟩",
-      "rationale": "היטב 'labi\/ļoti' — latviešu adverbs prasa pastiprinājumu."
-    }
-  ],
-  "translation": "Un ⟨את⟩ jūsu grēku, ko jūs darījāt — ⟨את⟩ teļu — es ņēmu un to sadedzināju ugunī, un to sasmalcināju, samalu ⟨īsti⟩ labi, līdz tas bija sadrupis putekļos, un meta tā putekļus strautā, kas tek no kalna.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7fec7a83f2d9403fca0b7eefd224acf3387d40c258c449dcf8801a2cb875b489",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/9\/21-24.1792516792629.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ savu grēku, ko jūs darījāt, — ⟨את⟩ teļu — es ņēmu, un to sadedzināju ugunī, un to sasitu un labi saberzu, līdz tas kļuva par putekļiem, un tā putekļus es iemetu strautā, kas tek no kalna.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "jūsu grēku"
+      "marks": "savu grēku"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "jūsu grēku"
+      "gloss": "savu grēku"
     },
     {
       "surface": "אשר",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "darījāt"
+      "gloss": "jūs darījāt"
     },
     {
       "surface": "את",
@@ -60,11 +39,12 @@
     },
     {
       "surface": "ואשרף",
-      "gloss": "sadedzināju"
+      "gloss": "un to sadedzināju"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to"
+      "gloss": "⟨את⟩",
+      "marks": "ugunī"
     },
     {
       "surface": "באש",
@@ -72,15 +52,16 @@
     },
     {
       "surface": "ואכת",
-      "gloss": "sasmalcināju"
+      "gloss": "un to sasitu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to"
+      "gloss": "⟨את⟩",
+      "marks": "labi saberzu"
     },
     {
       "surface": "טחון",
-      "gloss": "samalu"
+      "gloss": "berzt (saberzt)"
     },
     {
       "surface": "היטב",
@@ -96,15 +77,15 @@
     },
     {
       "surface": "דק",
-      "gloss": "sadrupis"
+      "gloss": "tas kļuva sasmalcināts"
     },
     {
       "surface": "לעפר",
-      "gloss": "putekļos"
+      "gloss": "par putekļiem"
     },
     {
       "surface": "ואשלך",
-      "gloss": "un meta"
+      "gloss": "un es iemetu"
     },
     {
       "surface": "את",
@@ -117,7 +98,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "strautā"
+      "gloss": "iekšā"
     },
     {
       "surface": "הנחל",
@@ -136,6 +117,6 @@
       "gloss": "kalna"
     }
   ],
-  "timestamp": "2026-10-20T17:19:52.631202555Z",
+  "timestamp": "2026-10-20T22:41:07.695074423Z",
   "model": "glm-5.3"
 }

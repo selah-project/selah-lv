@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nevienu",
-      "rationale": "latviešu valodai vajadzīgs kvantifikators 'nevienu izdzīvojušo' hebreju שריד (viens izdzīvojušais) nolieguma konstrukcijā"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ģeogrāfiskās robežas",
-      "rationale": "pante uzskaita vajāšanas tālumu ar 'līdz' robežām: lielā Cidona, Misrefot-Majima, Micpas ieleja austrumos — telpiskā mērīšana"
-    }
-  ],
-  "translation": "Un nodeva tos Jahve Jisraēla rokā, un tie tos sita un dzinās pakaļ tiem līdz lielajai Cidonai un līdz Misrefot-Majimai un līdz Micpas ielejai austrumos, un sita tos, kamēr neatstāja no viņiem nevienu izdzīvojušo.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/11\/5-8.1792517838517.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve nodeva viņus Jisraēla rokā, un tie viņus sakāva un vajāja viņus līdz lielajai Cidonai un līdz Misrefot-majim un līdz Micpas ielejai austrumos, un tie viņus sita, līdz netika atstāts ⟨viņiem⟩ neviens izdzīvojušais.",
   "tokens": [
     {
       "surface": "ויתנם",
-      "gloss": "Un nodeva tos"
+      "gloss": "nodeva viņus"
     },
     {
       "surface": "יהוה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ויכום",
-      "gloss": "un sita tos"
+      "gloss": "sakāva"
     },
     {
       "surface": "וירדפום",
-      "gloss": "un dzinās pakaļ tiem"
+      "gloss": "vajāja viņus"
     },
     {
       "surface": "עד",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "משרפות",
-      "gloss": "Misrefot-"
+      "gloss": "Misrefot"
     },
     {
       "surface": "מים",
-      "gloss": "-Majimai"
+      "gloss": "majim"
     },
     {
       "surface": "ועד",
@@ -89,16 +68,16 @@
       "gloss": "Micpas"
     },
     {
-      "surface": "mizrachah",
+      "surface": "מזרחה",
       "gloss": "austrumos"
     },
     {
       "surface": "ויכם",
-      "gloss": "un sita tos"
+      "gloss": "sita"
     },
     {
       "surface": "עד",
-      "gloss": "kamēr"
+      "gloss": "līdz"
     },
     {
       "surface": "בלתי",
@@ -106,17 +85,17 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "atstāja"
+      "gloss": "tika atstāts"
     },
     {
       "surface": "להם",
-      "gloss": "no viņiem"
+      "gloss": "viņiem"
     },
     {
       "surface": "שריד",
-      "gloss": "nevienu izdzīvojušo"
+      "gloss": "izdzīvojušais"
     }
   ],
-  "timestamp": "2026-10-20T17:37:18.518668509Z",
+  "timestamp": "2026-10-20T22:52:37.597078102Z",
   "model": "glm-5.3"
 }

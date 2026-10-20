@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אל יד",
-      "rationale": "Burtiski 'pie rokas' — latviski 'pārraudzībā'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ונקראה בשם",
-      "rationale": "Burtiski 'un viņa tika saukta vārdā' — karalienes atsaukšanas žests."
-    }
-  ],
-  "translation": "Vakarā viņa nāca iekšā, un no rīta viņa atgriezās otrajā sieviešu namā, Šašgaza — ķēniņa einuha, kas sargāja конкуbīnas — pārraudzībā; viņa vairs nenāca pie ķēniņa, ja vien ķēniņš viņā neiepatojās un viņa netika saukta vārdā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/13-16.1792530102064.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vakarā viņa nāca, un no rīta viņa atgriezās otrajā sieviešu namā, pie Šašgaza rokas, ķēniņa einuha, kas sargāja piegulētājas; viņa vairs nenāca pie ķēniņa, ja vien ķēniņš viņu nevēlējās un viņa netika saukta vārdā.",
   "tokens": [
     {
       "surface": "בערב",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "באה",
-      "gloss": "nāca iekšā"
+      "gloss": "nāca"
     },
     {
       "surface": "ובבקר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "oz - corrected below"
+      "gloss": "uz"
     },
     {
       "surface": "בית",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "pārraudzībā"
+      "gloss": "rokas"
     },
     {
       "surface": "שעשגז",
@@ -94,15 +73,15 @@
     },
     {
       "surface": "הפילגשים",
-      "gloss": "konkubīnas"
+      "gloss": "piegulētājas"
     },
     {
       "surface": "לא",
-      "gloss": "nenāca"
+      "gloss": "ne"
     },
     {
       "surface": "תבוא",
-      "gloss": "vairs"
+      "gloss": "nāca"
     },
     {
       "surface": "עוד",
@@ -122,19 +101,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "ja vien"
+      "gloss": "⟨vien⟩"
     },
     {
       "surface": "חפץ",
-      "gloss": "iepatojās"
+      "gloss": "nevēlējās"
     },
     {
       "surface": "בה",
-      "gloss": "viņā"
+      "gloss": "viņu"
     },
     {
       "surface": "המלך",
-      "gloss": "ķēniņa"
+      "gloss": "ķēniņš"
     },
     {
       "surface": "ונקראה",
@@ -145,6 +124,6 @@
       "gloss": "vārdā"
     }
   ],
-  "timestamp": "2026-10-20T21:01:42.065815585Z",
+  "timestamp": "2026-10-20T22:41:24.049847859Z",
   "model": "glm-5.3"
 }

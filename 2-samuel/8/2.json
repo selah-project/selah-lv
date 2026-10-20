@@ -5,46 +5,20 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nodeva",
-      "rationale": "מנחה šeit ir meslu nodeva, ne upurdāvana — tāpēc 'nodeva', ne 'minha'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חבל",
-      "rationale": "vārds nozīmē gan 'mērīšanas virve', gan 'apgabals' — mērīšana ar virvi vienlaikus ir zemes sadalīšana."
-    },
-    {
-      "kind": "measurement",
-      "subject": "virves mērīšana",
-      "rationale": "gūstekņu skaitīšana ar mērīšanas virvēm — dzīvība un nāve tiesāta ar mēru."
-    }
-  ],
-  "translation": "Un viņš sita ⟨את]] Moabu un mērīja viņus ar virvi, nolikdams viņus ⟨את]] uz zemes, un viņš mērīja divas virves, lai nonāvētu, un pilnu virvi, lai dzīvību atstātu; un Moabs kļuva par Davida vergiem, nodevu nesējiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/8\/1-4.1792519763058.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš sakāva ⟨את⟩ Moābu un mērīja viņus ar auklu, gulcinādams viņus ⟨את⟩ uz zemes; un viņš mērīja divas auklas nāvei un pilnu auklu dzīvībai. Un Moābs kļuva par Davida vergiem, minha nesējiem.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "un sita"
+      "gloss": "Un viņš sakāva"
     },
     {
       "surface": "את",
-      "gloss": "⟨את]]",
-      "marks": "Moabu"
+      "gloss": "⟨את⟩",
+      "marks": "Moābu"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabu"
+      "gloss": "Moābu"
     },
     {
       "surface": "וימדדם",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "בחבל",
-      "gloss": "ar virvi"
+      "gloss": "ar auklu"
     },
     {
       "surface": "השכב",
-      "gloss": "nolikdams guļus"
+      "gloss": "gulcinādams"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את]]",
+      "gloss": "⟨את⟩",
       "marks": "viņus uz zemes"
     },
     {
@@ -69,7 +43,7 @@
     },
     {
       "surface": "וימדד",
-      "gloss": "un mērīja"
+      "gloss": "un viņš mērīja"
     },
     {
       "surface": "שני",
@@ -77,11 +51,11 @@
     },
     {
       "surface": "חבלים",
-      "gloss": "virves"
+      "gloss": "auklas"
     },
     {
       "surface": "להמית",
-      "gloss": "lai nonāvētu"
+      "gloss": "nāvei"
     },
     {
       "surface": "ומלא",
@@ -89,19 +63,19 @@
     },
     {
       "surface": "החבל",
-      "gloss": "virvi"
+      "gloss": "auklu"
     },
     {
       "surface": "להחיות",
-      "gloss": "lai dzīvību atstātu"
+      "gloss": "dzīvībai"
     },
     {
       "surface": "ותהי",
-      "gloss": "un kļuva"
+      "gloss": "Un ... kļuva"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabs"
+      "gloss": "Moābs"
     },
     {
       "surface": "לדוד",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "nodevas"
+      "gloss": "minha"
     }
   ],
-  "timestamp": "2026-10-20T18:09:23.059078733Z",
+  "timestamp": "2026-10-20T22:38:33.976670802Z",
   "model": "glm-5.3"
 }

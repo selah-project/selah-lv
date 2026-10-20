@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויחרימו\/חרמה",
-      "rationale": "Pilsēta nosaukta Horma pēc herem (pilnīgas iznīcināšanas) darbības vārda — vārda spēle latviešu valodā izzūd."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nodeva pilnīgai iznīcināšanai",
-      "rationale": "חרם ir herem — svētā iznīcināšana, ne vienkārši 'iznīcināja'."
-    }
-  ],
-  "translation": "Un Jehuda gāja ⟨את⟩ ar Šimonu, savu brāli, un viņi sita ⟨את⟩ kanaānieti, kas dzīvoja Cefatā, un viņi to nodeva pilnīgai iznīcināšanai; un pilsētas vārdu viņi nosauca Horma.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/17-20.1792518139824.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jehuda aizgāja ar ⟨את⟩ Šimonu, savu brāli, un viņi sakāva ⟨את⟩ kenaaniešus, kas dzīvoja Cefatā, un viņi ⟨את⟩ to pilnīgi iznīcināja (herem); un pilsētas ⟨את⟩ nosaukums tika saukts — Horma.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Un gāja"
+      "gloss": "aizgāja"
     },
     {
       "surface": "יהודה",
@@ -38,8 +17,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ar",
-      "marks": "Šimonu — šeit prievārds, ne objekta marķieris"
+      "gloss": "⟨את⟩",
+      "marks": "Šimonu"
     },
     {
       "surface": "שמעון",
@@ -51,16 +30,16 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "un viņi sita"
+      "gloss": "sakāva"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanaānieti"
+      "marks": "kenaaniešus"
     },
     {
       "surface": "הכנעני",
-      "gloss": "kanaānieti"
+      "gloss": "kenaaniešus"
     },
     {
       "surface": "יושב",
@@ -72,24 +51,24 @@
     },
     {
       "surface": "ויחרימו",
-      "gloss": "un viņi nodeva pilnīgai iznīcināšanai"
+      "gloss": "pilnīgi iznīcināja (herem)"
     },
     {
       "surface": "אותה",
-      "gloss": "to ⟨את⟩"
+      "gloss": "⟨את⟩ to"
     },
     {
       "surface": "ויקרא",
-      "gloss": "un viņš nosauca"
+      "gloss": "tika saukts"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vārdu"
+      "marks": "nosaukums"
     },
     {
       "surface": "שם",
-      "gloss": "vārdu"
+      "gloss": "nosaukums"
     },
     {
       "surface": "העיר",
@@ -100,6 +79,6 @@
       "gloss": "Horma"
     }
   ],
-  "timestamp": "2026-10-20T17:42:19.825271209Z",
+  "timestamp": "2026-10-20T22:53:38.399123028Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "⟨את⟩ viņam",
-      "rationale": "אִתּוֹ ir priekšvārds 'ar viņu' (H854), nevis priekšmeta zīme; saglabāts kā ⟨…⟩"
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā pietiek partitīvais lietojums; latviešu valodai vajadzīgs izsauksis 'ir'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "Pārbaudiet",
-      "rationale": "פקדו — pavēle pārskaitīt \/ izsaukt rindu; skaitīšanas darbība"
-    }
-  ],
-  "translation": "Un sacīja Šauls tautai, kas ⟨ar viņu⟩: Pārbaudiet ⟨ת⟩ un redziet, kas ir aizgājis no mums. Un tie pārbaudīja, un lūk — nav Jonatāna un viņa ieroču nesēja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/17-20.1792519026599.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šaūls sacīja tautai, kas ⟨את⟩ bija ar viņu: Pārbaudiet tagad un skatiet, kas no mums aizgāja. Un tie pārbaudīja, un lūk — nebija ne Jontana, ne tā, kas nesa viņa ieročus.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šauls"
+      "gloss": "Šaūls"
     },
     {
       "surface": "לעם",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨lūdzu⟩"
+      "gloss": "tagad"
     },
     {
       "surface": "וראו",
-      "gloss": "un redziet"
+      "gloss": "un skatiet"
     },
     {
       "surface": "מי",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ir aizgājis"
+      "gloss": "aizgāja"
     },
     {
       "surface": "מעמנו",
@@ -88,21 +62,21 @@
     },
     {
       "surface": "אין",
-      "gloss": "nav"
+      "gloss": "nebija"
     },
     {
       "surface": "יונתן",
-      "gloss": "Jonatāna"
+      "gloss": "ne Jontana"
     },
     {
       "surface": "ונשא",
-      "gloss": "un nesējs"
+      "gloss": "ne tā, kas nesa"
     },
     {
       "surface": "כליו",
-      "gloss": "viņa ieroču"
+      "gloss": "viņa ieročus"
     }
   ],
-  "timestamp": "2026-10-20T17:57:06.599788308Z",
+  "timestamp": "2026-10-20T22:33:44.128861052Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יען וביען",
-      "rationale": "Dubultotais 'tāpēc ka tāpēc' — ebreju pastiprinājums 'tāpēc, tieši tāpēc'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "izbaudīs savus šabatus",
-      "rationale": "ותרץ את שבתתיה burtiski 'un tiks samaksāta\/iepriecināta ar saviem šabatiem' — zeme saņem to, kas tai tika parādā."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש ir 'elpa, dzīvības spēks', ne tikai 'dvēsele'."
-    }
-  ],
-  "translation": "Un zeme tiks pamesta no viņiem un izbaudīs ⟨את⟩ savus šabatus, kamēr bez viņiem guļ postā, un viņi samaksās ⟨את⟩ par savu vainu, tāpēc ka tāpēc viņi manas tiesas raidīja malā un manus likumus viņu dvēsele nīda.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/41-44.1792515305586.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un zeme tiks pamesta no viņiem un izpirks ⟨את⟩ savus šabatus, kad tā guļ izpostīta bez viņiem; un viņi izpirks ⟨את⟩ sava nozieguma sodu, tāpēc un tieši tāpēc, ka manus tiesas spriedumus tie noraidīja un ⟨את⟩ manus dekrētus to dvēsele nīda.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "Un zeme"
+      "gloss": "un zeme"
     },
     {
       "surface": "תעזב",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ותרץ",
-      "gloss": "un izbaudīs"
+      "gloss": "un izpirks"
     },
     {
       "surface": "את",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "בהשמה",
-      "gloss": "postā"
+      "gloss": "izpostīta"
     },
     {
       "surface": "מהם",
@@ -72,41 +46,41 @@
     },
     {
       "surface": "ירצו",
-      "gloss": "samaksās"
+      "gloss": "izpirks"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "par savu vainu"
+      "marks": "sava nozieguma sodu"
     },
     {
       "surface": "עונם",
-      "gloss": "savu vainu"
+      "gloss": "sava nozieguma sodu"
     },
     {
       "surface": "יען",
-      "gloss": "tāpēc ka"
-    },
-    {
-      "surface": "וביען",
       "gloss": "tāpēc"
     },
     {
+      "surface": "וביען",
+      "gloss": "un tieši tāpēc"
+    },
+    {
       "surface": "במשפטי",
-      "gloss": "manas tiesas"
+      "gloss": "manus tiesas spriedumus"
     },
     {
       "surface": "מאסו",
-      "gloss": "raidīja malā"
+      "gloss": "tie noraidīja"
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
-      "marks": "manus likumus"
+      "gloss": "⟨את⟩",
+      "marks": "manus dekrētus"
     },
     {
       "surface": "חקתי",
-      "gloss": "manus likumus"
+      "gloss": "manus dekrētus"
     },
     {
       "surface": "געלה",
@@ -114,9 +88,9 @@
     },
     {
       "surface": "נפשם",
-      "gloss": "viņu dvēsele"
+      "gloss": "to dvēsele"
     }
   ],
-  "timestamp": "2026-10-20T16:55:05.592338914Z",
+  "timestamp": "2026-10-20T22:56:05.717738069Z",
   "model": "glm-5.3"
 }

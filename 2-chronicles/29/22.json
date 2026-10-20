@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "trīskāršā atkārtošana",
-      "rationale": "‘nokāva un apšļācīja uz altāra’ atkārtojas trīs reizes — liturģiskais ritms, kas latviski saglabāts."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tām⟩",
-      "rationale": "‘ויזרקו המזבחה’ burtiski ‘apšļācīja altāri’ bez instrumenta; latviski pievienots ‘ar ⟨tām⟩’."
-    }
-  ],
-  "translation": "Un viņi nokāva liellopus, un priesteri saņēma ⟨את⟩ asinis un apšļācīja ar ⟨tām⟩ altāri; un viņi nokāva bjiežus un apšļācīja asinis uz altāra; un viņi nokāva jērus un apšļācīja asinis uz altāra.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a0b8227fa1ff5d4fb45247c3dd6f253ce85f3c43615b20441bbe91f7e9d26687",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/29\/21-24.1792532194248.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un nocirta ⟨את⟩ liellopus, un priesteri saņēma ⟨את⟩ asinis un apraibināja ar tām altāri; un nocirta aunus un apraibināja asinis uz altāra; un nocirta jērus un apraibināja asinis uz altāra.",
   "tokens": [
     {
       "surface": "וישחטו",
-      "gloss": "nokāva"
+      "gloss": "un nocirta"
     },
     {
       "surface": "הבקר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ויקבלו",
-      "gloss": "saņēma"
+      "gloss": "un priesteri saņēma"
     },
     {
       "surface": "הכהנים",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asinis"
+      "marks": "liellopus"
     },
     {
       "surface": "הדם",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ויזרקו",
-      "gloss": "apšļācīja"
+      "gloss": "un apraibināja"
     },
     {
       "surface": "המזבחה",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "וישחטו",
-      "gloss": "nokāva"
+      "gloss": "un nocirta"
     },
     {
       "surface": "האלים",
-      "gloss": "bjiežus"
+      "gloss": "aunus"
     },
     {
       "surface": "ויזרקו",
-      "gloss": "apšļācīja"
+      "gloss": "un apraibināja"
     },
     {
       "surface": "הדם",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "altāri"
+      "gloss": "uz altāra"
     },
     {
       "surface": "וישחטו",
-      "gloss": "nokāva"
+      "gloss": "un nocirta"
     },
     {
       "surface": "הכבשים",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ויזרקו",
-      "gloss": "apšלקīja"
+      "gloss": "un apraibināja"
     },
     {
       "surface": "הדם",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "altāri"
+      "gloss": "uz altāra"
     }
   ],
-  "timestamp": "2026-10-20T21:36:34.249856839Z",
+  "timestamp": "2026-10-20T22:35:39.943126063Z",
   "model": "glm-5.3"
 }

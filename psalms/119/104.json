@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על כן",
-      "rationale": "Divi ebreju vārdi 'uz to' saplūst vienā latviešu saistītājvārdā 'tāpēc'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ארח",
-      "rationale": "'Ceļš' atkārtojas 101. un 104. pantā — ļaunais ceļš pret melu ceļu ietver psalma rāmi."
-    }
-  ],
-  "translation": "No Taviem priekšrakstiem es gūtu saprašanu, tāpēc es ienīdu visus melu ceļus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/101-104.1792528305275.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No tavu pikudim es gūdu saprašanu, tāpēc es ienīdu ⟨את⟩ katru melu ceļu.",
   "tokens": [
     {
       "surface": "מפקודיך",
-      "gloss": "no Taviem priekšrakstiem"
+      "gloss": "no tavu pikudim"
     },
     {
       "surface": "אתבונן",
-      "gloss": "es gūtu saprašanu"
+      "gloss": "es gūdu saprašanu"
     },
     {
       "surface": "על",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "tāpēc"
     },
     {
       "surface": "שנאתי",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "visus"
+      "gloss": "katru"
     },
     {
       "surface": "ארח",
-      "gloss": "ceļus"
+      "gloss": "ceļu"
     },
     {
       "surface": "שקר",
       "gloss": "melu"
     }
   ],
-  "timestamp": "2026-10-20T20:31:45.275827412Z",
+  "timestamp": "2026-10-20T22:59:40.578654057Z",
   "model": "glm-5.3"
 }

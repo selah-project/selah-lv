@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "piekto daļu",
-      "gloss": "Hebreju חמישתו nozīmē 'piekto daļu' (20% pievienojumu) — daži tulkojumos atstāts neskaidrs 'piekto daļu no tās vērtības'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשם",
-      "gloss": "Vārds אשם nozīmē gan 'vaina', gan 'vainas upuris' — tas zūd latviešu tulkojumā."
-    }
-  ],
-  "translation": "Un to, ko viņš ir grēkojis pret svēto, viņš atmaksās un pievienos tam vēl piekto daļu, un to dos priesterim; un priesteris izlīdzinās par viņu ar vainas aun[(Ebreju valodā: 'ar vainas aunu')] upuri, un viņam tiks piedots.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/5\/13-16.1792513696821.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ to, ko viņš nogrieza no svētuma, viņš atmaksās, un ⟨את⟩ tā piekto daļu pievienos klāt, un dos ⟨את⟩ to priesterim; un priesteris viņa vietā izlīdzinās ar vainas upura briedi, un viņam tiks piedots.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "[(את)]",
-      "marks": "ko viņš ir grēkojis"
+      "gloss": "⟨את⟩",
+      "marks": "to, ko viņš nogrieza no svētuma"
     },
     {
       "surface": "אשר",
@@ -39,15 +18,15 @@
     },
     {
       "surface": "חטא",
-      "gloss": "ir grēkojis"
+      "gloss": "nogrieza no"
     },
     {
       "surface": "מן",
-      "gloss": "pret"
+      "gloss": "no"
     },
     {
       "surface": "הקדש",
-      "gloss": "svēto"
+      "gloss": "svētuma"
     },
     {
       "surface": "ישלם",
@@ -55,29 +34,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "[(את)]",
-      "marks": "piekto daļu"
+      "gloss": "⟨את⟩",
+      "marks": "tā piekto daļu"
     },
     {
       "surface": "חמישתו",
-      "gloss": "piekto daļu"
+      "gloss": "tā piekto daļu"
     },
     {
       "surface": "יוסף",
-      "gloss": "pievienos"
+      "gloss": "pievienos klāt"
     },
     {
       "surface": "עליו",
-      "gloss": "tam"
+      "gloss": "klāt"
     },
     {
       "surface": "ונתן",
-      "gloss": "dos"
+      "gloss": "un dos"
     },
     {
       "surface": "אתו",
-      "gloss": "[(את)]",
-      "marks": "priesterim"
+      "gloss": "⟨את⟩",
+      "marks": "to priesterim"
     },
     {
       "surface": "לכהן",
@@ -85,7 +64,7 @@
     },
     {
       "surface": "והכהן",
-      "gloss": "priesteris"
+      "gloss": "un priesteris"
     },
     {
       "surface": "יכפר",
@@ -93,25 +72,25 @@
     },
     {
       "surface": "עליו",
-      "gloss": "par viņu"
+      "gloss": "viņa vietā"
     },
     {
       "surface": "באיל",
-      "gloss": "ar aunu"
+      "gloss": "ar briedi"
     },
     {
       "surface": "האשם",
-      "gloss": "vainas upur"
+      "gloss": "vainas upura"
     },
     {
       "surface": "ונסלח",
-      "gloss": "tiks piedots"
+      "gloss": "un tiks piedots"
     },
     {
       "surface": "לו",
       "gloss": "viņam"
     }
   ],
-  "timestamp": "2026-10-20T16:28:16.823286014Z",
+  "timestamp": "2026-10-20T22:56:16.728652542Z",
   "model": "glm-5.3"
 }

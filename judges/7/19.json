@@ -5,54 +5,23 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Prievārds H854 'ar viņu', glosā ⟨את⟩ saglabāts; tulkojumā 'ar viņu'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הקם הקימו",
-      "rationale": "Divkāršais darbības vārds 'celties cēla' — intensīvs 'tikko bija uzceluši'; latviski atveidots ar vienu darbības vārdu un 'tikko'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sašķīda",
-      "rationale": "ונפוץ no נפץ 'triekt gabalos, izkaisīt' — darbības vārda forma ļauj lasīt krūkas sadrupšanu kā vienlaicīgu ar pūšanu."
-    },
-    {
-      "kind": "measurement",
-      "subject": "vidējā nakts sardze",
-      "rationale": "Nakts iedalījums sardzēs — laika skaitīšana."
-    }
-  ],
-  "translation": "Un Gideons atnāca un simts vīru, kas bija ar viņu, malā ⟨pie⟩ nometnes, sākumā vidējā nakts sardzes; tikko tie bija cēluši sargus — un tie pūta šofaros un sašķīda ūdeņu krūkas, kas bija viņu rokās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1dc35927bb509968c1e5af03feebc43419bebd99ec89fed519761a98cb8dc9cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/7\/17-20.1792518298471.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Gidons ieradās ar simtu vīriem, kas bija ⟨את⟩-viņam līdz, nometnes malā, vidējās nakts sardzes sākumā; tikko tie, kas sargāja, bija piecēluši ⟨את⟩ sargus — un viņi pūta šaušalīgo taures ragus un sasita māla traukus, kas bija viņu rokās.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Un atnāca"
+      "gloss": "Un ieradās"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideons"
+      "gloss": "Gidons"
     },
     {
       "surface": "ומאה",
-      "gloss": "un simts"
+      "gloss": "ar simtu"
     },
     {
       "surface": "איש",
-      "gloss": "vīru"
+      "gloss": "vīriem"
     },
     {
       "surface": "אשר",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu"
+      "gloss": "⟨את⟩-viņam līdz"
     },
     {
       "surface": "בקצה",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "התיכונה",
-      "gloss": "vidējā"
+      "gloss": "vidējās"
     },
     {
       "surface": "אך",
@@ -88,11 +57,11 @@
     },
     {
       "surface": "הקם",
-      "gloss": "bija cēluši"
+      "gloss": "piecēluši"
     },
     {
       "surface": "הקימו",
-      "gloss": "cēluši"
+      "gloss": "bija uzstādījuši"
     },
     {
       "surface": "את",
@@ -105,19 +74,19 @@
     },
     {
       "surface": "ויתקעו",
-      "gloss": "un tie pūta"
+      "gloss": "un viņi pūta"
     },
     {
       "surface": "בשופרות",
-      "gloss": "šofaros"
+      "gloss": "šaušalīgo taures ragus"
     },
     {
       "surface": "ונפוץ",
-      "gloss": "un sašķīda"
+      "gloss": "un sasita"
     },
     {
       "surface": "הכדים",
-      "gloss": "ūdeņu krūkas"
+      "gloss": "māla traukus"
     },
     {
       "surface": "אשר",
@@ -128,6 +97,6 @@
       "gloss": "viņu rokās"
     }
   ],
-  "timestamp": "2026-10-20T17:44:58.473053277Z",
+  "timestamp": "2026-10-20T22:54:41.363554489Z",
   "model": "glm-5.3"
 }

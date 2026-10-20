@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Bokims",
-      "rationale": "הבכים 'raudātāji' — vietas vārds no v. 5 raudāšanas; daži tulko 'uz Raudātājiem'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הבכים\/ויבכו",
-      "rationale": "vietas vārds Bokim ('raudātāji') savijas ar tautas raudāšanu v. 4 — nosaukums dzimst no notikuma."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve eņģelis → Jisraēls",
-      "rationale": "Dieva vēstnesis tieši uzrunā Israēlu ar pārmetumu."
-    }
-  ],
-  "translation": "Un Jahve eņģelis uzkāpa no Gilgalas uz Bokimu un sacīja: Es izvedu jūs ⟨את⟩ no Micraimas un atvedu jūs ⟨את⟩ uz zemi, par kuru es zvērēju jūsu tēviem, un sacīju: Es nenolasīšu savu derību ar jūs līdz mūžībai.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/2\/1-4.1792518138769.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve vēstnesis uzkāpa no Gilgalas uz Bokimu un sacīja: Es izvedu ⟨את⟩ jūs no Micraimas un ieradināju ⟨את⟩ jūs zemē, par kuru es zvērēju jūsu tēviem, un es sacīju: Es nesagraušu savu derību ⟨את⟩ ar jums mūžīgi.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "un uzkāpa"
+      "gloss": "uzkāpa"
     },
     {
       "surface": "מלאך",
-      "gloss": "eņģelis"
+      "gloss": "vēstnesis"
     },
     {
       "surface": "יהוה",
@@ -67,12 +41,12 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "es izvedu augšā"
+      "gloss": "Es izvedu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ jūs",
-      "marks": "jūs"
+      "marks": "jūs (no Micraimas)"
     },
     {
       "surface": "ממצרים",
@@ -80,20 +54,20 @@
     },
     {
       "surface": "ואביא",
-      "gloss": "un atvedu"
+      "gloss": "un ieradināju"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ jūs",
-      "marks": "jūs"
+      "marks": "jūs (zemē)"
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "zemē"
     },
     {
       "surface": "הארץ",
-      "gloss": "zemi"
+      "gloss": "zemē"
     },
     {
       "surface": "אשר",
@@ -109,15 +83,15 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "un sacīju"
+      "gloss": "un es sacīju"
     },
     {
       "surface": "לא",
-      "gloss": "nē"
+      "gloss": "ne"
     },
     {
       "surface": "אפר",
-      "gloss": "es nenolasīšu"
+      "gloss": "nesagraušu"
     },
     {
       "surface": "בריתי",
@@ -126,13 +100,13 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ ar jums",
-      "marks": "ar jums"
+      "marks": "derību ar jums"
     },
     {
       "surface": "לעולם",
-      "gloss": "līdz mūžībai"
+      "gloss": "mūžīgi"
     }
   ],
-  "timestamp": "2026-10-20T17:42:18.769965881Z",
+  "timestamp": "2026-10-20T22:54:03.429347004Z",
   "model": "glm-5.3"
 }

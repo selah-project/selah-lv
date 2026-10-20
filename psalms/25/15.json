@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "lūgšana Jahvam",
-      "rationale": "Psalmists vēršas tieši pie Jahves ar lūgumu — 'manas acis uz Jahvu'."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju teikumā nav darbības vārda 'ir'; latviski pievienots ⟨ir⟩."
-    }
-  ],
-  "translation": "Manas acis vienmēr ⟨ir⟩ uz Jahvu, jo Viņš izvedīs no tīkla manas kājas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/13-16.1792527285987.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Manas acis ⟨ir⟩ vienmēr pret Jahvi, jo viņš izvedīs manas kājas no tīkla.",
   "tokens": [
     {
       "surface": "עיני",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "pret"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahvi"
     },
     {
       "surface": "כי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Viņš"
+      "gloss": "viņš"
     },
     {
       "surface": "יוציא",
@@ -65,6 +44,6 @@
       "gloss": "manas kājas"
     }
   ],
-  "timestamp": "2026-10-20T20:14:45.989301369Z",
+  "timestamp": "2026-10-20T22:59:39.633065955Z",
   "model": "glm-5.3"
 }

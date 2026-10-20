@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "starp vakariem",
-      "rationale": "בין הערבים — divskaitlis 'starp diviem vakariem': piektais pēcpusdienas stundu laiks, dienas beigas; tulkojumi svārstās no 'vakarā' līdz 'krēslā'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "četrpadsmitā diena",
-      "rationale": "Precīza laika norēķināšana — dienu skaitīšana līdz nokaušanai."
-    }
-  ],
-  "translation": "Un tam jābūt jums apsardzē līdz četrpadsmitajai dienai šajā mēnesī, un to nokaus visa Jisraēla draudzes saime starp vakariem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/12\/5-8.1792512870338.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tas jums būs par glabāšanu līdz četrpadsmitajai dienai šajā mēnesī, un to nokaus visa Jisraēla saietuma saime starp vakariem.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Un tam jābūt"
+      "gloss": "Un tas būs"
     },
     {
       "surface": "לכם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "apsardzē"
+      "gloss": "par glabāšanu"
     },
     {
       "surface": "עד",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ארבעה",
-      "gloss": "četr"
+      "gloss": "četrpadsmitajai"
     },
     {
       "surface": "עשר",
-      "gloss": "padsmitajai"
+      "gloss": "(padsmit)"
     },
     {
       "surface": "יום",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "קהל",
-      "gloss": "saime"
+      "gloss": "saietuma"
     },
     {
       "surface": "עדת",
-      "gloss": "draudzes"
+      "gloss": "saime"
     },
     {
       "surface": "ישראל",
@@ -98,6 +77,6 @@
       "gloss": "vakariem"
     }
   ],
-  "timestamp": "2026-10-20T16:14:30.339943544Z",
+  "timestamp": "2026-10-20T22:41:16.437342562Z",
   "model": "glm-5.3"
 }

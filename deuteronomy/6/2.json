@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "no",
-      "rationale": "latviešu valodai vajadzīgs prievārds “no”, ebreju valodā tā nav"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bītos no Jahves",
-      "rationale": "ירא ir gan ‘bīties’, gan godāt; izvēlēta ‘bīties’, jo tā ir vārda pamatnozīme"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וּלְמַעַן ... לְמַעַן",
-      "rationale": "atkārtotais mērķa savienojums ietver pantu cēlienkārtā — divi “lai” atkārtojas"
-    }
-  ],
-  "translation": "Lai tu bītos no Jahves, sava Elohim, un pildītu visus viņa likumus un pavēles, ko es tev pavēlu — tu, tavs dēls un tava dēla dēls — visus savas dzīves dienas, un lai tavas dienas top garas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "48a2357ac72498abf6b4def9bc6b398af78f24730a3991e1d6cc747bb3313065",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/6\/2-3.1792532545522.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lai tu bītos no Jahves, sava Elohim, un ievērotu visus viņa likumus un pavēles, ko es tev pavēlu — tu un tavs dēls un tava dēla dēls — visus savas dzīves dienas, un lai tavas dienas top pagarinātas.",
   "tokens": [
     {
       "surface": "למען",
@@ -39,16 +13,16 @@
     },
     {
       "surface": "תירא",
-      "gloss": "bītos"
+      "gloss": "tu bītos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves, sava Elohim"
+      "marks": "Jahvi, savu Elohim"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahve"
     },
     {
       "surface": "אלהיך",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "pildītu"
+      "gloss": "ievērotu"
     },
     {
       "surface": "את",
@@ -93,15 +67,15 @@
     },
     {
       "surface": "ובנך",
-      "gloss": "tavs dēls"
+      "gloss": "un tavs dēls"
     },
     {
       "surface": "ובן",
-      "gloss": "un dēla"
+      "gloss": "un tava dēla"
     },
     {
       "surface": "בנך",
-      "gloss": "tava dēla"
+      "gloss": "dēls"
     },
     {
       "surface": "כל",
@@ -121,13 +95,13 @@
     },
     {
       "surface": "יארכן",
-      "gloss": "top garas"
+      "gloss": "top pagarinātas"
     },
     {
       "surface": "ימיך",
       "gloss": "tavas dienas"
     }
   ],
-  "timestamp": "2026-10-20T21:42:25.523401392Z",
+  "timestamp": "2026-10-20T22:40:56.884204492Z",
   "model": "glm-5.3"
 }

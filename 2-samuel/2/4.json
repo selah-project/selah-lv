@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וימשחו",
-      "rationale": "darbības vārds no saknes משח — svaidīt; šeit Davids tiek svaidīts par ķēniņu, vārds 'mašiahs' nāk no šīs pašas saknes"
-    },
-    {
-      "kind": "addition",
-      "subject": "tie ir",
-      "rationale": "ebrejs ir vārds kārtas teikums bez kopulas; latviešu 'tie ir' pievienots skaidrībai"
-    }
-  ],
-  "translation": "Un atnāca Jehudas vīri un svaidīja tur ⟨את⟩ Davaidu par ķēniņu pār Jehudas namu. Un Davaidam pavēstīja, sakot: Jabešas-Gileādas vīri tie ir, kas apbedīja ⟨את⟩ Šaūlu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/2\/1-4.1792519626018.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un atnāca Jehūdas vīri un svaidīja tur ⟨את⟩ Davdu par ķēniņu pār Jehūdas namu. Un Davam paziņoja, sacīdami: Jabešas-Gileādas vīri ir tie, kas apbedīja ⟨את⟩ Šaulu.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "un atnāca"
+      "gloss": "Un atnāca"
     },
     {
       "surface": "אנשי",
@@ -38,10 +17,10 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jehūdas"
     },
     {
-      "surface": "וימשחu",
+      "surface": "וימשחו",
       "gloss": "un svaidīja"
     },
     {
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Davaidu"
+      "marks": "Davdu"
     },
     {
       "surface": "דוד",
-      "gloss": "Davaidu"
+      "gloss": "Davdu"
     },
     {
       "surface": "למלך",
@@ -71,19 +50,19 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jehūdas"
     },
     {
       "surface": "ויגדו",
-      "gloss": "un pavēstīja"
+      "gloss": "Un paziņoja"
     },
     {
       "surface": "לדוד",
-      "gloss": "Davaidam"
+      "gloss": "Davam"
     },
     {
       "surface": "לאמר",
-      "gloss": "sakot"
+      "gloss": "sacīdami"
     },
     {
       "surface": "אנשי",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "tie, kas"
     },
     {
       "surface": "קברו",
@@ -108,13 +87,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šaūlu"
+      "marks": "Šaulu"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaūlu"
+      "gloss": "Šaulu"
     }
   ],
-  "timestamp": "2026-10-20T18:07:06.020034773Z",
+  "timestamp": "2026-10-20T22:38:10.102929680Z",
   "model": "glm-5.3"
 }

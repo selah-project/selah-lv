@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "turēties pie",
-      "rationale": "השמרים burtiski 'sargā\/tur' — laivas idiomātisks atveidojums"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tukšas viltas",
-      "rationale": "הבלי שוא — 'elku miglas, viltus tukšums'; daudzi tulki saīsina par 'viltus dievi'"
-    }
-  ],
-  "translation": "Es ienīstu tos, kas turas pie tukšām viltām, bet es uz Jahvu esmu paļāvies.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4ce6e410a86db60fbde94d352207373ad92a663a574c923293ba48d71ff891ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/31\/7-8.1792532776497.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Es ienīdu tos, kas turas pie hebel-šau tukšuma, bet es uz Jahvi esmu paļāvies.",
   "tokens": [
     {
       "surface": "שנאתי",
-      "gloss": "ienīstu"
+      "gloss": "ienīdu"
     },
     {
       "surface": "השמרים",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הבלי",
-      "gloss": "tukšām"
+      "gloss": "hebel-šau tukšuma"
     },
     {
       "surface": "שוא",
-      "gloss": "viltām"
+      "gloss": "šau"
     },
     {
       "surface": "ואני",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahvi"
     },
     {
       "surface": "בטחתי",
       "gloss": "esmu paļāvies"
     }
   ],
-  "timestamp": "2026-10-20T21:46:16.498300180Z",
+  "timestamp": "2026-10-20T23:00:13.353445984Z",
   "model": "glm-5.3"
 }

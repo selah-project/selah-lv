@@ -5,41 +5,20 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨esmu⟩",
-      "rationale": "Saiklis, kura ebreju tekstā nav."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Elohim",
-      "rationale": "אלהים paliek Elohim — nevis 'Dievs'."
-    }
-  ],
-  "translation": "Un es ņemšu jūs sev par tautu, un es būšu jums par Elohim, un jūs zināsiet, ka es ⟨esmu⟩ Jahve, jūsu Elohim, kas izved ⟨את⟩ jūs no Micraima nastām.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/6\/5-8.1792512785609.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es ņemšu ⟨את⟩ jūs Sev par tautu, un Es būšu jums par Elohim, un jūs zināsiet, ka Es esmu Jahve, jūsu Elohim, kas izved ⟨את⟩ jums no Micraimas nastu apakšas.",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "Un es ņemšu"
+      "gloss": "Un Es ņemšu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "jūs sev par tautu"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "לי",
-      "gloss": "sev"
+      "gloss": "Sev"
     },
     {
       "surface": "לעם",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "והייתי",
-      "gloss": "un es būšu"
+      "gloss": "un Es būšu"
     },
     {
       "surface": "לכם",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "אני",
-      "gloss": "es"
+      "gloss": "Es"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "esmu Jahve"
     },
     {
       "surface": "אלהיכם",
@@ -83,22 +62,22 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "jūs no Micraima nastām"
+      "gloss": "⟨את⟩",
+      "marks": "jums"
     },
     {
       "surface": "מתחת",
-      "gloss": "no zem"
+      "gloss": "no … apakšas"
     },
     {
       "surface": "סבלות",
-      "gloss": "nastām"
+      "gloss": "nastu"
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraima"
+      "gloss": "Micraimas"
     }
   ],
-  "timestamp": "2026-10-20T16:13:05.610278756Z",
+  "timestamp": "2026-10-20T22:43:05.852843506Z",
   "model": "glm-5.3"
 }

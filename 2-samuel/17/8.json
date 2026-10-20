@@ -5,38 +5,7 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēseles",
-      "rationale": "נפש nav tikai 'dvēsele' — tā ir elpojoša būtne, dzīvības spēks, rīkle; 'rūgtas dvēseles' = uzkaisīti, mežonīgi savā dzīvības spēkā."
-    },
-    {
-      "kind": "elision",
-      "subject": "את (pēdējais — H854 prievārds, ne DOM)",
-      "rationale": "Šis את ir prievārds 'ar', nevis tiešais objekta marķieris ⟨את⟩, tāpēc tulkots kā 'ar' un iekavots ⟨ar⟩."
-    },
-    {
-      "kind": "idiom",
-      "subject": "kā lācis, kam atņemti mazuļi",
-      "rationale": "שכול burtiski 'aplaupīta bāreņu dēļ' — attēls par lāceni, kuras mazuļi nogalināti; latviskais attēlojums saglabā ainu."
-    },
-    {
-      "kind": "you",
-      "subject": "Hušajs uzrunā Avšalomu",
-      "rationale": "Hušajs liek Avšalam atcerēties tēvu un tā vīrus — pārliecināšanas runa tieši pret adresātu."
-    }
-  ],
-  "translation": "Un Hušajs sacīja: Tu pazīsti ⟨את⟩ savu tēvu un ⟨את⟩ viņa vīrus, ka viņi ir varoņi un rūgtas dvēseles, kā lācis, kam atņemti mazuļi, laukā; un tavs tēvs ir kara vīrs, un viņš nenakšņos ⟨⟨את⟩ ar⟩ tautu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/17\/5-8.1792519959940.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Hushajs sacīja: Tu pazīsti ⟨את⟩ savu tēvu un ⟨את⟩ viņa vīrus, ka viņi ir varoņi un rūgtu dvēsele ⟨ir⟩ viņiem, kā lācene, kas pazaudējusi savus mazuļus laukā; un tavs tēvs ir kara vīrs, un viņš nepārguļ ⟨את⟩ tautu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "חושי",
-      "gloss": "Hušajs"
+      "gloss": "Hushajs"
     },
     {
       "surface": "אתה",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "un ⟨את⟩",
       "marks": "viņa vīrus"
     },
     {
@@ -86,23 +55,23 @@
     },
     {
       "surface": "ומרי",
-      "gloss": "un rūgtas"
+      "gloss": "un rūgtu"
     },
     {
       "surface": "נפש",
-      "gloss": "dvēseles"
+      "gloss": "dvēsele"
     },
     {
       "surface": "המה",
-      "gloss": "viņi"
+      "gloss": "viņiem"
     },
     {
       "surface": "כדב",
-      "gloss": "kā lācis"
+      "gloss": "kā lācene"
     },
     {
       "surface": "שכול",
-      "gloss": "kam atņemti mazuļi"
+      "gloss": "kas pazaudējusi mazuļus"
     },
     {
       "surface": "בשדה",
@@ -126,17 +95,18 @@
     },
     {
       "surface": "ילין",
-      "gloss": "nakšņos"
+      "gloss": "pārguļ"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ar"
+      "gloss": "⟨את⟩",
+      "marks": "tautu"
     },
     {
       "surface": "העם",
       "gloss": "tautu"
     }
   ],
-  "timestamp": "2026-10-20T18:12:39.942208073Z",
+  "timestamp": "2026-10-20T22:38:11.993799899Z",
   "model": "glm-5.3"
 }

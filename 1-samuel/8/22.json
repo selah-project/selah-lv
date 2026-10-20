@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Samuel",
-      "rationale": "Jahve tieši uzrunā Šemuēlu ar pavēli."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ikviens",
-      "rationale": "איש 'katrs vīrs' atsevišķi — latviski 'ikviens' zaudē sadalījumu pa personām."
-    }
-  ],
-  "translation": "Un Jahve sacīja Šemuēlam: Paklausi viņu balsij un ieceļ viņiem ķēniņu. Un Šemuēls sacīja Jisraēla vīriem: Ejiet ikviens savā pilsētā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/8\/21-22.1792518824965.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja Šemuēlam: Klausi viņu balsij un ieceļ viņiem ķēniņu. Un Šemuēls sacīja Jisraēla vīriem: Ejiet ikviens savā pilsētā.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuēlam"
+      "gloss": "Šemuēla"
     },
     {
       "surface": "שמע",
-      "gloss": "Paklausi"
+      "gloss": "Klausi"
     },
     {
       "surface": "בקולם",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pret"
     },
     {
       "surface": "אנשי",
@@ -97,6 +76,6 @@
       "gloss": "savā pilsētā"
     }
   ],
-  "timestamp": "2026-10-20T17:53:44.966769974Z",
+  "timestamp": "2026-10-20T22:34:36.826222971Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי (trešais)",
-      "rationale": "Trešais כי pirms 'kaunu no jaunības' latviešu teikumā atmests kā lieks pamatojuma saiklis."
-    },
-    {
-      "kind": "you",
-      "subject": "Cionam",
-      "rationale": "Sieviešu dzimtes formas uzrunā Cionu kā atraitni."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בוש\/כלם\/חפר",
-      "rationale": "Trīs dažādi ebreju 'kauna' verbi vienā pantā; latviešu valodā jāsaka ar dažādiem vārdiem, paronomāzija zūd."
-    }
-  ],
-  "translation": "Nebīsties, jo tu nekaunēsies, un neapmulsi, jo tu nebūsi apkaunota, kaunu no savas jaunības tu aizmirsīsi, un atraitnes zaimus vairs neatceries.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/54\/1-4.1792522956002.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nebīsties, jo tu nekaunēsies, un nesatkopies, jo tu netiksi apkaunota, jo kaunu sava jaunības tu aizmirsīsi un savas atraitnības negodu tu vairs neatcerēsies.",
   "tokens": [
     {
       "surface": "אל",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "un ne"
+      "gloss": "un nesatkopies"
     },
     {
       "surface": "תכלמי",
-      "gloss": "apmulsi"
+      "gloss": "satkopies"
     },
     {
       "surface": "כי",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "תחפירי",
-      "gloss": "būsi apkaunota"
+      "gloss": "netiksi apkaunota"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "jo"
     },
     {
       "surface": "בשת",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "עלומיך",
-      "gloss": "no savas jaunības"
+      "gloss": "sava jaunības"
     },
     {
       "surface": "תשכחי",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "וחרפת",
-      "gloss": "un zaimus"
+      "gloss": "un negodu"
     },
     {
       "surface": "אלמנותיך",
-      "gloss": "atraines"
+      "gloss": "savas atraitnības"
     },
     {
       "surface": "לא",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "תזכרי",
-      "gloss": "atceries"
+      "gloss": "atcerēsies"
     },
     {
       "surface": "עוד",
       "gloss": "vairs"
     }
   ],
-  "timestamp": "2026-10-20T19:02:36.003275501Z",
+  "timestamp": "2026-10-20T22:48:32.268376240Z",
   "model": "glm-5.3"
 }

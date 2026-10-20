@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Es⟩",
-      "rationale": "Darbības vārda אדרש pirmā persona latviešu valodā prasa subjectu 'Es'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרב",
-      "rationale": "חרב parādās divreiz tuvu — nākošais zobens un atnākušais zobens; atkārtojums uzsver secību."
-    }
-  ],
-  "translation": "Un sargs, ja viņš redz ⟨את⟩ zobenu nākam un nepūš šofaru, un tauta netiek brīdināta, un zobens nāk un paņem no viņiem dvēseli — viņš savā vainā tiks paņemts, un viņa asinis no sarga rokas ⟨Es⟩ pieprasīšu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/33\/5-8.1792525518810.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un sargātbiedrs, ja viņš redz nākam ⟨את⟩ zobenu un nesit tauri, un tauta nav brīdināta, un zobens nāk un paņem no viņiem dvēseli — viņš ⟨ir⟩ paņemts savā noziegumā, bet viņa asinis Es pieprasīšu no sargātbiedra rokas.",
   "tokens": [
     {
       "surface": "והצפה",
-      "gloss": "Un sargs"
+      "gloss": "Un sargātbiedrs"
     },
     {
       "surface": "כי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יראה",
-      "gloss": "viņš redz"
+      "gloss": "redz"
     },
     {
       "surface": "את",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un nepūš"
+      "gloss": "un ne"
     },
     {
       "surface": "תקע",
-      "gloss": ""
+      "gloss": "sit"
     },
     {
       "surface": "בשופר",
-      "gloss": "šofaru"
+      "gloss": "taurē"
     },
     {
       "surface": "והעם",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "netiek"
+      "gloss": "nav"
     },
     {
       "surface": "נזהר",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ותבוא",
-      "gloss": "un zobens nāk"
+      "gloss": "un nāk"
     },
     {
       "surface": "חרב",
-      "gloss": ""
+      "gloss": "zobens"
     },
     {
       "surface": "ותקח",
@@ -103,29 +82,29 @@
     },
     {
       "surface": "בעונו",
-      "gloss": "savā vainā"
+      "gloss": "savā noziegumā"
     },
     {
       "surface": "נלקח",
-      "gloss": "tiks paņemts"
+      "gloss": "paņemts"
     },
     {
       "surface": "ודמו",
-      "gloss": "un viņa asinis"
+      "gloss": "bet viņa asinis"
     },
     {
       "surface": "מיד",
-      "gloss": "no sarga rokas"
+      "gloss": "no rokas"
     },
     {
       "surface": "הצפה",
-      "gloss": ""
+      "gloss": "sargātbiedra"
     },
     {
       "surface": "אדרש",
-      "gloss": "⟨Es⟩ pieprasīšu"
+      "gloss": "Es pieprasīšu"
     }
   ],
-  "timestamp": "2026-10-20T19:45:18.811667948Z",
+  "timestamp": "2026-10-20T22:44:32.240480333Z",
   "model": "glm-5.3"
 }

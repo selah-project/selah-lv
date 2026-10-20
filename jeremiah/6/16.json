@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "uz ļaudīm (Jūdu)",
-      "rationale": "Četri imperatīvi — stāviet, skatieties, vaicājiet, ejiet — aicinājums, ko ļaudis atraida: 'Mēs neiesim'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש nav dvēsele dvēlistiskā nozīmē — tuvāk 'elpa, dzīvības spēks, pašsajūta'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דרך\/נתיבה · ולכו\/נלך",
-      "rationale": "Ceļa leksika un gājiens sakrīt: y-l-k darbības vārds atgriežas ļaužu atraidījumā — aicināts iet, atbild 'neiesim'."
-    }
-  ],
-  "translation": "Tā saka Jahve: Stāviet uz ceļiem un skatieties, un vaicājiet pēc sensenajām takām — kurš ir labais ceļš — un ejiet pa to, un jūs atradīsiet atpūtu savai dvēselei; bet viņi sacīja: Mēs neiesim.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/6\/13-16.1792523360514.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tā saka Jahve: Stāviet pie ceļiem un skatieties, un vaicājiet pēc mūžīgajām takām — kurš ⟨ir⟩ tas labais ceļš — un ejiet pa to, un jūs atradīsiet atpūtu savām nefesām. Bet viņi sacīja: Mēs neiesim.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "tā"
+      "gloss": "Tā"
     },
     {
       "surface": "אמר",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "עמדו",
-      "gloss": "stāviet"
+      "gloss": "Stāviet"
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "pie"
     },
     {
       "surface": "דרכים",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "לנתבות",
-      "gloss": "pēc takām"
+      "gloss": "pēc ... takām"
     },
     {
       "surface": "עולם",
-      "gloss": "sensenajām"
+      "gloss": "mūžīgajām"
     },
     {
       "surface": "אי",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "זה",
-      "gloss": ""
+      "gloss": "tas"
     },
     {
       "surface": "דרך",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "ומצאו",
-      "gloss": "un jūs atradīsiet"
+      "gloss": "un atradīsiet"
     },
     {
       "surface": "מרגוע",
@@ -107,11 +81,11 @@
     },
     {
       "surface": "לנפשכם",
-      "gloss": "savai dvēselei"
+      "gloss": "savām nefesām"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "bet viņi sacīja"
+      "gloss": "Bet viņi sacīja"
     },
     {
       "surface": "לא",
@@ -122,6 +96,6 @@
       "gloss": "iesim"
     }
   ],
-  "timestamp": "2026-10-20T19:09:20.515611952Z",
+  "timestamp": "2026-10-20T22:51:00.793981229Z",
   "model": "glm-5.3"
 }

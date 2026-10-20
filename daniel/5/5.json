@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "rokraksts uz sienas",
-      "rationale": "Rokas rakstītais ir noslēpums, kuru neviens vēl nespēj izlasīt."
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "Aramejiešu relatīvais „די” latviski vairākkārt izplūst locījumos un netiek atsevišķi izteikts."
-    }
-  ],
-  "translation": "Tajā stundā iznāca cilvēka rokas pirksti un rakstīja pretī lukturim uz ķēniņa pils sienas apmetuma, un ķēniņš redzēja rokas plaukstu, kas rakstīja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ac984a8f595412e72b9dd8d6fcadc2004d54906df6fc7f0ebca4baf73cd421a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/5\/5-8.1792530263260.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tajā pašā stundā iznāca pirksti no cilvēka rokas un rakstīja pretī lukturim uz kaļķu apmetuma sienas ķēniņa pilī; un ķēniņš redzēja rokas plaukstu, kas rakstīja.",
   "tokens": [
     {
       "surface": "בה",
-      "gloss": "Tajā"
+      "gloss": "tajā"
     },
     {
       "surface": "שעתה",
-      "gloss": "stundā"
+      "gloss": "pašā stundā"
     },
     {
       "surface": "נפקו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "די",
-      "gloss": "⟨no⟩"
+      "gloss": "no"
     },
     {
       "surface": "יד",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "גירא",
-      "gloss": "apmetuma"
+      "gloss": "kaļķu apmetuma"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "כתל",
@@ -86,15 +65,15 @@
     },
     {
       "surface": "היכלא",
-      "gloss": "pils"
+      "gloss": "pilī"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ķēniņa"
     },
     {
       "surface": "מלכא",
-      "gloss": "ķēniņa"
+      "gloss": "—"
     },
     {
       "surface": "ומלכא",
@@ -106,21 +85,21 @@
     },
     {
       "surface": "פס",
-      "gloss": "plaukstu"
+      "gloss": "rokas plaukstu"
     },
     {
       "surface": "ידה",
-      "gloss": "rokas"
+      "gloss": "—"
     },
     {
       "surface": "די",
-      "gloss": "⟨kas⟩"
+      "gloss": "kas"
     },
     {
       "surface": "כתבה",
       "gloss": "rakstīja"
     }
   ],
-  "timestamp": "2026-10-20T21:04:23.261375785Z",
+  "timestamp": "2026-10-20T22:39:03.840186322Z",
   "model": "glm-5.3"
 }

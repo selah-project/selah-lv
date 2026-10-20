@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jehošua runā ar Moši",
-      "rationale": "Tieša uzruna: Jehošua ziņo Mošem par troksni nometnē."
-    },
-    {
-      "kind": "crux",
-      "subject": "ברעה",
-      "rationale": "Rare word: 'troksnis\/kliedziens' — 'kā viņi kliedza' vs 'kā pretinieks kaujā'; izvēlēts 'kliedzienā'."
-    }
-  ],
-  "translation": "Un Jehošua dzirdēja ⟨את⟩ tautas balsi tās kliedzienā, un viņš sacīja Mošem: kara balss nometnē!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/32\/17-20.1792513408347.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jehošua dzirdēja ⟨את⟩ tautas balsi rūcam, un viņš sacīja Mošem: kaujas balss ⟨ir⟩ nometnē!",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "dzirdēja"
+      "gloss": "un dzirdēja"
     },
     {
       "surface": "יהושע",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "ברעה",
-      "gloss": "kliedzienā"
+      "gloss": "rūcam"
     },
     {
       "surface": "ויאמר",
-      "gloss": "un viņš sacīja"
+      "gloss": "un sacīja"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "משה",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "kara"
+      "gloss": "kaujas"
     },
     {
       "surface": "במחנה",
       "gloss": "nometnē"
     }
   ],
-  "timestamp": "2026-10-20T16:23:28.347692408Z",
+  "timestamp": "2026-10-20T22:42:45.656769180Z",
   "model": "glm-5.3"
 }

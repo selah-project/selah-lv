@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Priekšvārds 'pie\/saviem dēliem' latviešu valodā izzūd datīvā."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קבר",
-      "rationale": "Sakne קבר atkārtojas četras reizes pantedā — apbedīšana kā panta skelets, latviski daļēi zudis."
-    }
-  ],
-  "translation": "Un notika, kad viņš bija apbedījis ⟨את⟩ viņu, ka viņš sacīja saviem dēliem, sacīdams: Kad es miršu, jūs mani apbedījiet ⟨את⟩ tajā kapā, kurā ir apbedīts Elohim vīrs; pie viņa kauliem novietojiet ⟨את⟩ manus kaulus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6a94e4cb9545b19426b30f96c5f1d523079897aab76e10af171cd036864cc556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/13\/30-31.1792532623471.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kad viņš bija viņu apbedījis ⟨את⟩, ka viņš sacīja saviem dēliem, sacīdams: Kad es miršu, jūs mani apbedīsit ⟨את⟩ kapā, kurā Dieva vīrs ir apbedīts; viņa kaulu kauliem lieciet manus kaulus.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וקברתם",
-      "gloss": "jūs mani apbedījiet"
+      "gloss": "jūs apbedīsit"
     },
     {
       "surface": "אתי",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "בקבר",
-      "gloss": "tajā kapā"
+      "gloss": "kapā"
     },
     {
       "surface": "אשר",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Dieva"
     },
     {
       "surface": "קבור",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "tajā"
+      "gloss": "tanī"
     },
     {
       "surface": "אצל",
-      "gloss": "pie"
+      "gloss": "blakus"
     },
     {
       "surface": "עצמתיו",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "novietojiet"
+      "gloss": "lieciet"
     },
     {
       "surface": "את",
@@ -120,6 +99,6 @@
       "gloss": "manus kaulus"
     }
   ],
-  "timestamp": "2026-10-20T21:43:43.472406832Z",
+  "timestamp": "2026-10-20T22:32:24.347942207Z",
   "model": "glm-5.3"
 }

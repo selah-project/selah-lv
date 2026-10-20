@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dzīva radība",
-      "rationale": "נפש ir 'elpojoša, dzīva būtne' — dzīvības spēks, ne dvēsele."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שקץ \/ תשקצו",
-      "rationale": "Sakne š-q-c atkārtojas 10–12 pantā kā skaniska saite: šeqec — šeqec hem — tašqecu."
-    }
-  ],
-  "translation": "Un viss, kam nav spuras un zvīņu jūrās un strautos, no visa, kas pārpilnīgi vairojas ūdeņos, un no visas dzīvas radības, kas ūdeņos, — tie ir jums par negantumu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/9-12.1792513729673.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viss, kam nav spuru un zvīņu jūrās un upēs, no visiem, kas rāpo ūdenī, un no visas dzīvās radības, kas ⟨ir⟩ ūdenī — tie ir jums par negantumu.",
   "tokens": [
     {
       "surface": "וכל",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kam"
+      "gloss": "kas"
     },
     {
       "surface": "אין",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "tam"
     },
     {
       "surface": "סנפיר",
-      "gloss": "spuras"
+      "gloss": "spuru"
     },
     {
       "surface": "וקשקשת",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "ובנחלים",
-      "gloss": "un strautos"
+      "gloss": "un upēs"
     },
     {
       "surface": "מכל",
-      "gloss": "no visa"
+      "gloss": "no visiem"
     },
     {
       "surface": "שרץ",
-      "gloss": "kas pārpilnīgi vairojas"
+      "gloss": "kas rāpo"
     },
     {
       "surface": "המים",
-      "gloss": "ūdeņos"
+      "gloss": "ūdenī"
     },
     {
       "surface": "ומכל",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "נפש",
-      "gloss": "dzīvas radības"
+      "gloss": "radības"
     },
     {
       "surface": "החיה",
-      "gloss": "dzīvas"
+      "gloss": "dzīvās"
     },
     {
       "surface": "אשר",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "במים",
-      "gloss": "ūdeņos"
+      "gloss": "ūdenī"
     },
     {
       "surface": "שקץ",
@@ -105,6 +84,6 @@
       "gloss": "jums"
     }
   ],
-  "timestamp": "2026-10-20T16:28:49.673775104Z",
+  "timestamp": "2026-10-20T22:54:47.308175745Z",
   "model": "glm-5.3"
 }

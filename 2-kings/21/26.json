@@ -5,36 +5,20 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kļuva ķēniņš",
-      "rationale": "וימלך ir inceptīvs 'sāka valdīt', ne vienkārši 'valdīja'"
-    }
-  ],
-  "translation": "Un viņu apbedīja viņa kapā Uzas dārzā, un viņa dēls Jošija kļuva ķēniņš viņa vietā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/21\/25-26.1792521654798.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi apglabāja viņu ⟨את⟩ viņa kapos Uzas dārzā, un viņa dēls Jošijahu kļuva ķēniņš viņa vietā.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "Un apbedīja"
+      "gloss": "apglabāja"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "viņu (kapu vietu)"
     },
     {
       "surface": "בקברתו",
-      "gloss": "viņa kapā"
+      "gloss": "viņa kapos"
     },
     {
       "surface": "בגן",
@@ -46,11 +30,11 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "un kļuva ķēniņš"
+      "gloss": "kļuva ķēniņš"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Jošija"
+      "gloss": "Jošijahu"
     },
     {
       "surface": "בנו",
@@ -61,6 +45,6 @@
       "gloss": "viņa vietā"
     }
   ],
-  "timestamp": "2026-10-20T18:40:54.799409990Z",
+  "timestamp": "2026-10-20T22:37:18.774637898Z",
   "model": "glm-5.3"
 }

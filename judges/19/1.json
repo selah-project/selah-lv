@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "piegulētāja",
-      "rationale": "פילגש ir īpašs statuss — sieva ar zemāku tiesību stāvokli, ne vienkārši 'mīļākā'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ķēniņa nebija Jisraēlā",
-      "rationale": "Soģu atslēgas piezīme (17:6; 18:1; 19:1; 21:25), atkārtojas kā ikreizējs pamatojums"
-    }
-  ],
-  "translation": "Un notika tajās dienās, kad ķēniņa nebija Jisraēlā, ka bija kāds vīrs, levīts, kas mita Efrajima kalna nostūrī; un viņš ņēma sev sievu — piegulētāju — no Beit-Lehemas Jehudas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1d385ad8e88bbed2bfa5ee8566b34a51ac598331594ba55a60f91e4bb2972e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/19\/1-4.1792518641861.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika tajās dienās, kad ķēniņa ⟨nebija⟩ Jisraēlā, ka bija kāds vīrs, levīts, kas dzīvoja Efrajima kalna nogāzēs, un viņš ņēma sev sievu, pielgšu, no Beitlehemas Judā.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Un notica"
+      "gloss": "Un notika"
     },
     {
       "surface": "בימים",
@@ -41,16 +20,12 @@
       "gloss": "tajās"
     },
     {
-      "surface": "וילך",
-      "gloss": ""
-    },
-    {
       "surface": "ומלך",
-      "gloss": "ķēniņa"
+      "gloss": "kad ķēniņa"
     },
     {
       "surface": "אין",
-      "gloss": "nebija"
+      "gloss": "⟨nebija⟩"
     },
     {
       "surface": "בישראל",
@@ -70,11 +45,11 @@
     },
     {
       "surface": "גר",
-      "gloss": "mita"
+      "gloss": "dzīvoja"
     },
     {
       "surface": "בירכתי",
-      "gloss": "nostūrī"
+      "gloss": "nogāzēs"
     },
     {
       "surface": "הר",
@@ -86,7 +61,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "un ņēma"
+      "gloss": "un viņš ņēma"
     },
     {
       "surface": "לו",
@@ -98,21 +73,21 @@
     },
     {
       "surface": "פילגש",
-      "gloss": "piegulētāju"
+      "gloss": "pielgšu"
     },
     {
       "surface": "מבית",
-      "gloss": "no Beit-"
+      "gloss": "no Beitlehemas"
     },
     {
       "surface": "לחם",
-      "gloss": "Lehemas"
+      "gloss": "Beitlehemas"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Judā"
     }
   ],
-  "timestamp": "2026-10-20T17:50:41.862523139Z",
+  "timestamp": "2026-10-20T22:54:05.798606263Z",
   "model": "glm-5.3"
 }

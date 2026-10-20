@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jirmejahu",
-      "rationale": "Ķēniņa atbilde pravietim — atklāj viņa bailes"
-    },
-    {
-      "kind": "idiom",
-      "subject": "נפלו אל",
-      "rationale": "'krituši pie' — pārbēguši, pārgājuši pretinieka pusē; burtiski 'nokrita uz'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "apsmej",
-      "rationale": "התעלל ב lit. 'rīkojās ar' — ņirdzība, pazemošana, var būt arī fiziska mocīšana"
-    }
-  ],
-  "translation": "Un ķēniņš Cidkijahu sacīja Jirmejahu: Es baidos no jūdiešiem, kas ⟨את⟩ pārgājuši pie kasdiešiem, ka viņi mani nesadod viņu rokās un neapsmej mani.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/38\/17-20.1792524267636.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un karalis Cidkijahs sacīja Jeremijam: Es baidos no jūdiešiem, kas pārgājuši pie kasdiešiem, ka viņi mani neno­dos savā rokā un nezaimos mani.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ķēniņš"
+      "gloss": "karalis"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cidkijahu"
+      "gloss": "Cidkijahs"
     },
     {
       "surface": "אל",
-      "gloss": "Jirmejahu"
+      "gloss": "pie"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremijam"
     },
     {
       "surface": "אני",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "no jūdiešiem"
+      "gloss": "jūdiešiem"
     },
     {
       "surface": "אשר",
@@ -88,30 +62,30 @@
     },
     {
       "surface": "פן",
-      "gloss": "ka... ne"
+      "gloss": "ka ne"
     },
     {
       "surface": "יתנו",
-      "gloss": "viņi mani nesadod"
+      "gloss": "nodos"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "viņu rokās"
+      "marks": "mani (savā rokā)"
     },
     {
       "surface": "בידם",
-      "gloss": "viņu rokās"
+      "gloss": "savā rokā"
     },
     {
       "surface": "והתעללו",
-      "gloss": "un neapsmej"
+      "gloss": "un zaimos"
     },
     {
       "surface": "בי",
       "gloss": "mani"
     }
   ],
-  "timestamp": "2026-10-20T19:24:27.637512491Z",
+  "timestamp": "2026-10-20T22:50:26.250051755Z",
   "model": "glm-5.3"
 }

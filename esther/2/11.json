@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יום ויום",
-      "rationale": "'diena un diena' — ebreju idioms 'katru dienu', atstāts burtiski."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שלום",
-      "rationale": "'labklājība' — šaloms ietver arī veselību, mieru un svētību."
-    }
-  ],
-  "translation": "Un katru dienu un dienu Mordehajs staigāja šurpu turpu sieviešu nama pagalma priekšā, lai uzzinātu ⟨את⟩ Esteres labklājību un ko ar viņu <tiks> darīts.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3ba0d12876889e7fe4db48e0d99c20e6963b68f4e35c17da12fde8df7fc478d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/9-12.1792530082318.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un katru dienu un dienu Mordohajs staigāja sieviešu nama pagalma priekšā, lai zinātu ⟨את⟩ Esteres šalomu un kas ar viņu tiks darīts.",
   "tokens": [
     {
       "surface": "ובכל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordehajs"
+      "gloss": "Mordohajs"
     },
     {
       "surface": "מתהלך",
-      "gloss": "staigāja šurpu turpu"
+      "gloss": "staigāja"
     },
     {
       "surface": "לפני",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "חצר",
-      "gloss": "pagalmam"
+      "gloss": "pagalma"
     },
     {
       "surface": "בית",
@@ -66,24 +45,24 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "lai uzzinātu"
+      "gloss": "lai zinātu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Esteres labklājību"
+      "marks": "Esteres šalomu"
     },
     {
       "surface": "שלום",
-      "gloss": "labklājību"
+      "gloss": "šalomu"
     },
     {
       "surface": "אסתר",
-      "gloss": "Estere"
+      "gloss": "Esteres"
     },
     {
       "surface": "ומה",
-      "gloss": "un ko"
+      "gloss": "un kas"
     },
     {
       "surface": "יעשה",
@@ -94,6 +73,6 @@
       "gloss": "ar viņu"
     }
   ],
-  "timestamp": "2026-10-20T21:01:22.319396660Z",
+  "timestamp": "2026-10-20T22:41:20.657488087Z",
   "model": "glm-5.3"
 }

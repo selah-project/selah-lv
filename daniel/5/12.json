@@ -5,45 +5,19 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "'כל קבל די' trīsvārdu saiklis 'tāpēc ka' — דī uztverts kopā ar קבל"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קטרין",
-      "rationale": "'mezgli' — burtiskais attēls: sasietas mīklas kā mezgli, ko atšķetina; glabāts burtiski"
-    },
-    {
-      "kind": "invitation",
-      "subject": "lai Daniēls tiek pasaukts",
-      "rationale": "ķēniņienes pavēle atsaukt Daniēlu — teksta darbības aicinājums"
-    }
-  ],
-  "translation": "Tāpēc ka izcilāka ruah, zināšanas un saprāts — sapņu skaidrošana, mīklu atminēšana un mezglu atraisīšana — tika atrasta viņā, Daniēlā, kuru ķēniņš nosauca vārdā Beltešacars: tagad lai Daniēls tiek pasaukts, un viņš parādīs skaidrojumu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b87e5c6a98a30a590a3792bca612b18ecb946f85ec54e4005db93eab98aaecc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/5\/9-12.1792530321458.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc ka pārpilnā ruah un zināšanas un saprašana — sapņu skaidrošana, mīklu atklāšana un mezglu atraisīšana — tika atrasts viņā, Daniēlā, kuram ķēniņš lika vārdu Beltšacars: lai tagad Daniēlu pasauc, un viņš parādīs skaidrojumu.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Tāpēc"
+      "gloss": "tāpēc ka"
     },
     {
       "surface": "קבל",
-      "gloss": "ka"
+      "gloss": "tāpēc ka"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "רוח",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "יתירה",
-      "gloss": "izcilāka"
+      "gloss": "pārpilnā"
     },
     {
       "surface": "ומנדע",
@@ -59,35 +33,35 @@
     },
     {
       "surface": "ושכלתנו",
-      "gloss": "un saprāts"
+      "gloss": "un saprašana"
     },
     {
       "surface": "מפשר",
-      "gloss": "skaidrošana"
+      "gloss": "sapņu skaidrošana"
     },
     {
       "surface": "חלמין",
-      "gloss": "sapņu"
+      "gloss": "sapņu skaidrošana"
     },
     {
       "surface": "ואחוית",
-      "gloss": "un atminēšana"
+      "gloss": "mīklu atklāšana"
     },
     {
       "surface": "אחידן",
-      "gloss": "mīklu"
+      "gloss": "mīklu atklāšana"
     },
     {
       "surface": "ומשרא",
-      "gloss": "un atraisīšana"
+      "gloss": "mezglu atraisīšana"
     },
     {
       "surface": "קטרין",
-      "gloss": "mezglu"
+      "gloss": "mezglu atraisīšana"
     },
     {
       "surface": "השתכחת",
-      "gloss": "tika atrasta"
+      "gloss": "tika atrasts"
     },
     {
       "surface": "בה",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "די",
-      "gloss": "kuru"
+      "gloss": "kuram"
     },
     {
       "surface": "מלכא",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "nosauca"
+      "gloss": "lika"
     },
     {
       "surface": "שמה",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "בלטשאצר",
-      "gloss": "Beltešacars"
+      "gloss": "Beltšacars"
     },
     {
       "surface": "כען",
@@ -123,21 +97,21 @@
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniēls"
+      "gloss": "Daniēlu"
     },
     {
       "surface": "יתקרי",
-      "gloss": "lai tiek pasaukts"
+      "gloss": "pasauc"
     },
     {
       "surface": "ופשרה",
-      "gloss": "un skaidrojumu"
+      "gloss": "skaidrojumu"
     },
     {
       "surface": "יהחוה",
-      "gloss": "viņš parādīs"
+      "gloss": "parādīs"
     }
   ],
-  "timestamp": "2026-10-20T21:05:21.459808973Z",
+  "timestamp": "2026-10-20T22:39:19.599312099Z",
   "model": "glm-5.3"
 }

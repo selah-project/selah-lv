@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מי אתי",
-      "rationale": "ב אתי šeit ir prievārds 'ar mani' (H854), ne objekta marķieris H853 — 'Kas ir ar mani?' jeb 'Kas ir manā pusē?'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "einuhi",
-      "rationale": "סריסים var nozīmēt einuhus vai galma ierēdņus; JPS liek 'officers'."
-    }
-  ],
-  "translation": "Un viņš pacēla savu seju pret logu un sacīja: Kas ir ar mani? kas? Un izliecās uz viņu divi vai trīs einuhi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/9\/29-32.1792521327940.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš pacēla ⟨את⟩ savu seju pret logu un sacīja: Kas ir ar mani ⟨את⟩? kas? Un izskatījās ārā pie viņa divi vai trīs einuhi.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "Un pacēla"
+      "gloss": "pacēla"
     },
     {
       "surface": "פניו",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "ir ⟨את⟩ ar mani"
+      "gloss": "⟨את⟩ ar mani"
     },
     {
       "surface": "מי",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "וישקיפו",
-      "gloss": "Un izliecās"
+      "gloss": "un izskatījās ārā"
     },
     {
       "surface": "אליו",
-      "gloss": "uz viņu"
+      "gloss": "pie viņa"
     },
     {
       "surface": "שנים",
@@ -81,6 +60,6 @@
       "gloss": "einuhi"
     }
   ],
-  "timestamp": "2026-10-20T18:35:27.941709219Z",
+  "timestamp": "2026-10-20T22:37:56.512992087Z",
   "model": "glm-5.3"
 }

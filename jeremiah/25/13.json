@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir (pravietojis ir)",
-      "rationale": "Latviešu valodai vajadzīgs palīgdarbības vārds, ebreju valodā tā nav"
-    },
-    {
-      "kind": "alternative",
-      "subject": "par visām tautām",
-      "rationale": "על var nozīmēt arī 'pret visām tautām' — sodīšanas konteksts"
-    }
-  ],
-  "translation": "Un Es atvedīšu pār to zemi visus Savus vārdus, ko Es runāju pret to — ⟨את⟩ visu, kas rakstīts šajā grāmatā, ko Jirmejahu pravietojis par visām tautām.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/25\/13-16.1792523859213.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es atvedīšu pār šo zemi ⟨את⟩ visus Savus vārdus, ko Es runāju par to, ⟨את⟩ visu, kas rakstīts šajā grāmatā, ko pravietis Jeremija pravietoja par visām tautām.",
   "tokens": [
     {
       "surface": "והבאיתי",
@@ -38,24 +17,24 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "to zemi"
+      "gloss": "zemi"
     },
     {
       "surface": "ההיא",
-      "gloss": "to"
+      "gloss": "šo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visu, kas rakstīts šajā grāmatā"
+      "marks": "visus Savus vārdus"
     },
     {
       "surface": "כל",
-      "gloss": "visu"
+      "gloss": "visus"
     },
     {
       "surface": "דברי",
-      "gloss": "vārdus"
+      "gloss": "Savus vārdus"
     },
     {
       "surface": "אשר",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "עליה",
-      "gloss": "pret to"
+      "gloss": "par to"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visu, kas rakstīts šajā grāmatā"
+      "marks": "visu, kas rakstīts"
     },
     {
       "surface": "כל",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "הכתוב",
-      "gloss": "kas rakstīts"
+      "gloss": "rakstīts"
     },
     {
       "surface": "בספר",
-      "gloss": "šajā grāmatā"
+      "gloss": "grāmatā"
     },
     {
       "surface": "הזה",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "נבא",
-      "gloss": "pravietojis"
+      "gloss": "pravietoja"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremija"
     },
     {
       "surface": "על",
@@ -115,6 +94,6 @@
       "gloss": "tautām"
     }
   ],
-  "timestamp": "2026-10-20T19:17:39.213678114Z",
+  "timestamp": "2026-10-20T22:49:24.663710683Z",
   "model": "glm-5.3"
 }

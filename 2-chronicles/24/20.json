@@ -5,58 +5,32 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "'apņēma' — לבשה burtiski 'apģērba'; ruah kā vējš\/elpa\/Gars vienā vārdā"
-    },
-    {
-      "kind": "you",
-      "subject": "tautai",
-      "rationale": "Caharjahu uzrunā Jehudas tautu ar tiešu 'jūs'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עזבתם\/ויעזב",
-      "rationale": "'jūs atstājāt — Viņš atstāja': tā pati sakne עזב spoguļdarbībā"
-    }
-  ],
-  "translation": "Un Elohima ruah apņēma ⟨את⟩ Caharjahu, Jehojada priesteri dēlu, un viņš nostājās priekšā tautai un sacīja tiem: Tā saka Elohim: Kāpēc jūs pārkāpjat ⟨את⟩ Jahves baušļus un jums neveiksies? Jo jūs atstājāt ⟨את⟩ Jahvi, un Viņš atstāja jūs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/24\/17-20.1792532095232.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Elohim ruah apģērba ⟨את⟩ Zechajahu, Jehojadas dēlu, priesteri, un viņš nostājās pretī tautai un sacīja viņiem: Tā saka Elohim: Kāpēc jūs pārkāpjat ⟨את⟩ Jahves pavēles un neveiksities? Jo jūs esat atstājuši ⟨את⟩ Jahvi, un ⟨viņš⟩ atstāja ⟨את⟩ jūs.",
   "tokens": [
     {
       "surface": "ורוח",
-      "gloss": "Un ruah"
+      "gloss": "Un … ruah"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohima"
+      "gloss": "Elohim"
     },
     {
       "surface": "לבשה",
-      "gloss": "apņēma"
+      "gloss": "apģērba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Caharjahu"
+      "marks": "Zechajahu"
     },
     {
       "surface": "זכריה",
-      "gloss": "Caharjahu"
+      "gloss": "Zechajahu"
     },
     {
       "surface": "בן",
-      "gloss": "dēlu"
+      "gloss": "dēls"
     },
     {
       "surface": "יהוידע",
@@ -64,15 +38,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "priesteri"
+      "gloss": "priesteris"
     },
     {
       "surface": "ויעמד",
-      "gloss": "un viņš nostājās"
+      "gloss": "un nostājās"
     },
     {
       "surface": "מעל",
-      "gloss": "priekšā"
+      "gloss": "pretī"
     },
     {
       "surface": "לעם",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "tiem"
+      "gloss": "viņiem"
     },
     {
       "surface": "כה",
@@ -113,11 +87,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baušļus"
+      "marks": "Jahves pavēles"
     },
     {
       "surface": "מצות",
-      "gloss": "baušļus"
+      "gloss": "pavēles"
     },
     {
       "surface": "יהוה",
@@ -129,7 +103,7 @@
     },
     {
       "surface": "תצליחו",
-      "gloss": "jums veiksies"
+      "gloss": "veiksities"
     },
     {
       "surface": "כי",
@@ -137,7 +111,7 @@
     },
     {
       "surface": "עזבתם",
-      "gloss": "jūs atstājāt"
+      "gloss": "esat atstājuši"
     },
     {
       "surface": "את",
@@ -150,13 +124,13 @@
     },
     {
       "surface": "ויעזב",
-      "gloss": "un Viņš atstāja"
+      "gloss": "un atstāja"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ jūs"
     }
   ],
-  "timestamp": "2026-10-20T21:34:55.234116224Z",
+  "timestamp": "2026-10-20T22:35:25.555547133Z",
   "model": "glm-5.3"
 }

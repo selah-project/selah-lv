@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨būs⟩",
-      "rationale": "Ebreju valoda saistību izsaka ar יהיה kārtas vārdu; latviešu valodai vajag pilnu darbības vārdu teikuma beigās"
-    },
-    {
-      "kind": "measurement",
-      "subject": "divi omera desmitie daļu",
-      "rationale": "Precīzs mērs — katrā klaipā divas efas desmitās daļas (omeri)"
-    }
-  ],
-  "translation": "Un tu ņemsi smalko miltu un no tā izcepsi divpadsmit maizes klaipus; divi omera desmitie daļu no katra maizes klaipa ⟨būs⟩.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/24\/5-8.1792515169528.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu ņemsi smalkus miltus un no tiem cepīsi ⟨את⟩ divpadsmit maizes — divi omeri ⟨ir⟩ vienā maizē.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "סלת",
-      "gloss": "smalko miltu"
+      "gloss": "smalkus miltus"
     },
     {
       "surface": "ואפית",
-      "gloss": "un izcepsi"
+      "gloss": "un tu cepīsi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "divpadsmit maizes klaipus"
+      "marks": "divpadsmit maizes"
     },
     {
       "surface": "שתים",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "(div-padsmit)"
     },
     {
       "surface": "חלות",
-      "gloss": "maizes klaipus"
+      "gloss": "maizes"
     },
     {
       "surface": "שני",
@@ -63,21 +42,21 @@
     },
     {
       "surface": "עשרנים",
-      "gloss": "omera desmitie daļu"
+      "gloss": "omeri"
     },
     {
       "surface": "יהיה",
-      "gloss": "būs"
+      "gloss": "ir"
     },
     {
       "surface": "החלה",
-      "gloss": "no katra maizes klaipa"
+      "gloss": "vienā maizē"
     },
     {
       "surface": "האחת",
-      "gloss": ""
+      "gloss": "viena"
     }
   ],
-  "timestamp": "2026-10-20T16:52:49.530528754Z",
+  "timestamp": "2026-10-20T22:55:56.058587193Z",
   "model": "glm-5.3"
 }

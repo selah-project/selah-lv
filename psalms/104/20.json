@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 104,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רָמַשׂ",
-      "rationale": "Burtiski 'rāpo\/ložņā' — parasti attiecas uz rāpuļiem, šeit par meža zvēriem naktī"
-    }
-  ],
-  "translation": "Tu sūti tumsu, un iestājas nakts; tanī kustas visi meža zvēri.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/17-20.1792528110781.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tu liec tumsu, un ⟨tas⟩ top par nakti; tajā rāpo ārā visa meža zvēri.",
   "tokens": [
     {
       "surface": "תשת",
-      "gloss": "sūti"
+      "gloss": "Tu liec"
     },
     {
       "surface": "חשך",
@@ -33,23 +17,23 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "iestājas"
+      "gloss": "un ⟨tas⟩ top"
     },
     {
       "surface": "לילה",
-      "gloss": "nakts"
+      "gloss": "par nakti"
     },
     {
       "surface": "בו",
-      "gloss": "tanī"
+      "gloss": "tajā"
     },
     {
-      "surface": "תרמosh",
-      "gloss": "kustas"
+      "surface": "תרמש",
+      "gloss": "rāpo"
     },
     {
       "surface": "כל",
-      "gloss": "visi"
+      "gloss": "visa"
     },
     {
       "surface": "חיתו",
@@ -60,6 +44,6 @@
       "gloss": "meža"
     }
   ],
-  "timestamp": "2026-10-20T20:28:30.782672855Z",
+  "timestamp": "2026-10-20T22:59:22.645375280Z",
   "model": "glm-5.3"
 }

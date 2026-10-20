@@ -5,28 +5,7 @@
   "book": "song-of-songs",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הזמיר",
-      "rationale": "'zamir' — 'dziedāšana' (no zamar 'dziedāt') vai 'vīšana\/apgriešana' (zemer 'apgriezt zarus'): dziedāšanas laiks vai vīšanas laiks"
-    },
-    {
-      "kind": "substitution",
-      "subject": "התור",
-      "rationale": "turtur balodis — mīlestības putns; latviski vienkārši 'balodis', maiguma pārnesa vājāka"
-    }
-  ],
-  "translation": "Ziedi parādījušies zemenē, dziedāšanas laiks iestājies, un baložu balss dzirdama ⟨mūsu⟩ zemē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/2\/9-12.1792529625209.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ziedi parādījās zemē, ziedēšanas laiks ir ⟨ir⟩ klāt, un baloža balss tiek dzirdēta mūsu zemē.",
   "tokens": [
     {
       "surface": "הנצנים",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "נראו",
-      "gloss": "parādījušies"
+      "gloss": "parādījās"
     },
     {
       "surface": "בארץ",
-      "gloss": "zemenē"
+      "gloss": "zemē"
     },
     {
       "surface": "עת",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "הזמיר",
-      "gloss": "dziedāšanas"
+      "gloss": "ziedēšanas"
     },
     {
       "surface": "הגיע",
-      "gloss": "iestājies"
+      "gloss": "ir klāt"
     },
     {
       "surface": "וקול",
@@ -58,17 +37,17 @@
     },
     {
       "surface": "התור",
-      "gloss": "baložu"
+      "gloss": "baloža"
     },
     {
       "surface": "נשמע",
-      "gloss": "dzirdama"
+      "gloss": "tiep dzirdēta"
     },
     {
-      "surface": "בארצנu",
+      "surface": "בארצנו",
       "gloss": "mūsu zemē"
     }
   ],
-  "timestamp": "2026-10-20T20:53:45.210811985Z",
+  "timestamp": "2026-10-20T23:00:40.141109055Z",
   "model": "glm-5.3"
 }

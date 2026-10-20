@@ -5,45 +5,24 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju teksta nav saikli 'ir'; latviešu valodai vajadzīgs palīgdarbības vārds ⟨ir⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "rubeniešiem un gādiešiem",
-      "rationale": "Moše vēršas tieši pie diviem ciltīm ar pavēli pāriet bruņoto priekšgalā."
-    }
-  ],
-  "translation": "Un es tajā laikā pavēlēju jums, sacīdams: Jahve, jūsu Elohim, jums ⟨ir⟩ devis ⟨את⟩ šo zemi, lai to iegūtu; bruņojušies jūs iesiet pāri priekšā saviem brāļiem, Jisraēla dēliem — visi spēka dēli.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "78946dd3edb6ddbd0df0bf7ca1280f0f974279ff42daa50818f010bfaa51207b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/3\/17-20.1792516596015.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tajā laikā es pavēlēju ⟨את⟩ jums, sacīdams: Jahve, jūsu Elohim, jums ir devis ⟨את⟩ šo zemi, lai to iemantu — apbruņojušies jāpārceļas jūsu brāļiem, Jisraēla bērniem, priekšā, visi spēka dēli.",
   "tokens": [
     {
       "surface": "ואצו",
-      "gloss": "Un es pavēlēju"
+      "gloss": "es pavēlēju"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ jums",
       "marks": "jums"
     },
     {
       "surface": "בעת",
-      "gloss": "tajā"
+      "gloss": "tajā laikā"
     },
     {
       "surface": "ההוא",
-      "gloss": "laikā"
+      "gloss": "tā"
     },
     {
       "surface": "לאמר",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "deva"
+      "gloss": "ir devis"
     },
     {
       "surface": "לכם",
@@ -80,15 +59,15 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "lai to iegūtu"
+      "gloss": "lai to iemantu"
     },
     {
       "surface": "חלוצים",
-      "gloss": "bruņojušies"
+      "gloss": "apbruņojušies"
     },
     {
       "surface": "תעברו",
-      "gloss": "jūs iesiet pāri"
+      "gloss": "jāpārceļas"
     },
     {
       "surface": "לפני",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "אחיכם",
-      "gloss": "saviem brāļiem"
+      "gloss": "jūsu brāļiem"
     },
     {
       "surface": "בני",
-      "gloss": "dēliem"
+      "gloss": "bērniem"
     },
     {
       "surface": "ישראל",
@@ -119,6 +98,6 @@
       "gloss": "spēka"
     }
   ],
-  "timestamp": "2026-10-20T17:16:36.018056065Z",
+  "timestamp": "2026-10-20T22:40:24.354032370Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,20 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Ebreju idiom 'nav… nekā citā kā' tulkots ar 'tikai… tikai', atspoguļojot dubulto daļiņu."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בבור \/ בטיט",
-      "rationale": "Atkārtotie b-i-i-skanējumi (bedre, dūņas) veido skaņu sasaisti, kas latviski daļēji saglabāta."
-    },
-    {
-      "kind": "crux",
-      "subject": "בן המלך",
-      "rationale": "Daži lasa 'ķēniņa dēls' kā personvārdu Malkijas, citi kā īstu titulu; te turēts 'ķēniņa dēls'."
-    }
-  ],
-  "translation": "Un viņi paņēma ⟨את⟩ Jeremijahu un iemeta ⟨את⟩ viņu bedrē, Malkijaham, ķēniņa dēlam, kas bija sargāmajā pagalmā, un viņi nolaida Jeremijahu ar virvēm; un bedrē nebija ūdens, tikai dūņas, un Jeremijahs iegrima dūņās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "006599c18e9d007ac72b8367a6bebbb85c3a6477550f8f31bb5de018d92b18c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/38\/6-7.1792532723754.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi paņēma ⟨את⟩ Jirmejahu un iemeta viņu ⟨את⟩ bedrē Malkijahu, ķēniņa dēla ⟨telpā⟩, kas ir sargnams pagalmā; un viņi nolaida ⟨את⟩ Jirmejahu ar virvēm. Bet bedrē nebija ūdens, tikai dūņas, un Jirmejahu iegrima dūņās.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Un viņi paņēma"
+      "gloss": "un viņi paņēma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jeremijahu"
+      "marks": "Jirmejahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jeremijahu"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "וישלכו",
@@ -52,7 +26,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu — mērķis: bedrē"
     },
     {
       "surface": "אל",
@@ -64,11 +39,11 @@
     },
     {
       "surface": "מלכיהו",
-      "gloss": "Malkijaham"
+      "gloss": "Malkijahu"
     },
     {
       "surface": "בן",
-      "gloss": "dēlam"
+      "gloss": "dēla"
     },
     {
       "surface": "המלך",
@@ -84,7 +59,7 @@
     },
     {
       "surface": "המטרה",
-      "gloss": "sargāmajā"
+      "gloss": "sargnama"
     },
     {
       "surface": "וישלחו",
@@ -93,11 +68,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jeremijahu"
+      "marks": "Jirmejahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jeremijahu"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "בחבלים",
@@ -105,11 +80,11 @@
     },
     {
       "surface": "ובבור",
-      "gloss": "un bedrē"
+      "gloss": "bet bedrē"
     },
     {
       "surface": "אין",
-      "gloss": "nebija"
+      "gloss": "nav"
     },
     {
       "surface": "מים",
@@ -121,7 +96,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "tikai"
+      "gloss": "(ieziež partitīvu)"
     },
     {
       "surface": "טיט",
@@ -133,13 +108,13 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jeremijahs"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "בטיט",
       "gloss": "dūņās"
     }
   ],
-  "timestamp": "2026-10-20T21:45:23.755060166Z",
+  "timestamp": "2026-10-20T22:50:48.745826863Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "malachi",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tora",
-      "rationale": "תורה atstāta kā Tora, ne 'bauslība'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ar",
-      "rationale": "אתי šeit ir priekšvārds 'ar'; iekavās latviski"
-    }
-  ],
-  "translation": "Patiesības Tora bija viņa mutē, un netaisnība netika atrasta viņa lūpās; šalomā un taisnā ceļā viņš gāja ⟨ar⟩ Mani, un daudzus viņš atgrieza no ļaunuma.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1957617f5cc802cd5a36ff3b4d3acfc5a6b91f3bc8668bdb1274c3ace15128d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/2\/5-8.1792526930800.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tora patiesības bija viņa mutē, un netaisnība netika atrasta viņa lūpās; salumā un taisnumpā viņš gāja ar ⟨את⟩-manu, un daudzus viņš atgrieza no ļaunuma.",
   "tokens": [
     {
       "surface": "תורת",
-      "gloss": "Patiesības Tora"
+      "gloss": "Tora"
     },
     {
       "surface": "אמת",
-      "gloss": "patiesība"
+      "gloss": "patiesības"
     },
     {
       "surface": "היתה",
@@ -62,20 +41,20 @@
     },
     {
       "surface": "בשלום",
-      "gloss": "šalomā"
+      "gloss": "salumā"
     },
     {
       "surface": "ובמישור",
-      "gloss": "un taisnā ceļā"
+      "gloss": "un taisnumpā"
     },
     {
       "surface": "הלך",
-      "gloss": "viņš gāja"
+      "gloss": "gāja"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ar Mani",
-      "marks": "ar Mani"
+      "gloss": "⟨את⟩-ar mani",
+      "marks": "ar mani"
     },
     {
       "surface": "ורבים",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "השיב",
-      "gloss": "viņš atgrieza"
+      "gloss": "atgrieza"
     },
     {
       "surface": "מעון",
       "gloss": "no ļaunuma"
     }
   ],
-  "timestamp": "2026-10-20T20:08:50.801997990Z",
+  "timestamp": "2026-10-20T22:56:38.566838535Z",
   "model": "glm-5.3"
 }

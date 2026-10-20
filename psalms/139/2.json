@@ -5,17 +5,37 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 139,
-  "translation": "Jahve, tu esi mani izpētījis un ⟨esi⟩ mani pazinis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/139\/1-4.1792528436345.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-20T20:33:56.346258465Z",
+  "translation": "Tu zini manu sēdēšanu un manu celšanos, tu saproti manu domu no tālienes.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zini"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "manu sēdēšanu"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "un manu celšanos"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "tu saproti"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "manu domu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "no tālienes"
+    }
+  ],
+  "timestamp": "2026-10-20T22:59:50.909012225Z",
   "model": "glm-5.3"
 }

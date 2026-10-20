@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "atbildēs",
-      "rationale": "וענתה lit. 'atbildēs' — dziesma 'atbild' izraēliešu priekšā kā liecinieks; latviskais 'atbildēt' saglabā šo tiesas priekšā runāšanas bildi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "iedabu",
-      "rationale": "יצר ir 'forma, iekšējā tieksme', ne tikai 'doma' kā KJV 'imagination'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "viņa pēcnācēju",
-      "rationale": "זרעו lit. 'viņa sēkla' — 'pēcnācēji' kā izplatītākā lasījuma aplāde"
-    }
-  ],
-  "translation": "Un notiks, kad viņu sasniegs daudzas postības un bēdas, ka šī dziesma atbildēs viņa priekšā par liecinieku, jo tā netiks aizmirsta no viņa pēcnācēju mutes, jo es pazīstu ⟨את⟩ viņa iedabu, ko viņš dara jau šodien, iekams es viņu ievedu zemē, par kuru esmu zvērējis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9ccf73410e7ac0be03ffdcddd3a23d204c710ad49ab1eb3b6f803237e041935c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/21-24.1792517485263.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notiks, ka, kad ⟨את⟩ viņu sastaps daudzas nelaimes un bēdas, tad šī dziesma atbildēs viņa vaiga priekšā par liecinieku, jo tā netiks aizmirsta no viņa sēklas mutes, jo es pazīstu ⟨את⟩ viņa veidojumu, ko viņš dara šodien, pirms es viņu ievedu zemē, par kuru es zvērēju.",
   "tokens": [
     {
       "surface": "והיה",
@@ -39,20 +13,20 @@
     },
     {
       "surface": "כי",
-      "gloss": "kad"
+      "gloss": "ka"
     },
     {
       "surface": "תמצאן",
-      "gloss": "sasniegs"
+      "gloss": "sastaps"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu",
-      "marks": "daudzas postības un bēdas"
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
     },
     {
       "surface": "רעות",
-      "gloss": "postības"
+      "gloss": "nelaimes"
     },
     {
       "surface": "רבות",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "וענתה",
-      "gloss": "atbildēs"
+      "gloss": "tad atbildēs"
     },
     {
       "surface": "השירה",
-      "gloss": "dziesma"
+      "gloss": "šī dziesma"
     },
     {
       "surface": "הזאת",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "viņa priekšā"
+      "gloss": "viņa vaiga priekšā"
     },
     {
       "surface": "לעד",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "זרעו",
-      "gloss": "viņa pēcnācējiem"
+      "gloss": "viņa sēklas"
     },
     {
       "surface": "כי",
@@ -113,11 +87,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņa iedabu"
+      "marks": "viņa veidojumu"
     },
     {
       "surface": "יצרו",
-      "gloss": "viņa iedabu"
+      "gloss": "viņa veidojumu"
     },
     {
       "surface": "אשר",
@@ -137,11 +111,11 @@
     },
     {
       "surface": "בטרם",
-      "gloss": "iekams"
+      "gloss": "pirms"
     },
     {
       "surface": "אביאנו",
-      "gloss": "es viņu ievedīšu"
+      "gloss": "es viņu ievedu"
     },
     {
       "surface": "אל",
@@ -149,7 +123,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "zemi"
+      "gloss": "zemē"
     },
     {
       "surface": "אשר",
@@ -157,9 +131,9 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "esmu zvērējis"
+      "gloss": "es zvērēju"
     }
   ],
-  "timestamp": "2026-10-20T17:31:25.264909399Z",
+  "timestamp": "2026-10-20T22:40:38.817901554Z",
   "model": "glm-5.3"
 }

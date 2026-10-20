@@ -5,31 +5,15 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "sūtīja",
-      "rationale": "Ebreju verba secībā nav atkārtota 'viņš sūtīja' arī pie kokiem un amatniekiem, kā Wycliffe dara"
-    }
-  ],
-  "translation": "Un Hirams, ķēniņš Coras, sūtīja vēstnešus pie Davida un ciedru koku <...> koku un sienu amata vīrus un koku amata vīrus, lai viņam uzbūvētu namu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/14\/1-4.1792531388117.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Ĥirams, Coras ķēniņš, sūtīja sūtņus pie Davida, un ciedru koku ⟨את⟩, un sienu meistarus un koku meistarus, lai viņam uzceltu ⟨את⟩ namu.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "sūtīja"
+      "gloss": "Un ... sūtīja"
     },
     {
       "surface": "חירם",
-      "gloss": "Hirams"
+      "gloss": "Ĥirams"
     },
     {
       "surface": "מלך",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "מלאכים",
-      "gloss": "vēstnešus"
+      "gloss": "sūtņus"
     },
     {
       "surface": "אל",
@@ -53,15 +37,15 @@
     },
     {
       "surface": "ועצי",
-      "gloss": "un koku"
+      "gloss": "un ciedru koku ⟨את⟩"
     },
     {
       "surface": "ארזים",
-      "gloss": "ciedru"
+      "gloss": "ciedru koku"
     },
     {
       "surface": "וחרשי",
-      "gloss": "un amata vīrus"
+      "gloss": "un sienu meistarus"
     },
     {
       "surface": "קיר",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "וחרשי",
-      "gloss": "un amata vīrus"
+      "gloss": "un koku meistarus"
     },
     {
       "surface": "עצים",
@@ -77,7 +61,7 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "lai uzbūvētu"
+      "gloss": "lai uzceltu"
     },
     {
       "surface": "לו",
@@ -85,9 +69,9 @@
     },
     {
       "surface": "בית",
-      "gloss": "namu"
+      "gloss": "⟨את⟩ namu"
     }
   ],
-  "timestamp": "2026-10-20T21:23:08.118649443Z",
+  "timestamp": "2026-10-20T22:31:51.496614079Z",
   "model": "glm-5.3"
 }

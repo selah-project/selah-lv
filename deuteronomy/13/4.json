@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēseles",
-      "rationale": "נפש ir elpa \/ dzīvības spēks, ne tikai 'dvēsele'"
-    },
-    {
-      "kind": "elision",
-      "subject": "הישכם",
-      "rationale": "'vai jūs esat' — ebreju jautājuma daļiņa saplūdusi latviešu 'vai'"
-    },
-    {
-      "kind": "you",
-      "subject": "neklausi",
-      "rationale": "tiešs pavēles uzrunas Israēlam — aizliegums klausīt viltus pravieti"
-    }
-  ],
-  "translation": "neklausi uz tā pravieša vārdiem vai uz tā sapņu sapņotāja vārdiem, jo Jahve, jūsu Elohim, jūs pārbauda, lai zinātu, vai jūs mīlat Jahvi, savu Elohim, no visas sirds un no visas dvēseles.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/13\/1-4.1792516964963.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neklausieties tā pravieša vārdiem un ne tam sapņu redzētājam, jo Jahve, jūsu Elohim, jūs pārbauda ⟨את⟩ jūs, lai zinātu, vai jūs mīlat ⟨את⟩ Jahvi, jūsu Elohim, ar visu savu sirdi un ar visu savu dvēseli.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "neklausieties"
     },
     {
       "surface": "תשמע",
-      "gloss": "klausi"
+      "gloss": "neklusieties"
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "pie"
     },
     {
       "surface": "דברי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "pravieša"
+      "gloss": "tā pravieša"
     },
     {
       "surface": "ההוא",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "או",
-      "gloss": "vai"
+      "gloss": "un ne"
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "tam"
     },
     {
       "surface": "חולם",
-      "gloss": "sapņotāja"
+      "gloss": "sapņu redzētājam"
     },
     {
       "surface": "החלום",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "tā"
+      "gloss": "tam"
     },
     {
       "surface": "כי",
@@ -112,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvi"
+      "marks": "Jahvi, jūsu Elohim"
     },
     {
       "surface": "יהוה",
@@ -120,25 +94,25 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "savu Elohim"
+      "gloss": "jūsu Elohim"
     },
     {
       "surface": "בכל",
-      "gloss": "no visas"
+      "gloss": "ar visu"
     },
     {
       "surface": "לבבכם",
-      "gloss": "sirds"
+      "gloss": "savu sirdi"
     },
     {
       "surface": "ובכל",
-      "gloss": "un no visas"
+      "gloss": "un ar visu"
     },
     {
       "surface": "נפשכם",
-      "gloss": "dvēseles"
+      "gloss": "savu dvēseli"
     }
   ],
-  "timestamp": "2026-10-20T17:22:44.967198330Z",
+  "timestamp": "2026-10-20T22:39:56.478436256Z",
   "model": "glm-5.3"
 }

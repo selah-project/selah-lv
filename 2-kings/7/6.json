@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Latviešu valodai vajag palīgdarbības vārdu 'ir' pie 'nolīgis'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קול רכב קול סוס קול חיל",
-      "rationale": "Trīskāršā 'קול' atkārtošanās veido skaņu kaskādi, kas latviski atspoguļota ar dažādiem skaņas vārdiem."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dzirdēt ⟨את⟩",
-      "rationale": "Hifila השמיע ar את objektu — 'lika dzirdēt' apraksta brīnumu, ko Adonai izdarīja bez redzama iemesla."
-    }
-  ],
-  "translation": "Un Adonai lika Arama nometnei dzirdēt ⟨את⟩ — ratu rīboņu, zirgu zviegšanu, liela karaspēka dārdoņu, un tie sacīja cits citam: Lūk, Jisraēla ķēniņš ir nolīgis pret mums hetiešu ķēniņus un Micraimas ķēniņus ⟨את⟩, lai nāktu pār mums.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/7\/5-8.1792521243218.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Adonai lika Aramas nometnei dzirdēt ⟨את⟩ ratiu rību, zirgu rību un liela karaspēka rību, un viņi sacīja cits citam: Lūk, Jisraēla ķēniņš ir nolīdzis pret mums hititu ķēniņus un ⟨את⟩ Micraimas ķēniņus, lai nāktu pār mums.",
   "tokens": [
     {
       "surface": "ואדני",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Arama nometnei"
+      "marks": "Aramas nometnei"
     },
     {
       "surface": "מחנה",
@@ -52,19 +26,19 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Arama"
+      "gloss": "Aramas"
     },
     {
       "surface": "קול",
-      "gloss": "rīboņu"
+      "gloss": "rību"
     },
     {
       "surface": "רכב",
-      "gloss": "ratu"
+      "gloss": "ratiu"
     },
     {
       "surface": "קול",
-      "gloss": "zviegšanu"
+      "gloss": "rību"
     },
     {
       "surface": "סוס",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "קול",
-      "gloss": "dārdoņu"
+      "gloss": "rību"
     },
     {
       "surface": "חיל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "un tie sacīja"
+      "gloss": "un viņi sacīja"
     },
     {
       "surface": "איש",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "cits"
     },
     {
       "surface": "אחיו",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "שכר",
-      "gloss": "ir nolīgis"
+      "gloss": "ir nolīdzis"
     },
     {
       "surface": "עלינו",
@@ -121,7 +95,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hetiešu ķēniņus"
+      "marks": "hititu ķēniņus"
     },
     {
       "surface": "מלכי",
@@ -129,7 +103,7 @@
     },
     {
       "surface": "החתים",
-      "gloss": "hetiešu"
+      "gloss": "hititu"
     },
     {
       "surface": "ואת",
@@ -153,6 +127,6 @@
       "gloss": "pār mums"
     }
   ],
-  "timestamp": "2026-10-20T18:34:03.219832185Z",
+  "timestamp": "2026-10-20T22:37:38.926512812Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "kā niedre šūpojas ūdenī",
-      "rationale": "Salīdzinājums: tauta kļūs kā niedre ūdenī — nestabila, izrauta ar saknēm, bez balsta."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Ašeras",
-      "rationale": "אשריהם ir Ašeras — Kanaānas dievības elkoki; daudzi tulkotāji to mīkstina par 'birzīm' vai 'elku birzīm'."
-    },
-    {
-      "kind": "crux",
-      "subject": "לנהר",
-      "rationale": "'Upe' ar noteikto artikulu — parasti Eufrats, bet vārds pats nesaka 'Eufrats'; atstāts kā 'Upe'."
-    }
-  ],
-  "translation": "Un Jahve iespers ⟨את⟩ Jisraēlu, kā niedre šūpojas ūdenī, un izraus ⟨את⟩ Jisraēlu no šīs labās zemes, ko Viņš deva viņu tēviem, un izkaisīs viņus aiz Upes, tāpēc ka tie darinājuši ⟨את⟩ savas Ašeras, kaitinot ⟨את⟩ Jahvi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/13-16.1792520766923.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sitīs ⟨את⟩ Jisraēlu, kā niedre šūpojas ūdenī, un izraus ⟨את⟩ Jisraēlu no šīs labās zemes, ko Viņš devis viņu tēviem, un izkaisīs ⟨viņus⟩ aiz upes, tāpēc ka viņi darīja ⟨את⟩ saviem ašēriem, kas sakaitina ⟨את⟩ Jahvi.",
   "tokens": [
     {
       "surface": "והכה",
-      "gloss": "un iespers"
+      "gloss": "Un Jahve sitīs"
     },
     {
       "surface": "יהוה",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "לנהר",
-      "gloss": "Upes"
+      "gloss": "upes"
     },
     {
       "surface": "יען",
@@ -125,24 +99,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "עשו",
-      "gloss": "tie darinājuši"
+      "gloss": "viņi darīja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savas Ašeras"
+      "marks": "saviem ašēriem"
     },
     {
       "surface": "אשריהם",
-      "gloss": "savas Ašeras"
+      "gloss": "saviem ašēriem"
     },
     {
       "surface": "מכעיסים",
-      "gloss": "kaitinot"
+      "gloss": "kas sakaitina"
     },
     {
       "surface": "את",
@@ -154,6 +128,6 @@
       "gloss": "Jahvi"
     }
   ],
-  "timestamp": "2026-10-20T18:26:06.924121517Z",
+  "timestamp": "2026-10-20T22:32:25.196845297Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "ecclesiastes",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav."
-    }
-  ],
-  "translation": "Un labāks par abiem ir tas, kas vēl nav bijis, kas nav redzējis ⟨את⟩ ļauno darbu, kas darīts zem saules.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/4\/1-4.1792529933839.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un labāks par abiem ⟨את⟩ ir tas, kas vēl nav bijis, kas nav redzējis ⟨את⟩ ļauno darbu, kas tiek darīts zem saules.",
   "tokens": [
     {
       "surface": "וטוב",
-      "gloss": "labāks"
+      "gloss": "Un labāks"
     },
     {
       "surface": "משניהם",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, kas vēl nav bijis"
+      "marks": "tas, kas vēl nav bijis"
     },
     {
       "surface": "אשר",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "darīts"
+      "gloss": "tiek darīts"
     },
     {
       "surface": "תחת",
@@ -94,6 +78,6 @@
       "gloss": "saules"
     }
   ],
-  "timestamp": "2026-10-20T20:58:53.841667589Z",
+  "timestamp": "2026-10-20T22:41:01.810084766Z",
   "model": "glm-5.3"
 }

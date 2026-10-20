@@ -5,42 +5,11 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ar mani",
-      "rationale": "Ebreju אלי ir tikai 'uz mani'; latviešu darbības vārdam vajag priekšdzimti ⟨ar⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "pravietim Jeezekielam",
-      "rationale": "Vīrs ar mērīšanas niedri vēršas pie 'cilvēka dēla' ar pavēlēm redzēt, dzirdēt un pasludināt."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tempļa redzējuma mērīšana",
-      "rationale": "Pants ievada tempļa mērīšanas redzējumu: 'uz visu, ko es tev rādu' sagatavo nākamo mēru uzskaiti."
-    },
-    {
-      "kind": "invitation",
-      "subject": "aicinājums redzēt un dzirdēt",
-      "rationale": "Triju pavēļu virkne — redzi, dzirdi, liec sirdi — lasītāju ievelk redzējumā tāpat kā pravieti."
-    }
-  ],
-  "translation": "Un runāja ⟨ar mani⟩ tas vīrs: Cilvēka dēls, redzi ⟨ar⟩ savām acīm un ar savām ausīm dzirdi, un liec savu sirdi uz visu, ko es tev rādu, jo lai tev to parādītu, tu esi atvests šurp; pasludini ⟨את⟩ visu, ko tu redzi, Jisraēla namam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "00460dab17a2c1257c7608974cb20d60275302b18b7a9f718faff9cad27522d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/40\/4-4.1792532764544.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un runāja ar mani tas vīrs: cilvēka dēl, raugi ar savām acīm un ar savām ausīm klausies, un liec savu sirdi uz visu, ko es tev rādu, jo tāpēc, lai tev to parādītu, tu esi šurp atvests; pasludini ⟨את⟩ visu, ko tu redzi, Jisraēla namam.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "un runāja"
+      "gloss": "Un runāja"
     },
     {
       "surface": "אלי",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "dēls"
+      "gloss": "dēl"
     },
     {
       "surface": "אדם",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "ראה",
-      "gloss": "redzi"
+      "gloss": "raugi"
     },
     {
       "surface": "בעיניך",
-      "gloss": "savām acīm"
+      "gloss": "ar savām acīm"
     },
     {
       "surface": "ובאזניך",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "dzirdi"
+      "gloss": "klausies"
     },
     {
       "surface": "ושים",
@@ -100,8 +69,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tev",
-      "marks": "tev"
+      "gloss": "⟨את⟩ tev"
     },
     {
       "surface": "כי",
@@ -109,7 +77,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "lai"
+      "gloss": "tāpēc, lai"
     },
     {
       "surface": "הראותכה",
@@ -121,7 +89,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "šurp"
+      "gloss": "šeit"
     },
     {
       "surface": "הגד",
@@ -130,7 +98,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visu"
+      "marks": "visu (ko tu redzi)"
     },
     {
       "surface": "כל",
@@ -157,6 +125,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T21:46:04.544764986Z",
+  "timestamp": "2026-10-20T22:45:20.951369886Z",
   "model": "glm-5.3"
 }

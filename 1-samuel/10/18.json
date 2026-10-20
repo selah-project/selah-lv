@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraēla dēliem",
-      "rationale": "Jahves runa tieši vērsta uz Jisraēla dēliem"
-    },
-    {
-      "kind": "substitution",
-      "subject": "izvedu",
-      "rationale": "העליתי burtiski 'uzvedu augšup' — exodu kā pacelšanu no Micraimas"
-    }
-  ],
-  "translation": "Un viņš sacīja Jisraēla dēliem: Tā saka Jahve, Jisraēla Elohim: Es izvedu ⟨את⟩ Jisraēlu no Micraimas un izglābu jūs no Micraimas rokas un no visu valstu rokām, kas jūs apspieda.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/10\/17-20.1792519000040.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš sacīja Jisraēla dēliem: Tā saka Jahve, Jisraēla Elohim: Es izvedu ⟨את⟩ Jisraēlu no Micraimas, un es izglābu ⟨את⟩ jūs no Micraimas rokas un no visu valdību rokas, kas jūs apspieda.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "בני",
@@ -87,16 +66,16 @@
     },
     {
       "surface": "ואציל",
-      "gloss": "un izglābu"
+      "gloss": "un es izglābu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ jūs",
-      "marks": "⟨את⟩"
+      "marks": "jūs"
     },
     {
       "surface": "מיד",
-      "gloss": "no rokas"
+      "gloss": "no … rokas"
     },
     {
       "surface": "מצרים",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "un no rokām"
+      "gloss": "un no … rokas"
     },
     {
       "surface": "כל",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "הממלכות",
-      "gloss": "valstu"
+      "gloss": "valdību"
     },
     {
       "surface": "הלחצים",
@@ -120,10 +99,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "⟨את⟩"
+      "gloss": "⟨את⟩ jūs"
     }
   ],
-  "timestamp": "2026-10-20T17:56:40.041010910Z",
+  "timestamp": "2026-10-20T22:33:44.600209706Z",
   "model": "glm-5.3"
 }

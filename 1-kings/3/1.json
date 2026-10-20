@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "apprecinājās",
-      "rationale": "ויתחתן no saknes חתן — radīt radniecību ar laulību; latviešu \"apprecinājās ar\" tuvinājums"
-    }
-  ],
-  "translation": "Un Šelomo apprecinājās ar Paraо, Micraimas ķēniņu, un paņēma ⟨את⟩ Paraо meitu un atveda viņu uz Davida pilsētu, līdz viņš pabeidza celt ⟨את⟩ savu namu, un ⟨את⟩ Jahves namu, un ⟨את⟩ Jerušalaimas mūri visapkārt.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/3\/1-4.1792520368696.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šelomo apprecinājās ⟨את⟩ faraonu, Micraimas ķēniņu, un ņēma ⟨את⟩ faraona meitu un atveda ⟨viņu⟩ uz Davida pilsētu, līdz savu nama, Jahves nama un Jerušalaimas sienas visapkārt celšanas pabeigšanai.",
   "tokens": [
     {
       "surface": "ויתחתן",
-      "gloss": "un apprecinājās"
+      "gloss": "apprecinājās"
     },
     {
       "surface": "שלמה",
@@ -34,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Paraо"
+      "marks": "faraonu"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paraо"
+      "gloss": "faraonu"
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņš"
+      "gloss": "ķēniņu"
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraima"
+      "gloss": "Micraimas"
     },
     {
       "surface": "ויקח",
-      "gloss": "un paņēma"
+      "gloss": "ņēma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Paraо meitu"
+      "marks": "faraona meitu"
     },
     {
       "surface": "בת",
@@ -63,11 +47,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paraо"
+      "gloss": "faraona"
     },
     {
       "surface": "ויביאה",
-      "gloss": "un atveda viņu"
+      "gloss": "atveda viņu"
     },
     {
       "surface": "אל",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "viņš pabeidza"
+      "gloss": "pabeigšanai"
     },
     {
       "surface": "לבנות",
@@ -118,11 +102,11 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "Jerušalaimas mūri"
+      "marks": "Jerušalaimas sienu"
     },
     {
       "surface": "חומת",
-      "gloss": "mūri"
+      "gloss": "sienu"
     },
     {
       "surface": "ירושלם",
@@ -133,6 +117,6 @@
       "gloss": "visapkārt"
     }
   ],
-  "timestamp": "2026-10-20T18:19:28.697382378Z",
+  "timestamp": "2026-10-20T22:33:00.124844432Z",
   "model": "glm-5.3"
 }

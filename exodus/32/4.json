@@ -5,55 +5,24 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ivritā nav kopulas: 'Šie tavi Elohim'; latviešu valodā ⟨ir⟩ nepieciešams."
-    },
-    {
-      "kind": "crux",
-      "subject": "בחרט",
-      "rationale": "'Ar cirteli\/gravējamo' (Targums: 'ka lietu veidu') pret 'graving tool' KJV; saglabāta rīka nozīme."
-    },
-    {
-      "kind": "crux",
-      "subject": "Šie tavi Elohim",
-      "rationale": "Daudzskaitlis אלהיך — 'šie tavi Elohim' (KJV) pret JPS vienskaitlī 'this is thy god'; daudzskaitlis paliek."
-    },
-    {
-      "kind": "you",
-      "subject": "uzruna Jisraēlam",
-      "rationale": "'Šie tavi Elohim, Jisraēl' — tieša uzruna Israēla tautai."
-    }
-  ],
-  "translation": "Un viņš ņēma no viņu rokas, veidoja to ar cirteli un iztaisīja to par lietu teļu; un viņi sacīja: Šie ⟨ir⟩ tavi Elohim, Jisraēl, kas tevi izveda no Micraimas zemes.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/32\/1-4.1792513398059.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš to saņēma no viņu rokām un veidoja to ar cirteli un padarīja to par teļu, lietu attēlu; un viņi sacīja: šie ⟨ir⟩ tavi dievi, Jisraēl, kas tevi izveda augšup no Micraimas zemes.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Un ņēma"
+      "gloss": "Un viņš saņēma"
     },
     {
       "surface": "מידם",
-      "gloss": "no viņu rokas"
+      "gloss": "no viņu rokām"
     },
     {
       "surface": "ויצר",
-      "gloss": "veidoja"
+      "gloss": "un veidoja"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to",
-      "marks": "ar cirteli"
+      "gloss": "⟨את⟩",
+      "marks": "to (apzīmē cirteli un teļa veidošanas objektu)"
     },
     {
       "surface": "בחרט",
@@ -61,15 +30,15 @@
     },
     {
       "surface": "ויעשהו",
-      "gloss": "iztaisīja to"
+      "gloss": "un padarīja to"
     },
     {
       "surface": "עגל",
-      "gloss": "teļu"
+      "gloss": "par teļu"
     },
     {
       "surface": "מסכה",
-      "gloss": "lietu"
+      "gloss": "lietu attēlu"
     },
     {
       "surface": "ויאמרו",
@@ -77,11 +46,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "Šie"
+      "gloss": "šie"
     },
     {
       "surface": "אלהיך",
-      "gloss": "tavi Elohim"
+      "gloss": "tavi dievi"
     },
     {
       "surface": "ישראל",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "העלוך",
-      "gloss": "izveda tevi"
+      "gloss": "tevi izveda augšup"
     },
     {
       "surface": "מארץ",
@@ -104,6 +73,6 @@
       "gloss": "Micraimas"
     }
   ],
-  "timestamp": "2026-10-20T16:23:18.061683393Z",
+  "timestamp": "2026-10-20T22:42:36.737012115Z",
   "model": "glm-5.3"
 }

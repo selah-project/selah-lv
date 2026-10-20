@@ -5,38 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "pilsētas vīri uz Elišu",
-      "rationale": "Tieša uzruna ar 'mans kungs' par cilvēku — ādōn par cilvēku, ne par Dievu."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "Ebreju valodā trūkst saikļa darāmā vārdam 'ir'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "neauglīga",
-      "rationale": "מְשַׁכֶּלֶת no שׁכל 'izraut, padarīt bērnu bez'; burtiski 'abortē', t.i., zeme izmet augļus."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הנה נא",
-      "rationale": "Pieklājības formulas daļa, sapludināta vienā 'Lūdzu'."
-    }
-  ],
-  "translation": "Un pilsētas vīri sacīja Elišam: Lūdzu, pilsētas atrašanās vieta ⟨ir⟩ laba, kā mans kungs redz, bet ūdeņi ⟨ir⟩ ļauni un zeme neauglīga.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bba3e129d9afeb23961d05fe90aa1caa05ef3c15b0a12ac366cf52a21907c624",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/2\/17-20.1792521063680.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un pilsētas vīri sacīja Elišam: Lūdzu, ⟨lūko⟩, pilsētas novietojums ir labs, kā mans kungs redz, bet ūdeņi ir ļauni un zeme ir neauglīga.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "pilsētas vīri"
+      "gloss": "vīri"
     },
     {
       "surface": "העיר",
@@ -52,23 +21,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elišam"
+      "gloss": "Elišu"
     },
     {
       "surface": "הנה",
-      "gloss": "Lūdzu"
+      "gloss": "lūko"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "lūdzu"
     },
     {
       "surface": "מושב",
-      "gloss": "atrašanās vieta"
+      "gloss": "novietojums"
     },
     {
       "surface": "העיר",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "laba"
+      "gloss": "labs"
     },
     {
       "surface": "כאשר",
@@ -104,9 +73,9 @@
     },
     {
       "surface": "משכלת",
-      "gloss": "neauglīga"
+      "gloss": "ir neauglīga"
     }
   ],
-  "timestamp": "2026-10-20T18:31:03.681664567Z",
+  "timestamp": "2026-10-20T22:36:55.314722366Z",
   "model": "glm-5.3"
 }

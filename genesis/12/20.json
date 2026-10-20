@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aizsūtīja projām",
-      "rationale": "וישלחו — ‘sūtīja projām’; versijās arī ‘pavadīja ceļā’."
-    }
-  ],
-  "translation": "Un Paro pavēlēja viņa labā vīrus, un tie viņu aizsūtīja projām, un ⟨את⟩ viņa sievu, un ⟨את⟩ visu, kas viņam piederēja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/12\/17-20.1792511657044.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Paroh pavēlēja saviem vīriem par viņu, un tie viņu aizsūtīja prom ⟨ar⟩ ⟨את⟩ viņu un ⟨את⟩ viņa sievu un ⟨את⟩ visu, kas viņam piederēja.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "pavēlēja"
+      "gloss": "Un pavēlēja"
     },
     {
       "surface": "עליו",
@@ -33,25 +17,25 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Paroh"
     },
     {
       "surface": "אנשים",
-      "gloss": "vīri"
+      "gloss": "vīriem"
     },
     {
       "surface": "וישלחו",
-      "gloss": "aizsūtīja"
+      "gloss": "un tie aizsūtīja prom"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu (Avrahamu)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "viņa sieva"
+      "marks": "viņa sievu"
     },
     {
       "surface": "אשתו",
@@ -60,7 +44,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "viss, kas viņam ir"
+      "marks": "visu, kas viņam piederēja"
     },
     {
       "surface": "כל",
@@ -72,9 +56,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "viņam"
+      "gloss": "viņam piederēja"
     }
   ],
-  "timestamp": "2026-10-20T15:54:17.045929262Z",
+  "timestamp": "2026-10-20T22:45:43.386578939Z",
   "model": "glm-5.3"
 }

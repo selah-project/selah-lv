@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "septītajā dienā",
-      "rationale": "Septiņu dienu termiņa pārbaude — noteikts laika mērs."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פשה תפשה",
-      "rationale": "Darbības vārda atkārtošanās infinitivā + finitā formā ('ja izplatās tas izplatās') — intensitātes uzsvērums, latviski atspoguļots ar 'ļoti'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ceraat",
-      "rationale": "צרעת nav Hansena slimība; ebreju vārds paturēts skanējumā, lai nesasaistītu ar vēlāko jēdzienu."
-    }
-  ],
-  "translation": "Un priesteris apskatīs viņu septītajā dienā; ja tas ādā ļoti izplatās, tad priesteris pasludinās viņu par nešķīstu: tā ⟨ir⟩ ceraat plāge.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ce48cd17c972ce49c020954db71b2c8725d12196980d09e46eec2e6b2598c49a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/13\/26-28.1792514821972.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteris to apskatīs septītajā dienā; ja ⟨tā⟩ ⟨ir⟩ izpletusies ādā, priesteris pasludinās viņu par nešķīstu ⟨את⟩: tas ir caurejas plankums.",
   "tokens": [
     {
       "surface": "וראהו",
-      "gloss": "un apskatīs viņu"
+      "gloss": "un apskatīs to"
     },
     {
       "surface": "הכהן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "dienu"
+      "gloss": "dienā"
     },
     {
       "surface": "השביעי",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "izplatās"
+      "gloss": "⟨ir⟩ izpletusies"
     },
     {
       "surface": "תפשה",
-      "gloss": "ļoti izplatās"
+      "gloss": "izpletusies"
     },
     {
       "surface": "בעור",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "un pasludinās par nešķīstu"
+      "gloss": "pasludinās par nešķīstu"
     },
     {
       "surface": "הכהן",
@@ -80,17 +54,17 @@
     },
     {
       "surface": "נגע",
-      "gloss": "plāge"
+      "gloss": "plankums"
     },
     {
       "surface": "צרעת",
-      "gloss": "ceraat"
+      "gloss": "caurejas"
     },
     {
       "surface": "הוא",
-      "gloss": "tā ir"
+      "gloss": "tas ir"
     }
   ],
-  "timestamp": "2026-10-20T16:47:01.977183423Z",
+  "timestamp": "2026-10-20T22:55:10.729120637Z",
   "model": "glm-5.3"
 }

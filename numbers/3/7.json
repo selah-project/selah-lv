@@ -5,31 +5,10 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמרו\/משמרתו",
-      "rationale": "Atkārtota sakne šmr — sargāt\/sardze; latviski saglabāts ar 'sargāt\/sardze'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Satikšanās telts",
-      "rationale": "אהל מועד — burtiski 'sanāksmes telts'; 'Satikšanās telts' kā vienotais latviskais nosaukums"
-    }
-  ],
-  "translation": "Un tie sargās viņa sardzi un visu saietas tautas sardzi Satikšanā telts priekšā, veicot miškana kalpošanu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/5-8.1792515416276.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tie sargās ⟨את⟩ viņa sardzi un ⟨את⟩ visas saietas sardzi svētnīcas — Satikšanās telts priekšā, lai kalpotu ⟨את⟩ miškana kalpību.",
   "tokens": [
     {
-      "surface": "וושמרו",
+      "surface": "ושמרו",
       "gloss": "Un tie sargās"
     },
     {
@@ -44,7 +23,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "sardzi"
+      "marks": "visas saietas sardzi"
     },
     {
       "surface": "משמרת",
@@ -52,11 +31,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "visu"
+      "gloss": "visas"
     },
     {
       "surface": "העדה",
-      "gloss": "saietas tautas"
+      "gloss": "saietas"
     },
     {
       "surface": "לפני",
@@ -72,22 +51,22 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "veicot"
+      "gloss": "lai kalpotu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kalpošanu"
+      "marks": "miškana kalpību"
     },
     {
       "surface": "עבדת",
-      "gloss": "kalpošanu"
+      "gloss": "kalpību"
     },
     {
       "surface": "המשכן",
       "gloss": "miškana"
     }
   ],
-  "timestamp": "2026-10-20T16:56:56.278236840Z",
+  "timestamp": "2026-10-20T22:58:09.003184617Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "job",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יברכך — svētīs",
-      "rationale": "Burtiski 'viņš tevi svētīs'; eifēmisms un skolenu lasījums 'nolādēs' (KJV 'curse'); saglabāts burtiskais 'svētīs' ar apgalvojuma 'אם לא' nosacījumu 'ja ne...'."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Priekšvārds 'על פניך' saplūst ar 'tavā vaigā' — atsevišķs ekvivalents lv nav."
-    }
-  ],
-  "translation": "Bet, lūdzu, pastiep savu roku un aizskar visu, kas ⟨ir⟩ viņam — ja viņš tavā vaigā tevi nesvētīs!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/1\/9-12.1792528996831.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet izstiepju tagad ⟨את⟩ savu roku un aizskar visu, kas viņam pieder — ja viņš tavā vaigā tevi nesauks vārdā ⟨nosodīdams⟩.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "bet"
+      "gloss": "Bet"
     },
     {
       "surface": "שלח",
-      "gloss": "pastiep"
+      "gloss": "izstiepju"
     },
     {
       "surface": "נא",
-      "gloss": "lūdzu"
+      "gloss": "tagad"
     },
     {
       "surface": "ידך",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "viņam"
+      "gloss": "viņam pieder"
     },
     {
       "surface": "אם",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "vaigā"
     },
     {
       "surface": "פניך",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "יברכך",
-      "gloss": "tevi nesvētīs"
+      "gloss": "tevi nesauks vārdā ⟨nosodīdams⟩"
     }
   ],
-  "timestamp": "2026-10-20T20:43:16.832276362Z",
+  "timestamp": "2026-10-20T22:51:48.792712483Z",
   "model": "glm-5.3"
 }

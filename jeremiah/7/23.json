@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Ebreju izteiksme 'ne... bet vienīgi' — 'כי אם' te ir 'bet vienīgi', saliedēts ar 'Bet'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "שמעו בקולי",
-      "rationale": "Pavēle 'Klausieties manā balsī' — derības aicinājums pēc 7:22 atteikuma."
-    }
-  ],
-  "translation": "Bet ⟨את⟩ šo vārdu es ⟨את⟩ viņiem pavēlēju, sacīdams: Klausieties manā balsī, un es būšu jums par Elohim, un jūs būsiet man par tautu; un ejiet visā ceļā, ko es jums pavēlēšu, lai jums labi klājas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/7\/21-24.1792523319349.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet šo vārdu es ⟨את⟩ viņiem pavēlēju, sacīdams: Klausieties manā balsī, un es būšu jums par Elohim, un jūs būsiet man par tautu, un ejiet visā ceļā, ko es jums pavēlēšu ⟨אתכם⟩, lai jums ietu labi.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "−"
+      "gloss": ""
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "šo vārdu"
+      "gloss": "vārdu"
     },
     {
       "surface": "הזה",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "es pavēlēju"
+      "gloss": "pavēlēju"
     },
     {
       "surface": "אותם",
@@ -115,11 +94,12 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "es pavēlēšu"
+      "gloss": "pavēlēšu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨אתכם⟩",
+      "marks": "jums"
     },
     {
       "surface": "למען",
@@ -127,13 +107,13 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "labi klājas"
+      "gloss": "ietu labi"
     },
     {
       "surface": "לכם",
       "gloss": "jums"
     }
   ],
-  "timestamp": "2026-10-20T19:08:39.350438035Z",
+  "timestamp": "2026-10-20T22:51:51.459893033Z",
   "model": "glm-5.3"
 }

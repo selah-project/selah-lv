@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā teikumā ⟨ir⟩ nav; pleonastiskais 'vaina viņā' pieprasa kopulu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "maize",
-      "rationale": "לחמו של אלהיו šeit nozīmē upurējamo ēdienu visplašākā nozīmē, ne tikai maize."
-    }
-  ],
-  "translation": "Ikviens vīrs no Aharona, priesteru, pēc, kurā ⟨ir⟩ vaina, netuvosies, lai upurētu Jahves ugunsupurus — vaina ⟨ir⟩ viņā; ⟨את⟩ sava Elohim maizei viņš netuvosies, lai upurētu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a42b5bc31cb5eabb7e25781a611f821d630ae940254865bd7ee2cf7a43494325",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/21\/21-24.1792515042611.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ikviens vīrs, kurā ir kaite, no Ahrona priesteru dzimtas, netuvosies, lai upurinātu ⟨את⟩ Jahves uguns upurus, — kaite ir viņā; ⟨את⟩ sava Elohim maizi viņš netuvosies upurināt.",
   "tokens": [
     {
       "surface": "כל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurā"
+      "gloss": "kurš"
     },
     {
       "surface": "בו",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "מום",
-      "gloss": "vaina"
+      "gloss": "kaite"
     },
     {
       "surface": "מזרע",
-      "gloss": "pēc"
+      "gloss": "no … dzimtas"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Ahrona"
     },
     {
       "surface": "הכהן",
-      "gloss": "priesteru"
+      "gloss": "priesteris"
     },
     {
       "surface": "לא",
@@ -70,16 +49,16 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "upurēt"
+      "gloss": "upurināt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves ugunsupurus"
+      "marks": "Jahves uguns upurus"
     },
     {
       "surface": "אשי",
-      "gloss": "ugunsupurus"
+      "gloss": "uguns upurus"
     },
     {
       "surface": "יהוה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "מום",
-      "gloss": "vaina"
+      "gloss": "kaite"
     },
     {
       "surface": "בו",
@@ -96,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sava Elohim maizei"
+      "marks": "sava Elohim maizi"
     },
     {
       "surface": "לחם",
-      "gloss": "maizei"
+      "gloss": "maizi"
     },
     {
       "surface": "אלהיו",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "upurēt"
+      "gloss": "upurināt"
     }
   ],
-  "timestamp": "2026-10-20T16:50:42.613547859Z",
+  "timestamp": "2026-10-20T22:55:53.660139817Z",
   "model": "glm-5.3"
 }

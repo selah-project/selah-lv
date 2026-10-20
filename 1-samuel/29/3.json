@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨dara⟩ ⟨šeit⟩",
-      "rationale": "Ebreju jautājums ir tikai 'Ko šie ivrieši?' — latviešu valodai vajag darbības vārdu un vietu"
-    },
-    {
-      "kind": "crux",
-      "subject": "ivrieši",
-      "rationale": "העברים — 'ivrieši' (Ebera pēcnācēji), sveštautības apzīmējums; parasti tulko kā 'ebreji'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נפלו",
-      "rationale": "Burtiski 'kuri nokrita pie manis' — nokļūšana kā krišana, glezns tēls zudis"
-    }
-  ],
-  "translation": "Un filistiešu valdnieki sacīja: Ko ⟨dara⟩ šie ivrieši ⟨šeit⟩? Un Akišs sacīja filistiešu valdniekiem: Vai tad šis nav Davids, Šaūla, Jisraēla ķēniņa, kalps, kas bija ⟨את⟩ mani šīs dienas vai šos gadus, un es neko neatradu viņā no dienas, kad viņš nokļuva pie manis, līdz šai dienai?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/29\/1-4.1792519545593.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un filistiešu virsaiši sacīja: ko ⟨dara⟩ šie ivrieši? Un Akīšs sacīja filistiešu virsaišiem: vai tas nav Davids, Šauļa, Jisraēla ķēniņa, kalps, kurš ir bijis ⟨את⟩ ar mani šīs dienas vai šīs gadus, un es neesmu atradis viņā ne nieka no dienas, kad viņš nokrita, līdz šai dienai.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "valdnieki"
+      "gloss": "virsaiši"
     },
     {
       "surface": "פלשתים",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Akišs"
+      "gloss": "Akīšs"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pret"
     },
     {
       "surface": "שרי",
-      "gloss": "valdniekiem"
+      "gloss": "virsaišiem"
     },
     {
       "surface": "פלשתים",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "vai tad nav"
+      "gloss": "vai tiešām nav"
     },
     {
       "surface": "זה",
-      "gloss": "šis"
+      "gloss": "tas"
     },
     {
       "surface": "דוד",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaūla"
+      "gloss": "Šauļa"
     },
     {
       "surface": "מלך",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "kurš"
     },
     {
       "surface": "היה",
-      "gloss": "bija"
+      "gloss": "ir bijis"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mani"
+      "gloss": "⟨את⟩ ar mani"
     },
     {
       "surface": "זה",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "šos"
+      "gloss": "šīs"
     },
     {
       "surface": "שנים",
@@ -139,11 +113,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un ne"
+      "gloss": "un nav"
     },
     {
       "surface": "מצאתי",
-      "gloss": "atradu"
+      "gloss": "esmu atradis"
     },
     {
       "surface": "בו",
@@ -151,7 +125,7 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "neko"
+      "gloss": "ne nieka"
     },
     {
       "surface": "מיום",
@@ -159,7 +133,7 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "kad viņš nokļuva"
+      "gloss": "nokrita"
     },
     {
       "surface": "עד",
@@ -174,6 +148,6 @@
       "gloss": "šai"
     }
   ],
-  "timestamp": "2026-10-20T18:05:45.595400418Z",
+  "timestamp": "2026-10-20T22:34:39.232582939Z",
   "model": "glm-5.3"
 }

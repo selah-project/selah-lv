@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ar viņu",
-      "rationale": "אתו šeit ir priekšvārds 'ar viņu', nevis priedēklis; latviski pievienots skaidrojums"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "H854 priekšvārds, glosā ⟨את⟩ atbilstoši strukturālajai konvencijai"
-    }
-  ],
-  "translation": "Un viņš atnāca pie viņa, un lūk, viņš stāvēja pie sava augšupdedzināmā upura, un Moābas firsti ⟨ar viņu⟩; un Balaks sacīja viņam: Ko ir runājis Jahve?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/17-20.1792516136754.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš atnāca pie viņa, un lūk, viņš stāvēja pie sava dedzināmā upura, un Moābas firsti ⟨את⟩ ⟨ar⟩ viņu; un Balāks sacīja viņam: Ko ir runājis Jahve?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "עלתו",
-      "gloss": "sava augšupdedzināmā upura"
+      "gloss": "sava dedzināmā upura"
     },
     {
       "surface": "ושרי",
-      "gloss": "un firsti"
+      "gloss": "un Moābas firsti"
     },
     {
       "surface": "מואב",
@@ -62,8 +41,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Moābas firsti (ar viņu)"
+      "gloss": "⟨את⟩ ⟨ar⟩ viņu",
+      "marks": "viņu"
     },
     {
       "surface": "ויאמר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "בלק",
-      "gloss": "Balaks"
+      "gloss": "Balāks"
     },
     {
       "surface": "מה",
@@ -90,6 +69,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T17:08:56.755682672Z",
+  "timestamp": "2026-10-20T22:57:39.368851175Z",
   "model": "glm-5.3"
 }

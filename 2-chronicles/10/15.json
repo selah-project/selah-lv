@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נסבה",
-      "rationale": "'Pagrieziens (notikumu gaita) no Elohim' — KJV 'kāds bija no Dieva'; vārds rets, apzīmē apstākļu pavērsienu."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ביד אחיהו",
-      "rationale": "Burtiski 'ar Ahijahu roku' = caur viņu kā instrumentu."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל (2x)",
-      "gloss": "Prievārds 'pie\/el' latviskā teikumā izzūd darbības pārvaldībā."
-    }
-  ],
-  "translation": "Un ķēniņš neklausīja tautu, jo pagrieziens nāca no Elohim, lai Jahve piepildītu ⟨את⟩ savu vārdu, ko viņš runāja caur Ahijahu šilonīetu Jerovjamam, Nebata dēlam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/10\/13-16.1792531882770.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ķēniņš neklausīja ļaužu ⟨balsij⟩, jo pagrieziens bija no Elohim, lai Jahve piepildītu ⟨את⟩ savu vārdu, ko viņš bija runājis caur Ahijahu ha-šilonītu Jerobeamam, Nebata dēlam.",
   "tokens": [
     {
       "surface": "ולא",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "tautu"
+      "gloss": "ļaužu ⟨balsij⟩"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "nāca"
+      "gloss": "bija"
     },
     {
       "surface": "נסבה",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "runāja"
+      "gloss": "runājis"
     },
     {
       "surface": "ביד",
-      "gloss": "caur (roku)"
+      "gloss": "caur"
     },
     {
       "surface": "אחיהו",
@@ -112,25 +86,25 @@
     },
     {
       "surface": "השלוני",
-      "gloss": "šilonīetu"
+      "gloss": "ha-šilonīts"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jerobeamam"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jerovjamam"
+      "gloss": "Jerobeams"
     },
     {
       "surface": "בן",
-      "gloss": "dēlam"
+      "gloss": "dēls"
     },
     {
       "surface": "נבט",
-      "gloss": "Nebata"
+      "gloss": "Nebats"
     }
   ],
-  "timestamp": "2026-10-20T21:31:22.771876848Z",
+  "timestamp": "2026-10-20T22:34:37.039878736Z",
   "model": "glm-5.3"
 }

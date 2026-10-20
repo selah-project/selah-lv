@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עלה \/ נעלה",
-      "rationale": "Infinitīvs 'kāpt' + darāmās kārtas forma — 'kāpt, kāpsim' atskaņa, kas latviski saglabāta tikai daļēji."
-    },
-    {
-      "kind": "you",
-      "subject": "Kalebs runa",
-      "rationale": "Kalebs tieši uzrunā tautu ar 1. personas daudzskaitļa aicinājumu 'Uzkāpsim'."
-    }
-  ],
-  "translation": "Un Kalebs apklusināja ⟨את⟩ tautu pie Mošes un sacīja: Uzkāpsim, un mēs to apņemsim sevī, jo mēs to varam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/13\/29-32.1792515800318.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Kalebs apklusināja ⟨את⟩ tautu, ⟨ko⟩ Mošem, un sacīja: Uzkāpsim, kāpsim augšup un to iegūsim ⟨את⟩, jo spējam to paveikt.",
   "tokens": [
     {
       "surface": "ויהס",
-      "gloss": "Un apklusināja"
+      "gloss": "apklusināja"
     },
     {
       "surface": "כלב",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "pie"
+      "gloss": "⟨ko⟩"
     },
     {
       "surface": "משה",
-      "gloss": "Mošes"
+      "gloss": "Mošem"
     },
     {
       "surface": "ויאמר",
@@ -59,20 +38,20 @@
     },
     {
       "surface": "עלה",
-      "gloss": "Uzkāpsim"
-    },
-    {
-      "surface": "נעלה",
       "gloss": "uzkāpsim"
     },
     {
+      "surface": "נעלה",
+      "gloss": "kāpsim augšup"
+    },
+    {
       "surface": "וירשנו",
-      "gloss": "un apņemsim sevī"
+      "gloss": "iegūsim"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "viņu (zemi)"
+      "marks": "to"
     },
     {
       "surface": "כי",
@@ -80,17 +59,17 @@
     },
     {
       "surface": "יכול",
-      "gloss": "varam"
+      "gloss": "spējam"
     },
     {
       "surface": "נוכל",
-      "gloss": "mēs varam"
+      "gloss": "panākt"
     },
     {
       "surface": "לה",
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-10-20T17:03:20.322329810Z",
+  "timestamp": "2026-10-20T22:56:53.704711599Z",
   "model": "glm-5.3"
 }

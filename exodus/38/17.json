@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bija",
-      "rationale": "Ebreju tekstā nav saikla;-latviešu valodā vajadzīgs ⟨bija⟩."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חשוק\/מחשקים",
-      "rationale": "Saknes חשק atkārtošanās — stieples un apstiepļots; skanējuma saite pazūd latviski."
-    }
-  ],
-  "translation": "Un ⟨את⟩ pamati statņiem ⟨bija⟩ vara, un statņu āķi un viņu stieples sudrabs, un viņu galvu apjojums sudrabs, un tie ⟨bija⟩ apstiepļoti ar sudrabu — visi pagalma statņi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4a5e2a2c61cf1a271f164d4b8a06bdf8782e2edd23c52536f7d5b34367f94980",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/38\/17-20.1792513501376.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ pamati stabiem bija no varas, un stabu āķi un to savienojošie stieņi no sudraba, un to galvu apvilkums sudrabs, un visi pagalma stabi bija apvīti ar sudrabu.",
   "tokens": [
     {
       "surface": "והאדנים",
@@ -34,16 +13,11 @@
     },
     {
       "surface": "לעמדים",
-      "gloss": "statņiem"
+      "gloss": "stabiem"
     },
     {
       "surface": "נחשת",
       "gloss": "vara"
-    },
-    {
-      "surface": "ונחשת",
-      "gloss": "vara",
-      "marks": null
     },
     {
       "surface": "ווי",
@@ -51,23 +25,23 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "statņu"
+      "gloss": "stabiem"
     },
     {
       "surface": "וחשוקיהם",
-      "gloss": "un viņu stieples"
+      "gloss": "to savienojošie stieņi"
     },
     {
       "surface": "כסף",
-      "gloss": "sudrabs"
+      "gloss": "no sudraba"
     },
     {
       "surface": "וצפוי",
-      "gloss": "un apjojums"
+      "gloss": "un apvilkums"
     },
     {
       "surface": "ראשיהם",
-      "gloss": "viņu galvu"
+      "gloss": "to galvu"
     },
     {
       "surface": "כסף",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "מחשקים",
-      "gloss": "apstiepļoti"
+      "gloss": "apvīti ar sudrabu"
     },
     {
       "surface": "כסף",
-      "gloss": "ar sudrabu"
+      "gloss": "sudrabs"
     },
     {
       "surface": "כל",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "statņi"
+      "gloss": "stabi"
     },
     {
       "surface": "החצר",
       "gloss": "pagalma"
     }
   ],
-  "timestamp": "2026-10-20T16:25:01.377507120Z",
+  "timestamp": "2026-10-20T23:01:25.317398089Z",
   "model": "glm-5.3"
 }

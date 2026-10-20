@@ -5,42 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Kāda ir zīme",
-      "rationale": "jautājums pieprasa zīmi — tekstaVirzīta dialoga āķis."
-    },
-    {
-      "kind": "mystery",
-      "subject": "zīme",
-      "rationale": "Hizkijahs lūdz slēptu apstiprinājumu tam, kas vēl nav noticis."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "latviešu valodai vajadzīgs saiklis 'ir'; ebreju tekstā to nav."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "priekšvārds 'el' iekļauts locījumā 'Jeshajaham'."
-    }
-  ],
-  "translation": "Un Hizkijahs sacīja Jeshajaham: Kāda ⟨ir⟩ zīme, ka Jahve mani dziedinās un ka es trešajā dienā kāpšu Jahves namā?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/20\/5-8.1792521678443.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Hizkijahs sacīja Jšajaham: Kāda ir zīme, ka Jahve dziedinās ⟨את⟩ mani, un es kāpšu augšā trešajā dienā Jahves namā?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Un sacīja"
+      "gloss": "Un … sacīja"
     },
     {
       "surface": "חזקיהו",
@@ -48,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Jeshajaham"
+      "gloss": "Jšajaham"
     },
     {
       "surface": "מה",
-      "gloss": "Kāda"
+      "gloss": "kāda"
     },
     {
       "surface": "אות",
-      "gloss": "zīme"
+      "gloss": "ir zīme"
     },
     {
       "surface": "כי",
@@ -76,15 +45,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "mani"
+      "gloss": "⟨את⟩ mani"
     },
     {
       "surface": "ועליתי",
-      "gloss": "un es kāpšu"
+      "gloss": "un es kāpšu augšā"
     },
     {
       "surface": "ביום",
-      "gloss": "diena"
+      "gloss": "dienu"
     },
     {
       "surface": "השלישי",
@@ -99,6 +68,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T18:41:18.445158979Z",
+  "timestamp": "2026-10-20T22:37:11.041539648Z",
   "model": "glm-5.3"
 }

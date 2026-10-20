@@ -5,54 +5,28 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "kāju nepārcelt no zemes",
-      "rationale": "לא אוסיף להסיר את רגל — burtiski 'nepievienošu novērst kāju'; idiomatisks 'nedzīsīšu prom'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Tora",
-      "rationale": "התורה atstāts kā Tora, nevis 'bauslība', pēc valodas statūtiem"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraēls",
-      "rationale": "Jahves runa adresēta Jisraēlam caur tēviem ('jūsu tēviem')"
-    }
-  ],
-  "translation": "Un es vairs nepārcelšu ⟨את⟩ Jisraēla kāju no zemes, ko esmu novietojis jūsu tēviem — tikai, ja tie piesargās pildīt visu, ko es tiem esmu pavēlējis: visu Toru, un statūtus, un tiesas Mošes rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/5-8.1792532354630.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es vairs nepieļaušu, lai Jisraēla kāja tiktu novērsta no zemes, kuru es nostādīju jūsu tēviem — tikai, ja tie sargās darīt visu, ko es tiem pavēlēju: visu Toru, likumus un tiesas Mošes rokā.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Un ne"
+      "gloss": "un vairs ne"
     },
     {
       "surface": "אוסיף",
-      "gloss": "vairs"
+      "gloss": "pieļaušu (vairs nepievienošu)"
     },
     {
       "surface": "להסיר",
-      "gloss": "nepārcelšu"
+      "gloss": "novērsta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraēla kāju"
+      "marks": "Jisraēla kāja"
     },
     {
       "surface": "רגל",
-      "gloss": "kāju"
+      "gloss": "kāja"
     },
     {
       "surface": "ישראל",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kuru"
     },
     {
       "surface": "העמדתי",
-      "gloss": "esmu novietojis"
+      "gloss": "es nostādīju"
     },
     {
       "surface": "לאבתיכם",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "ישמרו",
-      "gloss": "tie piesargās"
+      "gloss": "tie sargās"
     },
     {
       "surface": "לעשות",
-      "gloss": "pildīt"
+      "gloss": "darīt"
     },
     {
       "surface": "את",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "esmu pavēlējis"
+      "gloss": "es tiem pavēlēju"
     },
     {
       "surface": "לכל",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "והחקים",
-      "gloss": "un statūtus"
+      "gloss": "likumus"
     },
     {
       "surface": "והמשפטים",
@@ -136,6 +110,6 @@
       "gloss": "Mošes"
     }
   ],
-  "timestamp": "2026-10-20T21:39:14.631359848Z",
+  "timestamp": "2026-10-20T22:35:57.488530182Z",
   "model": "glm-5.3"
 }

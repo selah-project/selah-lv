@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dzīvību",
-      "rationale": "נֶפֶש ir 'elpa, dzīvības spēks', ne dvēsele kā atsevišķa būtība."
-    },
-    {
-      "kind": "addition",
-      "subject": "viņa",
-      "rationale": "Suffikss uz כְּבֵדוֹ 'viņa aknas' — latviski ģēnītis pieprasīja piederības vietniekvārdu."
-    }
-  ],
-  "translation": "Kamēr bulta pāršķeļ ⟨viņa⟩ aknas, kā putns steidzas uz lamatas un nezina, ka tas ir par viņa dzīvību.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2edb5ac9898e9bf0e8987e5b05ee9734674af8989e1bd60be6c8e01629e1ebd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/7\/21-24.1792528621426.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kamēr bērs pāršķeļ viņa aknas, kā putns steidzas uz slazdu un nezina, ka ⟨tas⟩ notiek ar viņa nefes.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "Kamēr"
+      "gloss": "kamēr"
     },
     {
       "surface": "יפלח",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "חץ",
-      "gloss": "bulta"
+      "gloss": "bērs"
     },
     {
       "surface": "כבדו",
-      "gloss": "⟨viņa⟩ aknas"
+      "gloss": "viņa aknas"
     },
     {
       "surface": "כמהר",
-      "gloss": "kā ... steidzas"
+      "gloss": "steidzas"
     },
     {
       "surface": "צפור",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "פח",
-      "gloss": "lamatas"
+      "gloss": "slazdu"
     },
     {
       "surface": "ולא",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": ""
+      "gloss": "zina"
     },
     {
       "surface": "כי",
@@ -74,13 +53,13 @@
     },
     {
       "surface": "בנפשו",
-      "gloss": "par viņa dzīvību"
+      "gloss": "ar viņa nefes"
     },
     {
       "surface": "הוא",
-      "gloss": "tas ir"
+      "gloss": "tas"
     }
   ],
-  "timestamp": "2026-10-20T20:37:01.427860525Z",
+  "timestamp": "2026-10-20T22:59:34.992356613Z",
   "model": "glm-5.3"
 }

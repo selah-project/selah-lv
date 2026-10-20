@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שביתכם",
-      "rationale": "še'vut: 'atgriezt trimdu' (stāvokli) pret 'atgriezt gūstekņus' (konkrēti cilvēki) — latviski 'atgriezīšu jūsu trimdu' tur abas nozīmes."
-    },
-    {
-      "kind": "substitution",
-      "subject": "būšu atrodams",
-      "rationale": "Nifal ונמצאתי literāri 'Un Es tiku atrasts' — latviešu valodai vajag palīgdarbību, nevis vienkāršu darāmo."
-    }
-  ],
-  "translation": "Un Es būšu atrodams jums, saka Jahve; un Es atgriezīšu ⟨את⟩ jūsu trimdu un sapulcēšu ⟨את⟩ jūs no visām tautām un no visām vietām, kurās Es jūs esmu padzinis, saka Jahve; un Es atvedīšu ⟨את⟩ jūs atpakaļ uz vietu, no kuras Es jūs esmu aizvedis trimdā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/29\/13-16.1792524014750.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es tikušu jūs atrodam ⟨jūsu⟩, saka Jahve, un Es atgriezīšu ⟨את⟩ jūsu izsūtījumu, un Es sapulcēšu ⟨את⟩ jūs no visām tautām un no visām vietām, kur Es jūs esmu padzinis tur, saka Jahve, un Es atgriezīšu ⟨את⟩ jūs uz vietu, no kuras Es jūs izsūtīju no turienes.",
   "tokens": [
     {
       "surface": "ונמצאתי",
-      "gloss": "Un Es būšu atrodams"
+      "gloss": "un Es tikušu atrodam"
     },
     {
       "surface": "לכם",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jūsu trimdu"
+      "marks": "jūsu izsūtījumu"
     },
     {
       "surface": "שביתכם",
-      "gloss": "jūsu trimdu"
+      "gloss": "jūsu izsūtījumu"
     },
     {
       "surface": "וקבצתי",
@@ -64,7 +43,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jūs"
+      "marks": "jūs (no visām tautām)"
     },
     {
       "surface": "מכל",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurās"
+      "gloss": "kur"
     },
     {
       "surface": "הדחתי",
@@ -93,7 +72,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jūs"
+      "marks": "jūs (tur)"
     },
     {
       "surface": "שם",
@@ -109,12 +88,12 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "un Es atvedīšu atpakaļ"
+      "gloss": "un Es atgriezīšu"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jūs"
+      "marks": "jūs (uz vietu)"
     },
     {
       "surface": "אל",
@@ -126,22 +105,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "no kuras"
+      "gloss": "kuras"
     },
     {
       "surface": "הגליתי",
-      "gloss": "Es esmu aizvedis trimdā"
+      "gloss": "Es izsūtīju"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jūs"
+      "marks": "jūs (no turienes)"
     },
     {
       "surface": "משם",
       "gloss": "no turienes"
     }
   ],
-  "timestamp": "2026-10-20T19:20:14.751029052Z",
+  "timestamp": "2026-10-20T22:50:07.011223546Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,20 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tas⟩",
-      "rationale": "Ebreju valodā nav subjekta 'tas' — pievienots latviešu teikuma struktūrai"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פרש",
-      "rationale": "'izskaidrots' — burtiski 'atšķirts, precizēts'; juridisks termins par lēmuma neesamību"
-    }
-  ],
-  "translation": "Un viņu ielika apsargāšanā, jo ⟨tas⟩ nebija izskaidrots, kas ar viņu darāms.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b9eaf215c8ee028124bc5cdd3bc5b328e97261029c8d5e5f4afa57c6038d9aa0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/15\/33-36.1792515875629.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi nolika ⟨את⟩ viņu apcietinājumā, jo nebija paskaidrots, kas ar viņu jādara.",
   "tokens": [
     {
       "surface": "ויניחו",
-      "gloss": "ielika (atstāja)"
+      "gloss": "viņi nolika"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu (apcietināto vīru)"
+      "marks": "viņu"
     },
     {
       "surface": "במשמר",
-      "gloss": "apsardzībā — apcietinājumā"
+      "gloss": "apcietinājumā"
     },
     {
       "surface": "כי",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "פרש",
-      "gloss": "izskaidrots — skaidri pateikts"
+      "gloss": "paskaidrots"
     },
     {
       "surface": "מה",
@@ -59,13 +38,13 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "darāms"
+      "gloss": "jādara"
     },
     {
       "surface": "לו",
       "gloss": "ar viņu"
     }
   ],
-  "timestamp": "2026-10-20T17:04:35.630642339Z",
+  "timestamp": "2026-10-20T22:56:52.203148895Z",
   "model": "glm-5.3"
 }

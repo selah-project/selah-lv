@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הזר 'svešais'",
-      "rationale": "JPS lasa 'laiķis' (ne-levīts), KJV ' svešais' — ārpusē stāvošais jebkādā nozīmē."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nolaidīs",
-      "rationale": "יורידו burtiski 'nolaidīs lejup' — miškana noņemšana kā pazemināšana."
-    }
-  ],
-  "translation": "Kad miškans dodas ceļā, levīti to nolaidīs; kad miškans tiek apmetināts, levīti to uzceļ; un svešais, kas tuvojas, tiks nogalināts.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/49-52.1792515315523.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kad miškans dodas ceļā, levīti to nolaidīs ⟨את⟩; un kad miškans apmetas, levīti to uzcelīs ⟨את⟩; un svešais, kas tuvotos, tiks nogalināts.",
   "tokens": [
     {
       "surface": "ובנסע",
-      "gloss": "Kad ... dodas ceļā"
+      "gloss": "kad dodas ceļā"
     },
     {
       "surface": "המשכן",
@@ -43,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to (miškanu)"
+      "marks": "to (miškans)"
     },
     {
       "surface": "הלוים",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ובחנת",
-      "gloss": "kad ... tiek apmetināts"
+      "gloss": "kad apmetas"
     },
     {
       "surface": "המשכן",
@@ -59,12 +38,12 @@
     },
     {
       "surface": "יקימו",
-      "gloss": "uzceļ"
+      "gloss": "uzcelīs"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to (miškanu)"
+      "marks": "to (miškans)"
     },
     {
       "surface": "הלוים",
@@ -76,13 +55,13 @@
     },
     {
       "surface": "הקרב",
-      "gloss": ", kas tuvojas"
+      "gloss": "tuvotos"
     },
     {
       "surface": "יומת",
       "gloss": "tiks nogalināts"
     }
   ],
-  "timestamp": "2026-10-20T16:55:15.527518989Z",
+  "timestamp": "2026-10-20T22:57:10.190568307Z",
   "model": "glm-5.3"
 }

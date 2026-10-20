@@ -5,42 +5,16 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ומניתי",
-      "rationale": "'Es jūs ieskaitīšu\/nodošu zobenam' — mans izvēlētais 'nodošu'; YLT\/KJV 'number' (ieskaitīt) no saknes 'svērt, piešķirt'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מניתי \/ מני",
-      "rationale": "'Es ieskaitīšu (מניתי)' 65:12 atbalso dievības Meni (מני) 65:11 — kas Dieva vietā izvēlējās 'Likteni', to Dievs 'ieskaita' zobenam; vārdu spēle latviešu valodā izzūd"
-    },
-    {
-      "kind": "you",
-      "subject": "jūs",
-      "rationale": "turpinājums tiešā uzrunā Jahvi pametušajiem — sprieduma teikums otrajā personā"
-    }
-  ],
-  "translation": "Un Es jūs ⟨את⟩ nodošu zobenam, un jūs visi nolieksieties kautuvei, tāpēc ka Es saucu, un jūs neatbildējāt, Es runāju, un jūs nedzirdējāt, un jūs darījāt ļaunu manās acīs un izvēlējāties to, kas man negāja pie sirds.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/9-12.1792523171641.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es iešķiršu jūs ⟨את⟩ zobenam, un jūs visi liesit ceļus kautuvē, tāpēc ka es saucu, un jūs neatbildējāt; es runāju, un jūs nedzirdējāt; un jūs darījāt ļaunu manās acīs un izvēlējāties to, kas man nepatika.",
   "tokens": [
     {
       "surface": "ומניתי",
-      "gloss": "Un Es nodošu"
+      "gloss": "Un es iešķiršu jūs"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "jūs (zobenam)"
+      "gloss": "⟨את⟩",
+      "marks": "zobenam"
     },
     {
       "surface": "לחרב",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "לטבח",
-      "gloss": "kautuvei"
+      "gloss": "kautuvē"
     },
     {
-      "surface": "תכרעu",
-      "gloss": "nolieksieties"
+      "surface": "תכרעו",
+      "gloss": "liesit ceļus"
     },
     {
       "surface": "יען",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "קראתי",
-      "gloss": "Es saucu"
+      "gloss": "es saucu"
     },
     {
       "surface": "ולא",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "עניתם",
-      "gloss": "jūs atbildējāt"
+      "gloss": "jūs neatbildējāt"
     },
     {
       "surface": "דברתי",
-      "gloss": "Es runāju"
+      "gloss": "es runāju"
     },
     {
       "surface": "ולא",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "jūs dzirdējāt"
+      "gloss": "jūs nedzirdējāt"
     },
     {
       "surface": "ותעשו",
@@ -108,13 +82,13 @@
     },
     {
       "surface": "חפצתי",
-      "gloss": "man negāja pie sirds"
+      "gloss": "man nepatika"
     },
     {
       "surface": "בחרתם",
       "gloss": "jūs izvēlējāties"
     }
   ],
-  "timestamp": "2026-10-20T19:06:11.642684623Z",
+  "timestamp": "2026-10-20T22:48:55.141737347Z",
   "model": "glm-5.3"
 }

@@ -5,49 +5,23 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חיל \/ חיל",
-      "rationale": "Viena sakne divreiz: Aramas 'karaspēks' un 'lielu karaspēku\/spēku' — skaitļu ironija, mazs daudz paceļ lielu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Elohim",
-      "rationale": "אלהי atstāts kā Elohim pēc lv krēsla D1, nevis 'Dievs'."
-    },
-    {
-      "kind": "elision",
-      "subject": "savu tēvu",
-      "rationale": "אבותיהם burtiski 'viņu tēvu' — piederība izteikta latviski ar ģenitīvu."
-    }
-  ],
-  "translation": "Jo ar niecīgu vīru skaitu atnāca Aramas karaspēks, un Jahve nodeva viņu rokās ļoti lielu karaspēku daudzumā, jo tie bija pametuši ⟨את⟩ Jahvu, savu tēvu Elohim; un ar ⟨את⟩ Joašu tie izpildīja tiesas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/24\/21-24.1792532132662.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo ar nelielu cilvēku skaitu ienāca Aramas karaspēks, un Jahve nodeva viņu rokā ļoti lielu karaspēku pārpilnībai, jo tie bija pametuši ⟨את⟩ Jahvi, viņu tēvu Elohim, un ar ⟨את⟩ Joasu tie izpildīja tiesas.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jo"
+      "gloss": "jo"
     },
     {
       "surface": "במצער",
-      "gloss": "ar niecīgu"
+      "gloss": "ar nelielu"
     },
     {
       "surface": "אנשים",
-      "gloss": "vīru skaitu"
+      "gloss": "cilvēku skaitu"
     },
     {
       "surface": "באו",
-      "gloss": "atnāca"
+      "gloss": "ienāca"
     },
     {
       "surface": "חיל",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "בידם",
-      "gloss": "viņu rokās"
+      "gloss": "viņu rokā"
     },
     {
       "surface": "חיל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "לרב",
-      "gloss": "daudzumā"
+      "gloss": "pārpilnībai"
     },
     {
       "surface": "מאד",
@@ -92,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvu"
+      "marks": "Jahvi, viņu tēvu Elohim"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahvi"
     },
     {
       "surface": "אלהי",
@@ -104,15 +78,16 @@
     },
     {
       "surface": "אבותיהם",
-      "gloss": "savu tēvu"
+      "gloss": "viņu tēvu"
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩"
+      "gloss": "un ⟨את⟩",
+      "marks": "Joasu"
     },
     {
       "surface": "יואש",
-      "gloss": "Joašu"
+      "gloss": "Joasu"
     },
     {
       "surface": "עשו",
@@ -123,6 +98,6 @@
       "gloss": "tiesas"
     }
   ],
-  "timestamp": "2026-10-20T21:35:32.663858666Z",
+  "timestamp": "2026-10-20T22:35:14.998931650Z",
   "model": "glm-5.3"
 }

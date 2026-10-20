@@ -5,65 +5,39 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צרעת",
-      "rationale": "'Caracat' — ne tikai 'spalība'; tanahā vispārīga ādas un virsmu slimība, kuras izšķiršana uzticēta priesteriem."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמר...לשמר...תשמרו",
-      "rationale": "Saknes שמר trīskārša atkārtošanās: 'sargies — ievēro — ievērojiet'."
-    },
-    {
-      "kind": "you",
-      "subject": "tev\/jums",
-      "rationale": "Darbība vērsta uz Jisraēlu: vienkāršība 'tev' pāriet daudzskaitlī 'jums'."
-    }
-  ],
-  "translation": "Uzmanies ar ādas slimības (caracat) trieku — rūpīgi ievēro un dari visu tā, kā tevi mācīs priesteri levīti; kā Es viņiem pavēlēju, tā ievēro un dari.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/24\/5-8.1792517203812.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Uzmanies ar ādas slimības cēlu — tev ļoti jāsargājas un jādara viss, ko tevi mācīs levītu priesteri; kā es viņiem pavēlēju, tā jūs sargājieties darīt.",
   "tokens": [
     {
       "surface": "השמר",
-      "gloss": "uzmanies"
+      "gloss": "Uzmanies"
     },
     {
       "surface": "בנגע",
-      "gloss": "ar trieku"
+      "gloss": "ar cēlu"
     },
     {
       "surface": "הצרעת",
-      "gloss": "ādas slimības (caracat)"
+      "gloss": "ādas slimības"
     },
     {
       "surface": "לשמר",
-      "gloss": "ievēro"
+      "gloss": "jāsargājas"
     },
     {
       "surface": "מאד",
-      "gloss": "rūpīgi (ļoti)"
+      "gloss": "ļoti"
     },
     {
       "surface": "ולעשות",
-      "gloss": "un dari"
+      "gloss": "un jādara"
     },
     {
       "surface": "ככל",
-      "gloss": "visu tā"
+      "gloss": "viss"
     },
     {
       "surface": "אשר",
-      "gloss": "kā"
+      "gloss": "ko"
     },
     {
       "surface": "יורו",
@@ -71,7 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
     },
     {
       "surface": "הכהנים",
@@ -79,7 +54,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "levīti"
+      "gloss": "levītu"
     },
     {
       "surface": "כאשר",
@@ -87,17 +62,17 @@
     },
     {
       "surface": "צויתם",
-      "gloss": "Es pavēlēju"
+      "gloss": "es viņiem pavēlēju"
     },
     {
       "surface": "תשמרו",
-      "gloss": "ievēro"
+      "gloss": "jūs sargājieties"
     },
     {
       "surface": "לעשות",
-      "gloss": "dari"
+      "gloss": "darīt"
     }
   ],
-  "timestamp": "2026-10-20T17:26:43.816053648Z",
+  "timestamp": "2026-10-20T22:40:18.797428204Z",
   "model": "glm-5.3"
 }

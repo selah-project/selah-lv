@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā teikumā ⟨ir⟩ nav pietiekama darbības vārda; latviešu valodai vajadzīgs saiklis."
-    },
-    {
-      "kind": "you",
-      "subject": "Šaulam",
-      "rationale": "Šemuēls uzrunā Šaulu ar jautājumu; pārējā panta daļa ir Šaula atbilde."
-    }
-  ],
-  "translation": "Un Šemuēls sacīja Šaulam: Kāpēc tu mani satrauci, mani uzcēlis? Un Šauls sacīja: Man ⟨ir⟩ ļoti cieši, un pelisti cīnās pret mani, un Elohim ir novērsies no manis un vairs man neatbild, ne ar praviešu roku, ne sapņos; tāpēc es tevi saucu, lai tu man pavēstītu, ko man darīt.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7d9bb6a24371e1ed4a0935386997f2c2b334fb86d83c309d167d81a67beee102",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/28\/15-16.1792532589280.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šemuels sacīja šaulam: Kāpēc tu mani satrauci, lai mani uzceltu augšup? Un šauls sacīja: Man ir ļoti grūti, un filistieši karo pret mani, un Elohim ir novērsies no manis un vairs man neatbild — ne ar praviešu roku, ne ar sapņiem; un es tevi pasaucu, lai tu man darītu zināmu, ko man darīt.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuēls"
+      "gloss": "Šemuels"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulam"
+      "gloss": "šaulu"
     },
     {
       "surface": "למה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "להעלות",
-      "gloss": "uzcēlis"
+      "gloss": "lai uzceltu augšup"
     },
     {
       "surface": "אתי",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šauls"
+      "gloss": "šauls"
     },
     {
       "surface": "צר",
-      "gloss": "cieši"
+      "gloss": "grūti"
     },
     {
       "surface": "לי",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "ופלשתים",
-      "gloss": "un pelisti"
+      "gloss": "un filistieši"
     },
     {
       "surface": "נלחמים",
-      "gloss": "cīnās"
+      "gloss": "karo"
     },
     {
       "surface": "בי",
@@ -107,11 +86,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un nav"
+      "gloss": "un ne"
     },
     {
       "surface": "ענני",
-      "gloss": "man atbildējis"
+      "gloss": "man atbild"
     },
     {
       "surface": "עוד",
@@ -135,11 +114,11 @@
     },
     {
       "surface": "בחלמות",
-      "gloss": "sapņos"
+      "gloss": "ar sapņiem"
     },
     {
       "surface": "ואקראה",
-      "gloss": "tāpēc es saucu"
+      "gloss": "un es pasaucu"
     },
     {
       "surface": "לך",
@@ -147,7 +126,7 @@
     },
     {
       "surface": "להודיעני",
-      "gloss": "lai tu man pavēstītu"
+      "gloss": "lai tu man darītu zināmu"
     },
     {
       "surface": "מה",
@@ -158,6 +137,6 @@
       "gloss": "man darīt"
     }
   ],
-  "timestamp": "2026-10-20T21:43:09.281417192Z",
+  "timestamp": "2026-10-20T22:34:29.375552427Z",
   "model": "glm-5.3"
 }

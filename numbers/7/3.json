@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צב",
-      "rationale": "צב te 'segts'; tas parādās tikai šeit un Jesajas 66:20 — slavena tulkojumu strīda vieta ('segts pajūgs')."
-    },
-    {
-      "kind": "elision",
-      "subject": "עשר",
-      "rationale": "Cipara otra daļa 'divpadsmit' apvienota vienā latviešu vārdā."
-    }
-  ],
-  "translation": "Un tie atnesa ⟨את⟩ savu upuri Jahves priekšā: sešus segtus pajūgus un divpadsmit vēršus — pajūgs uz diviem vadoņiem un vērsis katram; un tie pietuvināja ⟨את⟩ tos miškana priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/1-4.1792515506142.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tie atnesa ⟨את⟩ savu upuri Jahves priekšā: sešas segtas derību ratus un divpadsmit vēršus — rats uz diviem virsaišiem un vērsis katram — un tie piesniedza ⟨את⟩ tos miškana priekšā.",
   "tokens": [
     {
       "surface": "ויביאו",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "שש",
-      "gloss": "sešus"
+      "gloss": "sešas"
     },
     {
       "surface": "עגלת",
-      "gloss": "pajūgus"
+      "gloss": "segtus derību ratus"
     },
     {
       "surface": "צב",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "divpadsmit"
     },
     {
       "surface": "בקר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "עגלה",
-      "gloss": "pajūgs"
+      "gloss": "rats"
     },
     {
       "surface": "על",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "vadoņiem"
+      "gloss": "virsaišiem"
     },
     {
       "surface": "ושור",
@@ -99,12 +78,11 @@
     },
     {
       "surface": "ויקריבו",
-      "gloss": "un tie pietuvināja"
+      "gloss": "un tie piesniedza"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tos",
-      "marks": "pajūgus un vēršus"
+      "gloss": "⟨את⟩ tos"
     },
     {
       "surface": "לפני",
@@ -115,6 +93,6 @@
       "gloss": "miškana"
     }
   ],
-  "timestamp": "2026-10-20T16:58:26.145906458Z",
+  "timestamp": "2026-10-20T22:58:55.477324215Z",
   "model": "glm-5.3"
 }

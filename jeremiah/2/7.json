@@ -5,48 +5,32 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכרמל",
-      "rationale": "Vārds nozīmē 'auglīga dārzu zeme'; atstāts kā Karmela vietais vārds, kā rakstnieciski Karmela kalns"
-    }
-  ],
-  "translation": "Un es ievedu jūs Karmela zemē, lai ēst tās augļus un tās labumu; bet jūs, kad atnācāt, apgānījāt ⟨את⟩ manu zemi un manu mantojumu padarījāt par riebību.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/5-8.1792523224909.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es ievedu ⟨את⟩ jūs uz zemi, dārzu zemi, lai ēstu ⟨את⟩ tās augļus un ⟨את⟩ tās labumu; bet jūs, iegājuši, apgānījāt ⟨את⟩ Manu zemi, un Manu mantojumu jūs padarījāt par nelabumu.",
   "tokens": [
     {
       "surface": "ואביא",
-      "gloss": "Un es ievedu"
+      "gloss": "Un Es ievedu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "jūs Karmela zemē"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "ארץ",
-      "gloss": "zemē"
+      "gloss": "zemi"
     },
     {
       "surface": "הכרמל",
-      "gloss": "Karmela"
+      "gloss": "dārzu zemi"
     },
     {
       "surface": "לאכל",
-      "gloss": "lai ēst"
+      "gloss": "lai ēstu"
     },
     {
       "surface": "פריה",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "ותבאו",
-      "gloss": "bet jūs atnācāt"
+      "gloss": "iegājuši, jūs"
     },
     {
       "surface": "ותטמאו",
@@ -67,25 +51,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manu zemi"
+      "marks": "Manu zemi"
     },
     {
       "surface": "ארצי",
-      "gloss": "manu zemi"
+      "gloss": "Manu zemi"
     },
     {
       "surface": "ונחלתי",
-      "gloss": "un manu mantojumu"
+      "gloss": "un Manu mantojumu"
     },
     {
       "surface": "שמתם",
-      "gloss": "padarījāt"
+      "gloss": "jūs padarījāt"
     },
     {
       "surface": "לתועבה",
-      "gloss": "par riebību"
+      "gloss": "par nelabumu"
     }
   ],
-  "timestamp": "2026-10-20T19:07:04.910131606Z",
+  "timestamp": "2026-10-20T22:49:19.404224223Z",
   "model": "glm-5.3"
 }

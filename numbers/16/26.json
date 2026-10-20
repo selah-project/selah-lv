@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir (saietu)",
-      "rationale": "Noteiktais objekts bez את; latviešu locījums to neprasa, bet saietu izcelts kā objekts."
-    },
-    {
-      "kind": "idiom",
-      "subject": "נא",
-      "rationale": "Partikula נא pie pavēles mīkstina to kā lūgumu — 'lūdzu'."
-    },
-    {
-      "kind": "you",
-      "subject": "uz saietu",
-      "rationale": "Tieša adresācija: pavēle saietam attālināties no ļauno vīru teltīm."
-    }
-  ],
-  "translation": "Un viņš runāja uz ⟨את⟩ saietu, sacīdams: Atritinieties, lūdzu, no šo ļauno vīru teltīm un neaiztieciet neko no tā, kas viņiem pieder, lai jūs neietu bojā visās viņu grēcībās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0fdcae3c3025f32b3bdb511615fc8e5d47af66bbd0fb652552354edddc5af763",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/16\/25-28.1792515869724.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš runāja uz ⟨את⟩ pulcu, sacīdams: Atkāpieties, lūdzu, no teltīm ⟨את⟩ šiem ļaunajiem vīriem, un neaiztieciet neko no visa, kas viņiem pieder, lai jūs neietu bojā visās viņu grēkos.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "un runāja"
+      "gloss": "Un viņš runāja"
     },
     {
       "surface": "אל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "⟨את⟩ saietu"
+      "gloss": "pulcu"
     },
     {
       "surface": "לאמר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "סורו",
-      "gloss": "atritinieties"
+      "gloss": "Atkāpieties"
     },
     {
       "surface": "נא",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "vīru"
+      "gloss": "vīriem"
     },
     {
       "surface": "הרשעים",
-      "gloss": "ļauno"
+      "gloss": "ļaunajiem"
     },
     {
       "surface": "האלה",
-      "gloss": "šo"
+      "gloss": "šiem"
     },
     {
       "surface": "ואל",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "neko"
+      "gloss": "visā"
     },
     {
       "surface": "אשר",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "viņiem pieder"
+      "gloss": "viņiem"
     },
     {
       "surface": "פן",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "תספו",
-      "gloss": "jūs neietu bojā"
+      "gloss": "ietu bojā"
     },
     {
       "surface": "בכל",
@@ -111,9 +85,9 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "viņu grēcībās"
+      "gloss": "viņu grēkos"
     }
   ],
-  "timestamp": "2026-10-20T17:04:29.726944566Z",
+  "timestamp": "2026-10-20T22:57:03.494355581Z",
   "model": "glm-5.3"
 }

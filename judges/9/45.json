@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "apsēja to ar sāli",
-      "rationale": "sēšana ar sāli ir ceremoniāla mūžīgaspostas zīme, nevis reāla lauksaimniecība"
-    },
-    {
-      "kind": "elision",
-      "subject": "בה",
-      "rationale": "‘tanī’ — ebreja lokāmais prievārds apvienots ar pilsētas sievišķo dzimumu"
-    }
-  ],
-  "translation": "Un Avimelehs cīnījās pret pilsētu visu to dienu, un ieņēma ⟨את⟩ pilsētu un ⟨את⟩ ļaudis, kas tanī bija, nogalināja, un nogāza pilsētu un apsēja to ar sāli.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b9b5598747c22d35b35a73be3d1eb0ea55eb6e528e71e9225809a711a7ad4243",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/45-48.1792518417157.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Avimelehs cīnījās pret pilsētu visu to dienu, un viņš ieņēma ⟨את⟩ pilsētu un ⟨את⟩ ļaudis, kas ⟨bija⟩ tajā, nogalināja, un viņš nogāza ⟨את⟩ pilsētu un apsēja to ar sāli.",
   "tokens": [
     {
       "surface": "ואבימלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "dienu"
+      "gloss": "to dienu"
     },
     {
       "surface": "ההוא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "וילכד",
-      "gloss": "un ieņēma"
+      "gloss": "un viņš ieņēma"
     },
     {
       "surface": "את",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "tanī"
+      "gloss": "tājā"
     },
     {
       "surface": "הרג",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "ויתץ",
-      "gloss": "un nogāza"
+      "gloss": "un viņš nogāza"
     },
     {
       "surface": "את",
@@ -108,6 +87,6 @@
       "gloss": "ar sāli"
     }
   ],
-  "timestamp": "2026-10-20T17:46:57.158093029Z",
+  "timestamp": "2026-10-20T22:54:34.487476621Z",
   "model": "glm-5.3"
 }

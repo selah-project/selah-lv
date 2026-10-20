@@ -5,41 +5,20 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מנשה\/נשני",
-      "rationale": "Vārds Menaše atspoguļo darbības vārdu 'lika aizmirst' (našani) — ebreju vārda spēle, latviski redzama tikai daļēji"
-    },
-    {
-      "kind": "addition",
-      "subject": "man",
-      "rationale": "Ebreju darbības vārds 'našani' jau ietver 'mani' (piedēklis -i), latviski jāpievieno 'man'"
-    }
-  ],
-  "translation": "Un Josefs nosauca pirmdzimtā vārdu Menaše, jo Elohim lika man aizmirst visu manu pūļu un visu mana tēva namu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/49-52.1792512462783.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jāzeps nosauca ⟨את⟩ pirmdzimtā vārdu Menashe, jo Elohim lika man aizmirst ⟨את⟩ visu manu pūļu un ⟨את⟩ visu mana tēva namu.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "nosauca"
+      "gloss": "un nosauca"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefs"
+      "gloss": "Jāzeps"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pirmdzimtā vārdu"
+      "marks": "vārdu"
     },
     {
       "surface": "שם",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaše"
+      "gloss": "Menashe"
     },
     {
       "surface": "כי",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "visu mana tēva namu"
     },
     {
@@ -96,6 +75,6 @@
       "gloss": "mana tēva"
     }
   ],
-  "timestamp": "2026-10-20T16:07:42.785135544Z",
+  "timestamp": "2026-10-20T22:47:00.406286857Z",
   "model": "glm-5.3"
 }

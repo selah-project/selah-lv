@@ -5,49 +5,28 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "המר ימיר",
-      "rationale": "Atkārtota sakne מור — 'apmainot apmaina', ebreju uzsvars, kas latviešu valodā daļēji zūd"
-    },
-    {
-      "kind": "addition",
-      "subject": "nedrīkst",
-      "rationale": "Noliegtā pavēle ebreju valodā ir vienkārši לא + darbības vārds; latviešu 'nedrīkst' pievienots pareizai modalitātei"
-    }
-  ],
-  "translation": "To nedrīkst ne nomainīt, ne apmainīt — labu pret ļaunu vai ļaunu pret labu; un ja tomēr kāds apmaina lopu pret lopu, tad tas un tā maiņa būs svēts.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/27\/9-12.1792515327945.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņš to nedrīkst apmainīt un nedrīkst to nomainīt — labu pret ļaunu vai ļaunu pret labu; un ja viņš tomēr nomaina lopu pret lopu, tad tas un tā nomaiņa būs svēts.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "nedrīkst ne"
+      "gloss": "nedrīkst"
     },
     {
       "surface": "יחליפנו",
-      "gloss": "nomainīt"
+      "gloss": "apmainīt to"
     },
     {
       "surface": "ולא",
-      "gloss": "ne"
+      "gloss": "un ne"
     },
     {
       "surface": "ימיר",
-      "gloss": "apmainīt"
+      "gloss": "nomainīt"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "to (lopu)"
+      "marks": "labu"
     },
     {
       "surface": "טוב",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "המר",
-      "gloss": "tomēr apmaina"
+      "gloss": "tomēr nomaina"
     },
     {
       "surface": "ימיר",
-      "gloss": "apmaina"
+      "gloss": "nomaina"
     },
     {
       "surface": "בהמה",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "tad"
+      "gloss": "tad būs"
     },
     {
       "surface": "הוא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ותמורתו",
-      "gloss": "un tā maiņa"
+      "gloss": "un tā nomaiņa"
     },
     {
       "surface": "יהיה",
@@ -110,6 +89,6 @@
       "gloss": "svēts"
     }
   ],
-  "timestamp": "2026-10-20T16:55:27.948374137Z",
+  "timestamp": "2026-10-20T22:55:51.326758945Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עשו דדי בתוליה",
-      "rationale": "'rīkojās ar jaunavības krūtīm' — KJV 'saspieda\/mīcīja', YLT 'mīlēja'; darbības vārds עשה ir plašs un literārs."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Micraima",
-      "rationale": "מצרים transkribēts kā Micraima, nevis 'Ēģipte', pēc vārdu tabulas."
-    },
-    {
-      "kind": "idiom",
-      "subject": "izlēja savu netiklību",
-      "rationale": "וישפכו תזנותם — 'izliet' kā upuri\/šķidrumu; latviešu 'izlēja' saglabā tēlu."
-    }
-  ],
-  "translation": "Un ⟨את⟩ savu netiklību no Micraimas viņa neatstāja, jo ar viņu gulēja viņas jaunībā, un tie rīkojās ar viņas jaunavības krūtīm un izlēja savu netiklību pār viņu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b7dd4bf736a6ffe96cbaa658c69743ae2040a6aeeda72b0b4a8f9b6f78f60471",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/5-8.1792525254654.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ savu netiklību no Micraimas viņa neatstāja, jo viņas jaunībā ⟨את⟩ viņu tie gulēja, un tie apstrādāja viņas jaunības krūtis, un izlēja savu netiklību pār viņu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Un ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "savu netiklību"
     },
     {
@@ -52,7 +26,7 @@
     },
     {
       "surface": "עזבה",
-      "gloss": "viņa atstāja"
+      "gloss": "atstāja"
     },
     {
       "surface": "כי",
@@ -60,12 +34,12 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ viņu",
-      "marks": "gulēja"
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
     },
     {
       "surface": "שכבו",
-      "gloss": "gulēja"
+      "gloss": "tie gulēja"
     },
     {
       "surface": "בנעוריה",
@@ -77,15 +51,15 @@
     },
     {
       "surface": "עשו",
-      "gloss": "rīkojās ar"
+      "gloss": "apstrādāja"
     },
     {
       "surface": "דדי",
-      "gloss": "krūtīm"
+      "gloss": "krūtis"
     },
     {
       "surface": "בתוליה",
-      "gloss": "viņas jaunavības"
+      "gloss": "viņas jaunības"
     },
     {
       "surface": "וישפכו",
@@ -100,6 +74,6 @@
       "gloss": "pār viņu"
     }
   ],
-  "timestamp": "2026-10-20T19:40:54.655509543Z",
+  "timestamp": "2026-10-20T22:44:18.924748639Z",
   "model": "glm-5.3"
 }

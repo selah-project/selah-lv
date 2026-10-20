@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ar",
-      "rationale": "Ebreju lokatīvs\/saistība 'pie pilsētas' latviski prasa saistījumu 'ar tās ganību laukiem'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "trīspadsmit pilsētas",
-      "rationale": "Ciltsgabala levītu pilsētu uzskaites skaitīšana"
-    }
-  ],
-  "translation": "Un no Binjamina ciltsgabala ⟨את⟩ Gebu ar tās ganību laukiem, un ⟨את⟩ Alemetu ar tās ganību laukiem, un ⟨את⟩ Anatotu ar tās ganību laukiem — visas viņu pilsētas trīspadsmit pilsētas pēc viņu dzimtām.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a7409880ce582f06fa95305e39b70b183dd60d791ac74ba19a0ebca198048f92",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/45-48.1792531248544.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un no Benjamīna ciltsgabala ⟨את⟩ Gebu ar tās ganību laukiem, un ⟨את⟩ Alemetu ar tās ganību laukiem, un ⟨את⟩ Anatotu ar tās ganību laukiem; visas viņu pilsētas pēc to ģimenēm — trīspadsmit pilsētas.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "un no ciltsgabala"
+      "gloss": "Un no ciltsgabala"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binjamina"
+      "gloss": "Benjamīna"
     },
     {
       "surface": "את",
@@ -48,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "tās ganību laukiem"
+      "marks": "tās ganību lauki"
     },
     {
       "surface": "מגרשיה",
@@ -61,12 +40,12 @@
     },
     {
       "surface": "עלמת",
-      "gloss": "Alemeta"
+      "gloss": "Alemetu"
     },
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "tās ganību laukiem"
+      "marks": "tās ganību lauki"
     },
     {
       "surface": "מגרשיה",
@@ -79,12 +58,12 @@
     },
     {
       "surface": "ענתות",
-      "gloss": "Anatota"
+      "gloss": "Anatotu"
     },
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "tās ganību laukiem"
+      "marks": "tās ganību lauki"
     },
     {
       "surface": "מגרשיה",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "viss"
+      "gloss": "visas"
     },
     {
       "surface": "עריהם",
@@ -112,9 +91,10 @@
     },
     {
       "surface": "במשפחותיהם",
-      "gloss": "pēc viņu dzimtām"
+      "gloss": "pēc to ģimenēm",
+      "marks": "hapax"
     }
   ],
-  "timestamp": "2026-10-20T21:20:48.545743484Z",
+  "timestamp": "2026-10-20T22:32:10.552985360Z",
   "model": "glm-5.3"
 }

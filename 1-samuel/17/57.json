@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bija",
-      "rationale": "Ebreju tekstā teikumā 'un filistieša galva viņa rokā' nav darbības vārda; latviešu valodai vajadzīgs saiklis"
-    }
-  ],
-  "translation": "Un, kad Davids atgriezās no ⟨את⟩ filistieša nogalināšanas, Avners viņu paņēma un atveda viņu Saula priekšā, un filistieša galva ⟨bija⟩ viņa rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/17\/57-58.1792519197063.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, kad Davids atgriezās no ⟨את⟩ filistieša nogalināšanas, Avners paņēma ⟨את⟩ viņu un ieveda viņu Šaula priekšā, un filistieša galva ⟨bija⟩ viņa rokā.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "kad atgriezās"
+      "gloss": "un, kad atgriezās"
     },
     {
       "surface": "דוד",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "מהכות",
-      "gloss": "nogalināšanas"
+      "gloss": "no nogalināšanas"
     },
     {
       "surface": "את",
@@ -46,12 +30,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "paņēma"
+      "gloss": "un paņēma"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu (Davidu)"
+      "marks": "viņu (Davids)"
     },
     {
       "surface": "אבנר",
@@ -59,7 +43,7 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "atveda viņu"
+      "gloss": "un ieveda viņu"
     },
     {
       "surface": "לפני",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Saula"
+      "gloss": "Šauls"
     },
     {
       "surface": "וראש",
@@ -82,6 +66,6 @@
       "gloss": "viņa rokā"
     }
   ],
-  "timestamp": "2026-10-20T17:59:57.064485513Z",
+  "timestamp": "2026-10-20T22:34:03.275124789Z",
   "model": "glm-5.3"
 }

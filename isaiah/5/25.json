@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "degunus",
-      "rationale": "אף burtiski ir 'deguns\/nāsis' — dusmu sēdeklis; tradicionāli saīsināts par 'dusmās'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā trūkst saikļa 'ir' ar nekustīgu piedzīvojumu נטויה"
-    }
-  ],
-  "translation": "Tāpēc iedegās Jahves deguns pret viņa tautu, un viņš izstiepa savu roku pret to un sita to, un satrīcējās kalni, un viņu līķi kļuva kā mēsli ielu vidū. Par visu tam viņa deguns neatgriezās, un vēl viņa roka ⟨ir⟩ izstiepta.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "86f9a95b5c9a74562f9ffbafde7287c5ec95782e93a78535d90ab710ff81dad7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/5\/25-28.1792521956215.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc Jahves deguna kvēls iedegās pret ⟨viņa⟩ tautu, un viņš izstiepa savu roku pret viņu un sita to, un kalni nodrebēja, un viņu līķi bija kā mēsli ielu vidū. Par visu to viņa dusmas neatgriezās, un vēl arvien viņa roka ⟨ir⟩ izstiepta.",
   "tokens": [
     {
       "surface": "על",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "tāpēc"
     },
     {
       "surface": "חרה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "degunus"
+      "gloss": "deguna kvēls"
     },
     {
       "surface": "יהוה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "pret to"
+      "gloss": "pret viņu"
     },
     {
       "surface": "ויכהו",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וירגזו",
-      "gloss": "un satrīcējās"
+      "gloss": "un nodrebēja"
     },
     {
       "surface": "ההרים",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "un kļuva"
+      "gloss": "un bija"
     },
     {
       "surface": "נבלתם",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "tam"
+      "gloss": "to"
     },
     {
       "surface": "לא",
@@ -114,11 +93,11 @@
     },
     {
       "surface": "אפו",
-      "gloss": "viņa deguns"
+      "gloss": "viņa dusmas"
     },
     {
       "surface": "ועוד",
-      "gloss": "un vēl"
+      "gloss": "un vēl arvien"
     },
     {
       "surface": "ידו",
@@ -129,6 +108,6 @@
       "gloss": "izstiepta"
     }
   ],
-  "timestamp": "2026-10-20T18:45:56.215624543Z",
+  "timestamp": "2026-10-20T22:48:24.037613449Z",
   "model": "glm-5.3"
 }

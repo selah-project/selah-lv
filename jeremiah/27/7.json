@@ -5,41 +5,16 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עד בא עת ארצו",
-      "rationale": "«līdz iestāsies viņa zemes laiks» — svārstīgas lasījumi: «līdz viņa zemes laiks pienāks» pret «līdz viņa paša laiks» (sevišķi ar גם הוא)prināk kā Babilonai pienāk savs laiks"
-    },
-    {
-      "kind": "addition",
-      "subject": "viņš pats",
-      "rationale": "גם הוא «arī viņš» — latviski pievienota «pats», lai uzsvērtu, ka arī Babilona savā reizā tiks pakļauta"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבדו\/עבדו",
-      "rationale": "Darbības vārds עבד «kalpot» parādās divreiz pretējos virzienos: tautas kalpo Babilonai, tad tautas kalpo Babilonas kungam — spēle ar to pašu sakni no 6. panta"
-    }
-  ],
-  "translation": "Un viņam kalpos visas tautas, un ⟨את⟩ viņa dēlu, un ⟨את⟩ viņa dēla dēlu, līdz iestāsies viņa zemes laiks — arī viņš pats; un viņā kalpos daudzas tautas un lieli ķēniņi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "05f315c8d062f8cace957650d6444ffa38e9883bc3948fdc310aaea7e23377de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/6-7.1792532692265.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un kalpos ⟨את⟩ viņu visas tautas, un ⟨את⟩ viņa dēlu, un ⟨את⟩ viņa dēla dēlu, līdz pienāks viņa zemes laiks — arī ⟨viņš pats⟩; un viņam kalpos daudzas tautas un lieli ķēniņi.",
   "tokens": [
     {
       "surface": "ועבדו",
-      "gloss": "un kalpos"
+      "gloss": "Un kalpos"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "visas tautas (apgriezta sintakse: priekšmets seko)"
     },
     {
       "surface": "כל",
@@ -51,7 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩"
+      "gloss": "un ⟨את⟩",
+      "marks": "viņa dēlu"
     },
     {
       "surface": "בנו",
@@ -59,7 +35,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩"
+      "gloss": "un ⟨את⟩",
+      "marks": "viņa dēla dēlu"
     },
     {
       "surface": "בן",
@@ -75,7 +52,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "iestāsies"
+      "gloss": "pienāks"
     },
     {
       "surface": "עת",
@@ -91,7 +68,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "viņš pats"
+      "gloss": "⟨viņš pats⟩"
     },
     {
       "surface": "ועבדו",
@@ -99,7 +76,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "viņā"
+      "gloss": "viņam"
     },
     {
       "surface": "גוים",
@@ -118,6 +95,6 @@
       "gloss": "lieli"
     }
   ],
-  "timestamp": "2026-10-20T21:44:52.266519582Z",
+  "timestamp": "2026-10-20T22:50:06.019966010Z",
   "model": "glm-5.3"
 }

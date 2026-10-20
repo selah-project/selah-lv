@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sacēlies pret mani",
-      "rationale": "paša (פשע) ir 'atrauties, sagrēkot pret varu'; 'sacēlies' ir sacelšanās raksturs, ne vārds par vārdu"
-    },
-    {
-      "kind": "idiom",
-      "subject": "kā es, tā tu; kā mana tauta, tā tava tauta; kā mani zirgi, tā tavi zirgi",
-      "rationale": "ivrita atbilstības formulas ar kə- atkārtojumu — pilnīgas savienības apsolījums, tas pats kā 1. Mozus 34:23 paraugs"
-    },
-    {
-      "kind": "you",
-      "subject": "Jehošafatam",
-      "rationale": "Jehorama vēstule tieši uzrunā Jūdas ķēniņu ar jautājumu un lūgumu"
-    }
-  ],
-  "translation": "Un viņš aizgāja un sūtīja pie Jehošafata, Jūdas ķēniņa, sakot: Moaba ķēniņš sacēlies pret mani. Vai tu iesi ⟨את⟩ ⟨ar⟩ mani pret Moabu karā? Un viņš sacīja: Esiešu aizgājis; kā es, tā tu; kā mana tauta, tā tava tauta; kā mani zirgi, tā tavi zirgi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7d0b6efeafb4d92eed8da68566e36f4d5820280ec98f0418fc5cd31d22e976c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/3\/6-7.1792532636463.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš aizgāja un sūtīja pie Jehošafata, Jehudas ķēniņa, sakot: Moaba ķēniņš ir sacēlies pret mani; vai tu iesi ⟨את⟩ ar mani uz Moabu karā? Un viņš sacīja: Es kāpšu augšup; kā es, tā tu; kā mana tauta, tā tava tauta; kā mani zirgi, tā tavi zirgi.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "aizgāja"
+      "gloss": "Un viņš aizgāja"
     },
     {
       "surface": "וישלח",
-      "gloss": "sūtīja"
+      "gloss": "un sūtīja"
     },
     {
       "surface": "אל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jūdas"
+      "gloss": "Jehudas"
     },
     {
       "surface": "לאמר",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Moaba"
+      "gloss": "Moabas"
     },
     {
       "surface": "פשע",
-      "gloss": "sacēlies"
+      "gloss": "ir sacēlies"
     },
     {
       "surface": "בי",
@@ -83,11 +57,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨ar⟩ mani"
+      "gloss": "ar mani ⟨את⟩",
+      "marks": "ar mani"
     },
     {
       "surface": "אל",
-      "gloss": "pret"
+      "gloss": "uz"
     },
     {
       "surface": "מואב",
@@ -99,11 +74,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sacīja"
+      "gloss": "Un viņš sacīja"
     },
     {
       "surface": "אעלה",
-      "gloss": "Esiešu aizgājis"
+      "gloss": "Es kāpšu augšup"
     },
     {
       "surface": "כמוני",
@@ -114,9 +89,8 @@
       "gloss": "tā tu"
     },
     {
-      "surface": "кעמי",
-      "gloss": "kā mana tauta",
-      "surface_alt": "כעמי"
+      "surface": "כעמי",
+      "gloss": "kā mana tauta"
     },
     {
       "surface": "כעמך",
@@ -131,6 +105,6 @@
       "gloss": "tā tavi zirgi"
     }
   ],
-  "timestamp": "2026-10-20T21:43:56.464626561Z",
+  "timestamp": "2026-10-20T22:37:50.892591562Z",
   "model": "glm-5.3"
 }

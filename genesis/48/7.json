@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "כברת ארץ",
-      "rationale": "'kibrota zemes' — neskaidra attāluma mērvienība, saglabāts ebreju vārds; tulki dod 'kādu gabalu ceļa'"
-    },
-    {
-      "kind": "crux",
-      "subject": "עלי",
-      "rationale": "'uz mani \/ manā pusē' — Raḥela nomira dzemdībās viņam līdzās; tulki: 'pie manis', 'manā klātbūtnē'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kibrotas attālumā",
-      "rationale": "attāluma mērīšana līdz Efratai"
-    }
-  ],
-  "translation": "Un es, kad es nācu no Padanas, nomira mana Raḥela manā pusē Kenanas zemē ceļā, vēl kibrotas attālumā zemes līdz ierašanās Efrata, un es apbedīju viņu tur ceļā uz Efratu — tā ir Bet-Leḥema.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9e71674377fff5797f7fe843ca9f47a33b9bbb8787d6f59b14acb95a728cd027",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/48\/5-8.1792512595518.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es, kad es nācu no Padanas, Rahēle nomira ⟨pie⟩ manis Kenaana zemē, ceļā, vēl kibRatas attālumā līdz Efratai; un es viņu tur apbedīju ceļā uz Efratu — tā ⟨ir⟩ Bet-Lehema.",
   "tokens": [
     {
       "surface": "ואני",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "עלי",
-      "gloss": "manā pusē"
+      "gloss": "⟨pie⟩ manis"
     },
     {
       "surface": "רחל",
-      "gloss": "Raḥela"
+      "gloss": "Rahēle"
     },
     {
       "surface": "בארץ",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenanas"
+      "gloss": "Kenaana"
     },
     {
       "surface": "בדרך",
@@ -74,20 +48,20 @@
       "gloss": "vēl"
     },
     {
-      "surface": "כברат",
-      "gloss": "kibrotas attālumā"
+      "surface": "כברת",
+      "gloss": "kibratas"
     },
     {
       "surface": "ארץ",
-      "gloss": "zemes"
+      "gloss": "attālumā zemes"
     },
     {
       "surface": "לבא",
-      "gloss": "līdz ierašanās"
+      "gloss": "līdz ierasties"
     },
     {
       "surface": "אפרתה",
-      "gloss": "Efrata"
+      "gloss": "Efratai"
     },
     {
       "surface": "ואקברה",
@@ -99,15 +73,15 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "ceļā"
+      "gloss": "ceļā uz"
     },
     {
       "surface": "אפרת",
-      "gloss": "uz Efratu"
+      "gloss": "Efratu"
     },
     {
       "surface": "הוא",
-      "gloss": "tā ir"
+      "gloss": "tā"
     },
     {
       "surface": "בית",
@@ -115,9 +89,9 @@
     },
     {
       "surface": "לחם",
-      "gloss": "Leḥema"
+      "gloss": "Lehema"
     }
   ],
-  "timestamp": "2026-10-20T16:09:55.519933277Z",
+  "timestamp": "2026-10-20T22:47:18.526572798Z",
   "model": "glm-5.3"
 }

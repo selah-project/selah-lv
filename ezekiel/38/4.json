@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "krāšņi ģērbtus",
-      "rationale": "מכלול burtiski 'pilnībā'; JPS 'grezni ģērbti', citi 'pilnā bruņojumā' — forma vai bruņas?"
-    },
-    {
-      "kind": "idiom",
-      "subject": "āķus tavos vaigu kaulos",
-      "rationale": "Zvejas āķu idiomā — kā zvejnieks velk zivi, tā Jahve velk Gogu"
-    }
-  ],
-  "translation": "Un es tevi atgriezīšu atpakaļ un ielieku āķus tavos vaigu kaulos, un izvedīšu tevi un ⟨את⟩ visu tavu karaspēku — zirgus un jātniekus, visus krāšņi ģērbtus, lielu pulku ar lielajiem vairogiem un mazajiem vairogiem, visi turot zobenus!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "63ba2c2326d2feccb2c1b68ae65c0ceccbc8126d11679a95ed6f5070e039dcf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/38\/1-4.1792525621028.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es tevi pagriezīšu atpakaļ, un ielikšu āķus tavos žokļos, un izvedīšu tevi ⟨את⟩ un ⟨את⟩ visu tavu karaspēku — zirgus un jātniekus, pilnīgi tērptus, visus kopā, lielu pulku ar lielo vairogu un mazo vairogu, turot zobenus — visi.",
   "tokens": [
     {
       "surface": "ושובבתיך",
-      "gloss": "Un es tevi atgriezīšu atpakaļ"
+      "gloss": "Un es tevi pagriezīšu atpakaļ"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ielieku"
+      "gloss": "un ielikšu"
     },
     {
       "surface": "חחים",
@@ -42,15 +21,16 @@
     },
     {
       "surface": "בלחייך",
-      "gloss": "tavos vaigu kaulos"
+      "gloss": "tavos žokļos"
     },
     {
       "surface": "והוצאתי",
-      "gloss": "izvedīšu"
+      "gloss": "un izvedīšu"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tevi"
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
     },
     {
       "surface": "ואת",
@@ -75,19 +55,19 @@
     },
     {
       "surface": "לבשי",
-      "gloss": "ģērbtus"
+      "gloss": "tērptus"
     },
     {
       "surface": "מכלול",
-      "gloss": "krāšņi"
+      "gloss": "pilnīgi"
     },
     {
       "surface": "כלם",
-      "gloss": "visus"
+      "gloss": "visus kopā"
     },
     {
       "surface": "קהל",
-      "gloss": "pulku"
+      "gloss": "pulu"
     },
     {
       "surface": "רב",
@@ -95,11 +75,11 @@
     },
     {
       "surface": "צנה",
-      "gloss": "ar lielajiem vairogiem"
+      "gloss": "lielo vairogu"
     },
     {
       "surface": "ומגן",
-      "gloss": "un mazajiem vairogiem"
+      "gloss": "un mazo vairogu"
     },
     {
       "surface": "תפשי",
@@ -114,6 +94,6 @@
       "gloss": "visi"
     }
   ],
-  "timestamp": "2026-10-20T19:47:01.029037028Z",
+  "timestamp": "2026-10-20T22:44:57.642177089Z",
   "model": "glm-5.3"
 }

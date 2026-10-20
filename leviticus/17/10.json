@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אישׁ אישׁ",
-      "rationale": "atkārtots 'katrs cilvēks no katriena' — ebreju uzsvars uz ikvienu atsevišķi"
-    },
-    {
-      "kind": "idiom",
-      "subject": "novērsīšu Savu vaigu",
-      "rationale": "נתתי פני burtiski 'likšu Savu seju pret' — dusmu izteiksme"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש tuvāk 'elpa\/dzīvība', ne dvēsele dvēseles-tēlainā nozīmē"
-    }
-  ],
-  "translation": "Un katrs cilvēks no Jisraēla nama un no svešinieka, kas dzīvo viņu vidū, kas ēdīs jebkuru asini — Es novērsīšu Savu vaigu no ⟨את⟩ tās dvēseles, kas ēd asinis, un Es izgriezīšu viņu no viņas tautas vidus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/17\/9-12.1792514961835.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un katrs cilvēks no Jisraēla nama un no svešinieka, kas dzīvo viņu vidū, kas ēd jebkādas asinis — es vērsīšu savu vaigu pret to dvēseli, kas ēd ⟨את⟩ asinis, un izgriezīšu to ⟨את⟩ no viņas tautas vidus.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "un katrs cilvēks"
+      "gloss": "Un katrs cilvēks"
     },
     {
       "surface": "איש",
@@ -71,23 +45,23 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "ēdīs"
+      "gloss": "ēd"
     },
     {
       "surface": "כל",
-      "gloss": "jebkuru"
+      "gloss": "jebkādas"
     },
     {
       "surface": "דם",
-      "gloss": "asini"
+      "gloss": "asinis"
     },
     {
       "surface": "ונתתי",
-      "gloss": "un Es došu"
+      "gloss": "es vērsīšu"
     },
     {
       "surface": "פני",
-      "gloss": "Savu vaigu"
+      "gloss": "savu vaigu"
     },
     {
       "surface": "בנפש",
@@ -108,12 +82,12 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "un Es izgriezīšu"
+      "gloss": "un izgriezīšu"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "no tautas vidus"
     },
     {
       "surface": "מקרב",
@@ -121,9 +95,9 @@
     },
     {
       "surface": "עמה",
-      "gloss": "viņas tautas"
+      "gloss": "no viņas tautas"
     }
   ],
-  "timestamp": "2026-10-20T16:49:21.837076620Z",
+  "timestamp": "2026-10-20T22:55:35.802910022Z",
   "model": "glm-5.3"
 }

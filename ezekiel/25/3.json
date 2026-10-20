@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Klausiet",
-      "rationale": "Imperativs uzrunā Amona dēlus — sauciens klausīt"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "האח",
-      "rationale": "Isaids 'Aha!' — apgalvojuma izsauciens, kas latviski atveidots kā 'Ha!'"
-    }
-  ],
-  "translation": "Un tu sacīsi Amona dēliem: Klausiet Adonai Jahves vārdu! Tā saka Adonai Jahve: Tāpēc, ka tu sacīji ⟨⟨האח⟩⟩ 'Ha!' pret manu svētumu, kad tas tika apgānīts, un pret Jisraēla zemi, kad tā tika izpostīta, un pret Jehudas namu, kad tie aizgāja gūstā —",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "975a239bc9b31b7e9ad2f28dde802c60275cd36c789240e2c0ce68e82a91267c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/25\/1-4.1792525254409.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu sacīsi Amona bērniem: Dzirdiet Adonai Jahves vārdu — tā saka Adonai Jahve: Tāpēc, ka tu sacīji ⟨ap τavu⟩ ‘hā!’ par manu svētnīcu, kad tā tika apgānīta, un par Jisraēla zemi, kad tā tika izpostīta, un par Jūdas namu, kad tie aizgāja trimdā,",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "dēliem"
+      "gloss": "bērniem"
     },
     {
       "surface": "עמון",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "Klausiet"
+      "gloss": "Dzirdiet"
     },
     {
       "surface": "דבר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Tā"
+      "gloss": "tā"
     },
     {
       "surface": "אמר",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "האח",
-      "gloss": "'Ha!'"
+      "gloss": "‘hā!’"
     },
     {
       "surface": "אל",
-      "gloss": "pret"
+      "gloss": "par"
     },
     {
       "surface": "מקדשי",
-      "gloss": "manu svētumu"
+      "gloss": "manu svētnīcu"
     },
     {
       "surface": "כי",
@@ -98,11 +77,11 @@
     },
     {
       "surface": "נחל",
-      "gloss": "tika apgānīts"
+      "gloss": "tā tika apgānīta"
     },
     {
       "surface": "ואל",
-      "gloss": "un pret"
+      "gloss": "un par"
     },
     {
       "surface": "אדמת",
@@ -118,11 +97,11 @@
     },
     {
       "surface": "נשמה",
-      "gloss": "tika izpostīta"
+      "gloss": "tā tika izpostīta"
     },
     {
       "surface": "ואל",
-      "gloss": "un pret"
+      "gloss": "un par"
     },
     {
       "surface": "בית",
@@ -130,7 +109,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jūdas"
     },
     {
       "surface": "כי",
@@ -138,13 +117,13 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "aizgāja"
+      "gloss": "tie aizgāja"
     },
     {
       "surface": "בגולה",
-      "gloss": "gūstā"
+      "gloss": "trimdā"
     }
   ],
-  "timestamp": "2026-10-20T19:40:54.410310338Z",
+  "timestamp": "2026-10-20T22:44:29.577359423Z",
   "model": "glm-5.3"
 }

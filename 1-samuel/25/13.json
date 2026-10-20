@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "četri simti \/ divi simti",
-      "rationale": "Skaitļi norāda Davida vienības lielumu: kādi 400 gāja līdzi, 200 palika pie mantām."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חגרו\/ויחגרו\/ויחגר",
-      "rationale": "Trīskārša atkārtošanās 'jos apsēja zobenu' rada pieaugošu ritmu līdz pat Davidam; latviski saglabāts ar atkārtotu 'apsēja'."
-    }
-  ],
-  "translation": "Un Davids sacīja saviem vīriem: Apsējiet katrs savu zobenu! Un viņi apsēja, katrs ⟨את⟩ savu zobenu, un arī Davids apsēja ⟨את⟩ savu zobenu; un kādi četri simti vīru gāja augšup aiz Davida, un divi simti palika pie mantām.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/13-16.1792519405400.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Davids sacīja saviem vīriem: Apsjojiet ikviens savu zobenu! Un ikviens apjoza ⟨את⟩ savu zobenu, un arī Davids apjoza ⟨את⟩ savu zobenu; un gāja augšup aiz Davida kā četri simti vīru, un divi simti palika pie mantu kaudzes.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "חגרו",
-      "gloss": "Apsējiet"
+      "gloss": "Apsjojiet"
     },
     {
       "surface": "איש",
-      "gloss": "katrs"
+      "gloss": "ikviens"
     },
     {
       "surface": "את",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "ויחגרו",
-      "gloss": "un viņi apsēja"
+      "gloss": "Un apjoza"
     },
     {
       "surface": "איש",
-      "gloss": "katrs"
+      "gloss": "ikviens"
     },
     {
       "surface": "את",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "ויחגר",
-      "gloss": "un apsēja"
+      "gloss": "un apjoza"
     },
     {
       "surface": "גם",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "כארבע",
-      "gloss": "kādi četri"
+      "gloss": "kā četri"
     },
     {
       "surface": "מאות",
@@ -133,9 +112,9 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "mantām"
+      "gloss": "mantu kaudzes"
     }
   ],
-  "timestamp": "2026-10-20T18:03:25.400738346Z",
+  "timestamp": "2026-10-20T22:34:12.411877655Z",
   "model": "glm-5.3"
 }

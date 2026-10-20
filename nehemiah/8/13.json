@@ -5,37 +5,11 @@
   "book": "nehemiah",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "Ebreju valoda iztrūkstošo saikli neizsaka; latviešu valodai vajag domātu starpibu."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל (otrais)",
-      "rationale": "Otrais 'אל' pirms 'דברי' ir ebreju stilfigūra un latviski saplūst ar 'להשכיל'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "pie Ēzras",
-      "rationale": "Verss apraksta aicinājumu pie Toras studēšanas — sapulce ar mērķi saprast."
-    }
-  ],
-  "translation": "Un otrajā dienā sapulcējās tēvu galvas visai tautai — priesteri un levīti — pie Ēzras, rakstveža, laiz iedziļinātos Toras vārdos.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3816488b60a6d2e6b10b6c4b4345cfd6e3ac127f32f8e2734575d54d4779c1d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/8\/13-16.1792530803565.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un otrajā dienā sapulcējās tēvu galvas no visa ļaudīm, priesteri un levīti, pie skrīvera Ezras, lai apgūtu Toras vārdus.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "Un otrajā dienā"
+      "gloss": "Un dienā"
     },
     {
       "surface": "השני",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "visai"
+      "gloss": "no visa"
     },
     {
       "surface": "העם",
-      "gloss": "tautai"
+      "gloss": "ļaudīm"
     },
     {
       "surface": "הכהנים",
@@ -75,29 +49,29 @@
     },
     {
       "surface": "עזרא",
-      "gloss": "Ēzras"
+      "gloss": "Ezras"
     },
     {
       "surface": "הספר",
-      "gloss": "rakstveža"
+      "gloss": "skrīvera"
     },
     {
       "surface": "ולהשכיל",
-      "gloss": "lai iedziļinātos"
+      "gloss": "lai apgūtu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "par"
     },
     {
       "surface": "דברי",
-      "gloss": "vārdos"
+      "gloss": "vārdiem"
     },
     {
       "surface": "התורה",
       "gloss": "Toras"
     }
   ],
-  "timestamp": "2026-10-20T21:13:23.565700540Z",
+  "timestamp": "2026-10-20T22:57:04.910900320Z",
   "model": "glm-5.3"
 }

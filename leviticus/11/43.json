@@ -5,53 +5,32 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēseles",
-      "rationale": "נפש ir tuvāk 'elpas būtne, dzīvība', ne dvēsele"
-    },
-    {
-      "kind": "you",
-      "subject": "Israēlam",
-      "rationale": "Tieša pavēle — aicinājums ar 'jūs' (2. pl.)"
-    }
-  ],
-  "translation": "Nepadarait sevi par rietumu ne ar vienu rāpuli, kas rāpo, un neaptraipiet ar tiem ⟨sevi⟩, lai jūs nekļūtu aptraipīti ar tiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "665455bad97117ce7444df3a9a13f75806bef688f7488e9d7309474102c8251f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/42-44.1792514816353.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neliekiet riebumu ⟨את⟩ savām dvēselēm ar visu, kas rāpo, kas rāpo, un nekļūstiet no viņiem nešķīsti un neaizraujieties ar viņiem nešķīstībā.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ne"
+      "gloss": "nē, nelieciet"
     },
     {
       "surface": "תשקצו",
-      "gloss": "padarait sevi par rietumu"
+      "gloss": "riebumu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jūsu dvēseles"
+      "marks": "savām dvēselēm"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "jūsu dvēseles"
+      "gloss": "savām dvēselēm"
     },
     {
       "surface": "בכל",
-      "gloss": "ne ar vienu"
+      "gloss": "ar visu, kas rāpo"
     },
     {
       "surface": "השרץ",
-      "gloss": "rāpuli"
+      "gloss": "kas rāpo"
     },
     {
       "surface": "השרץ",
@@ -63,21 +42,21 @@
     },
     {
       "surface": "תטמאו",
-      "gloss": "aptraipiet"
+      "gloss": "kļūstiet nešķīsti"
     },
     {
       "surface": "בהם",
-      "gloss": "ar tiem"
+      "gloss": "no viņiem"
     },
     {
       "surface": "ונטמתם",
-      "gloss": "un jūs tiksiet aptraipīti"
+      "gloss": "neaizraujieties nešķīstībā"
     },
     {
       "surface": "בם",
-      "gloss": "ar tiem"
+      "gloss": "ar viņiem"
     }
   ],
-  "timestamp": "2026-10-20T16:46:56.356497532Z",
+  "timestamp": "2026-10-20T22:54:55.509819598Z",
   "model": "glm-5.3"
 }

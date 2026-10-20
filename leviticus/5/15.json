@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "gloss": "נפש (nefes) apzīmē elpojošu būtni, dzīvības spēku — ne tikai 'dvēsele'."
-    },
-    {
-      "kind": "crux",
-      "subject": "pilnīgu aunu",
-      "gloss": "איל תמים — daži tulko 'bez defekta', citi 'pilnīgu'; תמים nozīmē 'veselu, nevainojamu'."
-    }
-  ],
-  "translation": "Ja kāda dvēsele rīkojas neuzticīgi un grēk nenogribēdama Jahves svētajās lietās, tad viņš atnesīs savu vainas upuri Jahve:[(Ebreju valodā teikts 'viņa vaina' — tulkojumā 'vina upuris')] no ganāmpulka izraudzītu, pilnīgu aunadu[(Ebreju valodā: 'auns')] par tavu novērtējumu sudrabā šķeļu skaits[(Ebreju valodā: 'šķeļu skaitā')] pēc svētnīcas šķeļa[(Ebreju valodā: 'pēc svētnīcas šķeļa')] kā vainas upuri.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/5\/13-16.1792513696821.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kāda dvēsele nodarbojas ar nodevību un grēko neapzinīgi Jahves svētajās lietās, tad viņš lai atnes ⟨את⟩ savu vainas upuri Jahvem: ābeli bez defekta no avis un kazām, pēc tavām aplēsēm sudraba šekeļos pēc svētuma šekeļa, par vainas upuri.",
   "tokens": [
     {
       "surface": "נפש",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "תמעל",
-      "gloss": "rīkojas neuzticīgi"
+      "gloss": "nodarbojas ar nodevību"
     },
     {
       "surface": "מעל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "וחטאה",
-      "gloss": "grēk"
+      "gloss": "un grēko"
     },
     {
       "surface": "בשגגה",
-      "gloss": "nenogribēdama"
+      "gloss": "neapzinīgi"
     },
     {
       "surface": "מקדשי",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "והביא",
-      "gloss": "atnesīs"
+      "gloss": "lai atnes"
     },
     {
       "surface": "את",
-      "gloss": "[(את)]",
+      "gloss": "⟨את⟩",
       "marks": "savu vainas upuri"
     },
     {
@@ -75,15 +54,15 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvem"
     },
     {
       "surface": "איל",
-      "gloss": "aun"
+      "gloss": "ābeli"
     },
     {
       "surface": "תמים",
-      "gloss": "pilnīgu"
+      "gloss": "bez defekta"
     },
     {
       "surface": "מן",
@@ -91,33 +70,33 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "ganāmpulka"
+      "gloss": "avis un kazām"
     },
     {
       "surface": "בערכך",
-      "gloss": "par tavu novērtējumu"
+      "gloss": "pēc tavām aplēsēm"
     },
     {
       "surface": "כסף",
-      "gloss": "sudrabā"
+      "gloss": "sudraba"
     },
     {
       "surface": "שקלים",
-      "gloss": "šķeļu skaits"
+      "gloss": "šekeļos"
     },
     {
       "surface": "בשקל",
-      "gloss": "pēc šķeļa"
+      "gloss": "pēc šekeļa"
     },
     {
       "surface": "הקדש",
-      "gloss": "svētnīcas"
+      "gloss": "svētuma"
     },
     {
       "surface": "לאשם",
-      "gloss": "vainas upurim"
+      "gloss": "par vainas upuri"
     }
   ],
-  "timestamp": "2026-10-20T16:28:16.823044971Z",
+  "timestamp": "2026-10-20T22:56:16.005245878Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ziņu",
-      "rationale": "עלה לכישה — sūtīja vēstnešus; teksts saka tikai 'nosūtīja', objekts pievienots ⟨ziņu⟩"
-    },
-    {
-      "kind": "measurement",
-      "subject": "trīs simti talentu sudraba un trīsdesmit talentu zelta",
-      "rationale": "Nodevas apjoma norāde ar precīziem skaitļiem"
-    }
-  ],
-  "translation": "Un Hizkija, Jehūdas ķēniņš, nosūtīja ⟨ziņu⟩ pie Asīrijas ķēniņa uz Lahišu, sacīdams: Es esmu grēkojis; atgriezies no manis! Ko tu uzliksi man, to es nesīšu. Un Asīrijas ķēniņš uzlika Hizkijam, Jehūdas ķēniņam, trīs simti talentu sudraba un trīsdesmit talentu zelta.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/13-16.1792521574753.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Hizkijahs, Jūdas ķēniņš, sūtīja pie Ašūras ķēniņa uz Lakišu, sacīdams: Es esmu grēkojis; griezies atpakaļ no manis; ⟨את⟩ to, ko tu uzliksi uz mani, es nesīšu. Un Ašūras ķēniņš uzlika uz Hizkijahu, Jūdas ķēniņu, trīs simti talentu sudraba un trīsdesmit talentu zelta.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Un nosūtīja"
+      "gloss": "Un ... sūtīja"
     },
     {
       "surface": "חזקיה",
-      "gloss": "Hizkija"
+      "gloss": "Hizkijahs"
     },
     {
       "surface": "מלך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehūdas"
+      "gloss": "Jūdas"
     },
     {
       "surface": "אל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asīrijas"
+      "gloss": "Ašūras"
     },
     {
       "surface": "לכישה",
-      "gloss": "uz Lahišu"
+      "gloss": "uz Lakišu"
     },
     {
       "surface": "לאמר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "שוב",
-      "gloss": "atgriezies"
+      "gloss": "griezies atpakaļ"
     },
     {
       "surface": "מעלי",
@@ -79,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ko"
+      "marks": "to, ko tu uzliksi uz mani"
     },
     {
       "surface": "אשר",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "man"
+      "gloss": "uz mani"
     },
     {
       "surface": "אשא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "Un uzlika"
+      "gloss": "Un ... uzlika"
     },
     {
       "surface": "מלך",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asīrijas"
+      "gloss": "Ašūras"
     },
     {
       "surface": "על",
@@ -115,15 +94,15 @@
     },
     {
       "surface": "חזקיה",
-      "gloss": "Hizkijam"
+      "gloss": "Hizkijahu"
     },
     {
       "surface": "מלך",
-      "gloss": "ķēniņam"
+      "gloss": "ķēniņu"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehūdas"
+      "gloss": "Jūdas"
     },
     {
       "surface": "שלש",
@@ -135,7 +114,7 @@
     },
     {
       "surface": "ככר",
-      "gloss": "talantu"
+      "gloss": "talentu"
     },
     {
       "surface": "כסף",
@@ -147,13 +126,13 @@
     },
     {
       "surface": "ככר",
-      "gloss": "talantu"
+      "gloss": "talentu"
     },
     {
       "surface": "זהב",
       "gloss": "zelta"
     }
   ],
-  "timestamp": "2026-10-20T18:39:34.754453835Z",
+  "timestamp": "2026-10-20T22:37:13.978984723Z",
   "model": "glm-5.3"
 }

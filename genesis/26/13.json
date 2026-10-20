@@ -5,49 +5,27 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גדל",
-      "rationale": "Sakne גדל atkārtojas četras reizes pantā — augšanas intensitāte, latviski zudīga."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "gloss": "",
-      "rationale": ":”"
-    }
-  ],
-  "translation": "Un ⟨אָאִישׁ⟩ tapa liels, un viņš gāja aizvien tālāk un auga lielāks, līdz kļuva ļoti liels.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b4f3de08bf0bbb1647629b76d03377d515a4a11c9993f68e0efa3e6f0b5758d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/26\/13-16.1792512063516.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ šis vīrs kļuva liels, un viņš gāja aizvien tālāk, augdams un augdams, līdz kļuva ļoti liels.",
   "tokens": [
     {
       "surface": "ויגדל",
-      "gloss": "tapa liels"
+      "gloss": "Un kļuva liels"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨אָאִישׁ⟩ vīrs"
+      "gloss": "šis vīrs"
     },
     {
       "surface": "וילך",
-      "gloss": "viņš gāja"
+      "gloss": "un gāja aizvien tālāk"
     },
     {
       "surface": "הלוך",
-      "gloss": "aizvien tālāk"
+      "gloss": "augdams un augdams"
     },
     {
       "surface": "וגדל",
-      "gloss": "auga lielāks"
+      "gloss": "un auga"
     },
     {
       "surface": "עד",
@@ -55,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "גדל",
@@ -66,6 +44,6 @@
       "gloss": "ļoti"
     }
   ],
-  "timestamp": "2026-10-20T16:01:03.516453305Z",
+  "timestamp": "2026-10-20T22:46:09.592046889Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בלעם",
-      "rationale": "Šeit pilsēta Bilama (Jozua 21:25 Ibleama), ne pravietis Bileāms — viens vārds, divas personas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ciltsvāra puse",
-      "rationale": "Pilsētu piešķīrumu sadalījums pēc cilšu un ģimeņu — skaitļu un robežu teksts"
-    }
-  ],
-  "translation": "un no puses no Menaša ciltsvāra ⟨את⟩ Aneru ar tās nomali un ⟨את⟩ Bilamu ar tās nomali, priekšējās ģimenes dēliem no Kohata, tiem, kas palika pāri.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3318a7c8a9b65949d1784607e4149e30e3af811be872ef5b4adaa35e6ca0bcb4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/53-56.1792531240984.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un no puse ciltij Menašes ⟨את⟩ Aneru ar tā apgana laukiem un ⟨את⟩ Bilamu ar tā apgana laukiem — pārējiem Ķehata dēlu ģimenes locekļiem.",
   "tokens": [
     {
       "surface": "וממחצית",
-      "gloss": "un no puses no"
+      "gloss": "Un no puse"
     },
     {
       "surface": "מטה",
-      "gloss": "ciltsvāra"
+      "gloss": "ciltij"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menaša"
+      "gloss": "Menašes"
     },
     {
       "surface": "את",
@@ -52,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "tās nomali"
+      "marks": "apgana laukiem"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ar tās nomali"
+      "gloss": "ar tā apgana laukiem"
     },
     {
       "surface": "ואת",
@@ -70,29 +49,29 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "tās nomali"
+      "marks": "apgana laukiem"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ar tās nomali"
+      "gloss": "ar tā apgana laukiem"
     },
     {
       "surface": "למשפחת",
-      "gloss": "priekšējās ģimenes"
+      "gloss": "ģimenes locekļiem"
     },
     {
       "surface": "לבני",
-      "gloss": "dēliem"
+      "gloss": "Ķehata dēlu"
     },
     {
       "surface": "קהת",
-      "gloss": "no Kohata"
+      "gloss": "Ķehata"
     },
     {
       "surface": "הנותרים",
-      "gloss": "tiem, kas palika pāri"
+      "gloss": "pārējiem"
     }
   ],
-  "timestamp": "2026-10-20T21:20:40.985695669Z",
+  "timestamp": "2026-10-20T22:32:11.283068798Z",
   "model": "glm-5.3"
 }

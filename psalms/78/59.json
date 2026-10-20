@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 78,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sassvīla dusmās",
-      "rationale": "עבר bībnam nozīmē 'šķērsot pāri'; nāves dusmas 'pārņēma' — latviskais sakniebj intensitāti."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויתעבר\/וימאס",
-      "rationale": "Divi viena cilindra verbi pēc kārtas — dusmas un nicināšana rindā kā parallēlisms."
-    }
-  ],
-  "translation": "Elohim dzirdēja un sassvīla dusmās, un ļoti nicināja Jisraēlu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/57-60.1792527917341.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim dzirdēja ⟨to⟩ un sadusmojās, un ļoti nicināja Jisraēlu.",
   "tokens": [
     {
       "surface": "שמע",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ויתעבר",
-      "gloss": "sassvīla dusmās"
+      "gloss": "un sadusmojās"
     },
     {
-      "surface": "וימאS",
-      "gloss": "nicināja"
+      "surface": "וימאס",
+      "gloss": "un nicināja"
     },
     {
       "surface": "מאד",
@@ -53,6 +32,6 @@
       "gloss": "Jisraēlu"
     }
   ],
-  "timestamp": "2026-10-20T20:25:17.342156604Z",
+  "timestamp": "2026-10-20T23:00:21.604011391Z",
   "model": "glm-5.3"
 }

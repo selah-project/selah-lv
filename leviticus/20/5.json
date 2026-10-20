@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "זנה",
-      "rationale": "Netulības darbības vārds lietots par elku kalpošanu — burtiski 'netiklot aiz Moleha'; latviskais 'netiklot' saglabā bildi, bet zaudē spēku."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הכרתי",
-      "rationale": "Burtiski 'nogriezšu'; tulkots 'iznīdēšu' — tā pati sakne kā 'karet' (iznīcināšana) visā Tora."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve runa",
-      "rationale": "Jahve runā pirmajā personā par sodu Israēlam, ja tauta ne­soda Moleham upurējošo."
-    }
-  ],
-  "translation": "Un Es vērsīšu Savu seju pret to cilvēku un pret viņa dzimtu, un Es iznīdēšu ⟨את⟩ viņu un ⟨את⟩ visus netikļus, kas viņam seko, netiklojot aiz Moleha, no viņu tautas vidus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/20\/5-8.1792515061150.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es celšu ⟨את⟩ Savu vaigu pret to vīru un pret viņa dzimtu, un Es viņu iznīdēšu, un ⟨את⟩ visus, kas sadzenas viņam pakaļ, lai nodotos netiklībai ar Moleku, no sava tautas vidus.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "vērsīšu"
+      "gloss": "Un Es celšu"
     },
     {
       "surface": "אני",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Savu seju"
+      "marks": "Savu vaigu"
     },
     {
       "surface": "פני",
-      "gloss": "seju"
+      "gloss": "vaigu"
     },
     {
       "surface": "באיש",
-      "gloss": "pret to cilvēku"
+      "gloss": "pret to vīru"
     },
     {
       "surface": "ההוא",
@@ -73,8 +47,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "visus netikļus"
+      "gloss": "un ⟨את⟩",
+      "marks": "visus, kas sadzenas"
     },
     {
       "surface": "כל",
@@ -82,23 +56,23 @@
     },
     {
       "surface": "הזנים",
-      "gloss": "netikļus"
+      "gloss": "kas sadzenas viņam pakaļ"
     },
     {
       "surface": "אחריו",
-      "gloss": "kas viņam seko"
+      "gloss": "viņam pakaļ"
     },
     {
       "surface": "לזנות",
-      "gloss": "netiklojot"
+      "gloss": "lai nodotos netiklībai"
     },
     {
       "surface": "אחרי",
-      "gloss": "aiz"
+      "gloss": "pakaļ"
     },
     {
       "surface": "המלך",
-      "gloss": "Moleha"
+      "gloss": "Molekam"
     },
     {
       "surface": "מקרב",
@@ -106,9 +80,9 @@
     },
     {
       "surface": "עמם",
-      "gloss": "viņu tautas"
+      "gloss": "savas tautas"
     }
   ],
-  "timestamp": "2026-10-20T16:51:01.152801464Z",
+  "timestamp": "2026-10-20T22:56:06.302385602Z",
   "model": "glm-5.3"
 }

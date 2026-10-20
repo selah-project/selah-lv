@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tad",
-      "rationale": "latviešu valodai vajadzīgs secības savienotājs, ebreju והיה אם to nesatur"
-    },
-    {
-      "kind": "you",
-      "subject": "Israēlam",
-      "rationale": "lāsta saraksta ievads — tiešs uzrunas pievērsums ar nosacījumu"
-    }
-  ],
-  "translation": "Un notiks: ja neklausīsi Jahves, sava Elohim, balsī, pildīt un darīt visas Viņa pavēles un likumus, ko es tev šodien pavēlu, tad nāks pār tevi visas šīs lāsta un tevi panāks.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/13-16.1792517271492.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notiks tā: ja tu neklausīsi Jahves, sava Elohim, balsī, nesargādams un nedarīdams ⟨את⟩ visas Viņa pavēles un likumus, ko es šodien tev pavēlu, tad nāks pār tevi visas šīs lāsti un tevi panāks.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "un notiks"
+      "gloss": "Un notiks tā"
     },
     {
       "surface": "אם",
@@ -54,20 +33,20 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "sava Elohim"
+      "gloss": "tava Elohim"
     },
     {
       "surface": "לשמר",
-      "gloss": "pildīt"
+      "gloss": "sargādams"
     },
     {
       "surface": "לעשות",
-      "gloss": "un darīt"
+      "gloss": "darīdams"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visas"
+      "marks": "visas pavēles un likumus"
     },
     {
       "surface": "כל",
@@ -111,17 +90,17 @@
     },
     {
       "surface": "הקללות",
-      "gloss": "lāsta"
+      "gloss": "šīs lāsti"
     },
     {
       "surface": "האלה",
-      "gloss": "šīs"
+      "gloss": "šie"
     },
     {
       "surface": "והשיגוך",
       "gloss": "un tevi panāks"
     }
   ],
-  "timestamp": "2026-10-20T17:27:51.495598827Z",
+  "timestamp": "2026-10-20T22:40:33.788774057Z",
   "model": "glm-5.3"
 }

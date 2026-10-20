@@ -5,48 +5,27 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pilsētas",
-      "rationale": "כערים — daudzskaitlis bez nosaukuma: domātas Sodomas un Gomoras pilsētas, ko Jahve apgāza."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צהרים",
-      "rationale": "Duālis 'divgaisma' — pusdienlaiks kā divas gaismas; latviski duāļa forma izzūd."
-    }
-  ],
-  "translation": "Un lai tas vīrs ir kā pilsētas, kuras Jahve apgāza un nenožēloja; un lai viņš dzird kliedzienu rītā un trauksmi pusdienas laikā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "96109cf15cb70129ebffec679f2187f019f3c01ca858f244b51c13d0f36597bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/20\/13-16.1792523732008.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un lai tas cilvēks ir kā ⟨tās⟩ pilsētas, ko Jahve apgāza un nenožēloja, un lai viņš dzird kliegšanu no rīta un kara sauclienu pusdienas laikā.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Un lai ir"
+      "gloss": "Un lai ... ir"
     },
     {
       "surface": "האיש",
-      "gloss": "tas vīrs"
+      "gloss": "tas cilvēks"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "tas"
     },
     {
       "surface": "כערים",
-      "gloss": "kā pilsētas"
+      "gloss": "kā ⟨tās⟩ pilsētas"
     },
     {
       "surface": "אשר",
-      "gloss": "kuras"
+      "gloss": "ko"
     },
     {
       "surface": "הפך",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "נחם",
-      "gloss": "nožēloja"
+      "gloss": "nenožēloja"
     },
     {
       "surface": "ושמע",
-      "gloss": "un dzird"
+      "gloss": "un lai viņš dzird"
     },
     {
       "surface": "זעקה",
-      "gloss": "kliedzienu"
+      "gloss": "kliegšanu"
     },
     {
       "surface": "בבקר",
-      "gloss": "rītā"
+      "gloss": "no rīta"
     },
     {
       "surface": "ותרועה",
-      "gloss": "un trauksmi"
+      "gloss": "un kara sauclienu"
     },
     {
       "surface": "בעת",
@@ -89,6 +68,6 @@
       "gloss": "pusdienas"
     }
   ],
-  "timestamp": "2026-10-20T19:15:32.009390120Z",
+  "timestamp": "2026-10-20T22:49:10.484916482Z",
   "model": "glm-5.3"
 }

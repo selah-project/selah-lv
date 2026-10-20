@@ -5,42 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "השרב",
-      "rationale": "לiterāli 'trīsošis spīdums\/tvaiks' — mirāža (YL T, ASV 'glowing sand') pret KJV 'izkaltusī zeme'."
-    },
-    {
-      "kind": "crux",
-      "subject": "תנים",
-      "rationale": "תנין parasti jūras briesmonis; šeit daudzskaitlī drīzāk šakāļi (ASV, JPS) nevis 'pūķi' (KJV)."
-    },
-    {
-      "kind": "crux",
-      "subject": "רבצה",
-      "rationale": "Vai רבצה ir darbības vārds 'tie gulēja (guļ)' (KJV), vai lietvārds 'gulēšanas vieta' (YT 'kūts'), vai JPS lasījums 'bari gulēs' — tekstā neskaidrs."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨augs⟩",
-      "rationale": "Ebreju valodā teikumā nav darbības vārda 'augt'; latviešu valodai tāds vajadzīgs."
-    }
-  ],
-  "translation": "Un kļūs mirāža par ezeru, un izkaltusī zeme par ūdens avotiem; šakāļu midzenī, kur tie gulēja, <augs> zāle niedrēm un papirusam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "be75876a1b44bb3bc798377503c19825ba119cb5c6c409cb254b75bfb2685f25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/35\/5-8.1792522542478.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨ir⟩: mirāža kļūs par ezeru, un izslāpušā zeme par ūdens avotiem; šakāļu mītnē, viņu guļas vietā, zāle niedrēm un papiruss.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Un kļūs"
+      "gloss": "Un ⟨ir⟩:"
     },
     {
       "surface": "השרב",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "וצמאון",
-      "gloss": "un izkaltusī zeme"
+      "gloss": "un izslāpušā zeme"
     },
     {
       "surface": "למבועי",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "בנוה",
-      "gloss": "midzenī"
+      "gloss": "mītnē"
     },
     {
       "surface": "תנים",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "רבצה",
-      "gloss": "kur tie gulēja"
+      "gloss": "guļas vietā"
     },
     {
       "surface": "חציר",
@@ -84,9 +53,9 @@
     },
     {
       "surface": "וגמא",
-      "gloss": "un papirusam"
+      "gloss": "un papiruss"
     }
   ],
-  "timestamp": "2026-10-20T18:55:42.479684657Z",
+  "timestamp": "2026-10-20T22:47:55.681420815Z",
   "model": "glm-5.3"
 }

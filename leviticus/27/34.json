@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Latviešu valodai vajag saikli; ebreju teikumā nav"
-    },
-    {
-      "kind": "measurement",
-      "subject": "baušļi",
-      "rationale": "3. Mozus grāmatas noslēguma公式 — pavēļu saraksta apzīmējums Sinaja kalnā"
-    }
-  ],
-  "translation": "Šie ir baušļi, kurus Jahve pavēlēja ⟨את⟩ Mošem Jisraēla dēliem Sinaja kalnā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c3fce8cb71bd990fd235cbaa466bf251a5fcc5af8609747b14222a7368190708",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/27\/33-34.1792515274884.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šīs ir ⟨ir⟩ pamācības, ko Jahve pavēlēja ⟨את⟩ Mošem Jisraēla dēliem Sinaja kalnā.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Šie"
+      "gloss": "Šīs"
     },
     {
       "surface": "המצות",
-      "gloss": "ir baušļi"
+      "gloss": "pamācības"
     },
     {
       "surface": "אשר",
-      "gloss": "kurus"
+      "gloss": "ko"
     },
     {
       "surface": "צוה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "priekš"
     },
     {
       "surface": "בני",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "בהר",
-      "gloss": "Sinaja kalnā"
+      "gloss": "kalnā"
     },
     {
       "surface": "סיני",
-      "gloss": ""
+      "gloss": "Sinaja"
     }
   ],
-  "timestamp": "2026-10-20T16:54:34.885707073Z",
+  "timestamp": "2026-10-20T22:55:44.286837207Z",
   "model": "glm-5.3"
 }

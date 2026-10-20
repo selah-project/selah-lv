@@ -5,44 +5,23 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨viņi⟩ · ⟨ir⟩ · ⟨būs⟩",
-      "rationale": "aramiešu teikumā nav izteikta subjekta un kopulas; latviešu valoda tās pieprasa"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Eloah",
-      "rationale": "aramiešu אלהה atbilst ebreju Eloah — saglabāts pēc skanējuma, nav aizstāts ar 'Dievs'"
-    }
-  ],
-  "translation": "No manis tiek izdots dekrēts, ka visā manas ķēniņvalsts varā ⟨viņi⟩ dreb un bīstas Daniēla Eloah priekšā, jo viņš ⟨ir⟩ dzīvais Eloah, kas pastāv mūžīgi, un viņa ķēniņvalsts netiks iznīcināta, un viņa vara ⟨būs⟩ līdz galam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6099bf22f30c54ccaacd3a817ac72037687bf545e03194fd0bf91fb911b0062a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/25-28.1792530430483.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No manas ⟨puses⟩ tiek dota pavēle, ka visā manas valstības varā ⟨viņi⟩ trīc un baidās no Daniēla Elohim priekšā, jo Viņš ir dzīvais Eloah un paliek mūžīgi, un Viņa valstība ir tā, kas netiks iznīcināta, un Viņa vara ⟨sniegsies⟩ līdz galam.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "קדמי",
-      "gloss": "manis"
+      "gloss": "manas ⟨puses⟩ priekšā"
     },
     {
       "surface": "שים",
-      "gloss": "tiek izdots"
+      "gloss": "tiek dota"
     },
     {
       "surface": "טעם",
-      "gloss": "dekrēts"
+      "gloss": "pavēle"
     },
     {
       "surface": "די",
@@ -58,47 +37,47 @@
     },
     {
       "surface": "מלכותי",
-      "gloss": "manas ķēniņvalsts"
+      "gloss": "manas valstības"
     },
     {
       "surface": "להון",
-      "gloss": "⟨viņi⟩"
+      "gloss": "⟨viņi⟩ ir"
     },
     {
       "surface": "זאעין",
-      "gloss": "dreb"
+      "gloss": "trīc"
     },
     {
       "surface": "ודחלין",
-      "gloss": "un bīstas"
+      "gloss": "un baidās"
     },
     {
       "surface": "מן",
-      "gloss": "priekšā"
+      "gloss": "no"
     },
     {
       "surface": "קדם",
-      "gloss": ""
+      "gloss": "priekšā"
     },
     {
       "surface": "אלהה",
-      "gloss": "Eloah"
+      "gloss": "Elohim"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ko"
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniēla"
+      "gloss": "Daniēls"
     },
     {
       "surface": "די",
-      "gloss": "jo"
+      "gloss": "ka"
     },
     {
       "surface": "הוא",
-      "gloss": "viņš"
+      "gloss": "Viņš"
     },
     {
       "surface": "אלהא",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "וקים",
-      "gloss": "kas pastāv"
+      "gloss": "un paliek"
     },
     {
       "surface": "לעלמין",
@@ -118,11 +97,11 @@
     },
     {
       "surface": "ומלכותה",
-      "gloss": "un viņa ķēniņvalsts"
+      "gloss": "un Viņa valstība"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ir tā, kas"
     },
     {
       "surface": "לא",
@@ -134,7 +113,7 @@
     },
     {
       "surface": "ושלטנה",
-      "gloss": "un viņa vara"
+      "gloss": "un Viņa vara"
     },
     {
       "surface": "עד",
@@ -145,6 +124,6 @@
       "gloss": "galam"
     }
   ],
-  "timestamp": "2026-10-20T21:07:10.484608102Z",
+  "timestamp": "2026-10-20T22:39:14.968683573Z",
   "model": "glm-5.3"
 }

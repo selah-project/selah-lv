@@ -5,51 +5,30 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מקנהם \/ וקנינם",
-      "rationale": "Sakne קנה divreiz pēc kārtas — 'ganāmpulks' un 'ieguvums', atbalss latviešu valodā izzūd"
-    },
-    {
-      "kind": "you",
-      "subject": "pilsētas vīrieši",
-      "rationale": "Hamora un Šehema pārliecināšanas runa: īstenais motīvs — īpašums"
-    }
-  ],
-  "translation": "Viņu ganāmpulks un viņu ieguvums un visi viņu lopi — vai tie nav mūsu? Tikai piekritīsim viņiem, un tie dzīvos ⟨את⟩ mums.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "23860be52fcba231d83b894d1860d109c6890593c93c0c1549e60c6c94b6adef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/34\/21-24.1792512307376.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņu lopi un viņu īpašumi un visa viņu saimniecība — vai tie nav ⟨ir⟩ mūsu? Tikai piekritīsim viņiem, un viņi dzīvos ⟨את⟩ ar mums.",
   "tokens": [
     {
       "surface": "מקנהם",
-      "gloss": "viņu ganāmpulks"
+      "gloss": "viņu lopi"
     },
     {
       "surface": "וקנינם",
-      "gloss": "un viņu ieguvums"
+      "gloss": "un viņu īpašumi"
     },
     {
       "surface": "וכל",
-      "gloss": "un visi"
+      "gloss": "un visa"
     },
     {
       "surface": "בהמתם",
-      "gloss": "viņu lopi"
+      "gloss": "viņu saimniecība"
     },
     {
       "surface": "הלוא",
       "gloss": "vai tie nav"
     },
     {
-      "surface": "לנu",
+      "surface": "לנו",
       "gloss": "mūsu"
     },
     {
@@ -70,13 +49,14 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "un tie dzīvos"
+      "gloss": "un viņi dzīvos"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ ar mums"
+      "gloss": "⟨את⟩ ar mums",
+      "marks": "ar mums"
     }
   ],
-  "timestamp": "2026-10-20T16:05:07.377414287Z",
+  "timestamp": "2026-10-20T22:46:44.462821436Z",
   "model": "glm-5.3"
 }

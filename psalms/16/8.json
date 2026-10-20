@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Viņš ir",
-      "rationale": "Ebreju tekstā nav subjekta un saikles — 'jo no manas labās puses nešļūdīšu'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nešļūkšu",
-      "rationale": "אמוט burtiski 'nekļūdīšos, nesvārstīšos, nenorimšu' — svārstīšanās un grīļošanās aina."
-    }
-  ],
-  "translation": "Es pastāvīgi licu Jahvi sev pretī, jo Viņš ⟨ir⟩ pie manas labās rokas — es nešļūkšu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/16\/5-8.1792527125608.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Es noliku Jahvi sev pretī vienmēr, jo no ⟨manas⟩ labās rokas puses — ⟨viņš ir tur⟩ — es nemočos.",
   "tokens": [
     {
-      "surface": "שוizti",
-      "gloss": "licu pretī"
+      "surface": "שויתי",
+      "gloss": "noliku (novērsu acis no visa cita un līdzināju)"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תמיד",
-      "gloss": "pastāvīgi"
+      "gloss": "vienmēr"
     },
     {
       "surface": "כי",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "מימיני",
-      "gloss": "pie manas labās rokas"
+      "gloss": "no manas labās rokas puses"
     },
     {
       "surface": "בל",
-      "gloss": "ne"
+      "gloss": "nē \/ nemaz"
     },
     {
       "surface": "אמוט",
-      "gloss": "es šļūkšu"
+      "gloss": "es nemočos"
     }
   ],
-  "timestamp": "2026-10-20T20:12:05.612657685Z",
+  "timestamp": "2026-10-20T22:59:53.168774785Z",
   "model": "glm-5.3"
 }

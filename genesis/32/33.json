@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā nav saikļa; latviešu valodā nepieciešams ⟨ir⟩."
-    },
-    {
-      "kind": "crux",
-      "subject": "הנשה",
-      "rationale": "Hapax cīpslas nosaukums, kas atvasināts no šā notikuma — 'saspringusi\/savainotā cīpsla'; dažādi tulkojumi: 'kas savilkās' (KJV) pret 'gurna cīpsla' (ASV)."
-    },
-    {
-      "kind": "hapax",
-      "subject": "נשה",
-      "rationale": "Vārds גיד הנשה parādās tikai šajā stāstā Tanahā."
-    }
-  ],
-  "translation": "Tāpēc Jisraēla dēli neēd ⟨את⟩ cīpslu, kas ir saspringusi, kas ⟨ir⟩ uz gurna iedobes, līdz šai dienai, jo viņš aizskāra Jaakova gurna iedobi, ⟨tieši⟩ pie cīpslas, kas saspringusi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c85a5f02a10cfb266a89a45e2499ee4ecc0ebd2905af93561fcec9bf904131f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/33-33.1792512179678.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc Jisraēla dēli līdz šai dienai neēd ⟨את⟩ cīpslu noslāpējušo, kas ir uz gurna iedobes, jo ⟨viņš⟩ skāra Jaakova gurna iedobi cīpslā noslāpējušajā.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Tāpēc"
+      "gloss": "tāpēc"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "tāpēc"
     },
     {
       "surface": "לא",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cīpslu, kas saspringusi"
+      "marks": "cīpslu noslāpējušo"
     },
     {
       "surface": "גיד",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "הנשה",
-      "gloss": "kas saspringusi"
+      "gloss": "noslāpējušo"
     },
     {
       "surface": "אשר",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "dieni"
+      "gloss": "diena"
     },
     {
       "surface": "הזה",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "נגע",
-      "gloss": "aizskāra"
+      "gloss": "skāra"
     },
     {
       "surface": "בכף",
-      "gloss": "iedobi"
+      "gloss": "iedobē"
     },
     {
       "surface": "ירך",
@@ -120,13 +94,13 @@
     },
     {
       "surface": "בגיד",
-      "gloss": "pie cīpslas"
+      "gloss": "cīpslā"
     },
     {
       "surface": "הנשה",
-      "gloss": "kas saspringusti"
+      "gloss": "noslāpējušajā"
     }
   ],
-  "timestamp": "2026-10-20T16:02:59.678836394Z",
+  "timestamp": "2026-10-20T22:46:30.513994169Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,16 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כרתי ופלתי",
-      "rationale": "keretieši un peletieši — Dāvida miesassargi; daži lasa tos kā tautas (keretieši no Krētas), citi kā amata nosaukumu"
-    }
-  ],
-  "translation": "Un ķēniņš nosūtīja ar ⟨את⟩ viņu ⟨את⟩ Cadoku priesteri un ⟨את⟩ Natanu pravieti, un Benajahu, Jehojadas dēlu, un keretiešus un peletiešus, un tie viņu uzsēdināja uz ķēniņa mūļienes.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/41-44.1792520350390.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ķēniņš sūtīja ar ⟨את⟩ viņu Cadoku priesteri un ⟨את⟩ Natanu pravieti un Benajahu, Jehojadas dēlu, un keretiešus un peletiešus, un tie uzsēdināja ⟨את⟩ viņu uz ķēniņa ēzeļu mātes.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Un nosūtīja"
+      "gloss": "Un sūtīja"
     },
     {
       "surface": "אתו",
-      "gloss": "ar ⟨את⟩ viņu"
+      "gloss": "⟨את⟩ ar viņu",
+      "marks": "ar viņu"
     },
     {
       "surface": "המלך",
@@ -38,7 +23,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Cadoku priesteri"
+      "marks": "Cadoku"
     },
     {
       "surface": "צדוק",
@@ -51,7 +36,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "Natanu pravieti"
+      "marks": "Natanu"
     },
     {
       "surface": "נתן",
@@ -75,11 +60,11 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "un keretiešus"
+      "gloss": "un keretieši"
     },
     {
       "surface": "והפלתי",
-      "gloss": "un peletiešus"
+      "gloss": "un peletieši"
     },
     {
       "surface": "וירכבו",
@@ -88,7 +73,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ viņu",
-      "marks": "viņu (Šelomo)"
+      "marks": "viņu"
     },
     {
       "surface": "על",
@@ -96,13 +81,13 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "mūļienes"
+      "gloss": "ēzeļu mātes"
     },
     {
       "surface": "המלך",
       "gloss": "ķēniņa"
     }
   ],
-  "timestamp": "2026-10-20T18:19:10.391268449Z",
+  "timestamp": "2026-10-20T22:32:30.361902666Z",
   "model": "glm-5.3"
 }

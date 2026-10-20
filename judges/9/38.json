@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "איה אפוא פיך",
-      "rationale": "Burtiski 'kur tagad tava mute' — izsmiekls par lielību."
-    },
-    {
-      "kind": "elision",
-      "subject": "עתה",
-      "rationale": "נא un עתה abi nozīmē 'tagad'; viens latviski pietiek."
-    }
-  ],
-  "translation": "Un Zebuls sacīja viņam: Kur tagad ir tava mute, ar kuru tu teici: Kas ir Avimelehs, ka mēs viņam kalpotu? Vai tad šis nav tas ļaužu pulks, kuru tu nicināji? Izej tagad un cīnies ar viņu!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "174d6767fe2ab88d55cebf08c31eb1ff3466d47f501c90b17a57d4cf1b9539e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/37-40.1792518399854.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Zebuls viņam sacīja: Kur tagad ir tava mute, ar kuru tu teici: Kas ⟨ir⟩ Avimelehs, ka mēs viņu kalpotu? Vai tad nav šis ⟨ir⟩ ļaudis, ko tu nicināji? Izej tagad, es lūdzu, un cīnies ar viņiem!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אבימלך",
-      "gloss": "ir Avimelehs"
+      "gloss": "Avimelehs"
     },
     {
       "surface": "כי",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "נעבדנו",
-      "gloss": "mēs viņam kalpotu"
+      "gloss": "mēs viņu kalpotu"
     },
     {
       "surface": "הלא",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "tas ļaužu pulks"
+      "gloss": "ļaudis"
     },
     {
       "surface": "אשר",
-      "gloss": "kuru"
+      "gloss": "ko"
     },
     {
       "surface": "מאסתה",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "tagad"
+      "gloss": "es lūdzu"
     },
     {
       "surface": "עתה",
-      "gloss": ""
+      "gloss": "tagad"
     },
     {
       "surface": "והלחם",
@@ -118,9 +97,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "ar viņu"
+      "gloss": "ar viņiem"
     }
   ],
-  "timestamp": "2026-10-20T17:46:39.855637884Z",
+  "timestamp": "2026-10-20T23:21:48.662738616Z",
   "model": "glm-5.3"
 }

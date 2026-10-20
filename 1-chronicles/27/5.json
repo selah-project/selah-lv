@@ -5,41 +5,15 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩",
-      "rationale": "Ebreju tekstam nav saikļa; latviešu valodai vajag 'bija' divreiz"
-    },
-    {
-      "kind": "crux",
-      "subject": "priesteris, priekšnieks",
-      "rationale": "ראש pēc הכהן: 'priesteris, galva' — vai Benajahu bija priesteris, vai 'Jehojada priesteris, priekšnieks' (galvenais) — tulkotāji šķiras"
-    },
-    {
-      "kind": "measurement",
-      "subject": "divdesmit un četri tūkstoši",
-      "rationale": "Nodaļas skaitliskais sastāvs — 24 000 vīru"
-    }
-  ],
-  "translation": "Trešās karaspēka vienības priekšnieks trešajam mēnesim ⟨bija⟩ Benajahu, Jehojadas dēls, priesteris, priekšnieks, un virs viņa nodaļas ⟨bija⟩ divdesmit un četri tūkstoši.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/27\/5-8.1792531608922.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Trešās karaspēka daļas virsnieks trešajam mēnesim bija Benajahu, Jehojadas dēls, priesteris, ⟨priekšnieks⟩; un viņa nodaļā ⟨bija⟩ divdesmit četri tūkstoši.",
   "tokens": [
     {
       "surface": "שר",
-      "gloss": "priekšnieks"
+      "gloss": "virsnieks"
     },
     {
       "surface": "הצבא",
-      "gloss": "karaspēka"
+      "gloss": "karaspēka daļas"
     },
     {
       "surface": "השלישי",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "ראש",
-      "gloss": "priekשnieks"
+      "gloss": "priekšnieks"
     },
     {
       "surface": "ועל",
-      "gloss": "un virs"
+      "gloss": "un viņa nodaļā"
     },
     {
       "surface": "מחלקתו",
-      "gloss": "viņa nodaļas"
+      "gloss": "nodaļā"
     },
     {
       "surface": "עשרים",
@@ -87,13 +61,13 @@
     },
     {
       "surface": "וארבעה",
-      "gloss": "un četri"
+      "gloss": "četri"
     },
     {
       "surface": "אלף",
       "gloss": "tūkstoši"
     }
   ],
-  "timestamp": "2026-10-20T21:26:48.923426670Z",
+  "timestamp": "2026-10-20T22:32:02.933015345Z",
   "model": "glm-5.3"
 }

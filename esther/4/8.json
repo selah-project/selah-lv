@@ -5,42 +5,16 @@
   "book": "esther",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פתשגן",
-      "rationale": "persiešu izcelsmes vārds 'kopija' — Tanahā ļoti reti"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מלפניו",
-      "rationale": "burtiski 'no viņa vaiga priekšas' — 'viņa priekšā, viņam personīgi'"
-    },
-    {
-      "kind": "you",
-      "subject": "pavēlēja Esterei",
-      "rationale": "Mordehaja pavēle Esterei — netiešs uzrunas aktts caur Hasahu"
-    }
-  ],
-  "translation": "Un raksta kopiju — ķēniņa likuma, kas bija dots Šušānā, lai tos iznīcinātu, — ⟨את⟩ šo viņš deva viņam, lai parādītu Esterei un pavēstītu viņai, un lai pavēlētu viņai iet pie ķēniņa, lūgt viņam žēlastību un meklēt viņa vaiga priekšā par viņas tautu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/5-8.1792530102058.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ norakstu likuma raksta, kas tika dots Šušanā, lai tos iznīcinātu, viņš viņam deva, lai parādītu Esterai ⟨את⟩ un pavēstītu viņai, un lai viņai pavēlētu iet pie ķēniņa, lūgt viņam žēlastību un meklēt no viņa ⟨sejas⟩ par savu tautu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
-      "marks": "raksta kopiju"
+      "gloss": "⟨את⟩",
+      "marks": "norakstu likuma raksta"
     },
     {
       "surface": "פתשגן",
-      "gloss": "kopiju"
+      "gloss": "norakstu"
     },
     {
       "surface": "כתב",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "bija dots"
+      "gloss": "tika dots"
     },
     {
       "surface": "בשושן",
-      "gloss": "Šušānā"
+      "gloss": "Šušanā"
     },
     {
       "surface": "להשמידם",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "deva"
+      "gloss": "viņš deva"
     },
     {
       "surface": "לו",
@@ -81,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Esterei"
+      "marks": "Esterai"
     },
     {
       "surface": "אסתר",
-      "gloss": "Esterei"
+      "gloss": "Esterai"
     },
     {
       "surface": "ולהגיד",
@@ -129,7 +103,7 @@
     },
     {
       "surface": "מלפניו",
-      "gloss": "viņa vaiga priekšā"
+      "gloss": "no viņa ⟨sejas⟩"
     },
     {
       "surface": "על",
@@ -137,9 +111,9 @@
     },
     {
       "surface": "עמה",
-      "gloss": "viņas tautu"
+      "gloss": "savu tautu"
     }
   ],
-  "timestamp": "2026-10-20T21:01:42.060282651Z",
+  "timestamp": "2026-10-20T22:41:18.755699456Z",
   "model": "glm-5.3"
 }

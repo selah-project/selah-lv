@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "pakārs",
-      "rationale": "תעקר nozīmē gan 'izraut ar saknēm', gan 'izkopt (zirgam cīpslu)'; latviski vēsturiski lietots 'pakārt zirgu' = cīpslas pārgriezšana; izvēlētais izkāpšana\/pakāršana atstāj abas nozīmes"
-    },
-    {
-      "kind": "you",
-      "subject": "Jehošua",
-      "rationale": "Jahve tieši uzrunā Jehošua — mudinājuma runa 'nebīsties' pirms kaujas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kaujas rati",
-      "rationale": "מרכבה apzīmē karavānu ratu (cīņas ratus); 'kaujas rati' saglabā nozīmi bez vēlākas modifikācijas"
-    }
-  ],
-  "translation": "Un Jahve sacīja Jehošua: Nebīsties no viņiem, jo rīt ap šo laiku es došu ⟨את⟩ viņus visus nogalinātus Jisraēla priekšā; ⟨את⟩ viņu zirgus tu pakārs (sa-ēdēsi?) — viņu zirgus tu izkāpos (padarīsi kroplus) un ⟨את⟩ viņu kaujas ratus tu sadedzināsi ugunī.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/11\/5-8.1792517838517.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja Jehošua: nebīsties no viņiem, jo rīt ap šo pašu laiku es došu ⟨את⟩ viņus visus nogalinātus Jisraēla priekšā; viņu zirgus tu izlamāsi ⟨את⟩, un viņu ratniekus tu sadedzināsi ugunī ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "[teikuma sākuma daļa]"
+      "gloss": "uz"
     },
     {
       "surface": "יהושע",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Nē \/ nebīsties [negācija]"
+      "gloss": "ne"
     },
     {
       "surface": "תירא",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "šo"
+      "gloss": "šo pašu"
     },
     {
       "surface": "אנכי",
@@ -95,7 +69,7 @@
       "gloss": "visus"
     },
     {
-      "surface": "חלалים",
+      "surface": "חללים",
       "gloss": "nogalinātus (caurdurtus)"
     },
     {
@@ -104,12 +78,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraēla"
+      "gloss": "Jisraēls"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņu zirgus"
+      "marks": "viņu zirgiem"
     },
     {
       "surface": "סוסיהם",
@@ -117,26 +91,26 @@
     },
     {
       "surface": "תעקר",
-      "gloss": "tu padarīsi kroplus (izrausi cēlu \/ izkāpos)"
+      "gloss": "izlamāsi (saknes izrausi)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "viņu kaujas ratus"
+      "marks": "viņu ratniekiem"
     },
     {
       "surface": "מרכבתיהם",
-      "gloss": "viņu kaujas ratus"
+      "gloss": "viņu ratniekus"
     },
     {
       "surface": "תשרף",
-      "gloss": "tu sadedzināsi"
+      "gloss": "sadedzināsi"
     },
     {
       "surface": "באש",
       "gloss": "ugunī"
     }
   ],
-  "timestamp": "2026-10-20T17:37:18.518286865Z",
+  "timestamp": "2026-10-20T22:52:34.351680213Z",
   "model": "glm-5.3"
 }

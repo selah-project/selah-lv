@@ -5,50 +5,24 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש א חיה ir 'elpojoša, dzīva būtne' — dzīvības spēks, ne dvēsele platoniskā nozīmē."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodai nav izteikta darāmā vārda 'ir'; latviešu valodai tas vajadzīgs."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בעוף...בבהמה...ובכל חית",
-      "rationale": "Trīskāršs 'b-' prievārdu atkārtojums — kategoriju uzskaitījuma ritms."
-    }
-  ],
-  "translation": "un ⟨את⟩ katru dzīvu dvēseli, kas ⟨ir⟩ pie jums — putnos, lopos un visos zemes zvēros, kas ⟨ir⟩ pie jums; no visiem, kas izgāja no šķirsta, visiem zemes zvēriem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/9\/9-12.1792511556698.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ visu elpojošo dzīvo radību, kas ir ar jums, — putnus, lopus un visu zemes zvēru, kas ir ar jums, — no visiem, kas izgāja no šķirsta, visam zemes zvēram.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
-      "marks": "katru dzīvu dvēseli"
+      "gloss": "⟨את⟩",
+      "marks": "visu elpojošo dzīvo radību"
     },
     {
       "surface": "כל",
-      "gloss": "katru"
+      "gloss": "visu"
     },
     {
       "surface": "נפש",
-      "gloss": "dvēseli"
+      "gloss": "elpojošo radību"
     },
     {
       "surface": "החיה",
-      "gloss": "dzīvu"
+      "gloss": "dzīvo"
     },
     {
       "surface": "אשר",
@@ -56,23 +30,23 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pie jums"
+      "gloss": "⟨את⟩ ir ar jums"
     },
     {
       "surface": "בעוף",
-      "gloss": "putnos"
+      "gloss": "putnus"
     },
     {
       "surface": "בבהמה",
-      "gloss": "lopos"
+      "gloss": "lopus"
     },
     {
       "surface": "ובכל",
-      "gloss": "un visos"
+      "gloss": "un visu"
     },
     {
       "surface": "חית",
-      "gloss": "zvēros"
+      "gloss": "zvēru"
     },
     {
       "surface": "הארץ",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pie jums"
+      "gloss": "⟨את⟩ kas ir ar jums"
     },
     {
       "surface": "מכל",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "לכל",
-      "gloss": "visiem"
+      "gloss": "visam"
     },
     {
       "surface": "חית",
-      "gloss": "zvēriem"
+      "gloss": "zvēram"
     },
     {
       "surface": "הארץ",
       "gloss": "zemes"
     }
   ],
-  "timestamp": "2026-10-20T15:52:36.699846873Z",
+  "timestamp": "2026-10-20T22:47:28.976285098Z",
   "model": "glm-5.3"
 }

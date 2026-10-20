@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ואחריתך",
-      "rationale": "אחרית atkārtots divreiz vienā pantā — 'tavs atlikums' atbilstība atstāta, atkārtojums saglabāts"
-    },
-    {
-      "kind": "substitution",
-      "subject": "skaudība",
-      "rationale": "קנאה ir greizsirdība\/skaudība dievišķās laulības kontekstā, ne vien parasts skaudības jēdziens"
-    }
-  ],
-  "translation": "Un es nostādīšu savu skaudību pret tevi, un viņi rīkosies ar tevi niknumā: tavu degunu un tavas ausis viņi noņems, un tavs atlikums kritīs no zobena; viņi — tavus dēlus un tavas meitas viņi paņems, un tavs atlikums tiks apēsts ugunī.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5b07c61ef82a1e11b42ff40c162c7220764ca327f1b1c08ec3352c0f867bf8d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/25-28.1792525287180.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es ielikšu savu greizsirdību tevī, un viņi rīkosies ar tevi ⟨את⟩ bardzībā; tavu degunu un tavas ausis viņi nogriezīs, un tavs atlikums kritīs no zobena; viņi, tavi dēli un tavas meitas, tiks aizvesti, un tavs atlikums tiks aprīts ugunī.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "Un es nostādīšu"
+      "gloss": "Un es ielikšu"
     },
     {
       "surface": "קנאתי",
-      "gloss": "savu skaudību"
+      "gloss": "savu greizsirdību"
     },
     {
       "surface": "בך",
-      "gloss": "pret tevi"
+      "gloss": "tevī"
     },
     {
       "surface": "ועשו",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tevi",
-      "marks": "rīkosies niknumā"
+      "gloss": "⟨את⟩",
+      "marks": "ar tevi"
     },
     {
       "surface": "בחמה",
-      "gloss": "niknumā"
+      "gloss": "bardzībā"
     },
     {
       "surface": "אפך",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "יסירו",
-      "gloss": "viņi noņems"
+      "gloss": "viņi nogriezīs"
     },
     {
       "surface": "ואחריתך",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "בניך",
-      "gloss": "tavus dēlus"
+      "gloss": "tavi dēli"
     },
     {
       "surface": "ובנותיך",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "יקחו",
-      "gloss": "viņi paņems"
+      "gloss": "tiks aizvesti"
     },
     {
       "surface": "ואחריתך",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "tiks apēsts"
+      "gloss": "tiks aprīts"
     },
     {
       "surface": "באש",
       "gloss": "ugunī"
     }
   ],
-  "timestamp": "2026-10-20T19:41:27.181260009Z",
+  "timestamp": "2026-10-20T22:44:08.344543019Z",
   "model": "glm-5.3"
 }

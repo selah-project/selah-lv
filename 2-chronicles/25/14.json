@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dievus",
-      "rationale": "אלהי שעיר — Sēra dievi: ārzemju dievi ar mazo burtu, ne Elohim Izraēla Dievs"
-    },
-    {
-      "kind": "addition",
-      "subject": "ka",
-      "rationale": "Latviešu teikuma struktūrai vajadzīgs saistītājs, ebreju valodā nav"
-    }
-  ],
-  "translation": "Un notika pēc tam, kad Amacjahu bija atgriezies no edomīšu sakāvēs, ka viņš atveda ⟨את⟩ Seīra dēlu dievus un nostādīja tos sev par dieviem un to priekšā priekšniecībā metās un tiem kūpināja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/25\/13-16.1792532242683.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, pēc tam kad Amacjahu atgriezās no ⟨את⟩ edomīšu sakaušanas, viņš atveda ⟨את⟩ Seīra dēlu dievus un nostādīja ⟨tos⟩ sev par dieviem, un tie priekšā viņš dzīrās, un tiem viņš kvēpināja.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "pēc tam, kad"
+      "gloss": "pēc tam kad"
     },
     {
       "surface": "בוא",
-      "gloss": "bija atgriezies"
+      "gloss": "atgriezās"
     },
     {
       "surface": "אמציהו",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "מהכות",
-      "gloss": "no sakāvēs"
+      "gloss": "no sakaušanas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "edomīšus"
+      "marks": "edomīšu"
     },
     {
       "surface": "אדומים",
@@ -64,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dievus"
+      "marks": "Seīra dēlu dievus"
     },
     {
       "surface": "אלהי",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "ישתחוה",
-      "gloss": "metās pie zemes"
+      "gloss": "viņš dzīrās"
     },
     {
       "surface": "ולהם",
@@ -104,9 +83,9 @@
     },
     {
       "surface": "יקטר",
-      "gloss": "kūpināja"
+      "gloss": "viņš kvēpināja"
     }
   ],
-  "timestamp": "2026-10-20T21:37:22.684789906Z",
+  "timestamp": "2026-10-20T22:35:20.952042996Z",
   "model": "glm-5.3"
 }

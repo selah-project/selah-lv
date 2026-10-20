@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "הארגז",
-      "rationale": "ארגז 'lāde' Tanahā parādās tikai šajā nodaļā (6.p. 11., 15. pants)."
-    }
-  ],
-  "translation": "Un levīti nolaida ⟨את⟩ Jahves šķirstu un ⟨את⟩ lādi, kas ⟨bija⟩ pie tās, kur ⟨bija⟩ zelta trauki, un nolika tos pie lielā akmens; un Bejt-Šemešas vīri izcēla deguplāvus un upurēja upurus tajā dienā Jahvem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/6\/13-16.1792518854567.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un levīti nolaida Jahves šķirstu un ⟨את⟩ lādi, kas bija pie tā, kurā bija zelta priekšmeti, un nolika tos uz lielā akmens; un Bet Šemešas vīri tanī dienā uzcēla degupurus un nokāuva upurus Jahvem.",
   "tokens": [
     {
       "surface": "והלוים",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves šķirstu"
+      "marks": "šķirstu"
     },
     {
       "surface": "ארון",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "un ⟨את⟩",
       "marks": "lādi"
     },
     {
@@ -59,11 +43,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ pie tās"
+      "gloss": "pie ⟨את⟩-viņa"
     },
     {
       "surface": "אשר",
-      "gloss": "kur"
+      "gloss": "kurā"
     },
     {
       "surface": "בו",
@@ -71,7 +55,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "trauki"
+      "gloss": "priekšmeti"
     },
     {
       "surface": "זהב",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "pie"
+      "gloss": "uz"
     },
     {
       "surface": "האבן",
@@ -99,23 +83,23 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bejt-Šemešas"
+      "gloss": "Bet"
     },
     {
       "surface": "שמש",
-      "gloss": "(pilsētas)"
+      "gloss": "Šemešas"
     },
     {
       "surface": "העלו",
-      "gloss": "izcēla"
+      "gloss": "uzcēla"
     },
     {
       "surface": "עלות",
-      "gloss": "deguplāvus"
+      "gloss": "degupurus"
     },
     {
       "surface": "ויזבחו",
-      "gloss": "un upurēja"
+      "gloss": "un nokāuva upurus"
     },
     {
       "surface": "זבחים",
@@ -123,17 +107,17 @@
     },
     {
       "surface": "ביום",
-      "gloss": "tajā dienā"
+      "gloss": "tanī dienā"
     },
     {
       "surface": "ההוא",
-      "gloss": "(to)"
+      "gloss": "tanī"
     },
     {
       "surface": "ליהוה",
       "gloss": "Jahvem"
     }
   ],
-  "timestamp": "2026-10-20T17:54:14.568723858Z",
+  "timestamp": "2026-10-20T22:34:56.747856824Z",
   "model": "glm-5.3"
 }

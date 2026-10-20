@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 102,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņš",
-      "rationale": "Ebreju valodā trūkst darbības vārda subjekta; pievienots vietasrādītājs."
-    },
-    {
-      "kind": "crux",
-      "subject": "שיחו",
-      "rationale": "'vaimana\/sižets\/pārdoma' — attēlojums svārstās starp 'sūdzību' un 'meditāciju'."
-    }
-  ],
-  "translation": "Lūgšana nolaistajam, kad viņš nomākts, un pirms Jahves viņš izlej ⟨את⟩ savu vaimanu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/1-4.1792528130719.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lūgšana ⟨apspiestajam⟩, kad viņu aptver ◄nomāktība►, un viņš izlej savu vaimanu Jahves priekšā.",
   "tokens": [
     {
       "surface": "תפלה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לעני",
-      "gloss": "nolaistajam"
+      "gloss": "apspiestajam"
     },
     {
       "surface": "כי",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "יעטף",
-      "gloss": "nomākts"
+      "gloss": "apņem\/nomāc"
     },
     {
       "surface": "ולפני",
-      "gloss": "un pirms"
+      "gloss": "un ... priekšā"
     },
     {
       "surface": "יהוה",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "ישפך",
-      "gloss": "viņš izlej"
+      "gloss": "izlej"
     },
     {
       "surface": "שיחו",
-      "gloss": "⟨את⟩ savu vaimanu"
+      "gloss": "savu vaimanu"
     }
   ],
-  "timestamp": "2026-10-20T20:28:50.720319243Z",
+  "timestamp": "2026-10-20T22:59:21.697086634Z",
   "model": "glm-5.3"
 }

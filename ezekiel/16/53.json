@@ -5,59 +5,33 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבתי\/שבית",
-      "rationale": "Darbības vārds 'atgriezt' un lietvārds 'trimda' no vienas saknes שׁוב — pieckārša atkārtošanās, latviski daļēi zudusi."
-    },
-    {
-      "kind": "crux",
-      "subject": "ševut atgriešana",
-      "rationale": "שבות var nozīmēt gan 'trimda', gan 'bijušais labklājības stāvoklis' — BSB 'restore from captivity' pret YLT 'turn back their captivity'."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju teikumā nav izteikts piederības sakars starp 'trimdu' un pilsētu vārdiem; latviešu ģenitīvs to pievieno."
-    }
-  ],
-  "translation": "Un atgriezīšu viņu trimdu — ⟨את⟩ Sodomas un viņas meitu trimdu, un ⟨את⟩ Šomronas un viņas meitu trimdu, un atgriezīšu tavas gūsteknes to vidū.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "640aafe30c751ead5b897540ab0923db8a612c98c8c2970ea80620bdefdc03a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/16\/53-56.1792525024707.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es atgriezīšu viņu gūstu — ⟨את⟩ Sdomas gūstu un viņas meitas, un ⟨את⟩ Šomeronas gūstu un viņas meitas, un atgriezīšu tavu gūstekņu gūstu viņu vidū.",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "un atgriezīšu"
+      "gloss": "Un Es atgriezīšu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņu trimdu"
+      "marks": "viņu gūstu"
     },
     {
       "surface": "שביתהן",
-      "gloss": "viņu trimdu"
+      "gloss": "viņu gūstu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sodomas trimdu"
+      "marks": "Sdomas gūstu"
     },
     {
       "surface": "שבית",
-      "gloss": "trimdu"
+      "gloss": "gūstu"
     },
     {
       "surface": "סדם",
-      "gloss": "Sodoma"
+      "gloss": "Sdomas"
     },
     {
       "surface": "ובנותיה",
@@ -66,15 +40,15 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "Šomronas trimdu"
+      "marks": "Šomeronas gūstu"
     },
     {
       "surface": "שבית",
-      "gloss": "trimdu"
+      "gloss": "gūstu"
     },
     {
       "surface": "שמרון",
-      "gloss": "Šomrona"
+      "gloss": "Šomeronas"
     },
     {
       "surface": "ובנותיה",
@@ -82,17 +56,17 @@
     },
     {
       "surface": "ושבית",
-      "gloss": "un atgriezīšu trimdu"
+      "gloss": "un atgriezīšu"
     },
     {
       "surface": "שביתיך",
-      "gloss": "tavas gūsteknes"
+      "gloss": "tavu gūstekņu gūstu"
     },
     {
       "surface": "בתוכהנה",
-      "gloss": "to vidū"
+      "gloss": "viņu vidū"
     }
   ],
-  "timestamp": "2026-10-20T19:37:04.707750510Z",
+  "timestamp": "2026-10-20T22:43:52.228236473Z",
   "model": "glm-5.3"
 }

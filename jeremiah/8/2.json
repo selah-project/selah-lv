@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "להם",
-      "rationale": "priekšvārds ar sufiksu 'viņiem' latviešu teikumā saplūst ar 'kam tie pielūguši' un netiek atsevišķi tulkots."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשר…ואשר…ואשר…ואשר…ואשר",
-      "rationale": "piecas 'אשר' piektes rinda (mīlējuši, kalpojuši, gājuši, meklējuši, pielūguši) — kāpņu struktūra, kas paliek atkārtojumā."
-    }
-  ],
-  "translation": "Un tie tos izklās saulei un mēnesim un visai debess pulkam, ko tie mīlējuši, kam tie kalpojuši, aiz kā tie gājuši, ko tie meklējuši un kam tie pielūguši; tie netiks savākti un netiks aprakti — par mēslojumu uz zemes virsas tie kļūs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7ead3dc54f29b85c3152caf1608472c3fe47d6f0ff29a9e053dc93b66b485668",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/8\/1-4.1792523504694.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi tos izklās saulei un mēnesim un visai debesu pulku daļai, ko viņi ir mīlējuši, ko viņi ir kalpojuši, aiz kā viņi ir gājuši, ko viņi ir meklējuši un kam viņi ir pakļāvušies; tie netiks sapulcēti un netiks aprakti — par mēslojumu tie kļūs virs zemes virsas.",
   "tokens": [
     {
       "surface": "ושטחום",
-      "gloss": "un tie tos izklās"
+      "gloss": "Un viņi tos izklās"
     },
     {
       "surface": "לשמש",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "צבא",
-      "gloss": "pulkam"
+      "gloss": "pulku daļai"
     },
     {
       "surface": "השמים",
-      "gloss": "debess"
+      "gloss": "debesu"
     },
     {
       "surface": "אשר",
@@ -58,35 +37,35 @@
     },
     {
       "surface": "אהבום",
-      "gloss": "tie mīlējuši"
+      "gloss": "viņi ir mīlējuši"
     },
     {
       "surface": "ואשר",
-      "gloss": "un kam"
+      "gloss": "ko"
     },
     {
       "surface": "עבדום",
-      "gloss": "tie kalpojuši"
+      "gloss": "viņi ir kalpojuši"
     },
     {
       "surface": "ואשר",
-      "gloss": "un aiz kā"
+      "gloss": "aiz kā"
     },
     {
       "surface": "הלכו",
-      "gloss": "tie gājuši"
+      "gloss": "viņi ir gājuši"
     },
     {
       "surface": "אחריהם",
-      "gloss": "sekojuši"
+      "gloss": ""
     },
     {
       "surface": "ואשר",
-      "gloss": "un ko"
+      "gloss": "ko"
     },
     {
       "surface": "דרשום",
-      "gloss": "tie meklējuši"
+      "gloss": "viņi ir meklējuši"
     },
     {
       "surface": "ואשר",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "השתחוו",
-      "gloss": "tie pielūguši"
+      "gloss": "viņi ir pakļāvušies"
     },
     {
       "surface": "להם",
@@ -102,19 +81,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "netiks"
     },
     {
       "surface": "יאספו",
-      "gloss": "tiks savākti"
+      "gloss": "sapulcēti"
     },
     {
       "surface": "ולא",
-      "gloss": "un ne"
+      "gloss": "un netiks"
     },
     {
       "surface": "יקברו",
-      "gloss": "tiks aprakti"
+      "gloss": "aprakti"
     },
     {
       "surface": "לדמן",
@@ -122,11 +101,11 @@
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "virs"
     },
     {
       "surface": "פני",
-      "gloss": "virsu"
+      "gloss": "virsas"
     },
     {
       "surface": "האדמה",
@@ -137,6 +116,6 @@
       "gloss": "tie kļūs"
     }
   ],
-  "timestamp": "2026-10-20T19:11:44.695702240Z",
+  "timestamp": "2026-10-20T22:52:00.429299405Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 57,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "to",
-      "rationale": "Pretats `על לבך` — 'uz sirdi' — latviski vajadzīgs objekta vietniekvārds"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve runā ar neatbildīgo Sionu",
-      "rationale": "Tieša uzruna otrajā personā sieviešu dzimtē (vienaldzīgā dievlūdzēja)"
-    }
-  ],
-  "translation": "Un ⟨את⟩ ko tu baidījies un kā dēļ biji bailēs, ka tu meloji? Un ⟨את⟩ mani tu neatminēji, neliki ⟨to⟩ uz sirdi. Vai ne es klusēju jau no mūžības, un mani tu nebīsties?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/9-12.1792522904259.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ kā tu baidījies un izbijies, ka tu melo, un ⟨את⟩ mani tu neatminēji, tu neliki ⟨to⟩ uz savu sirdi? Vai ne es klusēju, un to no mūžības, un ⟨את⟩ mani tu nebīsties?",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
-      "marks": "ko"
+      "gloss": "⟨את⟩",
+      "marks": "kā"
     },
     {
       "surface": "מי",
-      "gloss": "ko"
+      "gloss": "kā"
     },
     {
       "surface": "דאגת",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ותיראי",
-      "gloss": "un biji bailēs"
+      "gloss": "un izbijies"
     },
     {
       "surface": "כי",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "תכזבי",
-      "gloss": "tu meloji"
+      "gloss": "tu melo"
     },
     {
       "surface": "ואותי",
-      "gloss": "un ⟨את⟩ mani",
+      "gloss": "⟨את⟩ mani",
       "marks": "mani"
     },
     {
@@ -72,7 +51,7 @@
     },
     {
       "surface": "שמת",
-      "gloss": "neliki"
+      "gloss": "tu neliki"
     },
     {
       "surface": "על",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "לבך",
-      "gloss": "sirdi"
+      "gloss": "savu sirdi"
     },
     {
       "surface": "הלא",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "ומעלם",
-      "gloss": "jau no mūžības"
+      "gloss": "un no mūžības"
     },
     {
       "surface": "ואותי",
-      "gloss": "un ⟨את⟩ mani",
+      "gloss": "⟨את⟩ mani",
       "marks": "mani"
     },
     {
@@ -109,9 +88,9 @@
     },
     {
       "surface": "תיראי",
-      "gloss": "tu nebīsties"
+      "gloss": "tu bīsties"
     }
   ],
-  "timestamp": "2026-10-20T19:01:44.260332743Z",
+  "timestamp": "2026-10-20T22:48:56.168244203Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,19 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויקרא",
-      "rationale": "Darbu grāmatas nosaukums ebreju valodā nāk no šī vārda: 'Un Viņš sauca' — lielie burti alefs tradīcijā."
-    },
-    {
-      "kind": "invitation",
-      "subject": "saukšana",
-      "rationale": "Jahve sauc Moši vārdā — runas sākums ar personas uzrunu."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל משה",
-      "gloss": "",
-      "rationale": "Ebreju 'sauca pie Mošes' latviskā teikumā saplūst vienā darbības-frāzē; atsevišķa prievārda vārds netiek atspoguļots."
-    }
-  ],
-  "translation": "Un Viņš sauca Mošemi, un Jahve runāja ar viņu no sapulces telts, sacīdams:",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/1\/1-4.1792513614892.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš sauca Moši, un Jahve runāja ar viņu no sanāksmes telts, sakot:",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Un...sauca"
+      "gloss": "un viņš sauca"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "משה",
-      "gloss": "Mošemi"
+      "gloss": "Mošes"
     },
     {
       "surface": "וידבר",
@@ -64,13 +37,13 @@
     },
     {
       "surface": "מועד",
-      "gloss": "sapulces"
+      "gloss": "sanāksmes"
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "sakot"
     }
   ],
-  "timestamp": "2026-10-20T16:26:54.892684128Z",
+  "timestamp": "2026-10-20T22:54:38.781928780Z",
   "model": "glm-5.3"
 }

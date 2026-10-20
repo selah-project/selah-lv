@@ -5,40 +5,19 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לכם",
-      "rationale": "atstarpe ar datīvu 'jums' — ceļojuma sākšanas žests, latviski bez atbilsmes"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ģeogrāfijas uzskaitījums",
-      "rationale": "zemes robežu apraksts ar septiņiem ģeogrāfiskiem apzīmējumiem no Horebas līdz Pratas upei"
-    }
-  ],
-  "translation": "Griezieties un ceļojiet, un ejiet uz emoriešu kalnu un pie visiem tā kaimiņiem: Arabā, kalnos, zemienē, dienvidos un jūras krastā — kenaniešu zemē un Libānā, līdz lielajai upei, upei Pratā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/1\/5-8.1792516571635.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Griezieties un dodieties ceļā ⟨jūs⟩ un ejiet uz emoriešu kalnu un pie visiem tā kaimiņiem: Arābas ielejā, kalnos, zemienei, Negevā un jūras krastā, kenaniešu zemē un Libānā, līdz lielajai upei, upei Peratā.",
   "tokens": [
     {
       "surface": "פנו",
-      "gloss": "griezieties"
+      "gloss": "Griezieties"
     },
     {
       "surface": "וסעו",
-      "gloss": "ceļojiet"
+      "gloss": "dodieties ceļā"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "⟨jūs⟩"
     },
     {
       "surface": "ובאו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "בערבה",
-      "gloss": "Arabā"
+      "gloss": "Arābas ielejā"
     },
     {
       "surface": "בהר",
@@ -74,15 +53,15 @@
     },
     {
       "surface": "ובשפלה",
-      "gloss": "zemienē"
+      "gloss": "zemienei"
     },
     {
       "surface": "ובנגב",
-      "gloss": "dienvidos"
+      "gloss": "Negevā"
     },
     {
       "surface": "ובחוף",
-      "gloss": "un krastā"
+      "gloss": "un jūras krastā"
     },
     {
       "surface": "הים",
@@ -106,7 +85,7 @@
     },
     {
       "surface": "הנהר",
-      "gloss": "upei"
+      "gloss": "lielajai upei"
     },
     {
       "surface": "הגדל",
@@ -118,9 +97,9 @@
     },
     {
       "surface": "פרת",
-      "gloss": "Prat"
+      "gloss": "Peratā"
     }
   ],
-  "timestamp": "2026-10-20T17:16:11.638327588Z",
+  "timestamp": "2026-10-20T22:39:49.257834963Z",
   "model": "glm-5.3"
 }

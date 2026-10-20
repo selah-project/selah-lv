@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יך",
-      "rationale": "Neizskaidrojams rakstības fragments (ketib atzīme) bez atsevišķas nozīmes; netiek tulkots."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ceļa malā",
-      "rationale": "דרך מצפה burtiski 'ceļā vērodams' — 'malā' pievienots latviešu skaidrībai."
-    }
-  ],
-  "translation": "Un viņš atnāca, un lūk, Eli sēdēja uz krēsla ceļa malā, vērodams, jo viņa sirds drebēja par Elohim šķirstu; un vīrs ienāca pilsētā, lai to pavēstītu, un visa pilsēta iekliedzās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4f53aabb6cfcc4fc5a2d328f57605fe976a05d2a437a0e6d23396875502e2db1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/4\/13-16.1792518876159.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš atnāca, un lūk, Eli sēdēja uz sava krēsla pie ceļa, ⟨vērodams⟩, jo viņa sirds drebēja par Elohim šķirstu; un tas vīrs ienāca pilsētā, lai ziņotu, un visa pilsēta iekliedzās.",
   "tokens": [
     {
       "surface": "ויבוא",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "הכסא",
-      "gloss": "krēsla"
+      "gloss": "sava krēsla"
     },
     {
       "surface": "יך",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "דרך",
-      "gloss": "ceļa malā"
+      "gloss": "ceļa"
     },
     {
       "surface": "מצפה",
-      "gloss": "vērodams"
+      "gloss": "⟨vērodams⟩"
     },
     {
       "surface": "כי",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "un vīrs"
+      "gloss": "un tas vīrs"
     },
     {
       "surface": "בא",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "להגיד",
-      "gloss": "lai pavēstītu"
+      "gloss": "lai ziņotu"
     },
     {
       "surface": "בעיר",
@@ -121,6 +100,6 @@
       "gloss": "pilsēta"
     }
   ],
-  "timestamp": "2026-10-20T17:54:36.160160492Z",
+  "timestamp": "2026-10-20T22:34:52.576966789Z",
   "model": "glm-5.3"
 }

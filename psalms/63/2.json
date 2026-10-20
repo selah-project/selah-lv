@@ -5,38 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 63,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodas teikumam אתה nav saites; latviešu valodai vajag \"esi\""
-    },
-    {
-      "kind": "substitution",
-      "subject": "mans נפש",
-      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — latviski nav viena vārda, tāpēc saglabāts ebreju vārds"
-    },
-    {
-      "kind": "idiom",
-      "subject": "meklēju agri no rīta",
-      "rationale": "שחר nozīmē \"ausma\"; darbības vārds nozīmē \"rītausmā meklēt\", ne vienkārši \"meklēt\""
-    },
-    {
-      "kind": "you",
-      "subject": "lūgšana Elohim",
-      "rationale": "Dāvids tieši pielūdz Elohim kā savu El"
-    }
-  ],
-  "translation": "Elohim, ⟨tu⟩ esi mans El, tevi es meklēju agri no rīta; mans נפש ilgojas pēc tevis kā izslāpis sausumā, mana miesa alkst pēc tevis sausā un nogurušā zemē, bez ūdens.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/63\/1-4.1792527773168.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim, ⟨tu⟩ esi mans El, tevi es meklēju jau aušanos brīdī; tev izslāpis ir mans iekšējais cilvēks, tev ilgojas mans miesīgais ķermenis, sausā un nogurušā zemē, kur nav ūdens.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -48,23 +17,23 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨tu⟩"
+      "gloss": "⟨tu⟩ esi"
     },
     {
       "surface": "אשחרך",
-      "gloss": "meklēju agri no rīta"
+      "gloss": "tev es meklēju jau aušanos brīdī"
     },
     {
       "surface": "צמאה",
-      "gloss": "slāp"
+      "gloss": "izslāpis ir"
     },
     {
       "surface": "לך",
-      "gloss": "pēc tevis"
+      "gloss": "tev"
     },
     {
       "surface": "נפשי",
-      "gloss": "mans נפש"
+      "gloss": "mans iekšējais cilvēks"
     },
     {
       "surface": "כמה",
@@ -72,15 +41,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "pēc tevis"
+      "gloss": "tev"
     },
     {
       "surface": "בשרי",
-      "gloss": "mana miesa"
+      "gloss": "mans miesīgais ķermenis"
     },
     {
       "surface": "בארץ",
-      "gloss": "zemē"
+      "gloss": "sausā un nogurušā zemē"
     },
     {
       "surface": "ציה",
@@ -92,13 +61,13 @@
     },
     {
       "surface": "בלי",
-      "gloss": "bez"
+      "gloss": "kur nav"
     },
     {
       "surface": "מים",
       "gloss": "ūdens"
     }
   ],
-  "timestamp": "2026-10-20T20:22:53.169260615Z",
+  "timestamp": "2026-10-20T23:00:31.380904654Z",
   "model": "glm-5.3"
 }

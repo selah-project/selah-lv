@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kapporete",
-      "rationale": "הכפרת ir 'vāks' no saknes kpr — 'žēlastības tronis' (KJV 'mercy seat') ir interpretācija, ne forma"
-    },
-    {
-      "kind": "you",
-      "subject": "Aharonam",
-      "rationale": " Jahve tieši pavēl Mošem runāt ar Aharonu — tieša uzruna ar nāves draudu"
-    },
-    {
-      "kind": "mystery",
-      "subject": "Es parādīšos mākonī",
-      "rationale": "Jahves parādīšanās mākonī virs kapporetes — apslēpta klātbūtne, pieejama tikai noteiktā veidā"
-    }
-  ],
-  "translation": "Un sacīja Jahve Mošem: Runā ar Aharonu, savu brāli, lai viņš neiet jebkurā laikā svētumā, aiz priekškara, uz kapporetes seju, kas ir virs šķirsta, un lai viņš nemirst, jo mākonī Es parādīšos virs kapporetes.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e09f2501975e233fe541d6cffc035133522fcb252ea6750f4b9ae54699c0b02a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/16\/1-4.1792515001455.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja Mošem: Runā ar Aharonu, tavu brāli, lai viņš neiet jebkurā laikā ⟨את⟩ svētumā, aiz priekškārtas, pretī sāpju-vietas vākam, kas ir virs šķirsta, lai viņš nemirst, jo mākonī Es parādos virs sāpju-vietas vāka.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Mošem"
+      "gloss": "pret"
     },
     {
       "surface": "משה",
-      "gloss": ""
+      "gloss": "Moši"
     },
     {
       "surface": "דבר",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "savu brāli"
+      "gloss": "tavu brāli"
     },
     {
       "surface": "ואל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "iet"
+      "gloss": "viņš iet"
     },
     {
       "surface": "בכל",
@@ -83,11 +57,12 @@
     },
     {
       "surface": "אל",
-      "gloss": "svētumā"
+      "gloss": "⟨את⟩",
+      "marks": "svētumā"
     },
     {
       "surface": "הקדש",
-      "gloss": ""
+      "gloss": "svētumā"
     },
     {
       "surface": "מבית",
@@ -95,19 +70,19 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "priekškara"
+      "gloss": "priekškārtas"
     },
     {
       "surface": "אל",
-      "gloss": "uz"
+      "gloss": "pretī"
     },
     {
       "surface": "פני",
-      "gloss": "kapporetes seju"
+      "gloss": "vākam"
     },
     {
       "surface": "הכפרת",
-      "gloss": ""
+      "gloss": "sāpju-vietas"
     },
     {
       "surface": "אשר",
@@ -115,7 +90,7 @@
     },
     {
       "surface": "על",
-      "gloss": "virs"
+      "gloss": "ir virs"
     },
     {
       "surface": "הארן",
@@ -123,11 +98,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "un lai ne"
+      "gloss": "lai nemirst"
     },
     {
       "surface": "ימות",
-      "gloss": "mirst"
+      "gloss": "viņš"
     },
     {
       "surface": "כי",
@@ -139,7 +114,7 @@
     },
     {
       "surface": "אראה",
-      "gloss": "Es parādīšos"
+      "gloss": "Es parādos"
     },
     {
       "surface": "על",
@@ -147,9 +122,9 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "kapporetes"
+      "gloss": "sāpju-vietas vāka"
     }
   ],
-  "timestamp": "2026-10-20T16:50:01.457257530Z",
+  "timestamp": "2026-10-20T22:55:29.286421113Z",
   "model": "glm-5.3"
 }

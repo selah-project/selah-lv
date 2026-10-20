@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Izceltā atbildes teikuma saiklis, ko ebreju valoda izsaka ar vārdu kārtību"
-    }
-  ],
-  "translation": "Ja jērs tas ⟨ir⟩, ko viņš tuvina ⟨את⟩ savu ziedojumu, tad viņš to tuvinās Jahves priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8732ee4fd5af1ab407ff6e6add0d58129a4b938685d9016f1f0c471f16fcf6de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/3\/6-8.1792514809527.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja viņa upuris ⟨ir⟩ jērs, viņš to pieved kā savu upurdāvanu un pieved ⟨את⟩ to Jahves priekšā.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Ja"
+      "gloss": "ja"
     },
     {
       "surface": "כשב",
@@ -33,29 +17,29 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tas"
+      "gloss": "viņš"
     },
     {
       "surface": "מקריב",
-      "gloss": "viņš tuvina"
+      "gloss": "pieved"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savu ziedojumu"
+      "marks": "savu upurdāvanu (קרבנו)"
     },
     {
       "surface": "קרבנו",
-      "gloss": "savu ziedojumu"
+      "gloss": "savu upurdāvanu"
     },
     {
       "surface": "והקריב",
-      "gloss": "tad viņš tuvinās"
+      "gloss": "un pieved"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ viņu",
-      "marks": "to (jēru)"
+      "marks": "priekšā Jahves priekšā (לפני יהוה)"
     },
     {
       "surface": "לפני",
@@ -63,9 +47,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T16:46:49.530944262Z",
+  "timestamp": "2026-10-20T22:55:44.773381959Z",
   "model": "glm-5.3"
 }

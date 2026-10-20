@@ -5,45 +5,20 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lietas",
-      "rationale": "Latviešu valodai vajag lietu vārdu pie skaitļa 'divas'; ebreju tekstā tā nav."
-    },
-    {
-      "kind": "measurement",
-      "subject": "divas lietas",
-      "rationale": "Skaitļošana — divu lūgumu uzskaitījums, ko pants 8 un 9 izvērš."
-    },
-    {
-      "kind": "you",
-      "subject": "Eloah",
-      "rationale": "Tieša uzruna Dievam — lūgums."
-    }
-  ],
-  "translation": "Divas lietas esmu lūdzis no tevis; neatraidīt man tās pirms es nomiršu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/5-8.1792528916100.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Divas lietas es lūdzu no ⟨את⟩ tevis; neatraidīji man tās pirms es nomiršu.",
   "tokens": [
     {
       "surface": "שתים",
-      "gloss": "divas"
+      "gloss": "divas lietas"
     },
     {
       "surface": "שאלתי",
-      "gloss": "esmu lūdzis"
+      "gloss": "es lūdzu"
     },
     {
       "surface": "מאתך",
-      "gloss": "no ⟨את⟩ tevis"
+      "gloss": "no ⟨את⟩ tevis",
+      "marks": "tevis"
     },
     {
       "surface": "אל",
@@ -51,7 +26,7 @@
     },
     {
       "surface": "תמנע",
-      "gloss": "atraidīt"
+      "gloss": "atraidīji"
     },
     {
       "surface": "ממני",
@@ -66,6 +41,6 @@
       "gloss": "es nomiršu"
     }
   ],
-  "timestamp": "2026-10-20T20:41:56.101751015Z",
+  "timestamp": "2026-10-20T22:59:15.880781931Z",
   "model": "glm-5.3"
 }

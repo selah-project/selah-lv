@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "רוח paliek 'ruah' — gars\/elpa; 'dievišķais gars' būtu pievienota nozīme"
-    },
-    {
-      "kind": "crux",
-      "subject": "השלטים",
-      "rationale": "vairogi vai arī 'aisekļi bultām' (KJV 'shields' vs JPS 'quivers') — havizma vārds"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נקמת ... נקמת",
-      "rationale": "atkārtojums: Jahves atriebība, Viņa pils atriebība — skaniskā uzsvara struktūra"
-    }
-  ],
-  "translation": "Asiniet bultas, piepildiet vairogus! Jahve modināja ⟨את⟩ ruah no mediešu ķēniņiem, jo pret Bābeli ir Viņa nodoms to iznīcināt, jo tā ir Jahves atriebība — atriebība Viņa pils turītajam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/51\/9-12.1792524551147.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Asiniet bultas, piepildiet vairogus! Jahve modināja ⟨את⟩ ruah Medijas ķēniņiem, jo pret Babeli ⟨ir⟩ viņa nodoms — to iznīcināt, jo tā ⟨ir⟩ Jahves atriebība, atriebība par viņa svētnīcu.",
   "tokens": [
     {
-      "surface": "הברu",
-      "gloss": "Asiniet"
+      "surface": "הברו",
+      "gloss": "asiniet"
     },
     {
       "surface": "החצים",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruah"
+      "marks": "ruah Medijas ķēniņiem"
     },
     {
       "surface": "רוח",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "מדי",
-      "gloss": "mediešu"
+      "gloss": "Medijas"
     },
     {
       "surface": "כי",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bābeli"
+      "gloss": "Babeli"
     },
     {
       "surface": "מזמתו",
-      "gloss": "Viņa nodoms"
+      "gloss": "viņa nodoms"
     },
     {
       "surface": "להשחיתה",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "tā ir"
+      "gloss": "⟨ir⟩ tā"
     },
     {
       "surface": "נקמת",
@@ -116,9 +90,9 @@
     },
     {
       "surface": "היכלו",
-      "gloss": "Viņa pils"
+      "gloss": "par viņa svētnīcu"
     }
   ],
-  "timestamp": "2026-10-20T19:29:11.148141970Z",
+  "timestamp": "2026-10-20T22:51:20.622949067Z",
   "model": "glm-5.3"
 }

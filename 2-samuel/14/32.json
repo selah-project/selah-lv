@@ -5,57 +5,31 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "būtu bijis",
-      "rationale": "Ebreju izteikums טוב לי עוד אני שם burtiski 'labi man, vēl es tur' — bez darbības vārda; latviski pievienots, iekavās"
-    },
-    {
-      "kind": "crux",
-      "subject": "והמתני",
-      "rationale": "Hifila 2. personā 'un tu mani nogalini' (Joābam) vai 3. personā 'lai viņš mani nogalina' (ķēniņš); YLT izvēlas Joābu, lielākā daļa — ķēniņu"
-    },
-    {
-      "kind": "you",
-      "subject": "Joābam",
-      "rationale": "Avšaloma runa vērsta tieši pie Joāba"
-    }
-  ],
-  "translation": "Un Avšaloms sacīja Joābam: Lūk, es nosūtīju pie tevis, sacīdams: Nāc šurp, un es nosūtīšu ⟨את⟩ tevi pie ķēniņa, sacīdams: Kādēļ es atnācu no Gšūras? Labi man ⟨būtu bijis⟩, vēl es būdams tur. Un tagad es gribu redzēt ķēniņa seju; un ja manī ir vaina, tad lai mani nogalina.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/14\/29-32.1792519963048.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Avšaloms sacīja Joabam: Lūk, es sūtīju pie tevis, sacīdams: Nāc šurp, un es sūtīšu ⟨את⟩ tevi pie ķēniņa, lai sacītu: Kāpēc es atnācu no Gešuras? Man bija labāk ⟨vēl⟩ būt tur. Un tagad es redzēšu ķēniņa seju; un ja manī ir pārkāpums, lai viņš mani nomaitā.",
   "tokens": [
     {
       "surface": "ויאמר",
       "gloss": "Un sacīja"
     },
     {
-      "surface": "אבשaloms_אבשלום",
+      "surface": "אבשלום",
       "gloss": "Avšaloms"
     },
     {
       "surface": "אל",
-      "gloss": "Joābam"
+      "gloss": "pie"
     },
     {
       "surface": "יואב",
-      "gloss": "Joābam"
+      "gloss": "Joaba"
     },
     {
       "surface": "הנה",
-      "gloss": "lūk"
+      "gloss": "Lūk"
     },
     {
       "surface": "שלחתי",
-      "gloss": "es nosūtīju"
+      "gloss": "es sūtīju"
     },
     {
       "surface": "אליך",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "nāc"
+      "gloss": "Nāc"
     },
     {
       "surface": "הנה",
@@ -75,12 +49,12 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "un es nosūtīšu"
+      "gloss": "un es sūtīšu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tevi",
-      "marks": "tevi (Joābu pie ķēniņa)"
+      "gloss": "⟨את⟩",
+      "marks": "tevi — Joabu kā sūtāmo objektu"
     },
     {
       "surface": "אל",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "lai sacītu"
     },
     {
       "surface": "למה",
-      "gloss": "kādēļ"
+      "gloss": "Kāpēc"
     },
     {
       "surface": "באתי",
@@ -104,18 +78,18 @@
     },
     {
       "surface": "מגשור",
-      "gloss": "no Gšūras"
+      "gloss": "no Gešuras"
     },
     {
       "surface": "טוב",
-      "gloss": "labi"
+      "gloss": "labāk"
     },
     {
       "surface": "לי",
       "gloss": "man"
     },
     {
-      "surface": "עוד",
+      "surface": "עד",
       "gloss": "vēl"
     },
     {
@@ -128,11 +102,11 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "un tagad"
+      "gloss": "Un tagad"
     },
     {
       "surface": "אראה",
-      "gloss": "es gribu redzēt"
+      "gloss": "es redzēšu"
     },
     {
       "surface": "פני",
@@ -156,13 +130,13 @@
     },
     {
       "surface": "עון",
-      "gloss": "vaina"
+      "gloss": "pārkāpums"
     },
     {
       "surface": "והמתני",
-      "gloss": "tad lai mani nogalina"
+      "gloss": "lai viņš mani nomaitā"
     }
   ],
-  "timestamp": "2026-10-20T18:12:43.049970887Z",
+  "timestamp": "2026-10-20T22:38:17.455828075Z",
   "model": "glm-5.3"
 }

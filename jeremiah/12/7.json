@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ידדות",
-      "rationale": "Vārds 'mīļākā, dārgā' sastopams tikai šeit Tanahā."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — ne latviešu 'dvēsele' abstraktā nozīmē."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ביתי \/ נחלתי",
-      "rationale": "Jahve runā par templi un tautu kā par savu namu un mantojumu — Runātājs pats mainās no 5.–6. pantu 'tu' uz 'Es'."
-    }
-  ],
-  "translation": "Es atstāju savu namu, atmetu savu mantojumu; savas dvēseles mīļoto es atdevu ⟨את⟩ viņas ienaidnieku rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/5-8.1792523502861.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Es atstāju ⟨את⟩ savu namu, es pametu ⟨את⟩ savu mantojumu, es atdevu ⟨את⟩ savas dvēseles mīļoto viņas ienaidnieku saujā.",
   "tokens": [
     {
       "surface": "עזבתי",
-      "gloss": "Es atstāju"
+      "gloss": "atstāju"
     },
     {
       "surface": "את",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "נטשתי",
-      "gloss": "atmetu"
+      "gloss": "pametu"
     },
     {
       "surface": "את",
@@ -61,7 +35,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "es atdevu"
+      "gloss": "atdevu"
     },
     {
       "surface": "את",
@@ -78,13 +52,13 @@
     },
     {
       "surface": "בכף",
-      "gloss": "rokā"
+      "gloss": "saujā"
     },
     {
       "surface": "איביה",
       "gloss": "viņas ienaidnieku"
     }
   ],
-  "timestamp": "2026-10-20T19:11:42.863046633Z",
+  "timestamp": "2026-10-20T22:49:04.620748409Z",
   "model": "glm-5.3"
 }

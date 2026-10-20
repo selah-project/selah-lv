@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "simt vīru, piecdesmit piecdesmit",
-      "rationale": "skaits un dalījums pa grupām — piecdesmit piecdesmit vīru pa alām."
-    },
-    {
-      "kind": "you",
-      "subject": "Obadjah runā ar Elijahu",
-      "rationale": "Obadjah vēršas pie Elijahu ar 'mans kungs', aizstāvot sevi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדני — mans kungs",
-      "rationale": "par cilvēku (Elijahu), tāpēc 'kungs' ar mazo burtu, nevis Adonai."
-    }
-  ],
-  "translation": "Vai nav ticis pavēstīts manam kungam ⟨את⟩ tas, ko es darīju, kad Izebela nokāva Jahves praviešus, un es paslēpu no Jahves praviešiem simt vīru — piecdesmit piecdesmit vīru alā — un es tos baroju ar maizi un ūdeni?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/13-16.1792520873994.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vai nav pavēstīts manam kungam ⟨את⟩ tas, ko es darīju, kad Izebele nogalināja ⟨את⟩ Jahves praviešus, un es paslēpu no Jahves praviešiem simt vīrus, piecdesmit piecdesmit vīru alā, un es tos uzturēju ar maizi un ūdeni?",
   "tokens": [
     {
       "surface": "הלא",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "הגד",
-      "gloss": "ticis pavēstīts"
+      "gloss": "pavēstīts"
     },
     {
       "surface": "לאדני",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "בהרג",
-      "gloss": "nokāva"
+      "gloss": "nogalināja"
     },
     {
       "surface": "איזבל",
-      "gloss": "Izebela"
+      "gloss": "Izebele"
     },
     {
       "surface": "את",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "vīru"
+      "gloss": "vīrus"
     },
     {
       "surface": "חמשים",
@@ -117,17 +91,17 @@
     },
     {
       "surface": "ואכלכלם",
-      "gloss": "un es tos baroju"
+      "gloss": "un es tos uzturēju"
     },
     {
       "surface": "לחם",
-      "gloss": "ar maizi"
+      "gloss": "maizi"
     },
     {
       "surface": "ומים",
       "gloss": "un ūdeni"
     }
   ],
-  "timestamp": "2026-10-20T18:27:53.995346201Z",
+  "timestamp": "2026-10-20T22:32:40.871673516Z",
   "model": "glm-5.3"
 }

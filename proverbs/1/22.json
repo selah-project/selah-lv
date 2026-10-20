@@ -5,83 +5,57 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "להם",
-      "rationale": "priekšnieks 'viņiem' latviski saplūst ar darbības vārdu, atstāts neizteikts."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פתים\/פתי",
-      "rationale": "atkārtota sakne pātī\/petī — 'vienkāršie mīl vienkāršību', atspoguļota ar vienu sakni."
-    },
-    {
-      "kind": "you",
-      "subject": "vienkāršie",
-      "rationale": "Gudrība tieši uzrunā vienkāršos, zobgaļus un nejēgas."
-    }
-  ],
-  "translation": "Cik ilgi, vienkāršie, jūs mīlēsit vienkāršību, un zobgalīgiem patiks zobgalība, un nejēgas ienīstēs zināšanu?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/21-24.1792528520765.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Cik ilgi, naivie, jūs mīlēsiet naivumu? Un zobgaļi kāro zobgalību ⟨sev⟩, un muļķi ienīst atziņu?",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "cik"
+      "gloss": "cik ilgi"
     },
     {
       "surface": "מתי",
-      "gloss": "ilgi"
+      "gloss": "cik ilgi"
     },
     {
       "surface": "פתים",
-      "gloss": "vienkāršie"
+      "gloss": "naivie"
     },
     {
       "surface": "תאהבו",
-      "gloss": "jūs mīlēsit"
+      "gloss": "jūs mīlēsiet"
     },
     {
       "surface": "פתי",
-      "gloss": "vienkāršību"
+      "gloss": "naivumu"
     },
     {
       "surface": "ולצים",
-      "gloss": "zobgalīgiem"
+      "gloss": "un zobgaļi"
     },
     {
       "surface": "לצון",
-      "gloss": "zobgalība"
+      "gloss": "zobgalību"
     },
     {
       "surface": "חמדו",
-      "gloss": "patiks"
+      "gloss": "kāro"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "⟨sev⟩"
     },
     {
       "surface": "וכסילים",
-      "gloss": "nejēgas"
+      "gloss": "un muļķi"
     },
     {
       "surface": "ישנאו",
-      "gloss": "ienīstēs"
+      "gloss": "ienīst"
     },
     {
       "surface": "דעת",
-      "gloss": "zināšanu"
+      "gloss": "atziņu"
     }
   ],
-  "timestamp": "2026-10-20T20:35:20.766446208Z",
+  "timestamp": "2026-10-20T22:59:01.060757945Z",
   "model": "glm-5.3"
 }

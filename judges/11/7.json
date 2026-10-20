@@ -5,48 +5,27 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šaurums",
-      "rationale": "צר burtiski 'šaurs; šaura vieta' — postenis 'ciešanas' ir attīstinājums."
-    },
-    {
-      "kind": "you",
-      "subject": "Gilādas vecajie",
-      "rationale": "Jeftaha tieša uzruna Gilādas vecajajiem ar jautājumu."
-    }
-  ],
-  "translation": "Un Jeftahs sacīja Gilādas vecajajiem: Vai ne jūs mani ienīdāt un izdzināt mani no sava tēva nama? Un kāpēc jūs nākat pie manis tagad, kad jums ir šaurums?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e95f0722b4c4f08df53a059bfc9c0aa4600a0b3db6022311d8638491f46f8a1a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/11\/5-8.1792518418241.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jiftahs sacīja Gilgadas vecajiem: Vai ne jūs ienīdāt ⟨את⟩ mani un izdzērāt mani no mana tēva nama? Un kāpēc jūs nākat pie manis tagad, kad jums ⟨ir⟩ šaurums?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "un sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "יפתח",
-      "gloss": "Jeftahs"
+      "gloss": "Jiftahs"
     },
     {
       "surface": "לזקני",
-      "gloss": "vecajajiem"
+      "gloss": "vecajiem"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilādas"
+      "gloss": "Gilgadas"
     },
     {
       "surface": "הלא",
-      "gloss": "vai ne"
+      "gloss": "Vai ne"
     },
     {
       "surface": "אתם",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mani",
-      "marks": "ieniidāt mani"
+      "gloss": "⟨את⟩",
+      "marks": "mani"
     },
     {
       "surface": "ותגרשוני",
-      "gloss": "un izdzināt mani"
+      "gloss": "un izdzērāt mani"
     },
     {
       "surface": "מבית",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "tēva"
+      "gloss": "mana tēva"
     },
     {
       "surface": "ומדוע",
-      "gloss": "un kāpēc"
+      "gloss": "Un kāpēc"
     },
     {
       "surface": "באתם",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "צר",
-      "gloss": "ir šaurums"
+      "gloss": "šaurums"
     },
     {
       "surface": "לכם",
       "gloss": "jums"
     }
   ],
-  "timestamp": "2026-10-20T17:46:58.242841629Z",
+  "timestamp": "2026-10-20T22:53:52.000165924Z",
   "model": "glm-5.3"
 }

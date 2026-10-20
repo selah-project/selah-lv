@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גנבת",
-      "rationale": "Genubats — vārds sastopams tikai šeit Tanahā"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גנבת\/גנב",
-      "rationale": "Vārds skan kā 'nolaupītais' (גנב 'zagt') — iespējama vārdu spēle, kas latviski zust"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויהי",
-      "rationale": "'Un notika' kā vienkāršs stāstījuma saits — tulkots 'un paliko'"
-    }
-  ],
-  "translation": "Un Tahpenesas māsa dzemdēja tam ⟨את⟩ Genubatu, viņa dēlu, un Tahpenesa viņu atšķīra farao namā; un Genubats palika farao namā, farao dēlu vidū.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3163b2c09e3725e2b5055e959743d2c8ed86c75491d81d56ba6fedc3f1d06e5d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/17-20.1792520724089.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Tahpenes māsa dzemdēja viņam ⟨את⟩ Genubatu, viņa dēlu, un Tahpenes viņu atšķīra Faraona namā, un Genubats bija Faraona namā starp Faraona dēliem.",
   "tokens": [
     {
       "surface": "ותלד",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "tam"
+      "gloss": "viņam"
     },
     {
       "surface": "אחות",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "תחפניס",
-      "gloss": "Tahpenesas"
+      "gloss": "Tahpenes"
     },
     {
       "surface": "את",
@@ -63,28 +37,28 @@
       "gloss": "viņa dēlu"
     },
     {
-      "surface": "ותגמלהu",
+      "surface": "ותגמלהו",
       "gloss": "un viņu atšķīra"
     },
     {
       "surface": "תחפנס",
-      "gloss": "Tahpenesa"
+      "gloss": "Tahpenes"
     },
     {
       "surface": "בתוך",
-      "gloss": "namā"
+      "gloss": "starp"
     },
     {
       "surface": "בית",
-      "gloss": "farao"
-    },
-    {
-      "surface": "פרעה",
       "gloss": "namā"
     },
     {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
       "surface": "ויהי",
-      "gloss": "un palika"
+      "gloss": "un bija"
     },
     {
       "surface": "גנבת",
@@ -92,25 +66,25 @@
     },
     {
       "surface": "בית",
-      "gloss": "farao"
-    },
-    {
-      "surface": "פרעה",
       "gloss": "namā"
     },
     {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
       "surface": "בתוך",
-      "gloss": "vidū"
+      "gloss": "starp"
     },
     {
       "surface": "בני",
-      "gloss": "dēlu"
+      "gloss": "dēliem"
     },
     {
       "surface": "פרעה",
-      "gloss": "farao"
+      "gloss": "Faraona"
     }
   ],
-  "timestamp": "2026-10-20T18:25:24.090812832Z",
+  "timestamp": "2026-10-20T22:32:29.335837073Z",
   "model": "glm-5.3"
 }

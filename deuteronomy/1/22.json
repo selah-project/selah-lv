@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וישבו אתנו דבר",
-      "rationale": "Burtiski 'atgriezīs mums vārdu' — ziņos atpakaļ par izpētes rezultātu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויחפרו",
-      "rationale": "Burtiski 'rakņāsies, izraks' — šeit 'izpētīt' zemi."
-    }
-  ],
-  "translation": "Un jūs visi tuvojāties man un teicāt: Lai sūtām vīrus mūsu priekšā, un lai tie izpēta mums ⟨את⟩ zemi un atnes mums atpakaļ vārdu par ⟨את⟩ ceļu, kurā mēs kāpsim augšā, un par ⟨את⟩ pilsētām, uz kurām mēs iesim.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5c8a4db9dccbb2e8dd7a6f00594ab14a7ce87f224b79771957ef9783041969a8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/1\/21-24.1792516602302.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un jūs visi tuvojāties man un sacījāt: Sūtīsim vīrus mūsu priekšā, un tie izlūkos mums ⟨את⟩ zemi un atnesīs mums ⟨את⟩ vārdu par ⟨את⟩ ceļu, pa kuru mēs iesim augšup, un ⟨את⟩ pilsētām, uz kurām mēs ieiesim.",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "Un jūs tuvojāties"
+      "gloss": "tuvrojāties"
     },
     {
       "surface": "אלי",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "ותאמרו",
-      "gloss": "un teicāt"
+      "gloss": "un sacījāt"
     },
     {
       "surface": "נשלחה",
-      "gloss": "Lai sūtām"
+      "gloss": "sūtīsim"
     },
     {
       "surface": "אנשים",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ויחפרו",
-      "gloss": "un lai tie izpēta"
+      "gloss": "un tie izlūkos"
     },
     {
       "surface": "לנו",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "un atnes atpakaļ"
+      "gloss": "un atnesīs"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ mums"
+      "gloss": "⟨את⟩",
+      "marks": "vārdu (ar sufiksu 'mums')"
     },
     {
       "surface": "דבר",
@@ -96,11 +76,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurā"
+      "gloss": "pa kuru"
     },
     {
       "surface": "נעלה",
-      "gloss": "mēs kāpsim augšā"
+      "gloss": "iesim augšup"
     },
     {
       "surface": "בה",
@@ -108,7 +88,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "un ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "pilsētām"
     },
     {
@@ -121,13 +101,13 @@
     },
     {
       "surface": "נבא",
-      "gloss": "mēs iesim"
+      "gloss": "ieiesim"
     },
     {
       "surface": "אליהן",
-      "gloss": "pie tām"
+      "gloss": "tās"
     }
   ],
-  "timestamp": "2026-10-20T17:16:42.303879051Z",
+  "timestamp": "2026-10-20T22:39:49.395856391Z",
   "model": "glm-5.3"
 }

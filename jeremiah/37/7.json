@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jūdas ķēniņam",
-      "rationale": "Runa vērsta pie Cidkijas sūtītajiem vīriem ar uzdevumu to pateikt ķēniņam."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Elohim",
-      "rationale": "אלהי burtiski 'Elohim no' — konstruāta saite 'Jisraēla Elohim' saglabāta bez tulkota titula."
-    }
-  ],
-  "translation": "Tā saka Jahve, Jisraēla Elohim: tā jūs sacīsiet Jūdas ķēniņam, kas sūtīja ⟨את⟩ jūs pie manis, mani vaicāt: Lūk, Paraosa karaspēks, kas iznācis jums palīgā, atgriezīsies savā zemē, uz Micraimu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/37\/5-8.1792524196608.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tā saka Jahve, Jisraēla Elohim: tā jūs sakāt Jūdas ķēniņam, kas sūtīja jūs ⟨את⟩ pie manis, vaicāt mani: Lūk, Paraona karaspēks, kas izgāja jums palīgā, atgriezīsies savā zemē, Micraimā.",
   "tokens": [
     {
       "surface": "כה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "תאמרו",
-      "gloss": "jūs sacīsiet"
+      "gloss": "jūs sakāt"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "מלך",
@@ -75,7 +54,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "jūs"
+      "marks": "jūs (sūtītos) uz mani"
     },
     {
       "surface": "אלי",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "לדרשני",
-      "gloss": "mani vaicāt"
+      "gloss": "vaicāt mani"
     },
     {
       "surface": "הנה",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paraosa"
+      "gloss": "Paraona"
     },
     {
       "surface": "היצא",
-      "gloss": "kas iznācis"
+      "gloss": "izgāja"
     },
     {
       "surface": "לכם",
@@ -119,9 +98,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "uz Micraimu"
+      "gloss": "Micraimā"
     }
   ],
-  "timestamp": "2026-10-20T19:23:16.609262701Z",
+  "timestamp": "2026-10-20T22:50:16.567806332Z",
   "model": "glm-5.3"
 }

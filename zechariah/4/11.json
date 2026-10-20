@@ -5,28 +5,7 @@
   "book": "zechariah",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Jautājuma saiklis pievienots; ebreju valodā teikums ir bez 'ir'."
-    },
-    {
-      "kind": "mystery",
-      "subject": "jautājums par olīvkokiem",
-      "rationale": "Pravieša jautājums parāda redzējuma apzināti slēgto dabu — atbilde tiek aizkavēta līdz 13. pantam."
-    }
-  ],
-  "translation": "Un es atbildēju un sacīju viņam: kas ⟨ir⟩ šie divi olīvkoki pa labi no menoras un pa kreisi no tās?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "34aff854d5ad302eabf27a3b539f996d49ff0657e8793a1915a043110ee25697",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/4\/9-12.1792526785167.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un es atbildēju un sacīju ⟨uz⟩ viņu: Kas ir ⟨ir⟩ šie divi olīvkoki, ⟨kas atrodas⟩ pa labi no menora un pa kreisi no ⟨tās⟩?",
   "tokens": [
     {
       "surface": "ואען",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "viņam"
+      "gloss": "⟨uz⟩ viņu"
     },
     {
       "surface": "מה",
-      "gloss": "kas"
+      "gloss": "Kas"
     },
     {
       "surface": "שני",
@@ -58,25 +37,25 @@
     },
     {
       "surface": "על",
-      "gloss": "pa labi no"
+      "gloss": "⟨kas atrodas⟩ pa"
     },
     {
       "surface": "ימין",
-      "gloss": "labās puses"
+      "gloss": "labi no"
     },
     {
-      "surface": "המנורа",
-      "gloss": "menoras"
+      "surface": "המנורה",
+      "gloss": "menora"
     },
     {
       "surface": "ועל",
-      "gloss": "un pa kreisi no"
+      "gloss": "un pa"
     },
     {
       "surface": "שמאולה",
-      "gloss": "tās kreisās puses"
+      "gloss": "kreisi no ⟨tās⟩"
     }
   ],
-  "timestamp": "2026-10-20T20:06:25.175324968Z",
+  "timestamp": "2026-10-20T23:01:04.948316439Z",
   "model": "glm-5.3"
 }

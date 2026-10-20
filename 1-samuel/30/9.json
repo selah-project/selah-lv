@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩ · ⟨tur⟩",
-      "rationale": "Ebreju tekstā nav izteikta darbības vārda un vietas apzīmējuma"
-    },
-    {
-      "kind": "measurement",
-      "subject": "seši simti vīru",
-      "rationale": "skaits, kas turpinās nākamajā pantā (400 + 200)"
-    }
-  ],
-  "translation": "Un Davids aizgāja, viņš un seši simti vīru, kas ⟨bija⟩ ar viņu, un tie nonāca līdz Besoras strautam; un pāri palikušie palika ⟨tur⟩ stāvam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/30\/9-12.1792519466530.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Davids devās ⟨viņš⟩ un seši simti vīru, kas ⟨bija⟩ ar ⟨את⟩ viņu, un tie nonāca līdz Besoras strautam; bet tie, kas palika pāri, palika stāvam.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Un aizgāja"
+      "gloss": "un devās"
     },
     {
       "surface": "דוד",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "viņš"
+      "gloss": "⟨viņš⟩"
     },
     {
       "surface": "ושש",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "un tie nonāca"
+      "gloss": "un nonāca"
     },
     {
       "surface": "עד",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "נחל",
-      "gloss": "straumē"
+      "gloss": "straumai"
     },
     {
       "surface": "הבשור",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "והנותרים",
-      "gloss": "un pāri palikušie"
+      "gloss": "bet tie, kas palika pāri"
     },
     {
       "surface": "עמדו",
       "gloss": "palika stāvam"
     }
   ],
-  "timestamp": "2026-10-20T18:04:26.531647549Z",
+  "timestamp": "2026-10-20T22:34:45.726136297Z",
   "model": "glm-5.3"
 }

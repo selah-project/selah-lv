@@ -5,43 +5,7 @@
   "book": "ruth",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "kā lieta izšķirsies",
-      "rationale": "Burtiski 'kā lieta kritīs' (יפל דבר) — idioma 'kā viss beigsies'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Negācijas stiprinājuma konstrukcija 'nes' — 'neatpūtīsies, kamēr nebūs pabeicis', latviski saplūst vienā teikumā."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Attieksmes partikula bez atsevišķa latviešu atbilstoša vārda — 'kamēr' aptver arī to."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ne⟩",
-      "rationale": "Latviešu laika apstākļa teikums pieprasa negāciju 'nebūs pabeidzis', kuru ebreju כי אם jau ietver."
-    },
-    {
-      "kind": "you",
-      "subject": "mana meita",
-      "rationale": "Noemes tieša uzruna Rūtai — 'sēdi, mana meita'."
-    }
-  ],
-  "translation": "Un viņa sacīja: Sēdi, mana meita, kamēr uzzināsi, kā lieta izšķirsies, jo tas vīrs neatpūtīsies, kamēr ⟨ne⟩būs pabeidzis ⟨את⟩ lietu šodien.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c246af5472162a8f82a3e7300a2982195e9c92da23c38d161befbd3b371e9825",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/3\/17-18.1792529711279.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņa sacīja: Sēdi, mana meita, kamēr tu uzzināsi, kā lieta izkritīs, jo tas vīrs neapklusīs, ja vien lieta nebūs pabeigta šodien.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -65,7 +29,7 @@
     },
     {
       "surface": "תדעין",
-      "gloss": "uzzināsi"
+      "gloss": "tu uzzināsi"
     },
     {
       "surface": "איך",
@@ -73,7 +37,7 @@
     },
     {
       "surface": "יפל",
-      "gloss": "izšķirsies"
+      "gloss": "izkritīs"
     },
     {
       "surface": "דבר",
@@ -89,7 +53,7 @@
     },
     {
       "surface": "ישקט",
-      "gloss": "atpūtīsies"
+      "gloss": "apklusīs"
     },
     {
       "surface": "האיש",
@@ -97,7 +61,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kamēr"
+      "gloss": "ja vien"
     },
     {
       "surface": "אם",
@@ -105,17 +69,17 @@
     },
     {
       "surface": "כלה",
-      "gloss": "pabeidzis"
+      "gloss": "pabeigta"
     },
     {
       "surface": "הדבר",
-      "gloss": "lietu"
+      "gloss": "lieta"
     },
     {
       "surface": "היום",
       "gloss": "šodien"
     }
   ],
-  "timestamp": "2026-10-20T20:55:11.280233088Z",
+  "timestamp": "2026-10-20T23:00:49.435067599Z",
   "model": "glm-5.3"
 }

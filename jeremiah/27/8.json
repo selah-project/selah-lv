@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אפקד (es aprūpēšu ar soda vēstu)",
-      "rationale": "פקד nozīmē 'apciemot\/iesaistīt draudzīgi vai naidīgi'; latviski viena forma nespēj nest abas nozīmes, tāpēc sintezēts apzīmējums."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tā⟩",
-      "rationale": "Latviešu teikumam vajadzīgs priekšmets, ko ebreju והיה nav izsaka."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לתת צואר בעל",
-      "rationale": "'dot kaklu jūgā' — ebreju idiomā par padošanos; latviski 'likt kaklu zem jūga' saglabā attēlu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "תמי (pilnīgi iznīcināšu)",
-      "rationale": "תמם ir 'pabeigt, pilnīgot' — labā vai ļā nozīmē; šeit ļaunā, tāpēc 'iznīcināt līdz galam'."
-    }
-  ],
-  "translation": "Un notiks ⟨tā⟩: tauta un ķēniņvalsts, kas nekalpos viņam — Nebukadnecaram, Bābeles ķēniņam, — un kas neliks ⟨את⟩ savu kaklu zem Bābeles ķēniņa jūga, to tautu es aprūpēšu ar soda vēstu ar zobenu, badu un mēri, saka Jahve, līdz pilnīgi iznīcināšu ⟨את⟩ viņus viņa rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ec51ef2ea549fa4779aa59990bcea66501a1110641d180b70cf8ae3093f65539",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/8-8.1792532665545.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notiks: tauta un ķēniņvalsts, kas nes kalpošanu ⟨את⟩ Nebukadnecaram, Bābeles ķēniņam, un kas neliek ⟨את⟩ savu kaklu zem jūga, Bābeles ķēniņa jūga, — ar zobenu, ar badu un ar mēri Es došu pār to tautu sodu, saka Jahve, līdz Es pilnīgi iznīcināšu ⟨את⟩ viņus ar viņa roku.",
   "tokens": [
     {
       "surface": "והיה",
@@ -60,17 +29,17 @@
     },
     {
       "surface": "יעבדו",
-      "gloss": "kalpos"
+      "gloss": "nes kalpošanu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņam",
+      "gloss": "⟨את⟩",
       "marks": "Nebukadnecaram"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nebukadnecaram, Bābeles ķēniņam"
+      "marks": "Nebukadnecaram"
     },
     {
       "surface": "נבוכדנאצר",
@@ -87,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "kas neliks savu kaklu zem jūga"
+      "marks": "kas neliek savu kaklu"
     },
     {
       "surface": "אשר",
@@ -99,7 +68,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "liks"
+      "gloss": "liek"
     },
     {
       "surface": "את",
@@ -128,15 +97,15 @@
     },
     {
       "surface": "וברעב",
-      "gloss": "badu"
+      "gloss": "un ar badu"
     },
     {
       "surface": "ובדבר",
-      "gloss": "un mēri"
+      "gloss": "un ar mēri"
     },
     {
       "surface": "אפקד",
-      "gloss": "es aprūpēšu ar soda vēstu"
+      "gloss": "došu sodu"
     },
     {
       "surface": "על",
@@ -168,14 +137,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ viņus",
-      "marks": "viņa rokā"
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
     },
     {
       "surface": "בידו",
-      "gloss": "viņa rokā"
+      "gloss": "ar viņa roku"
     }
   ],
-  "timestamp": "2026-10-20T21:44:25.546544496Z",
+  "timestamp": "2026-10-20T22:50:01.063288447Z",
   "model": "glm-5.3"
 }

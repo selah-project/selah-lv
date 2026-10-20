@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "savas",
-      "rationale": "Latviešu valodai vajadzīgs piederības vietniekvārds pie 'dienas'; ebreju ģenitīvs to izsaka bez vietniekvārda"
-    },
-    {
-      "kind": "you",
-      "subject": "Jehošafats pie Israēla ķēniņa",
-      "rationale": "Jehošafata aizlieguma frāze 'ķēniņš lai tā nesaka' ir tiešs uzrunas aktas pievienošana"
-    },
-    {
-      "kind": "crux",
-      "subject": "סריס nākamajā pantā \/ מיכיהו šeit",
-      "rationale": "Vārda forma mainās starp מיכיהו un מיכהו — viena persona, divas rakstības Tanahā"
-    }
-  ],
-  "translation": "Un Israēla ķēniņš sacīja Jehošafatam: Vēl ir viens vīrs, pie kā vaicāt Jahvem ⟨את⟩, bet es viņu ienīstu, jo viņš neprofetē par mani labu — visas savas dienas vienīgi ļaunu. Tas ir Mīkaja, Jimlas dēls. Un Jehošafats sacīja: Ķēniņš lai tā nesaka.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/18\/5-8.1792531975299.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jisraēla ķēniņš sacīja Jehošafatam: vēl ir viens vīrs, pie kā vaicāt Jahvem, ⟨את⟩ Jahvi, no ⟨את⟩ viņa; bet es viņu ienīstu, jo viņš nepavēstī par mani neko labu, jo visas savas dienas — tikai ļaunu: tas ⟨ir⟩ Mihaiahu, Jimlas dēls. Un Jehošafats sacīja: lai ķēniņš nesaka tā.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "un sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "מלך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israēla"
+      "gloss": "Jisraēla"
     },
     {
       "surface": "אל",
@@ -72,15 +46,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvem"
+      "marks": "Jahvi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvi"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ viņam"
+      "gloss": "no ⟨את⟩ viņa",
+      "marks": "viņa (tā vīra)"
     },
     {
       "surface": "ואני",
@@ -88,7 +63,7 @@
     },
     {
       "surface": "שנאתיהו",
-      "gloss": "ienīstu viņu"
+      "gloss": "viņu ienīstu"
     },
     {
       "surface": "כי",
@@ -96,11 +71,11 @@
     },
     {
       "surface": "איננו",
-      "gloss": "viņš nav"
+      "gloss": "viņš ne"
     },
     {
       "surface": "מתנבא",
-      "gloss": "neprofetē"
+      "gloss": "pavēstī"
     },
     {
       "surface": "עלי",
@@ -112,7 +87,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bet"
+      "gloss": "jo"
     },
     {
       "surface": "כל",
@@ -120,19 +95,19 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "viņa dienas"
+      "gloss": "savas dienas"
     },
     {
       "surface": "לרעה",
-      "gloss": "ļaunam"
+      "gloss": "ļaunu"
     },
     {
       "surface": "הוא",
-      "gloss": "tas ir"
+      "gloss": "tas"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mīkaja"
+      "gloss": "Mihaiahu"
     },
     {
       "surface": "בן",
@@ -144,7 +119,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "un sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "יהושפט",
@@ -152,11 +127,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "lai"
+      "gloss": "lai ne"
     },
     {
       "surface": "יאמר",
-      "gloss": "nesaka"
+      "gloss": "saka"
     },
     {
       "surface": "המלך",
@@ -167,6 +142,6 @@
       "gloss": "tā"
     }
   ],
-  "timestamp": "2026-10-20T21:32:55.301093796Z",
+  "timestamp": "2026-10-20T22:35:29.141511651Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Šimšona lūgums jauneklim",
-      "rationale": "tiešs uzrunas akts — akls vīrs lūdz ceļvedi"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "priekšloceklis iekļauts locījumā 'jauneklim'"
-    }
-  ],
-  "translation": "Un Šimšons sacīja jauneklim, kas turēja viņu aiz rokas: Laid mani, un liec man sataustīt ⟨את⟩ pīlārus, uz kiem nams balstās, lai es atspiežos pret tiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2576fa6f426a6bfe52fd16f06dfacaa1ed944f41199cb993e2cbdaffb6c2140e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/16\/25-28.1792518605165.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šimšons sacīja zēnam, kas turēja ⟨viņu⟩ aiz savas rokas: Atlaid ⟨את⟩ mani un ļau man aptaustīt ⟨את⟩ stabus, uz kuriem nams ir uzcēlies, lai es atspiežos uz tiem.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pret"
     },
     {
       "surface": "הנער",
-      "gloss": "jauneklim"
+      "gloss": "zēnam"
     },
     {
       "surface": "המחזיק",
@@ -50,29 +29,29 @@
     },
     {
       "surface": "בידו",
-      "gloss": "aiz rokas"
+      "gloss": "aiz savas rokas"
     },
     {
       "surface": "הניחה",
-      "gloss": "Laid"
+      "gloss": "Atlaid"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ mani",
       "marks": "mani"
     },
     {
       "surface": "והימשני",
-      "gloss": "un liec man sataustīt"
+      "gloss": "un ļau man aptaustīt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pīlārus"
+      "marks": "stabus"
     },
     {
       "surface": "העמדים",
-      "gloss": "pīlārus"
+      "gloss": "stabus"
     },
     {
       "surface": "אשר",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "נכון",
-      "gloss": "balstās"
+      "gloss": "ir uzcēlies"
     },
     {
       "surface": "עליהם",
@@ -96,9 +75,9 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "pret tiem"
+      "gloss": "uz tiem"
     }
   ],
-  "timestamp": "2026-10-20T17:50:05.166936977Z",
+  "timestamp": "2026-10-20T22:54:12.441809748Z",
   "model": "glm-5.3"
 }

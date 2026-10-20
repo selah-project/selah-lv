@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "גואל הדם",
-      "rationale": "burtiski 'asins izpestītājs\/aizstāvis' — radinieks, kas atbild par nokauto asinīm; tulkots 'asins aizstāvis'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מתמול שלשום",
-      "rationale": "burtiski 'no vakardienas, no aizvakardienas' — idoma 'iepriekšējos laiks, agrāk'."
-    }
-  ],
-  "translation": "Un ja asins aizstāvis viņu vajā, tad viņi nedos ⟨את⟩ slepkavu viņa rokā, jo bez zināšanas viņš bija sitis ⟨את⟩ savu tuvāko, un viņš viņu nebija ienīdis ne vakar, ne aizvakar.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c9a82516ad312c8324a31ecaa2a21d66065719f50c192d23e9a0feeb824d09c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/20\/5-8.1792518042310.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, ja asins izpirkējs vajās viņu, viņi nedos slepkavu ⟨את⟩ viņa rokā, jo bez zināšanas viņš sita ⟨את⟩ savu tuvāko, un viņš to nebija ienīdis no vakardienas un aizvakardienas.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "un ja"
+      "gloss": "un, ja"
     },
     {
       "surface": "ירדף",
-      "gloss": "vajā"
+      "gloss": "vajās"
     },
     {
       "surface": "גאל",
-      "gloss": "aizstāvis"
+      "gloss": "izpirkējs"
     },
     {
       "surface": "הדם",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "tad nedos"
+      "gloss": "nedos"
     },
     {
-      "surface": "יסגרuo",
-      "gloss": "nedos"
+      "surface": "יסגרו",
+      "gloss": "nodos"
     },
     {
       "surface": "את",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "bija sitis"
+      "gloss": "sita"
     },
     {
       "surface": "את",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "מתמול",
-      "gloss": "vakar"
+      "gloss": "no vakardienas"
     },
     {
       "surface": "שלשום",
-      "gloss": "aizvakar"
+      "gloss": "un aizvakardienas"
     }
   ],
-  "timestamp": "2026-10-20T17:40:42.310627880Z",
+  "timestamp": "2026-10-20T22:53:04.723422992Z",
   "model": "glm-5.3"
 }

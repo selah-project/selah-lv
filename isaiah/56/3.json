@@ -5,42 +5,15 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 56,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הבדל יבדילני",
-      "rationale": "Infinitivus absolutus — 'atkods atdalīs', pilnības apliecinājums; latviski 'pilnīgi atdalīs'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "santīts",
-      "rationale": "סריס — apkastrēts vīrietis; 'santīts' izvēlēts kā precīzs vārds."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨viņa⟩",
-      " rationale": "",
-      "gloss_note": "Pronoun added to clarify עמו refers to Jahve's people."
-    }
-  ],
-  "translation": "Un lai nesaka sveštautietis, kas pievienojies Jahvem: Jahve pilnīgi atdalīs mani no ⟨viņa⟩ tautas; un lai nesaka santīts: Lūk, es esmu izkaltis koks.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/56\/1-4.1792522968536.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un lai nesaka ārzemnieka dēls, kas pievienojies Jahvem: Jahve pilnīgi šķirs mani no ⟨sava⟩ tautas; un lai nesaka niedrūzis: Lūk, es esmu izkaltis koks.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Un lai nesaka"
+      "gloss": "un lai nesaka"
     },
     {
       "surface": "יאמר",
-      "gloss": ""
+      "gloss": "nesaka"
     },
     {
       "surface": "בן",
@@ -48,7 +21,7 @@
     },
     {
       "surface": "הנכר",
-      "gloss": "sveštautieša"
+      "gloss": "ārzemnieka"
     },
     {
       "surface": "הנלוה",
@@ -60,19 +33,19 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahvem"
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "teikdams"
     },
     {
       "surface": "הבדל",
-      "gloss": "atkods atdala"
+      "gloss": "pilnīgi šķirs"
     },
     {
       "surface": "יבדילני",
-      "gloss": "atkods mani atdalīs"
+      "gloss": "šķirs mani"
     },
     {
       "surface": "יהוה",
@@ -84,7 +57,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "viņa tautas"
+      "gloss": "⟨sava⟩ tautas"
     },
     {
       "surface": "ואל",
@@ -92,15 +65,15 @@
     },
     {
       "surface": "יאמר",
-      "gloss": ""
+      "gloss": "nesaka"
     },
     {
       "surface": "הסריס",
-      "gloss": "santīts"
+      "gloss": "niedrūzis"
     },
     {
       "surface": "הן",
-      "gloss": "Lūk"
+      "gloss": "lūk"
     },
     {
       "surface": "אני",
@@ -115,6 +88,6 @@
       "gloss": "izkaltis"
     }
   ],
-  "timestamp": "2026-10-20T19:02:48.537338020Z",
+  "timestamp": "2026-10-20T22:48:53.589834648Z",
   "model": "glm-5.3"
 }

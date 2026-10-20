@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir \/ ar",
-      "rationale": "Saiklis ⟨ir⟩ un prievārds ⟨ar⟩ pievienoti latviešu valodas labad"
-    },
-    {
-      "kind": "crux",
-      "subject": "בחתיתם מגבורתם",
-      "rationale": "'no savām šausmām un savas varas' — vai šausmas, ko tie sagādāja, vai šausmas, ko izjuta; tulkotāji dalās"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vadoņi",
-      "rationale": "נסיכי burtiski 'iepriestiņie' (no eļļas lējuma) — firstie\/vadoņi"
-    }
-  ],
-  "translation": "Tur ⟨ir⟩ visi ziemeļu vadoņi un visi Cīdonieši; tie nogāja ⟨ar⟩ ⟨את⟩ nogalinātajiem — no savas varas šausmām kaunēdamies, un viņi gulēja neapgraizīti ⟨ar⟩ zobena nogalinātajiem un nesa savu kaunu ⟨ar⟩ ⟨את⟩ tiem, kas kāpj bedrē.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8d20e7485cce3f378d490e4a7c9c84ed329371057383174cf1277606efdef7d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/32\/29-32.1792525541425.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tur ir visi ziemeļu firstaji un visi CIDonieši, kas nokāpa ⟨את⟩ nokautajiem; savās bailēs, no sava spēka viņi kaunas, un tie guļ neapgraizīti ar zobena nokautajiem un nes savu kaunu ar tiem, kas kāpj bedrē.",
   "tokens": [
     {
       "surface": "שמה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "vadoņi"
+      "gloss": "firstaji"
     },
     {
       "surface": "צפון",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "צדני",
-      "gloss": "Cīdonieši"
+      "gloss": "CIDonieši"
     },
     {
       "surface": "אשר",
@@ -63,32 +37,32 @@
     },
     {
       "surface": "ירדו",
-      "gloss": "nogāja"
+      "gloss": "nokāpa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nogalinātajiem"
+      "marks": "nokautajiem"
     },
     {
       "surface": "חללים",
-      "gloss": "nogalinātajiem"
+      "gloss": "nokautajiem"
     },
     {
       "surface": "בחתיתם",
-      "gloss": "no savām šausmām"
+      "gloss": "savās bailēs"
     },
     {
       "surface": "מגבורתם",
-      "gloss": "no savas varas"
+      "gloss": "no sava spēka"
     },
     {
       "surface": "בושים",
-      "gloss": "kaunēdamies"
+      "gloss": "kaunas"
     },
     {
       "surface": "וישכבו",
-      "gloss": "un gulēja"
+      "gloss": "un tie guļ"
     },
     {
       "surface": "ערלים",
@@ -97,11 +71,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zobena nogalinātajiem"
+      "marks": "zobena nokautajiem"
     },
     {
       "surface": "חללי",
-      "gloss": "nogalinātajiem"
+      "gloss": "nokautajiem"
     },
     {
       "surface": "חרב",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "un nesa"
+      "gloss": "un nes"
     },
     {
       "surface": "כלמתם",
@@ -129,6 +103,6 @@
       "gloss": "bedrē"
     }
   ],
-  "timestamp": "2026-10-20T19:45:41.426200587Z",
+  "timestamp": "2026-10-20T22:44:41.644405341Z",
   "model": "glm-5.3"
 }

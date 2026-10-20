@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש ir tuvāk 'rīkle\/dzīvības spēks', nevis dvēsele dvēseles teoloģijas nozīmē"
-    },
-    {
-      "kind": "crux",
-      "subject": "מבטא",
-      "rationale": "'pārsteidzīgais izteikums' (ASV\/BSB) pret 'skaidrais izteikums' (JPS) — tā pati sakne, ko Dāvids pārmet Nābālam (1. Sam 25)"
-    }
-  ],
-  "translation": "Bet ja viņas vīrs tajā dienā, kad dzird, viņu aizliedz, tad viņš anulē ⟨את⟩ viņas solījumu, kas uz viņu gulstas, un ⟨את⟩ viņas lūpu pārsteidzīgo izteikumu, ko viņa saistīja uz savu dvēseli, un Jahve viņai piedos.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/30\/9-12.1792516363202.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet ja tanī pašā dienā, kad viņas vīrs to dzird, viņš viņai to liedz, tad viņš anulē ⟨את⟩ viņas nedera, kas uz viņu gulstas, un ⟨את⟩ viņas lūpu pārsteidzīgo izteikumu, ar kuru viņa saistījusi savu nefesu, un Jahve viņai piedos.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "bet ja"
+      "gloss": "Bet ja"
     },
     {
       "surface": "ביום",
-      "gloss": "tajā dienā"
+      "gloss": "tanī pašā dienā"
     },
     {
       "surface": "שמע",
@@ -46,25 +25,25 @@
     },
     {
       "surface": "יניא",
-      "gloss": "aizliedz"
+      "gloss": "viņai to liedz"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "viņai to liedz (אותה — Directīvais objekts: viņu)"
     },
     {
       "surface": "והפר",
-      "gloss": "anulēs"
+      "gloss": "tad viņš anulē"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viņas solījumu"
+      "marks": "viņas neder (נדרה)"
     },
     {
       "surface": "נדרה",
-      "gloss": "solījumu"
+      "gloss": "viņas neder"
     },
     {
       "surface": "אשר",
@@ -72,12 +51,12 @@
     },
     {
       "surface": "עליה",
-      "gloss": "uz viņu"
+      "gloss": "uz viņu gulstas"
     },
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "viņas lūpu pārsteidzīgo izteikumu"
+      "marks": "viņas lūpu pārsteidzīgo izteikumu (מבטא שפתיה)"
     },
     {
       "surface": "מבטא",
@@ -85,15 +64,15 @@
     },
     {
       "surface": "שפתיה",
-      "gloss": "lūpu"
+      "gloss": "viņas lūpu"
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "ar kuru"
     },
     {
       "surface": "אסרה",
-      "gloss": "saistīja"
+      "gloss": "viņa saistījusi"
     },
     {
       "surface": "על",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "נפשה",
-      "gloss": "savu dvēseli"
+      "gloss": "savu nefesu"
     },
     {
       "surface": "ויהוה",
@@ -116,6 +95,6 @@
       "gloss": "viņai"
     }
   ],
-  "timestamp": "2026-10-20T17:12:43.204423972Z",
+  "timestamp": "2026-10-20T22:58:21.016565560Z",
   "model": "glm-5.3"
 }

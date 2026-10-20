@@ -5,42 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "otro כי pēc אף saplūst ar 'vēl jo vairāk' — atsevišķs atbilsmes vārds latviski nav vajadzīgs"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אף כי",
-      "rationale": "'cik vēl jo vairāk' — a fortiori pakāpiene no tautu dieviem uz jūsu Elohim"
-    },
-    {
-      "kind": "you",
-      "subject": "Sanheriba vārdi Jūdas ļaudīm",
-      "rationale": "vairāki aizlieguma imperatīvi tieši dzirdētājiem"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Eloah",
-      "rationale": "viņskaitļa forma saglabāta kā vārds, nevis pārtulkota par 'dievs'"
-    }
-  ],
-  "translation": "Un tagad lai Hizkijahs jūs nemaldina un lai nesavelk jūs tā, un neticiet viņam, jo nespēj neviens Eloah, nevienu tautu un valsti, izglābt savas tautas no manas rokas un no manu tēvu rokas; vēl jo vairāk jūsu Elohim neizglābs ⟨את⟩ jūs no manas rokas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b3625020094a9b845c29881016d0eb532f1840b3b09d3ea34fb546cf2ba62aac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/32\/13-16.1792532344012.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tagad lai Hizkijahs neved ⟨את⟩ jūs maldu ceļos un nesātinās jūs ⟨את⟩ tādā veidā, un neticiet viņam; jo nevarēja neviens Eloah jebkādas tautas un valsts izglābt savu tautu no manas rokas un no mana tēvu rokas — vai tad vēl jūsu Elohim izglābs ⟨את⟩ jūs no manas rokas?",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "un tagad"
+      "gloss": "Un tagad"
     },
     {
       "surface": "אל",
@@ -48,11 +17,12 @@
     },
     {
       "surface": "ישיא",
-      "gloss": "nemaldina"
+      "gloss": "ved maldu ceļos"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (ar Hizkijahu kā pavedēju)"
     },
     {
       "surface": "חזקיהו",
@@ -64,15 +34,16 @@
     },
     {
       "surface": "יסית",
-      "gloss": "nesavelk"
+      "gloss": "sātina"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (tādā veidā)"
     },
     {
       "surface": "כזאת",
-      "gloss": "tā"
+      "gloss": "tādā veidā"
     },
     {
       "surface": "ואל",
@@ -80,7 +51,7 @@
     },
     {
       "surface": "תאמינו",
-      "gloss": "neticiet"
+      "gloss": "ticat"
     },
     {
       "surface": "לו",
@@ -96,7 +67,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "nespēj"
+      "gloss": "varēja"
     },
     {
       "surface": "כל",
@@ -108,7 +79,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "jebkuras"
+      "gloss": "jebkādas"
     },
     {
       "surface": "גוי",
@@ -124,7 +95,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "savas tautas"
+      "gloss": "savu tautu"
     },
     {
       "surface": "מידי",
@@ -136,15 +107,15 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "manu tēvu"
+      "gloss": "maniem tēviem"
     },
     {
       "surface": "אף",
-      "gloss": "vēl jo vairāk"
+      "gloss": "— vēl jo vairāk"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "אלהיכם",
@@ -160,13 +131,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (no manas rokas)"
     },
     {
       "surface": "מידי",
       "gloss": "no manas rokas"
     }
   ],
-  "timestamp": "2026-10-20T21:39:04.013616041Z",
+  "timestamp": "2026-10-20T22:36:01.200202276Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā nav saikļa; latviešu valodā teikumam tas nepieciešams."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Prievārds iekļauts darbības vārdā 'runāja Jehū', atsevišķi netulkots."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ceturtajai paaudzēi",
-      "rationale": "רביעים burtiski 'ceturtie' — dēlu ceturtā paaudze, nevis skaitlis par sēdēšanas reizēm."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דבר\/דבר",
-      "rationale": "Vārda atkārtojums: 'vārds' (dāvār) un 'runāja' (dibēr) — viena sakne divreiz."
-    }
-  ],
-  "translation": "Šis ⟨ir⟩ Jahves vārds, ko Viņš runāja Jehū, sacīdams: Tavi dēli līdz ceturtajai paaudzēi sēdēs tev uz Jisraēla troņa; un tas notika tā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4dc9f2bf2ec57c7061389192f49d33977691d4ad5729251feed0c3db7bf154bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/15\/12-12.1792532609372.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šis ⟨ir⟩ Jahves vārds, ko viņš runāja Jēhuam, sacīdams: Tavi dēli līdz ceturtajai paaudzei sēdēs tev Israēla tronī; un tas notika tā.",
   "tokens": [
     {
       "surface": "הוא",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehū"
+      "gloss": "Jēhuam"
     },
     {
       "surface": "לאמר",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "רביעים",
-      "gloss": "līdz ceturtajai paaudzēi"
+      "gloss": "ceturtajai paaudzei"
     },
     {
       "surface": "ישבו",
@@ -88,15 +57,15 @@
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "—"
     },
     {
       "surface": "כסא",
-      "gloss": "troņa"
+      "gloss": "tronī"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraēla"
+      "gloss": "Israēla"
     },
     {
       "surface": "ויהי",
@@ -107,6 +76,6 @@
       "gloss": "tā"
     }
   ],
-  "timestamp": "2026-10-20T21:43:29.372900812Z",
+  "timestamp": "2026-10-20T22:36:07.723734223Z",
   "model": "glm-5.3"
 }

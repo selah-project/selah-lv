@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עשיתי",
-      "rationale": "KJV\/jps lasa 'esmu darījis' (ķēniņš par sevi), bet forma עָשִׂיתִי ar masora parasti tiek lasīta kā 2. personas 'tu esi darījis' — Joāba darbs."
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Maiguma daļiņa 'lūgtu' ebreju tekstā, latviski dots ar vienu vārdu."
-    },
-    {
-      "kind": "you",
-      "subject": "Joābs",
-      "rationale": "Ķēniņa runa tieši vērsta uz Joābu."
-    }
-  ],
-  "translation": "Un ķēniņš sacīja Joābam: Redzi, lūgtu, tu esi darījis ⟨את⟩ šo lietu; ej tad, atgriez ⟨את⟩ jaunekli Avšalomu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "29651a140c921cabe5a41e0359e29a912e0ab4ef5aaea5d517f4ee2fbb88b9d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/14\/21-24.1792519869533.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ķēniņš sacīja Joāvam: Lūk, ⟨tagad⟩ esmu izdarījis ⟨את⟩ šo lietu; ej ⟨tad⟩ un atved atpakaļ ⟨את⟩ jaunekli ⟨את⟩ Avšalomu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,23 +17,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "pie"
+      "gloss": "uz"
     },
     {
       "surface": "יואב",
-      "gloss": "Joābs"
+      "gloss": "Joāvu"
     },
     {
       "surface": "הנה",
-      "gloss": "redzi"
+      "gloss": "Lūk"
     },
     {
       "surface": "נא",
-      "gloss": "lūgtu"
+      "gloss": "⟨tagad⟩"
     },
     {
       "surface": "עשיתי",
-      "gloss": "tu esi darījis"
+      "gloss": "esmu izdarījis"
     },
     {
       "surface": "את",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "ולך",
-      "gloss": "ej tad"
+      "gloss": "un ej"
     },
     {
       "surface": "השב",
-      "gloss": "atgriez"
+      "gloss": "atved atpakaļ"
     },
     {
       "surface": "את",
@@ -101,6 +75,6 @@
       "gloss": "Avšalomu"
     }
   ],
-  "timestamp": "2026-10-20T18:11:09.533773947Z",
+  "timestamp": "2026-10-20T22:37:55.535340461Z",
   "model": "glm-5.3"
 }

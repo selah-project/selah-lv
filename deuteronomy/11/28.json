@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "eliem",
-      "rationale": "אלהים אחרים — 'citi elii' ar mazo burtu, jo tie ir svešie dievi, ne Elohim."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "Prievārds 'el' atkal izzūd balsī 'neklausīt pavēlēm'."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraēls",
-      "rationale": "Brīdinājums otrajā personā Israēlam."
-    }
-  ],
-  "translation": "un lāstu, ja neklausīsiet Jahves, jūsu Elohim, pavēlēm un novērsīsieties no ceļa, ko es šodien ⟨את⟩ jums pavēlu, sekot citiem eliem, kurus jūs neesat pazinuši.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/11\/25-28.1792516800987.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "un lāsts, ja neklausīsiet Jahves, jūsu Elohim, pavēlēm un novērsīsities no ceļa, kuru es jums ⟨את⟩ šodien pavēlu iet, sekojot citiem eliem, kurus jūs neesat pazinuši.",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "un lāstu"
+      "gloss": "un lāsts"
     },
     {
       "surface": "אם",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "מצות",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "וסרתם",
-      "gloss": "un novērsīsieties"
+      "gloss": "un novērsīsities"
     },
     {
       "surface": "מן",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kuru"
     },
     {
       "surface": "אנכי",
@@ -91,7 +65,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "היום",
@@ -99,11 +74,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "sekot"
+      "gloss": "iet"
     },
     {
       "surface": "אחרי",
-      "gloss": "aiz"
+      "gloss": "sekojot"
     },
     {
       "surface": "אלהים",
@@ -126,6 +101,6 @@
       "gloss": "esat pazinuši"
     }
   ],
-  "timestamp": "2026-10-20T17:20:00.994654879Z",
+  "timestamp": "2026-10-20T22:40:00.635785278Z",
   "model": "glm-5.3"
 }

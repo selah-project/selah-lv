@@ -5,54 +5,33 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "saujas",
-      "rationale": "כף ir doblā plauksta \/ ķepa — 'roka' zaudē anatomisko tēlu"
-    },
-    {
-      "kind": "crux",
-      "subject": "מסית",
-      "rationale": "'kārdina \/ pavedina' pret 'pārliecina' — tas pats vārds par Dieva pārbaudījumu un par pavedinātāju (5. Mozus 13)"
-    }
-  ],
-  "translation": "Vai Hizkija nesaved jūs kārdinādams, lai dotu jūs ⟨את⟩ nāvei badā un slāpēs, sacīdams: Jahve, mūsu Elohim, izraus mūs no Asīrijas ķēniņa saujas?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f5b2461bedbbfc4c7304bd2800811e4406f61ab5b00a00492134a7754f044b94",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/32\/10-11.1792532933576.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vai ne Hizkijahs kārdina ⟨את⟩ jūs, lai atdotu ⟨את⟩ jūus nāvei badā un slāpēs, sacīdams: Jahve, mūsu Elohim, mūs izglābs no ķēniņa Aššūras plaukstas?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Vai"
+      "gloss": "Vai ne"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Hizkija"
+      "gloss": "Hizkijahs"
     },
     {
       "surface": "מסית",
-      "gloss": "nesaved kārdinādams"
+      "gloss": "kārdina"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "⟨את⟩ nāvei badā un slāpēs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (kārdināšanas objekts — lai atdotu)"
     },
     {
       "surface": "לתת",
-      "gloss": "lai dotu"
+      "gloss": "lai atdotu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "⟨את⟩ nāvei badā un slāpēs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (atdošanas objekts — nāvei)"
     },
     {
       "surface": "למות",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "יצילנו",
-      "gloss": "izraus mūs"
+      "gloss": "mūs izglābs"
     },
     {
       "surface": "מכף",
-      "gloss": "no saujas"
+      "gloss": "no plaukstas"
     },
     {
       "surface": "מלך",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asīrijas"
+      "gloss": "Aššūras"
     }
   ],
-  "timestamp": "2026-10-20T21:48:53.576908263Z",
+  "timestamp": "2026-10-20T22:35:41.057549772Z",
   "model": "glm-5.3"
 }

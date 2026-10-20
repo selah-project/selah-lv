@@ -5,44 +5,23 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Israēlam",
-      "rationale": "Pavēle vērsta tieši pie Israēla kopienas par iedzīvotāju attieksmi pret ieredzi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nepārdarīsiet",
-      "rationale": "יָנָה nozīmē apspiest, izmantot vardarbīgi; 'vex\/do wrong' tradīcijas sablīdzina vienu vārdu."
-    }
-  ],
-  "translation": "Un kad tavā zemē pie tevis dzīvos kā ieredzis, jūs nepārdarīsiet ⟨את⟩ viņu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/33-36.1792515122025.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, ja tavā zemē ⟨את⟩ pie tevis dzīvos svētceļnieks, nevienam no viņa ⟨jums⟩ jāapspiež ⟨את⟩ viņu — nespiediet viņu!",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Un kad"
+      "gloss": "un, ja"
     },
     {
       "surface": "יגור",
-      "gloss": "dzīvos kā ieredzis"
+      "gloss": "dzīvos kā svētceļnieks"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tev"
+      "gloss": "⟨את⟩ pie tevis"
     },
     {
       "surface": "גר",
-      "gloss": "ieredzis"
+      "gloss": "svētceļnieks"
     },
     {
       "surface": "בארצכם",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "nepārdarīsiet"
+      "gloss": "ne"
     },
     {
       "surface": "תונו",
-      "gloss": "nepārdarīsiet"
+      "gloss": "apspiediet"
     },
     {
       "surface": "אתו",
@@ -62,6 +41,6 @@
       "marks": "viņu"
     }
   ],
-  "timestamp": "2026-10-20T16:52:02.026637374Z",
+  "timestamp": "2026-10-20T22:55:16.540974241Z",
   "model": "glm-5.3"
 }

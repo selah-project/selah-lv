@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Šauls kenitiem",
-      "rationale": "Tieša uzruna kenitiem ar pavēlēm."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אספך",
-      "rationale": "Ebreju 'savāc tevi' — iznīcināšanas apzināts eifēmisms, latviski pārfrāzēts."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tu⟩",
-      "rationale": "Hebrejiski teikuma struktūra ir 'un tu darīji hesedu' — vienskaitlis, kaut uzruna ir daudzskaitlī; vienskaitlis saglabāts."
-    }
-  ],
-  "translation": "Un Šauls sacīja kenitiem: Ejiet, atkāpjieties, kāpjiet lejā no amalekiešu vidus, lai man tevi nevajadzētu iznīcināt kopā ar viņiem; bet ⟨tu⟩ rādīji hesedu visiem Jisraēla dēliem, kad tie cēlās augšā no Micraimas. Un keniti atkāpās no amalekiešu vidus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/5-8.1792519079248.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šaūls sacīja keniešiem: Ejiet, novērsieties, kāpjiet lejā no amalekiešu vidus, lai man tevi nav jāapkaro kopā ar viņiem, jo tu rādīji hesedu visiem Jisraēla dēliem, kad tie kāpa augšā no Micraimas. Un kenietis novērsās no amalekiešu vidus.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šauls"
+      "gloss": "Šaūls"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "keniešiem (pie)"
     },
     {
       "surface": "הקיני",
-      "gloss": "kenitiem"
+      "gloss": "keniešiem"
     },
     {
       "surface": "לכו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "סרו",
-      "gloss": "atkāpjieties"
+      "gloss": "novērsieties"
     },
     {
       "surface": "רדו",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "אספך",
-      "gloss": "tev jātiek iznīcinātam"
+      "gloss": "man tevi nav jāapkaro"
     },
     {
       "surface": "עמו",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "un ⟨tu⟩"
+      "gloss": "jo tu"
     },
     {
       "surface": "עשיתה",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "pret"
+      "gloss": "ar"
     },
     {
       "surface": "כל",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "בעלותם",
-      "gloss": "kad tie cēlās augšā"
+      "gloss": "kad tie kāpa augšā"
     },
     {
       "surface": "ממצרים",
@@ -119,11 +93,11 @@
     },
     {
       "surface": "ויסר",
-      "gloss": "Un atkāpās"
+      "gloss": "Un novērsās"
     },
     {
       "surface": "קיני",
-      "gloss": "keniti"
+      "gloss": "kenietis"
     },
     {
       "surface": "מתוך",
@@ -131,9 +105,9 @@
     },
     {
       "surface": "עמלק",
-      "gloss": "amalekiešu"
+      "gloss": "amalekiešiem"
     }
   ],
-  "timestamp": "2026-10-20T17:57:59.249804366Z",
+  "timestamp": "2026-10-20T22:33:28.030060801Z",
   "model": "glm-5.3"
 }

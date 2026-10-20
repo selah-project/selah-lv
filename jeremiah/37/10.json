@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "'jo, ja arī' — koncesīvs konstrukts: pat ja viss karaspēks sakauts, iznākums nemainās."
-    },
-    {
-      "kind": "crux",
-      "subject": "מדקרים",
-      "rationale": "'caurdurti' (nāvēji ievainoti) — daži tulko 'sitienu saņēmuši'; darbības vārds דקר nozīmē 'durt, caurdurt'."
-    }
-  ],
-  "translation": "Jo arī tad, ja jūs būtu sakāvuši visu kašdiešu karaspēku, kas karo pret jums, un no viņiem būtu palikuši pāri tikai caurdurti vīri, katrs savā teltī piecelstos un nodedzinātu ⟨את⟩ šo pilsētu ar uguni.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "34abc6e22be67936765d00e0ad9beab40db8b5b7ee9f56e32ed52d65c98f30e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/37\/9-12.1792524193765.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo, ja arī jūs sakāsit visu kasdiešu karaspēku, kas cīnās ⟨את⟩ ar jums, un starp viņiem paliks pāri izdurti vīri — katrs savā teltī celsies, un tie nodedzinās ⟨את⟩ šo pilsētu ar uguni.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jo"
+      "gloss": "jo"
     },
     {
       "surface": "אם",
-      "gloss": "arī tad, ja"
+      "gloss": "ja arī"
     },
     {
       "surface": "הכיתם",
-      "gloss": "jūs būtu sakāvuši"
+      "gloss": "sakāsit"
     },
     {
       "surface": "כל",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "kašdiešu"
+      "gloss": "kasdiešu"
     },
     {
       "surface": "הנלחמים",
-      "gloss": "kas karo"
+      "gloss": "kas cīnās"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pret jums"
+      "gloss": "⟨את⟩ ar jums"
     },
     {
       "surface": "ונשארו",
-      "gloss": "un būtu palikuši pāri"
+      "gloss": "paliks pāri"
     },
     {
       "surface": "בם",
-      "gloss": "no viņiem"
+      "gloss": "starp viņiem"
     },
     {
       "surface": "אנשים",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "מדקרים",
-      "gloss": "caurdurti"
+      "gloss": "izdurti"
     },
     {
       "surface": "איש",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "יקומו",
-      "gloss": "piecelsitos"
+      "gloss": "celsies"
     },
     {
       "surface": "ושרפו",
-      "gloss": "un nodedzinātu"
+      "gloss": "nodedzinās"
     },
     {
       "surface": "את",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "pilsētu"
+      "gloss": "šo pilsētu"
     },
     {
       "surface": "הזאת",
@@ -110,6 +89,6 @@
       "gloss": "ar uguni"
     }
   ],
-  "timestamp": "2026-10-20T19:23:13.766133530Z",
+  "timestamp": "2026-10-20T22:50:12.026630520Z",
   "model": "glm-5.3"
 }

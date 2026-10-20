@@ -5,33 +5,7 @@
   "book": "zechariah",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "היוצר",
-      "rationale": "Podnieks (kalējs-veidotājs) pret JPS 'bankas nodala glabātava' (היוצר kā האוצר lasījums); LXX un vairums — podnieks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יקר \/ יקרתי",
-      "rationale": "Vārdu spēle: 'dārgums' un 'novērtēt' no vienas saknes — ironija par trīsdesmit sudraba gabaliem."
-    },
-    {
-      "kind": "measurement",
-      "subject": "trīsdesmit sudraba",
-      "rationale": "Konkrēta samaksa — verga cena (2. Mozus 21:32) trīsdesmit sudraba šekeļu."
-    }
-  ],
-  "translation": "Un Jahve sacīja man: Met to podniekam — cēlo vērtību, ar kādu tie mani novērtēja no sevis. Un es ņēmu trīsdesmit sudraba un iemetu to Jahves namā, pie podnieka.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2886a7b213736362669544b3af6a64ebd646d3c1ef50fc2775606f9d026cb78b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/11\/13-16.1792526910798.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja man: Met to podniekam — spožā vērtība, ar kādu viņi mani novērtēja! Un es ņēmu trīsdesmit sudraba ⟨šekelus⟩ un threw to podniekam! Un es to (⟨את⟩) nometu Jahves namā, pie podnieka.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "השליכהו",
-      "gloss": "Met to"
+      "gloss": "met to"
     },
     {
       "surface": "אל",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "אדר",
-      "gloss": "cēlo"
+      "gloss": "spožā"
     },
     {
       "surface": "היקר",
-      "gloss": "vērtību"
+      "gloss": "vērtība"
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "ar kādu"
     },
     {
       "surface": "יקרתי",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "מעליהם",
-      "gloss": "no viņiem"
+      "gloss": "no viņu puses"
     },
     {
       "surface": "ואקחה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ואשליך",
-      "gloss": "un iemetu"
+      "gloss": "un es nometu"
     },
     {
       "surface": "אתו",
@@ -115,6 +89,6 @@
       "gloss": "podnieka"
     }
   ],
-  "timestamp": "2026-10-20T20:08:30.799467638Z",
+  "timestamp": "2026-10-20T23:00:44.058875879Z",
   "model": "glm-5.3"
 }

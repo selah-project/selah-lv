@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 77,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esi",
-      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs."
-    }
-  ],
-  "translation": "Tu ⟨esi⟩ ⟨ה⟩ El, kas dara brīnumus; Tu darīji zināmu tautu vidū savu spēku.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/77\/13-16.1792527873143.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tu esi ⟨ir⟩ ⟨tas⟩ El, kas dara brīnumus; tu darīji zināmu savu spēku tautu vidū.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "Tu"
+      "gloss": "tu"
     },
     {
       "surface": "האל",
-      "gloss": "El"
+      "gloss": "⟨tas⟩ El"
     },
     {
       "surface": "עשה",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "הודעת",
-      "gloss": "Tu darīji zināmu"
+      "gloss": "tu darīji zināmu"
     },
     {
       "surface": "בעמים",
@@ -52,6 +36,6 @@
       "gloss": "savu spēku"
     }
   ],
-  "timestamp": "2026-10-20T20:24:33.144087411Z",
+  "timestamp": "2026-10-20T23:21:53.281195533Z",
   "model": "glm-5.3"
 }

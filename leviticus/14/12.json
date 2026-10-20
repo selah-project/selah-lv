@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "logu eļļas",
-      "rationale": "לג ir noteikts šķidruma mērs (log) — saglabāts kā mērvienības nosaukums."
-    }
-  ],
-  "translation": "Un priesteris ņems ⟨את⟩ vienu jēru un pievedīs to par vainas upuri, un ⟨את⟩ logu eļļas, un vicinās ⟨את⟩ tos par vicināmo upuri Jahves priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/14\/9-12.1792513880551.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteris ņems ⟨את⟩ vienu jēru un piesolušos to par vainas upuri, un ⟨את⟩ loga mēru eļļas, un vicinās tos par vicināšanas upuru Jahves priekšā.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Un ņems"
+      "gloss": "Un priesteris ņems"
     },
     {
       "surface": "הכהן",
@@ -46,12 +30,12 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "un pievedīs"
+      "gloss": "un piesološs"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "to"
+      "gloss": "to ⟨את⟩",
+      "marks": "par vainas upuri"
     },
     {
       "surface": "לאשם",
@@ -59,12 +43,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "logu eļļas"
+      "gloss": "un ⟨את⟩",
+      "marks": "loga mēru eļļas"
     },
     {
       "surface": "לג",
-      "gloss": "logu"
+      "gloss": "loga mēru"
     },
     {
       "surface": "השמן",
@@ -76,12 +60,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "tos"
+      "gloss": "tos ⟨את⟩",
+      "marks": "vicināšanas upuru"
     },
     {
       "surface": "תנופה",
-      "gloss": "par vicināmo upuri"
+      "gloss": "par vicināšanas upuru"
     },
     {
       "surface": "לפני",
@@ -92,6 +76,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T16:31:20.553393881Z",
+  "timestamp": "2026-10-20T22:55:21.289742034Z",
   "model": "glm-5.3"
 }

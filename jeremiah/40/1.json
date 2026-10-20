@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רב טבחים",
-      "rationale": "burtiski 'kaujamo priekšnieks' (cīņas pavēlnieks), tulkots kā 'cīņas priekšnieks'; ebreju vārds ir 'kauēju (bendežu) galvenais'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "גלות",
-      "rationale": "'izsūtīšana' var tikt lasīta arī konkrēti kā 'izsūtītie' (kolektīvi)"
-    }
-  ],
-  "translation": "Vārds, kas nāca pie Jirmejahu no ⟨את⟩ Jahves, pēc tam kad Nevuzaradans, cīņas priekšnieks, viņu atlaida no Ramas, ņemot ⟨את⟩ viņu, un viņš bija sasaistīts važās starp visu Jerušalaimas un Jehudas izsūtīšanu, kas tika izsūtītas uz Babeli.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2993e0ab51f61cb0dc3a3f88bfd67816dab5bfc361ebb50e5595bb73f801e975",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/40\/1-4.1792524281505.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vārds, kas bija pie Jirmejahu no ⟨את⟩ Jahves, pēc tam kad Nevuzaradans, bendeļu priekšnieks, bija laidis viņu ⟨את⟩ projām no Ramas, ņemot ⟨את⟩ viņu — un ⟨viņš⟩ bija sasaistīts važās — visas Jerušalaimas un Jihudas izsūtīto vidū, kas tika izsūtīti uz Bābeli.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "nāca"
+      "gloss": "bija"
     },
     {
       "surface": "אל",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "אחר",
-      "gloss": "pēc tam kad"
+      "gloss": "pēc tam"
     },
     {
       "surface": "שלח",
-      "gloss": "atlaida"
+      "gloss": "laidis projām"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "viņu — Jirmejahu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "Jirmejahu (sūtījuma objekts, sūtītājs Nevuzaradans)"
     },
     {
       "surface": "נבוזראדן",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "cīņas"
+      "gloss": "priekšnieks"
     },
     {
       "surface": "טבחים",
-      "gloss": "priekšnieks"
+      "gloss": "bendeļu"
     },
     {
       "surface": "מן",
@@ -95,12 +74,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "viņu — Jirmejahu"
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņš (Jirmejahu, sasaistītais)"
     },
     {
       "surface": "והוא",
-      "gloss": "un viņš"
+      "gloss": "un ⟨viņš⟩"
     },
     {
       "surface": "אסור",
@@ -112,15 +91,15 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "starp"
+      "gloss": "vidū"
     },
     {
       "surface": "כל",
-      "gloss": "visu"
+      "gloss": "visas"
     },
     {
       "surface": "גלות",
-      "gloss": "izsūtīšanu"
+      "gloss": "izsūtīto"
     },
     {
       "surface": "ירושלם",
@@ -128,17 +107,17 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "un Jehudas"
+      "gloss": "un Jihudas"
     },
     {
       "surface": "המגלים",
-      "gloss": "tika izsūtītie"
+      "gloss": "kas tika izsūtīti"
     },
     {
       "surface": "בבלה",
-      "gloss": "uz Babeli"
+      "gloss": "uz Bābeli"
     }
   ],
-  "timestamp": "2026-10-20T19:24:41.506441922Z",
+  "timestamp": "2026-10-20T22:50:35.010422638Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עכרתנו \/ יעכרך \/ עכור",
-      "rationale": "Saknes עכר atkārtojums: Ahans 'samaitāja', Jahve 'samaitās' viņu, un vieta tiek nosaukta Ahoras ieleja (7:26) — vārds top no soda."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויסקלו",
-      "rationale": "Daži lasa 'apmētāja ar akmeņiem' (nāvessods), citi 'apbēra' (kaps) — šeit atstāts 'apbēra', kā teksta secība pēc sadedzināšanas."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אבן",
-      "rationale": "'ar akmeņiem' — ebreju vienskaitlis אבן ('akmens') latviski prasa daudzskaitli apmetības nozīmē."
-    }
-  ],
-  "translation": "Un Jehošua sacīja: Kā tu mūs samaitāji? Lai Jahve tevi samaitā šajā dienā! Un viss Jisraēls apmētāja ⟨את⟩ viņu ar akmeņiem, un tie sadedzināja tos ugunī, un apbēra tos ar akmeņiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ec47585d514866e8b708bbfc8a18475f500b9459aaca67bd89668f74f5644305",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/7\/25-26.1792517665010.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jehošua sacīja: Kāpēc tu mūs apgrūtināji? Jahve lai tevi apgrūtina šajā dienā. Un viss Jisraēls nomētāja ⟨את⟩ viņu ar akmeņiem, un viņi sadedzināja ⟨את⟩ tos ugunī, un viņi apbēra ⟨את⟩ tos ar akmeņiem.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "מה",
-      "gloss": "Kā"
+      "gloss": "Kāpēc"
     },
     {
       "surface": "עכרתנו",
-      "gloss": "tu mūs samaitāji"
+      "gloss": "tu mūs apgrūtināji"
     },
     {
       "surface": "יעכרך",
-      "gloss": "tevi samaitās"
+      "gloss": "lai tevi apgrūtina"
     },
     {
       "surface": "יהוה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "וירגמו",
-      "gloss": "Un apmētāja ar akmeņiem"
+      "gloss": "Un nomētāja"
     },
     {
       "surface": "אתו",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "אבן",
-      "gloss": "akmens"
+      "gloss": "ar akmeņiem"
     },
     {
       "surface": "וישרפו",
-      "gloss": "Un sadedzināja"
+      "gloss": "un viņi sadedzināja"
     },
     {
       "surface": "אתם",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "ויסקלו",
-      "gloss": "Un apbēra ar akmeņiem"
+      "gloss": "un viņi apbēra"
     },
     {
       "surface": "אתם",
@@ -113,6 +87,6 @@
       "gloss": "ar akmeņiem"
     }
   ],
-  "timestamp": "2026-10-20T17:34:25.011548770Z",
+  "timestamp": "2026-10-20T22:53:16.434645962Z",
   "model": "glm-5.3"
 }

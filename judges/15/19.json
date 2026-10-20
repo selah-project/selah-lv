@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המכתש אשר בלחי",
-      "rationale": "Vai 'iedobe, kas ir žoklī' (KJV: dobe žoklī) vai 'iedobe, kas ir Lehī' (vietā); abi lasījumi ir iespējami"
-    },
-    {
-      "kind": "substitution",
-      "subject": "iedobe",
-      "rationale": "מכתש burtiski ir 'piests\/maišels'; šeit zobs vai dobe akmenī"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩",
-      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs"
-    }
-  ],
-  "translation": "Un Elohim pāršķīla ⟨את⟩ iedobi, kas ⟨bija⟩ Lehī, un no tās izplūda ūdens, un viņš dzēra, un viņa ruah atgriezās, un viņš atdzīvojās; tāpēc tās vārdu sauc En Hakore, kas ir Lehī, līdz šai dienai.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6dc18d411f61a1e1b26973d45fc646cfd1f64aba9c990e20c460f6bf20f27604",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/15\/17-20.1792518467506.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Elohim saplēsa ⟨את⟩ piestu, kas ⟨ir⟩ Lehī, un no tā izplūda ūdens, un viņš dzēra, un viņa ruah atgriezās, un viņš atdzīvojās; tāpēc tā tika nosaukta En-HaKore, kas ⟨ir⟩ Lehī, līdz šai dienai.",
   "tokens": [
     {
       "surface": "ויבקע",
-      "gloss": "Un pāršķīla"
+      "gloss": "Un saplēsa"
     },
     {
       "surface": "אלהים",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iedobi"
+      "marks": "piestu"
     },
     {
       "surface": "המכתש",
-      "gloss": "iedobe"
+      "gloss": "piestu"
     },
     {
       "surface": "אשר",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "no tās"
+      "gloss": "no tā"
     },
     {
       "surface": "מים",
@@ -92,15 +66,15 @@
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "tāpēc"
     },
     {
       "surface": "קרא",
-      "gloss": "sauca"
+      "gloss": "tika nosaukta"
     },
     {
       "surface": "שמה",
-      "gloss": "tās vārdu"
+      "gloss": "tās vārds"
     },
     {
       "surface": "עין",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "הקורא",
-      "gloss": "Hakore"
+      "gloss": "HaKore"
     },
     {
       "surface": "אשר",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "בלחי",
-      "gloss": "ir Lehī"
+      "gloss": "Lehī"
     },
     {
       "surface": "עד",
@@ -131,6 +105,6 @@
       "gloss": "šai"
     }
   ],
-  "timestamp": "2026-10-20T17:47:47.507746509Z",
+  "timestamp": "2026-10-20T22:54:16.888212718Z",
   "model": "glm-5.3"
 }

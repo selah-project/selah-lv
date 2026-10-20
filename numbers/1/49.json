@@ -5,42 +5,16 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "census",
-      "rationale": "Tārps par cilšu saskaitīšanu — Levi tiek izslēgts no skaita."
-    },
-    {
-      "kind": "you",
-      "subject": "to Moše",
-      "rationale": "Pavēle vērsta tieši pie Mošes."
-    },
-    {
-      "kind": "substitution",
-      "subject": "galvu skaitu",
-      "rationale": "ראשם burtiski 'to galvas' — skaita ņemšana pa galvām."
-    }
-  ],
-  "translation": "Tikai Levija cilti tu nesaskaitīsi, un ⟨את⟩ to galvu skaitu tu neņemsi Jisraēla dēlu vidū.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/49-52.1792515315523.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tikai Levi cilti tu nedrīksti skaitīt ⟨את⟩, un viņu galvu skaitu tu nedrīksti pacelt ⟨את⟩ starp Jisraēla dēliem.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Tikai"
+      "gloss": "tikai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levija cilti"
+      "marks": "Levi cilti"
     },
     {
       "surface": "מטה",
@@ -48,46 +22,46 @@
     },
     {
       "surface": "לוי",
-      "gloss": "Levija"
+      "gloss": "Levi"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nedrīksti"
     },
     {
       "surface": "תפקד",
-      "gloss": "nesaskaitīsi"
+      "gloss": "skaitīt"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "to galvu skaitu"
+      "gloss": "un ⟨את⟩",
+      "marks": "viņu galvu skaitu"
     },
     {
       "surface": "ראשם",
-      "gloss": "galvu skaitu"
+      "gloss": "viņu galvu skaitu"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nedrīksti"
     },
     {
       "surface": "תשא",
-      "gloss": "neņemsi"
+      "gloss": "pacelt"
     },
     {
       "surface": "בתוך",
-      "gloss": "vidū"
+      "gloss": "starp"
     },
     {
       "surface": "בני",
-      "gloss": "dēlu"
+      "gloss": "dēliem"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T16:55:15.525484705Z",
+  "timestamp": "2026-10-20T22:57:04.515270738Z",
   "model": "glm-5.3"
 }

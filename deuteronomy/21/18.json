@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סורר ומורה",
-      "rationale": "'Novērsies un dumpīgs' — rabīnu tradīcija lasa kā 'izšķērdīgs un badīgs' (sonā glotons); burtiskā nozīme ir morāla novēršanās."
-    }
-  ],
-  "translation": "Ja kādam vīram būs dēls, kas novēršas un dumpojas, viņš neklausa sava tēva balsī un savas mātes balsī, un viņi viņu pārmāca, bet viņš viņus neklausa.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/17-20.1792517076838.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kādam vīram ir dēls, kas ir untumains un pretīgs — viņš neklausa sava tēva balsi un savas mātes balsij, un viņi viņu sudina, bet viņš neklausa ⟨את⟩ viņiem —",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "būs"
+      "gloss": "ir"
     },
     {
       "surface": "לאיש",
@@ -41,15 +25,15 @@
     },
     {
       "surface": "סורר",
-      "gloss": "kas novēršas"
+      "gloss": "untumains"
     },
     {
       "surface": "ומורה",
-      "gloss": "un dumpojas"
+      "gloss": "pretīgs"
     },
     {
       "surface": "איננו",
-      "gloss": "viņš ne"
+      "gloss": "viņš nav"
     },
     {
       "surface": "שמע",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "balsī"
+      "gloss": "balsi"
     },
     {
       "surface": "אביו",
@@ -65,7 +49,7 @@
     },
     {
       "surface": "ובקול",
-      "gloss": "un balsī"
+      "gloss": "un balsij"
     },
     {
       "surface": "אמו",
@@ -73,7 +57,7 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "un viņi pārmāca"
+      "gloss": "un viņi sudina"
     },
     {
       "surface": "אתו",
@@ -90,9 +74,9 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "viņus"
+      "gloss": "viņiem"
     }
   ],
-  "timestamp": "2026-10-20T17:24:36.841480839Z",
+  "timestamp": "2026-10-20T22:40:03.286892155Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,37 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פני",
-      "rationale": "Burtiski 'uz sejas' — idiomā 'kāda priekšā, kāda acu priekšā'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "pirmdzimtais",
-      "rationale": "Panta tēma ir pirmdzimšanas tiesības un mantojuma daļas sadalījums."
-    }
-  ],
-  "translation": "tad būs: dienā, kad viņš liek saviem dēliem mantot ⟨את⟩ to visu, kas viņam ir, viņš nedrīkst par pirmdzimto pasludināt ⟨את⟩ mīlētās dēlu ienīstās dēla — pirmdzimtā — priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/13-16.1792517079563.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notiks: tanā dienā, kad viņš darīs ⟨את⟩ savus dēlus par mantiniekiem tam, kas ⟨ir⟩ viņam, viņš nevarēs pasludināt par pirmdzimušo ⟨את⟩ mīļotās dēlu ienīstās dēla priekšā — par pirmdzimušo.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "tad būs"
+      "gloss": "un notiks"
     },
     {
       "surface": "ביום",
-      "gloss": "dienā"
+      "gloss": "tanā dienā"
     },
     {
       "surface": "הנחילו",
-      "gloss": "kad viņš liek mantot"
+      "gloss": "kad viņš darīs … par mantiniekiem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saviem dēliem"
+      "marks": "savus dēlus"
     },
     {
       "surface": "בניו",
-      "gloss": "saviem dēliem"
+      "gloss": "savus dēlus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to visu, kas viņam ir"
+      "marks": "to, kas viņam ir"
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "to, kas"
     },
     {
       "surface": "יהיה",
@@ -68,20 +47,20 @@
     },
     {
       "surface": "לא",
-      "gloss": "nedrīkst"
+      "gloss": "ne"
     },
     {
       "surface": "יוכל",
-      "gloss": "viņš var"
+      "gloss": "viņš varēs"
     },
     {
       "surface": "לבכר",
-      "gloss": "par pirmdzimto pasludināt"
+      "gloss": "pasludināt par pirmdzimušo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mīlētās dēlu"
+      "marks": "mīļotās dēlu"
     },
     {
       "surface": "בן",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "האהובה",
-      "gloss": "mīlētās"
+      "gloss": "mīļotās"
     },
     {
       "surface": "על",
@@ -109,9 +88,9 @@
     },
     {
       "surface": "הבכר",
-      "gloss": "pirmdzimtā"
+      "gloss": "par pirmdzimušo"
     }
   ],
-  "timestamp": "2026-10-20T17:24:39.567256203Z",
+  "timestamp": "2026-10-20T22:40:03.821881846Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,20 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויזנו",
-      "rationale": "Burtiski 'netikloja\/aizgāja netiklībā' — ebreju idiomātisks apzīmējums elku dievkalpošanai."
-    },
-    {
-      "kind": "substitution",
-      "subject": "efods",
-      "rationale": "אפוד ir priesteru plecu apģērbs; Gideona efods kļuva par pielūgsmes objektu — vārds paturēts transkribēts."
-    },
-    {
-      "kind": "mystery",
-      "subject": "למוקש",
-      "rationale": "Efods kā 'slazds' — teksts norāda uz slēptu seku, ko pats notikums vēl neizskaidro."
-    }
-  ],
-  "translation": "Un Gideons no tā izdarīja efodu un nostādīja to savā pilsētā, Ofrā,un viss Jisraēls netikloja tur aiz tā; un tas kļuva Gideonam un viņa namam par slazdu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/8\/25-28.1792518374662.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Gidons no tās izdarīja efodu un novietoja ⟨את⟩ to savā pilsētā, Ofrā; un viss Jisraēls tur netikloja pēc tās, un tā kļuva par lamatu Gidonam un viņa namam.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Un Gideons izdarīja"
+      "gloss": "un izdarīja"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ viņu",
-      "marks": "efodu"
+      "gloss": "⟨את⟩",
+      "marks": "to (no zelta — efods)"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideons"
+      "gloss": "Gidons"
     },
     {
       "surface": "לאפוד",
@@ -52,12 +26,12 @@
     },
     {
       "surface": "ויצג",
-      "gloss": "un nostādīja"
+      "gloss": "un novietoja"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ viņu",
-      "marks": "efodu savā pilsētā"
+      "gloss": "⟨את⟩",
+      "marks": "to (efodu)"
     },
     {
       "surface": "בעירו",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "aiz tā"
+      "gloss": "pēc tās"
     },
     {
       "surface": "שם",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "un tas kļuva"
+      "gloss": "un kļuva"
     },
     {
       "surface": "לגדעון",
-      "gloss": "Gideonam"
+      "gloss": "Gidonam"
     },
     {
       "surface": "ולביתו",
@@ -101,9 +75,9 @@
     },
     {
       "surface": "למוקש",
-      "gloss": "par slazdu"
+      "gloss": "par lamatu"
     }
   ],
-  "timestamp": "2026-10-20T17:46:14.664134851Z",
+  "timestamp": "2026-10-20T22:54:47.348631072Z",
   "model": "glm-5.3"
 }

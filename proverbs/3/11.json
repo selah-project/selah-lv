@@ -5,37 +5,11 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pamācību",
-      "rationale": "מוסר aptver gan 'sodu, disciplīnu', gan 'mācību, pamācību' — viens vārds, plaša nozīme"
-    },
-    {
-      "kind": "you",
-      "subject": "mans dēls",
-      "rationale": "Tieša uzruna dēlam — pamācības žanra forma"
-    },
-    {
-      "kind": "invitation",
-      "subject": "aizliegums",
-      "rationale": "Otrās personas aizliegumi 'ne nicini, ne iejūties' tieši uzrunā lasītāju"
-    }
-  ],
-  "translation": "Jahves pamācību, mans dēls, ne nicini un neiejūties viņa pārmetumā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/9-12.1792528538929.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahves mācību, mans dēls, neienaido, un neapnicies viņa pārmetumā.",
   "tokens": [
     {
       "surface": "מוסר",
-      "gloss": "pamācību"
+      "gloss": "mācība"
     },
     {
       "surface": "יהוה",
@@ -50,8 +24,8 @@
       "gloss": "ne"
     },
     {
-      "surface": "תמאس",
-      "gloss": "nicini"
+      "surface": "תמאס",
+      "gloss": "ienaido"
     },
     {
       "surface": "ואל",
@@ -59,13 +33,13 @@
     },
     {
       "surface": "תקץ",
-      "gloss": "iejūties"
+      "gloss": "apnicis"
     },
     {
       "surface": "בתוכחתו",
       "gloss": "viņa pārmetumā"
     }
   ],
-  "timestamp": "2026-10-20T20:35:38.930932028Z",
+  "timestamp": "2026-10-20T22:59:28.381540553Z",
   "model": "glm-5.3"
 }

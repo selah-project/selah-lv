@@ -5,40 +5,20 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ירד בבכי",
-      "rationale": "'Nolaižas raudiens' — burtiski 'iet uz leju ar raudāšanu'; tulkots kā kustība raudājot"
-    },
-    {
-      "kind": "addition",
-      "subject": "viņi",
-      "rationale": "Ebreju darbības vārdā nav subjekta; latviešu valodai vajadzīgs"
-    }
-  ],
-  "translation": "Viņa ārpusēs viņi apjoza马尾iem maisa drēbes; uz viņas jumtiem un viņas laukumos visi gaudo, raudiens nolaižas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/15\/1-4.1792522088342.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņu ielās viņi apjoza ⟨את⟩ sāju, uz viņas jumtiem un viņas laukumos visi gaudo, iet lejā ar raudāšanu.",
   "tokens": [
     {
       "surface": "בחוצתיו",
-      "gloss": "Viņa ārpusēs"
+      "gloss": "viņu ielās"
     },
     {
       "surface": "חגרו",
-      "gloss": "apjoza"
+      "gloss": "viņi apjoza"
     },
     {
       "surface": "שק",
-      "gloss": "maisa drēbes"
+      "gloss": "⟨את⟩ sāju",
+      "marks": "sāju (saco cloth)"
     },
     {
       "surface": "על",
@@ -62,13 +42,13 @@
     },
     {
       "surface": "ירד",
-      "gloss": "nolaižas"
+      "gloss": "iet lejā"
     },
     {
       "surface": "בבכי",
-      "gloss": "raudos"
+      "gloss": "ar raudāšanu"
     }
   ],
-  "timestamp": "2026-10-20T18:48:08.343760352Z",
+  "timestamp": "2026-10-20T22:47:50.424033451Z",
   "model": "glm-5.3"
 }

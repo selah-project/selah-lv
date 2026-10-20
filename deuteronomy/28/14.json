@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "citiem elohim",
-      "rationale": "אלהים אחרים ir daudzskaitlī — 'citi elohim', ne 'svešie dievi' ar citu vārdu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אחרים",
-      "rationale": "'citiem' iekļauts 'citiem elohim', atsevišķs vārds latviski dublētos"
-    }
-  ],
-  "translation": "un nenovērsīsies ne no viena no vārdiem, ko es ⟨את⟩ jums šodien pavēlu, pa labi vai pa kreisi, lai ietu pakaļ citiem elohim un tos kalpotu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/13-16.1792517271492.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu nenovērsīsies ne no viena no vārdiem, ko es tev šodien pavēlu ⟨את⟩ — pa labi vai pa kreisi — iet pakaļ citiem elohim, lai tos kalpotu.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "תסור",
-      "gloss": "novērsīsies"
+      "gloss": "tu nenovērsīsies"
     },
     {
       "surface": "מכל",
-      "gloss": "ne no viena no"
+      "gloss": "no neviena no"
     },
     {
       "surface": "הדברים",
@@ -58,7 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩",
+      "marks": "jums (pavēles saņēmējiem)"
     },
     {
       "surface": "היום",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "lai ietu"
+      "gloss": "iet"
     },
     {
       "surface": "אחרי",
@@ -82,17 +62,17 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "citiem elohim"
+      "gloss": "elohim"
     },
     {
       "surface": "אחרים",
-      "gloss": ""
+      "gloss": "citiem"
     },
     {
       "surface": "לעבדם",
-      "gloss": "tos kalpotu"
+      "gloss": "lai tos kalpotu"
     }
   ],
-  "timestamp": "2026-10-20T17:27:51.495142587Z",
+  "timestamp": "2026-10-20T22:40:14.264838276Z",
   "model": "glm-5.3"
 }

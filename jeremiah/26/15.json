@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "nevainīgu asini liekat",
-      "rationale": "Ebreju idioms 'dot nevainīgu asini pār kādu' — vainas uzlikšana; latviskots kā 'likt asini pār sevi'"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Ematiskā partiklu saite כי אם atspoguļota kā viens 'ja'"
-    }
-  ],
-  "translation": "Tikai noteikti ziniet: ja jūs mani nodosit nāvei, tad nevainīgu asini jūs liekat pār sevi un pār šo pilsētu un pār tās iedzīvotājiem, jo patiesi Jahve sūtīja mani pie jums runāt jūsu ausīs ⟨את⟩ visus šos vārdus.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/26\/13-16.1792523843062.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tikai droši ziniet: ja jūs mani nogalināsiet, tad sev un šai pilsētai un tās iedzīvotājiem jūs uzliekat nevainīgas asinis, jo patiesi Jahve mani sūtīja pie jums runāt jūsu ausīs ⟨את⟩ visus šos vārdus.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Tikai"
+      "gloss": "tikai"
     },
     {
       "surface": "ידע",
-      "gloss": "noteikti"
+      "gloss": "droši"
     },
     {
       "surface": "תדעו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ":"
+      "gloss": "⟨ka⟩"
     },
     {
       "surface": "אם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ממתים",
-      "gloss": "nodosit nāvei"
+      "gloss": "nogalināsiet"
     },
     {
       "surface": "אתם",
@@ -59,7 +38,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ mani",
-      "marks": "mani — aleph-tav ar priedēkli, norāda uz runātāju"
+      "marks": "mani (Jeremija)"
     },
     {
       "surface": "כי",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "דם",
-      "gloss": "asini"
+      "gloss": "asinis"
     },
     {
       "surface": "נקי",
-      "gloss": "nevainīgu"
+      "gloss": "nevainīgas"
     },
     {
       "surface": "אתם",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "liekat"
+      "gloss": "uzliekat"
     },
     {
       "surface": "עליכם",
-      "gloss": "pār sevi"
+      "gloss": "sev"
     },
     {
       "surface": "ואל",
-      "gloss": "un pār"
+      "gloss": "un uz"
     },
     {
       "surface": "העיר",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "un pār"
+      "gloss": "un uz"
     },
     {
       "surface": "ישביה",
@@ -115,7 +94,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "sūtīja mani"
+      "gloss": "mani sūtīja"
     },
     {
       "surface": "יהוה",
@@ -151,6 +130,6 @@
       "gloss": "šos"
     }
   ],
-  "timestamp": "2026-10-20T19:17:23.063116652Z",
+  "timestamp": "2026-10-20T22:49:22.617929188Z",
   "model": "glm-5.3"
 }

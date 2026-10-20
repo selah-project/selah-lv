@@ -5,44 +5,23 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨viņi⟩",
-      "rationale": "Ebreju darbības vārdam nav subjekta; latviešu valodā pievienots piedēklis."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לערץ",
-      "rationale": "Burtiski 'lai biedētu\/šausminātu'; 'satricināt zemi' ir labojums pēc 2:21 paraleles."
-    }
-  ],
-  "translation": "Un ⟨viņi⟩ ies klints alās un zemes dobumos no Jahves šausmām un no Viņa majestātes spožuma, kad Viņš celsies, lai satricinātu zemi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/2\/17-20.1792521825878.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨viņi⟩ ienāks klints alās un zemes kabatās, no Jahve bailēm un no Viņa lepnuma diženuma, kad Viņš celsies, lai satricinātu ⟨את⟩ zemi.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "Un ies"
+      "gloss": "Un ienāks"
     },
     {
       "surface": "במערות",
-      "gloss": "alās"
+      "gloss": "klinsts alās"
     },
     {
       "surface": "צרים",
       "gloss": "klints"
     },
     {
-      "surface": "ובמחלot",
-      "gloss": "un dobumos"
+      "surface": "ובמחלות",
+      "gloss": "un kabatās"
     },
     {
       "surface": "עפר",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "פחד",
-      "gloss": "šausmām"
+      "gloss": "bailēm"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahves"
+      "gloss": "Jahve"
     },
     {
       "surface": "ומהדר",
-      "gloss": "un no spožuma"
+      "gloss": "un diženuma"
     },
     {
       "surface": "גאונו",
-      "gloss": "Viņa majestātes"
+      "gloss": "Viņa lepnuma"
     },
     {
       "surface": "בקומו",
-      "gloss": "kad celsies"
+      "gloss": "kad Viņš celsies"
     },
     {
       "surface": "לערץ",
@@ -81,6 +60,6 @@
       "gloss": "zemi"
     }
   ],
-  "timestamp": "2026-10-20T18:43:45.879431864Z",
+  "timestamp": "2026-10-20T22:47:30.215987850Z",
   "model": "glm-5.3"
 }

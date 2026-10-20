@@ -5,23 +5,7 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "⟨ar tevi⟩",
-      "rationale": "אתך šeit ir prievārds 'ar', saglabāts kā ⟨את⟩ zīme saskaņā ar korpusa noteikumu"
-    }
-  ],
-  "translation": "Lai tie būtu tev vienīgi tev pašam, un ne svešiniekiem ⟨ar tevi⟩.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/17-20.1792528558290.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lai tie ir tev vienam pašam, un svešiniekiem lai nav daļas ⟨ar tevi⟩ ⟨את⟩.",
   "tokens": [
     {
       "surface": "יהיו",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "tev vienīgi, tev pašam"
+      "gloss": "vienam pašam"
     },
     {
       "surface": "ואין",
-      "gloss": "un nav"
+      "gloss": "un lai nav"
     },
     {
       "surface": "לזרים",
@@ -49,6 +33,6 @@
       "marks": "ar tevi"
     }
   ],
-  "timestamp": "2026-10-20T20:35:58.291317432Z",
+  "timestamp": "2026-10-20T22:59:14.235848928Z",
   "model": "glm-5.3"
 }

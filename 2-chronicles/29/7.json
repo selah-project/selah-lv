@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "spiekus",
-      "rationale": "הנרות burtiski 'lukturi, lampas'; latviski ņemts 'spieki' kā izgaismes līdzeklis, jo latviešu 'lukturi' skan pārāk moderni."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ugunsofferi",
-      "rationale": "עלה burtiski 'tas, kas uzkāpj'; alternatīva — 'augšupdedzināmais upuris'."
-    }
-  ],
-  "translation": "Arī viņi aizslēdja priekštelpas durvis un nodzēsa ⟨את]] spiekus, un kvēpinājumu nekvēpināja, un ugunsofferi neuznesa svētajā vietā Israēla Elohim.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3735a6f091417db9d1bb9abb65cfbdea0e8095ef1894e7ed8add3ccbeb2a755d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/29\/5-8.1792532188625.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Arī viņi aizslēdza ⟨את⟩ priekštelpas durvis un izdzēsa ⟨את⟩ lampas, un kvēpinājumu tie nesmēķināja, un dedzināmo upuri nesniedza augšā svētajā vietā Elohim, Jisraēla Elohim.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Arī"
+      "gloss": "arī"
     },
     {
       "surface": "סגרו",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ויכבו",
-      "gloss": "un nodzēsa"
+      "gloss": "un izdzēsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "spiekus"
+      "marks": "lampas"
     },
     {
       "surface": "הנרות",
-      "gloss": "spiekus"
+      "gloss": "lampas"
     },
     {
       "surface": "וקטרת",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "הקטירו",
-      "gloss": "kvēpināja"
+      "gloss": "smēķināja"
     },
     {
       "surface": "ועלה",
-      "gloss": "un ugunsofferi"
+      "gloss": "un dedzināmo upuri"
     },
     {
       "surface": "לא",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "העלו",
-      "gloss": "uznesa"
+      "gloss": "sniedza augšā"
     },
     {
       "surface": "בקדש",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "לאלהי",
-      "gloss": "Israēla Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israēla"
+      "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T21:36:28.627305564Z",
+  "timestamp": "2026-10-20T22:35:46.975437031Z",
   "model": "glm-5.3"
 }

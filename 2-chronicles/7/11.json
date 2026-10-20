@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨to⟩",
-      "rationale": "Latviešu teikuma struktūrai pievienota norāde 'to', lai savienotu priekšmetu ar darbības vārdu."
-    },
-    {
-      "kind": "idiom",
-      "subject": "kas nāca uz sirdi",
-      "rationale": "EBreju idiomā 'nākt uz sirdi' = ienākt prātā, vēlēties; tulkots gandrīz burtiski."
-    }
-  ],
-  "translation": "Un Šelomo pabeidza ⟨את⟩ Jahves namu un ⟨את⟩ ķēniņa namu; un visu, kas nāca Šeloma sirdī darāmajam Jahves namā un viņa paša namā, — ⟨to⟩ viņš veiksmīgi paveica.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e78a55af438030c1d5802a1d0581fbff84d0c3fa7c46be60dbcd2bf941ee4033",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/7\/9-12.1792531774651.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Šelomo pabeidza ⟨את⟩ Jahves namu un ⟨את⟩ ķēniņa namu; un ⟨את⟩ visu, kas nāca Šelomo sirdī darīt Jahves namā un viņa paša namā, — tas izdevās.",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "un viņš pabeidza"
+      "gloss": "un pabeidza"
     },
     {
       "surface": "שלמה",
@@ -85,11 +64,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šeloma"
+      "gloss": "Šelomo"
     },
     {
       "surface": "לעשות",
-      "gloss": "darāmajam"
+      "gloss": "darīt"
     },
     {
       "surface": "בבית",
@@ -101,13 +80,13 @@
     },
     {
       "surface": "ובביתו",
-      "gloss": "un viņa namā"
+      "gloss": "un viņa paša namā"
     },
     {
       "surface": "הצליח",
-      "gloss": "viņš veiksmīgi paveica"
+      "gloss": "izdevās"
     }
   ],
-  "timestamp": "2026-10-20T21:29:34.652923220Z",
+  "timestamp": "2026-10-20T22:36:11.244452243Z",
   "model": "glm-5.3"
 }

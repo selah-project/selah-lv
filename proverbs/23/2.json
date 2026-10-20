@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בעל נפש",
-      "rationale": "'נפש kungs' — lielākas ēstgribas cilvēks (KJV 'man given to appetite') vai arī 'bagāts vīrs'; latviski atstāts burtiski ar נפש saglabātu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "נפש nav 'dvēsele' vien — rīkle, elpa, dzīvības spēks, ēstgriba; šeit tuvāk 'apetītes valdniekam'."
-    }
-  ],
-  "translation": "Un liec nazi pie sava rīkles, ja tu esi נפש kungs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/1-4.1792528856662.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "un liec nazi savai rīklei, ja ⟨esi⟩ kāds, kam tik ļoti kārojas ēst.",
   "tokens": [
     {
       "surface": "ושמת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בלעך",
-      "gloss": "pie sava rīkles"
+      "gloss": "savai rīklei"
     },
     {
       "surface": "אם",
@@ -46,17 +25,17 @@
     },
     {
       "surface": "בעל",
-      "gloss": "kungs"
+      "gloss": "kāds, kam tik ļoti kārojas"
     },
     {
       "surface": "נפש",
-      "gloss": "נפש — dzīvības spēka"
+      "gloss": "ēst"
     },
     {
       "surface": "אתה",
-      "gloss": "tu esi"
+      "gloss": "⟨esi⟩ tu"
     }
   ],
-  "timestamp": "2026-10-20T20:40:56.662798600Z",
+  "timestamp": "2026-10-20T22:59:22.786284195Z",
   "model": "glm-5.3"
 }

@@ -5,49 +5,28 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rūgti sacēlās",
-      "rationale": "מר nozīmē gan 'kļūt rūgtam', gan 'sacelties' — latviski apvienoti abi iespaidi"
-    },
-    {
-      "kind": "elision",
-      "subject": "בהם",
-      "rationale": "'staigāt pa tiem' latviski sakņojas priekšlocekļa 'pēc' formā; atsevišķs tokens paliek tukšs"
-    }
-  ],
-  "translation": "Un viņa rūgti sacēlās pret ⟨את⟩ maniem tiesas spriedumiem ļaunprātīgāk nekā tautas un pret ⟨את⟩ maniem likumiem vairāk nekā zemes, kas viņai apkārt; jo manus tiesas spriedumus tie nicināja, un pēc maniem likumiem tie nav staigājuši.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/5\/5-8.1792524773703.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņa sacēlās pret ⟨את⟩ manām tiesām ļaunībā vairāk nekā tautas, un pret ⟨את⟩ maniem noteikumiem vairāk nekā zemes, kas ir ap viņu apkārt; jo manas tiesas viņi nicināja un manos noteikumos viņi nav gājuši.",
   "tokens": [
     {
       "surface": "ותמר",
-      "gloss": "Un viņa rūgti sacēlās"
+      "gloss": "sacēlās"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maniem tiesas spriedumiem"
+      "marks": "manām tiesām"
     },
     {
       "surface": "משפטי",
-      "gloss": "maniem tiesas spriedumiem"
+      "gloss": "manām tiesām"
     },
     {
       "surface": "לרשעה",
-      "gloss": "ļaunprātīgāk"
+      "gloss": "ļaunībā"
     },
     {
       "surface": "מן",
-      "gloss": "nekā"
+      "gloss": "vairāk nekā"
     },
     {
       "surface": "הגוים",
@@ -56,15 +35,15 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "maniem likumiem"
+      "marks": "maniem noteikumiem"
     },
     {
       "surface": "חקותי",
-      "gloss": "maniem likumiem"
+      "gloss": "maniem noteikumiem"
     },
     {
       "surface": "מן",
-      "gloss": "nekā"
+      "gloss": "vairāk nekā"
     },
     {
       "surface": "הארצות",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "סביבותיה",
-      "gloss": "viņai apkārt"
+      "gloss": "ap viņu apkārt"
     },
     {
       "surface": "כי",
@@ -84,15 +63,15 @@
     },
     {
       "surface": "במשפטי",
-      "gloss": "manus tiesas spriedumus"
+      "gloss": "manas tiesas"
     },
     {
       "surface": "מאסו",
-      "gloss": "tie nicināja"
+      "gloss": "nicināja"
     },
     {
       "surface": "וחקותי",
-      "gloss": "un pēc maniem likumiem"
+      "gloss": "manos noteikumos"
     },
     {
       "surface": "לא",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "staigājuši"
+      "gloss": "gājuši"
     },
     {
       "surface": "בהם",
-      "gloss": ""
+      "gloss": "tajos"
     }
   ],
-  "timestamp": "2026-10-20T19:32:53.704650365Z",
+  "timestamp": "2026-10-20T22:44:57.672316423Z",
   "model": "glm-5.3"
 }

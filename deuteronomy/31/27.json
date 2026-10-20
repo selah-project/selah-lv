@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "cīpslainais sprands",
-      "rationale": "ערף הקשה — burtiski 'cietais pakausis', idioms par nepaklausību."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מריך \/ ממרים",
-      "rationale": "Saknes מרי un מרה atkārtojas vienā pantā — pretība divreiz, latviski zaudē skaņu saiti."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraēls",
-      "rationale": "Runa tieši pret Israēlu (vienā daudzskaitlī 'tev' un daudzos 'jūs' mijās)."
-    }
-  ],
-  "translation": "Jo es zinu jūsu pretību un jūsu cīpslaino sprandu: redzi, kamēr es vēl ⟨esmu⟩ dzīvs ar jums šodien, jūs tikāt pretīgi Jahvem — un vēl jo vairāk pēc manas nāves.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/25-28.1792517472660.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo es zināju ⟨את⟩ tavu pretimniecību un ⟨את⟩ tavu cieto pakakli; redzi, kamēr es vēl dzīvs ⟨esmu⟩ ar jums šodien, jūs bijāt pretimnieki pret Jahvi, un vēl jo vairāk pēc ⟨manas⟩ nāves.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jo"
+      "gloss": "jo"
     },
     {
       "surface": "אנכי",
@@ -43,29 +17,29 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "zinu"
+      "gloss": "zināju"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jūsu pretību"
+      "marks": "tavu pretimniecību"
     },
     {
       "surface": "מריך",
-      "gloss": "jūsu pretību"
+      "gloss": "tavu pretimniecību"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "jūsu cīpslaino sprandu"
+      "gloss": "un ⟨את⟩",
+      "marks": "tavu cieto pakakli"
     },
     {
       "surface": "ערפך",
-      "gloss": "jūsu sprandu"
+      "gloss": "tavu pakakli"
     },
     {
       "surface": "הקשה",
-      "gloss": "cīpslaino"
+      "gloss": "cietais"
     },
     {
       "surface": "הן",
@@ -89,19 +63,19 @@
     },
     {
       "surface": "ממרים",
-      "gloss": "pretīgi"
+      "gloss": "pretimnieki"
     },
     {
       "surface": "היתם",
-      "gloss": "tikāt"
+      "gloss": "jūs bijāt"
     },
     {
       "surface": "עם",
-      "gloss": "ar"
+      "gloss": "pret"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvem"
+      "gloss": "Jahvi"
     },
     {
       "surface": "ואף",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "אחרי",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "מותי",
-      "gloss": "manas nāves"
+      "gloss": "nāves"
     }
   ],
-  "timestamp": "2026-10-20T17:31:12.663937322Z",
+  "timestamp": "2026-10-20T22:40:20.584107124Z",
   "model": "glm-5.3"
 }

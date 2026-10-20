@@ -5,48 +5,27 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "וישאו\/אבה",
-      "rationale": "Ivrita atkārtošanās latviešu teikumā saplūst vienā predikātā."
-    },
-    {
-      "kind": "substitution",
-      "subject": "par upuri",
-      "rationale": "נסך ir 'izlija (dzērienu)' — par libāciju; 'izlēja' viens būtu pārāk plakanš."
-    }
-  ],
-  "translation": "Un tie trīs pārrāva peļisteiešu nometni un smēla ūdeni no bedres Beit-Lehemas, kas ⟨ir⟩ pie vārtiem, un nesu to un atnesa pie Davida; bet Davids negribēja to dzert, un izlēja ⟨את⟩ to par upuri Jahvem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/17-20.1792531342285.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un trīs vīri pāršķēla filistiešu nometni un smēla ūdeni no Bedlehemas aku, kas ⟨ir⟩ pie vārtiem, un cēla un atnesa to pie Davida; bet Davids negribēja to dzert, bet izlēja to ⟨את⟩ kā .zeivu .\nahvem.",
   "tokens": [
     {
       "surface": "ויבקעו",
-      "gloss": "pārrāva"
+      "gloss": "pāršķēla"
     },
     {
       "surface": "השלשה",
-      "gloss": "tie trīs"
+      "gloss": "trīs vīri"
     },
     {
       "surface": "במחנה",
-      "gloss": "nometnī"
+      "gloss": "nometni"
     },
     {
       "surface": "פלשתים",
-      "gloss": "peļisteiešu"
+      "gloss": "filistiešu"
     },
     {
       "surface": "וישאבו",
-      "gloss": "un smēla"
+      "gloss": "smēla"
     },
     {
       "surface": "מים",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "מבור",
-      "gloss": "no bedres"
+      "gloss": "aku"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Bedlemas"
     },
     {
       "surface": "לחם",
-      "gloss": "-Lehemas"
+      "gloss": "Bedlehemas"
     },
     {
       "surface": "אשר",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "un nesu"
+      "gloss": "cēla"
     },
     {
       "surface": "ויבאו",
-      "gloss": "un atnesa"
+      "gloss": "atnesa"
     },
     {
       "surface": "אל",
@@ -89,20 +68,16 @@
       "gloss": "Davida"
     },
     {
-      "surface": "וישאו",
-      "gloss": ""
-    },
-    {
-      "surface": "דויד",
-      "gloss": ""
-    },
-    {
       "surface": "ולא",
       "gloss": "bet negribēja"
     },
     {
       "surface": "אבה",
-      "gloss": ""
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
     },
     {
       "surface": "לשתותם",
@@ -110,7 +85,7 @@
     },
     {
       "surface": "וינסך",
-      "gloss": "⟨את⟩ un izlēja par upuri"
+      "gloss": "izlēja kā zeivu"
     },
     {
       "surface": "אתם",
@@ -122,6 +97,6 @@
       "gloss": "Jahvem"
     }
   ],
-  "timestamp": "2026-10-20T21:22:22.289770362Z",
+  "timestamp": "2026-10-20T22:31:54.503943355Z",
   "model": "glm-5.3"
 }

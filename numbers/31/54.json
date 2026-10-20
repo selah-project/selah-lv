@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨pie⟩",
-      "rationale": "Ebreju locījuma prievārds מאת (‘no’) un אל (‘pie’) latviešu valodā prasa atsevišķu prievārdu skaidrībai."
-    },
-    {
-      "kind": "substitution",
-      "subject": "piemiņa",
-      "rationale": "זכרון ir ‘atmiņas zīmes objekts’ — kas liek Jahvem atcerēties, ne vien cilvēkiem."
-    }
-  ],
-  "translation": "Un Moše un priesteris Elazars ņēma ⟨את⟩ zeltu no tūkstošu un simtu pavēlniekiem un atnesa to ⟨את⟩ ⟨pie⟩ sanāksmes telts par piemiņu Jisraēla dēliem, Jahves priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "019299c08174c319f29fdb78534406c32e16ee9e31cdfaea06b830f10ac7ae93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/31\/53-54.1792516309581.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Moše un priesteris Elazars paņēma ⟨את⟩ zeltu no pavēlniekiem tūkstošu un simtu, un tie atnesa to ⟨את⟩ saiešu teltī, par piemiņu Jisraēla dēliem Jahves priekšā.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "un ņēma"
+      "gloss": "un paņēma"
     },
     {
       "surface": "משה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "no ⟨את⟩"
+      "gloss": "⟨את⟩ no"
     },
     {
       "surface": "שרי",
@@ -71,28 +50,28 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "un atnesa"
+      "gloss": "un tie atnesa"
     },
     {
       "surface": "אתו",
       "gloss": "to ⟨את⟩",
-      "marks": "pie sanāksmes telts"
+      "marks": "saiešu teltī"
     },
     {
       "surface": "אל",
-      "gloss": "pie"
+      "gloss": "uz"
     },
     {
       "surface": "אהל",
-      "gloss": "telts"
+      "gloss": "teltī"
     },
     {
       "surface": "מועד",
-      "gloss": "sanāksmes"
+      "gloss": "saiešu"
     },
     {
       "surface": "זכרון",
-      "gloss": "piemiņu"
+      "gloss": "par piemiņu"
     },
     {
       "surface": "לבני",
@@ -111,6 +90,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-20T17:11:49.582943178Z",
+  "timestamp": "2026-10-20T22:58:35.104018398Z",
   "model": "glm-5.3"
 }

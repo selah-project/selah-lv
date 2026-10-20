@@ -5,51 +5,30 @@
   "book": "2-samuel",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ar vienu",
-      "rationale": "Ebreju teksts izlaiž piederības izteiksmi; latviešu valodai tā vajadzīga"
-    },
-    {
-      "kind": "crux",
-      "subject": "izvēlējās",
-      "rationale": "Vai subjekts ir Jahve viens (izvēlēja Davīdu), vai Jahve kopā ar tautu izvēlējās Avšalomu — Hūšaja dubultnozīme"
-    }
-  ],
-  "translation": "Un Hūšajs sacīja Avšalomam: Nē, bet ko izvēlējās Jahve un šī tauta un visi Jisraēla vīri — ⟨ar vienu⟩ es būšu un pie ⟨את⟩ viņa es dzīvošu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/16\/17-20.1792519997343.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Hušajs sacīja Avšalomam: Nē, bet ⟨tam⟩, ko izvēlējās Jahve un šis ļaudis un visi Jisraēla vīri, ⟨tam⟩ es piederu, un pie ⟨את⟩ viņa es palikšu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "un sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "חושי",
-      "gloss": "Hūšajs"
+      "gloss": "Hušajs"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pret"
     },
     {
       "surface": "אבשלם",
-      "gloss": "Avšalomam"
+      "gloss": "Avšalomu"
     },
     {
       "surface": "לא",
-      "gloss": "nē"
+      "gloss": "Nē"
     },
     {
-      "surface": "ķי",
+      "surface": "כי",
       "gloss": "bet"
     },
     {
@@ -66,11 +45,11 @@
     },
     {
       "surface": "והעם",
-      "gloss": "un šī tauta"
+      "gloss": "un šis ļaudis"
     },
     {
       "surface": "הזה",
-      "gloss": "šī"
+      "gloss": "šis"
     },
     {
       "surface": "וכל",
@@ -86,21 +65,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "nē"
+      "gloss": "⟨tam⟩"
     },
     {
       "surface": "אהיה",
-      "gloss": "es būšu"
+      "gloss": "es piederu"
     },
     {
       "surface": "ואתו",
-      "gloss": "pie ⟨את⟩ viņa"
+      "gloss": "un pie ⟨את⟩",
+      "marks": "viņa"
     },
     {
       "surface": "אשב",
-      "gloss": "es dzīvošu"
+      "gloss": "es palikšu"
     }
   ],
-  "timestamp": "2026-10-20T18:13:17.344305616Z",
+  "timestamp": "2026-10-20T22:38:03.677883287Z",
   "model": "glm-5.3"
 }

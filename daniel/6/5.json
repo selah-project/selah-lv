@@ -5,40 +5,19 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כל קבל די",
-      "rationale": "aramiešu sadalītais savienojums 'tāpēc ka' sadalīts trīs tokenos, די paliek bez atsevišķa vārda"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩",
-      "rationale": "הוו ir aramiešu koppelis, latviski pievienots palīgdarbības vārds"
-    }
-  ],
-  "translation": "Tad augstmaņi un satrapi meklēja ieganstu pret Danielu sakarā ar ķēniņvalsti, un nekādu ieganstu un nekādu nelietību tie nespēja atrast, tāpēc ka viņš bija uzticams, un nekāda kļūda un nekāda nelietība netika atrasta pie viņa.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9e3173850f06657441f0037510d87059bdc210fb6d2033ed1e6a7d4b734a516b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/5-8.1792530338795.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tadār satrapi un ahašdarpeni meklēja ieganu pret Daniēlu sakarā ar valsti, un jebkādu ieganu un korupciju viņi nespēja atrast, tāpēc ka viņš ⟨ir⟩ uzticams, un nekāda kļūda vai korupcija netika atrasta viņā.",
   "tokens": [
     {
       "surface": "אדין",
-      "gloss": "Tad"
+      "gloss": "Tadār"
     },
     {
       "surface": "סרכיא",
-      "gloss": "augstmaņi"
+      "gloss": "satrapi"
     },
     {
       "surface": "ואחשדרפניא",
-      "gloss": "un satrapi"
+      "gloss": "un ahašdarpeni"
     },
     {
       "surface": "הוו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "ieganstu"
+      "gloss": "ieganu"
     },
     {
       "surface": "להשכחה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לדניאל",
-      "gloss": "pret Danielu"
+      "gloss": "pret Daniēlu"
     },
     {
       "surface": "מצד",
@@ -66,19 +45,19 @@
     },
     {
       "surface": "מלכותא",
-      "gloss": "ķēniņvalsti"
+      "gloss": "valsti"
     },
     {
       "surface": "וכל",
-      "gloss": "un nekādu"
+      "gloss": "un jebkādu"
     },
     {
       "surface": "עלה",
-      "gloss": "ieganstu"
+      "gloss": "ieganu"
     },
     {
       "surface": "ושחיתה",
-      "gloss": "un nelietību"
+      "gloss": "un korupciju"
     },
     {
       "surface": "לא",
@@ -94,15 +73,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "tāpēc"
+      "gloss": "tāpēc ka"
     },
     {
       "surface": "קבל",
-      "gloss": "ka"
+      "gloss": "tāpēc ka"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "מהימן",
@@ -122,7 +101,7 @@
     },
     {
       "surface": "ושחיתה",
-      "gloss": "un nelietība"
+      "gloss": "vai korupcija"
     },
     {
       "surface": "לא",
@@ -134,9 +113,9 @@
     },
     {
       "surface": "עלוהי",
-      "gloss": "pie viņa"
+      "gloss": "viņā"
     }
   ],
-  "timestamp": "2026-10-20T21:05:38.795756579Z",
+  "timestamp": "2026-10-20T22:39:36.156318587Z",
   "model": "glm-5.3"
 }

@@ -5,57 +5,36 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Saiklis pievienots latviešu valodas labad."
-    },
-    {
-      "kind": "crux",
-      "subject": "הורג",
-      "rationale": "'slepkava' — daudzskaitlī arī 'slepkavības'; KJV lasa 'the slayer' (vienskaitlis), cits skaidrojums 'nogalināšanas' kā ģenitīvs."
-    }
-  ],
-  "translation": "Un tas tika dots slīpēšanai, lai to satvertu saujā — tas ⟨ir⟩ noslīpēts, zobens, un tas izspodrināts, lai to dotu slepkavas rokā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f266c1441b9214d38266bec65d8b5f0f602a4cdcd60f5e349152295a4d8c73ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/21\/13-16.1792525158765.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš to nodeva noslīpēšanai, lai to satveru plaukstā: tā ⟨ir⟩ asināts zobens, un tā ⟨ir⟩ noslīpēta, lai to nodotu slepkavas rokā.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Un tika dots"
+      "gloss": "Un viņš nodeva"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "slīpēšanai (to)"
+      "marks": "to (zobens)"
     },
     {
       "surface": "למרטה",
-      "gloss": "slīpēšanai"
+      "gloss": "noslīpēšanai"
     },
     {
       "surface": "לתפש",
-      "gloss": "lai satvertu"
+      "gloss": "lai satveru"
     },
     {
       "surface": "בכף",
-      "gloss": "saujā"
+      "gloss": "plaukstā"
     },
     {
       "surface": "היא",
-      "gloss": "tas"
+      "gloss": "tā"
     },
     {
       "surface": "הוחדה",
-      "gloss": "noslīpēts"
+      "gloss": "asināts"
     },
     {
       "surface": "חרב",
@@ -63,20 +42,20 @@
     },
     {
       "surface": "והיא",
-      "gloss": "un tas"
+      "gloss": "un tā"
     },
     {
       "surface": "מרטה",
-      "gloss": "izspodrināts"
+      "gloss": "noslīpēta"
     },
     {
       "surface": "לתת",
-      "gloss": "lai dotu"
+      "gloss": "lai nodotu"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "rokā (to)"
+      "marks": "to (zobens)"
     },
     {
       "surface": "ביד",
@@ -87,6 +66,6 @@
       "gloss": "slepkavas"
     }
   ],
-  "timestamp": "2026-10-20T19:39:18.766909314Z",
+  "timestamp": "2026-10-20T22:43:56.336260153Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨bija⟩",
-      "rationale": "Ebreju valodā nav kopulas; latviešu valodai tā vajadzīga."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בגלוליו",
-      "rationale": "Gilulīm — nievājošs vārds elkiem (literāri 'apaļie baļķi'); latviski vienkārši 'elki'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר (1. tokens)",
-      "rationale": "'Tāpēc ka, ka' — divkāršs saistītājvārds latviski saplūst vienā."
-    }
-  ],
-  "translation": "Tāpēc ka Menašehs, Jehudas ķēniņš, darīja šos pretīgumus, ļaunāku par visu, ko darīja emorieši, kas ⟨bija⟩ viņa priekšā, un viņš lika grēkot arī ⟨את⟩ Jehudu ar saviem elkiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/21\/9-12.1792521673757.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc, ka Menašehs, Jehudas ķēniņš, darīja šos pretīgos darbus, ļaunāku par visu, ko darīja emorieši, kas bija pirms viņa, un ar saviem elkiem iegrēķināja arī ⟨את⟩ Jehudu,",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Tāpēc ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "אשר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "התעבות",
-      "gloss": "pretīgumus"
+      "gloss": "pretīgos darbus"
     },
     {
       "surface": "האלה",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "viņa priekšā"
+      "gloss": "pirms viņa"
     },
     {
       "surface": "ויחטא",
-      "gloss": "lika grēkot"
+      "gloss": "iegrēķināja"
     },
     {
       "surface": "גם",
@@ -115,6 +89,6 @@
       "gloss": "ar saviem elkiem"
     }
   ],
-  "timestamp": "2026-10-20T18:41:13.758838845Z",
+  "timestamp": "2026-10-20T22:36:47.391635259Z",
   "model": "glm-5.3"
 }

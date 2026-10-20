@@ -5,39 +5,23 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "personu maiņa",
-      "rationale": "הרחיק ir 3. personas nākotne ('viņš attālinās'), bet והדחתי ir 1. persona ('Es padzīšu') — teksts pārlec no runātāja uz Jahvi bez brīdinājuma; daudzi tulkojumi to izlīdzina"
-    }
-  ],
-  "translation": "Jo tie pravieto jums melus, lai attālinātu jūs no jūsu zemes; un Es jūs padzīšu, un jūs iesat bojā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/9-12.1792523851320.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "jo viņi jums pravietē melu, lai jūs attālinātu ⟨את⟩ jūs no jūsu zemes, un es jūs padzīšu ⟨את⟩ jūs, un jūs ies bojā.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jo"
+      "gloss": "jo"
     },
     {
       "surface": "שקר",
-      "gloss": "melus"
+      "gloss": "melu"
     },
     {
       "surface": "הם",
-      "gloss": "tie"
+      "gloss": "viņi"
     },
     {
       "surface": "נבאים",
-      "gloss": "pravieto"
+      "gloss": "pravietē"
     },
     {
       "surface": "לכם",
@@ -53,7 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (no jūsu zemes)"
     },
     {
       "surface": "מעל",
@@ -65,17 +50,18 @@
     },
     {
       "surface": "והדחתי",
-      "gloss": "un Es padzīšu"
+      "gloss": "un es jūs padzīšu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs (un jūs ies bojā)"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "un jūs iesat bojā"
+      "gloss": "un jūs ies bojā"
     }
   ],
-  "timestamp": "2026-10-20T19:17:31.321794133Z",
+  "timestamp": "2026-10-20T22:49:54.750557040Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "gulsies pie saviem tēviem",
-      "rationale": "שכב עם אבתיך — eifēmisms mirt; 'אחרי' pēc netiklības: ebreju 'iejūgt aiz' svešajiem dieviem"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וזנה",
-      "rationale": "covenant language: netiklība kā derības laušana — viena metafora diviem sakariem, latviski saglabāta ar 'netiklos' un 'laužs derību'"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošem",
-      "rationale": "Jahve runā tieši pie Mošes par viņa nāvi un tautas nākamo nodevību"
-    },
-    {
-      "kind": "elision",
-      "subject": "שמה",
-      "rationale": "'turp' ietilpst frazē 'uz kuru tā nonāks vidū'; atsevišķs vārds izzudis"
-    }
-  ],
-  "translation": "Un Jahve sacīja Mošem: Redzi, tu gulsies pie saviem tēviem, un šī tauta celsies un netiklos ar svešās zemes dieviem, uz kuru tā nonāks vidū, un atstās mani, un laužs manu derību, ko es ar ⟨את⟩ to noslēdzu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "f8cefc62ed7eac38a8bde6cc1d55b02abc2c7721250949ce82a14d2f7a1febd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/13-16.1792517467245.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Jahve sacīja Mošem: Lūk, tu gulsies pie saviem tēviem, un šī tauta celsies un guļ ar svešiem — viņas slēps (...) pēc svešzemju Elohim tās zemē, kur tas iet turp, tās vidū, un atstās mani un lauzīs ⟨את⟩ manu derību, ko es slēdzu ar ⟨את⟩ viņu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "משה",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "הנך",
-      "gloss": "Redzi, tu"
+      "gloss": "lūk, tu"
     },
     {
       "surface": "שכב",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "pie"
+      "gloss": "kopā ar"
     },
     {
       "surface": "אבתיך",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "šī tauta"
     },
     {
       "surface": "הזה",
@@ -84,43 +53,43 @@
     },
     {
       "surface": "וזנה",
-      "gloss": "un netiklos"
+      "gloss": "un guļ ar svešiem"
     },
     {
       "surface": "אחרי",
-      "gloss": "ar"
+      "gloss": "pēc"
     },
     {
       "surface": "אלהי",
-      "gloss": "dieviem"
+      "gloss": "Elohim"
     },
     {
       "surface": "נכר",
-      "gloss": "svešās"
+      "gloss": "svešzemju"
     },
     {
       "surface": "הארץ",
-      "gloss": "zemes"
+      "gloss": "tās zemes"
     },
     {
       "surface": "אשר",
-      "gloss": "uz kuru"
+      "gloss": "kuru"
     },
     {
       "surface": "הוא",
-      "gloss": "tā"
+      "gloss": "tas"
     },
     {
       "surface": "בא",
-      "gloss": "nonāks"
+      "gloss": "iet"
     },
     {
       "surface": "שמה",
-      "gloss": ""
+      "gloss": "turp"
     },
     {
       "surface": "בקרבו",
-      "gloss": "vidū"
+      "gloss": "tās vidū"
     },
     {
       "surface": "ועזבני",
@@ -128,16 +97,16 @@
     },
     {
       "surface": "והפר",
-      "gloss": "un laužs"
+      "gloss": "un lauzīs"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano derību"
+      "marks": "manu derību"
     },
     {
       "surface": "בריתי",
-      "gloss": "mano derību"
+      "gloss": "manu derību"
     },
     {
       "surface": "אשר",
@@ -145,13 +114,13 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "es noslēdzu"
+      "gloss": "es slēdzu"
     },
     {
       "surface": "אתו",
-      "gloss": "ar ⟨את⟩ to"
+      "gloss": "ar ⟨את⟩ viņu"
     }
   ],
-  "timestamp": "2026-10-20T17:31:07.248406806Z",
+  "timestamp": "2026-10-20T22:40:34.936294397Z",
   "model": "glm-5.3"
 }

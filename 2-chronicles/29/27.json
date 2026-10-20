@@ -5,44 +5,23 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ידי",
-      "rationale": "“caur roku\/instrumentu” — atsevišķs priekšvārds ועל ידי saplūst ar “ar instrumentiem”."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "החל … החל",
-      "rationale": "Atkārtots darbības vārds “sākās … sākās” — kad sākās upuris, sākās dziesma."
-    }
-  ],
-  "translation": "Un Jizkijahs teica uznest ⟨את⟩ augstuplūdu uz altāra; un laikā, kad sākās augstuplūds, sākās Jahves dziesma, un trompetes, un ar Davida, Jisraēla ķēniņa, instrumentiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "83f297915109c9a3c5a545ee5883ce5a5109590f9227aa3bd65d7ebfe21de72b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/29\/25-28.1792532250611.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Hizkijahs sacīja, lai ceļ augupdedzināmo upuri uz altāra; un tanī laikā, kad sākās augupdedzināmais upurs, sākās Jahves dziesma un taures, un caur Davida, Jisraēla ķēniņa, piederumiem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "teica"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Jizkijahs"
+      "gloss": "Hizkijahs"
     },
     {
       "surface": "להעלות",
-      "gloss": "uznest"
+      "gloss": "lai ceļ augšup"
     },
     {
       "surface": "העלה",
-      "gloss": "⟨את⟩ augstuplūdu"
+      "gloss": "augupdedzināmo upuri"
     },
     {
       "surface": "להמזבח",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ובעת",
-      "gloss": "un laikā"
+      "gloss": "un tanī laikā"
     },
     {
       "surface": "החל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "העולה",
-      "gloss": "augstuplūds"
+      "gloss": "augupdedzināmais upurs"
     },
     {
       "surface": "החל",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "והחצצרות",
-      "gloss": "un trompetes"
+      "gloss": "un taures"
     },
     {
       "surface": "ועל",
-      "gloss": "un ar"
+      "gloss": "un caur"
     },
     {
       "surface": "ידי",
-      "gloss": "—"
+      "gloss": "rokām"
     },
     {
       "surface": "כלי",
-      "gloss": "instrumentiem"
+      "gloss": "piederumi"
     },
     {
       "surface": "דויד",
@@ -101,6 +80,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T21:37:30.612147582Z",
+  "timestamp": "2026-10-20T22:35:41.491385064Z",
   "model": "glm-5.3"
 }

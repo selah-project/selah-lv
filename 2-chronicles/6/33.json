@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ivritam trūkst saikļa 'piesaukts pār namu' izteiksmē — pievienots 'ir'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mājas vieta",
-      "rationale": "מכון שבתו burtiski 'Tavas sēdēšanas pamats' — mājvieta"
-    }
-  ],
-  "translation": "Un Tu dzirdēsi no debesīm, no Savas mājas vietas, un darīsi visu, ko svešinieks Tev lūgs, lai visi zemes ļaudis pazīst ⟨את⟩ Tavu vārdu un bītos no Tevis, kā Tauta Jisraēls, un lai viņi zinātu, ka Tavs vārds ir piesaukts pār šo namu, kuru esmu cēlis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "eaa9992db5cf967c3b8841adfec1e7d90d83424680c9bb9d01cee3eeec95ae1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/6\/33-36.1792531743791.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Tu dzirdēsi no debesīm, no Tavas mājokļa vietas, un darīsi visu, ko svešinieks Tev piesauks, lai visi zemes ļaudis pazīst ⟨את⟩ Tavu Vārdu un lai bītos ⟨את⟩ Tevi kā Tava tauta Jisraēls, un lai zinātu, ka Tavs Vārds tiek saukts pār šo namu, ko esmu cēlis.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ממכון",
-      "gloss": "no mājas vietas"
+      "gloss": "no mājokļa"
     },
     {
       "surface": "שבתך",
-      "gloss": "Tavas mājas"
+      "gloss": "Tavas uzturēšanās vietas"
     },
     {
       "surface": "ועשית",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "lūgs"
+      "gloss": "piesauks"
     },
     {
       "surface": "אליך",
@@ -99,24 +78,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tavu vārdu"
+      "marks": "Tavu Vārdu"
     },
     {
       "surface": "שמך",
-      "gloss": "Tavu vārdu"
+      "gloss": "Tavu Vārdu"
     },
     {
       "surface": "וליראה",
-      "gloss": "un bītos"
+      "gloss": "un lai bītos"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "no Tevis"
+      "marks": "Tevi"
     },
     {
       "surface": "כעמך",
-      "gloss": "kā Tauta"
+      "gloss": "kā Tava tauta"
     },
     {
       "surface": "ישראל",
@@ -132,11 +111,11 @@
     },
     {
       "surface": "שמך",
-      "gloss": "Tavs vārds"
+      "gloss": "Tavs Vārds"
     },
     {
       "surface": "נקרא",
-      "gloss": "ir piesaukts"
+      "gloss": "tiek saukts"
     },
     {
       "surface": "על",
@@ -152,13 +131,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuru"
+      "gloss": "ko"
     },
     {
       "surface": "בניתי",
       "gloss": "esmu cēlis"
     }
   ],
-  "timestamp": "2026-10-20T21:29:03.792027149Z",
+  "timestamp": "2026-10-20T22:36:38.955438Z",
   "model": "glm-5.3"
 }

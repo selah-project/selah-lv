@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על (uz)",
-      "rationale": "'uzrakstīti UZ grāmatas' latviski kļūst 'grāmatā', prievārds izlaists."
-    },
-    {
-      "kind": "substitution",
-      "subject": "רעה 'ļaunums'",
-      "rationale": "ne 'katastrofa' vai 'nelaime' — vārda forma 'ļaunums' saglabā rā būtību."
-    },
-    {
-      "kind": "mystery",
-      "subject": "Lūk, Es vedu",
-      "rationale": "pareģojums vēl noslēpumains — kāda tieši ļaunuma forma, tiek atklāts tikai turpmākajos pantos."
-    }
-  ],
-  "translation": "Tā saka Jahve: Lūk, Es vedu ļaunumu pār šo vietu un pār tās iedzīvotājiem — ⟨את⟩ visus lāstus, kas uzrakstīti grāmatā, ko nolasīja Jehudas ķēniņa priekšā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/21-24.1792532412739.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tā saka Jahve: Lūk, es vedīšu ļaunumu pār šo vietu un pār tās iedzīvotājiem — ⟨את⟩ visas lāstus, kas rakstīti ⟨uz⟩ grāmatā, ko nolasīja Jūdas ķēniņa priekšā.",
   "tokens": [
     {
       "surface": "כה",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Lūk, Es"
+      "gloss": "Lūk"
     },
     {
       "surface": "מביא",
-      "gloss": "vedu"
+      "gloss": "es vedīšu"
     },
     {
       "surface": "רעה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "vietu"
+      "gloss": "šo vietu"
     },
     {
       "surface": "הזה",
@@ -80,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus lāstus"
+      "marks": "visas lāstus"
     },
     {
       "surface": "כל",
-      "gloss": "visus"
+      "gloss": "visas"
     },
     {
       "surface": "האלות",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "הכתובות",
-      "gloss": "uzrakstīti"
+      "gloss": "kas rakstīti"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "הספר",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jūdas"
     }
   ],
-  "timestamp": "2026-10-20T21:40:12.740999304Z",
+  "timestamp": "2026-10-20T22:35:49.084058782Z",
   "model": "glm-5.3"
 }

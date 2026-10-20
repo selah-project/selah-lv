@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "אלהים priekšā latviešu predikāts prasa saikli 'ir'."
-    },
-    {
-      "kind": "crux",
-      "subject": "Elohim",
-      "rationale": "אלהים šeit par Baalu — 'ja viņš ir Elohim' — vārds netiek aizstāts ar 'dievs'."
-    },
-    {
-      "kind": "you",
-      "subject": "pilsētas vīriem",
-      "rationale": "Joaša runa tieši vērsta pret vīriem, kas prasīja viņa dēla nāvi."
-    }
-  ],
-  "translation": "Un Joašs sacīja visiem, kas stāvēja pret viņu: Vai jūs strīdaties par Baalu, vai jūs viņu glābjat? Kas par viņu strīdas, tiks nogalināts līdz rītam; ja viņš ⟨ir⟩ Elohim, lai viņš pats strīdas par sevi, jo viņš nogāza ⟨את⟩ viņa altāri.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d0adcb922ab45ab191dde79b1c8459dc2bf487bda13f4f7b23d4e5d2d6a30884",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/6\/29-32.1792518265417.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Joašs sacīja visiem, kas stāvēja pret viņu: Vai jūs strīdēsities par Baalu? Vai jūs glābsit ⟨את⟩ to, kas par viņu strīdēsies? Lai viņš top nogalināts līdz rītam; ja viņš ir dievs, lai viņš pats strīd par sevi, jo ⟨kāds⟩ nogāza ⟨את⟩ viņa altāri.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Un viņš sacīja"
+      "gloss": "Un sacīja"
     },
     {
       "surface": "יואש",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "האתם",
-      "gloss": "Vai jūs"
+      "gloss": "vai jūs"
     },
     {
       "surface": "תריבון",
-      "gloss": "strīdaties par"
+      "gloss": "strīdēsities"
     },
     {
       "surface": "לבעל",
-      "gloss": "Baalu"
+      "gloss": "par Baalu"
     },
     {
       "surface": "אם",
@@ -79,19 +53,20 @@
     },
     {
       "surface": "תושיעון",
-      "gloss": "viņu glābjat"
+      "gloss": "glābsit"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ viņu"
+      "gloss": "⟨את⟩",
+      "marks": "to, kas par viņu strīdēsies"
     },
     {
       "surface": "אשר",
-      "gloss": "Kas"
+      "gloss": "kas"
     },
     {
       "surface": "יריב",
-      "gloss": "par viņu strīdas"
+      "gloss": "strīdēsies"
     },
     {
       "surface": "לו",
@@ -99,7 +74,7 @@
     },
     {
       "surface": "יומת",
-      "gloss": "tiks nogalināts"
+      "gloss": "lai top nogalināts"
     },
     {
       "surface": "עד",
@@ -115,7 +90,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "dievs"
     },
     {
       "surface": "הוא",
@@ -123,7 +98,7 @@
     },
     {
       "surface": "ירב",
-      "gloss": "lai viņš pats strīdas"
+      "gloss": "strīd"
     },
     {
       "surface": "לו",
@@ -135,7 +110,7 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "viņš nogāza"
+      "gloss": "nogāza"
     },
     {
       "surface": "את",
@@ -147,6 +122,6 @@
       "gloss": "viņa altāri"
     }
   ],
-  "timestamp": "2026-10-20T17:44:25.418276430Z",
+  "timestamp": "2026-10-20T22:54:32.782697449Z",
   "model": "glm-5.3"
 }

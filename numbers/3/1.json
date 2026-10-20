@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dzimšanas",
-      "rationale": "תולדת — 'izcelšanās, paaudzes'; viens vārds latviski prasa divu vārdu savienojumu"
-    }
-  ],
-  "translation": "Un šie ⟨ir⟩ Aharona un Mošes dzimšanas <-saraksti> tajā dienā, kad Jahve runāja ⟨את⟩ Mošem Sinaja kalnā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b057f9d76185fe46654cff1b73d4a321140324addc8a04cf0bb39e10e821d27c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/1-4.1792515430215.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un šīs ir Aharona un Mošes dzimtas — ⟨tā⟩ dienā, kad Jahve runāja ⟨את⟩ Moše Sinaja kalnā.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Un šie"
+      "gloss": "Un šīs"
     },
     {
       "surface": "תולדת",
-      "gloss": "dzimšanas <-saraksti>"
+      "gloss": "dzimtas"
     },
     {
       "surface": "אהרן",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "tajā dienā"
+      "gloss": "dienā"
     },
     {
       "surface": "דבר",
@@ -59,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošem"
+      "marks": "Moše"
     },
     {
       "surface": "משה",
-      "gloss": "Mošem"
+      "gloss": "Moše"
     },
     {
       "surface": "בהר",
@@ -74,6 +53,6 @@
       "gloss": "Sinaja"
     }
   ],
-  "timestamp": "2026-10-20T16:57:10.218908725Z",
+  "timestamp": "2026-10-20T22:58:08.038211632Z",
   "model": "glm-5.3"
 }

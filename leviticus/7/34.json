@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תנופה\/תרומה",
-      "rationale": "Divi tuvi vārdi — 'pacelšana' (šūpošana) un 'celšana' (dāvana) — latviski grūti nodalāmi"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "gloss": "Priekšdzimte מאת gan saglabāta kā ⟨את⟩, bet latviski saplūst ar 'no'"
-    }
-  ],
-  "translation": "Jo ⟨את⟩ pacelšanas krūti un ⟨את⟩ celšanas stilbu Es ņēmu no Jisraēla dēliem, no viņu šelam upuriem, un Es ⟨את⟩ tos devu Aharonam, priesterim, un viņa dēliem par mūžīgu likumu no Jisraēla dēliem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/7\/33-36.1792513644988.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo ⟨את⟩ pacelšanas krūti un ⟨את⟩ celšanas stilbu es ņēmu no Jisraēla dēliem, no viņu šelamim upuriem, un es devu ⟨את⟩ tos Aharonam, priesterim, un viņa dēliem par mūžīgu likumu no Jisraēla dēliem.",
   "tokens": [
     {
       "surface": "כי",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pacelšanas krūti"
+      "marks": "krūti"
     },
     {
       "surface": "חזה",
@@ -47,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "celšanas stilbu"
+      "gloss": "un ⟨את⟩",
+      "marks": "stilbu"
     },
     {
       "surface": "שוק",
@@ -56,15 +35,15 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "celšanas (dāvanas)"
+      "gloss": "celšanas"
     },
     {
       "surface": "לקחתי",
-      "gloss": "Es ņēmu"
+      "gloss": "es ņēmu"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ no"
+      "gloss": "no ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -80,15 +59,16 @@
     },
     {
       "surface": "שלמיהם",
-      "gloss": "viņu šelam"
+      "gloss": "viņu šelamim"
     },
     {
       "surface": "ואתן",
-      "gloss": "un Es devu"
+      "gloss": "un es devu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ tos"
+      "gloss": "⟨את⟩ tos",
+      "marks": "Aharonam un viņa dēliem"
     },
     {
       "surface": "לאהרן",
@@ -112,7 +92,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ no"
+      "gloss": "no ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -123,6 +103,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T16:27:24.989080712Z",
+  "timestamp": "2026-10-20T22:56:31.609920576Z",
   "model": "glm-5.3"
 }

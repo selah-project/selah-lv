@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 128,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨būs⟩",
-      "rationale": "Ebreju tekstā nav darbības vārda 'ווטוב לך' — 'un labi tev'; latviešu valodai vajag kopulu."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "Papildinājuma saiklis atstāts neiztulkots, lai saglabātu teikuma plūsmu."
-    }
-  ],
-  "translation": "Tavas roku pūļu augli tu ēdīsi; laimīgs tu esi, un tev ⟨būs⟩ labi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/128\/1-4.1792528384284.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tavu roku pūļu augļus tu ēdīsi; laimīgs tu esi, un tev ⟨ir⟩ labi.",
   "tokens": [
     {
       "surface": "יגיע",
-      "gloss": "pūļu augli"
+      "gloss": "pūļu augļus"
     },
     {
       "surface": "כפיך",
-      "gloss": "tavas roku"
+      "gloss": "tavu roku delnas"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "⟨kad⟩"
     },
     {
       "surface": "תאכל",
@@ -57,6 +36,6 @@
       "gloss": "tev"
     }
   ],
-  "timestamp": "2026-10-20T20:33:04.284865245Z",
+  "timestamp": "2026-10-20T22:59:58.614352778Z",
   "model": "glm-5.3"
 }

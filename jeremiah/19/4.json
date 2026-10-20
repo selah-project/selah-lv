@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וינכרו",
-      "rationale": "Sakne נכר: 'padarīt par svešu \/ profanēt' (BSB 'foreign place') pret 'pazīt kā svešu \/ atsvešināt' (KJV 'estranged')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dieviem",
-      "rationale": "אלהים par citu tautu dieviem — mazs burtls 'dievi' pēc D1 noteikuma; Elohim forma rezervēta Vārdam."
-    }
-  ],
-  "translation": "Tāpēc, ka tie atstājuši Mani un padarījuši ⟨את⟩ šo vietu par svešu un kvēpinājuši tajā citiem dieviem, kurus nav pazinuši ne viņi, ne viņu tēvi, ne Jūdas ķēniņi, un piepildījuši ⟨את⟩ šo vietu nevainīgo asinīm.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d0bd1d2dd261149eddb6b17ccb915a36653cd9c456d447239f40227fc5e5cf90",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/19\/1-4.1792523774943.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc, ka viņi ir atstājuši mani un padarījuši šo vietu par svešu, un kvēpinājuši tajā citiem elohim — ⟨את⟩ šo vietu — kuru nepazina nedz viņi, nedz viņu tēvi, nedz Jehūdas ķēniņi, un piepildījuši ⟨את⟩ šo vietu nevainīgu asinīm.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Tāpēc, ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "אשר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "עזבני",
-      "gloss": "tie atstājuši Mani"
+      "gloss": "atstājuši mani"
     },
     {
       "surface": "וינכרו",
-      "gloss": "un padarījuši par svešu"
+      "gloss": "padarījuši par svešu"
     },
     {
       "surface": "את",
@@ -51,14 +30,14 @@
     },
     {
       "surface": "המקום",
-      "gloss": "vietu"
+      "gloss": "šo vietu"
     },
     {
       "surface": "הזה",
       "gloss": "šo"
     },
     {
-      "surface": "וקטרuo",
+      "surface": "ויקטרו",
       "gloss": "un kvēpinājuši"
     },
     {
@@ -67,7 +46,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "dieviem"
+      "gloss": "elohim"
     },
     {
       "surface": "אחרים",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurus"
+      "gloss": "kuru"
     },
     {
       "surface": "לא",
-      "gloss": "nav"
+      "gloss": "nepazina"
     },
     {
       "surface": "ידעום",
-      "gloss": "pazinuši"
+      "gloss": "nepazina"
     },
     {
       "surface": "המה",
@@ -91,15 +70,15 @@
     },
     {
       "surface": "ואבותיהם",
-      "gloss": "viņu tēvi"
+      "gloss": "nedz viņu tēvi"
     },
     {
       "surface": "ומלכי",
-      "gloss": "ķēniņi"
+      "gloss": "nedz ķēniņi"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jūdas"
+      "gloss": "Jehūdas"
     },
     {
       "surface": "ומלאו",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "vietu"
+      "gloss": "šo vietu"
     },
     {
       "surface": "הזה",
@@ -124,9 +103,9 @@
     },
     {
       "surface": "נקים",
-      "gloss": "nevainīgo"
+      "gloss": "nevainīgu"
     }
   ],
-  "timestamp": "2026-10-20T19:16:14.944756986Z",
+  "timestamp": "2026-10-20T22:49:26.955961149Z",
   "model": "glm-5.3"
 }

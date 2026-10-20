@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "Jehojada pavēl virsniekiem",
-      "rationale": "Tiešs uzrunājums simts virsniekiem ar pavēli (תעשון — 'jūs darīsiet')."
-    }
-  ],
-  "translation": "Un viņš tiem pavēlēja, sacīdams: Šis ⟨ir⟩ vārds, ko jūs darīsiet: trešā daļa no jums, nācēji šabatā, un sardzības sargi ķēniņa namā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/11\/5-8.1792521368691.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš tiem pavēlēja, sacīdams: Šis ⟨ir⟩ vārds, ko jūs darīsiet: trešā daļa no jums, kas šabatā ienāk, būs ķēniņa nama sardzes sargi.",
   "tokens": [
     {
       "surface": "ויצום",
@@ -62,29 +41,29 @@
     },
     {
       "surface": "באי",
-      "gloss": "nācēji"
+      "gloss": "kas ienāk"
     },
     {
       "surface": "השבת",
       "gloss": "šabatā"
     },
     {
-      "surface": "וshמרי",
-      "gloss": "un sargi"
+      "surface": "ושמרי",
+      "gloss": "sardzes sargi"
     },
     {
       "surface": "משמרת",
-      "gloss": "sardzības"
+      "gloss": "sardzi"
     },
     {
       "surface": "בית",
-      "gloss": "namā"
+      "gloss": "nama"
     },
     {
       "surface": "המלך",
       "gloss": "ķēniņa"
     }
   ],
-  "timestamp": "2026-10-20T18:36:08.692553146Z",
+  "timestamp": "2026-10-20T22:36:26.263206073Z",
   "model": "glm-5.3"
 }

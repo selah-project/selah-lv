@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חיות",
-      "rationale": "'Dzīvīgas\/enerģiskas' (no חי, dzīvs) — daži lasa 'kā zvēras' (חיות kā dzīvnieki); lielākā daļa: 'spēcīgas dzemdētājas'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חיות ... וילדו",
-      "rationale": "Sakne חי (dzīvība) atbalso 1:17 'dzīvināja' — vecmāšu atbildē dzīvības vārds attaisno dzīvības darbu"
-    }
-  ],
-  "translation": "Un vecmātes sacīja farao: jo ebrietes nav kā micrietes, jo tās ir dzīvīgas — pirms vecmāte vēl pie tām ierodas, tās jau ir dzemdējušas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/1\/17-20.1792512686622.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un vecmātes sacīja Paraon: tāpēc, ka ne tādas kā ēģiptietes ⟨ir⟩ ivrietes, jo tās ⟨ir⟩ dzīvīgas spēkā; vēl pirms vecmāte nonāk pie viņām, tās jau ⟨ir⟩ dzemdējušas.",
   "tokens": [
     {
       "surface": "ותאמרן",
-      "gloss": "un sacīja"
+      "gloss": "Un vecmātes sacīja"
     },
     {
       "surface": "המילדת",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "farao"
+      "gloss": "Paraon"
     },
     {
       "surface": "כי",
-      "gloss": "jo"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "לא",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "כנשים",
-      "gloss": "kā sievietes"
+      "gloss": "tādas kā"
     },
     {
       "surface": "המצרית",
-      "gloss": "micrietes"
+      "gloss": "ēģiptietes"
     },
     {
       "surface": "העברית",
-      "gloss": "ebrietes"
+      "gloss": "ivrietes"
     },
     {
       "surface": "כי",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "חיות",
-      "gloss": "dzīvīgas"
+      "gloss": "dzīvīgas spēkā"
     },
     {
       "surface": "הנה",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "בטרם",
-      "gloss": "pirms"
+      "gloss": "vēl pirms"
     },
     {
       "surface": "תבוא",
-      "gloss": "ierodas"
+      "gloss": "nonāk"
     },
     {
       "surface": "אלהן",
-      "gloss": "pie tām"
+      "gloss": "pie viņām"
     },
     {
       "surface": "המילדת",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "וילדו",
-      "gloss": "ir dzemdējušas"
+      "gloss": "tās jau dzemdējušas"
     }
   ],
-  "timestamp": "2026-10-20T16:11:26.623688029Z",
+  "timestamp": "2026-10-20T22:41:25.038398303Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "noturīgi",
-      "rationale": "יחילו (no חול): KJV 'griezīgi' pret ASV\/JPS 'noturīgi\/veiksmīgi' — sakne nozīmē griezties\/šūpoties, te 'stipri, droši'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "uzpūšas",
-      "rationale": "יפיח בהם — burtiski 'uzpūš elpu pret tiem', nicinājuma žests; tulkots kā 'uzpūsties pret'."
-    }
-  ],
-  "translation": "Noturīgi ir viņa ceļi ikvienā laikā; Tavi tiesu spriedumi ⟨ir⟩ augstu, pretī viņam ⟨⟨ tālu no skata ⟩⟩; pret visiem saviem pretiniekiem viņš uzpūšas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/5-8.1792527134577.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Viņa ceļi izdodas katrā laikā; tavas tiesas ⟨ir⟩ augstas, ⟨tālu⟩ no viņa; visus savus pretiniekus viņš izpūš ar elpu.",
   "tokens": [
     {
       "surface": "יחילו",
-      "gloss": "noturīgi"
+      "gloss": "izdodas"
     },
     {
       "surface": "דרכו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "ikvienā"
+      "gloss": "katrā"
     },
     {
       "surface": "עת",
@@ -46,33 +25,33 @@
     },
     {
       "surface": "מרום",
-      "gloss": "augstu"
+      "gloss": "augstas"
     },
     {
       "surface": "משפטיך",
-      "gloss": "Tavi tiesu spriedumi"
+      "gloss": "tavas tiesas"
     },
     {
       "surface": "מנגדו",
-      "gloss": "pretī viņam"
+      "gloss": "no viņa"
     },
     {
       "surface": "כל",
-      "gloss": "visiem"
+      "gloss": "visus"
     },
     {
       "surface": "צורריו",
-      "gloss": "saviem pretiniekiem"
+      "gloss": "viņa pretiniekus"
     },
     {
       "surface": "יפיח",
-      "gloss": "viņš uzpūšas"
+      "gloss": "viņš izpūš ar elpu"
     },
     {
       "surface": "בהם",
-      "gloss": "pret tiem"
+      "gloss": "uz viņiem"
     }
   ],
-  "timestamp": "2026-10-20T20:12:14.580040065Z",
+  "timestamp": "2026-10-20T22:59:39.753770370Z",
   "model": "glm-5.3"
 }

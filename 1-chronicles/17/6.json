@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "vai",
-      "rationale": "Jautājuma daļiņa 'vai' pievienota, lai latviski izskanētu retorisks jautājums."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שפטי",
-      "rationale": "Soģi — tie paši grāmatas Soģu vadoņi, nevis tiesneši ikdienas nozīmē."
-    },
-    {
-      "kind": "you",
-      "subject": "uz Jisraēla soģiem",
-      "rationale": "Jahve runā caur Nātanu, atgādinot vārdus, sacītus soģiem."
-    }
-  ],
-  "translation": "Visur, kur es staigāju pa visu Jisraēlu, vai es runāju vārdu ar kādu no Jisraēla soģiem, ko es pavēlēu ganīt ⟨את⟩ manu tautu, sacīdams: Kāpēc jūs neesat man uzcēluši ciedru namu?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/17\/5-8.1792531484518.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visur, kur es gāju ar visu Jisraēlu, vai es teicu ⟨את⟩ kādu vārdu kādam no Jisraēla soģiem, kurus es pavēlēju ganīt ⟨את⟩ manu tautu, sacīdams: Kāpēc jūs neesat man uzcēlusi ciedru māju?",
   "tokens": [
     {
       "surface": "בכל",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "התהלכתי",
-      "gloss": "es staigāju"
+      "gloss": "es gāju"
     },
     {
       "surface": "בכל",
-      "gloss": "pa visu"
+      "gloss": "ar visu"
     },
     {
       "surface": "ישראל",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "vai vārdu"
+      "gloss": "vārdu"
     },
     {
       "surface": "דברתי",
-      "gloss": "es runāju"
+      "gloss": "es teicu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ar kādu no Jisraēla soģiem"
+      "marks": "kādu vārdu"
     },
     {
       "surface": "אחד",
-      "gloss": "kādu"
+      "gloss": "kādam"
     },
     {
       "surface": "שפטי",
-      "gloss": "soģiem"
+      "gloss": "no soģiem"
     },
     {
       "surface": "ישראל",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kurus"
     },
     {
       "surface": "צויתי",
-      "gloss": "es pavēlēu"
+      "gloss": "es pavēlēju"
     },
     {
       "surface": "לרעות",
@@ -93,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano tautu"
+      "marks": "manu tautu"
     },
     {
       "surface": "עמי",
-      "gloss": "mano tautu"
+      "gloss": "manu tautu"
     },
     {
       "surface": "לאמר",
@@ -121,13 +95,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "namu"
+      "gloss": "māju"
     },
     {
       "surface": "ארזים",
       "gloss": "ciedru"
     }
   ],
-  "timestamp": "2026-10-20T21:24:44.519219124Z",
+  "timestamp": "2026-10-20T22:32:02.638046101Z",
   "model": "glm-5.3"
 }

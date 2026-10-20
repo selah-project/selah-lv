@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dzimums",
-      "rationale": "מזרע ir 'sēkla, pēcnācēji'; 'no ķēniņa sēklas' — izvēlēts 'dzimums' kā dzimtas jēdziens"
-    },
-    {
-      "kind": "addition",
-      "subject": "kopā ar viņu",
-      "rationale": "אתו šeit ir priekšpozīcija 'ar viņu'; ⟨את⟩ atstāts, jo tokens ir את形式的"
-    }
-  ],
-  "translation": "Un notika septītajā mēnesī, ka Jišmaēls, Netanjaha dēls, Elišamas dēls, no ķēniņa dzimuma, un ķēniņa diženie, un desmit vīri ⟨kopā ar viņu⟩ nāca pie Gedaljahu, Ahikama dēla, Micpā; un viņi ēda tur maizei kopā Micpā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/41\/1-4.1792524219535.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika septītajā mēnesī, ka atnāca Jišmaēls, Netanjahas dēls, Elišamas dēls, no ķēniņa dzimtas, un ķēniņa augstmaņi, un desmit vīri ⟨ar⟩ viņu, pie Gedaljahu, Ahiķama dēla, Micpā; un tie ēda tur maizei kopā Micpā.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Un notika"
+      "gloss": "un notika"
     },
     {
       "surface": "בחדש",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "nāca"
+      "gloss": "atnāca"
     },
     {
       "surface": "ישמעאל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נתניה",
-      "gloss": "Netanjaha"
+      "gloss": "Netanjahas"
     },
     {
       "surface": "בן",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "no dzimuma"
+      "gloss": "no dzimtas"
     },
     {
       "surface": "המלוכה",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "ורבי",
-      "gloss": "un diženie"
+      "gloss": "un augstmaņi"
     },
     {
       "surface": "המלך",
@@ -90,7 +69,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ viņam"
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
     },
     {
       "surface": "אל",
@@ -106,7 +86,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikama"
+      "gloss": "Ahiķama"
     },
     {
       "surface": "המצפתה",
@@ -114,7 +94,7 @@
     },
     {
       "surface": "ויאכלו",
-      "gloss": "un viņi ēda"
+      "gloss": "un tie ēda"
     },
     {
       "surface": "שם",
@@ -133,6 +113,6 @@
       "gloss": "Micpā"
     }
   ],
-  "timestamp": "2026-10-20T19:23:39.536156304Z",
+  "timestamp": "2026-10-20T22:50:23.009917347Z",
   "model": "glm-5.3"
 }

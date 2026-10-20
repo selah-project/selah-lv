@@ -5,31 +5,15 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השבעה\/נשבע",
-      "rationale": "Zvērests un zvērēt no vienas saknes שבע, kas pašā vārdā sietas ar 'septiņi' — atkārtojums uzsvēr derības svētumu"
-    }
-  ],
-  "translation": "Tāpēc, ka Jahve mīl jūs ⟨את⟩ un tāpēc, ka Viņš sargā ⟨את⟩ zvērestu, ko Viņš zvērēja jūsu tēviem, Jahve izveda jūs ar stipru roku un izpestīja jūs no vergu nama, no Paras, Micraima ķēniņa, rokas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/5-8.1792516722783.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc, ka Jahve mīl ⟨את⟩ jūs un sargā ⟨את⟩ zvērestu, ko Viņš zvērēja jūsu tēviem, Jahve izveda ⟨את⟩ jūs ar stipru roku un izpirka jūs no vergu nama, no Paraō, Micraimas ķēniņa, rokas.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Tāpēc, ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "מאהבת",
-      "gloss": "mīlestības dēļ"
+      "gloss": "mīlēšanas dēļ"
     },
     {
       "surface": "יהוה",
@@ -37,12 +21,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ jūs",
       "marks": "jūs"
     },
     {
       "surface": "ומשמרו",
-      "gloss": "un tāpēc, ka Viņš sargā"
+      "gloss": "un sargā"
     },
     {
       "surface": "את",
@@ -59,7 +43,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "Viņš zvērēja"
+      "gloss": "zvērēja"
     },
     {
       "surface": "לאבתיכם",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ jūs",
       "marks": "jūs"
     },
     {
@@ -88,7 +72,7 @@
     },
     {
       "surface": "ויפדך",
-      "gloss": "un izpestīja jūs"
+      "gloss": "un izpirka jūs"
     },
     {
       "surface": "מבית",
@@ -104,7 +88,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paras"
+      "gloss": "Paraō"
     },
     {
       "surface": "מלך",
@@ -112,9 +96,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micraima"
+      "gloss": "Micraimas"
     }
   ],
-  "timestamp": "2026-10-20T17:18:42.786307234Z",
+  "timestamp": "2026-10-20T22:40:50.283460525Z",
   "model": "glm-5.3"
 }

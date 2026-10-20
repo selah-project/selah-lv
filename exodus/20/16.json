@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עד\/ענה",
-      "rationale": "'atbildēt' ar 'liecību' — juridiskā runā liecinieks 'atbild'; angļu 'bear witness' zaudē darbības vārda tēlu"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "pavēle Israēlam"
-    }
-  ],
-  "translation": "Neatbildēsi pret ⟨את⟩ savu tuvāko par melīgu liecību.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9289121080cd06bd9d21e88ba644c54479a16330ef9346c8b2c101fe3f174e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/13-16.1792512973927.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nedod pret savu tuvāko viltus liecību.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Ne"
+      "gloss": "nedod"
     },
     {
       "surface": "תענה",
@@ -42,14 +21,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "⟨את⟩ liecību",
-      "marks": "liecību"
+      "gloss": "liecību"
     },
     {
       "surface": "שקר",
-      "gloss": "melīgu"
+      "gloss": "viltus"
     }
   ],
-  "timestamp": "2026-10-20T16:16:13.928575331Z",
+  "timestamp": "2026-10-20T22:41:50.504031157Z",
   "model": "glm-5.3"
 }

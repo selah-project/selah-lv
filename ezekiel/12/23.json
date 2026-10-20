@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "daru galu",
-      "rationale": "השבתי burtiski 'es lieku atpūsties\/mitējos' — cēzura formas nozīmē 'daru galu'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "המשל\/ימשלו",
-      "rationale": "Saknes משל atkārtojums: sakāmvārds un 'lietot par sakāmvārdu' — vārdu spēle latviešu valodā daļēi saglabāta."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Darbības vārds 'ir' latviešu valodai vajadzīgs, ebreju teksta nav."
-    }
-  ],
-  "translation": "Tāpēc saki tiem: Tā saka Adonai Jahve: Es daru galu ⟨את⟩ šim sakāmvārdam, un tie to vairs nelietos par sakāmvārdu Jisraēlā; bet runā tiem: tuvu ⟨ir⟩ dienas un katra redzējuma vārds.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/12\/21-24.1792524883926.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc saki viņiem: Tā saka Adonai Jahve: Es izbeidzu ⟨את⟩ šo sakāmvārdu, un viņi ⟨את⟩ to vairs nesacīs kā sakāmvārdu Jisraēlā; bet runā viņiem: Tuvojas dienas, un ⟨ir⟩ piepildīts katra redzējuma vārds.",
   "tokens": [
     {
       "surface": "לכן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "tiem"
+      "gloss": "viņiem"
     },
     {
       "surface": "כה",
@@ -63,20 +37,20 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "Es daru galu"
+      "gloss": "Es izbeidzu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šim sakāmvārdam"
+      "marks": "šo sakāmvārdu"
     },
     {
       "surface": "המשל",
-      "gloss": "sakāmvārdam"
+      "gloss": "šo sakāmvārdu"
     },
     {
       "surface": "הזה",
-      "gloss": "šim"
+      "gloss": "šo"
     },
     {
       "surface": "ולא",
@@ -84,12 +58,11 @@
     },
     {
       "surface": "ימשלו",
-      "gloss": "lietos par sakāmvārdu"
+      "gloss": "viņi nesacīs kā sakāmvārdu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ to",
-      "marks": "to (sakāmvārdu)"
+      "gloss": "⟨את⟩ to"
     },
     {
       "surface": "עוד",
@@ -105,7 +78,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "gan"
+      "gloss": "—"
     },
     {
       "surface": "דבר",
@@ -113,11 +86,11 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "tiem"
+      "gloss": "viņiem"
     },
     {
       "surface": "קרבו",
-      "gloss": "tuvu"
+      "gloss": "Tuvojas"
     },
     {
       "surface": "הימים",
@@ -136,6 +109,6 @@
       "gloss": "redzējuma"
     }
   ],
-  "timestamp": "2026-10-20T19:34:43.927428148Z",
+  "timestamp": "2026-10-20T22:43:23.899325411Z",
   "model": "glm-5.3"
 }

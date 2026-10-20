@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל התפלה",
-      "rationale": "prievārds 'אל' ar 'lūgšanu' izgaist uzklausa konstrukcijā."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "ebreju valoda izsaka 'būt' ar infinitīvu להיות; latviešu teikumā vajadzīgs saiklis."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve",
-      "rationale": "Šelomo runā Jahvem par šo namu — tieša uzruna lūgšanā."
-    }
-  ],
-  "translation": "Lai tavas acs ir atvērtas uz šo namu nakti un dienu, uz vietu, par kuru tu esi teicis: mans vārds tur būs, — lai uzklausītu lūgšanu, ko tavs kalps skaita, virzītu uz šo vietu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/29-32.1792520640078.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lai Tavas acis būtu atvērtas uz šo naktī un dienā, uz šo vietu, par kuru Tu sacīji: lai mans Vārds ⟨būs⟩ tur, lai Tu dzirdi lūgšanu, ko Tavs kalps lūgs uz šo vietu.",
   "tokens": [
     {
       "surface": "להיות",
-      "gloss": "lai ir"
+      "gloss": "lai būtu"
     },
     {
       "surface": "עינך",
-      "gloss": "tava acs"
+      "gloss": "Tavas acis"
     },
     {
       "surface": "פתחות",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "הבית",
-      "gloss": "šo namu"
-    },
-    {
-      "surface": "הזה",
       "gloss": "šo"
     },
     {
+      "surface": "הזה",
+      "gloss": "namu"
+    },
+    {
       "surface": "לילה",
-      "gloss": "nakti"
+      "gloss": "naktī"
     },
     {
       "surface": "ויום",
-      "gloss": "un dienu"
+      "gloss": "un dienā"
     },
     {
       "surface": "אל",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "tu esi teicis"
+      "gloss": "Tu sacīji"
     },
     {
       "surface": "יהיה",
-      "gloss": "būs"
+      "gloss": "⟨būs⟩"
     },
     {
       "surface": "שמי",
-      "gloss": "mans vārds"
+      "gloss": "mans Vārds"
     },
     {
       "surface": "שם",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "lai uzklausītu"
+      "gloss": "lai dzirdi"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "lūgšanu"
     },
     {
       "surface": "התפלה",
-      "gloss": "lūgšanu"
+      "gloss": ""
     },
     {
       "surface": "אשר",
@@ -111,25 +85,25 @@
     },
     {
       "surface": "יתפלל",
-      "gloss": "skaita"
+      "gloss": "Tavs kalps lūgs"
     },
     {
       "surface": "עבדך",
-      "gloss": "tavs kalps"
+      "gloss": ""
     },
     {
       "surface": "אל",
-      "gloss": "virzītu uz"
+      "gloss": "uz"
     },
     {
       "surface": "המקום",
-      "gloss": "vietu"
+      "gloss": "šo vietu"
     },
     {
       "surface": "הזה",
-      "gloss": "šo"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-20T18:24:00.083960722Z",
+  "timestamp": "2026-10-20T22:32:38.141442364Z",
   "model": "glm-5.3"
 }

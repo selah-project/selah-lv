@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lv",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש tuvāk 'rīkle \/ dzīvības spēks', nevis dvēsele latviešu izpratnē."
-    },
-    {
-      "kind": "crux",
-      "subject": "גלוליכם",
-      "rationale": "גִּלּוּל burtiski 'apaļš baļķis' — elki; daži tulko 'pretīgās lietas', forma 'līķis' te spēlējas ar פגר."
-    }
-  ],
-  "translation": "Un es izpostīšu ⟨את⟩ jūsu augstienes, un iznīcināšu ⟨את⟩ jūsu saules stabus, un likšu jūsu līķus uz jūsu elku līķiem, un mana dvēsele jūs ⟨את⟩ nīst.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/29-32.1792515308683.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Es izpostīšu ⟨את⟩ jūsu augstienes, un Es nogriezīšu ⟨את⟩ jūsu saules stabus, un Es likšu ⟨את⟩ jūsu līķus uz jūsu elku līķiem, un Mana nefes riebosies jūs ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "והשמדתי",
-      "gloss": "Un es izpostīšu"
+      "gloss": "Un Es izpostīšu"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "un iznīcināšu"
+      "gloss": "un Es nogriezīšu"
     },
     {
       "surface": "את",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "un likšu"
+      "gloss": "un Es likšu"
     },
     {
       "surface": "את",
@@ -77,22 +56,21 @@
     },
     {
       "surface": "גלוליכם",
-      "gloss": "jūsu elku"
+      "gloss": "jūsu elkiem"
     },
     {
       "surface": "וגעלה",
-      "gloss": "un nīst"
+      "gloss": "un riebosies"
     },
     {
       "surface": "נפשי",
-      "gloss": "mana dvēsele"
+      "gloss": "Mana nefes"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": ""
+      "gloss": "jūs ⟨אתכם⟩"
     }
   ],
-  "timestamp": "2026-10-20T16:55:08.685129187Z",
+  "timestamp": "2026-10-20T22:55:46.013274603Z",
   "model": "glm-5.3"
 }

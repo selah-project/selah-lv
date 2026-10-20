@@ -5,39 +5,7 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Aramaic pseudo-koine teom allows no copula; Latvian requires one."
-    },
-    {
-      "kind": "crux",
-      "subject": "הדמין",
-      "rationale": "Akkadian loan ḥadmīn: 'gabali' (pieces) pret KJV 'cut in pieces'; daži lasa 'sists gabalos'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שלה",
-      "gloss": "ļaunu",
-      "rationale": "Aramaic šālāh = 'nepareizi, apsmiekla vārdi', latviskots kā 'ļaunu'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כל קבל",
-      "rationale": "Aramaic kal-qəḇel 'pilnīgi tāpēc' sasaistīts vienā 'tāpēc ka'."
-    }
-  ],
-  "translation": "Un no manis ⟨ir⟩ likta pavēle: ikviena tauta, cilts un mēle, kas runās ļaunu pret Šadraka, Mešaka un Abed-Nego Elohim, tiks saraizīta gabalos, un viņa nams tiks padarīts par mēslu kaudzi, tāpēc ka nav cita Elohim, kas spētu šādi izglābt.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "55408bb28e8f7bdbfc0d01e54c7986d85acaedbcf3c9e839ba4bc0262654dbcc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/3\/29-32.1792530257554.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un no manis ⟨ir⟩ izdots likums, ka ikviena tauta, nācija un mēle, kas teiktu ko ļaunu par Šadraka, Mešaka un Abed-Nego Eloah, tiks sadauzīta gabalos, un viņa nams tiks pārvērsts par mēslu kaudzi, tāpēc ka nav cita Eloah, kas spētu glābt tādā veidā.",
   "tokens": [
     {
       "surface": "ומני",
@@ -45,11 +13,11 @@
     },
     {
       "surface": "שים",
-      "gloss": "likta"
+      "gloss": "izdots"
     },
     {
       "surface": "טעם",
-      "gloss": "pavēle"
+      "gloss": "likums"
     },
     {
       "surface": "די",
@@ -65,7 +33,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "cilts"
+      "gloss": "nācija"
     },
     {
       "surface": "ולשן",
@@ -77,23 +45,23 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "runās"
+      "gloss": "teiktu"
     },
     {
       "surface": "שלה",
-      "gloss": "ļaunu"
+      "gloss": "ko ļaunu"
     },
     {
       "surface": "על",
-      "gloss": "pret"
+      "gloss": "par"
     },
     {
       "surface": "אלההון",
-      "gloss": "Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "שדרך",
@@ -105,7 +73,7 @@
     },
     {
       "surface": "ועבד",
-      "gloss": "un Abed-"
+      "gloss": "un Abed"
     },
     {
       "surface": "נגוא",
@@ -117,7 +85,7 @@
     },
     {
       "surface": "יתעבד",
-      "gloss": "tiks saraizīta"
+      "gloss": "tiks sadauzīts"
     },
     {
       "surface": "וביתה",
@@ -129,15 +97,15 @@
     },
     {
       "surface": "ישתוה",
-      "gloss": "tiks padarīts par"
+      "gloss": "tiks pārvērsts"
     },
     {
       "surface": "כל",
-      "gloss": ""
+      "gloss": "tāpēc"
     },
     {
       "surface": "קבל",
-      "gloss": "tāpēc ka"
+      "gloss": "ka"
     },
     {
       "surface": "די",
@@ -149,15 +117,15 @@
     },
     {
       "surface": "איתי",
-      "gloss": ""
+      "gloss": "ir"
     },
     {
       "surface": "אלה",
-      "gloss": "Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "אחרן",
-      "gloss": "cits"
+      "gloss": "cita"
     },
     {
       "surface": "די",
@@ -169,13 +137,13 @@
     },
     {
       "surface": "להצלה",
-      "gloss": "šādi izglābt"
+      "gloss": "glābt"
     },
     {
       "surface": "כדנה",
-      "gloss": "šādi"
+      "gloss": "tādā veidā"
     }
   ],
-  "timestamp": "2026-10-20T21:04:17.554931076Z",
+  "timestamp": "2026-10-20T22:39:39.831303003Z",
   "model": "glm-5.3"
 }

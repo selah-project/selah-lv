@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "jūs sastapa",
-      "rationale": "קראת אתכם ir sieviešu dzimtes 2. persona — runa vērsta galvenokārt uz sievietēm (44:15,19); latviešu 'jūs' dzimti neparāda"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "pirmais אשר pēc מפני latviski pārklājas ar 'tāpēc, ka' un paliek bez atsevišķa vārda"
-    }
-  ],
-  "translation": "Tāpēc, ka jūs kvēpinājāt un grēkojāt pret Jahvi, un neklausījāt Jahves balsī, un Viņa Torā, Viņa likumos un Viņa liecībās nestaigājāt — tāpēc jūs sastapa šī ļaunā nelaime, kā ⟨ir⟩ šai dienā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "40398e70d8c046922b0eb402fee66e6b4cd7309c24605c6e49def771dc33e5fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/44\/21-24.1792524413682.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tāpēc, ka jūs kurinājāt kvēpināmo un grēkojāt pret Jahvi un neklausījāt Jahves balsī un Viņa Torā, un Viņa likumos, un Viņa liecībās nestaigājāt, tāpēc ⟨את⟩ jūs piemekāja šī ļaunība, kā ⟨ir⟩ šajā dienā.",
   "tokens": [
     {
       "surface": "מפני",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ka"
     },
     {
       "surface": "קטרתם",
-      "gloss": "jūs kvēpinājāt"
+      "gloss": "jūs kurinājāt kvēpināmo"
     },
     {
       "surface": "ואשר",
-      "gloss": "un"
+      "gloss": "un ka"
     },
     {
       "surface": "חטאתם",
-      "gloss": "grēkojāt"
+      "gloss": "jūs grēkojāt"
     },
     {
       "surface": "ליהוה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "klausījāt"
+      "gloss": "jūs klausījāt"
     },
     {
       "surface": "בקול",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "ובתרתו",
-      "gloss": "Viņa Torā"
+      "gloss": "un Viņa Torā"
     },
     {
       "surface": "ובחקתיו",
-      "gloss": "Viņa likumos"
+      "gloss": "un Viņa likumos"
     },
     {
       "surface": "ובעדותיו",
-      "gloss": "Viņa liecībās"
+      "gloss": "un Viņa liecībās"
     },
     {
       "surface": "לא",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "הלכתם",
-      "gloss": "staigājāt"
+      "gloss": "jūs staigājāt"
     },
     {
       "surface": "על",
@@ -94,19 +73,20 @@
     },
     {
       "surface": "כן",
-      "gloss": "tāpēc"
+      "gloss": "tādēļ"
     },
     {
       "surface": "קראת",
-      "gloss": "sastapa"
+      "gloss": "piemekāja"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "הרעה",
-      "gloss": "ļaunā nelaime"
+      "gloss": "šī ļaunība"
     },
     {
       "surface": "הזאת",
@@ -114,13 +94,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "kā šai dienā"
+      "gloss": "kā šajā dienā"
     },
     {
       "surface": "הזה",
-      "gloss": "šai"
+      "gloss": "šajā"
     }
   ],
-  "timestamp": "2026-10-20T19:26:53.684068423Z",
+  "timestamp": "2026-10-20T22:50:40.667860851Z",
   "model": "glm-5.3"
 }

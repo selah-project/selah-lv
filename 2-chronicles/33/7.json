@@ -5,53 +5,32 @@
   "book": "2-chronicles",
   "lang": "lv",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פסל הסמל",
-      "rationale": "'grebtā elka tēls' — divi vārdi vienam priekšmetam; tradīcijas šķiras: 'grebtais tēls, elks, ko viņš bija izdarījis'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "אל pirms Davidam ietiktas locījumā 'Davidam'"
-    }
-  ],
-  "translation": "Un viņš nostādīja ⟨את⟩ grebto elku, tēlu, ko bija izgrebis, Elohim namā, par kuru Elohim bija sacījis Davidam un viņa dēlam Šlomo: Šajā namā un Jerušalaimā, ko es izvēlējos no visām Jisraēla ciltīm, es likšu ⟨את⟩ savu Vārdu uz mūžiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/5-8.1792532354630.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš nostādīja ⟨את⟩ ieligzdoto elka tēlu, ⟨kuru⟩ viņš bija izdarījis, Elohim namā, par kuru Elohim bija sacījis Davida un viņa dēla Šelomo: Šajā namā un Jerušalaimā, kuru es izvēlējos no visām Jisraēla ciltīm, es likšu ⟨את⟩ savu Vārdu uz mūžību.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "un viņš nostādīja"
+      "gloss": "Un viņš nostādīja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "grebto elku"
+      "marks": "ieligzdoto elka tēlu"
     },
     {
       "surface": "פסל",
-      "gloss": "grebto elku"
+      "gloss": "ieligzdoto tēlu"
     },
     {
       "surface": "הסמל",
-      "gloss": "tēlu"
+      "gloss": "elka"
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "⟨kuru⟩"
     },
     {
       "surface": "עשה",
-      "gloss": "bija izgrebis"
+      "gloss": "viņš bija izdarījis"
     },
     {
       "surface": "בבית",
@@ -75,23 +54,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pie"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidam"
+      "gloss": "Davida"
     },
     {
       "surface": "ואל",
-      "gloss": "un"
+      "gloss": "un pie"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šlomo"
+      "gloss": "Šelomo"
     },
     {
       "surface": "בנו",
-      "gloss": "viņa dēlam"
+      "gloss": "viņa dēla"
     },
     {
       "surface": "בבית",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kuru"
     },
     {
       "surface": "בחרתי",
@@ -140,9 +119,9 @@
     },
     {
       "surface": "לעילום",
-      "gloss": "uz mūžiem"
+      "gloss": "uz mūžību"
     }
   ],
-  "timestamp": "2026-10-20T21:39:14.631080809Z",
+  "timestamp": "2026-10-20T22:35:58.723735470Z",
   "model": "glm-5.3"
 }

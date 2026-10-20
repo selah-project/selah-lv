@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "lv",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Jahves māja",
-      "rationale": "בית יהוה: daži lasa Beteli, citi Šilo (sventnīcas vieta), trešie — pašu Jerušalaimu."
-    },
-    {
-      "kind": "addition",
-      "subject": "esam",
-      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam nepieciešams."
-    },
-    {
-      "kind": "you",
-      "subject": "vecajam vīram",
-      "rationale": "Ceļotājs atbild uz viņa jautājumu, aprakstot savu ceļu."
-    }
-  ],
-  "translation": "Un viņš sacīja viņam: Ceļotāji mēs esam no Beit-Lehemas Jehudas līdz Efrajima kalna novadiem; no turienes es esmu, un es aizgāju uz Beit-Lehemu Jehudas, un ⟨את⟩ Jahves māju es eju, un nav neviena vīra, kas mani uzņemtu mājā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/19\/17-20.1792518626787.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš sacīja ⟨viņam⟩: Mēs esam ceļotāji no Beit-Lehemas Jūdas līdz Efrajima kalna malām; no turienes ⟨es⟩ ⟨esmu⟩, un es aizgāju uz Beit-Lehemu Jūdu ⟨zemē⟩, un uz ⟨את⟩ Jahves namu es eju, un nav neviena cilvēka, kas savāktu mani iekšā savā namā.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Un sacīja"
+      "gloss": "un viņš sacīja"
     },
     {
       "surface": "אליו",
-      "gloss": "viņam"
+      "gloss": "⟨viņam⟩"
     },
     {
       "surface": "עברים",
-      "gloss": "Ceļotāji"
+      "gloss": "ceļotāji"
     },
     {
       "surface": "אנחנו",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "מבית",
-      "gloss": "no Beit-"
+      "gloss": "no Beit-Lehemas"
     },
     {
       "surface": "לחם",
-      "gloss": "Lehemas"
+      "gloss": "Beit-Lehemas"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jūdas"
     },
     {
       "surface": "עד",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ירכתי",
-      "gloss": "novadiem"
+      "gloss": "malām"
     },
     {
       "surface": "הר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "es esmu"
+      "gloss": "⟨es⟩ ⟨esmu⟩"
     },
     {
       "surface": "ואלך",
@@ -95,24 +69,24 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit-Lehemu"
     },
     {
       "surface": "לחם",
-      "gloss": "Lehemu"
+      "gloss": "Beit-Lehemu"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudas"
+      "gloss": "Jūdu"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Jahves māju"
+      "marks": "Jahves nams"
     },
     {
       "surface": "בית",
-      "gloss": "māju"
+      "gloss": "namu"
     },
     {
       "surface": "יהוה",
@@ -132,22 +106,22 @@
     },
     {
       "surface": "איש",
-      "gloss": "neviena vīra"
+      "gloss": "neviena cilvēka"
     },
     {
       "surface": "מאסף",
-      "gloss": "kas uzņemtu"
+      "gloss": "kas savāktu"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩ mani",
-      "marks": "mani"
+      "marks": "iekšā savā namā"
     },
     {
       "surface": "הביתה",
-      "gloss": "mājā"
+      "gloss": "iekšā savā namā"
     }
   ],
-  "timestamp": "2026-10-20T17:50:26.788480050Z",
+  "timestamp": "2026-10-20T22:54:20.213676708Z",
   "model": "glm-5.3"
 }

@@ -5,52 +5,31 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "משתין בקיר",
-      "rationale": "Idioma 'kas slapina sienu' = vīriešu kārtas pēcnācējs; atstāta burtiskā bilde, nevis 'vīrietis'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "atsvabinātāji",
-      "rationale": "גואל ir radinieks-izpirkējs pēc radniecības likuma; latviešu vārda trūkums"
-    }
-  ],
-  "translation": "Un notika, viņam valdot, tiklīdz viņš apsēdās savā tronī, viņš nosita ⟨את⟩ visu Bašas namu; neatstāja viņam nevienu, kas slapina sienu, nedz viņa atsvabinātājus, nedz viņa draugu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/16\/9-12.1792520835460.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kad viņš sāka valdīt, tiklīdz viņš apsēdās savā tronī, viņš izsita ⟨את⟩ visu Bašas namu; viņš neatstāja viņam nevienu pieslīdzēju pie sienas, nedz viņa izpestītājus, nedz viņa draugu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "notika"
+      "gloss": "Un notika"
     },
     {
       "surface": "במלכו",
-      "gloss": "viņam valdot"
+      "gloss": "kad viņš sāka valdīt"
     },
     {
       "surface": "כשבתו",
-      "gloss": "apsēdās"
+      "gloss": "tiklīdz viņš apsēdās"
     },
     {
       "surface": "על",
-      "gloss": "uz"
+      "gloss": "savā"
     },
     {
       "surface": "כסאו",
-      "gloss": "savā tronī"
+      "gloss": "tronī"
     },
     {
       "surface": "הכה",
-      "gloss": "nosita"
+      "gloss": "viņš izsita"
     },
     {
       "surface": "את",
@@ -83,21 +62,21 @@
     },
     {
       "surface": "משתין",
-      "gloss": "kas slapina sienu"
+      "gloss": "pieslīdzēju pie sienas"
     },
     {
       "surface": "בקיר",
-      "gloss": "sienu"
+      "gloss": "pie sienas"
     },
     {
       "surface": "וגאליו",
-      "gloss": "atsvabinātājus"
+      "gloss": "nedz viņa izpestītājus"
     },
     {
-      "surface": "ורעהu",
-      "gloss": "draugu"
+      "surface": "ורעהו",
+      "gloss": "nedz viņa draugu"
     }
   ],
-  "timestamp": "2026-10-20T18:27:15.461107575Z",
+  "timestamp": "2026-10-20T22:32:40.809373889Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "nehemiah",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויעזבו ירושלם",
-      "rationale": "'atstāja Jerušalaimu' — vai 'atjaunoja' (KJV) pret 'atstāja' (YLT); sakne עזב nozīmē pamest."
-    },
-    {
-      "kind": "hapax",
-      "subject": "הרקחים",
-      "gloss": "smaržvielu maisītāju amats — rets vārds Nehemjas grāmatā."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨turpināja⟩",
-      "rationale": "Darbības turpinājums pievienots skaidrībai: 'atstāja Jerušalaimu līdz platajam mūrim'."
-    }
-  ],
-  "translation": "Pie viņa rokas stiprināja Uzielis, Harhajas dēls, viens no metāla kausētājiem, un pie viņa rokas stiprināja Hananja, viens no smaržvielu maisītājiem; un tie atstāja Jerušalaimu un ⟨turpināja⟩ līdz platajai mūrim.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "217cefa16862cfc74f140a9b4521dbf164465f026c6c4f7ccbbaef9b1283f894",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/3\/5-8.1792530707518.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Blakus viņam stiprināja Uziēls, Harhajas dēls, viens no cēlājiem, un blakus viņam stiprināja Hananjija, viens no smaržu darinātājiem, un tie atstāja Jerušalaimu līdz platajai mūrim.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "pie"
+      "gloss": "blakus"
     },
     {
       "surface": "ידו",
-      "gloss": "viņa rokas"
+      "gloss": "viņam"
     },
     {
       "surface": "החזיק",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "עזיאל",
-      "gloss": "Uzielis"
+      "gloss": "Uziēls"
     },
     {
       "surface": "בן",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "חרהיה",
-      "gloss": "Harhaja"
+      "gloss": "Harhajas"
     },
     {
       "surface": "צורפים",
-      "gloss": "no metāla kausētājiem"
+      "gloss": "cēlājiem"
     },
     {
       "surface": "ועל",
-      "gloss": "un pie"
+      "gloss": "un blakus"
     },
     {
       "surface": "ידו",
-      "gloss": "viņa rokas"
+      "gloss": "viņam"
     },
     {
       "surface": "החזיק",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "חנניה",
-      "gloss": "Hananja"
+      "gloss": "Hananjija"
     },
     {
       "surface": "בן",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "הרקחים",
-      "gloss": "no smaržvielu maisītājiem"
+      "gloss": "smaržu darinātājiem"
     },
     {
       "surface": "ויעזבו",
-      "gloss": "un atstāja"
+      "gloss": "un tie atstāja"
     },
     {
       "surface": "ירושלם",
@@ -99,9 +73,13 @@
     },
     {
       "surface": "החומה",
-      "gloss": " platajai mūrim"
+      "gloss": "mūrim"
+    },
+    {
+      "surface": "הרחבה",
+      "gloss": "platajai"
     }
   ],
-  "timestamp": "2026-10-20T21:11:47.520311711Z",
+  "timestamp": "2026-10-20T22:56:41.398945301Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "trīsdesmit divi",
-      "rationale": "Ratiņu pavēlnieku skaits — skaitļu uzskaitījums."
-    },
-    {
-      "kind": "addition",
-      "subject": "ar",
-      "rationale": "Latviešu valodai vajag prievārdu 'ar', ebreju תלחמו to nesatur."
-    }
-  ],
-  "translation": "Un Aramas ķēniņš bija pavēlējis ⟨את⟩ saviem ratiņu pavēlniekiem — trīsdesmit diviem — sacīdams: Necīnieties ne ar mazo ⟨un⟩ ⟨את⟩ lielo, bet vienīgi ar Jisraēla ķēniņu vien.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "c7671b92e68bbba243a1370755a392553601eecda7eb01de80a553f0549086ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/29-32.1792521065195.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Aramas ķēniņš pavēlēja ⟨את⟩ saviem ratiņu pavēlniekiem, kas bija pie viņa — trīsdesmit divi, un sacīja: Necīnieties ne ar mazu, ne ar lielu, bet tikai ar Jisraēla ķēniņu vienu pašu.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "Un ķēniņš"
+      "gloss": "Un ... ķēniņš"
     },
     {
       "surface": "ארם",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ratiņu pavēlniekiem"
+      "marks": "saviem ratiņu pavēlniekiem"
     },
     {
       "surface": "שרי",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurus"
+      "gloss": "kas"
     },
     {
       "surface": "לו",
-      "gloss": "viņam"
+      "gloss": "pie viņa"
     },
     {
       "surface": "שלשים",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sacīdams"
+      "gloss": "un sacīja"
     },
     {
       "surface": "לא",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תלחמו",
@@ -83,20 +62,21 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ar"
+      "gloss": "⟨את⟩",
+      "marks": "mazu"
     },
     {
       "surface": "קטן",
-      "gloss": "mazo"
+      "gloss": "mazu"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lielo"
+      "gloss": "un ⟨את⟩",
+      "marks": "lielu"
     },
     {
       "surface": "גדול",
-      "gloss": "lielo"
+      "gloss": "lielu"
     },
     {
       "surface": "כי",
@@ -104,7 +84,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "vienīgi"
+      "gloss": "tikai"
     },
     {
       "surface": "את",
@@ -124,6 +104,6 @@
       "gloss": "vienu pašu"
     }
   ],
-  "timestamp": "2026-10-20T18:31:05.196906996Z",
+  "timestamp": "2026-10-20T22:32:48.968565306Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "ebreju apgalvojuma konstrukcija 'bet tikai' — latviski saplūst vienā 'bet'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ועיניך שים עליו",
-      "rationale": "'liec savas acis uz viņu' — pieskati, uzraugi; saglabāts burtiski."
-    },
-    {
-      "kind": "you",
-      "subject": "Nevuzaradanam",
-      "rationale": "ķēniņa pavēle tiešā runā adresēta galvenajam bendem par Jeremiju."
-    }
-  ],
-  "translation": "Paņem viņu, un savas acis liec uz viņu, un nedari viņam neko ļaunu, bet kā viņš tev sacīs, tā dari ar viņu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "083197b59cda21939c3dbd1a8e28f21bda154a274e4b5450599dfaec92a646dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/39\/9-12.1792524206290.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Paņem viņu un liec savas acis uz viņu, un nedari viņam nekā ļauna, bet kā viņš runās ar tevi, tā dari ar viņu.",
   "tokens": [
     {
       "surface": "קחנו",
-      "gloss": "Paņem viņu"
+      "gloss": "paņem viņu"
     },
     {
       "surface": "ועיניך",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "תעש",
-      "gloss": ""
+      "gloss": "nedari"
     },
     {
       "surface": "לו",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "neko"
+      "gloss": "nekā"
     },
     {
       "surface": "רע",
-      "gloss": "ļaunu"
+      "gloss": "ļauna"
     },
     {
       "surface": "כי",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨tikai⟩"
     },
     {
       "surface": "כאשר",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "viņš sacīs"
+      "gloss": "viņš runās"
     },
     {
       "surface": "אליך",
-      "gloss": "tev"
+      "gloss": "ar tevi"
     },
     {
       "surface": "כן",
@@ -102,6 +76,6 @@
       "gloss": "ar viņu"
     }
   ],
-  "timestamp": "2026-10-20T19:23:26.292081297Z",
+  "timestamp": "2026-10-20T22:50:18.087992873Z",
   "model": "glm-5.3"
 }

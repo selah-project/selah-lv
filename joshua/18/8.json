@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Ejiet un apstaigājiet",
-      "rationale": "Jehošuas pavēle vīriem — imperatīvu aicinājums."
-    },
-    {
-      "kind": "substitution",
-      "subject": "izmetīšu",
-      "rationale": "שלך burtiski 'izsviedīšu' — lozes akmens tiek sviests."
-    }
-  ],
-  "translation": "Un vīri cēlās un aizgāja; un Jehošua pavēlēja tiem, kas gāja aprakstīt ⟨את⟩ zemi, sacīdams: Ejiet un apstaigājiet zemi, un aprakstīt ⟨את⟩ to, un atgriezieties pie manis, un šeit es izmetīšu jums lozi Jahves priekšā Šilo.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ceeb10fb4939a390aa614310b3b655bfca931bcbfad8ed3b1dee96c3f3a1a4b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/18\/5-8.1792517925804.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tie vīri cēlās un gāja; un Jehošua pavēlēja ⟨את⟩ gājējiem aprakstīt ⟨את⟩ zemi, sacīdams: Ejiet un staigājiet apkārt pa zemi, un aprakstiet ⟨את⟩ to, un atgriezieties pie manis; un šeit es sviedīšu jums laimi Jahves priekšā Šilo.",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "vīri"
+      "gloss": "tie vīri"
     },
     {
       "surface": "וילכו",
-      "gloss": "aizgāja"
+      "gloss": "un gāja"
     },
     {
       "surface": "ויצו",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiem, kas gāja"
+      "marks": "gājējiem"
     },
     {
       "surface": "ההלכים",
-      "gloss": "kas gāja"
+      "gloss": "gājējiem"
     },
     {
       "surface": "לכתב",
@@ -80,24 +59,24 @@
     },
     {
       "surface": "והתהלכו",
-      "gloss": "apstaigājiet"
+      "gloss": "staigājiet apkārt"
     },
     {
       "surface": "בארץ",
-      "gloss": "zemi"
+      "gloss": "pa zemi"
     },
     {
       "surface": "וכתבו",
-      "gloss": "aprakstīt"
+      "gloss": "un aprakstiet"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "to (zemi)"
+      "gloss": "to ⟨את⟩",
+      "marks": "zemi (aprakstāmo)"
     },
     {
       "surface": "ושובו",
-      "gloss": "atgriezieties"
+      "gloss": "un atgriezieties"
     },
     {
       "surface": "אלי",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "אשליך",
-      "gloss": "izmetīšu"
+      "gloss": "es sviedīšu"
     },
     {
       "surface": "לכם",
@@ -117,7 +96,7 @@
     },
     {
       "surface": "גורל",
-      "gloss": "lozi"
+      "gloss": "laimi"
     },
     {
       "surface": "לפני",
@@ -132,6 +111,6 @@
       "gloss": "Šilo"
     }
   ],
-  "timestamp": "2026-10-20T17:38:45.805895378Z",
+  "timestamp": "2026-10-20T22:52:57.090274169Z",
   "model": "glm-5.3"
 }

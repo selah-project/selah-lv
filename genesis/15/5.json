@@ -5,42 +5,11 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨lūdzams⟩",
-      "rationale": "partikula נא pie pavēles — pieklājības mīkstinājums bez tīra atbilst"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ספר\/לספר",
-      "rationale": "saknes atkārtojums: 'saskaiti... saskaitīt' — paronomāzija saglabāta"
-    },
-    {
-      "kind": "invitation",
-      "subject": "הבט נא",
-      "rationale": "pavēle ar lūguma pieskaņu: skatīties un skaitīt"
-    },
-    {
-      "kind": "measurement",
-      "subject": "zvaigžņu skaitīšana",
-      "rationale": "skaitīšanas darbība kā solījuma mērs"
-    }
-  ],
-  "translation": "Un viņš viņu izveda ārā un sacīja: Lūko ⟨lūdzams⟩ uz debesīm un saskaiti zvaigznes — vai tu vari tās saskaitīt? Un viņš sacīja ⟨viņam⟩: Tā būs tavs sēklas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/15\/5-8.1792511684589.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un ⟨את⟩ viņu viņš izveda ārā, un sacīja: Paskaties tagad uz debessī un saskaiti zvaigznes — ja tu vari tās saskaitīt ⟨את⟩. Un viņš tam sacīja: Tāda būs tava sēkla.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "izveda"
+      "gloss": "un izveda"
     },
     {
       "surface": "אתו",
@@ -57,15 +26,15 @@
     },
     {
       "surface": "הבט",
-      "gloss": "lūko"
+      "gloss": "paskaties"
     },
     {
       "surface": "נא",
-      "gloss": "⟨lūdzams⟩"
+      "gloss": "tagad"
     },
     {
       "surface": "השמימה",
-      "gloss": "uz debesīm"
+      "gloss": "uz debessī"
     },
     {
       "surface": "וספר",
@@ -77,7 +46,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "vai"
+      "gloss": "ja"
     },
     {
       "surface": "תוכל",
@@ -90,7 +59,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "zvaigznes"
+      "marks": "tās (zvaigznes)"
     },
     {
       "surface": "ויאמר",
@@ -98,11 +67,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "viņam"
+      "gloss": "tam"
     },
     {
       "surface": "כה",
-      "gloss": "tā"
+      "gloss": "tāda"
     },
     {
       "surface": "יהיה",
@@ -110,9 +79,9 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "tavs sēklas"
+      "gloss": "tava sēkla"
     }
   ],
-  "timestamp": "2026-10-20T15:54:44.589724175Z",
+  "timestamp": "2026-10-20T22:45:37.943867203Z",
   "model": "glm-5.3"
 }

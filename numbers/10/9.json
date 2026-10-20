@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הרעתם",
-      "rationale": "Burtiski 'sadragāsiet ausis' — spalgi pūst trauksmi; latviski ņemts 'pūtīsit trauksmi'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הצר הצרר",
-      "rationale": "Saknes atkārtojums: šaurs\/apspiež — 'apspiedēju, kas apspiež', saglabāts latviski."
-    }
-  ],
-  "translation": "Un, kad jūs iesiet karā savā zemē pret apspiedēju, kas jūs apspiež, tad pūtīsit trauksmi ar taures, un jūs tiksiet pieminēti Jahves, jūsu Elohim, priekšā, un jūs tiksiet izglābti no saviem ienaidniekiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "9152fec1d34acf5463d5e34546881be49ed75b311e9cd7ba45889f20dbfabae1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/10\/9-12.1792515616972.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, ja jūs iesiet karā savā zemē pret ienaidnieku, kas apspiež ⟨את⟩ jūs, tad pūtīsiet trauksmi ar taurēm, un jūs tiksiet atcerēti Jahves, jūsu Elohim, priekšā, un jūs tiksiet izglābti no saviem ienaidniekiem.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Un, kad"
+      "gloss": "Un, ja"
     },
     {
       "surface": "תבאו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הצר",
-      "gloss": "apspiedēju"
+      "gloss": "ienaidnieku"
     },
     {
       "surface": "הצרר",
@@ -58,20 +37,20 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūs",
-      "marks": "jūs (tiešais objekts)"
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
     },
     {
       "surface": "והרעתם",
-      "gloss": "tad pūtīsit trauksmi"
+      "gloss": "pūtīsiet trauksmi"
     },
     {
       "surface": "בחצצרות",
-      "gloss": "ar taures"
+      "gloss": "ar taurēm"
     },
     {
       "surface": "ונזכרתם",
-      "gloss": "un jūs tiksiet pieminēti"
+      "gloss": "un jūs tiksiet atcerēti"
     },
     {
       "surface": "לפני",
@@ -94,6 +73,6 @@
       "gloss": "no saviem ienaidniekiem"
     }
   ],
-  "timestamp": "2026-10-20T17:00:16.973284412Z",
+  "timestamp": "2026-10-20T22:57:10.631614768Z",
   "model": "glm-5.3"
 }

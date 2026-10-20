@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סרחת שפלת קומה",
-      "rationale": "'izpletušos, zemu ar augumu' — spriedze starp izplešanos un zemo augumu; daži lasa 'zema auguma, bet izpletusies'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "פארות",
-      "rationale": "burtiski 'greznumi' — lapotne kā rotājums; latviski 'zari ar lapotni'."
-    }
-  ],
-  "translation": "Un tā sadīga un kļuva par izpletušos vīnogulāju, zemu ar augumu, lai tā zari grieztos pret to un tās saknes zem tā ⟨būtu⟩; un tā kļuva par vīnogulāju un darināja zarus un laidā zarus ar lapotni.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "6f1b8712f0957807e81fb0f9039ff14c96fb850605e743c4f37eebc1fa1f0841",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/17\/5-8.1792525027748.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tā dzina dzinumus un kļuva par plaši izpletušos vīna ķērkslu, zema auguma, kura zari liecās tam pretī, un tā saknes atradās zem tā; un tā kļuva par vīna ķērkšļu un darināja zarus un laidja lauru zarus.",
   "tokens": [
     {
       "surface": "ויצמח",
-      "gloss": "Un tā sadīga"
+      "gloss": "un tā dzina dzinumus"
     },
     {
       "surface": "ויהי",
@@ -38,34 +17,34 @@
     },
     {
       "surface": "לגפן",
-      "gloss": "par vīnogulāju"
+      "gloss": "par vīna ķērkšli"
     },
     {
       "surface": "סרחת",
-      "gloss": "izpletušos"
+      "gloss": "plaši izpletušos"
     },
     {
       "surface": "שפלת",
-      "gloss": "zemu"
+      "gloss": "zema"
     },
     {
       "surface": "קומה",
-      "gloss": "ar augumu"
+      "gloss": "auguma"
     },
     {
       "surface": "לפנות",
-      "gloss": "lai grieztos"
+      "gloss": "lai liecas"
     },
     {
       "surface": "דליותיו",
-      "gloss": "tā zari"
+      "gloss": "tās zari"
     },
     {
       "surface": "אליו",
-      "gloss": "pret to"
+      "gloss": "tam pretī"
     },
     {
-      "surface": "וsharashav",
+      "surface": "ושרשיו",
       "gloss": "un tās saknes"
     },
     {
@@ -74,7 +53,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "⟨būtu⟩"
+      "gloss": "atradās"
     },
     {
       "surface": "ותהי",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "לגפן",
-      "gloss": "par vīnogulāju"
+      "gloss": "par vīna ķērkšļu"
     },
     {
       "surface": "ותעש",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "ותשלח",
-      "gloss": "un laidā"
+      "gloss": "un laidja"
     },
     {
       "surface": "פארות",
-      "gloss": "zarus ar lapotni"
+      "gloss": "lauru zarus"
     }
   ],
-  "timestamp": "2026-10-20T19:37:07.749114589Z",
+  "timestamp": "2026-10-20T22:43:50.673575493Z",
   "model": "glm-5.3"
 }

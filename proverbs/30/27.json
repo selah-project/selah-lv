@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "lv",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "rindās",
-      "rationale": "חצץ burtiski 'sadalīt pulkos'; YLT lasa 'katrs sauc' — vairums tulko 'kopā\/rotās'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "rindās",
-      "rationale": "חצץ nozīmē sadalīt\/grupēt — attēlo siseņu organizēto virzību"
-    }
-  ],
-  "translation": "Siseņiem ķēniņa nav, tomēr tie iziet visi kopā rindās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/25-28.1792528903820.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ķēniņa siseņiem nav, un tās iziet visas sadalītas vienībās;",
   "tokens": [
     {
       "surface": "מלך",
-      "gloss": "ķēniņš"
+      "gloss": "ķēniņa"
     },
     {
       "surface": "אין",
@@ -42,17 +21,17 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "iziet"
+      "gloss": "un iziet"
     },
     {
       "surface": "חצץ",
-      "gloss": "rindās"
+      "gloss": "sadalītas vienībās"
     },
     {
-      "surface": "_kolu",
-      "gloss": "visi"
+      "surface": "כלו",
+      "gloss": "visas"
     }
   ],
-  "timestamp": "2026-10-20T20:41:43.821749550Z",
+  "timestamp": "2026-10-20T22:59:16.621252813Z",
   "model": "glm-5.3"
 }

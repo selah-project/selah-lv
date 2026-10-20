@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "vienpadsmit pilsētas",
-      "rationale": "Skaitļu uzskaitījums — skaitlis sakrīt ar ebreju tekstu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חצריהן → sādžas",
-      "rationale": "חצר burtiski ir 'pagalms, nožogots laukums'; šeit apdzīvotas vietas ar mazāk nozīmes nekā pilsēta"
-    }
-  ],
-  "translation": "un Gošena, un Holona, un Giloa — vienpadsmit pilsētas ar savām sādžām",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8ca6677235ec5a20a2ca1b7f4f1115662d8d2a276255421b4b6607afafca821a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/15\/49-52.1792517890300.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "un Gošenu, un Holonu, un Gilohu — vienpadsmit pilsētas ar ⟨to⟩ sētiem un ciemiem.",
   "tokens": [
     {
       "surface": "וגשן",
-      "gloss": "un Gošena"
+      "gloss": "un Gošenu"
     },
     {
       "surface": "וחלן",
-      "gloss": "un Holona"
+      "gloss": "un Holonu"
     },
     {
       "surface": "וגלה",
-      "gloss": "un Giloa"
+      "gloss": "un Gilohu"
     },
     {
       "surface": "ערים",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "vienpadsmit"
+      "gloss": "vienpadsmit ⟨ar⟩"
     },
     {
       "surface": "עשרה",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "וחצריהן",
-      "gloss": "un ar savām sādžām"
+      "gloss": "un to sēti un ciemi"
     }
   ],
-  "timestamp": "2026-10-20T17:38:10.300781504Z",
+  "timestamp": "2026-10-20T22:52:29.078250686Z",
   "model": "glm-5.3"
 }

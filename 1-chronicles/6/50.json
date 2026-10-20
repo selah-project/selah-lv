@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņi",
-      "rationale": "Ivritā darbības vārda subjekts izteikts locījumā, latviešu valodai vajadzīgs vietniekvārds"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ciltstēvera",
-      "rationale": "מטה burtiski 'zars, nūja' — ciltstēvera kā tēls zaram"
-    }
-  ],
-  "translation": "Un ar izlozi viņi deva no Jehudas dēlu ciltstēveras, no Šimona dēlu ciltstēveras un no Benjamina dēlu ciltstēveras ⟨את⟩ šīs pilsētas, kuras viņi nosauca vārdos.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/49-52.1792531248368.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi meta lozi no Jehudas dēlu ciltss, no Šimona dēlu ciltss un no Binjamina dēlu ciltss ⟨את⟩ šīs pilsētas, kuras viņi nosauca vārdos ⟨את⟩ tās.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "viņi deva"
+      "gloss": "Un viņi meta"
     },
     {
       "surface": "בגורל",
-      "gloss": "ar izlozi"
+      "gloss": "lozi"
     },
     {
       "surface": "ממטה",
-      "gloss": "no ciltstēveras"
+      "gloss": "no ciltss"
     },
     {
       "surface": "בני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "un no ciltstēveras"
+      "gloss": "un no ciltss"
     },
     {
       "surface": "בני",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "un no ciltstēveras"
+      "gloss": "un no ciltss"
     },
     {
       "surface": "בני",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjamina"
+      "gloss": "Binjamina"
     },
     {
       "surface": "את",
@@ -95,14 +74,14 @@
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨את⟩ tās",
-      "marks": "vārdos"
+      "gloss": "⟨את⟩",
+      "marks": "vārdos tās"
     },
     {
       "surface": "בשמות",
       "gloss": "vārdos"
     }
   ],
-  "timestamp": "2026-10-20T21:20:48.369214359Z",
+  "timestamp": "2026-10-20T22:32:08.950668738Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bija",
-      "rationale": "Ebreju tekstā nav darbības vārda 'bija'; latviešu valodai vajag saikli."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "bored-rek",
-      "rationale": "'Bedre bija tukša — tajā nebija ūdens' — divkāršs apgalvojums, ebreju stila uzkrāšana (negācija pēc negācijas)."
-    }
-  ],
-  "translation": "Un viņi ņēma ⟨את⟩ viņu un iemeta ⟨את⟩ viņu bedrē; un bedre ⟨bija⟩ tukša, tajā ⟨ nebija⟩ ūdens.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/37\/21-24.1792512370626.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņi paņēma viņu un iemeta ⟨את⟩ viņu bedrē; un bedre bija tukša — ⟨neviena⟩ ūdens tajā ⟨nav⟩.",
   "tokens": [
     {
       "surface": "ויקחהו",
-      "gloss": "Un viņi ņēma ⟨את⟩ viņu"
+      "gloss": "viņi paņēma viņu"
     },
     {
       "surface": "וישלכו",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "⟨bija⟩ tukša"
+      "gloss": "tukša"
     },
     {
       "surface": "אין",
@@ -66,6 +45,6 @@
       "gloss": "ūdens"
     }
   ],
-  "timestamp": "2026-10-20T16:06:10.627737367Z",
+  "timestamp": "2026-10-20T22:46:31.813697915Z",
   "model": "glm-5.3"
 }

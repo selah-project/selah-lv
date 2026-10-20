@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "trīsdesmit tūkstoš izvēlēto",
-      "rationale": "Jehošua vēršas tieši pie izvēlētajiem vīriem ar pavēlēm."
-    },
-    {
-      "kind": "secret",
-      "subject": "slēpnis aiz pilsētas",
-      "rationale": "Pavēle tur slēpni slepenībā — uzbrukuma plāns naktī."
-    }
-  ],
-  "translation": "Un viņš tiem pavēlēja, sacīdams: Redzet, jūs esat slēpņa ļaudis pilsētai, aiz pilsētas; neattālinieties no pilsētas par daudz, un visi jūs būsit gatavi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/8\/1-4.1792517724919.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš tiem pavēlēja, sacīdams: Raugiet, jūs esat slēpju uzbrukumā pret pilsētu, no aizmugures pilsētai; netāliniet ⟨sevis⟩ no pilsētas ļoti, un jūs visi būsit gatavi.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Un pavēlēja"
+      "gloss": "Un viņš pavēlēja"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "viņiem"
+      "marks": "viņiem (tos)"
     },
     {
       "surface": "לאמר",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "Redzet"
+      "gloss": "Raugiet"
     },
     {
       "surface": "אתם",
@@ -51,19 +30,19 @@
     },
     {
       "surface": "ארבים",
-      "gloss": "esat slēpņa ļaudis"
+      "gloss": "esat slēpju uzbrukumā"
     },
     {
       "surface": "לעיר",
-      "gloss": "pilsētai"
+      "gloss": "pret pilsētu"
     },
     {
       "surface": "מאחרי",
-      "gloss": "aiz"
+      "gloss": "no aizmugures"
     },
     {
       "surface": "העיר",
-      "gloss": "pilsētas"
+      "gloss": "pilsētai"
     },
     {
       "surface": "אל",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "תרחיקו",
-      "gloss": "attālinieties"
+      "gloss": "netāliniet"
     },
     {
       "surface": "מן",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "par daudz"
+      "gloss": "ļoti"
     },
     {
       "surface": "והייתם",
@@ -98,6 +77,6 @@
       "gloss": "gatavi"
     }
   ],
-  "timestamp": "2026-10-20T17:35:24.921262709Z",
+  "timestamp": "2026-10-20T22:53:25.628730942Z",
   "model": "glm-5.3"
 }

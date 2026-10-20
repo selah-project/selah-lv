@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā nav saikles 'kura dēls ⟨ir⟩ šis jauneklis' un 'dzīva ⟨ir⟩ tava nefesa'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי נפשך ... אם",
-      "rationale": "Pakāpināts apzvērests: 'tik dzīva kā tava nefesa, ķēniņ, ja es to zinu' — 'ja' šeit nozīmē 'citādi nekā'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nefesa",
-      "rationale": "נפש ir elpa\/dzīvības spēks, nevis 'dvēsele' kā atsevišķa būtība."
-    }
-  ],
-  "translation": "Un kad Sauls ieraudzīja ⟨את⟩ Davidu izejam pretī filistietim, viņš sacīja Avneram, karaspēka virsniekam: Avner, kura dēls ⟨ir⟩ šis jauneklis, Avner? Un Avners sacīja: Tik tiešām dzīva ⟨ir⟩ tava nefesa, ķēniņ, ja es to zinu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/17\/53-56.1792519198909.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un kad Šaūls ieraudzīja ⟨את⟩ Davidu izejam pret filistieti, viņš sacīja Avnēram, karaspēka pavēlniekam: Avnēr, kura dēls ir šis jauneklis? Un Avnērs sacīja: Kā dzīva ir tava dvēsele, ķēniņ, ⟨es⟩ nezinu.",
   "tokens": [
     {
       "surface": "וכראות",
-      "gloss": "Un kad ieraudzīja"
+      "gloss": "un kad…ieraudzīja"
     },
     {
       "surface": "שאול",
-      "gloss": "Sauls"
+      "gloss": "Šaūls"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "pretī"
+      "gloss": "pret"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "filistietim"
+      "gloss": "filistieti"
     },
     {
       "surface": "אמר",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "uz"
     },
     {
       "surface": "אבנר",
-      "gloss": "Avneram"
+      "gloss": "Avnēru"
     },
     {
       "surface": "שר",
-      "gloss": "virsniekam"
+      "gloss": "pavēlnieks"
     },
     {
       "surface": "הצבא",
@@ -100,23 +74,23 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Avner"
+      "gloss": "Avnēr"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Un sacīja"
+      "gloss": "un sacīja"
     },
     {
       "surface": "אבנר",
-      "gloss": "Avners"
+      "gloss": "Avnērs"
     },
     {
       "surface": "חי",
-      "gloss": "dzīva"
+      "gloss": "kā dzīva"
     },
     {
       "surface": "נפשך",
-      "gloss": "tava nefesa"
+      "gloss": "tava dvēsele"
     },
     {
       "surface": "המלך",
@@ -124,13 +98,13 @@
     },
     {
       "surface": "אם",
-      "gloss": "ja"
+      "gloss": "⟨es⟩ nezinu"
     },
     {
       "surface": "ידעתי",
-      "gloss": "es to zinu"
+      "gloss": "nezinu"
     }
   ],
-  "timestamp": "2026-10-20T17:59:58.910146627Z",
+  "timestamp": "2026-10-20T22:34:10.198482398Z",
   "model": "glm-5.3"
 }

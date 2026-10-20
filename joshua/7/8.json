@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הפך ערף",
-      "rationale": "Burtiski 'apgrieza pakausi' — ebreju idioms bēgšanai; latviski 'pagrieza pakausi' saglabā tēlu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לפני",
-      "rationale": "'Priekšā' ebreju locījumā 'no priekšas' — 'bēgt ienaidnieku priekšā' nozīmē 'bēgt no ienaidniekiem'."
-    },
-    {
-      "kind": "you",
-      "subject": "Jēšua lūgšana",
-      "rationale": "Tieša vēršanās pie Adonai Jahves."
-    }
-  ],
-  "translation": "Ak, Adonai! Ko lai es saku, pēc tam, kad Jisraēls ir pagriezis pakausi saviem ienaidniekiem?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/7\/5-8.1792517709035.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ah, Adonai, ko lai es saku, pēc tam, kad Jisraēls ir pagriezis muguru ⟨saviem⟩ ienaidniekiem?",
   "tokens": [
     {
       "surface": "בי",
-      "gloss": "Ak"
+      "gloss": "Ah"
     },
     {
       "surface": "אדני",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "Ko"
+      "gloss": "ko"
     },
     {
       "surface": "אמר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "הפך",
@@ -67,17 +41,17 @@
     },
     {
       "surface": "ערף",
-      "gloss": "pakausi"
+      "gloss": "muguru (pakausi)"
     },
     {
       "surface": "לפני",
-      "gloss": "priekšā"
+      "gloss": "pret"
     },
     {
       "surface": "איביו",
       "gloss": "saviem ienaidniekiem"
     }
   ],
-  "timestamp": "2026-10-20T17:35:09.037284670Z",
+  "timestamp": "2026-10-20T22:53:13.379243807Z",
   "model": "glm-5.3"
 }

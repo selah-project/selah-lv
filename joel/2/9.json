@@ -5,28 +5,7 @@
   "book": "joel",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "joņo",
-      "rationale": "šקק nozīmē 'joņot kā plēsīgs zvērs; doties alkatīgi' — 'skraidīt šurp turp' (KJV) zaudē plēsīgo skanējumu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "zeme\/nakts tēls",
-      "rationale": "sirdsķermeni veido sīpoli un zagli — tas atgriedina Dienas tēmu (Joel 1:5)."
-    }
-  ],
-  "translation": "Pa pilsētu tie joņo, pa mūri tie skrien, mājās tie uzkāpj, caur logiem tie ienāk kā zaglis.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "4b31da81230a2e48d6dee1a1f3072a3ece68dd421d725b525354f26c6cf45fdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/2\/9-10.1792532777445.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pa pilsētu tie skrien kā zvēri, pa mūri tie skriež, kāpj⟨augšā⟩ namos, caur logiem tie nāk ⟨iekšā⟩ kā zaglis.",
   "tokens": [
     {
       "surface": "בעיר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ישקו",
-      "gloss": "tie joņo"
+      "gloss": "tie skrien kā zvēri"
     },
     {
       "surface": "בחומה",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "ירצון",
-      "gloss": "tie skrien"
+      "gloss": "tie skriež"
     },
     {
       "surface": "בבתים",
-      "gloss": "mājās"
+      "gloss": "namos"
     },
     {
       "surface": "יעלו",
-      "gloss": "tie uzkāpj"
+      "gloss": "kāpj⟨augšā⟩"
     },
     {
       "surface": "בעד",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "tie ienāk"
+      "gloss": "tie nāk ⟨iekšā⟩"
     },
     {
-      "surface": "кגנב",
+      "surface": "כגנב",
       "gloss": "kā zaglis"
     }
   ],
-  "timestamp": "2026-10-20T21:46:17.446305584Z",
+  "timestamp": "2026-10-20T22:52:12.504054442Z",
   "model": "glm-5.3"
 }

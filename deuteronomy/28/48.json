@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עבדת",
-      "rationale": "V 47 'nestāvēji kalpošanā' pret v 48 'kalposi ienaidniekiem' — tas pats darbības vārds, apgriezta attieksme"
-    }
-  ],
-  "translation": "un tu kalposi saviem ienaidniekiem, ko Jahve sūtīs pret tevi, badā, slāpēs, kailumā un visā trūkumā; un Viņš uzliks dzelzs jūgu uz tavu kaklu, līdz Viņš tevi ⟨את⟩ iznīcinās.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/45-48.1792517292401.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu kalposi saviem ienaidniekiem, kurus Jahve sūtīs pret tevi badā, slāpēs, kailumā un visa trūkumā; un viņš uzliks dzelzs jūgu uz tavas pakauša, līdz viņš tevi iznīcinās ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועבדת",
-      "gloss": "un tu kalposi"
+      "gloss": "Un tu kalposi"
     },
     {
       "surface": "את",
@@ -38,11 +22,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kurus"
     },
     {
       "surface": "ישלחנו",
-      "gloss": "Viņš sūtīs"
+      "gloss": "viņš sūtīs"
     },
     {
       "surface": "יהוה",
@@ -70,11 +54,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "visa"
+      "gloss": "visu"
     },
     {
       "surface": "ונתן",
-      "gloss": "un Viņš uzliks"
+      "gloss": "un viņš uzliks"
     },
     {
       "surface": "על",
@@ -90,7 +74,7 @@
     },
     {
       "surface": "צוארך",
-      "gloss": "tavu kaklu"
+      "gloss": "tavas pakauša"
     },
     {
       "surface": "עד",
@@ -98,13 +82,14 @@
     },
     {
       "surface": "השמידו",
-      "gloss": "Viņš iznīcinās"
+      "gloss": "viņš iznīcinās"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tevi"
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
     }
   ],
-  "timestamp": "2026-10-20T17:28:12.405326027Z",
+  "timestamp": "2026-10-20T22:40:18.764349855Z",
   "model": "glm-5.3"
 }

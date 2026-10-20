@@ -5,44 +5,28 @@
   "book": "genesis",
   "lang": "lv",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņš",
-      "rationale": "Ebreju tekstā darītājs (Jehuda) netiek minēts — latviešu valodai vajadzīgs subjects."
-    }
-  ],
-  "translation": "Un viņa ieņēma un dzemdēja ⟨את⟩ dēlu, un viņš nosauca ⟨את⟩ viņa vārdu Ērs.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/38\/1-4.1792512384627.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņa ieņēma un dzemdēja dēlu, un viņš nosauca ⟨את⟩ viņa vārdu Ērs.",
   "tokens": [
     {
+      "surface": "ותהר",
+      "gloss": "ieņēma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
       "surface": "ויקרא",
-      "gloss": "un viņš nosauca"
+      "gloss": "nosauca"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "viņa vārdu"
-    },
-    {
-      "surface": "ותהר",
-      "gloss": "Un viņa ieņēma"
-    },
-    {
-      "surface": "ותלד",
-      "gloss": "un dzemdēja"
-    },
-    {
-      "surface": "בן",
-      "gloss": "⟨את⟩ dēlu"
     },
     {
       "surface": "שמו",
@@ -53,6 +37,6 @@
       "gloss": "Ērs"
     }
   ],
-  "timestamp": "2026-10-20T16:06:24.628115136Z",
+  "timestamp": "2026-10-20T22:46:19.743311400Z",
   "model": "glm-5.3"
 }

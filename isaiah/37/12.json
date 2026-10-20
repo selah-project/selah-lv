@@ -5,42 +5,16 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dievi",
-      "rationale": "אלהי הגוים — svešo tautu dievi; saskaņā ar noteikumiem šeit 'dievi' ar mazo burtu, nevis Elohim."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ir⟩",
-      "rationale": "Ebreju teikums 'kas Telasarā' iztiek bez darbības vārda; latviešu valodai vajag ⟨ir⟩."
-    },
-    {
-      "kind": "measurement",
-      "subject": "vietu uzskaitījums",
-      "rationale": "Četru iznīcināto vietu katalogs: Gozana, Harana, Recēfa, Edenas dēli Telasarā."
-    }
-  ],
-  "translation": "Vai tautu dievi izglāba tos, ko mani tēvi iznīcināja — ⟨את⟩ Gozanu un ⟨את⟩ Haranu, un Recēfu, un Edenas dēlus, kas ⟨ir⟩ Telasarā?",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/37\/9-12.1792522534653.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vai tautu dievi izglāba ⟨את⟩ viņus — tos, kurus manus tēvi iznīcināja: ⟨את⟩ Gozanu un ⟨את⟩ Haranu, un Recefu, un Ēdenas dēlus, kas ⟨ir⟩ Telasarā?",
   "tokens": [
     {
       "surface": "ההצילו",
-      "gloss": "Vai izglāba"
+      "gloss": "vai izglāba"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "tos"
+      "gloss": "⟨את⟩ viņus",
+      "marks": "tautu dievi"
     },
     {
       "surface": "אלהי",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kurus"
     },
     {
       "surface": "השחיתו",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "mani tēvi"
+      "gloss": "manus tēvi"
     },
     {
       "surface": "את",
@@ -82,7 +56,7 @@
     },
     {
       "surface": "ורצף",
-      "gloss": "un Recēfu"
+      "gloss": "un Recefu"
     },
     {
       "surface": "ובני",
@@ -90,7 +64,7 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Edenas"
+      "gloss": "Ēdenas"
     },
     {
       "surface": "אשר",
@@ -101,6 +75,6 @@
       "gloss": "Telasarā"
     }
   ],
-  "timestamp": "2026-10-20T18:55:34.654671711Z",
+  "timestamp": "2026-10-20T22:47:58.702130817Z",
   "model": "glm-5.3"
 }

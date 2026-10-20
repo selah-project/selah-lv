@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לְבַקֵּר",
-      "rationale": "B. baqar: 'izmeklēt\/pārbaudīt (dievbijīgi)' pret 'no rīta' — attiecina uz seno varā altāri zīlēšanai; 'no rīta' ir otrs lasījums."
-    },
-    {
-      "kind": "you",
-      "subject": "priesterim Ūrijām",
-      "rationale": "Ahas tieši pavēl priesterim — imperatīvi הקטר un תזרק."
-    },
-    {
-      "kind": "substitution",
-      "subject": "šļākc",
-      "rationale": "תִּזְרֹק burtiski 'izšļākc\/izkaisi' — asins apšļākāšana."
-    }
-  ],
-  "translation": "Un ķēniņš Ahas pavēlēja tam, priesterim Ūrijām, sacīdams: Uz lielo altāri izkūpini ⟨את⟩ rīta dedzināmo upuri un ⟨את⟩ vakara minhu, un ⟨את⟩ ķēniņa dedzināmo upuri, un ⟨את⟩ viņa minhu, un ⟨את⟩ visa zemes ļaužu dedzināmo upuri, un viņu minhu, un viņu libācijas; un visu dedzināmā upura asinis un visu kaušanas upura asinis uz to šļākc! Un vara altāris lai man ir izmeklēšanai.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/16\/13-16.1792521550718.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un pavēlēja viņam ķēniņš Ahazs ⟨את⟩ Urjaham, priesterim, sacīdams: uz ⟨את⟩ lielā altāra sadedzini ⟨את⟩ rīta dedzināmo upuri un ⟨את⟩ vakara minhu, un ⟨את⟩ ķēniņa dedzināmo upuri un ⟨את⟩ viņa minhu, un ⟨את⟩ dedzināmo upuri visa zemes ļaužu, viņu minhu un viņu lējuma upurus; un visu dedzināmā upura asinis un visu kaušanas upura asinis uz tā izslacini; un vara altārs būs man labad — laba to pārbaudīt.",
   "tokens": [
     {
       "surface": "ויצוהו",
-      "gloss": "pavēlēja tam"
+      "gloss": "un pavēlēja viņam"
     },
     {
       "surface": "המלך",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Ahas"
+      "gloss": "Ahazs"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "priesterim Ūrijām"
+      "marks": "Urjaham"
     },
     {
       "surface": "אוריה",
-      "gloss": "Ūrijām"
+      "gloss": "Urjaham"
     },
     {
       "surface": "הכהן",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altāri"
+      "gloss": "altāra"
     },
     {
       "surface": "הגדול",
-      "gloss": "lielo"
+      "gloss": "lielā"
     },
     {
       "surface": "הקטר",
-      "gloss": "izkūpini"
+      "gloss": "sadedzini"
     },
     {
       "surface": "את",
@@ -129,7 +103,7 @@
     {
       "surface": "ואת",
       "gloss": "un ⟨את⟩",
-      "marks": "visa ļaužu dedzināmo upuri"
+      "marks": "dedzināmo upuri visa zemes ļaužu"
     },
     {
       "surface": "עלת",
@@ -149,11 +123,11 @@
     },
     {
       "surface": "ומנחתם",
-      "gloss": "un viņu minhu"
+      "gloss": "viņu minhu"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "un viņu libācijas"
+      "gloss": "un viņu lējuma upurus"
     },
     {
       "surface": "וכל",
@@ -181,15 +155,15 @@
     },
     {
       "surface": "עליו",
-      "gloss": "uz to"
+      "gloss": "uz tā"
     },
     {
       "surface": "תזרק",
-      "gloss": "šļākc"
+      "gloss": "izslacini"
     },
     {
       "surface": "ומזבח",
-      "gloss": "Un vara altāris"
+      "gloss": "un vara altārs"
     },
     {
       "surface": "הנחשת",
@@ -197,17 +171,17 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "lauj ir"
+      "gloss": "būs"
     },
     {
       "surface": "לי",
-      "gloss": "man"
+      "gloss": "man labad"
     },
     {
       "surface": "לבקר",
-      "gloss": "izmeklēšanai"
+      "gloss": "laba to pārbaudīt"
     }
   ],
-  "timestamp": "2026-10-20T18:39:10.719491762Z",
+  "timestamp": "2026-10-20T22:36:49.904551358Z",
   "model": "glm-5.3"
 }

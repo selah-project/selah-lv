@@ -5,38 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "למ",
-      "rationale": "Prievārds sasaistīts ar בראשונה, atsevišķs tulkojums latviešu valodā nav iespējams."
-    },
-    {
-      "kind": "crux",
-      "subject": "פרץ",
-      "rationale": "'Izlauzās\/uzplīsa pret' (2. Mozus 34:2 Uzas gadījums): KJV 'made a breach upon us' pret lasījumu 'broke out against us'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tas⟩",
-      "rationale": "Latviešu teikumam vajadzīgs priekšmets; ebreju valodā tas trūkst."
-    },
-    {
-      "kind": "substitution",
-      "subject": "כמשפט",
-      "rationale": "משפט burtiski 'tiesa\/noteikta kārtība'; 'pēc tiesas' ar ⟨kārtības⟩ precizējumu."
-    }
-  ],
-  "translation": "Jo tāpēc, ka pirmajā reizē ⟨tas⟩ nebijāt jūs, Jahve, mūsu Elohim, izlauzās pret mums, jo mēs Viņu nemeklējām pēc tiesas ⟨kārtības⟩.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/15\/13-16.1792531410271.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo pirmajā reizē ⟨tas⟩ nebija jūs ⟨tā pārvadāt⟩ — Jahve, mūsu Elohim, izlauza pārtrūkumu pār ⟨את⟩ mums, jo mēs Viņu nemeklējām pēc tiesas.",
   "tokens": [
     {
       "surface": "כי",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nebija"
     },
     {
       "surface": "אתם",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "izlauzās"
+      "gloss": "izlauza pārtrūkumu"
     },
     {
       "surface": "יהוה",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "pret mums"
+      "gloss": "⟨את⟩ pār mums"
     },
     {
       "surface": "כי",
@@ -91,6 +60,6 @@
       "gloss": "pēc tiesas"
     }
   ],
-  "timestamp": "2026-10-20T21:23:30.271707292Z",
+  "timestamp": "2026-10-20T22:31:59.219591580Z",
   "model": "glm-5.3"
 }

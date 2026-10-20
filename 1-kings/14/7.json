@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "lv",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "firsteni",
-      "rationale": "נגיד burtiski 'priekšgalā stāvošais', pavēlnieks — nevis 'ķēniņš' (meleḥ)."
-    }
-  ],
-  "translation": "Ej, saki Jerobeāmam: Tā saka Jahve, Jisraēla Elohim: Tāpēc ka es tevi pacēlu no tautas vidus un iecēlu tevi par firsteni pār savu tautu, pār Jisraēlu,",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "a9f675a4df74d6852a5c69f02461ccc235ec46797f0394d24065f75a6c334a25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/5-8.1792520737418.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ej, saki Jerobēamam: Tā saka Jahve, Jisraēla Elohim: tāpēc, ka es tevi pacēlu no ⟨את⟩ tautas vidus un iecēlu tevi par valdnieku pār manu tautu Jisraēlu,",
   "tokens": [
     {
       "surface": "לכי",
-      "gloss": "Ej"
+      "gloss": "ej"
     },
     {
       "surface": "אמרי",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "לירבעם",
-      "gloss": "Jerobeāmam"
+      "gloss": "Jerobēamam"
     },
     {
       "surface": "כה",
-      "gloss": "Tā"
+      "gloss": "tā"
     },
     {
       "surface": "אמר",
@@ -57,11 +41,11 @@
     },
     {
       "surface": "יען",
-      "gloss": "Tāpēc ka"
+      "gloss": "tāpēc, ka"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "הרימתיך",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "no vidus"
+      "gloss": "no ⟨את⟩ … vidus"
     },
     {
       "surface": "העם",
@@ -77,11 +61,11 @@
     },
     {
       "surface": "ואתנך",
-      "gloss": "un iecēlu tevi"
+      "gloss": "un iecēlu tevi par"
     },
     {
       "surface": "נגיד",
-      "gloss": "par firsteni"
+      "gloss": "valdnieku"
     },
     {
       "surface": "על",
@@ -89,13 +73,13 @@
     },
     {
       "surface": "עמי",
-      "gloss": "savu tautu"
+      "gloss": "manu tautu"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraēlu"
     }
   ],
-  "timestamp": "2026-10-20T18:25:37.419959899Z",
+  "timestamp": "2026-10-20T22:32:37.016360474Z",
   "model": "glm-5.3"
 }

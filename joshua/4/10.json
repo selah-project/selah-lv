@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vārds",
-      "rationale": "הדבר ir 'lieta\/vārds'; latviski 'viss tika pabeigts' prasa abstraktu priekšmetu, nevis 'vārdu' vienu"
-    },
-    {
-      "kind": "addition",
-      "subject": "pret",
-      "rationale": "Latviešu valodai vajadzīgs prievārds 'pret' ebru virziena 'אל' vietā"
-    }
-  ],
-  "translation": "Un priesteri, arka nesēji, stāvēja Jordānas vidū, līdz tika pabeigts viss vārds, ko Jahve bija pavēlējis Jehošua runāt ⟨pret⟩ tautu, — pēc visa, ko Moše bija pavēlējis ⟨את⟩ Jehošua; un tauta steidzās un pārgāja.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "19d83c2448b013641756986b6da6534623e54777e36313cc4770af2ffde59055",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/4\/10-10.1792532515572.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un priesteri, šķirsta nesēji, stāvēja Jordānas vidū, līdz ⟨tika⟩ pabeigts viss vārds, ko Jahve bija pavēlējis Jehošua sacīt ⟨pret⟩ tautu — pēc visa, ko Moše bija pavēlējis ⟨את⟩ Jehošua; un tauta steidzās un pārgāja.",
   "tokens": [
     {
       "surface": "והכהנים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "arkas"
+      "gloss": "šķirsta"
     },
     {
       "surface": "עמדים",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "תם",
-      "gloss": "tika pabeigts"
+      "gloss": "pabeigts"
     },
     {
       "surface": "כל",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bija pavēlējis"
+      "gloss": "pavēlējis"
     },
     {
       "surface": "יהוה",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "runāt"
+      "gloss": "sacīt"
     },
     {
       "surface": "אל",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bija pavēlējis"
+      "gloss": "pavēlējis"
     },
     {
       "surface": "משה",
@@ -139,6 +118,6 @@
       "gloss": "un pārgāja"
     }
   ],
-  "timestamp": "2026-10-20T21:41:55.573820390Z",
+  "timestamp": "2026-10-20T22:53:37.972497360Z",
   "model": "glm-5.3"
 }

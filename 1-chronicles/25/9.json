@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "lv",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "particips un skaitļi",
-      "rationale": "Lozēšanas kārtība un divpadsmit vīru skaitlis katrā kārtī — mērīšanas un uzskaites konteksts."
-    }
-  ],
-  "translation": "Un iznāca pirmais lozes gabals Asafam, Jozefam; otrs — Gedaljahu, viņš, viņa brāļi un viņa dēli, divpadsmit.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "638f4277866b762a40d70ad2fbbd0220f4f31a3e3814114ce2361f59026f5a60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/25\/9-12.1792531505560.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un iznāca ⟨את⟩ pirmā laiva Asafam — Jozefam; Gedaljahu — ⟨ir⟩ otrā, viņš, viņa brāļi un viņa dēli — divpadsmit.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -29,11 +13,12 @@
     },
     {
       "surface": "הגורל",
-      "gloss": "lozes gabals"
+      "gloss": "⟨את⟩ laiva",
+      "marks": "laiva"
     },
     {
       "surface": "הראשון",
-      "gloss": "pirmais"
+      "gloss": "pirmā"
     },
     {
       "surface": "לאסף",
@@ -49,7 +34,7 @@
     },
     {
       "surface": "השני",
-      "gloss": "otrs"
+      "gloss": "otrā"
     },
     {
       "surface": "הוא",
@@ -72,6 +57,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-10-20T21:25:05.560516220Z",
+  "timestamp": "2026-10-20T22:32:01.037774633Z",
   "model": "glm-5.3"
 }

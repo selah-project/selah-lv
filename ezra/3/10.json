@@ -5,32 +5,11 @@
   "book": "ezra",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על ידי",
-      "rationale": "burtiski 'uz rokām' — 'pēc ... norādījuma \/ ar ... roku'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויעמידו",
-      "rationale": "'stādīja\/pastādīja priesterus' vs 'priesteri stājās'; forma ir transitīva."
-    }
-  ],
-  "translation": "Un kad būvētāji lika pamatus Jahves svētnīcai, priesteri stājās savās drēbēs ar taures, un levīti, Asafa dēli, ar cimbalēm, slavēt ⟨את⟩ Jahvi pēc Davida, Jisraēla ķēniņa, norādījuma.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e50f29beca522b63caee52edb49c1b47981a7344cd8052f24f1d54a07be77f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/3\/9-12.1792530583976.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un būvētāji pamatoja ⟨את⟩ Jahves templi, un priesteri nostājās ģērbti ar taures, un levīti, Asafa dēli, ar cimbālēm, slavēt ⟨את⟩ Jahvu ar Davida, Jisraēla ķēniņa, rokām.",
   "tokens": [
     {
       "surface": "ויסדו",
-      "gloss": "un lika pamatus"
+      "gloss": "pamatoja"
     },
     {
       "surface": "הבנים",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahves svētnīcu"
+      "marks": "Jahves templi"
     },
     {
       "surface": "היכל",
-      "gloss": "svētnīcu"
+      "gloss": "templi"
     },
     {
       "surface": "יהוה",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ויעמידו",
-      "gloss": "stādīja"
+      "gloss": "nostājās"
     },
     {
       "surface": "הכהנים",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "מלבשים",
-      "gloss": "savinās drēbēs"
+      "gloss": "ģērbti"
     },
     {
       "surface": "בחצצרות",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "במצלתים",
-      "gloss": "ar cimbalēm"
+      "gloss": "ar cimbālēm"
     },
     {
       "surface": "להלל",
@@ -88,19 +67,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvi"
+      "marks": "Jahvu"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvi"
+      "gloss": "Jahvu"
     },
     {
       "surface": "על",
-      "gloss": "pēc"
+      "gloss": "ar"
     },
     {
       "surface": "ידי",
-      "gloss": "norādījuma"
+      "gloss": "rokām"
     },
     {
       "surface": "דויד",
@@ -115,6 +94,6 @@
       "gloss": "Jisraēla"
     }
   ],
-  "timestamp": "2026-10-20T21:09:43.977388861Z",
+  "timestamp": "2026-10-20T22:45:15.750884097Z",
   "model": "glm-5.3"
 }

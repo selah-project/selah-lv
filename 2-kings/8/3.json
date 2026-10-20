@@ -5,31 +5,31 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "septiņu gadu beigās",
-      "rationale": "Laika skaitīšana iezīmē stāsta posmu."
-    }
-  ],
-  "translation": "Un notika septiņu gadu beigās, ka sieva atgriezās no filistiešu zemes un izgāja kliegt pie ķēniņa par savu namu un par savu lauku.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/8\/1-4.1792521309636.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika pēc septiņu gadu beigām, ka sieviete atgriezās no peleištu zemes un izgāja kliegt pie ķēniņa par savu māju un savu lauku.",
   "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pēc beigām"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadu"
+    },
     {
       "surface": "ותשב",
       "gloss": "atgriezās"
     },
     {
       "surface": "האשה",
-      "gloss": "sievа"
+      "gloss": "sieviete"
     },
     {
       "surface": "מארץ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistiešu"
+      "gloss": "peleištu"
     },
     {
       "surface": "ותצא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ביתה",
-      "gloss": "savu namu"
+      "gloss": "savu māju"
     },
     {
       "surface": "ואל",
@@ -72,6 +72,6 @@
       "gloss": "savu lauku"
     }
   ],
-  "timestamp": "2026-10-20T18:35:09.637594371Z",
+  "timestamp": "2026-10-20T22:37:42.795373851Z",
   "model": "glm-5.3"
 }

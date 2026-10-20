@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "šamirs",
-      "rationale": "כשמיר: Adamass\/dimants vai ļoti cietš akmens; atstāts pēc skanējuma."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pretdarbības nams",
-      "rationale": "בית מרי burtiski 'rūgtuma nams' — Merība atbalss (2. Mozus 17)."
-    },
-    {
-      "kind": "you",
-      "subject": "Ehēzelam",
-      "rationale": "Jahve runā pravietim tieši: 'tavu pieri... nebīsties'."
-    }
-  ],
-  "translation": "Kā šamirs, cietāks par akmeni, es devu tavu pieri; nebīsties no viņiem un neiztrūcies viņu vaigu priekšā, jo tie ir pretdarbības nams.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/3\/9-12.1792524741032.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kā šamirs, cietāks par cietu akmeni, Es esmu licis tavu pieri; nebīsties no viņiem un nebaieties viņu seju priekšā, jo tie ir dumpīga ⟨ir⟩ ģimene — ⟨את⟩ viņus.",
   "tokens": [
     {
       "surface": "כשמיר",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "מצר",
-      "gloss": "par akmeni"
+      "gloss": "par cietu akmeni"
     },
     {
       "surface": "נתתי",
-      "gloss": "es devu"
+      "gloss": "Es esmu licis"
     },
     {
       "surface": "מצחך",
-      "gloss": "tavai pierei"
+      "gloss": "tavu pieri"
     },
     {
       "surface": "לא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ viņus",
+      "gloss": "⟨את⟩",
       "marks": "viņus"
     },
     {
@@ -72,11 +46,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "iztrūcies"
+      "gloss": "baieties"
     },
     {
       "surface": "מפניהם",
-      "gloss": "viņu vaigu priekšā"
+      "gloss": "viņu seju priekšā"
     },
     {
       "surface": "כי",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "בית",
-      "gloss": "namas"
+      "gloss": "ģimene"
     },
     {
       "surface": "מרי",
-      "gloss": "pretdarbības"
+      "gloss": "dumpīga"
     },
     {
       "surface": "המה",
       "gloss": "tie ir"
     }
   ],
-  "timestamp": "2026-10-20T19:32:21.033296979Z",
+  "timestamp": "2026-10-20T22:44:25.583137730Z",
   "model": "glm-5.3"
 }

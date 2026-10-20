@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valoda to prasa."
-    }
-  ],
-  "translation": "Svētīts Jahve, jo Viņš ir dzirdējis ⟨את⟩ mana lūguma balsi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/28\/5-8.1792527296419.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Svētīts ⟨ir⟩ Jahve, jo viņš dzirdēja manu lūgšanu balsi.",
   "tokens": [
     {
       "surface": "ברוך",
@@ -37,17 +21,17 @@
     },
     {
       "surface": "שמע",
-      "gloss": "dzirdējis ir"
+      "gloss": "dzirdēja"
     },
     {
       "surface": "קול",
-      "gloss": "⟨את⟩ balsi"
+      "gloss": "balsi"
     },
     {
       "surface": "תחנוני",
-      "gloss": "mana lūguma"
+      "gloss": "mano lūgšanu"
     }
   ],
-  "timestamp": "2026-10-20T20:14:56.419957839Z",
+  "timestamp": "2026-10-20T23:00:03.391956579Z",
   "model": "glm-5.3"
 }

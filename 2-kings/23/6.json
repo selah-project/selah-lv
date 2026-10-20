@@ -5,46 +5,20 @@
   "book": "2-kings",
   "lang": "lv",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Ašera",
-      "rationale": "האשרה ir dievības\/vietnes vārds, nevis 'birzs' (KJV)"
-    },
-    {
-      "kind": "crux",
-      "subject": "parastā ļaužu",
-      "rationale": "בני העם burtiski 'ļaužu dēli' — 'parastie ļaudis' pret burtisku lasījumu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "אֹתָהּ ir vietniekvārds 'to', nevis aleph-tav atzīme"
-    }
-  ],
-  "translation": "Un viņš iznesa ⟨את⟩ Ašeru no Jahves nama, ārā no Jerušalaimas, uz Kidronas strautu, un sadedzināja to Kidronas strautā, un sasmalcināja to putekļos, un izbēra tās putekļus pār parastā ļaužu dēlu kapiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/23\/5-8.1792521741572.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš iznesa ⟨את⟩ Ašeras tēlu no Jahves nama ārpus Jerušalaimas uz Kidronas strautu, un to sadedzināja Kidronas strautā, un sasmalcināja to par putekļiem, un izbēra ⟨את⟩ tās putekļus uz parasto ļaužu kapiem.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "iznesa"
+      "gloss": "un viņš iznesa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ašeru"
+      "marks": "Ašeras tēlu"
     },
     {
       "surface": "האשרה",
-      "gloss": "Ašeru"
+      "gloss": "Ašeras tēlu"
     },
     {
       "surface": "מבית",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "ārā no"
+      "gloss": "ārpus"
     },
     {
       "surface": "לירושלם",
@@ -76,11 +50,12 @@
     },
     {
       "surface": "וישרף",
-      "gloss": "sadedzināja"
+      "gloss": "un sadedzināja"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ to"
+      "gloss": "⟨את⟩ to",
+      "marks": "⟨את⟩ ar sieviešu galotni — atzīmē Ašeras tēlu"
     },
     {
       "surface": "בנחל",
@@ -92,15 +67,15 @@
     },
     {
       "surface": "וידק",
-      "gloss": "sasmalcināja"
+      "gloss": "un sasmalcināja"
     },
     {
       "surface": "לעפר",
-      "gloss": "putekļos"
+      "gloss": "par putekļiem"
     },
     {
       "surface": "וישלך",
-      "gloss": "izbēra"
+      "gloss": "un izbēra"
     },
     {
       "surface": "את",
@@ -113,7 +88,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pār"
+      "gloss": "uz"
     },
     {
       "surface": "קבר",
@@ -121,13 +96,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "dēlu"
+      "gloss": "ļaužu"
     },
     {
       "surface": "העם",
-      "gloss": "parastā ļaužu"
+      "gloss": "parasto"
     }
   ],
-  "timestamp": "2026-10-20T18:42:21.573579622Z",
+  "timestamp": "2026-10-20T22:37:38.511895761Z",
   "model": "glm-5.3"
 }

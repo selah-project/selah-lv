@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lv",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņš būs",
-      "rationale": "Ebreju valodā nav kopulas darbības vārda וכהן"
-    },
-    {
-      "kind": "substitution",
-      "subject": "par priesteri",
-      "rationale": "וכהן ir darbības vārds 'kalpot par priesteri', latviski nepieciešams lietvārds"
-    }
-  ],
-  "translation": "Un tu apģērbs ⟨את⟩ Aharonu svētajos tērpos, un tu svaidīsi viņu, un tu svētdarīsi viņu, un viņš būs man par priesteri.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/40\/13-16.1792513583584.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu apģērbsi ⟨את⟩ Aharonu svētajās ⟨את⟩ drānās, un svaidīsi ⟨את⟩ viņu, un svētīsi ⟨את⟩ viņu, un viņš kalpos man kā priesteris.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "un tu apģērbs"
+      "gloss": "Un tu apģērbsi"
     },
     {
       "surface": "את",
@@ -44,43 +23,43 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svētajos tērpos"
+      "marks": "svētajās drānās"
     },
     {
       "surface": "בגדי",
-      "gloss": "tērpos"
+      "gloss": "drānās"
     },
     {
       "surface": "הקדש",
-      "gloss": "svētajos"
+      "gloss": "svētajās"
     },
     {
       "surface": "ומשחת",
-      "gloss": "un tu svaidīsi"
+      "gloss": "un svaidīsi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ viņu",
-      "marks": "viņu"
+      "marks": "viņu (svaidīšanas objekts)"
     },
     {
       "surface": "וקדשת",
-      "gloss": "un tu svētdarīsi"
+      "gloss": "un svētīsi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ viņu",
-      "marks": "viņu"
+      "marks": "viņu (svētīšanas objekts)"
     },
     {
       "surface": "וכהן",
-      "gloss": "un viņš būs par priesteri"
+      "gloss": "un viņš kalpos kā priesteris"
     },
     {
       "surface": "לי",
       "gloss": "man"
     }
   ],
-  "timestamp": "2026-10-20T16:26:23.584694467Z",
+  "timestamp": "2026-10-20T22:43:05.942988889Z",
   "model": "glm-5.3"
 }

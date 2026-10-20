@@ -5,59 +5,28 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "viņš, bija",
-      "rationale": "Darbības veicējs un divas saikles pievienotas — ebreju tekstā tādu nav"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vai!",
-      "rationale": "הִי (hē) ir izsauciens 'au, ai!' — latviešu 'vai!' kā izsauciens, ne jautājums"
-    },
-    {
-      "kind": "substitution",
-      "subject": "priekšpusē un aizmugurē",
-      "rationale": "פנים ואחור burtiski 'seja un mugura'; tulkotāji tradicionāli 'iekšā un ārā'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sēras, vaidi un vai",
-      "rationale": "Ritulis rakstīts no abām pusēm — pārpilnības mērs: viss pilns ar sērām"
-    }
-  ],
-  "translation": "Un ⟨viņš⟩ to izritināja mana priekšā, un tā ⟨bija⟩ rakstīta priekšpusē un aizmugurē, un uz tās ⟨bija⟩ uzrakstītas sēras, vaidi un vai!",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/2\/9-10.1792524592783.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un viņš to izpleta ⟨את⟩ manā priekšā, un ⟨tā⟩ bija rakstīta priekšpusē un aizmugurē, un uz ⟨tās⟩ bija rakstīts: dziesmas-sēras, vaidi un -au!",
   "tokens": [
     {
       "surface": "ויפרש",
-      "gloss": "Un izritināja"
+      "gloss": "Un viņš izpleta"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩⟨to⟩",
-      "marks": "to — rituli"
+      "gloss": "⟨את⟩",
+      "marks": "to (rulli)"
     },
     {
       "surface": "לפני",
-      "gloss": "mana priekšā"
+      "gloss": "manā priekšā"
     },
     {
       "surface": "והיא",
-      "gloss": "un tā"
+      "gloss": "un ⟨tā⟩"
     },
     {
       "surface": "כתובה",
-      "gloss": "rakstīta"
+      "gloss": "bija rakstīta"
     },
     {
       "surface": "פנים",
@@ -69,25 +38,25 @@
     },
     {
       "surface": "וכתוב",
-      "gloss": "un uzrakstīts"
+      "gloss": "un bija rakstīts"
     },
     {
       "surface": "אליה",
-      "gloss": "uz tās"
+      "gloss": "uz ⟨tās⟩"
     },
     {
       "surface": "קנים",
-      "gloss": "sēras"
+      "gloss": "dziesmas-sēras"
     },
     {
       "surface": "והגה",
-      "gloss": "vaidi"
+      "gloss": "un vaidi"
     },
     {
       "surface": "והי",
-      "gloss": "vai!"
+      "gloss": "un -au"
     }
   ],
-  "timestamp": "2026-10-20T19:29:52.784496814Z",
+  "timestamp": "2026-10-20T22:44:00.136339980Z",
   "model": "glm-5.3"
 }
