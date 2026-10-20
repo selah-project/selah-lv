@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועננו",
+      "rationale": "Masoras teksts saka 'un atbild mums' (daudzskaitlis), bet KJV\/JPS pēc dažiem sarakstiem lasa vienskaitli 'atbild man'."
+    }
+  ],
+  "translation": "Lai Tavi mīļotie tiktu izrauti; izglāb ar savu labo roku un atbild mums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/60\/5-8.1792527757793.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Lai"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "tiktu izrauti"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "Tavi mīļotie"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "izglāb"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ar savu labo roku"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "un atbild mums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:37.794260736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 66:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nepeša",
+      "rationale": "נפש ir 'elpa, rīkle, dzīvības spēks' — ne dvēsele platonicā nozīmē."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעלה מנחה דם חזיר",
+      "rationale": "Vai 'kas paceļ minhu — cūkas asinis' ir: upurētājs līdzvērtīgs cūkas asiņu upurētājam, vai דם חזיר ir מנחה aplikums (bez asinīm)? Tulkojumi dalās."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "četri pāri",
+      "rationale": "Paralelisms: katra derības upura darbība pielīdzināta negantam noziegumam — sižets zūd, ja pārus saīsina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "'Avu' — tukšība, elks; žargonvārds elkiem."
+    }
+  ],
+  "translation": "Kas kauj vērsi, tas kā sit cilvēku; kas upurē jēru, tas kā lauž suņa kaklu; kas nes augšup minhu, tas kā cūkas asinis; kas piemin vīrakoku, tas kā svētī avu; arī viņi izvēlējās savus ceļus, un savos pretīgumos viņu nepeša iepriecājās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/66\/1-4.1792523225074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוחט",
+      "gloss": "Kas kauj"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kā sit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "זובח",
+      "gloss": "kas upurē"
+    },
+    {
+      "surface": "השה",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kā lauž kaklu"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "suņa"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "kas nes augšup"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "cūkas asinis"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "cūkas"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "kas piemin"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "vīrakoku"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "kā svētī"
+    },
+    {
+      "surface": "און",
+      "gloss": "avu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "המה",
+      "gloss": "viņi"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "izvēlējās"
+    },
+    {
+      "surface": "בדרכיהם",
+      "gloss": "savus ceļus"
+    },
+    {
+      "surface": "ובשקוציהם",
+      "gloss": "un savos pretīgumos"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu nepeša"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "iepriecājās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:07:05.075340276Z",
+  "model": "glm-5.3"
+}

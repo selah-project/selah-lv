@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 32:18",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "hebreju valodā nav saikļa teikumā 'Jahve Cevaot — Viņa vārds'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav viens vārds latviski — mīlestība, uzticība, labvēlība kopā"
+    },
+    {
+      "kind": "idiom",
+      "subject": "klēpī",
+      "rationale": "אל חיק burtiski 'uz klēpi' — idiomātisks 'iekrāt pilnībā, uzkraut'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prievārds 'uz\/uz krūtīm' saplūst ar 'חיק' vienā latviešu locījumā"
+    }
+  ],
+  "translation": "darot hesed tūkstošiem un atmaksājot tēvu vainu to dēlu klēpī pēc viņiem; El, lielais, varenais — Jahve Cevaot ⟨ir⟩ Viņa vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "62035227cd29ba9cf80da04b290583c357d837f95353ea3ff8416bb869106c9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/32\/17-20.1792524068991.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "darot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tūkstošiem"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "un atmaksājot"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vainu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "klēpī"
+    },
+    {
+      "surface": "חיק",
+      "gloss": "klēpī"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "to dēlu"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pēc viņiem"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielais"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "varenais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņa vārds"
+    }
+  ],
+  "timestamp": "2026-10-20T19:21:08.992521109Z",
+  "model": "glm-5.3"
+}

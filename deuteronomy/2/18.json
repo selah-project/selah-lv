@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Dievs tieši pavēl Israēlam šķērsot Moabas robežu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Aru",
+      "rationale": "Aru ar var būt Moabas robežpilsēta, nevis robežas daļa."
+    }
+  ],
+  "translation": "Tu šodien pāriesi ⟨את⟩ Moabas robežu, ⟨את⟩ Aru:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/2\/17-20.1792516538511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pāriesi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabas robežu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robežu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aru"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Aru"
+    }
+  ],
+  "timestamp": "2026-10-20T17:15:38.514026491Z",
+  "model": "glm-5.3"
+}

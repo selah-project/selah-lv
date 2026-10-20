@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 11:29",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ומי יתן",
+      "rationale": "'Ak, kas lai dotu' — ebreju vēlēšanās idiomāts, burtiski 'un kas dos'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨būtu⟩",
+      "rationale": "Ebreju tekstā trūkst copulas pie 'visa tauta pravieši'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošua",
+      "rationale": "Moše vēršas tieši pie Jehošuas, Nun dēla."
+    }
+  ],
+  "translation": "Un Moše sacīja viņam: Vai tu esi greizsirdīgs manis dēļ? Ak, kas lai dotu, ka visa Jahves tauta ⟨būtu⟩ pravieši, kad Jahve dots ⟨את⟩ savu ruah pār viņiem!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c4aab5071c1383fed50a644053d555640637d1a95c290a5fe79654c5263fbe3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/11\/29-32.1792515802778.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "המקנא",
+      "gloss": "vai tu esi greizsirdīgs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manis dēļ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lai dotu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נביאים",
+      "gloss": "pravieši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dots"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu ruah"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "savu ruah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pār viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:03:22.780192725Z",
+  "model": "glm-5.3"
+}

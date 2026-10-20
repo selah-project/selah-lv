@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar tevi",
+      "rationale": "Ebreju teksts saka tikai 'hesed un emet'; 'ar tevi' pievienots skaidrībai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed un emet",
+      "rationale": "חסד ואמת saglabāti transkribēti — 'žēlsirdība un patiesība' kā viens vārds katrs zaudē saknes vienotību."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב והששיב",
+      "rationale": "Saknes שוב atkārtojums: 'atgriezies un atgriez' — tā pati sakne divreiz."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסד ואמת",
+      "rationale": "Vai tas ir novēlējums Itajam ('lai hesed un emet ir ar tevi') vai Dāvida solījums — tulkotāji dalīti."
+    }
+  ],
+  "translation": "Vakar bija tava atnākšana, un šodien es lieku tevim klejot ar mums, un es eju tur, kur es eju — atgriezies un atgriez ⟨את⟩ savus brāļus pie sevis: hesed un emet ⟨ar tevi⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/17-20.1792519983400.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "Vakar"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tava atnākšana"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "un šodien"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "es lieku tevim klejot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iet"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "eju"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "eju"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "un atgriez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus brāļus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "savus brāļus"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pie sevis (ar tevi)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "un emet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:13:03.401868094Z",
+  "model": "glm-5.3"
+}

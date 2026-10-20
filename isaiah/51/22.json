@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 51:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדניך šeit par Dievu — Adonai, nevis 'kungs', jo Vārds netiek aizstāts."
+    },
+    {
+      "kind": "hapax",
+      "subject": "התרעלה",
+      "rationale": "Apreibuma\/kleiduma vārds parādās Tanahā tikai šeit (arī ēs. 29:9 — radniecīga forma); gleznieciskais 'klejojošais reibums' latviski dots kā 'apreibums'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קבעת",
+      "rationale": "'Dziļais kauss \/ kausiņš' pret KJV 'beigas\/dūņas' — ebrejiski tas ir trauks, ne saturu."
+    }
+  ],
+  "translation": "Tā saka tavs Adonai Jahve, un tavs Elohim, kas ved savas tautas tiesu: Redzi, es paņēmu no tavas rokas ⟨את⟩ apreibuma kausu, ⟨את⟩ dziļo kausu, savas bardzības kausu — tu vairs to nedzersi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/51\/21-23.1792522900328.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavs Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "un tavs Elohim"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "kas ved tiesu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savas tautas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "es paņēmu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "no tavas rokas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apreibuma kausu"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kausu"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "apreibuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziļo kausu, savas bardzības kausu"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "dziļo kausu"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kausu"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "savas bardzības"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "tu vairs"
+    },
+    {
+      "surface": "לשתותה",
+      "gloss": "to nedzersi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:40.329500634Z",
+  "model": "glm-5.3"
+}

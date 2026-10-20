@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 23:41",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kvēpinājums un eļļa kā 'manu'",
+      "rationale": "Ebreju valodā piederības priedēklis 1. personā — tas ir Jahve kvēpinājums un eļļa, kas izlietota elku gultā."
+    }
+  ],
+  "translation": "Un tu sēdēji uz krāšņas gultas, un galds ⟨bija⟩ klāts tās priekšā, un manu kvēpinājumu un manu svaidāmo eļļu tu liki uz tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54b20ad2b84aed05e15c7fb8b49b59230cfefd9e49d7218d392b4e7cefe6aec9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/41-44.1792525252734.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "Un tu sēdēji"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gultas"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "krāšņas"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "un galds"
+    },
+    {
+      "surface": "ערוך",
+      "gloss": "klāts"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "tās priekšā"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "un manu kvēpinājumu"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "un manu svaidāmo eļļu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu liki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uz tā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:52.735393781Z",
+  "model": "glm-5.3"
+}

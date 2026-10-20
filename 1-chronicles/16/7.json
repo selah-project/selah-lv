@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראש",
+      "rationale": "Burtiski 'galvā\/sākumā' — KJV lasa 'šo psalmu pirmo reizi', citi 'iecēla par vadītāju sākumā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביד",
+      "rationale": "Burtiski 'rokā' — nozīmē 'caur, viņu vidium'; rokas tēls saglabāts"
+    }
+  ],
+  "translation": "Tanī dienā tad Davids iecēla ⟨to⟩ sākumā, lai pateiktos Jahvem ar Asafa un viņa brāļu roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/5-8.1792531400924.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iecēla"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "lai pateiktos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ar roku"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "un viņa brāļu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:20.926049567Z",
+  "model": "glm-5.3"
+}

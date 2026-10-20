@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "projām",
+      "rationale": "Piedots priedēklis latviešu darbības vārdam 'iešu no tevis', lai skan dabiski; ebreju יצא nozīmē vienkārši 'iziet'."
+    }
+  ],
+  "translation": "Un notiks, ka, ja viņš tev sacīs: Es neiešu no tevis projām — jo viņš tevi mīl ⟨את⟩ un tavu namu, jo viņam pie tevis ir labi —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/15\/13-16.1792516916300.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un notiks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka, ja"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "viņš sacīs"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "iešu"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "no tevis projām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "viņš tevi mīl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavu namu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "un tavu namu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ir labi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pie tevis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:21:56.303547943Z",
+  "model": "glm-5.3"
+}

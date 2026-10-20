@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav saikļa; salīdzinājums stāv bez darbības vārda"
+    },
+    {
+      "kind": "crux",
+      "subject": "spieķi",
+      "rationale": "חשקים — 'spieķi' vai 'asīs' (KJV axletrees pret ASV spokes); ņemts 'spieķi' pēc vārda nozīmes 'savienojošā stienis'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viss liets",
+      "rationale": "Apraksta atsevišķu detaļu skaitīšanu un darinājuma veidu"
+    }
+  ],
+  "translation": "Un riteņu darbs ⟨bija⟩ kā riteņa darbs ratā: to rotas, to riteņu vainagi, to spieķi un to rumbas — viss liets.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/7\/33-36.1792520480614.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "Un ... darbs"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "riteņu"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kā ... darbs"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "riteņa"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "ratā"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "to rotas"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "to riteņu vainagi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "to spieķi"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "un to rumbas"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "liets"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:20.615220687Z",
+  "model": "glm-5.3"
+}

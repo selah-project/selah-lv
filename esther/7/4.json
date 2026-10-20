@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 7:4",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין הצר שוה בנזק המלך",
+      "rationale": "Slavens strīda punkts: KJV 'ienaidnieks nespēj atlīdzināt ķēniņa zaudējumu' vs JPS 'ienaidnieks nav vērts, lai ķēniņš ciestu zaudējumu' — skaidrojums atkarīgs no שוה ('atsvert \/ būt vērtam') lasījuma"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (otrais)",
+      "rationale": "Otrais כי pārejas daļā latviski bez skaidra ekvivalenta, izlaists kā saistītājs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הצר",
+      "rationale": "Burtiski 'šaurums, apspiedējs' — latviski 'ienaidnieks' kā loma, ne forma"
+    },
+    {
+      "kind": "secret",
+      "subject": "Estere vēl nesauc Hāmanu vārdā",
+      "rationale": "Estere noklusē apspiedēja vārdu — 7:5 ķēniņš pats pajautās, kas tas ir"
+    }
+  ],
+  "translation": "Jo es un mana tauta esam pārdoti iznīcināšanai, nonāvēšanai un boejai. Bet ja mēs būtu pārdoti par vergiem un verdzenēm, es būtu klusējusi — taču ienaidnieks necieš tik lielu zaudējumu, lai tas atsvērtu ķēniņa postu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/7\/1-4.1792530090290.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "esam pārdoti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "un mana tauta"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "iznīcināšanai"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "nonāvēšanai"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "un boejai"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "Bet ja"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "par vergiem"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "un verdzenēm"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "mēs būtu pārdoti"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "es būtu klusējusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "atsver"
+    },
+    {
+      "surface": "בנזק",
+      "gloss": "zaudējumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:30.292463100Z",
+  "model": "glm-5.3"
+}

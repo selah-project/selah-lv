@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה אל",
+      "rationale": "Divi tokeni — personvārds Asahels (עשהאל), sadalīts rakstībā; nav 'un darīja El'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפקדו",
+      "rationale": "Burtiski 'ieskaitīja\/pārbaudīja' — pulcēšanās izrādījās iztrūkums; skaitļa pārbaudes darbība."
+    },
+    {
+      "kind": "addition",
+      "subject": "sekošanas",
+      "rationale": "מאחרי burtiski 'no aiz' — latviešu valodai vajadzīgs lietvārds."
+    }
+  ],
+  "translation": "Un Joābs atgriezās no ⟨sekošanas⟩ Avneram un sapulcināja ⟨את⟩ visu tautu, un iztrūka no Davida kalpiem deviņpadsmit vīru un Asahels.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/2\/29-32.1792519627278.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Un Joābs"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "no ⟨sekošanas⟩"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneram"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "un sapulcināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu tautu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "un iztrūka"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "no kalpiem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "deviņi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un Asahels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:07.279817385Z",
+  "model": "glm-5.3"
+}

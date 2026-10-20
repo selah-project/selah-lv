@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 13:4",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iecelets",
+      "rationale": "נתון burtiski 'dots, likts' — 'iecelts pār' ir lomas tulkojums, ne burtisks"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kādu⟩",
+      "rationale": "Latviešu valodā piederības konstrukcijai vajadzīgs paskaidrojums; ebreju celma forma to nesatur"
+    }
+  ],
+  "translation": "Un pirms šī priesteris Elijašibs bija iecelts pār ⟨kādu⟩ istabu mūsu Elohim namā, būdams radinieks Tobijam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/13\/1-4.1792530881148.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "un pirms"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elijašibs"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "iecelts"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "pār istabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "radinieks"
+    },
+    {
+      "surface": "לטוביה",
+      "gloss": "Tobijam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:41.149345814Z",
+  "model": "glm-5.3"
+}

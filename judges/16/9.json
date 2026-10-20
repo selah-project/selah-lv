@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 16:9",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "palika",
+      "rationale": "Ebreju נודע ir tikai darāmais vārds 'tika pazīts'; latviešu valodai vajag pilnu teikumu"
+    },
+    {
+      "kind": "crux",
+      "subject": "היתרים",
+      "rationale": "Burtiski 'loku virves' (no loka); tulkoti kā 'virves' vai 'biezie aukli'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהריחו",
+      "rationale": "Burtiski 'kad tas saož'; 'pieskaras' ir brīvāks attēlojums"
+    }
+  ],
+  "translation": "Un slēpņi sēdēja pie viņas istabā, un viņa sacīja viņam: Pelištieši uz tevi, Šimšon! Un viņš saplēsa ⟨את⟩ virves, kā plīst pakulu diegs, kad tam pieskaras uguns, un viņa spēks palika nepazīts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "525834cf02865e18be57c6717c69ff4defe0d848f9ed93ab6b14b43c220f0499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/16\/9-12.1792518525730.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארב",
+      "gloss": "un slēpņi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sēdēja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pie viņas"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "istabā"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "un viņa sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištieši"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uz tevi"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Šimšon"
+    },
+    {
+      "surface": "וינתק",
+      "gloss": "un viņš saplēsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "virves"
+    },
+    {
+      "surface": "היתרים",
+      "gloss": "virves"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "plīst"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "diegs"
+    },
+    {
+      "surface": "הנערת",
+      "gloss": "pakulu"
+    },
+    {
+      "surface": "בהריחו",
+      "gloss": "kad tam pieskaras"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "palika nepazīts"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "viņa spēks"
+    }
+  ],
+  "timestamp": "2026-10-20T17:48:45.731308973Z",
+  "model": "glm-5.3"
+}

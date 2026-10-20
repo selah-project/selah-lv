@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 8:3",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "no gaismas",
+      "rationale": "האור burtiski ir 'gaisma'; parasti tulkots kā 'no rīta ausmas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lasīja",
+      "rationale": "קרא burtiski 'sauca\/aicināja'; kontekstā — lasīja skaļi priekšā."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨vērstas⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda — 'visas tautas ausis uz Toras grāmatu'; latviešu valodai vajag predikātu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "laiks",
+      "rationale": "Lasīšanas ilgums izmērīts: no gaismas līdz dienas vidum."
+    }
+  ],
+  "translation": "Un viņš tajā lasīja ⟨skaļi⟩ plašuma priekšā, kas atrodas ūdens vārtu priekšā, no gaismas līdz dienas vidum, vīriešu un sieviešu un saprātīgo priekšā, un visas tautas ausis bija ⟨vērstas⟩ uz Toras grāmatu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b30d8b65f341f6f71f162695c890f06edc26dfbb4f08bc7d442e3caeeecba9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/8\/2-3.1792532898664.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lasīja ⟨skaļi⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "plašuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vārtu priekšā"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtiem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "האור",
+      "gloss": "gaismas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "vidum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīriešu"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "un sieviešu"
+    },
+    {
+      "surface": "והמבינים",
+      "gloss": "un saprātīgo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "un ausis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toras"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:18.665135788Z",
+  "model": "glm-5.3"
+}

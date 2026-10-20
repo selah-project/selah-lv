@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואחר כבוד תקחני",
+      "rationale": "'pēc tam godību tu mani ņemsi' — 'ņemsi ar godību' (JPS) pret 'ņemsi pie godības\/slavas'; izvēlēts godības veids, ne debesis"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "latviešu prievārds pie כבוצabstrakta pievienots"
+    }
+  ],
+  "translation": "Ar savu padomu tu mani vadīsi, un pēc tam ar godību tu mani ņemsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/21-24.1792527851586.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Ar savu padomu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tu mani vadīsi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "un pēc tam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ar godību"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "tu mani ņemsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:11.587081551Z",
+  "model": "glm-5.3"
+}

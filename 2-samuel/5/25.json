@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā nav atkārtota darbības vārda subjekta; latviešu teikumā pievienots 'viņš'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Geba vai Gibeona",
+      "rationale": "מגבע (Geba) atšķiras no גבעון (Gibeona); BSB lasa Gibeonu, bet masorētu teksts saka Geba."
+    }
+  ],
+  "translation": "Un Davids darīja tā, kā Jahve viņam bija pavēlējis, un viņš sita ⟨את⟩ filistiešus no Gebas līdz ⟨tam⟩, ⟨kad⟩ tu nonāc Gezerā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/5\/25-25.1792519691303.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bija pavēlējis viņam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "un sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistiešus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešus"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "no Gebas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "באך",
+      "gloss": "tu nonāc"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:11.304183911Z",
+  "model": "glm-5.3"
+}

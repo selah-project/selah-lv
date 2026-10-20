@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tālumā",
+      "rationale": "מרחקים ir daudzskaitlis — 'tālās vietas'; latviski dots vienā apstākļa vārdā"
+    },
+    {
+      "kind": "crux",
+      "subject": "ķēniņu viņa daiļumā",
+      "rationale": "nav teikta subjekta — ķēniņš var būt Jahve vai zemniecisks ķēniņš; teksts klusē"
+    }
+  ],
+  "translation": "Ķēniņu viņa daiļumā tavas acis ieraudzīs, tās redzēs zemi tālumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/33\/17-20.1792522392480.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "viņa daiļumā"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ieraudzīs"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavas acis"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "tālumā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:12.481225309Z",
+  "model": "glm-5.3"
+}

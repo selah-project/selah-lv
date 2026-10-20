@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 29:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "piepildīsi roku",
+      "rationale": "מלא יד — 'piepildīt roku' ir iesvētīšanas idiom; atstāts burtisks, nevis 'iesvētīsi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis 'būs' teikumā par priesterību — והיתה to nes"
+    }
+  ],
+  "translation": "Un tu apjozīsi ⟨את⟩ viņus ar jostu — Aharonu un viņa dēlus — un sasiesīsi viņiem galvassegus; un priesterība būs viņiem par mūžīgu likumu; un tu piepildīsi ⟨את⟩ Ahrona roku un ⟨את⟩ viņa dēlu roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c08fc337118253f740951b22bea98bfa6ef2d862f10c884b3957824189adacb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/29\/9-12.1792513261330.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחגרת",
+      "gloss": "un tu apjozīsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "jostas apjošanā: Aharonu un viņa dēlus"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "jostu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "un viņa dēlus"
+    },
+    {
+      "surface": "וחבשת",
+      "gloss": "un sasiesīsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "galvassegus"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "priesterība"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "par likumu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgu"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "un tu piepildīsi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "un roku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:01.330905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 55:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nocirtšu derību",
+      "rationale": "כרת ברית burtiski 'griezt derību' — derības slēgšana, ejot starp gaļas gabaliem (1. Mozus 15)"
+    },
+    {
+      "kind": "elision",
+      "subject": "hesed",
+      "rationale": "חסד atstāts kā hesed — viens vārds, kas aptver uzticīgu mīlestību un žēlsirdību"
+    },
+    {
+      "kind": "invitation",
+      "subject": "pielieciet savu ausi",
+      "rationale": "aicinājums ar pavēli pievērst auss un nākt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Davida hesedi",
+      "rationale": "חסדי דוד var būt arī 'tādi kā Davidam dotie hesedi' — derība, ko Jahve apsolīja Davidam"
+    }
+  ],
+  "translation": "Pielieciet savu ausi un nāciet pie manis, klausieties, un jūsu dvēsele dzīvos, un es nocirtšu jums derību uz mūžību, Davida uzticamos hesedus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/55\/1-4.1792522918742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטו",
+      "gloss": "pielieciet"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "savu ausi"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "un nāciet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausieties"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jūsu dvēsele"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "un nocirtšu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesedus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "הנאמנים",
+      "gloss": "uzticamos"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:58.743744544Z",
+  "model": "glm-5.3"
+}

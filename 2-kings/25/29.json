@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "visas savas dzīves dienas",
+      "rationale": "dzīves ilguma skaitīšana — hronikas noslēguma mērs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maizi",
+      "gloss": "",
+      "rationale": "לחם ir gan maize, gan iztika; ēst maizi pie kunga galda nozīmē pastāvīgu aprūpi"
+    }
+  ],
+  "translation": "Un viņš nomainīja ⟨את⟩ viņa cietuma drēbes, un viņš ēda maizi pastāvīgi ⟨priekšā viņam⟩ visas savas dzīves dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/29-30.1792521782985.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "nomainīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa cietuma drēbes"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drēbes"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "cietuma"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ēda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "priekšā viņam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savas dzīves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:02.986364112Z",
+  "model": "glm-5.3"
+}

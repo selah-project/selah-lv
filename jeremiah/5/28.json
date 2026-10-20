@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 5:28",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצליחו",
+      "rationale": "Divēja lasījuma vieta: 'un tam (bārenim) izdodas' (KJV, ASV mērķis) pret 'un viņiem tomēr veicas' (ļaundariem pašiem) — secība tekstā atstāj to atvērtu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirdz",
+      "rationale": "עשת tiešām nozīmē 'būt spīdīgam, treknam no eļļas' — latviski 'mirdz' saglabā treknā spīdējuma ainu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דין לא דנו דין",
+      "rationale": "Saknes דין atkārtošanās trīskārt — 'tiesu netiesā tiesu' — stilistiskā daušana, kas latviski mīkstināta."
+    }
+  ],
+  "translation": "Viņi ir kļuvuši trekni, viņi mirdz; jā, tie pārsniedz ļaunuma darbus: tiesu viņi netiesā, bāreņa tiesu — un tam tomēr veicas; un nabagu tiesu viņi nav tiesājuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c84085168763cc63e9fcaf042ff828532dccfda9f3b32ce25aa89ce28bbeb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/25-28.1792523340953.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמנו",
+      "gloss": "Viņi ir kļuvuši trekni"
+    },
+    {
+      "surface": "עשתו",
+      "gloss": "viņi mirdz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jā"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "tie pārsniedz"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "darbus"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunuma"
+    },
+    {
+      "surface": "דין",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דנו",
+      "gloss": "viņi tiesā"
+    },
+    {
+      "surface": "דין",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "bāreņa"
+    },
+    {
+      "surface": "ויצליחו",
+      "gloss": "un tam tomēr veicas"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "un tiesu"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nabagu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "viņi tiesājuši"
+    }
+  ],
+  "timestamp": "2026-10-20T19:09:00.954397021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pacēlu tavu seju",
+      "rationale": "נשא פנים — burtiski 'pacelt seju', nozīmē 'izrādīt labvēlību, pieņemt lūgumu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "latviešu valodai pievienots palīgdarbības vārds."
+    }
+  ],
+  "translation": "Un Davids paņēma no viņas rokas ⟨את⟩ to, ko viņa bija atnesusi viņam, un viņai viņš sacīja: Ej ar mieru savā namā; redzi, es klausīju tavai balsij un pacēlu tavu seju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c815526323512d4e74d506d6dfb3ff207a74f9dc9281d34f1f68b575073f572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/33-36.1792519393593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "no viņas rokas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko viņa bija atnesusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "viņa atnesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "un viņai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ej"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ar mieru"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "es klausīju"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "tavai balsij"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "un pacēlu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavu seju"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:13.594286365Z",
+  "model": "glm-5.3"
+}

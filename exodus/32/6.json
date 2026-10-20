@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ederbas upuri",
+      "rationale": "šelamim — 'novesumi\/atmaksas upuri'; latviešu tradīcija 'miera upuri' ir apšaubāma, burtiskāk 'pilnības upuri'"
+    },
+    {
+      "kind": "crux",
+      "subject": "līksmot",
+      "rationale": "לצחק var nozīmēt gan līksmu rotaļu, gan izsmieklu, gan seksuālu vaļību (Gen 26:8) — konteksts tumsīgs"
+    }
+  ],
+  "translation": "Un agri no rīta nākamajā dienā viņi cēla augšup augupielikumus un piedāvājaederbas upurus, un tauta apsēdās ēst un dzert, un viņi cēlās augšā līksmot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a86d8070e73ea6d61ab0898d7dc1f3ffd2ceb56b1188d97681b29f5c68199caa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/32\/5-8.1792513373501.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "agri cēlās"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nākamajā dienā"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "cēla augšup"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "augupielikumus"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "piedāvāja"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ederbas upurus"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "apsēdās"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "dzert"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "cēlās augšā"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "līksmot"
+    }
+  ],
+  "timestamp": "2026-10-20T16:22:53.502988785Z",
+  "model": "glm-5.3"
+}

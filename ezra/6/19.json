@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienā",
+      "rationale": "Ebreju 'četrpadsmit mēneša pirmajā' nesatur vārdu 'diena'; latviešu skaitļa forma to pieprasa."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Pesaha datums — pirmā mēneša četrpadsmitā diena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izraidījumu dēli",
+      "rationale": "בני הגולה — 'izsūtījuma\/gūsta dēli'; latviski ģenitīva ķēde."
+    }
+  ],
+  "translation": "Un izraidījumu dēli darīja ⟨את⟩ pesahu četrpadsmitajā dienā pirmajā mēnesī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/6\/17-20.1792530536624.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Un ... darīja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izraidījumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesahu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četrpadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:08:56.625227076Z",
+  "model": "glm-5.3"
+}

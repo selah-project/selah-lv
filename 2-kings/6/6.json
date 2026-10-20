@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איש האלהים",
+      "rationale": "'Elohim vīrs' — latviski nedabiski, bet 'Dieva vīrs' aizvietotu Vārdu ar 'Dievu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל \/ ויצף",
+      "rationale": "Dzelzs 'kritiens' (נפל) tiek atcelts ar 'uzpeldēšanu' (צוף) — pretstats, kas latviešu izteiksmē saglabāts daļēji."
+    }
+  ],
+  "translation": "Un Elohim vīrs sacīja: Kur tas krita? Un viņš parādīja viņam ⟨את⟩ vietu; un viņš nocirta koka gabalu un iemeta to tur, un padarīja, ka dzelzs peld.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/5-8.1792521195451.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "krita"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "un parādīja viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vietu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietu"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "un nocirta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koka gabalu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "un iemeta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "un padarīja, ka peld"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dzelzs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:15.451816638Z",
+  "model": "glm-5.3"
+}

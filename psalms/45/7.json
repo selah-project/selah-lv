@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "Uzruna 'Tavs troņa, Elohim' (KJV, tradīcija) pret JPS 'tavs tronis, dots no Elohim' — כסאך var būt arī 'tavs tronis ir Elohim tronis'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Divas reizes pievienots saiklis, ko ebreju teikums iztiek."
+    }
+  ],
+  "translation": "Tavs troņa, Elohim, ⟨ir⟩ uz mūžiem un mūžam; taisnuma skeptris ⟨ir⟩ tavas ķēniņvalsts skeptris.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/5-8.1792527621735.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "tavs troņa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "uz mūžiem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un mūžam"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptris"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "taisnuma"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptris"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "tavas ķēniņvalsts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:21.736279039Z",
+  "model": "glm-5.3"
+}

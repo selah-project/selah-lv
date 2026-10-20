@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "otrais ויתנו",
+      "rationale": "'deva' šeit nozīmē izlietoja sudrabu remontam — darbības vārds saglabāts, bet objekts izplūst."
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "אתו ietver DOM un suffiksu 'to'; latviski pievienota atgriezeniskā vietniekvārda atsauce."
+    }
+  ],
+  "translation": "Un viņi to nodeva darba darītāju rokām, uzraugiem Jahves namā, un darba darītāji, kas darbojās Jahves namā, to iztērēja, lai izlabotu un nostiprinātu ⟨את⟩ namu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d1c130c16232e7741391f7cd6bbd5b46b5c313b0f982ddea1fd3a9c82a8da52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/9-12.1792532421266.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "un viņi nodeva"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rokām"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darba darītāju"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "uzraugiem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "un iztērēja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ to",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "darba darītāji"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "darbojās"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "lai izlabotu"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "un nostiprinātu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:21.267683977Z",
+  "model": "glm-5.3"
+}

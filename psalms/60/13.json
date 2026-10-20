@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצר",
+      "rationale": "מצר: 'apspiedējs, ienaidnieks' (persona) vai 'ciešanas, briesmas' (lieta); izvēlēts 'briesmas' kā vārda pamatnozīmi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזרת\/תשועת",
+      "rationale": "Dēstveidīgais palīdzības\/pestīšanas pāris vienā pantā; latviski divi vārdi, ebrejiski viena sakne tuvu."
+    }
+  ],
+  "translation": "Sniedz mums palīdzību no briesmām, bet veltīga ir cilvēka pestīšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/60\/13-14.1792527723567.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "sniedz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "palīdzību"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "no briesmām"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "bet veltīga"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pestīšana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:03.567842287Z",
+  "model": "glm-5.3"
+}

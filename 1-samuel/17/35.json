@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 17:35",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu",
+      "rationale": "Ebreju valodā הצלתי objekts nav izteikts; latviešu valodai vajag ⟨viņu⟩ (jēru)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויקם עלי",
+      "rationale": "Burtiski 'un tas cēlās uz mani' — zvērs uzbruka, ne vienkārši piecēlās."
+    }
+  ],
+  "translation": "Es izgāju viņam pakaļ un triecu viņu un izglābu ⟨viņu⟩ no viņa mutes; un tas cēlās pret mani, un es satvēru viņu aiz viņa bārdas un triecu viņu un nogalināju viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e91ff987f6340ac01af3316be5b8c5ac7dd578a5f225d491b01cb604f3efab39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/17\/33-36.1792519123715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאתי",
+      "gloss": "es izgāju"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "viņam pakaļ"
+    },
+    {
+      "surface": "והכתיו",
+      "gloss": "un triecu viņu"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "un izglābu"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "no viņa mutes"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "un tas cēlās"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "והחזקתי",
+      "gloss": "un es satvēru"
+    },
+    {
+      "surface": "בזקנו",
+      "gloss": "aiz viņa bārdas"
+    },
+    {
+      "surface": "והכתיו",
+      "gloss": "un triecu viņu"
+    },
+    {
+      "surface": "והמיתיו",
+      "gloss": "un nogalināju viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:43.716531208Z",
+  "model": "glm-5.3"
+}

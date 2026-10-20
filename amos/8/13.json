@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 8:13",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ģībs",
+      "rationale": "עלף burtiski 'aizsegties, novārgt' — attēls ir paģirbes\/ģībonis, latviski 'ģībt' tuvākais viens vārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתעלפנה הבתולת",
+      "rationale": "atskaita uz 4:8, kur tie paši vārdi par slāpēm — atkārtojums starp pantiem"
+    }
+  ],
+  "translation": "Tanajā ⟨tajā⟩ dienā ģībs no slāpēm daiļās jaunavas un jaunekļi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b995a80e17e07cb7158387200b0b33cd97cadcdf5129c2e17820d6ecb1ee0e55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/8\/13-14.1792526274592.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tajā⟩"
+    },
+    {
+      "surface": "תתעלפנה",
+      "gloss": "ģībs"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "jaunavas"
+    },
+    {
+      "surface": "היפות",
+      "gloss": "daiļās"
+    },
+    {
+      "surface": "והבחורים",
+      "gloss": "un jaunekļi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "no slāpēm"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:54.592835185Z",
+  "model": "glm-5.3"
+}

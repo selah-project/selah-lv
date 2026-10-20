@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 46:12",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veslaupījums",
+      "rationale": "עלה burtiski 'kas kāpj augšup'; latviski pieņemtais upura termins."
+    },
+    {
+      "kind": "elision",
+      "subject": "שלמים",
+      "rationale": "Sakne שלם 'vesels\/mites'; transliterēts 'šelamim', lai nesajauktu ar 'mieru' kā vienu nozīmi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדבה atkārtojums",
+      "rationale": "Vārds 'brīvprātīga dāvana' atkārtojas divreiz vienā teikumā — uzsver brīvprātību; saglabāts."
+    }
+  ],
+  "translation": "Un, kad vadonis upurēs brīvprātīgu dāvanu — veslaupījumu vai šelamim upurus — kā brīvprātīgu dāvanu Jahvem, tad viņam tiks atvērti ⟨את⟩ vārti, kas vērsti uz austrumiem; un viņš upurēs ⟨את⟩ savu veslaupījumu un ⟨את⟩ savus šelamim, kā tas tiek darīts šabata dienā; un viņš izies un aizvērs ⟨את⟩ vārtus pēc savas iziešanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/46\/9-12.1792525860455.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Un, kad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "upurēs"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "vadonis"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "brīvprātīgu dāvanu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "veslaupījumu"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim upurus"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "brīvprātīgu dāvanu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "un tiks atvērti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārti"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vārti"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "kas vērsti"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "uz austrumiem"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un upurēs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu veslaupījumu"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "savu veslaupījumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savus šelamim"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "savus šelamim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tiek darīts"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un viņš izies"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "un aizvērs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārtus"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vārtus"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "savas iziešanas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:51:00.456977419Z",
+  "model": "glm-5.3"
+}

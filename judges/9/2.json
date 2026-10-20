@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 9:2",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עצמכם ובשרכם אני",
+      "rationale": "Ebreju idiomā 'es esmu jūsu kauls un jūsu miesa' — radniecības apliecinājums (sal. 2. Mozus 2:11 txt: 1. Mozus 29:14), atveidots burtiski ar skaidrojumu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨lūdzams⟩",
+      "rationale": "Partikula נא pie pavēles mazliet mīkstina uzaicinājumu; latviski pievienots 'lūdzams'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלי שכם",
+      "rationale": "'Šehemas pavēlnieki\/kungi' (בעלי) pret 'Šehemas vīri' (KJV\/JPS no יושבי\/אנשי lasījuma) — izvēlēts burtiskais בעלי."
+    },
+    {
+      "kind": "invitation",
+      "subject": "uz Šehemas pavēlniekiem",
+      "rationale": "Avimeleha runa uzaicina adresātus ar pavēli 'Runājiet' un jautājumu 'kas jums ir labāk'."
+    }
+  ],
+  "translation": "Runājiet ⟨lūdzams⟩ visiem Šehemas pavēlnieku ausīs: kas jums ir labāk — lai pār jums valda septiņdesmit vīri, visi Jerubbaala dēli, vai lai pār jums valda viens vienīgs vīrs? Un atcerieties, ka es esmu ⟨jūsu⟩ kauls no jūsu kauliem un jūsu pašu miesa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f5ab2367a6ba926f1a0838091a51dbf5b92c0a432761a34bcc1e87dc7e4acac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/2-3.1792532579136.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Runājiet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨lūdzams⟩"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausīs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "pavēlnieku"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šehemas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labāk"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "valda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pār jums"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septiņdesmit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "משל",
+      "gloss": "valda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pār jums"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens vienīgs"
+    },
+    {
+      "surface": "וזכרתם",
+      "gloss": "atcerieties"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עצמכם",
+      "gloss": "kauls no jūsu kauliem"
+    },
+    {
+      "surface": "ובשרכם",
+      "gloss": "jūsu pašu miesa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es esmu ⟨jūsu⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:59.137328Z",
+  "model": "glm-5.3"
+}

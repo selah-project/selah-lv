@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע \/ מות תמות",
+      "rationale": "Infinitivus absolutus atkārtojums — 'zinādams zināsi, mirsi noteikti mirsi'; latviski dots ar apstiprinājuma aplokšņu vienumu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמך יהיה בראשך",
+      "rationale": "Burtiski 'tavi asinis uz tavas galvas' — atbildība par paša nāvi; saglabāts burtiski, jo latviski saprotams tēls."
+    },
+    {
+      "kind": "you",
+      "subject": "Šimei",
+      "rationale": "Ķēniņa Šelomo tieša runa adresātam Šimei — nāves sods par robežas pārkāpšanu."
+    }
+  ],
+  "translation": "Un notiks: tanī dienā, kad tu iziesi un pāriesi ⟨את⟩ Kidronas strautu, tad zini droši: tu noteikti mirsi — tavi asinis būs uz tavas galvas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2053a203f57817654ee25c73335ce21bfead64a04f546083d70d2e92c82bd3c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/37-40.1792520395458.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kad tu iziesi"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "un pāriesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kidronas strautu"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "strautu"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zinādams"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "zināsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirsi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "noteikti mirsi"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "tavi asinis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "uz tavas galvas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:55.459408263Z",
+  "model": "glm-5.3"
+}

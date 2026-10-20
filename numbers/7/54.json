@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "piegāja",
+      "rationale": "Ebreju tekstā nav darbības vārda; {נשיא} stāv teikuma sākumā kā paziņojums, darbību piegādā konteksts (sal. 7:12)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "astotajā dienā",
+      "rationale": "Upurēšanu dienu uzskaitījums — astotā diena no altāra iesvētīšanas"
+    }
+  ],
+  "translation": "Astotajā dienā ⟨piegāja⟩ audzis Menašes dēliem, Gamliēls, Pedacsura dēls.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3f85e0feb620e03672c711bbc8012232a2301aacf917924089ca1831719628ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/54-55.1792532488795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "astotajā"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "audzis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašes"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliēls"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Pedacura"
+    },
+    {
+      "surface": "צור",
+      "gloss": "⟨Pedacura⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:28.796206814Z",
+  "model": "glm-5.3"
+}

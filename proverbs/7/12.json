@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פעם...פעם",
+      "rationale": "Atkārtots vārds 'reizēm... reizēm' veido ebreju ritmu, kas latviski saglabāts ar atkārtojumu."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "Ebreju valodā darbības vārda форма תארב jau nes subjektu; latviski pievienota vietniekvārds 'viņa' teikuma skaidrībai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "slēpjas uz ceļa",
+      "rationale": "אָרַב nozīmē 'lambēt, uzglūnēt' — attēlots kā plēsīgs dzīvnieks, kas gaida upuri."
+    }
+  ],
+  "translation": "Reizēm ārā, reizēm plateļos, un pie katra stūra viņa slēpjas uz ceļa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "58f5ddb9636580d20eb5f707c56003e9d391b766b3ee5034204d96a03f37c405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/7\/12-12.1792532838312.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "reizēm"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "reizēm"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "plateļos"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "stūra"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "viņa slēpjas uz ceļa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:18.313342063Z",
+  "model": "glm-5.3"
+}

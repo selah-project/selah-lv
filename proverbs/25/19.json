@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רעה",
+      "rationale": "'lauzums' — Tanahā tikai šeit; 'izkalta zobs' burtiski ' zobu lauze'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bēdu",
+      "rationale": "צרה burtiski 'šaustība\/saspīlējums' — ciešanu diena"
+    }
+  ],
+  "translation": "Izkalta zobs un izmežģīta kāja — ⟨ir⟩ paļāvība uz nodevēju bēdu dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/25\/17-20.1792528879939.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "zobs"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "izkalta"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "un kāja"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "izmežģīta"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "paļāvība"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "uz nodevēju"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bēdu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:19.940800367Z",
+  "model": "glm-5.3"
+}

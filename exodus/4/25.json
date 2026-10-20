@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חתן דמים",
+      "rationale": "'Asiņu līgavainis' pret 'asiņu radinieks' — vai Cipora runā ar Moši, vai ar dēlu; nav skaidrs, kādas kājas tiek aizskartas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "Burtiski 'ciets akmens \/ krama nazis'; atstāts 'krams', saglabājot materiālu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Latviešu valodai vajadzīgs paskaidrojošs vietniekvārds — ebreju tekstā tieši netiek teikts, kas tiek pieskarts."
+    }
+  ],
+  "translation": "Un Cipora paņēma kramu un nogrieza ⟨את⟩ priekādi sava dēla, un pieskāra ⟨to⟩ viņa kājām, un sacīja: Jo asiņu līgavainis tu man esi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/4\/25-28.1792512731410.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Un paņēma"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kramu"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "un nogrieza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priekādi"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "priekādi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sava dēla"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "un pieskāra"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "viņa kājām"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "līgavainis"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "asiņu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T16:12:11.411181803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨savas⟩",
+      "rationale": "Hebrajiešu priedēklis ל- pie כפיך netiek tulkots; pronoms pievienots latviešu skaidrībai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sitis plaukstas",
+      "rationale": "תקעת כפיך — sitiena rokas plaukstā: ķīlas apstiprināšanas žests, tulkots burtiski"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mans dēls",
+      "rationale": "Tēvs uzrunā dēlu — mācības uzruna, kas lasītāju izsauc klausīties"
+    }
+  ],
+  "translation": "Mans dēls, ja tu esi ķīlājis par savu draugu, ja tu esi sitis ⟨savas⟩ plaukstas svešinim,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "919b228c06ee50d05ed6d41fc55a6edbf23eff6c0d4d90ade1b7eda4afa14a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/6\/1-4.1792528590444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "esi ķīlājis"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "par savu draugu"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "esi sitis"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "svešinim"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "⟨savas⟩ plaukstas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:30.445394732Z",
+  "model": "glm-5.3"
+}

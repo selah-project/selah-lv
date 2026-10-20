@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 9:1",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Ebreju teksts saka tikai 'un zeme uz viņiem'; latviešu valodai vajadzīgs prievārds."
+    },
+    {
+      "kind": "measurement",
+      "subject": "divdesmit ceturto dienu",
+      "rationale": "Pants sākas ar precīzu datumu — mēneša dienas skaitīšanu."
+    }
+  ],
+  "translation": "Un šī mēneša divdesmit ceturto dienu Jisraēla dēli sapulcējās gavēnī un maisaudekļos un ⟨ar⟩ zemi uz sevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/9\/1-4.1792530804106.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "...dienā"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "un četras"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "sapulcējās"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "gavēnī"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "un maisaudekļos"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "un zemi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "uz sevi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:13:24.107438489Z",
+  "model": "glm-5.3"
+}

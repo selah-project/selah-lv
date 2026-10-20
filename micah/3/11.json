@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 3:11",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zīlē",
+      "rationale": "קסם nozīmē zīlēt, pareģot pa zīmēm; 'pravietot' būtu pārāk maigi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nē⟩",
+      "rationale": "Latviešu valodai nepieciešams nolieguma palīgvārds; ebrejiski לא viens pats"
+    }
+  ],
+  "translation": "Tās galvas par kukuli tiesā, un tās priesteri par maksu māca, un tās pravieši par sudrabu zīlē, un uz Jahvi viņi atspiežas, sacīdami: Vai tad Jahve nav mūsu vidū? Nāks ļaunums pār mums ⟨nē⟩!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/3\/9-12.1792526419008.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשיה",
+      "gloss": "Tās galvas"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "par kukuli"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "וכהניה",
+      "gloss": "un tās priesteri"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "par maksu"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "māca"
+    },
+    {
+      "surface": "ונביאיה",
+      "gloss": "un tās pravieši"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "par sudrabu"
+    },
+    {
+      "surface": "יקסמו",
+      "gloss": "zīlē"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "viņi atspiežas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Vai tad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "mūsu vidū"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nē⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "Nāks"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pār mums"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:19.016837794Z",
+  "model": "glm-5.3"
+}

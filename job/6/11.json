@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir elpojoša būtība, rīkle\/elpa\/dzīvības spēks — 'dvēsele' būtu pārāk platonisks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה...מה",
+      "rationale": "Atkārtots 'kas?' paralelismā divos panti pusgados — retorisks jautājums, kas neprasa atbildi."
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovs runa",
+      "rationale": "Jautājumi vērsti uz Dievu un draugiem — Ijova izmisuma balss."
+    }
+  ],
+  "translation": "Kas ir mans spēks, ka es cerētu? Un kas ir mans gals, ka es pagarinātu savu dzīvību?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "87f90405aac3cf42c765d5592e3d1cdcfcec497555203700886ac54881b87fda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/6\/10-11.1792532853517.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ir mans spēks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "es cerētu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Un kas"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ir mans gals"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "es pagarinātu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu dzīvību"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:33.518047971Z",
+  "model": "glm-5.3"
+}

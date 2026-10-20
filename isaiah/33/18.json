@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איה איה איה",
+      "rationale": "trīskāršs 'kur?' atbalss — apspiedēju ierēdņu pazaudēšanās; latviski saglabāts ar atkārtotu 'kur'"
+    },
+    {
+      "kind": "crux",
+      "subject": "סופר",
+      "rationale": "dos ķēniņa nodokļu ierēdnis: 'rakstītājs' \/ 'skaitītājs'; otrais סופר šeit saistīts ar torņu skaitīšanu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodai nav kopulas jautājuma formā; latviešu 'kur ir?' pieprasa to"
+    }
+  ],
+  "translation": "Tava sirds pārdomās bailes: kur ⟨ir⟩ rakstītājs? kur svērējs? kur ⟨ir⟩ tas, kas skaita ⟨את⟩ torņus?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/33\/17-20.1792522392480.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "tava sirds"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "pārdomās"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "bailes"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "rakstītājs"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "svērējs"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "tas, kas skaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torņus"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "torņus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:12.481448122Z",
+  "model": "glm-5.3"
+}

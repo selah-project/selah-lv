@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוחות burtiski 'vēji \/ ruah' nozīmē debespuses; saglabāts ruah, lai viens vārds nešķeltos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "Burtiski 'jūras virzienā' — rietumi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "četrām pusēm",
+      "rationale": "Pants izvieto sargus pa četrām debespusēm."
+    }
+  ],
+  "translation": "Uz četrām ruah-pusēm stāvēja sargi: austrumos, rietumos, ziemeļos un dienvidos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/9\/21-24.1792531294949.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "Uz četrām"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruah-pusēm"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "stāvēja"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "austrumos"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "rietumos"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ziemeļos"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "un dienvidos"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:34.950404637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "šaloms nav tikai 'miers' — veselums, labklājība, pilnība; saglabāts ebreju vārds"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקתך ir cedek — taisnība\/labvēlība; viena sakne, viens vārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לוא הקשבת",
+      "rationale": "Vēlējuma daļa 'Ak, ja' — noslēgta necaurspīdīgā loģika: nebijušais kā noteikums; latviski jāatzīmē ar izsaukumu"
+    }
+  ],
+  "translation": "Ak, ja tu būtu klausījis manās pavēlēs! Tad tavs šaloms būtu kā upe un tava cedek kā jūras viļņi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "729f08c787722c99a8eca2eb0e87ba705a754e7fd2755fa9ed184c382761d74d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/48\/17-20.1792522800615.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Ak, ja"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "tu būtu klausījis"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "manās pavēlēs"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tad būtu"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "kā upe"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "tavs šaloms"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "tava cedek"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "kā viļņi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:00.616713741Z",
+  "model": "glm-5.3"
+}

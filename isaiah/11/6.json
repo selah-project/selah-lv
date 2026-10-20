@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būs⟩",
+      "rationale": "Darbības vārds pirmajā pusei (‘gulēs’) aizstāj otrās puses teikuma predikātu, latviski jāpievieno"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dzīvos kopā",
+      "rationale": "גר nozīmē ‘mitināties kā viesis’; ‘dzīvos kā viesis’ — viesības tēls"
+    }
+  ],
+  "translation": "Un vilks dzīvos kopā ar jēru, un leopards ar kazu mazuli gulēs; un teļš, un jaunais lauvēns, un nobarots teļš ⟨būs⟩ kopā, un mazs zēns tos vadīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/11\/5-8.1792522065130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "un dzīvos kopā"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "vilks"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "un leopards"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kazu mazuli"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "gulēs"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "un teļš"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "un jaunais lauvēns"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "un nobarots teļš"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "un zēns"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mazs"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "vadīs"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tos"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:45.131585802Z",
+  "model": "glm-5.3"
+}

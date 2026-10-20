@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag ⟨bija⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "468",
+      "rationale": "Ciparots uzskaitījums — Jerušalaimas iedzīvotāju skaits."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vīri spēka",
+      "rationale": "אנשי חיל burtiski 'spēka vīri' — varētu būt arī 'drošsirdīgi karavīri'."
+    }
+  ],
+  "translation": "Visi Peresa dēli, kas dzīvoja Jerušalaimā, ⟨bija⟩ četri simti sešdesmit astoņi vīri spēka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/11\/5-8.1792530835440.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peresa"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kas dzīvoja"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sešdesmit"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "un astoņi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "spēka"
+    }
+  ],
+  "timestamp": "2026-10-20T21:13:55.440925010Z",
+  "model": "glm-5.3"
+}

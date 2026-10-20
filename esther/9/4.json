@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumam nav darbības vārda — “liels Mordehaja” —; latviešu kopula pievienota un iekavota"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך וגדול",
+      "gloss": "אידיomas “gāja un kļuva lielāks” — augošs atkārtojums, divi vārdi vienai kustībai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול ... וגדול",
+      "gloss": "Atkārtots “liels” verses sākumā un galā — ietvars par Mordehaja augšanu"
+    }
+  ],
+  "translation": "jo liels ⟨bija⟩ Mordehaja ķēniņa namā, un viņa slava gāja caur visām provincēm, jo šis cilvēks Mordehaja gāja un auga aizvien lielāks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f384cd2dd590fe22fe16445c32c63a248d43c7da2115cd197f748073990a5650",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/1-4.1792530150249.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liels"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaja"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "un viņa slava"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "caur visām"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provincēm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "šis cilvēks"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaja"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "un auga aizvien lielāks"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:30.250711411Z",
+  "model": "glm-5.3"
+}

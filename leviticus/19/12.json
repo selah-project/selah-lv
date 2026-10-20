@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Saiklis 'es ⟨esmu⟩ Jahve' ebreju tekstā nav; pievienots un iekavots"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nepamāro",
+      "rationale": "חלל burtiski 'izurbt, ievainot' — par Vārdu: apgānīt, pamārot; latviski 'nepamāro' tuvākais viens vārds"
+    }
+  ],
+  "translation": "Un nezvēriet Manā vārdā uz meliem, un nepamāro sava Elohim ⟨את⟩ vārdu; es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/9-12.1792514929097.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "zvēriet"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Manā vārdā"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "uz meliem"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "un nepamāro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava Elohim vārdu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sava Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:49.103962634Z",
+  "model": "glm-5.3"
+}

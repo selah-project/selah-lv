@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "labklājība",
+      "rationale": "שלום ir veselums un svētība plašākā nozīmē nekā vienkāršs sveiciens"
+    }
+  ],
+  "translation": "Un viņi tev vaicās pēc labklājības un dos tev divas maizes, un tu saņemsi no viņu rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/10\/1-4.1792518998633.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "un viņi vaicās"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pēc labklājības"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "divas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizes"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "un tu saņemsi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "no viņu rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:38.634863207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 1:1",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Ebreju valodā teikumā nav saistītā vārda; latviešu valodai vajag 'ka'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēla dēli vaicāja Jahvem",
+      "rationale": "Jautājums adresēts Jahvem; indirekti arī Israēla tautai."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביהוה",
+      "ratioale": "Prievārds ב vaicāšanas izteiksmē — 'vaicāja pie Jahves' — atstāts kā vienkāršs datīvs."
+    },
+    {
+      "kind": "invitation",
+      "subject": "מי יעלה לנו",
+      "rationale": "Jautājums uzaicina atbildi — kas uzkāps?"
+    }
+  ],
+  "translation": "Un notika pēc Jehošua nāves, ka Jisraēla dēli vaicāja Jahvem, sacīdami: kas mums uzkāps pret kenaaniešiem sākumā, lai cīnītos ar viņiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/1-4.1792518147408.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāves"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "vaicāja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uzkāps"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešiem"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "lai cīnītos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ar viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:27.409039555Z",
+  "model": "glm-5.3"
+}

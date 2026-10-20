@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tukšībā",
+      "rationale": "hevel — dva, izgarojums, tukšība; 'vanity' tradīcija sašaurina vārda bildi"
+    },
+    {
+      "kind": "crux",
+      "subject": "bailēs",
+      "rationale": "bahalah: 'panikā\/pēkšņās šausmās' vs 'bailēs'; sakne no bahal — trauksmaina piepešana"
+    }
+  ],
+  "translation": "Un Viņš iznīcināja tukšībā viņu dienas un viņu gadus bailēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/33-36.1792527893612.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Un Viņš iznīcināja"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "tukšībā"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "viņu dienas"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "un viņu gadi"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "bailēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:53.613001637Z",
+  "model": "glm-5.3"
+}

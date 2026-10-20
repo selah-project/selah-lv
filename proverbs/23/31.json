@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Piedēklis pievienots latviešu skaidrībai, ebreju valodā nav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tek gludi",
+      "rationale": "Burtiski יתהלך במישרים 'staigā pa taisnajiem ceļiem' — gludi tek; tēls daļēji zudis"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Neraugi",
+      "rationale": "Aizlieguma imperatīvs vērsts pie lasītāja\/dēla"
+    },
+    {
+      "kind": "crux",
+      "subject": "bכיס",
+      "rationale": "כיס var nozīmēt 'kauss' vai 'naudas maks' — lielākā daļa tulko 'kauss'"
+    }
+  ],
+  "translation": "Neraugi uz vīnu, kad tas sarkst, kad tas dod ⟨savu⟩ krāsu kausā, kad tas tek gludi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/29-32.1792528878564.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "raugi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vīnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "sarkst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "kausā"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "⟨savu⟩ krāsu"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "tek gludi"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "gludi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:18.566121201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā izteiksme nav pilna, latviešu valodai vajadzīgs saiklis"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim dēli",
+      "rationale": "בני האלהים: dievišķie būtnes, Setas pēcnācēji vai valdnieki — slavenais strīds"
+    }
+  ],
+  "translation": "tad Elohim dēli redzēja ⟨את⟩ cilvēku meitas, ka tās ⟨ir⟩ skaistas, un viņi ņēma sev sievas no visām, kuras izvēlējās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f5d05b1df75c4da68acb387328f8973e4461c646bc8fa20ef3651a80ebcbaf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/6\/1-4.1792511576602.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "redzēja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cilvēku meitas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "skaistas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tās"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "un ņēma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "izvēlējās"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:56.603315096Z",
+  "model": "glm-5.3"
+}

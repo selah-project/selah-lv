@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nesprāgstiet pēc sirds",
+      "rationale": "'אל תשיתו לב' burtiski 'nesakārtojiet sirdi' — latviski 'nesprāgstiet pēc' ar ⟨viņas⟩ vietniekvārdu"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהבלו",
+      "rationale": "'Kļūstiet velti \/ nesaņemiet velti cerību' — JPS 'nelieciet veltu cerību' pret KJV 'nekļūstiet velti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "'Spēks, bagātība' — šeit konteksts norāda uz mantu; vārda plašums saglabāts kā 'bagātība'"
+    }
+  ],
+  "translation": " Nepaļaujieties uz apspiešanu un laupīšanā neapslāpstiet velti; ja bagātība vairotos, nesprāgstiet pēc ⟨viņas⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/9-12.1792527746760.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "paļaujieties"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "uz apspiešanu"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "un laupīšanā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "apslāpstiet velti"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bagātība"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "vairotos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "sprāgstiet pēc"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:26.760817558Z",
+  "model": "glm-5.3"
+}

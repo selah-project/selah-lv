@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמש אמות קנים",
+      "rationale": "Burtiski 'piecas elkoņu niedres'; tradicionālie tulkojumi lasa 'pieci simti niedru' — teksts min tikai piecus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח šeit nozīmē 'puse\/virziens' (austrumu puse), nevis vējš vai gars."
+    }
+  ],
+  "translation": "Viņš mērīja austrumu pusi ar mērīšanas niedri: piecas elkoņu niedres — ar mērīšanas niedri — apkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/42\/13-16.1792525748753.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "Viņš mērīja"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "pusi"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "austrumu"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ar niedri"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mērīšanas"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "piecas"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "elkoņu"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "niedres"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ar niedri"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mērīšanas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:49:08.755494920Z",
+  "model": "glm-5.3"
+}

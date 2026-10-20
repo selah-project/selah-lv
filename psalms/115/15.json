@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Veidotājs",
+      "rationale": "עשה ir aktīvais darāmais 'dara\/taisa'; partitīrs 'Veidotājs' saglabā darbības vārda formu."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēla ļaudīm",
+      "rationale": "Uzruna 'svētīti jūs' turpšķ iepriekšējā panta adresātu."
+    }
+  ],
+  "translation": "Svētīti ⟨esat⟩ ⟨jūs⟩ no Jahves, debess un zemes Veidotāja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/115\/13-16.1792528223440.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Svētīti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨jūs⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "no Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Veidotāja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "un zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:23.440800977Z",
+  "model": "glm-5.3"
+}

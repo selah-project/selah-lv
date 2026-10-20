@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשך \/ תרבית",
+      "rationale": "Divi vārdi aizdevuma peļņai: 'augļi\/aizdevuma procenti' un 'pieaugums' — daži tulkojumi tos saplūdz vienā vārdā."
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "Pavēle vērsta tieši pie runātāja — Israēla brāļu kopienai."
+    }
+  ],
+  "translation": "Neņem no viņa ⟨את⟩ nedz augļus, nedz pieaugumu, un bīsties no sava Elohim, lai tavs brālis dzīvo kopā ar tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f11ce5fde975da8221eba0d8d4e40f5da85abc59521b54b320d5ecdcb0b055e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/36-36.1792532462936.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ņem"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "no viņa ⟨את⟩",
+      "marks": "augļus un pieaugumu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "augļus (aizdevuma)"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "nedz pieaugumu"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "un bīsties"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "no sava Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "lai dzīvo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavs brālis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kopā ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:02.936906685Z",
+  "model": "glm-5.3"
+}

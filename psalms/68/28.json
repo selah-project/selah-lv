@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רדם",
+      "rationale": "Particips 'valdīdams tos' pret iespējamo lietvārdu 'viņu valdnieks' (KJV, Geneva); YLT lasa 'to aizsardzība' no citas saknes."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רגמתם",
+      "rationale": "רגמה — akmeņu kaudze, pārnesti 'pūlis\/bariens'; vienīgā vieta Tanahā ar šo nozīmi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "צעיר",
+      "rationale": "'visjaunākais' (JPS) pret KJV 'mazais' — sakne nozīmē gan mazu, gan jaunu."
+    }
+  ],
+  "translation": "Tur Binjamins, visjaunākais, tos valda, Jehudas firstovi viņu pulks, Zevulona firstovi, Naftali firstovi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "715f12afc202f37cd2fa3b68af61e7e1d99c6499dfd7c35b8835f7c8715c8672",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/68\/28-28.1792532815664.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "בִּנְיָמִין",
+      "gloss": "Binjamins"
+    },
+    {
+      "surface": "צָעִיר",
+      "gloss": "visjaunākais"
+    },
+    {
+      "surface": "רֹדֵם",
+      "gloss": "tos valda"
+    },
+    {
+      "surface": "שָׂרֵי",
+      "gloss": "firstovi"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "רִגְמָתָם",
+      "gloss": "viņu pulks"
+    },
+    {
+      "surface": "שָׂרֵי",
+      "gloss": "firstovi"
+    },
+    {
+      "surface": "זְבֻלוּן",
+      "gloss": "Zevulona"
+    },
+    {
+      "surface": "שָׂרֵי",
+      "gloss": "firstovi"
+    },
+    {
+      "surface": "נַפְתָּלִי",
+      "gloss": "Naftali"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:55.664798144Z",
+  "model": "glm-5.3"
+}

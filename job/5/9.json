@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, kura ebreju tekstā nav"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מספר",
+      "rationale": "Ne-skaitāmības motīvs: brīnumi bez skaitīšanas robežas"
+    }
+  ],
+  "translation": "Kurš dara lielas lietas, un ⟨ir⟩ nav izpētes; brīnumi līdz bez skaita.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/5\/9-12.1792528983303.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dara"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lielas lietas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "izpētes"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "brīnumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaita"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:03.303870341Z",
+  "model": "glm-5.3"
+}

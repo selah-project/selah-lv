@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusmās",
+      "rationale": "באפך burtiski 'tavā degunā\/nāsī' — ebreju dusmu idiomātiskā vieta; latviskā norma prasa 'dusmās'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמעטני",
+      "rationale": "'samazināt mani' (מעט 'maz') pret KJV 'bring me to nothing' — jēga: 'nepadari mani par nieku'"
+    }
+  ],
+  "translation": "Pārmāci man, Jahve, bet tikai ar tiesu, ne savā dusmās, lai tu mani nesamazinātu līdz nekam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/10\/21-24.1792523423465.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "pārmāci man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bet tikai"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ar tiesu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "savā dusmās"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "tu mani samazinātu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:23.467138Z",
+  "model": "glm-5.3"
+}

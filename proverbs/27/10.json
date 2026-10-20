@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu, sava",
+      "rationale": "Latviešu piederības vietniekvārdi, kur ebreju suffikss jāparāda skaidri."
+    },
+    {
+      "kind": "crux",
+      "subject": "un drauga — sava tēva",
+      "rationale": "רעך ורע אביך: divi draugi (tavs un tēva draugs) pret vienu šķirtu salikteni; tulkoti kā 'tavs draugs un tava tēva draugs'."
+    }
+  ],
+  "translation": "Savu draugu un sava tēva draugu nepamet, un sava brāļa namā neej savas nelaimes dienā; labāks ir kaimiņš, kas tuvu, nekā brālis, kas tālu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/9-12.1792528900187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "savu draugu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "un draugu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "pamet"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un namā"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sava brāļa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "savas nelaimes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labāks"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kaimiņš"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tuvu"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "nekā brālis"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "tālu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:40.188489652Z",
+  "model": "glm-5.3"
+}

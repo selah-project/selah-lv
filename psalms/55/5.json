@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אימות מות",
+      "rationale": "briesmu\/māves atskaņa — 'eimot mavet' — nāves bailes, skaņu sakritība izzūd latviski."
+    }
+  ],
+  "translation": "Mana sirds virmo manī, un nāves bailes kritušas pār mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/5-8.1792527671829.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "virmo"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "un bailes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāves"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kritušas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pār mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:11.829629777Z",
+  "model": "glm-5.3"
+}

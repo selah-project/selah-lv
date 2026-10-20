@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 20:4",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savus",
+      "rationale": "latviešu valodai vajadzīgs piederības vietniekvārds, ebreju דבריו galotnē jau satur '-viņa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzīvos",
+      "rationale": "ישב burtiski 'apsēdīsies', t.i. apmetīsies un dzīvos"
+    }
+  ],
+  "translation": "Un viņš bēgs uz vienu no šīm pilsētām un nostāsies pilsētas vārtu priekšā un runās tās pilsētas vecajo ausīs ⟨את⟩ savus vārdus; un tie viņu ⟨את⟩ savāks pilsētā pie sevis un dos tam vietu, un viņš dzīvos ar viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/20\/1-4.1792518017468.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונס",
+      "gloss": "Un bēgs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "no pilsētām"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīm"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "un nostāsies"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un runās"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausīs"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vecajo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus vārdus"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "savus vārdus"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "un savāks"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "viņu ⟨את⟩",
+      "marks": "pilsētā"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "pie sevis"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ar viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:40:17.469464079Z",
+  "model": "glm-5.3"
+}

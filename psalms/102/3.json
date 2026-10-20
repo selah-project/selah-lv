@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "apslēpt vaigu",
+      "rationale": "'Paslēpt seju' — ebreju idiomā 'atteikties, novērsties'; latviski turēts tuvu burtiskajam."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Turpinājums tiešai vēršanās pie Jahves ar ceturtajās personas pavēlēm."
+    }
+  ],
+  "translation": "Neapslēp savu vaigu no manis manas posta dienā; noliec pie manis savu ausi; dienā, kad es saukšu, steidzies, atbildi man!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/1-4.1792528130719.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "apslēp"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "savu vaigu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "צר",
+      "gloss": "posta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manas"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "noliec"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "savu ausi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kad es saukšu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "steidzies"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "atbildi man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:50.720682030Z",
+  "model": "glm-5.3"
+}

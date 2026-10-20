@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Hebrejs sakārta bez darbības vārda 'ir'; latviski vajadzīgs saiklis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה šeit ir miltu upuris; saglabāts transkribēts kā 'minha' pēc D2."
+    }
+  ],
+  "translation": "Un šī ⟨ir⟩ minhas Tora: Ahrona dēli to pienesis Jahves priekšā, altāra priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09948912d678dc7719a3898ae0514df3c1a3028af954ab4c04eb7c613fe11924",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/6\/5-8.1792513679409.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Un šī"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחha",
+      "gloss": "minhas"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "pienesis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to (minhu)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "priekšas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altāra"
+    }
+  ],
+  "timestamp": "2026-10-20T16:27:59.410776625Z",
+  "model": "glm-5.3"
+}

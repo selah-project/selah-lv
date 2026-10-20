@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה אח מאחד מאלה",
+      "rationale": "Sarežģīts fragments: 'un dara brālim vienu no šīm' — tulki šķeļas starp 'izdara kādu no šīm lietām' un 'brālim (tuviniekam) dara vienu no šīm'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ja",
+      "rationale": "Pieņēmuma teikuma ievadei latviešu valodā pievienots ⟨ja⟩; ebrejiski ir tikai veids 'un viņam piedzimst'."
+    }
+  ],
+  "translation": "Un ja viņam piedzimst dēls — laupītājs, asins izlejējs, un tas izdara brālim vienu no šīm lietām —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/18\/9-12.1792524972129.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "un ja viņam piedzimst"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "laupītājs"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "izlejējs"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asiņu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un tas izdara"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brālim"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "no šīm lietām"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:12.130214966Z",
+  "model": "glm-5.3"
+}

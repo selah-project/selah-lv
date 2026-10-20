@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Saiklis, kura ebreju valodā nav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש tuvāk 'elpa\/dzīvība' nekā 'dvēsele'; atstāts kā nefes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרת \/ נכבדת",
+      "rationale": "Divi 'smaguma\/dārguma' sakņu darinājumi pēc kārtas — paralelisms"
+    }
+  ],
+  "translation": "Tāpēc ka tu ⟨esi⟩ dārgs manās acīs, godāts, un es tevi mīlēju, es došu cilvēkus tevis vietā un tautas tavas nefes vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/1-4.1792522702668.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "tu ⟨esi⟩ dārgs"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "manās acīs"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "godāts"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "es tevi mīlēju"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "un es došu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēkus"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "tevis vietā"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "un tautas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavas nefes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:22.669841401Z",
+  "model": "glm-5.3"
+}

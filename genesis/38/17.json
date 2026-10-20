@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Ivritā datīva objekts netiek izteikts; latviešu valodai vajadzīgs 'man'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Ivrita עד שלחך ir bez objekta; pievienots 'to', lai skaidri būtu, kas jānosūta."
+    }
+  ],
+  "translation": "Un viņš sacīja: Es sūtīšu kazu jēru no ganāmpulka. Un viņa sacīja: Vai tu man dosi ķīlu, līdz tu ⟨to⟩ sūtīsi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/38\/17-20.1792512395427.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sūtīšu"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kazu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ganāmpulka"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu dosi"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "ķīlu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "tu sūtīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:35.428509448Z",
+  "model": "glm-5.3"
+}

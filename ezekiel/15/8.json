@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעלו מעל",
+      "rationale": "Infinitive absolute: verb plus cognate noun — 'izdarīja nodevību nodevību' — intensification lost in Latvian"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נאם",
+      "rationale": "Oracle formula 'נאם יהוה' rendered as 'Adonai Jahve vārds' per fixed discipline"
+    }
+  ],
+  "translation": "Un Es došu ⟨את⟩ zemi par tuksnesi, tāpēc ka tie izdarīja nodevību — Adonai Jahve vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/15\/5-8.1792525043365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Un Es došu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "par tuksnesi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "tie izdarīja nodevību"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nodevību"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:37:23.366959874Z",
+  "model": "glm-5.3"
+}

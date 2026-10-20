@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ārzemnieks",
+      "rationale": "זָר — 'svētumam svešs, ārpusē stāvošs'; ne vien 'cittautiet'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כמהו",
+      "rationale": "Burtiski 'kā tas (pats)' — salikuma atveidojums"
+    }
+  ],
+  "translation": "Cilvēks, kas sajauks tādu kā tas, un kas dos no tā uz ārzemnieku, — tas tiks nogriezts no savas tautas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ed5eccd85c34d0c3e83bb797457f782b287bf4dc81b900a1c810b78c1d77b78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/30\/33-36.1792513254229.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "sajauks"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tādu kā tas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ārzemnieku"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "tiks nogriezts"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "no savas tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:54.230119769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vecs",
+      "rationale": "Ebreju valoda saka tikai 'sešpadsmit gadu dēls'; latviešu valodai vajag 'vecs'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešpadsmit gadu",
+      "rationale": "Ķēniņa vecums pie troņa kāpšanas"
+    }
+  ],
+  "translation": "Un paņēma viss Jūdas ļaudis ⟨את⟩ Uziju — viņš bija sešpadsmit gadus vecs — un iecēla viņu par ķēniņu viņa tēva Amacijas vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/26\/1-4.1792532244713.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Un paņēma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziju"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzija"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seši"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "un iecēla par ķēniņu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēva"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacijas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:37:24.713772954Z",
+  "model": "glm-5.3"
+}

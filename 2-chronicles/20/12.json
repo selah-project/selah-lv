@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 20:12",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "stāvēt",
+      "rationale": "Latviešu valodai vajag darbības vārdu 'nav spēka ⟨stāvēt⟩'; ebreju tekstā tikai 'nav mūsos spēka priekšā'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "'uz Tevi mūsu acis' — saiklis ⟨ir⟩ pievienots latviešu valodas dēļ."
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Elohim",
+      "rationale": "Viss pantas tieša uzruna Elohim — beigu punkts Jehošafata lūgšanai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשפט\/שפוט",
+      "rationale": "'tiesāsi viņus' (20:12) atbalso 'tiesas spriedumu' (20:9) — ta pati sakne šapat."
+    }
+  ],
+  "translation": "Mūsu Elohim, vai Tu ne tiesāsi viņus? Jo mūsos nav spēka ⟨stāvēt⟩ šī lielā pūļa priekšā, kas nāk pār mums, un mēs nezinām, ko darīt, jo uz Tevi ⟨ir⟩ mūsu acis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5a671b16190bffce966480100944326b6151cf99b3028856cb8e3a6594ae7d8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/20\/9-12.1792532074930.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהינו",
+      "gloss": "Mūsu Elohim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "Tu tiesāsi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mūsos"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "pūļa"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kas nāk"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pār mums"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "un mēs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "zinām"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uz Tevi"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mūsu acis"
+    }
+  ],
+  "timestamp": "2026-10-20T21:34:34.931463395Z",
+  "model": "glm-5.3"
+}

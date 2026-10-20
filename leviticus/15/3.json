@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רר",
+      "rationale": "Darbības vārds רור parādās tikai šeit Tanahā — 'slavēt\/ar siekalām tecēt', šeit par miesas tecējumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "החתים",
+      "rationale": "'Aizvērta\/nosegta' — vai plūsma apturēta (KJV 'stopped') vai miesa noslēgta attiecībā pret izteci."
+    }
+  ],
+  "translation": "Un šī ⟨ir⟩ viņa nešķīstība viņa iztecē: ja viņa miesa tek ar savu ⟨את⟩ izteci vai viņa miesa ir aizvērusies no viņa izteces — viņa nešķīstība ⟨ir⟩ tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "897a65eac56eea85198141e63bf391cd6a49a45010dd35e6b5e997722671caf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/15\/2-5.1792514817481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Un šī"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "viņa nešķīstība"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "viņa iztecē"
+    },
+    {
+      "surface": "רר",
+      "gloss": "tek"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "viņa miesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu izteci"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "izteci"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "aizvērusies"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "viņa miesa"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "no viņa izteces"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "viņa nešķīstība"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:57.485155390Z",
+  "model": "glm-5.3"
+}

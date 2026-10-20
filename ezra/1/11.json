@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "5400",
+      "rationale": "Grand total of the inventory; the itemized verses 9–10 sum to only 2499."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלה\/העלות",
+      "rationale": "Same verb 'ālah used of vessels and exiles 'going up' — return as ascent, partly lost in Latvian 'uzcēla\/ieiešana'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Hebrew העלה lacks an explicit object marker for the vessels; pronoun supplied."
+    },
+    {
+      "kind": "crux",
+      "subject": "העלות הגולה",
+      "rationale": "'When the exiles went up' vs 'the going-up of the exiles'; kept as noun phrase."
+    }
+  ],
+  "translation": "Visi zelta un sudraba trauki — pieci tūkstoši četri simti. Viss ⟨to⟩ uzcēla Šešbacars, kopā ar izceļotāju ieiešanu no Babilonas uz Jerušalaimu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/1\/9-11.1792530447044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "trauki"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "un sudraba"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "četri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Šešbacars"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "ieiešanu"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izceļotāju"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "no Babilonas"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "uz Jerušalaimu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:07:27.045617963Z",
+  "model": "glm-5.3"
+}

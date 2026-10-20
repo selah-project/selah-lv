@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערב",
+      "rationale": "'Ķīlādot, būt par galvojumu' — drošības saistības tēls, ebreju juridiskais terminaoss"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "lūgums: Jahve lai kļūst par galvinieku savam kalpam"
+    }
+  ],
+  "translation": "Esi ķīla ⟨ par ⟩ tavu kalpu labā; lai neapspiež ⟨ mani ⟩ lepnīgie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/121-124.1792528332940.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Esi ķīla ⟨par⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavu kalpu"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "labā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "apspiež ⟨mani⟩"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "lepnīgie"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:12.941501124Z",
+  "model": "glm-5.3"
+}

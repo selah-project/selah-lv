@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 19:22",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svaidītais",
+      "rationale": "משיח šeit par ķēniņu: svaidītais, nevis mašiahs kā tituls"
+    },
+    {
+      "kind": "idiom",
+      "subject": "התחת זאת",
+      "rationale": "Burtiski 'zem šī' — 'par to'"
+    }
+  ],
+  "translation": "Un Abišajs, Tserujas dēls, atbildēja un sacīja: Vai par to Šimejs netiks nogalināts, Viņš taču nolādēja ⟨את⟩ Jahves svaidīto?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56483ec93623095d4788b3315167d2165a1cbc5bcc96a0fba010b716492ceb11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/21-24.1792520124650.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "un atbildēja"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abišajs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tiks nogalināts"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimejs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Viņš taču"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "nolādēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves svaidīto"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "svaidīto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:24.651182047Z",
+  "model": "glm-5.3"
+}

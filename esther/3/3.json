@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju piedevu teikumā nav darbības vārda 'būt'."
+    },
+    {
+      "kind": "you",
+      "subject": "Mordohajam",
+      "rationale": "Tiešs jautājums Mordohajam no ķēniņa kalpiem."
+    }
+  ],
+  "translation": "Un ķēniņa kalpi, kas ⟨bija⟩ ķēniņa vārtos, sacīja Mordohajam: kāpēc tu pārkāpj ⟨את⟩ ķēniņa pavēli?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09d1d5c48ccfff2e2b0f0808e62dc576cde0300eeddb576f305cc864bd5b4a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/3\/1-4.1792530086330.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordohajam"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "pārkāpj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņa pavēli"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "pavēli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:26.331145011Z",
+  "model": "glm-5.3"
+}

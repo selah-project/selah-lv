@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 5:26",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום — šaloms: veselums, labklājība, miers; viens vārds, atstāts pēc skanējuma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Šelomo\/šalom",
+      "rationale": "Vārds Šelomo un šaloms no vienas saknes — 'ķēniņš Miers un miers starp viņiem'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "noslēdza derību",
+      "rationale": "Burtiski 'nocirta derību' (כרת ברית) — derības ceremonija ar dzīvnieku sašķelšanu."
+    }
+  ],
+  "translation": "Un Jahve deva Šelomo gudrību, kā viņam bija runājis; un ⟨bija⟩ šaloms starp Hīramu un starp Šelomo, un tie abi noslēdza derību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7e039adb22d3db5d4e3eae9ecd00326a75e1522c8af2778ba74f93a58dddee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/25-28.1792520459553.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Un Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deva"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bija runājis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un ⟨bija⟩"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "šaloms"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hīramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "un noslēdza"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tie abi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:20:59.553827063Z",
+  "model": "glm-5.3"
+}

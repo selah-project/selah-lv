@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa \/ dzīvības spēks', nevis imateriāla dvēsele."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משיבת נפש",
+      "rationale": "'Atgriež dvēseli' — שוב nozīmē gan 'atgriezt', gan 'atjaunot'; abas nozīmes dzīvo kopā ebreju vārdā."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav kopulas; latviešu valodā tā pievienota."
+    }
+  ],
+  "translation": "Jahves Tora ir pilnīga, atgriež dvēseli; Jahves liecība ir uzticama, padara gudru naivo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/19\/5-8.1792527228454.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ir pilnīga"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "atgriež"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseli"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "liecība"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ir uzticama"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "padara gudru"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "naivo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:48.461586975Z",
+  "model": "glm-5.3"
+}

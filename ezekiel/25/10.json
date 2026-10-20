@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 25:10",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vairs",
+      "rationale": "Ebreju tekstā tikai לא תזכר 'netiks pieminēti'; 'vairs' pievienots skaidrībai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Austrumu bērni",
+      "rationale": "בני קדם burtiski 'Austruma dēli' — klejotāju ciltis no tuksneša austrumiem"
+    }
+  ],
+  "translation": "Austrumu bērniem pret Amona bērniem, un es to došu par īpašumu, lai Amona bērni vairs netiktu pieminēti starp tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/25\/9-12.1792525224055.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Austrumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "un es to došu"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "par īpašumu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "tiktu pieminēti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "starp tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:24.056303441Z",
+  "model": "glm-5.3"
+}

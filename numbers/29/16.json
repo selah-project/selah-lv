@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grēkupurs",
+      "rationale": "חטאת ir arī 'grēks' un tā upurs — viens vārds divām lietām; latviski jāizvēlas 'grēkupurs'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienas kārtība",
+      "rationale": "Pants nosaka papildu upurus bez ikdienas pastāvīgā degupura."
+    }
+  ],
+  "translation": "Un viens āžu buks par grēkupuri — bez tam pastāvīgais degupurs, tā minhas un tā dzēriena upurs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7caf05065640b1824b8b630d3c1d122bce379eb6dc62d5a423443722addb795c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/29\/13-16.1792516226381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "Un viens buks"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "āžu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "par grēkupuri"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "bez tam"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "degupurs"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "pastāvīgais"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "tā minhas"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "un tā dzēriena upurs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:10:26.382597465Z",
+  "model": "glm-5.3"
+}

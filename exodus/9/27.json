@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir \/ esam",
+      "rationale": "Ivrita teikuma «Jahve taisnīgais» nav saikļa; latviešu valodai vajag ⟨ir⟩ un ⟨esam⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošem un Aharonam",
+      "rationale": "Faraona uzruna Mošem un Aharonam — faraona pirmā grēku atzīšana Tanahā."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלח ויקרא",
+      "rationale": "«Sūtīja un saucām» — vai faraons pats sūtīja ziņnešus (lika saukt), vai personīgi sauca; izvēlēta «lika saukt»."
+    }
+  ],
+  "translation": "Un faraons sūtīja un lika saukt Moši un Aharonu, un sacīja viņiem: Šoreiz es esmu grēkojis; Jahve ⟨ir⟩ taisnīgais, un es un mana tauta ⟨esam⟩ ļaundari.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/25-28.1792512835395.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraons"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un lika saukt"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moši"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "un Aharonu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "esmu grēkojis"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "šoreiz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "taisnīgais"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "un mana tauta"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ļaundari"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:55.395995817Z",
+  "model": "glm-5.3"
+}

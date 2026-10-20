@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "emuna",
+      "rationale": "אמונה ir 'ciešums, uzticamība' — atstāts pēc skanējuma, lai nezustu vārda forma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדק atstāts kā cedek pēc D2 noteikuma, nevis viens vārds 'taisnība'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju otrajā daļā trūkst darbības vārda; latviešu valodai vajag ⟨ir⟩."
+    }
+  ],
+  "translation": "Kas izpūš emunu, pasludina cedeku, bet viltus liecinieki ⟨ir⟩ krāpšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d2b247a064930752ec0018257715f3a815efa746933b395b4820daac39f82d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/17-20.1792528673417.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "izpūš"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "emunu"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "pasludina"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bet liecinieki"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "viltus"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "krāpšana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:53.418263903Z",
+  "model": "glm-5.3"
+}

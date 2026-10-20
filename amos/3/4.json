@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלתי אם",
+      "rationale": "Otrs 'bez ja ne' — 'vienīgi ja tas nav notvēris'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אריה \/ כפיר",
+      "rationale": "Divi lauvu vārdi pārī — pieauguša lauva un jaunais lauva — paralelisms, kas latviski saglabāts ar divām formām."
+    },
+    {
+      "kind": "mystery",
+      "subject": "jautājumu virkne",
+      "rationale": "Retoriskie jautājumi (3:3–3:6) slēpj secības loģiku: rūkošana nozīmē laupījumu — Jahve runā, jo ir iemesls; atbilde netiek teikta tieši."
+    }
+  ],
+  "translation": "Vai lauva rūks mežā, ja tam nav laupījuma? Vai jaunais lauva dos savu balsi no savas midzenes, ja tas nav ko notvēris?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/3\/1-4.1792526218028.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Vai ... rūks"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lauva"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "mežā"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ja ... laupījuma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Vai ... dos"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "jaunais lauva"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "savu balsi"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "no savas midzenes"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ja ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nav notvēris"
+    }
+  ],
+  "timestamp": "2026-10-20T19:56:58.030036905Z",
+  "model": "glm-5.3"
+}

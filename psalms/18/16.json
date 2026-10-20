@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח tulkota kā 'ruah' (D2) — vējš\/elpe\/Gars vienā vārdā; latviskais 'gars' vai 'vējš' zaudētu vienību."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Tava deguna elpa",
+      "rationale": "אף — deguns\/nāsis kā dusmu sēdeklis; latviskajā pasaulē dusmas nedzīvo degunā, bet ebreju metafora saglabāta burtiski."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גערה\/נשמה",
+      "rationale": "Rājiens un elpa kā viena dievišķā izelpa — abiabi burtiski piepūš pasauli kā vētra."
+    }
+  ],
+  "translation": "Un parādījās ūdeņu gultnes, un atklājās pasaules pamati — no Tava rājiena, Jahve, no ruah elpas, ⟨kas iziet⟩ no Tava deguna.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/18\/13-16.1792527143575.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Un parādījās"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "gultnes"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņu"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "un atklājās"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "pamati"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasaules"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "no Tava rājiena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "no ... elpas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "no Tava deguna"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:23.581602978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis pie 'tā liela'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי רבה היא",
+      "rationale": "Vai 'jo valstība ir liela' (JPS) vai 'jo lēmums ir varens'; ebreju tekstā piederība nav skaidri noteikta."
+    }
+  ],
+  "translation": "Un tiks dzirdēts ķēniņa lēmums, ko viņš darīs visā savā valstībā, — jo tā ⟨ir⟩ liela, — un visas sievietes dos godu saviem vīriem, no lielā līdz mazajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/17-20.1792530099518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "Un tiks dzirdēts"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "lēmums"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "viņš darīs"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "savā valstībā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visas"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "sievietes"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "dos"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "godu"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "saviem vīriem"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "no lielā"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mazajam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:39.519216229Z",
+  "model": "glm-5.3"
+}

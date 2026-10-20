@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 9:7",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam nav saikļa 'Tev Adonai cedek'; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sejas kauns",
+      "rationale": "בשת הפנים burtiski 'sejas kauns' — blakus teikuma daļai 'kā šodien' veido vienu frāzi, kas latviski sadalīta domuzīmē."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "הצדקה šeit ir abstraktumvieta 'taisnība kā īpašība, kas pieder Dievam'; atstāts cedek pēc D2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעלו\/במעלם",
+      "rationale": "Darbības vārda un lietvārda atkārtojums (nodevība\/nodevīgi) — saknes ma'al divkāršošanās uzsver apzinātu nodevību."
+    }
+  ],
+  "translation": "Tev, Adonai, ⟨ir⟩ cedek, un mums — sejas kauns kā šodien: Jūdas vīram un Jerušalaimas iedzīvotājiem, un visam Jisraēlam, tuvajiem un tālajiem visās zemēs, kurp Tu viņus biji aizdzinis to nodevības dēļ, ar kādu viņi nodevīgi rīkojās pret Tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "714d5f9a3cd558c7da94b4ef10349b2a86872b528f93f39d71ebb165a4d1b855",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/9\/5-8.1792530388469.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "un mums"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kauns"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sejas"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā šodien"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "וליושבי",
+      "gloss": "un iedzīvotājiem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "tuvajiem"
+    },
+    {
+      "surface": "והרחקים",
+      "gloss": "un tālajiem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemēs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurp"
+    },
+    {
+      "surface": "הדחתם",
+      "gloss": "biji aizdzinis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "to nodevības dēļ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ar kādu"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nodevīgi rīkojās"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pret Tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:06:28.470499691Z",
+  "model": "glm-5.3"
+}

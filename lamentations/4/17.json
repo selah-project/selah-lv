@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 4:17",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tā ir⟩",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju tekstā tā nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצפיתנו\/צפינו",
+      "rationale": "Viens saknes atkārtojums (vērot\/vērojām), uzsver bezgalīgo gaidīšanu"
+    }
+  ],
+  "translation": "Vēl joprojām izsīkst mūsu acis, gaidot mūsu palīdzību — ⟨tā ir⟩ veltīga; mēs vērojām pēc tautas, kas nespēj glābt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "778048a648accb3c90c8a65f9115e73e159d16d7ec34e2b57d5db1189258cf85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/17-20.1792529839746.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודינה",
+      "gloss": "vēl joprojām"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "izsīkst"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mūsu acis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaidot pēc"
+    },
+    {
+      "surface": "עזרתנו",
+      "gloss": "mūsu palīdzības"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "veltīga"
+    },
+    {
+      "surface": "בצפיתנו",
+      "gloss": "mūsos vērojot"
+    },
+    {
+      "surface": "צפינו",
+      "gloss": "mēs vērojām"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "glābj"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:19.747443135Z",
+  "model": "glm-5.3"
+}

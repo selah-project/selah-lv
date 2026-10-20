@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתחיה",
+      "rationale": "Pilsētas vārti personificēti kā sērotāji — vārti, kur pulcējās dzīve, tagad vaid."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקתה",
+      "rationale": "נקה sakne: 'iztīrīta\/izpostīta' (KJV 'desolate', JPS 'bereft') — attīrīta līdz tukšumam."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sēdēs uz zemes",
+      "rationale": "Sēdēšana uz zemes — sēru un postuma žests, ne vienkārši sēdēšana."
+    }
+  ],
+  "translation": "Un viņas vārti vaidēs un sēros, un iztīrīta tā sēdēs uz zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28aab94f341e3b3fe1e1d9587fc54a75d5d3557f410479cab60f1cf5fdb004f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/3\/25-26.1792521898455.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "un vaidēs"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "un sēros"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "viņas vārti"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "un iztīrīta"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tā sēdēs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:58.456477340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 4:3",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההרמונה",
+      "rationale": "'Harmona' — neskaidrs vārds: vieta (Hermons?), 'cietoksnis' (no augstuma) vai 'pie ķēdes'; atstāts kā nosaukums."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir (tiksiet)",
+      "rationale": "Ebreju passīvs והשלכתנה bez izteikta palīgdarbības vārda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשה",
+      "rationale": "burtiski 'sieviete\/katra' — sievišķā forma turpina 'govju' metaforu."
+    }
+  ],
+  "translation": "Un caur spraugām jūs iziesiet, katra tieši sev priekšā, un jūs tiksiet izmestas uz Harmonu, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "15b20d59f0c88cd3534bc6672c3c50bcd69bcd196e4d3c1912470d73059ef032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/4\/2-3.1792532793822.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרצים",
+      "gloss": "un caur spraugām"
+    },
+    {
+      "surface": "תצאנה",
+      "gloss": "jūs iziesiet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "katra"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "tieši sev priekšā"
+    },
+    {
+      "surface": "והשלכתנה",
+      "gloss": "un jūs tiksiet izmestas"
+    },
+    {
+      "surface": "ההרמונה",
+      "gloss": "uz Harmonu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:33.822827167Z",
+  "model": "glm-5.3"
+}

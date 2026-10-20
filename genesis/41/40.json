@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "skūpstīs tavu muti",
+      "rationale": "נשק burtiski 'skūpstīt'; KJV 'tiks pārvaldīti' no aramiešu paralēles — šeit saglabāts burtiskais skūpsts uz pavēli ('muti')."
+    },
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Darbības vārda 'es būšu' subjekts ebreju tekstā izteikts pārāk ilgi, pievienots latviski skaidrībai."
+    }
+  ],
+  "translation": "Tu būsi pār manu namu, un pie tavas muti skūpstīs visi mani ļaudis; tikai tronī es būšu lielāks par tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e5ef7d0768d01708b0df992f16de2d272e564f680e868186844fd7b6a0756f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/37-40.1792512462476.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "manu namu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavas muti"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "skūpstīs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mani ļaudis"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "tronī"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "es būšu lielāks"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "par tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:42.478715802Z",
+  "model": "glm-5.3"
+}

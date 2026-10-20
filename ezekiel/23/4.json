@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 23:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ \/ ⟨bija⟩",
+      "rationale": "Ebreju valodā nav saikļa 'būt' tagadnē un pagātnē vārdu definīcijās; latviešu valoda to prasa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהלה \/ אהליבה",
+      "rationale": "Vārdi no אהל 'teltis': 'viņas teltis' un 'mana teltis manā vidū' — simboliski vārdi, kas latviešu transliterācijā zaudē nozīmi."
+    },
+    {
+      "kind": "crux",
+      "subject": "הגדולה",
+      "rationale": "'Lielā' nozīmē arī 'vecākā' (vecākā māsa); abas lasījumi iespējami."
+    }
+  ],
+  "translation": "Un viņu vārdi ⟨bija⟩: Ahola, vecākā, un Aholiba, viņas māsa; un viņas kļuva par manējām un dzemdēja dēlus un meitas. Un viņu vārdi ⟨bija⟩: Šomrona ⟨ir⟩ Ahola, un Jerušalaima ⟨ir⟩ Aholiba.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "956f7cbca5f8dadc6e626d839588e7b110872874b8f8cd3e8acc08b3cbe20a17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/4-4.1792532703588.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמותן",
+      "gloss": "Un viņu vārdi"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Ahola"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "vecākā"
+    },
+    {
+      "surface": "ואהליבה",
+      "gloss": "un Aholiba"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "viņas māsa"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "un viņas kļuva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "par manējām"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "un dzemdēja"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "un meitas"
+    },
+    {
+      "surface": "ושמותן",
+      "gloss": "Un viņu vārdi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrona"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Ahola"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "un Jerušalaima"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Aholiba"
+    }
+  ],
+  "timestamp": "2026-10-20T21:45:03.589164217Z",
+  "model": "glm-5.3"
+}

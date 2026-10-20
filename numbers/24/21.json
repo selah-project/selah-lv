@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā nav subjekta; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "' Droša\/pastāvīga' pret 'pirmatnēja spēcīgā' — daži lasa 'kaut arī stingra' (JPS piekāpības nozīmē)"
+    }
+  ],
+  "translation": "Un ⟨viņš⟩ ieraudzīja ⟨את⟩ kenieti, un pacēla savu sakāmvārdu un sacīja: Droša ir tava mājvieta, un tu liec savu ligzdu klintī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6553d13de5b839e0649c754f9026d569023e12ed6d522afb4916af770c690a36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/24\/21-24.1792516111046.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un ⟨viņš⟩ ieraudzīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenieti"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "kenieti"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "un pacēla"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "savu sakāmvārdu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Droša"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "ir tava mājvieta"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "un tu liec"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "klintī"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "savu ligzdu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:31.047154065Z",
+  "model": "glm-5.3"
+}

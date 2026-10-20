@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mājokļus",
+      "rationale": "משכנות ir miškānu vārds — 'mītnes, teltsmājas', ne vienkārši mājokļi"
+    },
+    {
+      "kind": "you",
+      "subject": "es ceļu",
+      "rationale": "Jahve runā tieši pie Habakuka un Israēļa"
+    }
+  ],
+  "translation": "Jo raugi, es ceļu ⟨את⟩ kasdiešus — nāciju rūgtu un steidzīgu, kas staigā pa zemes plašumiem, lai ieņemtu mājokļus, kas nav viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/habakkuk\/1\/5-8.1792526543805.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "raugi, es"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasdieši"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdiešus"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nāciju"
+    },
+    {
+      "surface": "המר",
+      "gloss": "rūgtu"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "un steidzīgu"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "kas staigā"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "pa plašumiem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "lai ieņemtu"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mājokļus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:02:23.806349731Z",
+  "model": "glm-5.3"
+}

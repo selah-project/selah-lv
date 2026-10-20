@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא תלין",
+      "rationale": "burtiski 'nelaidgs pārnakšņot' — alga nedrīkst palikt pie tevis cauru nakti."
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Ivrita piederības sufikss; latviski pievienots īpašības vārds skaidrībai."
+    }
+  ],
+  "translation": "Neapspiedīsi ⟨את⟩ savu tuvāko un neolaupīsi; darba algu algādzim pie tevis ⟨את⟩ nenokavēsi līdz rītam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/13-16.1792514924103.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "neapspiedīsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tuvāko"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tuvāko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "neolaupīsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nenokavēsi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "darba algu"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "algādzim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pie tevis ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rītam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:44.105335627Z",
+  "model": "glm-5.3"
+}

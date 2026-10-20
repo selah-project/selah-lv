@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 16:23",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "ivritā salīdzinājuma teikumā nav darbības vārda; latviešu valodai vajag saikli"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדבר האלהים",
+      "rationale": "'vaicāt Elohim vārdu' vs 'vaicāt pie Elohim' — האלהים var būt arī 'dieva' vispārīgi; KJV 'pie Dieva orākula', YLT 'pie Dieva vārda'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨laikā⟩",
+      "rationale": "גם לדוד גם לאבשלום burtiski 'gan Davida, gan Avšaloma'; latviešu valodai vajag 'laikā', lai teikums strādātu"
+    }
+  ],
+  "translation": "Un Ahitofela padoms, ko viņš deva tanīs dienās, ⟨bija⟩ kā kad vaicā Elohim vārdu; tāds ⟨bija⟩ viss Ahitofela padoms gan Davida, gan Avšaloma ⟨laikā⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be7d6fa77aad8f2a2ad6d3bfb60b406509a1a75e0366bad4332e097c5e918edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/16\/21-23.1792519946291.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועצת",
+      "gloss": "Un padoms"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "viņš deva"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tanīs dienās"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "šajās"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā kad"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "vaicā"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāds"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "padoms"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "לאבשלם",
+      "gloss": "Avšaloma"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:26.292107146Z",
+  "model": "glm-5.3"
+}

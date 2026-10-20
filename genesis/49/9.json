@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saiklis; teikuma nominals bez darbības vārda latviski prasa ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גור אריה",
+      "rationale": "‘Lauvas mazulis’ — Jūdas vārda slavinājums no 49:8 (joduhuja ‘viņu slavēs’) turpinās lauvas tēlā"
+    }
+  ],
+  "translation": "Lauvas mazulis ⟨ir⟩ Jehuda; no laupījuma, mans dēls, tu esi uzkāpis; viņš pieliecās, atlaidās kā lauva un kā lauviene — kas viņu cels augšā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/49\/9-12.1792512627665.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "mazulis"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lauvas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "no laupījuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "tu esi uzkāpis"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "pieliecās"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "atlaidās"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kā lauva"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "un kā lauviene"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "viņu cels augšā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:27.665940505Z",
+  "model": "glm-5.3"
+}

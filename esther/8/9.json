@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienā",
+      "rationale": "Ebreju valodā diena netiek minēta — tikai 'tajā' (mēnesī), latviski vajag skaidrojumu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums un provinces",
+      "rationale": "Pants skaita mēnesi, dienu un simts divdesmit septiņas provinces."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה \/ עם ועם",
+      "rationale": "Atkārtotais dalītais skaitlis — 'provincei un provincei, tautai un tautai' — ebreju ritma figūra, latviski saglabāta burtiski."
+    }
+  ],
+  "translation": "Un tanī laikā tika saukti ķēniņa rakstveži, trešajā mēnesī — tas ir Sivāna mēnesis —, tā divdesmit trešajā ⟨dienā⟩; un tika rakstīts viss, ko Mordehajs pavēlēja jūdiem un ahašdarpaniem un pārvaldniekiem un provinču valdniekiem, kas ⟨ir⟩ no Hodas līdz Kušai, — simts divdesmit septiņām provincēm: provincei un provincei pēc tās rakstības, un tautai un tautai pēc tās valodas, un jūdiem pēc viņu rakstības un pēc viņu valodas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/8\/9-12.1792530216667.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Un tika saukti"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "rakstveži"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tanī laikā"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesis"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "Sivāns"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "un tika rakstīts"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehajs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jūdiem ⟨pie⟩"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdiem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "ahašdarpaniem"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "un pārvaldniekiem"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "un valdniekiem"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provincēm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "no Hodas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kušai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņām"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "un simts"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provincēm"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provincei"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "un provincei"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "pēc tās rakstības"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un tautai"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un tautai"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "pēc tās valodas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdiem"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "pēc viņu rakstības"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "un pēc viņu valodas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:03:36.668390008Z",
+  "model": "glm-5.3"
+}

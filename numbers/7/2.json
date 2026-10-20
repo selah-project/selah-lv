@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' — tas pievienots latviešu teikuma struktūras dēļ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atnesa ⟨upuri⟩",
+      "rationale": "הקריב nozīmē 'pietuvināja\/piedāvāja upuri'; piederīgais objekts seko 7:3 — šeit pievienots iekavās."
+    },
+    {
+      "kind": "measurement",
+      "subject": "uzskaitītajiem",
+      "rationale": "Atsauce uz 4. Mozus grāmatas ciltsu uzskaiti (skaitīšanu)."
+    }
+  ],
+  "translation": "Un Jisraēla vadoņi atnesa ⟨upuri⟩ — viņu tēvu namu galvas; tie ⟨ir⟩ ciltsu vadoņi, tie ⟨ir⟩ tie, kas stāvēja pār uzskaitītajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/1-4.1792515506142.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Un atnesa ⟨upuri⟩"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "vadoņi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "vadoņi"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ciltsu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stāvošie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "uzskaitītajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:58:26.144981687Z",
+  "model": "glm-5.3"
+}

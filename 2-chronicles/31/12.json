@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "godīgi",
+      "rationale": "באמונה ir „ticībā\/uzticamībā” — šeit lojalitātes un precizitātes nozīme"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai nepieciešams saiklis, ebreju valodā teikums ir tikai vārdu secība"
+    }
+  ],
+  "translation": "Un viņi godīgi ienesa ⟨את⟩ priestera dāvanu, ⟨את⟩ desmito daļu un ⟨את⟩ svētās lietas; un pār viņiem bija pārzinis Konanjahu, levīts, un Šimi, viņa brālis, kā otrais.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19c10fc203eb2c45e754c7f1d0acbca0acf69662533c44c21aa4f45bb1d798ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/31\/9-12.1792532301443.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ienesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "priestera dāvanu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "priestera dāvanu"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "desmito daļu"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "svētās lietas"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "godīgi"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pārzinis"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konanjahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levīts"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Šimi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "viņa brālis"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kā otrais"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:21.444963756Z",
+  "model": "glm-5.3"
+}

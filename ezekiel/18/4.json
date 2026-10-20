@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks (rīkle, elpa), nevis nemateriāla 'dvēsele' platonicā nozīmē"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה \/ היא תמות",
+      "rationale": "atbildes struktūra: sakāmvārds par tēviem un dēliem tiek lauztas ar vienkāršu 'tā nomirs' — viena נפש, viens grēks, viena nāve"
+    }
+  ],
+  "translation": "Lūk, visas dvēseles — Man tās pieder; kā tēva dvēsele, tā arī dēla dvēsele — Man tās pieder; dvēsele, kas grēko, tā nomirs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/18\/1-4.1792525049624.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tās pieder"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "kā dvēsele"
+    },
+    {
+      "surface": "האב",
+      "gloss": "tēva"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "un kā dvēsele"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tās pieder"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kas grēko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "nomirs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:37:29.625505328Z",
+  "model": "glm-5.3"
+}

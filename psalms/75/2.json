@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודינו...הודינו",
+      "rationale": "Atkārtots darbības vārds pēc sirds semītu dzejas parauga."
+    }
+  ],
+  "translation": "Pateicamies Tev, Elohim, pateicamies, un Tuvs ⟨ir⟩ Tavs Vārds; stāstījuši ⟨ir⟩ Tavas brīnuma darbus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/75\/1-4.1792527887120.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Pateicamies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "pateicamies"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "un Tuvs"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tavs Vārds"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "stāstījuši"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Tavas brīnuma darbus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:47.121774626Z",
+  "model": "glm-5.3"
+}

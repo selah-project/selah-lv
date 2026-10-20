@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 43:22",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/חטאו\/חטאו",
+      "rationale": "Viena sakne חטא trīs reizes: grēkā upuris — šķīstīt — šķīstīja; latviskā atveidē vārdu saite izzūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאו (šķīstīt)",
+      "rationale": "Darbības vārds no tās pašas saknes חטא burtiski “grēkot (pret altāri)”, bet nozīmē “attīrīt no grēka”."
+    },
+    {
+      "kind": "measurement",
+      "subject": "היום השני",
+      "rationale": "Rituāla dienu skaitīšana — otrā diena septiņu dienu inaugurācijā."
+    }
+  ],
+  "translation": "Un otrajā dienā tu piesoliešu ⟨את⟩ āžu āzi, bez vainas, par grēkā upuri, un viņi šķīstīs ⟨את⟩ altāri, kā tie šķīstīja to ar vērsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "65d1b2443c8537c34dbec9c3bfab7345b82e9d92dff13857c6c30a01a6c8beb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/43\/21-24.1792525722290.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Un dienā"
+    },
+    {
+      "surface": "השני",
+      "gloss": "otrajā"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu piesoliešu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "āzi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "āžu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "par grēkā upuri"
+    },
+    {
+      "surface": "וחטאו",
+      "gloss": "un viņi šķīstīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altāri"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altāri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "tie šķīstīja"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ar vērsi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:48:42.290933064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņai",
+      "rationale": "Ivrita darbības vārds 'pastāstīja' nesatur pats objektu; latviešu valodai vajadzīgs saņēmējs."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ותתחלחל",
+      "rationale": "Dubultā sakne חול — 'vijas, griežas': trauksme kā iekšēja vērpes kustība; attēlots ar 'izbijās'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סריסים",
+      "rationale": "Sākotnēji 'kastrāts, galmā ievests sargs', te apzīmē sieviešu apartamentu kalpus; izmantots 'einahi' pēc skanējuma."
+    }
+  ],
+  "translation": "Un ieradās Esteres jaunavas un viņas einahi un pastāstīja ⟨viņai⟩; un ķēniņiene ļoti izbijās, un viņa nosūtīja drēbes, lai apģērbtu ⟨את⟩ Mordehaju un noņemtu viņa maisa audumu no ⟨viņa⟩, bet viņš to nepieņēma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f31fe2f52c5c47f1b0c2dc7a94d13b9127d53a4ae99dfc11f4f2bccf66a80aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/4-4.1792532879338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "Un ieradās"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "jaunavas"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteres"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "un viņas einahi"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "un pastāstīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨viņai⟩"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "un izbijās"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ķēniņiene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "un nosūtīja"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "drēbes"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "lai apģērbtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehaju"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaju"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "un noņemtu"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "viņa maisa audumu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "no ⟨viņa⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "pieņēma"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:59.338644430Z",
+  "model": "glm-5.3"
+}

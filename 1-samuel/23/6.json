@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nonāca viņa rokā",
+      "rationale": "ebraju ירד burtiski 'nokāpa' — efods 'nokāpa viņa rokā', idiomats 'nonāca viņa rokā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "efods",
+      "rationale": "אפוד transliterēts kā 'efods', nevis tulkots kā 'priesteru tērps'"
+    }
+  ],
+  "translation": "Un notika, kad Ebjātars, Ahimeleha dēls, bēga pie Davida uz Keilu, efods nonāca viņa rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c99fba9caa4ea3e2c531c0828e8488bb70f0a131c6d19a26c504b28087e22107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/23\/6-7.1792532571845.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "kad... bēga"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjātars"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "uz Keilu"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efods"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nonāca"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "viņa rokā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:51.845560969Z",
+  "model": "glm-5.3"
+}

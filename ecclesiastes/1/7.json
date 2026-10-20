@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איננו מלא",
+      "rationale": "Burtiski 'jūra nav pilna' — daži lasa 'no jūras netrūkst' jeb tā neiztek; saglabāta negācija."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הלכים",
+      "rationale": "'Iet' par straumēm latviski parasti 'tek'; taču tas pats darbības vārds kā 1:6 par vēju — radības vienotā gājiena zīme."
+    }
+  ],
+  "translation": "Visas straumes tek uz jūru, un jūra nepārpilda; uz vietu, kur straumes tek, — tur tās atgriežas, lai atkal tek.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/1\/5-8.1792529924684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visas"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "straumes"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "tek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "והים",
+      "gloss": "un jūra"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nepārpilda"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietu"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "kur straumes"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "tek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tās"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "atgriežas"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lai atkal tek"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:44.685315930Z",
+  "model": "glm-5.3"
+}

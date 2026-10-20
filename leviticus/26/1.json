@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa 'es esmu' — pievienots ⟨es⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eli",
+      "rationale": "אליל pēc saknes nozīmē 'niecīgs, veltīgs' — atspoguļots kā 'els' ar tukšuma nokrāsu"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Tieša uzruna ar aizlieguma imperatīviem Israēla tautai"
+    }
+  ],
+  "translation": "Nedarīsiet sev elus, un tēlu un stabiņu necelsiet sev, un gludētu akmeni neliksiet savā zemē, lai to pielūgtu, jo es esmu Jahve, jūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/1-4.1792515228511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darīsiet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "elus"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "un tēlu"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "un stabiņu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "celsiet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "un akmeni"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "gludētu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "liksiet"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "savā zemē"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "lai pielūgtu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:48.513021221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ja tu nokautos",
+      "rationale": "אִם תִּקְטֹל — vēlēšanās ('kaut tu nokautos', JPS) pret pārliecinājumu ('tu noteikti nokausi', KJV); nosacījuma forma ļauj abas lasījumus."
+    },
+    {
+      "kind": "idiom",
+      "subject": "asins vīri",
+      "rationale": "אַנְשֵׁי דָּמִים burtiski 'asinu vīri' — asiņaini, slepkavīgāki vīri."
+    },
+    {
+      "kind": "you",
+      "subject": "Eloah un asins vīri",
+      "rationale": "vērsts uz Eloah un imperatīvs 'atkāpities' vērsts uz ļaundariem."
+    }
+  ],
+  "translation": "Ja tu nokautos, Eloah, bezdievi, un asins vīri — atkāpities no manis!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/139\/17-20.1792528447199.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "tu nokautos"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezdievi"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "asins"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "atkāpities"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:07.200703954Z",
+  "model": "glm-5.3"
+}

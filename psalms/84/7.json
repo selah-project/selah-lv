@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבכא",
+      "rationale": "Baka skan kā בכה 'raudāt' — 'raudu ieleja'; vārdu spēle latviski iespējama tikai ar paskaidrojumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "'agrā lietus' pret 'skolotājs\/vadonis' (מורה) — vairums tulkojumu izvēlas lietu, YLT izvēlas personu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבכא",
+      "rationale": "Vārds בכה šādā formā Tanahā sastopams tikai šeit; vai nu īpašvārds Baka, vai 'raudāšanas' ieleja."
+    }
+  ],
+  "translation": "Ejot caur Baka ieleju, avotus tie tai dara; arī svētības to apsedz kā agrā lietus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/84\/5-8.1792527964239.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ejot caur"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "avotus"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "tie tai dara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "svētības"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "apsedz"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "kā agrā lietus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:04.240954364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu",
+      "rationale": "Ebreju valodā objekts (Jāzeps) nav izteikts, pievienots no konteksta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "īpašums",
+      "rationale": "קנינו nozīmē 'iegūtais, iegādātais īpašums', nevis 'radījumi'"
+    }
+  ],
+  "translation": "Iecēla viņu par kungu ⟨sava⟩ nama pārvaldnieku un par valdnieku visa ⟨sava⟩ īpašuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/21-24.1792528155070.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "iecēla"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "kungu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sava nama pārvaldnieku"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "un par valdnieku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "īpašuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:15.071239385Z",
+  "model": "glm-5.3"
+}

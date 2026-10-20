@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sātans",
+      "rationale": "שטן bez artikula: 'pretinieks' kā tituls pret personificētu Sātanu; sal. 2 Sam 24:1, kur kārdinātājs ir Jahves dusmas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaitīt ⟨את⟩ Jisraēlu",
+      "rationale": "Tautas skaitīšana — pantu virknes (21:1–27) izraisītājs."
+    }
+  ],
+  "translation": "Un sātans piecēlās pret Jisraēlu un kārdināja ⟨את⟩ Davīdu skaitīt ⟨את⟩ Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/21\/1-4.1792531482121.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Un piecēlās"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "sātans"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "un kārdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davīdu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davīdu"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "skaitīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:42.121997779Z",
+  "model": "glm-5.3"
+}

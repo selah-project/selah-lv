@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 20:38",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "steidzības izsaukums",
+      "rationale": "Steigas vārdi zēnam izbeidz satikšanu, pirms zēns var pamanīt Davida klātbūtni."
+    },
+    {
+      "kind": "addition",
+      "subject": "nestāvi",
+      "rationale": "אל תעמod apgalvojuma forma latviski pievieno piesardzīgu formu 'nestāvi'."
+    }
+  ],
+  "translation": "Un Jonatāns iesaucās aiz zēna: Ātri! Steidzies! Nestāvi! Un Jonatāna zēns pacēla ⟨את⟩ bultu un atnāca pie sava kunga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/20\/37-40.1792519249433.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "un iesaucās"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatāns"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "zēna"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "steidzies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stāvi"
+    },
+    {
+      "surface": "וילקט",
+      "gloss": "un pacēla"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zēns"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatāna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bultu"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "bultu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un atnāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sava kunga"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:49.434084086Z",
+  "model": "glm-5.3"
+}

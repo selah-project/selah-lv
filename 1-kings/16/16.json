@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nogalinājis",
+      "rationale": "הכה burtiski 'sitis' — latviskā norma prasa 'nogalinājis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "latviešu teikuma plūsmai pievienots saistījuma vārds, ebreju valodā nav"
+    }
+  ],
+  "translation": "Un ļaudis, kas stāvēja nometnē, dzirdēja sakām: Zimri ir sazvērējies un arī nogalinājis ⟨את⟩ ķēniņu; tad viss Jisraēls tajā pašā dienā nometnē iecēla par ķēniņu pār Jisraēlu ⟨את⟩ Omri, karaspēka virsaiti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/16\/13-16.1792520829278.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Un dzirdēja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "kas stāvēja nometnē"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakām"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sazvērējies"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nogalinājis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ieceļa par ķēniņu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "virsaiti"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pašā"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nometnē"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:09.279753253Z",
+  "model": "glm-5.3"
+}

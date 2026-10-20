@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "נטוי",
+      "rationale": "'izstiepta\/ļenganā ēna' (JPS 'lengthening shadow' pret KJV 'declineth') — ēna, kas stiepjas garā vai saraujas vakarā; abi lasījumi iespējami."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איבש",
+      "gloss": "izkalstu",
+      "rationale": "יובש nozīmē arī 'tikt kauninātam\/vilties'; šeit izvēlēta fiziskā nozīme — zāles izkaltšana."
+    }
+  ],
+  "translation": "Manas dienas kā ēna izstiepjas, un es kā zāle izkalstu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/9-12.1792528104605.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "manas dienas"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kā ēna"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "izstiepjas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kā zāle"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "izkalstu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:24.606718983Z",
+  "model": "glm-5.3"
+}

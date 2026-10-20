@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל פשטתם",
+      "rationale": "אל šeit nav noliegums, bet jautājuma daļa ('vai ne?'); daudzi tulkojumi to atstāj par vienkāršu jautājumu 'kur?'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגב ×3",
+      "rationale": "Trīskāršais 'dienvi\/dienvi\/dienvi' ritms — Davida atbilde ar vienu un to pašu vārdu trīsreiz."
+    }
+  ],
+  "translation": "Un Akīšs sacīja: Vai nesijājāt šodien? Un Davids sacīja: Uz Jehudas dienvidiem, un uz jerahmeēliešu dienvidiem, un uz keniešu dienvidiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21f5b79f83a9556ddbfa59a0e44b2a849ec3f5cff225d02a2fd3e248b1076309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/27\/9-12.1792519484467.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akīšs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Vai ne"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "sijājāt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "על",
+      "gloss": "Uz"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "dienvidiem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "dienvidiem"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "jerahmeēliešu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "dienvidiem"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "keniešu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:44.468382819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nakts vidū",
+      "rationale": "אישון burtiski ir 'acs zīlīte' (acs 'mazais vīriņš'), aizņēmums nakts dziļākajam brīdim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנשף בערב ואפלה",
+      "rationale": "četri tumstošas gaismas pakāpieni — vēsmas krēsla, vakara krēsla, nakts zīlīte, tumsība — pakāpeniska Satums nostrādā latviski ar vārdu krēsla atkārtojumu"
+    }
+  ],
+  "translation": "krēslas stundā, vakarā, dienas beigās, nakts vidū un tumsībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/7\/9-12.1792528601509.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "krēslas stundā"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vakarā"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas beigās"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "nakts vidū"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakts"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "un tumsībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:41.509542956Z",
+  "model": "glm-5.3"
+}

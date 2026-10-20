@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir 'elpa, rīkle, dzīvības spēks', nevis nemateriāla 'dvēsele'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק transliterēts pēc D2 noteikuma, nevis tulkots kā 'taisnība' viena"
+    }
+  ],
+  "translation": "Manu dzīvību Viņš atgriež atpakaļ, Viņš mani vada cedek ceļos sava Vārda dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/23\/1-4.1792527215603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Manu dzīvību"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "Viņš atgriež atpakaļ"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "Viņš mani vada"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ceļos"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sava Vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:35.607680713Z",
+  "model": "glm-5.3"
+}

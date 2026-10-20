@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kalpos kopā ar Ašuru",
+      "rationale": "עבד את var nozīmēt gan 'kalpot Ašuram' (pakļautībā), gan 'kalpot kopā ar Ašuru'; vairums tulkojumu izvēlas 'kopā' saistībā ar 19:25."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "chiasms",
+      "rationale": "Chiastiskā struktūra 'Ašura–Micraimā, Micraima–Ašurā' saglabāta."
+    }
+  ],
+  "translation": "Tanī dienā būs ceļš no Micraimas uz Ašuru, un Ašura nāks Micraimā, un Micraima Ašurā, un micraimieši kalpos kopā ar ⟨את⟩ Ašuru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/21-24.1792522157325.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "uz Ašuru"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "un nāks"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašura"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "un Micraima"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Ašurā"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "un kalpos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimieši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašuru"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašuru"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:17.326266970Z",
+  "model": "glm-5.3"
+}

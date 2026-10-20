@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את ( otrais )",
+      "rationale": "Otrs ⟨את⟩ norāda uz 'vārdu' un paliek kā zīme latviešu teikumā bez locījuma."
+    }
+  ],
+  "translation": "Un ķēniņš sacīja: Steidziniet ⟨את⟩ Hamanu darīt ⟨את⟩ Esteres vārdu. Un ķēniņš un Hamans ieradās ⟨את⟩ dzērienu mielastā, ko Estere bija sarīkojusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/5\/5-8.1792530065502.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Steidziniet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteres"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Un ieradās"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "un Hamans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "dzērienu mielasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sarīkoja"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:05.502939952Z",
+  "model": "glm-5.3"
+}

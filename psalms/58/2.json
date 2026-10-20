@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "Lasījumi: „klusumā” (KJV marg, ASV), „elda — dievi” (Ugarit), „taisnīgo saime” (JPS), „mēmie” (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדק",
+      "rationale": "Atstāts kā cedek, nevis viens vārds „taisnība”"
+    },
+    {
+      "kind": "you",
+      "subject": "cilvēku bērni",
+      "rationale": "Tieša uzruna tiesnešiem\/cilvēku bērniem ar jautājumu"
+    }
+  ],
+  "translation": "Vai patiesi klusumā cedek jūs runājat, taisnīgi jūs tiesājat, cilvēku bērni?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/1-4.1792527727359.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Vai patiesi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "klusumā"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "jūs runājat"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "taisnīgi"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "jūs tiesājat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:07.359878565Z",
+  "model": "glm-5.3"
+}

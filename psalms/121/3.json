@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל יתן",
+      "rationale": "Ebreju deprecatīvs 'nedomā dot\/ļaut' — latviski 'lai ļauj' ar lakonisku aizlieguma optatīvu."
+    },
+    {
+      "kind": "you",
+      "subject": "celotājs",
+      "rationale": "Pāreja uz otrās personas runu: 'tava kāja', 'tevi sargā' — svētceļniekam tieši sacīts."
+    }
+  ],
+  "translation": "Lai ļauj tavu kāju ļodzīties, lai aizmiegas tas, kas tevi sargā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/121\/1-4.1792528350771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Lai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ļauj"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ļodzīties"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tavu kāju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "aizmiegas"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "kas tevi sargā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:30.772415706Z",
+  "model": "glm-5.3"
+}

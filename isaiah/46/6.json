@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקנה",
+      "rationale": "Burtiski 'riedā' — svēršanas svariem izgatavoti no niedres stiebra; latviski 'svaru kauss', zaudēta niedres ainava."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Izprašanas vietu pielūgšanas objektam latviešu valodā vajadzīgs papildu vietniekvārds."
+    }
+  ],
+  "translation": "Tie izber zeltu no maka un svēr sudrabu svaru kausā, algā kausētāju, un tas dara to par elu; viņi metas ceļos, jā, viņi pielūdz ⟨to⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/46\/5-8.1792522791718.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "Tie izber"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "no maka"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "un sudrabu"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "svaru kausā"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "svēr"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "algā"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "kausētāju"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "un tas dara to"
+    },
+    {
+      "surface": "אל",
+      "gloss": "par elu"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "viņi metas ceļos"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jā"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "viņi pielūdz ⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:51.719506950Z",
+  "model": "glm-5.3"
+}

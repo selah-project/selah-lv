@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav darbības vārda — vienkārši \"es Jahve\"."
+    },
+    {
+      "kind": "you",
+      "subject": "priesteriem",
+      "rationale": "Priekšrakums Ārona pēcnācējiem par aizliegto ēdienu, noslēdzams ar Jahve autoritātes formulu."
+    }
+  ],
+  "translation": "Maitu un plēsīgi saplēstu zvēru viņš nedrīkst ēst, lai ar to nekļūtu nešķīsts — es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/22\/5-8.1792515038314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "maitu"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "un plēsīgi saplēstu zvēru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedrīkst"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "lai nekļūtu nešķīsts"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ar to"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:50:38.318186319Z",
+  "model": "glm-5.3"
+}

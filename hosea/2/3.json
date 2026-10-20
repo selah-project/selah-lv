@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "sakiet",
+      "rationale": "Pavēle runāt — teksts aicina lasītāju iesaistīties vārdu došanā."
+    },
+    {
+      "kind": "you",
+      "subject": "brāļiem un māsām",
+      "rationale": "Tieša uzruna Israēla brāļiem un māsām."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחמה",
+      "rationale": "Vārds no saknes 'iežēlot, mīļot' — dots kā vārds 'Apmīļotā' (Rūhāma)."
+    }
+  ],
+  "translation": "Sakiet saviem brāļiem: Mana tauta, un savām māsām: Apmīļotā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/2\/1-4.1792526002788.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sakiet"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "saviem brāļiem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mana tauta"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "un savām māsām"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Apmīļotā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:22.789632739Z",
+  "model": "glm-5.3"
+}

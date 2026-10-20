@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ienīsta",
+      "rationale": "שנואה — 'ienīsta'; daudzi tulkotāji mīkstina kā 'nemīlēta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumā nav darbības vārda 'bija'"
+    }
+  ],
+  "translation": "Un Jahve redzēja, ka Lea ir ienīsta, un atvēra ⟨את⟩ viņas nedzemdību klēpi, bet Rahela ⟨bija⟩ neauglīga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef7e25ea597185ca90d50ee788b6b9826ece73887f2354f10974dc15ef063eec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/29\/29-32.1792512142104.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "un redzēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ir ienīsta"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "un atvēra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņas nedzemdību klēpi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "viņas nedzemdību klēpi"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "bet Rahela"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "neauglīga"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:22.105951271Z",
+  "model": "glm-5.3"
+}

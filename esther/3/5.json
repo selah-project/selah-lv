@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "Burtiski 'karstums'; latviski 'dusmas' zaudē siltuma ainu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨priekšā⟩",
+      "rationale": "Latviešu valodai vajadzīgs prievārds, ebreju ומשתחוה לו to nes."
+    }
+  ],
+  "translation": "Un Hamans redzēja, ka Mordehajs nelec ceļos un neguļ viņam ⟨priekšā⟩, un Hamans piepildījās ar bargām dusmām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "482ed721e4b89ead203eccdee52a8dfb144cc254d2cb07e56adab0e09040e15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/3\/5-8.1792530114209.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "redzēja"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehajs"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "lec ceļos"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "neguļ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam ⟨priekšā⟩"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "piepildījās"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ar bargām dusmām"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:54.209927802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "visu viņa gultu Tu esi pārvērtis",
+      "rationale": "הפכת... משכבו: 'apgriezi\/pārkārto visu viņa gultu' — vecās versijas mīkstina kā 'rūpējies par visu viņa gultu'; BSB 'atjaunoja viņu no slimības'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דוי \/ חליו",
+      "rationale": "Divi vārdi vienai lietai — 'slimība' un 'kaite' — apļo vienu pašu gultu; latviski saglabāts ar vārdu pārmaiņu, ne atkārtojumu."
+    }
+  ],
+  "translation": "Jahve viņu atbalstīs slimības gultā; visu viņa gultu Tu esi pārvērtis viņa kaitē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/41\/1-4.1792527490183.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "atbalstīs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "gultā"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "slimības"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "gultu"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "pārvērtis"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "kaitē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:10.184752737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele platoniskā nozīmē"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lai izrautu no nāves viņu dzīvību",
+      "rationale": "נפש kā dzīvības spēks, ne atsevišķa dvēsele"
+    }
+  ],
+  "translation": "lai izrautu no nāves viņu dvēseles un uzturētu viņus dzīvus badā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/33\/17-20.1792527393471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "lai izrautu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "no nāves"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu dvēseles"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "un uzturētu viņus dzīvus"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "badā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:33.472564702Z",
+  "model": "glm-5.3"
+}

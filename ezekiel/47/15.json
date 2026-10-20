@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis, kura ebreju tekstā nav"
+    },
+    {
+      "kind": "crux",
+      "subject": "הַדֶּרֶךְ חֶתְלֹן",
+      "rationale": "'Hetlonas ceļš' pret 'caur Hetlonu' — tekstā nav prievārda, tāpēc ceļš pieder robežas līnijai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "robežas apraksts",
+      "rationale": "Ziemeļu robežas punktu uzskaitījums"
+    }
+  ],
+  "translation": "Un šī ⟨ir⟩ zemes robeža ziemeļu pusē: no Lielās jūras, ceļš uz Hetlonu, līdz ieejai Cedadā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "48439d84446e1c13881ce01df2068fd4c7f2fc3d6191dab9016553683ff626ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/47\/13-16.1792525867068.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Un šī"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robeža"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pusē"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Lielās"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "Hetlonu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "līdz ieejai"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "Cedadā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:51:07.069155674Z",
+  "model": "glm-5.3"
+}

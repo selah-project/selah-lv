@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 28:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "Ivritā teikuma salikums bez laika piedēkļa; latviešu valodai vajag saikli starp nosacījumu un sekām."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miers",
+      "rationale": "שלום ir plašāk: labklājība, veselība, svētība — ne tikai kara pretstats."
+    }
+  ],
+  "translation": "Pravietis, kas pravietē par mieru, — kad ierodas pravieša vārds, tad kļūst zināms pravietis, ko Jahve patiesi sūtījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cc92d4f8c11316879be70ab7196a06c9f684551270e3c52148a27d0b6ca40e32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/28\/9-12.1792523941742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "pravietē"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "par mieru"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "kad ierodas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kļūst zināms"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sūtījis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:01.743128951Z",
+  "model": "glm-5.3"
+}

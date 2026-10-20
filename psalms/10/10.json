@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "'ar sava varenība (spēka ķepas) vai ar saviem varenajiem — daudzskaitļa abstrakts; ņemts 'viņa spēks'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Vārds 'vārgie' Tanahā sastopams tikai šeit un Ps 12:6."
+    }
+  ],
+  "translation": "Un viņš sagrūž ⟨un⟩ noliekas, un krīt no viņa spēka vārgie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "89187bd983bfbc42cf8dc33880766d172d860e47757cfabad30f6293d4b86682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/10-11.1792532753514.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "sagrūž"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "noliekas"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "un krīt"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "no viņa spēka"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "vārgie"
+    }
+  ],
+  "timestamp": "2026-10-20T21:45:53.514856291Z",
+  "model": "glm-5.3"
+}

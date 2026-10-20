@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stiprini manas rokas",
+      "rationale": "Ebreju tekstā nav uzrunas 'mans Dievs' (KJV\/BSB pievieno 'O God'); lūgums paliek bez adresāta."
+    },
+    {
+      "kind": "you",
+      "subject": "lūgums",
+      "rationale": "Neemija noslēdz ar klusu lūgumu — vērsts pie Elohim, kaut tas nav nosaukts."
+    }
+  ],
+  "translation": "Jo visi tie mēs centās biedēt ⟨את⟩ mūs, sacīdami: viņu rokas atslābs no darba, un tas netiks paveikts. Bet tagad stiprini ⟨את⟩ manas rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/6\/9-12.1792530715322.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi tie"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "centās biedēt"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ mūs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "atslābs"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "viņu rokas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un... ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tiks paveikts"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "bet tagad"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "stiprini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manas rokas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manas rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:11:55.323497001Z",
+  "model": "glm-5.3"
+}

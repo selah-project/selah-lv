@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "katrs",
+      "rationale": "איש אישו — burtiski 'vīrs savu vīru'; latviski 'katrs savu vīru' izsaka distributīvo nozīmi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jātniekiem",
+      "rationale": "פרשים — zirgu jājamies izmantoti zirgi\/jātnieki; konteksts pieļauj arī 'zirgu vilkmes"
+    }
+  ],
+  "translation": "Un katrais sita savu vīru, un Arams bēga, un Jisraēls tos vajāja; un Ben-Hadads, Arama ķēniņš, izglābās uz zirga ⟨kopā⟩ ar jātniekiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/17-20.1792520960738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "un sita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "savu vīru"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "un bēga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "un vajāja tos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "un izglābās"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadads"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "zirga"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ar jātniekiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:29:20.740043763Z",
+  "model": "glm-5.3"
+}

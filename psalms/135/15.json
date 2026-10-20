@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodā vajadzīgs"
+    },
+    {
+      "kind": "you",
+      "subject": "Lasītājam",
+      "rationale": "Smaidu par tautu elkiem — tiešs kontrasts ar Jahve 13.–14. pantā"
+    }
+  ],
+  "translation": "Tautu elki ⟨ir⟩ sudrabs un zelts, cilvēku roku darbs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/135\/13-16.1792528365557.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "elki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabs"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "un zelts"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "roku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:45.558301968Z",
+  "model": "glm-5.3"
+}

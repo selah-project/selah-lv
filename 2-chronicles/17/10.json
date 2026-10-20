@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nāca",
+      "rationale": "ויהי 'un notika' pieprasija latviešu darbības vārdu — pārnestas bailes 'nāk'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bailes",
+      "rationale": "פחד ir pēkšņas šausmas\/baiļu objekts, ne vienkārši 'godbijība'."
+    }
+  ],
+  "translation": "Un Jahves bailes ⟨nāca⟩ pār visām zemju valstīm, kas bija ap Jūdu, un tās nekaroja ar Jehošafatu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "23d93828aaa94ed6b26e46fcc528bea0c155ce580f4d6112ebd37c7dad046273",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/17\/9-12.1792531966682.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bailes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "valstīm"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "karoja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafatu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:46.682952597Z",
+  "model": "glm-5.3"
+}

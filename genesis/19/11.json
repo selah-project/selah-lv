@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סנורים",
+      "rationale": "Vārds 'sənorim' parādās tikai šeit Tanahā — 'apdullinājums, aklums'; tā precīzā nozīme neskaidra."
+    },
+    {
+      "kind": "addition",
+      "subject": "stāvēja",
+      "rationale": "Ebreju teikums nav pilns predikāts — 'pie mājas ieejas' bez darbības vārda."
+    }
+  ],
+  "translation": "Un ⟨את⟩ vīrus, kas ⟨stāvēja⟩ pie mājas durvīm, viņi sita ar apdullinājumu — aklumu — no mazā līdz lielajam, un viņi nogura, meklējot ieeju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/19\/9-12.1792511805147.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vīrus"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīrus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pie durvīm"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mājas"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "sita"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ar apdullinājumu — aklumu"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "no mazā"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielajam"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "un viņi nogura"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "meklēt \/ atrast"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ieeju"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:45.148901689Z",
+  "model": "glm-5.3"
+}

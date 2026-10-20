@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 19:27",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nieres",
+      "rationale": "כליות burtiski 'nieres', iekšējās es vietā; latviešu lasītājs pierasts 'sirds' (BSB)"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלו כליתי",
+      "rationale": "Burtiski 'galīgi izsīkušas manas nieres' — sāpes vai ilgas (BSB: 'kā mana sirds ilgojas')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis stāvokļa teikumā"
+    }
+  ],
+  "translation": "kuru es pats ieraudzīšu, un manas acis redzēs, un nevis svešinieks; galīgi izsīkušas ⟨ir⟩ manas nieres manā klēpī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/19\/25-28.1792529250263.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es pats"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ieraudzīšu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sev⟩"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "un manas acis"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nevis"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešinieks"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "galīgi izsīkušas"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "manas nieres"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "manā klēpī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:30.265008675Z",
+  "model": "glm-5.3"
+}

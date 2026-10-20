@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Sukot-Benot",
+      "rationale": "סכות בנות burtiski 'meitu būdas'; daži to lasa kā dievības vārdu, citi kā 'prieku būdas' — Babilonas dievietes atveidojums."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשימא",
+      "rationale": "Ašima — vārds Tanahā tikai šeit."
+    }
+  ],
+  "translation": "Un Bābeles vīri darīja ⟨את⟩ Sukot-Benot, un Kūtas vīri darīja ⟨את⟩ Nergalu, un Hamatas vīri darīja ⟨את⟩ Ašimu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/29-32.1792521582067.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Un vīri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kūtas"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalu"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergalu"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatas"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašimu"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ašimu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:42.067915784Z",
+  "model": "glm-5.3"
+}

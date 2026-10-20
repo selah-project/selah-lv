@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניהם",
+      "rationale": "burtiski 'no viņu sevis\/acīm' — idioms 'no viņu klātbūtnes'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valoda to prasa."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": " tieša uzruna otrajā personā — 'tavs Elohim tavā vidū'."
+    }
+  ],
+  "translation": "Netrīcies no viņu ⟨sejas⟩, jo Jahve, tavs Elohim, ⟨ir⟩ tavā vidū, El liels un baisms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d989ccd62863d365d2f782a116dc1b23206af0a32478de209e8c43a99747356",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/21-24.1792516846232.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "trīcies"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "no viņu ⟨sejas⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavā vidū"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liels"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "un baisms"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:46.233721659Z",
+  "model": "glm-5.3"
+}

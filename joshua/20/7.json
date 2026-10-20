@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "ekvatīvs 'היא חברון' bez darbības vārda; latviski pievienota kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקדשו ... קדש",
+      "rationale": "darbības vārds 'iesvētīja' un pilsētas vārds Kedeš dalā vienu sakni — svētīja Kedešu ('svētumu'."
+    }
+  ],
+  "translation": "Un viņi iesvētīja ⟨את⟩ Kedešu Galilejā, Naftali kalnā, un ⟨את⟩ Šķēmu Efrajima kalnā, un ⟨את⟩ Kirjat-Arbu — tā ⟨ir⟩ Hebrona — Jehudas kalnā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9a82516ad312c8324a31ecaa2a21d66065719f50c192d23e9a0feeb824d09c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/20\/5-8.1792518042310.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Un iesvētīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedešu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedešu"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galilejā"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Šķēmu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šķēmu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Kirjat-Arbu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arbu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:40:42.311085378Z",
+  "model": "glm-5.3"
+}

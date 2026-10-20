@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כחלק",
+      "gloss": "ortogrāfijas kļūda — jābūt 'kā daļu'",
+      "rationale": "Labots."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממכריו על האבות",
+      "rationale": "Slavens strīda punkts: 'no viņa pārdotā pēc tēviem' (mantojuma pārdošanas) pret lūkiana lasījumu ממכרו בכסף ('no pārdošanas par naudu') un pret 'izņemot to, kas viņam pienākas pēc tēvu namiem' (JPS)."
+    }
+  ],
+  "translation": "Daļu kā daļu viņi ēdīs, atsevišķi no viņa pārdotā pēc tēvu namiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/18\/5-8.1792517059824.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "daļu"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "kā daלu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "viņi ēdīs"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "atsevišķi"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "no viņa pārdotā"
+    },
+    {
+      "surface": "על",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tēvu namieniem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:19.826854655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יציץ",
+      "rationale": "Sakne nozīmē gan 'mirdzēt\/zibsnīt', gan 'plaukt' — vainags kā ziedošs un mirdzošs vienā vārdā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vainags",
+      "rationale": "נזר ir veltījuma\/svētuma zīme — diadēma, nevis ķēniņa kronis (עטרה)."
+    }
+  ],
+  "translation": "Viņa ienaidniekus es ģērbšu kaunā, bet uz viņa viņa vainags noplauks spoži.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/132\/17-18.1792528363849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוֹיְבָיו",
+      "gloss": "viņa ienaidniekus"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "es ģērbšu"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "kaunā"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "bet uz viņa"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "noplauks spoži"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "viņa vainags"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:43.850471386Z",
+  "model": "glm-5.3"
+}

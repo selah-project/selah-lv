@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zviedz",
+      "rationale": "צהל ir zirga zviedziens — attēls paliek dzīvs tikai ar zirga vārdu"
+    },
+    {
+      "kind": "crux",
+      "subject": "משכים",
+      "rationale": "šakak 'klejot iekārē' (ASV 'roaming at large') pret שכם 'ceļoties agri' (KJV 'in the morning')"
+    }
+  ],
+  "translation": "Kā paēdināti ērzeņi, izšķērdīgi tie bija; ikviens pēc sava tuvākā sievas zviedz.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/5-8.1792523312518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "ērzeņi"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "paēdināti"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "izšķērdīgi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tie bija"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sava tuvākā"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "zviedz"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:32.519371022Z",
+  "model": "glm-5.3"
+}

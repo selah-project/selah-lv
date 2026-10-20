@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 27:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; izteikums ir bezdarbības teikums bez 'ir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ar El \/ no El",
+      "rationale": "עם אֵל var nozīmēt 'kopā ar El' (daļa, ko Dievs piešķir) vai 'no El' (daļa, kas nāk no Dieva); tulkotāji dalās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varmākas",
+      "rationale": "עריצים burtiski 'briesmīgie, varenie tirāni'."
+    }
+  ],
+  "translation": "Šī ⟨ir⟩ ļaunā cilvēka daļa no El, un varmāku mantojums — no Šadai tas tiks ņemts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/27\/13-16.1792529392358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "daļa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "un mantojums"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "varmāku"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "no Šadai"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "tiks ņemts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:52.358847009Z",
+  "model": "glm-5.3"
+}

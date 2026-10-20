@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jūdales karavīriem uz mūra",
+      "rationale": "Rabšakes runa tieši vērsta uz Jerušalaimas aizstāvjiem."
+    },
+    {
+      "kind": "crux",
+      "subject": "no viņa rokas",
+      "rationale": "מידו — 'no viņa rokas' (Hizkijas) vai 'no manas rokas' (runātāja ķēniņa); BSB izvēlas 'no manas rokas'."
+    }
+  ],
+  "translation": "Tā saka ķēniņš: lai Hizkija jūs nepievil, jo viņš nevarēs izglābt ⟨את⟩jūs no viņa rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/29-32.1792521643251.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "pievil"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "varēs"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "izglābt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩jūs",
+      "marks": "jūs"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "no viņa rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:40:43.252202255Z",
+  "model": "glm-5.3"
+}

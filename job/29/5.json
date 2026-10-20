@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav darbības vārda; latviešu valodai vajag saikli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Šadai",
+      "rationale": "שדי tiek saglabāts pēc skanējuma, nevis tulkots kā 'Visvarenais'."
+    }
+  ],
+  "translation": "Kad vēl Šadai ⟨bija⟩ ar mani, un mani jaunekļi mani visapkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "742582796b05feb8b475dd433ff3c51c84dc5c98441d30b235ebdcd502c8ddce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/29\/5-8.1792529368631.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "kad vēl"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "visapkārt"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mani jaunekļi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:28.632486070Z",
+  "model": "glm-5.3"
+}

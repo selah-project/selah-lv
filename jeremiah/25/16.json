@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "no zobena vaiga",
+      "rationale": "מפני burtiski 'no sejas' — 'zemā, priekšā'; latviski 'no zobena (vaiga)' saglabā tēlu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prātu zaudēs",
+      "rationale": "התהולל ir 'rīkoties kā traks, pašpaļāvīgi dauzīties' — ne tikai trakošana"
+    }
+  ],
+  "translation": "Un tie dzers, un tie kratais un prātu zaudēs no zobena vaiga, ko Es sūtu starp viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/25\/13-16.1792523859213.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "Un tie dzers"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "un tie kratais"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "un prātu zaudēs"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no… vaiga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sūtu"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "starp viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:17:39.214237100Z",
+  "model": "glm-5.3"
+}

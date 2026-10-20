@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kļuva",
+      "rationale": "ebreju tekstā nav darbības vārda 'kļūt' — teikuma ekvivalents pievienots."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבער אש",
+      "rationale": "uguns degšanas tēls turpinās 'karstās sirds' tēlu — pakāpeniska kvēle līdz runai."
+    }
+  ],
+  "translation": "Mana sirds ⟨kļuva⟩ karsta iekš manī, manā pārdomā uguns iedegās, es runāju ar savu mēli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/39\/1-4.1792527493829.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "karsta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Mana sirds"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "iekš manī"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "manā pārdomā"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "iedegās"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "es runāju"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ar savu mēli"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:13.830344011Z",
+  "model": "glm-5.3"
+}

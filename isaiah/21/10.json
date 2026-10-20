@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מדשתי ובן גרני",
+      "rationale": "Tēls: tauta kā kuļamie graudi uz kuldiņas — uzruna apspiestajai tautai"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובן גרני",
+      "rationale": "'mana kuldiņas bērns' — dēls, kas piedzimis uz kuldiņas, jeb pēc dažiem 'kuldiņas grauds'"
+    }
+  ],
+  "translation": "Mani kuļamie, mana kuldiņa bērni! To, ko esmu dzirdējis no ⟨את⟩ Jahve Cevaot, Jisraēla Elohim, to esmu jums paziņojis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/21\/9-12.1792522148073.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Mani kuļamie"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "un bērni"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "mana kuldiņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "esmu dzirdējis"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Cevaot, Jisraēla Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "esmu paziņojis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:08.074798927Z",
+  "model": "glm-5.3"
+}

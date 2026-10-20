@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Emphatic pronoun הוא rendered with bracketed pronoun for clarity"
+    },
+    {
+      "kind": "crux",
+      "subject": "Adads\/Hadads",
+      "rationale": "Tanav pats vārds svārstās: אדד šeit, הדד vēlāk — viena un tā pati persona, atstāts kā tekstā"
+    }
+  ],
+  "translation": "Un aizbēga Adads — ⟨viņš⟩ un vīri, edomieši, no viņa tēva kalpiem, ⟨את⟩ ar viņu — lai ienāktu Micraimā; un Hadads bija jauneklis, vēl mazs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3163b2c09e3725e2b5055e959743d2c8ed86c75491d81d56ba6fedc3f1d06e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/17-20.1792520724089.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "un aizbēga"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adads"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomieši"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "no kalpiem"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lai ienāktu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "un Hadads"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mazs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:24.090266557Z",
+  "model": "glm-5.3"
+}

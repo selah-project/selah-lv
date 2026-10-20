@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "nāciet",
+      "rationale": "pantā piecas reizes atkārtots aicinājums 'nāciet' — tirgus sauciens, kas aicina lasītāju"
+    },
+    {
+      "kind": "crux",
+      "subject": "שברו",
+      "rationale": "no שבר 'tirgoties ar graudiem': 'pērciet' pret 'ļaujiet graudiem plūst' — tirdzniecības termins bez maksas piedāvāts par velti"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņam",
+      "rationale": "sevišķs paskaidrojošs vietniekvārds 'kas viņam nav sudraba'"
+    }
+  ],
+  "translation": "Ak, visi, kas slāpst, nāciet uz ūdeņiem, un kas ⟨viņam⟩ nav sudraba, nāciet, pērciet un ēdiet, un nāciet, pērciet bez sudraba un bez maksas vīnu un pienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/55\/1-4.1792522918742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "kas slāpst"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nāciet"
+    },
+    {
+      "surface": "למים",
+      "gloss": "uz ūdeņiem"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nāciet"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "pērciet"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "un ēdiet"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "un nāciet"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "pērciet"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "un bez"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "maksas"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vīnu"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "un pienu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:58.743323925Z",
+  "model": "glm-5.3"
+}

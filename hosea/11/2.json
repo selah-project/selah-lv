@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sauca",
+      "rationale": "קראו subjekts nav dots: pravieši (ASV\/JPS) vai pats Jahve (BSB); ebreju teksts to nenosaka."
+    },
+    {
+      "kind": "idiom",
+      "subject": "no viņu vaiga",
+      "rationale": "מפניהם burtiski 'no viņu sejas' = 'no viņu klātbūtnes, prom no viņiem'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קראו \/ קראתי",
+      "rationale": "Vārds 'sauca' atbild uz 11:1 'Es saucu' — tas pats darbības vārds,pretējā virzienā."
+    }
+  ],
+  "translation": "Viņus sauca — un tie aizgāja no viņu vaiga: Baaliem tie upurēja, un izgrebtiem elugrebumiem tie kūpināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/11\/1-4.1792526110140.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "sauca"
+    },
+    {
+      "surface": "להם",
+      "gloss": "Viņus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tie aizgāja"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "no viņu vaiga"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baaliem"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "tie upurēja"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "un izgrebtiem elugrebumiem"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "tie kūpināja"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:10.140941542Z",
+  "model": "glm-5.3"
+}

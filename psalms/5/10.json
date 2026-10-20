@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "'nostiprināts\/stabils' pret 'patiesība' (KJV) un 'sirsnība' (JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gludina",
+      "rationale": "יחליקון burtiski 'padara gludu' — glaimu idiomātika, ne atsevišķs vārds 'flatter'"
+    }
+  ],
+  "translation": "Jo nav viņu mutē nekā nostiprināta, viņu iekšiene ir posts, atvērts kaps ir viņu rīkle, ar mēli viņi gludina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/5\/9-12.1792527019087.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "viņu mutē"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "kas nostiprināts"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "viņu iekšiene"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "posts"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kaps"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "atvērts"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "viņu rīkle"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "viņu mēlu"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "viņi gludina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:19.092852561Z",
+  "model": "glm-5.3"
+}

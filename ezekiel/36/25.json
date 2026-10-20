@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nopļaukšu",
+      "rationale": "וזרקתי nozīmē 'apkaisīt\/apslaucīt' ar šķidrumu; izvēlēta viena latviešu darbība vienam ebreju vārdam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טהר\/טמא",
+      "rationale": "šķīstība pret nešķīstību — tīrības saknes atkārtojas trīsreiz pārī ar טמא vienreiz"
+    }
+  ],
+  "translation": "Un nopļaukšu pār jums tīru ūdeni, un jūs būsit tīri no visām savām nešķīstībām un no visiem saviem elkiem — es jūs šķīstīšu ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "22db0b8bccbc122b1d89bc6e901f67801c334f3439afc9c5dbe9e05d56ee79a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/36\/25-28.1792525583569.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "un nopļaukšu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pār jums"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeni"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "tīru"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "un jūs būsit tīri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visām"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "savām nešķīstībām"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "un no visiem"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "saviem elkiem"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "es šķīstīšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:46:23.570582493Z",
+  "model": "glm-5.3"
+}

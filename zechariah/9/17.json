@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu izsauksmei vajag ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "viņa \/ viņu",
+      "rationale": "טובו — viņskaitļa priedēklis: vai tas ir par Jahvi (viņa) vai par tautu (viņu, kā JPS); saistība ar 9:16 'akmens vainagam'"
+    },
+    {
+      "kind": "crux",
+      "subject": "zēniem plauks",
+      "rationale": "Vai labība un jaunvīns zēnus un jaunavas dara plaukošus (darīt plaukt), vai tie paši plaukst — darbības vārda ינובב subjekts nav viennozīmīgs"
+    }
+  ],
+  "translation": "Cik liela ⟨ir⟩ viņa labums un cik liela ⟨ir⟩ viņa daiļums! Labība zēniem plauks un jaunvīns jaunavām uzplauks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49689ce843762268131ffbf3f56310a2eb81c7f00fb270bfe30595e5143680a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/17-17.1792526870839.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "cik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cik"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "viņa labums"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un cik"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "viņa daiļums"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "labība"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "zēniem"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "un jaunvīns"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "uzplauks"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "jaunavām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:07:50.839935978Z",
+  "model": "glm-5.3"
+}

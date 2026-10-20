@@ -1,0 +1,189 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 5:1",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עברנו",
+      "rationale": "Pirmā persona daudzskaitlis 'līdz mēs pārgājām' — liecinieka balss; daudzi tulki to gludina uz trešo personu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "ruah: elpa\/gars\/drošsirdība — latviski atstāts kā ruah viena vārda dēļ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוביש \/ יבש",
+      "rationale": "Sakne nozīmē gan 'izkaltēt', gan 'apkaunot' — Jordāna izkalšana reizē ir ķēniņu kauns."
+    }
+  ],
+  "translation": "Un notika, kad visi emoriešu ķēniņi, kas ⟨bija⟩ otrā pusē Jordānam, rietumu pusē, un visi kanaāniešu ķēniņi, kas ⟨bija>> pie jūras, dzirdēja, ⟨את⟩ to, ko Jahve izkaltēja, ⟨את>> Jordāna ūdeņus Jisraēla dēlu priekšā, līdz ⟨mēs>> tām pāri, tad viņu sirds izkusa, un viņos vairs ⟨nebija>> ruah no Jisraēla dēlu priekšas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25432fdf4013fc71ab1645f5617e6a753df1e8235c7107addd841b415a377264",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/5\/1-4.1792517615777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad dzirdēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "otrā pusē"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānam"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "rietumu pusē"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaāniešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko Jahve izkaltēja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, ko"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "izkaltēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordāna ūdeņus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordāna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "mēs pārgājām"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "un izkusa"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "viņu sirds"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un vairs ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "בם",
+      "gloss": "viņos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:33:35.778670772Z",
+  "model": "glm-5.3"
+}

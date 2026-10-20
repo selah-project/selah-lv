@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 41:36",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "netiktu nocirsta",
+      "rationale": "כרת burtiski 'nocirst\/iznīdēt'; latviskā parastā izvēle 'neiet bojā' zaudē griešanas ainu — saglabāts 'nocirsta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "dēļ",
+      "rationale": "Ivrita ברעב ir vienkārši 'ar badu'; latviešu valodai vajadzīgs prievārds ⟨dēļ⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septiņi bada gadi",
+      "rationale": "Gadu skaits norādīts precīzi"
+    }
+  ],
+  "translation": "Un šī barība būs krājums zemei septiņiem bada gadiem, kādi būs Micraimas zemē, lai zeme netiktu nocirsta bada ⟨dēļ⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "245db51fcb53d8a8f52559ad11388765297324ad42137efdba8179a50ff34ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/33-36.1792512488794.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un ... būs"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "barība"
+    },
+    {
+      "surface": "לפקדון",
+      "gloss": "krājums"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "septiņiem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gadiem"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kādi"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "būs"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "netiktu nocirsta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "bada"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:08.795662067Z",
+  "model": "glm-5.3"
+}

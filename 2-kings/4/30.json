@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa\/dzīvspēks, ne dvēsele platóniskā nozīmē."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם אעזבך",
+      "rationale": "Nolieguma zvēresta forma: 'ja es tevi atstāšu' nozīmē 'es tevi neatstāšu nekad'."
+    }
+  ],
+  "translation": "Un zēna māte sacīja: Par Jahves dzīvību un par tavas dvēseles dzīvību — ja es tevi atstāšu. Un viņš cēlās un gāja viņai pakaļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/4\/29-32.1792521192261.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "māte"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "zēna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "un dzīvību"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavas dvēseles"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "es tevi atstāšu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Un cēlās"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "viņai pakaļ"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:12.262353103Z",
+  "model": "glm-5.3"
+}

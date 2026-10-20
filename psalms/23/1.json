@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodā tas vajadzīgs"
+    },
+    {
+      "kind": "you",
+      "subject": "Dāvida — korekcija: Davida psalma",
+      "rationale": "Psalma virsraksts adresē dziedājumu Davidam"
+    }
+  ],
+  "translation": "Dziesma Dāvida. — korekcija: Dziesma Davida. Jahve ⟨ir⟩ mans gans, netrūkst man nekas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/23\/1-4.1792527215603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Dziesma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mans gans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "trūkst man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:35.605862379Z",
+  "model": "glm-5.3"
+}

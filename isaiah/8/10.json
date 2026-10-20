@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל",
+      "rationale": "'Ar mums El' skan kā עמנו אל — Immanuel vārda atbalss no 8:8; vārdu spēle zudēs, ja El aizstāts ar 'Dievs'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה · דברו דבר",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes katrā pārī — paronomāzija."
+    }
+  ],
+  "translation": "Pieņemiet padomu, un tas tiks lauzts; runājiet vārdu, un tas nesacelsies, jo ar mums ⟨ir⟩ El.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/8\/9-12.1792521922324.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Pieņemiet padomu"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "padomu"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "un tas tiks lauzts"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "runājiet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nesacelsies"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "nesacelsies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:22.325644732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש burtiski ir 'elpa, rīkle, dzīvības spēks', ne tikai 'dvēsele'; latviešu 'dvēsele' ir šaurs aizstājējs."
+    },
+    {
+      "kind": "crux",
+      "subject": "האבת",
+      "rationale": "'Ob' — burvis, kas izsauc mirušos; varianti: 'veļu izsaucējs', 'gara māmis', 'burvis'."
+    },
+    {
+      "kind": "secret",
+      "subject": "veļu izsaucēji",
+      "rationale": "Pants aizliedz slēpto zināšanu meklēšanu pie mirušajiem un gariem."
+    }
+  ],
+  "translation": "Un dvēsele, kas pagriežas pie veļu izsaucējiem un pie zīlētājiem, lai netiklīgi viņiem sekotu — Es vērsīšu Savu seju pret to dvēseli un iznīdēšu ⟨את⟩ viņu no viņa tautas vidus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/20\/5-8.1792515061150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "Un dvēsele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "pagriežas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "veļu izsaucējiem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "zīlētājiem"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "lai netiklīgi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "viņiem sekotu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "Es vērsīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savu seju"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seju"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "pret to dvēseli"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "un iznīdēšu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:01.153909999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "uzglūnēsim... paslēpsimies",
+      "rationale": "ieplānotā slepenā viltība — paslēpta slēpšanās upura dēļ"
+    },
+    {
+      "kind": "crux",
+      "subject": "bez iemesla",
+      "rationale": "חנם: 'bez iemesla' pret 'bez maksas, bez labuma'"
+    }
+  ],
+  "translation": "Ja tie saka: Nāc ⟨את⟩ ar mums, uzglūnēsim asinīm, paslēpsimies nevainīgajiem bez iemesla —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/9-12.1792528516193.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "tie saka"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "nāc"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ar mums",
+      "marks": "ar mums"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "uzglūnēsim"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "asinīm"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "paslēpsimies"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "nevainīgajiem"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez iemesla"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:16.194759392Z",
+  "model": "glm-5.3"
+}

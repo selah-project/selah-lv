@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mājokļa vietā",
+      "rationale": "מכון שבתך ir 'Tava mājošanas pamatvieta' — viens saistīts izteikums par debesīm kā troņa vietu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Šlomo lūguma turpinājums vērsts pie Jahves"
+    }
+  ],
+  "translation": "un Tu noklausīsies debesīs, Tava mājokļa vietā, ⟨את⟩ viņu lūgšanu un ⟨את⟩ viņu dievbijīgo piesardzību, un Tu darīsi viņu tiesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/49-52.1792520585213.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "un Tu noklausīsies"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mājokļa vietā"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "Tava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu lūgšanu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "viņu lūgšanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "viņu dievbijīgā piesardzība"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "viņu dievbijīgā piesardzība"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "un Tu darīsi"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "viņu tiesu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:05.214105035Z",
+  "model": "glm-5.3"
+}

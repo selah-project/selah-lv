@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 4:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā pietiek ar חי יהוה — 'dzīvs Jahve'; latviešu valodai vajag saikli 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — nav nemateriāla 'dvēsele'"
+    },
+    {
+      "kind": "you",
+      "subject": "Davids Rehābam un Baanam",
+      "rationale": "Runa vērsta tieši pie diviem slepkavības izpildītājiem"
+    }
+  ],
+  "translation": "Un Davids atbildēja ⟨את⟩ Rehābam un ⟨את⟩ Baanam, viņa brālim, Rimona dēliem, beerotiešiem, un sacīja viņiem: Dzīvs ⟨ir⟩ Jahve, kas izpestīja ⟨את⟩ manu dzīvību no visas ciešanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/4\/9-12.1792519672233.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rehābam"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rehābam"
+    },
+    {
+      "surface": "וית",
+      "gloss": "un ⟨את⟩",
+      "marks": "Baanam"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Baanam"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "viņa brālis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimona"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "beerotieši"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "izpestīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano dzīvību"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano dzīvību"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visas"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ciešanas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:52.233894656Z",
+  "model": "glm-5.3"
+}

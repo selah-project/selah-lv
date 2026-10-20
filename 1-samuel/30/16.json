@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 30:16",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "plēšu",
+      "rationale": "פלשתים — plēši (filistieši), ebreju skanējums"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחגגים",
+      "rationale": "'Svin svētkus' no hag saknes — KJV tulko 'dejo', JPS 'svin'; svētku gājiens vai līksmošana"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbs vārdam 'izplatījušies'"
+    }
+  ],
+  "translation": "Un viņš viņu novadīja lejup, un lūk — tie bija izplatījušies pāri visai zemei, ēd un dzer un svin svētkus ar visu lielo laupījumu, ko tie bija paņēmuši no plēšu zemes un no Jehudas zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/30\/13-16.1792519498445.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדהו",
+      "gloss": "Un viņš viņu novadīja lejup"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "נטשים",
+      "gloss": "izplatījušies"
+    },
+    {
+      "surface": "על",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "un dzer"
+    },
+    {
+      "surface": "וחגגים",
+      "gloss": "un svin svētkus"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "lau­pījumu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tie bija paņēmuši"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plēšu"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "un no zemes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:58.448064454Z",
+  "model": "glm-5.3"
+}

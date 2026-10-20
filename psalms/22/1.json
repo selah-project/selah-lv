@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אילת השחר",
+      "rationale": "«Rīta austrijas ļavis» — melogrāfijas nosaukums, parādās tikai šeit Tanahā; saglabāts transliterēts ar tulkojumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "Burtiski «tam, kas izceļ\/pārrauga» — par «diriģents» korusa vadības nozīmē."
+    }
+  ],
+  "translation": "Diriģentam, pēc «Aijelet ha-Šahar» — rīta austrijas ļavis, Davida psalms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/1-4.1792527226813.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aijelet — ļavis"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Šahar — rīta austrija"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalms"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:46.813837196Z",
+  "model": "glm-5.3"
+}

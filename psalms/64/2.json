@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨manā⟩",
+      "rationale": "Latviešu valodai vajadzīgs piederības apzīmējums; ebreju ׃שיחי jau ir konstrukts ar suffiksu."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tieša uzruna Dievam — lūguma sākums."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausi",
+      "rationale": "Imperatīvs uzrunā Elohim."
+    }
+  ],
+  "translation": "Klausi, Elohim, manu balsi ⟨manā⟩ pārdomā; no ienaidnieka baismām tu sargā manu dzīvību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/64\/1-4.1792527759914.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Klausi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "manu balsi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "pārdomā"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "baismām"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieka"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "dzīvību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:39.914944761Z",
+  "model": "glm-5.3"
+}

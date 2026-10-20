@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 4:13",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' — salīdzinājums ir bez darbības vārda"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסופה",
+      "rationale": "Vārds parādās tikai šeit: 'viesulis' pret 'kā smiltis izkaisīts mākonis'"
+    }
+  ],
+  "translation": "Redzi, viņš uzkāpj kā mākoņi, un kā viesulis ⟨ir⟩ viņa karietes; viņa zirgi ir ātrāki par ērgļiem. Vai mums, jo mēs esam izpostīti!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a702b505911ed8b1364af1eb91b82acfc13dd9a377d12827d00801a5772f52ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/4\/13-16.1792523283876.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "כעננים",
+      "gloss": "kā mākoņi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uzkāpj"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "un kā viesulis"
+    },
+    {
+      "surface": "מרכבותיו",
+      "gloss": "viņa karietes"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ir ātrāki"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "par ērgļiem"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "viņa zirgi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "esam izpostīti"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:03.876998452Z",
+  "model": "glm-5.3"
+}

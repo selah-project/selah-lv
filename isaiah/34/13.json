@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 34:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "קִמּוֹשׂ nav parasts 'ērkšķis', bet rets ērkšķu augs; daudzi tulkojumi vienkāršo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šakāļu",
+      "rationale": "תַנִּים no saknes תנין (jūras briesmonis); šeit tuksneša iemītnieks — šakālis vai briesmonis"
+    },
+    {
+      "kind": "literal-shape",
+      "subject": "pūču meitām",
+      "rationale": "לִבְנוֹת יַעֲנָה burtiski 'pūču meitas' — atstāts burtiski, nevis vienkārši 'pūces'"
+    }
+  ],
+  "translation": "Un viņas pilīs uzaugs nātres, ērkšķi un dadži viņas cietokšņos, un tā būs šakāļu mājvieta, pagalms pūču meitām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/34\/13-16.1792522530716.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלתה",
+      "gloss": "uzaugs"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "viņas pilīs"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "nātres"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "ērkšķi"
+    },
+    {
+      "surface": "וחוח",
+      "gloss": "dadži"
+    },
+    {
+      "surface": "במבצריה",
+      "gloss": "viņas cietokšņos"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "mājvieta"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "šakāļu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "pagalms"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "meitām"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "pūce"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:30.717178866Z",
+  "model": "glm-5.3"
+}

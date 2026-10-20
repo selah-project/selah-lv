@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ecclesiastes 2:26",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Viņš dod",
+      "rationale": "Ebreju tekstā darbības vārds נתן ir bez skaidra subjekta; 'Viņš' pievienots, jo pante beidzas ar Elohim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tukšība",
+      "rationale": "הבל burtiski 'tvaika elpa'; Koheleta atslēgas vārds, turēts kā 'tukšība'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah dzenāšana",
+      "rationale": "ורעות רוח burtiski 'ruah ganīšana\/tvēršana'; 'dzenāšana pakaļ vējam' — ruah atstāts pēc D2 noteikuma."
+    }
+  ],
+  "translation": "Jo cilvēkam, kas ir labs Viņa acīs, Viņš dod gudrību, atziņu un prieku; bet grēciniekam Viņš dod pūles — lasīt un krāt, lai dot tam, kas ir labs Elohim acīs. Arī tas ir tukšība un ruah dzenāšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/2\/25-26.1792529885133.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "שטוב",
+      "gloss": "kas ir labs"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Viņa acīs"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Viņš dod"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "un atziņu"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "un prieku"
+    },
+    {
+      "surface": "ולחוטא",
+      "gloss": "bet grēciniekam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Viņš dod"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "pūles"
+    },
+    {
+      "surface": "לאסוף",
+      "gloss": "lasīt"
+    },
+    {
+      "surface": "ולכנוס",
+      "gloss": "un krāt"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "lai dot"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "tam, kas ir labs"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tukšība"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "un dzenāšana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:05.133969823Z",
+  "model": "glm-5.3"
+}

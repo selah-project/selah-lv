@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikla; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרח תרח",
+      "rationale": "Vārda atkārtojums teikuma sākumā — Toeledoš formulas stils."
+    }
+  ],
+  "translation": "Un šie ⟨ir⟩ Teraha paaudzes: Teraham piedzima ⟨את⟩ Avrams, ⟨את⟩ Nahors un ⟨את⟩ Harans, un Haranam piedzima ⟨את⟩ Lots.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e6e58dbd47d6d75fa1270b773da5781955ca23492279f81ade5a20207a1b728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/11\/25-28.1792511639538.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "un šie"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "paaudzes"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahs"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "piedzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrams"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahors"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahors"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Harans"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harans"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "un Harans"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "piedzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lots"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lots"
+    }
+  ],
+  "timestamp": "2026-10-20T15:53:59.539563783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 3:14",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעלתי",
+      "rationale": "'Esmu kļuvis par jūsu Baalu\/valdnieku' (saista ar dievību Baalu) pret 'esmu apprecējis jūs' (KJV) — sakne בעל nozīmē gan 'kungs, īpašnieks', gan 'vīrs'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובו\/שובבים",
+      "rationale": "Saknes שׁוּב atkārtošanās: 'atgriezieties, bērni atkritēji' — latviski zūd."
+    },
+    {
+      "kind": "invitation",
+      "subject": "aicinājums atgriezties",
+      "rationale": "Pavēle שובו atver pantu un aicina Israēlu atgriezties."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viens no pilsētas, divi no dzimtas",
+      "rationale": "Skaitļu mērogs — atlikušā tautas daļa."
+    }
+  ],
+  "translation": "Atgriezieties, bērni atkritēji, saka Jahve, jo es valdīju pār jums, un ņemšu ⟨את⟩ jūs — vienu no pilsētas un divus no dzimtas — un atvedīšu ⟨את⟩ jūs uz Cionu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ff1da43b5b9f1edf590e6c17b6c7f1ead1add17687c259c67a12def594e5807",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/3\/13-16.1792523235674.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "atgriezieties"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "atkritēji"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "בעלתי",
+      "gloss": "valdīju pār jums"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pār jums"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "un ņemšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "no pilsētas"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "un divus"
+    },
+    {
+      "surface": "ממשפחה",
+      "gloss": "no dzimtas"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "un atvedīšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "uz Cionu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:07:15.675779093Z",
+  "model": "glm-5.3"
+}

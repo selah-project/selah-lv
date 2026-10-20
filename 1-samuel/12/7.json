@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקות pēc noteikumiem netiek tulkots vienā vārdā 'taisnība'; atstāts 'cedek' kā viena sakne ar 'tiesāt' skanējumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "tiesāšu ar jums",
+      "rationale": "'es tiesāšu jūs' pret 'es runāšu par jums argumentus' — tiesas valoda, ne ikdienas strīds."
+    },
+    {
+      "kind": "invitation",
+      "subject": "stāviet",
+      "rationale": "Imperatīvs uzrunā tautu — aicinājums nostāties Jahves priekšā."
+    }
+  ],
+  "translation": "Un tagad stāviet ⟨šeit⟩, un es tiesāšu jūs ⟨את⟩ Jahves priekšā ⟨par⟩ visu cedek, ko Jahve darīja ⟨את⟩ ar jums un ⟨את⟩ ar jūsu tēviem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/12\/5-8.1792518989136.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "stāviet"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "un es tiesāšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jūs ⟨את⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu cedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ar jums ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ar jūsu tēviem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:29.137956171Z",
+  "model": "glm-5.3"
+}

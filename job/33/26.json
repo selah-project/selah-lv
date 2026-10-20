@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 33:26",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעתר",
+      "rationale": "Sakne nozīmē 'kūpināt kvēpieturu'; šeit 'lūgt, pielūgt' — daži tulkotāji lasa 'viņš uzvarētājiem pielūdz'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדקה pēc D2 paliek 'cedek' — taisnība\/tiesiskums kā viena sakne, ne viens izvēlēts ekvivalents."
+    }
+  ],
+  "translation": "Viņš lūdz Eloah, un Viņš viņam labvēlīgi uzklausa, un viņš redz Viņa vaigu ar gaviļu saucieniem, un Viņš atdod cilvēkam viņa cedeku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c40663e9b049011f83a61f4f0770d7ed7994842b61788ac66cda02c7bc8d9a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/33\/25-28.1792529452309.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעתר",
+      "gloss": "viņš lūdz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "וירצהו",
+      "gloss": "un Viņš viņam labvēlīgi uzklausa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un viņš redz"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Viņa vaigu"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ar gaviļu saucieniem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un Viņš atdod"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "viņa cedeku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:52.309715581Z",
+  "model": "glm-5.3"
+}

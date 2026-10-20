@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zem savas vīna zares un vīģes koka",
+      "rationale": "Ebreju idiomats 'katrs zem savas vīnakoka un vīģes koka' = miers un pārticība ikvienam; latviski saglabāts burtiski."
+    },
+    {
+      "kind": "measurement",
+      "subject": "no Dānas līdz Beer-Šebai",
+      "rationale": "Ģeogrāfisks diapazons — viss apdzīvotais novads no ziemeļiem līdz dienvidiem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמה \/ לבטח",
+      "rationale": "Vārds Šelomo ('miers') atbalso tautas 'drošībā' — valdnieka vārdā ierakts valsts stāvoklis."
+    }
+  ],
+  "translation": "Un Jūda un Jisraēls dzīvoja drošībā, katrs zem savas vīna zares un zem savas vīģes koka, no Dānas līdz Beer-Šebai, visas Šelomo dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/5-8.1792520390123.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un dzīvoja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēls"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "drošībā"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "savas vīna zares"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "un zem"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "savas vīģes koka"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "no Dānas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:50.123784945Z",
+  "model": "glm-5.3"
+}

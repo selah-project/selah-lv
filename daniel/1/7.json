@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "vārdu maiņa",
+      "rationale": "tevoforiskie Jahves vārdi tiek aizstāti ar babiloniešu dievību vārdiem — identitātes pārrakstīšana."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨vārdu⟩",
+      "rationale": "otrajā 'uzlika' teikumā ebreju valodā vārds netiek atkārtots; latviešu valodai tas vajadzīgs skaidrībai."
+    }
+  ],
+  "translation": "Un eunuhu virsnieks tiem uzlika vārdus: un viņš uzlika Daniēlam ⟨vārdu⟩ Beltešacars, un Hananjam Šadraks, un Mišaēlam Mešaks, un Azarjam Aved-Nego.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2df86f112ae335f1a4105466b12477bf083395ce24b88438cf37e86878e2fd37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/1\/5-8.1792530122702.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "un uzlika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "שר",
+      "gloss": "virsnieks"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuhu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un viņš uzlika"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Daniēlam"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltešacars"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "un Hananjam"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Šadraks"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "un Mišaēlam"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mešaks"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "un Azarjam"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Aved-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:02.703184109Z",
+  "model": "glm-5.3"
+}

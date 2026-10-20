@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir \/ esi",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai tie vajadzīgi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasaule",
+      "rationale": "תבל ir apdzīvātā zeme (mitrā, apdzīvotā), savādāk nekā ארץ 'zeme' tajā pašā pantā."
+    }
+  ],
+  "translation": "Tavas ⟨ir⟩ debesis, arī Tava ⟨ir⟩ zeme; pasauli un tās pilnību Tu ⟨esi⟩ pamatojis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/9-12.1792528008544.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tavas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arī"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tava"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasaule"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "un tās pilnība"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "pamatoji"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:48.545197561Z",
+  "model": "glm-5.3"
+}

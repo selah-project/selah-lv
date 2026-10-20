@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "līdzi",
+      "rationale": "אתה šeit ir prievārds H854 ('ar, līdzās'), nevis priekšmeta zīmes H853; latviski pievienots 'līdzi', lai skaidrotu virzienu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ir stiprinājusies",
+      "rationale": "מתאמצת no אמץ 'kļūt stiprai, drošai' — arī 'ir nolēmusi ar visu spēku'."
+    }
+  ],
+  "translation": "Un viņa redzēja, ka tā ir stiprinājusies iet ⟨את⟩ viņu līdzi, un pārstāja runāt uz viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/17-20.1792529756187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "un viņa redzēja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ir stiprinājusies"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "līdzi — Rutas, ar kuru Noemi iet"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "un pārstāja"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "runāt"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "uz viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:56.188635320Z",
+  "model": "glm-5.3"
+}

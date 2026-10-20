@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savus",
+      "rationale": "Ipašnieka vietniekvārds pie 'draugus' izsecināts no apzīmētā ביתו 'savā namā' konteksta."
+    }
+  ],
+  "translation": "Un Hamans savaldījās un nāca savā namā; un viņš sūtīja un ataicināja ⟨את⟩ savus draugus un ⟨את⟩ Zerešu, savu sievu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/5\/9-12.1792530080468.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "savaldījās"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savā"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "namā"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ataicināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus draugus"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "savus draugus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerešu"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zerešu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savu sievu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:20.469083148Z",
+  "model": "glm-5.3"
+}

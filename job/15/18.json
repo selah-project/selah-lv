@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 15:18",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "no saviem",
+      "rationale": "Possessīvs elements latviešu valodā; ebreju ׀מאבותם ir vienkārši 'no tēviem'."
+    },
+    {
+      "kind": "secret",
+      "subject": "כחדו",
+      "rationale": "Darbības vārds 'slēpt' par tradīcijas nododami neatņemami."
+    }
+  ],
+  "translation": "ko gudrie pasludina un neslēpa no saviem tēviem,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "045d62d856cd4937b69d0bd74c781a588eb5979e5f4713ca197c41810b2f1809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/15\/17-20.1792529222724.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "gudrie"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "pasludina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un neslēpa"
+    },
+    {
+      "surface": "כחדו",
+      "gloss": "slēpt"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "no saviem tēviem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:02.724764873Z",
+  "model": "glm-5.3"
+}

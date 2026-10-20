@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Trīs vārdi ar vienu sakni-pamatu פח: šausmas, bedre, slazds — eskalācijas spēle, latviski daļēi saglabāta"
+    },
+    {
+      "kind": "you",
+      "subject": "Moāba iemītniek",
+      "rationale": "Tieša uzruna Moābas iedzīvotājam"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda; latviešu kopula pievienota iekavās"
+    }
+  ],
+  "translation": "Šausmas un bedre un slazds ⟨ir⟩ pār tevi, Moāba iemītniek, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0fe9c419ce9dfa805a91c5353bc7f0bb72cdfa1b9d90f6266f33806e627414a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/48\/41-44.1792524468484.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "šausmas"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "un bedre"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "un slazds"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "iemītniek"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moāba"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:27:48.485709265Z",
+  "model": "glm-5.3"
+}

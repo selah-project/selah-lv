@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רזון",
+      "rationale": "„izkāmums” — vārds Tanahā tikai šeit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēselē",
+      "rationale": "נפש ir tuvāk „elpai\/dzīvības spēkam” nekā dvēselei platonicā nozīmē."
+    }
+  ],
+  "translation": "Un Viņš deva viņiem viņu lūgumu, bet sūtīja izkāmumu viņu dvēselē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/13-16.1792528180533.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Un Viņš deva"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "viņu lūgumu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "bet sūtīja"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "izkāmumu"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "viņu dvēselē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:40.534276351Z",
+  "model": "glm-5.3"
+}

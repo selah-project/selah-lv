@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל־יוכלו",
+      "rationale": "Burtiski 'nē — viņi var' (netiks galā); latviski pievienots ⟨bet⟩ un ⟨to piepildīt⟩, lai teikums būtu pilnīgs."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמה",
+      "rationale": "'plāns, intriga' — KJV 'ļaunā ierīce', JPS 'ierīce, ar kuru netiks galā'."
+    }
+  ],
+  "translation": "Jo viņi vērsa ļaunumu pret tevi, izdomāja ļaunu plānu, ⟨bet⟩ nespēs ⟨to piepildīt⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/21\/9-12.1792527199437.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "viņi vērsa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "izdomāja"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ļaunu plānu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨bet⟩ nespēs"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "⟨to piepildīt⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:19.438349788Z",
+  "model": "glm-5.3"
+}

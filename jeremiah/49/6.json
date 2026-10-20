@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gūstu",
+      "rationale": "שבות burtiski 'atgriešanās no izsūtījuma' — izsūtījuma atgriezšana; 'gūsts' ir tuvākais viens vārds."
+    }
+  ],
+  "translation": "Un pēc tam es atgriezīšu ⟨את⟩ Ammona dēlu gūstu, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "76cc616a3c2e656254f1ab81e77f76d156599607e312b44f4247bc874678e347",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/49\/5-8.1792524488672.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "es atgriezīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammona dēlu gūstu"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gūstu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:28:08.673132295Z",
+  "model": "glm-5.3"
+}

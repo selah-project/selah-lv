@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lai aizmirst mana labā roka",
+      "rationale": "ערו תשכח ימיני — ebreju teksts piepeši apraujas: 'aizmirst' bez izteikta objekta; KJV pievieno 'her cunning', BSB 'cease to function'; teksts saka tikai 'aizmirst'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשכחך \/ תשכח",
+      "rationale": "Darbības vārds 'aizmirst' atkārtots divreiz — zvēresta spēks balstās uz šo atkārtojumu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "dziedātāja zvērests",
+      "rationale": "Pants ir personīgs lūgums\/noslēgums, kas vērsts uz Jerušalaimu ar vārdu — tieša uzruna."
+    }
+  ],
+  "translation": "Ja es aizmirsīšu tevi, Jerušalaima, lai aizmirst ⟨mana⟩ labā roka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/137\/5-8.1792528467336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "es aizmirsīšu tevi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lai aizmirst"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "labā roka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:27.336867738Z",
+  "model": "glm-5.3"
+}

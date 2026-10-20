@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמיר",
+      "rationale": "בֹּקֶר\/šamīr: dadzis, bet pašā vārdā slēpjas arī 'cietakmens'; latviski zūd šī dubultā nozīme"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Daži tulkojumi to lasa kā 'jo\/patiesa' (apostrofe), citi kā vienkāršu saikli 'un'"
+    }
+  ],
+  "translation": "Uz manas tautas zemes celsies ērkšķi un dadži, un uz visām prieka mājām, ⟨uz⟩ līksmo pilsētu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/32\/13-16.1792522389297.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manas tautas"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "ērkšķi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "dadži"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "celsies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "un"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mājām"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "prieka"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "līksmo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:09.297711686Z",
+  "model": "glm-5.3"
+}

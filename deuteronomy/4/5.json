@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "huqim un mišpatim",
+      "rationale": "חקים\/משפטיד paliek transliterēti, jo latviešu 'statūti un tiesas' pazaudē vārdu formu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "Moše runā tieši pie Israēla — 'redzi, es mācīju jums'"
+    }
+  ],
+  "translation": "Redzi, es mācīju jums ⟨את⟩ huqim un mišpatim, kā man pavēlēja Jahve, mans Elohim, tā darīt iekšā zemē, uz kuru jūs ejat turp, lai to apmantotu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca831a2fa84d6b6646d0f6ee2ff4e239f9b115521d6f68ca3a13ac3b61e8f00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/4\/5-8.1792516608315.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "es mācīju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jums ⟨את⟩",
+      "marks": "huqim un mišpatim"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "huqim"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "un mišpatim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "man pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iekšā"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uz kuru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ejat"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "lai to apmantotu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:16:48.317523522Z",
+  "model": "glm-5.3"
+}

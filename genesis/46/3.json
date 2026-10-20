@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā nav darāmā vārda; latviešu teikumam vajadzīgs saiklis"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovam\/Jisraēlam",
+      "rationale": "Dieva mierinājuma runa tieši Jēkabam pirms došanās uz Micraimu"
+    }
+  ],
+  "translation": "Un viņš sacīja: Es ⟨esmu⟩ El, tava tēva Elohim. Nebaidies doties lejup uz Micraimu, jo par lielu tautu Es tevi tur darīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02983721c50278084a40282e6836984b4f4e5716c3681489ef2d9de1cb374656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/46\/1-4.1792512558316.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tava tēva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "baidies"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "doties lejup"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "uz Micraimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "Es tevi darīšu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    }
+  ],
+  "timestamp": "2026-10-20T16:09:18.317247521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jūsu bēdas",
+      "rationale": "Ebreju valodā teikumam trūkst priekšmeta — saudzētu ko? tulkotāji pievieno 'jūsu sāpes'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ניד",
+      "rationale": "Vārds 'lūpu kustēšana' Tanahā sastopams gandrīz tikai Ījaba grāmatā."
+    }
+  ],
+  "translation": "Es stiprinātu jūs ar savu muti, un mana lūpu kustēšana saudzētu ⟨jūsu bēdas⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/16\/5-8.1792529213399.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "es stiprinātu jūs"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "un kustēšana"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mana lūpu"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "saudzētu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:53.400238870Z",
+  "model": "glm-5.3"
+}

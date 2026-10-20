@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "avots",
+      "rationale": "עַיִן burtiski 'acs', arī 'avots' — tradīcijās gan 'avots', gan 'acs' (Jaakoba skatiens uz labības zemi)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Saikle pievienota latviešu teikuma vajadzībām."
+    }
+  ],
+  "translation": "Un Jisraēls dzīvos drošībā viens pats, Jaakoba avots ⟨ir⟩ virs zemes ar labību un vīnu; un viņa debesis lacīs rasu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/33\/25-28.1792517434351.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "Un dzīvos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "drošībā"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "viens pats"
+    },
+    {
+      "surface": "עין",
+      "gloss": "avots"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "virs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ar labību"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "un vīnu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "viņa debesis"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "lacīs"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:34.353927299Z",
+  "model": "glm-5.3"
+}

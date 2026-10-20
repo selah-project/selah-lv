@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "spēlēdami",
+      "rationale": "Darbības vārds pie trompetēm netiek teikts ebrejiski; latviešu teikumam vajag"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "Burtiski 'sejai' — priekšā; tēlainā nozīme zaudēta"
+    }
+  ],
+  "translation": "un Benajahs un Jahaziēls, priesteri, ar trompetēm pastāvīgi ⟨spēlēdami⟩ ⟨augšup⟩ priekšā derības šķirstam, kas ⟨ir⟩ Elohim ⟨šķirsts⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/5-8.1792531400924.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "un Benajahs"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "un Jahaziēls"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ar trompetēm"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirsts"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:20.925758375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 2:6",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פארור",
+      "rationale": "vārds parādās tikai šeit Tanahā; 'apskaidrojums\/sarkanums' — sejas pietvīkums bailēs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bālumu",
+      "rationale": "פארור burtiski 'mirdzums\/pietvīkums'; tradīcija 'pārklājas ar tumšumu', latviski 'bālumu'"
+    }
+  ],
+  "translation": "No viņu vaiga tautas trīc ⟨sāpēs⟩; visas sejas savākušas bālumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/2\/5-8.1792526192544.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפניו",
+      "gloss": "no viņu vaiga"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "trīc"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sejas"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "savākušas"
+    },
+    {
+      "surface": "פארור",
+      "gloss": "bālumu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:56:32.545608809Z",
+  "model": "glm-5.3"
+}

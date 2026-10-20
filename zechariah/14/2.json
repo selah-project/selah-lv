@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 14:2",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiks apguldas",
+      "rationale": "שגל ir nepārprotams dzimumakta darbības vārds; tradicionālie tulkojumi to mīkstina kā 'tiks paņemtas ar varu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pret",
+      "rationale": "Ebreju valodā virziens izteikts tikai ar אל un למלחמה; latviešu prievārds 'pret' pievienots konteksta dēļ."
+    }
+  ],
+  "translation": "Un Es sapulcēšu ⟨את⟩ visas tautas pret Jerušalaimu kaujai, un pilsēta tiks ieņemta, un mājas tiks izlaupītas, un sievietes tiks apguldas; un puse no pilsētas ies trimdā, bet pārējā tauta netiks iznīcināta no pilsētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cce2866ceba8eafebeb4cf0ff28a21cff42b6ec859c6040f99d39587f2fd2ed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/14\/1-4.1792526944057.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואספתי",
+      "gloss": "Un Es sapulcēšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas tautas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kaujai"
+    },
+    {
+      "surface": "ונלכדה",
+      "gloss": "un tiks ieņemta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "ונשסו",
+      "gloss": "un tiks izlaupītas"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mājas"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "un sievietes"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "tiks apguldas"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un ies"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puse"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "no pilsētas"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "trimdā"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "bet pārējā"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "tiks iznīcināta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:04.060930868Z",
+  "model": "glm-5.3"
+}

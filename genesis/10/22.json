@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tautas",
+      "rationale": "Latviešu locījumam vajadzīgs paskaidrojošs vārds; ebreju tekstā tikai vārdi bez predikāta"
+    }
+  ],
+  "translation": "Šema dēli: Elama, Ašura, Arpahšada, Luda un Arama ⟨tautas⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3bcde7ca0011e76068b2a819072a235330d5ff736ae844dfaac3485ac08a3b69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/10\/21-24.1792511624211.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šema"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elama"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "un Ašura"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "un Arpahšada"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "un Luda"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "un Arama"
+    }
+  ],
+  "timestamp": "2026-10-20T15:53:44.213120411Z",
+  "model": "glm-5.3"
+}

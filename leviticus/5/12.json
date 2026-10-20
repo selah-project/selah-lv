@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 5:12",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sadedzinās",
+      "rationale": "הקטיר — burtiski 'kūpināt, par smaržu padarīt'; 'sadedzināt' zaudē kūpinājuma jēguenu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'חטאת הוא'"
+    }
+  ],
+  "translation": "Un viņš to atnesīs pie priestera, un priesteris no tās saņems pilnu savas saujas — ⟨את⟩ tās piemiņas daļu — un to sadedzinās uz altāra, uz Jahves ugunīgajiem upuriem; grēku upurs tā ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/5\/9-12.1792513711233.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביאה",
+      "gloss": "un viņš to atnesīs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priestera"
+    },
+    {
+      "surface": "וקמץ",
+      "gloss": "un saņems sauju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "no tās"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "pilnu"
+    },
+    {
+      "surface": "קמצו",
+      "gloss": "savas saujas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās piemiņas daļu"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "tās piemiņas daļu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "un sadedzinās (kā smaržu)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "uz altāra"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ugunīgajiem upuriem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēku upurs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:28:31.234730345Z",
+  "model": "glm-5.3"
+}

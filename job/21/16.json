@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 21:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רחקה מני",
+      "rationale": "divi lasījumi: 'ir tālu no manis' (apraksts) vai 'lai ir tālu no manis' (Ijaba zvēresta atsacīšanās); izvēlēts otrais kā vēlējuma forma"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ formā 'lai ir'",
+      "rationale": "Latviešu valodai vajag saiti, ebreju teikumā tās nav"
+    }
+  ],
+  "translation": "Lūk, viņu labums nav viņu rokā; ļauno padoms lai ir tālu no manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bbead0a37655ffbed3813813b8c67392d5d7fb3d254befde5bae15624994ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/21\/13-16.1792529323485.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "viņu rokā"
+    },
+    {
+      "surface": "טובם",
+      "gloss": "viņu labums"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "padoms"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļauno"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "lai ir tālu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:43.486678363Z",
+  "model": "glm-5.3"
+}

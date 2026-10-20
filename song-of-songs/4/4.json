@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 4:4",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלפיות",
+      "rationale": "Vārds sastopams tikai šeit Tanahā; nozīme „kaut kas augsts\/slaidums” neskaidra."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tūkstots vairogu",
+      "rationale": "Skaitlis — 1000 vairogu uz torņa."
+    },
+    {
+      "kind": "crux",
+      "subject": "תלפיות",
+      "rationale": "„ieroču glabātava” (KJV) pret „torņi\/riošanas” (JPS) — burtiskā sakne tuvu „slaidums”."
+    }
+  ],
+  "translation": "Kā Davida tornis tavs kakls, celts augstu smalkās rindās; tūkstots vairogu karājas uz tā, visi varoņu vairogi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/4\/1-4.1792529670459.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמגדל",
+      "gloss": "kā tornis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tavs kakls"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "celts"
+    },
+    {
+      "surface": "לתלפיות",
+      "gloss": "augstu smalkās rindās"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstots"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "vairogu"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "karājas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz tā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "vairogi"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "varoņu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:30.461035489Z",
+  "model": "glm-5.3"
+}

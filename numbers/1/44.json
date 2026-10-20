@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 1:44",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקד...פקד",
+      "rationale": "Atkārtota sakne pakad 'uzskaitīt' — uzskaitītie, kurus uzskaitīja; latviski saglabāts ar to pašu vārdu."
+    },
+    {
+      "kind": "elision",
+      "subject": "היו",
+      "rationale": "Versa beigās stāvošais היו 'tie bija' latviski saplūst ar teikumu un dots kā ⟨bija⟩ pēdējā vietā."
+    },
+    {
+      "kind": "measurement",
+      "subject": "twelve princes",
+      "rationale": "Divpadsmit vīru skaits, pa vienam katram tēvu namam — uzskaites struktūras noslēgums."
+    }
+  ],
+  "translation": "Šie ⟨ir⟩ uzskaitītie, kurus uzskaitīja Moše un Aharons un Jisraēla virsaiši — divpadsmit vīri, ikviens viens sava tēvu nama pēc.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/41-44.1792515292922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "uzskaitītie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "uzskaitīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "un Aharons"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "un virsaiši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divpadsmit (divi)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(un) desmit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sava tēvu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨bija⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:52.923966555Z",
+  "model": "glm-5.3"
+}

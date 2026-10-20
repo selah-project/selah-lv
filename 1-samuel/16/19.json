@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "avis un kazas",
+      "rationale": "צא׬ — kop collective 'ganāmpulks'; atklāts kā 'avis un kazas' pēc zvēru tabulas."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Pievienots saiklis, ko ebreju valoda izsaka ar priekšlocekli ב."
+    }
+  ],
+  "translation": "Un Šaūls nosūtīja vēstnešus pie Jišaja un sacīja: Sūti man ⟨את⟩ savu dēlu Dāvidu, kas ⟨ir⟩ pie avis un kazām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/16\/17-20.1792519138514.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un nosūtīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūls"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vēstnešus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Sūti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dēlu Dāvidu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāvidu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "savu dēlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "pie avis un kazām"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:58.516115394Z",
+  "model": "glm-5.3"
+}

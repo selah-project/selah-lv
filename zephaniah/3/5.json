@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; cedek kā apzīmējums Jahvem prasa latviešu valodā ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Atkārtots 'no rīta, no rīta' — ik rītu atkārtota tiesas došana gaismā."
+    }
+  ],
+  "translation": "Jahve ⟨ir⟩ taisnīgs viņas vidū, Viņš nedarīs netaisnību; no rīta, no rīta Savu tiesu Viņš dos gaismā, netrūks ⟨nevienu⟩ rītu, un netaisnīgais nezina kauna.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/3\/5-8.1792526712333.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnīgs"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "viņas vidū"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darīs"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "netaisnību"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "Savu tiesu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "gaismā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "netrūks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nezina"
+    },
+    {
+      "surface": "עול",
+      "gloss": "netaisnīgais"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kauna"
+    }
+  ],
+  "timestamp": "2026-10-20T20:05:12.334253934Z",
+  "model": "glm-5.3"
+}

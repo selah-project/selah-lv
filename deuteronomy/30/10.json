@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "nefeš ir elpa\/dzīvības spēks, ne tikai 'dvēsele' — hebreju vārda plašums latviski sašaurināts"
+    },
+    {
+      "kind": "addition",
+      "subject": "skaitlis 'pāri'",
+      "rationale": "מצותיו latviešu valodā dabīgi daudzskaitlī; hebrejs arī daudzskaitlī, virkne saglabāta"
+    },
+    {
+      "kind": "you",
+      "subject": "pret Israēlu",
+      "rationale": "Mozus runā tieši uz Israēlu — otrs pante vienā adresātā"
+    }
+  ],
+  "translation": "ja tu klausīsi Jahves, sava Elohima, balsi, sargādams viņa pārus un viņa likumus, kas rakstīti šajā Toras grāmatā, ja tu atgriezīsies pie Jahves, sava Elohima, ar visu savu sirdi un ar visu savu dvēseli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/30\/9-12.1792517317992.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausīsi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sava Elohima"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sargādams"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "viņa pārus"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "un viņa likumus"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "kas rakstīti"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "šajā Toras"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sava Elohima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un ar visu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savu dvēseli"
+    }
+  ],
+  "timestamp": "2026-10-20T17:28:37.995632482Z",
+  "model": "glm-5.3"
+}

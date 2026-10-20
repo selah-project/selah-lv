@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gan",
+      "rationale": "ebreju אי זה ir jautājuma apzīmējums 'kurš?', latviski pievienots 'gan' jautājuma nokrāsai"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kurš gan izdosies",
+      "rationale": "יכשר var nozīmēt arī 'kurš būs derīgs\/veiksmīgs' — izvēlēts 'izdosies'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "uz lasītāju\/darītāju",
+      "rationale": "pavēles forma: sēj, neatliec roku — aicinājums rīkoties"
+    }
+  ],
+  "translation": "No rīta sēj ⟨את⟩ savu sēklu, un vakarā neļauj savai rokai atpūsties, jo tu nezini, kurš gan izdosies — ⟨vai⟩ šis vai tas, un ja abi kopā kā viens — labi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ea86f178bbeba4be974ea01c3c755f5071e5a390d1bad88d00559dc50ebfe75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/11\/6-7.1792532882420.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sēj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sēklu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "savu sēklu"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "un vakarā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ļauj atpūsties"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savai rokai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kurš"
+    },
+    {
+      "surface": "זה",
+      "gloss": "gan"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "izdosies"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kopā kā viens"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "labi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:02.421318208Z",
+  "model": "glm-5.3"
+}

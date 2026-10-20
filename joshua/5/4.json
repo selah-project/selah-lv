@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 5:4",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam nav kopulas; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדבר",
+      "rationale": "davār 'vārds\/lieta' te izteikts kā 'iemesls' — konteksta prasīts skaidrojums."
+    }
+  ],
+  "translation": "Un šis ⟨ir>> iemesls, kāpēc Jēšua apgraizīja: viss ļaudis, kas izgāja no Micraimas, vīriešu kārtas, visi kara vīri, nomira tuksnesī ceļā, izejot no Micraimas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25432fdf4013fc71ab1645f5617e6a753df1e8235c7107addd841b415a377264",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/5\/1-4.1792517615777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "un šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iemesls"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "מל",
+      "gloss": "apgraizīja"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jēšua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "kas izgāja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "vīriešu kārtas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "nomira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "izejot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:33:35.779773586Z",
+  "model": "glm-5.3"
+}

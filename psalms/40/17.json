@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישישו וישמחו",
+      "rationale": "Sakne שוש un שמח — divas prieka saknes vienā pārī; latviski abas rindkopas izplūst vienā 'priecājas un gavilē'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשועתך",
+      "rationale": "Arī 'Tavu pestīšanu'; 'glābšana' turas pie burtiskā glābēja attēla."
+    }
+  ],
+  "translation": "Lai priecājas un gavilē Tevī visi, kas Tevi meklē; lai saka vienmēr: \"Lai aug liels Jahve!\" — tie, kas mīl Tavu glābšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/17-18.1792527474447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "lai priecājas"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "un gavilē"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Tevī"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kas Tevi meklē"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "lai saka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vienmēr"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Lai aug liels"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "tie, kas mīl"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "Tavu glābšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:54.448279625Z",
+  "model": "glm-5.3"
+}

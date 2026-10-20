@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 33:13",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda izsaka akcentētu הוא bez kopulas; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויעתר לו",
+      "rationale": "Burtiski 'viņam tika iededzināts kvēpinājums' — atbildēja uz lūgšanu"
+    },
+    {
+      "kind": "you",
+      "subject": "Menaše",
+      "rationale": "Pants vainago Menašes atgriešanos: 'tad Menaše zināja, ka Jahve ir Elohim'"
+    }
+  ],
+  "translation": "Un viņš lūdzās pie viņa, un viņam tika atbildēts, un tika dzirdēta viņa lūgšana, un viņš tika atgriezts Jerušalaimā savā valstībā; un Menaše saprata, ka Jahve — viņš ⟨ir⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/13-16.1792532337809.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "lūdzās"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "tika atbildēts"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "tika dzirdēta"
+    },
+    {
+      "surface": "תחנתו",
+      "gloss": "viņa lūgšana"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "atgrieza viņu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "savā valstībā"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "un saprata"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:57.810081460Z",
+  "model": "glm-5.3"
+}

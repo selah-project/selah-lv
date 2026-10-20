@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam nav darbības vārda 'būt'; latviešu valodai vajag 'būs patīkama'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kā senās dienas un kā pirmie gadi",
+      "rationale": "Laika mērs — upurs salīdzināts ar pagātnes laiku mēru."
+    }
+  ],
+  "translation": "Un Jahvem būs patīkama Jehudas un Jerušalaimas minhah kā senās dienas un kā pirmie gadi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a287daf95bf2dfa4ffa3fbf265441b30dd418011c4bce72cf8009c1815a0367f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/3\/1-4.1792526960563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "un būs patīkama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "un Jerušalaimas"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kā dienas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senās"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "un kā gadi"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "pirmie"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:20.564966755Z",
+  "model": "glm-5.3"
+}

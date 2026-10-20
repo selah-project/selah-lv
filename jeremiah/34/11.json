@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישובו \/ וישבו",
+      "rationale": "viena sakne שׁוב divreiz: viņi atgriezās un atgrieza — atgriešanās vārds spēlējas pats ar sevi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "piespieda",
+      "rationale": "ויכבישום burtīgi 'pakļāva\/nospieda ar kāju' — 'piespieda kalpot' saglabā darbības jēgu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨viņus⟩",
+      "rationale": "ivriešu piedēklis -ום nav atsevišķs vārds; latviski vajadzēja vietniekvārdu."
+    }
+  ],
+  "translation": "Bet pēc tam viņi atgriezās un atgrieza ⟨את⟩ vergus un ⟨את⟩ verdzenes, ko bija atlaiduši brīvus, un piespieda ⟨viņus⟩ kalpot par vergiem un verdzenēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/34\/9-12.1792524135439.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Bet atgriezās"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "atgrieza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vergus"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "vergus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "verdzenes"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "verdzenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bija atlaiduši"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "brīvus"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "un piespieda"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "par vergiem"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "un verdzenēm"
+    }
+  ],
+  "timestamp": "2026-10-20T19:22:15.441001013Z",
+  "model": "glm-5.3"
+}

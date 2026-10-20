@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vieglprātīgi",
+      "rationale": "פחזים burtiski 'putojoši' (kā vārošs ūdens) — nekaunīgi, bezkaunīgi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivriešu valodas teikumā nav predikāta saikļa; latviešu valodā vajadzīgs."
+    }
+  ],
+  "translation": "Viņas pravieši ⟨ir⟩ vieglprātīgi, nodevības vīri; viņas priesteri ir apgānījuši svētumu, ir darījuši vardarbību Torai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/3\/1-4.1792526669830.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "viņas pravieši"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "vieglprātīgi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "nodevības"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "viņas priesteri"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ir apgānījuši"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētumu"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ir darījuši vardarbību"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:29.831679971Z",
+  "model": "glm-5.3"
+}

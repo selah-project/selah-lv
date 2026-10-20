@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח paliek 'ruah' — vējš, elpa, Gars vienā vārdā; 'gars' viens būtu pārāk šaurs"
+    },
+    {
+      "kind": "alternative",
+      "subject": "vīrs no viņa padoma",
+      "rationale": "burtiski 'vīrs no viņa padoma' — padomdevējs kā loma, ne vārda veids"
+    }
+  ],
+  "translation": "Kas ir izmērījis ⟨את⟩ Jahves ruah, un kāds vīrs no viņa padoma ir viņam to darījis zināmu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/40\/13-16.1792522644867.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ir izmērījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un kāds vīrs"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "no viņa padoma"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ir viņam to darījis zināmu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:24.867955512Z",
+  "model": "glm-5.3"
+}

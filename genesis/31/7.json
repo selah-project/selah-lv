@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņam⟩",
+      "rationale": "Ebreju tekstā darbības vārds 'להרע' nav ar izteiktu objektu 'viņš'; latviešu valodai vajadzīgs piederētājs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "reizes",
+      "rationale": "מנים ir 'izteikti, noteikti termiņi' — skaitļošanas vārds, latviski 'reizes'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "desmit reizes",
+      "rationale": "Skaitliska norāde, cik reizes Labans mainīja algu."
+    }
+  ],
+  "translation": "Un jūsu tēvs mani pievīla un mainīja ⟨את⟩ manu algu desmit reizes; bet Elohim nav ļāvis ⟨viņam⟩ man ļaunu darīt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/31\/5-8.1792512270837.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Un jūsu tēvs"
+    },
+    {
+      "surface": "התל",
+      "gloss": "pievīla"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "un mainīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu algu"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "manu algu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "reizes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet nav"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ļāvis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ļaunu darīt"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:30.838187406Z",
+  "model": "glm-5.3"
+}

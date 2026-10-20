@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מות",
+      "rationale": "lit. 'nāves mušas' — ģenitīva attiecība atstāta kā piedēklis 'mirstošas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקר מחכמה מכבוד",
+      "rationale": "daži lasa 'vērtīgāka par gudrību un godu', citi 'tā pazemo gudrību un godu'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יבאיש",
+      "rationale": "באש 'smirdēt' šeit vienīgo reizi Tanahā hifila formā"
+    }
+  ],
+  "translation": "Mirstošas mušas liek ziedu maisītāja eļļai izdvest smirdonu; tā arī niecīga muļķība ⟨ir⟩ vērtīgāka par gudrību un godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/10\/1-4.1792529972755.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "mušas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirstošas"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "liek smirdēt"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "izdvest"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "eļļu"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ziedu maisītāja"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "vērtīgāka"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "par gudrību"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "par godu"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "muļķība"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "niecīga"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:32.756610324Z",
+  "model": "glm-5.3"
+}

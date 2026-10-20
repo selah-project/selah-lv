@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu",
+      "gloss": "אתו ir aleph-tav ar priedēkli; latviešu objekta vietniekvārds atspoguļo marķēto objektu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sabradāja vārtos",
+      "rationale": "Atkārtojas 7:17 frāze vārds vārdā — stāstījuma rāmītis, kas noslēdz pravietības piepildījumu."
+    }
+  ],
+  "translation": "Un notika viņam tā: ļaudis viņu sabradāja ⟨את⟩ vārtos, un tas nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c86cc20ac854095577d0f95a5b38cdaedb21d9b9dea0ae1bf4c05199dcb1a0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/7\/17-20.1792521254702.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "sabradāja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "un nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T18:34:14.703337143Z",
+  "model": "glm-5.3"
+}

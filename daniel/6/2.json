@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 6:2",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "קדם",
+      "rationale": "Aramaic 'before Darius' folded into 'šķita labi Dārijam'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ahašdarpenus",
+      "rationale": "אחשדרפניא kept by sound — Persian loanword 'satrap'; Latvian tradition uses 'satraps'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "simts divdesmit",
+      "rationale": "count of satraps"
+    }
+  ],
+  "translation": "Šķita labi Dārijam, un viņš iecēla pār valstību simts divdesmit ahašdarpenus, lai tie būtu visā valstībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/1-4.1792530321287.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפר",
+      "gloss": "Šķita labi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "—"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dārijam"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "un viņš iecēla"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "valstību"
+    },
+    {
+      "surface": "לאחשדרפניא",
+      "gloss": "ahašdarpenus"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "simts"
+    },
+    {
+      "surface": "ועשרין",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "די",
+      "gloss": "lai"
+    },
+    {
+      "surface": "להון",
+      "gloss": "tie būtu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "valstībā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:05:21.288184210Z",
+  "model": "glm-5.3"
+}

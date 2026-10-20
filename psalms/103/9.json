@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יטור",
+      "rationale": "burtiski 'sargās' kā dārgumu; par dusmām — tēls zaudēts, ja tulkotu vienkārši 'tur dusmas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "dusmas",
+      "rationale": "ebreju teksts nenosauc objektu; 'dusmas' pievienotas no konteksta (103:8 'lēns pie dusmām')."
+    }
+  ],
+  "translation": "Nevis uz mūžību viņš strīdas, un nevis uz ilgiem laikiem viņā saglabā dusmas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/9-12.1792528098103.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "viņš strīdas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nevis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz ilgiem laikiem"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "viņā saglabā dusmas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:18.104723691Z",
+  "model": "glm-5.3"
+}

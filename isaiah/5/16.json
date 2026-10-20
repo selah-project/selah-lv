@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויגבה \/ גבהים",
+      "rationale": "Tas pats vārds גבה: augstprātīgie (5:15) tiek pazemoti, Jahve tiek paaugstināts — pretstats vienā saknē."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה turēta kā ‘cedek’ pēc D2 — viena sakne ar ‘svēts\/svētīt’ antitēzi."
+    }
+  ],
+  "translation": "Un Jahve Cevaot tiks paaugstināts tiesā, un svētais El tiks svētīts cedekā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/5\/13-16.1792521948477.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "un tiks paaugstināts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "un El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "svētais"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "tiks svētīts"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "cedekā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:48.478612015Z",
+  "model": "glm-5.3"
+}

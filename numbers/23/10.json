@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dust and number",
+      "rationale": "pants ir skaitīšanas aktā — putekļu saskaitīšana un ceturtdaļas skaitlis kā mērs Jisraēla daudzumam"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpai\/dzīvībai' nekā 'dvēselei' platonicā nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמהו 'kā viņa'",
+      "rationale": "viņskaitlis pret tiešo daudzskaitli ישרים — 'mans gals kā viņa' vs 'kā viņiem'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רבע",
+      "rationale": "daži lasa 'ceturto daļu' (nometņu iedalījums), citi — 'blīvu pūli'; 'ceturtdaļa' ir literālākā"
+    }
+  ],
+  "translation": "Kas saskaita Jaakova putekļus un ⟨את⟩ skaitu Jisraēla ceturtdaļas? Lai mana dvēsele mirst tiešo nāvi, un lai mans gals ir kā viņa!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/9-12.1792516121621.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "saskaita"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekļus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "un skaitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla ceturtdaļas"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ceturtdaļas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "lai mirst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiešo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "un lai ir"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "mans gals"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kā viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:41.624017991Z",
+  "model": "glm-5.3"
+}

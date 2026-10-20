@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — nevis nemateriāla 'dvēsele'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir ceļš",
+      "rationale": "Ebreju teikumā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/נצר",
+      "rationale": "Divi dažādi 'sargāt' verbi vienā pantā — ebreju valodā tos izšķir, latviski abi kļūst par 'sargāt'"
+    }
+  ],
+  "translation": "Taisno celms ir ceļš, kas novēršas no ļauna; kas sargā savu ceļu, tas pasargā savu dzīvību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/17-20.1792528745464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "celms ir ceļš"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "taisno"
+    },
+    {
+      "surface": "סור",
+      "gloss": "novēršas"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "no ļauna"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pasargā"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu dzīvību"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "savu ceļu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:05.465480647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Izteiksmē 'Kāpēc šo jautā' latviešu valodai vajadzēja vietniekvārdu 'tu'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "vārds",
+      "rationale": "Svešais vīrs atsakās nosaukt savu vārdu — apzināti risināts noslēpums tekstā."
+    }
+  ],
+  "translation": "Un Jaakovs jautāja un sacīja: Pasaki, lūdz, savu vārdu. Un viņš sacīja: Kāpēc ⟨tu⟩ šo jautā pēc mana vārda? Un viņš svētīja ⟨את⟩ viņu tur.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "74f752dfc92df91c2fc7f94300e71c9daf9d9ba99f0999696db8bbfb00412e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/29-32.1792512250354.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Un jautāja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Pasaki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdz"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "savu vārdu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "jautā"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pēc mana vārda"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Un svētīja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:10.355294811Z",
+  "model": "glm-5.3"
+}

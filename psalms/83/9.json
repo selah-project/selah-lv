@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roka",
+      "rationale": "זרוע ir izstiepta roka \/ spēka simbols; KJV 'holpen' zaudē attēlu"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "Mūzikas pauzes atzīme, atstāta transliterēta"
+    }
+  ],
+  "translation": "Arī Ašurs pievienojās viņiem, tie bija roka Lota bērniem. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/83\/9-12.1792527931707.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurs"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "pievienojās"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:31.708496490Z",
+  "model": "glm-5.3"
+}

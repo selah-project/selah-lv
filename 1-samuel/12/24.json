@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "bīstieties … kalpojiet … redziet",
+      "rationale": "Samuēla imperatīvi tieši tautai — aicinājums uz uzticību"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמכם",
+      "gloss": "'ar jums' — hifils 'darīt lielu ar' nozīmē 'jūsu labā'; burtiskais 'ar' saglabāts"
+    }
+  ],
+  "translation": "Tikai bīstieties no ⟨את⟩ Jahves un kalpojiet ⟨את⟩ Viņam patiesībā ar visu savu sirdi, jo redziet ⟨את⟩ to, cik lielu Viņš ir darījis ar jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/12\/21-24.1792518979825.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bīstieties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "un kalpojiet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Viņam"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesībā"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "redziet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, cik lielu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ir darījis lielu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ar jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:19.826995697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נקראו על שבט",
+      "rationale": "Burtiski 'tika saukti uz\/pie cilts' — 'ieskaitīti ciltī'."
+    },
+    {
+      "kind": "addition",
+      "subject": "Elohim vīrs",
+      "rationale": "Noteikta secība latviešu valodā; ebreju איש האלהים ir saistīta konstrukcija."
+    }
+  ],
+  "translation": "Un Moše, Elohim vīrs, — viņa dēli tika ieskaitīti Levi ciltī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2bfcbf9ea098676d27eb052194404ddda41955ff848b75528cbbfb4fd6d691ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/23\/13-16.1792531518705.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Un Moše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēli"
+    },
+    {
+      "surface": "יקרראו",
+      "gloss": "tika ieskaitīti"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cilts"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:18.705919420Z",
+  "model": "glm-5.3"
+}

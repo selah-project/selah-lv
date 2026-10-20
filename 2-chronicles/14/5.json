@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 14:5",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nocietinātas pilsētas",
+      "rationale": "מצורה ir 'aizsargmūris, valnis'; attēls ir iežogota, aplenktā pilsēta, ne vispārīgs 'nocietināts'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "ebreju valoda pie kopas izsaka 'bija' tikai ar vārdu kārtību"
+    }
+  ],
+  "translation": "Un viņš uzcēla nocietinātas pilsētas Jūdā, jo zeme bija mierīga un viņam nebija kara šajos gados, jo Jahve bija devis viņam mieru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04ee9185a07458604bb60d5a9ff3354edc34ec174150458bad2f77cb28098984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/14\/5-8.1792532008615.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "מצורה",
+      "gloss": "nocietinātas"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jūdā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bija mierīga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "gados"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šajos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "bija devis mieru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:33:28.616577672Z",
+  "model": "glm-5.3"
+}

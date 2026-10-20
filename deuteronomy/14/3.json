@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pretīgu lietu",
+      "rationale": "תועבה — 'pretīgums, izraisot riebumu'; latviski 'pretīga lieta'"
+    }
+  ],
+  "translation": "Neēd nevienu pretīgu lietu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/14\/1-4.1792516926977.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nevienu"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "pretīgu lietu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:06.980256518Z",
+  "model": "glm-5.3"
+}

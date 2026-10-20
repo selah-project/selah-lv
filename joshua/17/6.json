@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 17:6",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחלו נחלה",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes — 'mantoja mantojumu' — atkārtojums, kas latviski saglabājas daļēji."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "H1104 הית hier ir apzīmējums; latviešu kopa 'bija' pietuvojas ebreju verbumam, bet 'tiem' pievienots skaidrībai."
+    }
+  ],
+  "translation": "jo Menašes meitas mantoja mantojumu viņa dēlu vidū, un Giladas zeme ⟨bija⟩ tiem Menašes dēliem, kas bija atlikuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9fb1013358a364c8d43feb18502da37418d5d0802f89e31b2d440b854f1e3752",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/17\/6-7.1792532535871.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašes"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "mantoja"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mantojumu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēlu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "un ... zeme"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašes"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kas bija atlikuši"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:15.871691989Z",
+  "model": "glm-5.3"
+}

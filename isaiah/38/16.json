@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "cilvēki",
+      "rationale": "עליהם יחיו — darbības vārda subjekts nav teikts; ⟨cilvēki⟩ pievienots ('pār šiem cilvēki dzīvo')."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליהם יחיו",
+      "rationale": "Grūts vieta: 'pār\/uz šiem tie dzīvo' — ko nozīmē 'šie'? Tulkos kā 'ar šiem [vārdiem\/darbiem] cilvēki dzīvo' (KJV, JPS) pret vēsturiskiem 'miega' lasījumiem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיי...והחיני",
+      "rationale": "Saknes חי 'dzīvot' atkārtojums: 'mana ruah dzīvība... un mani atdzīvini' — dzīvības vārds skan trīsreiz."
+    }
+  ],
+  "translation": "Adonai, pār viņiem ⟨cilvēki⟩ dzīvo, un visā tajā ir mana ruah dzīvība; Tu mani atveseļo un mani atdzīvini.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/13-16.1792522535858.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "⟨cilvēki⟩ dzīvo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visā"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ir... dzīvība"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mana ruah"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "Tu mani atveseļo"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "un mani atdzīvini"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:35.859943628Z",
+  "model": "glm-5.3"
+}

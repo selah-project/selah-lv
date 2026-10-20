@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו\/יה",
+      "rationale": "Trīskāršs halelu atkārtojums — “Halelu-Jah” ir pats dziesmas vārds, latviski paliek “Slavējiet Jah”."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Slavējiet",
+      "rationale": "Imperatīvs uzrunā Jahves kalpus — sauciens slavēt."
+    }
+  ],
+  "translation": "Slavējiet Jah! Slavējiet, Jahves kalpi, slavējiet ⟨את⟩ Jahves vārdu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/113\/1-4.1792528224959.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Slavējiet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "slavējiet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "slavējiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves vārdu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:24.960454763Z",
+  "model": "glm-5.3"
+}

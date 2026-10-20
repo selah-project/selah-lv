@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mana seja",
+      "rationale": "פנים burtiski ir 'seja'; tradicionāli 'Klātbūtne' — forma saglabāta burtiski."
+    },
+    {
+      "kind": "crux",
+      "subject": "ies",
+      "rationale": "ילכו daudzskaitlī (seja ir daudzskaitļa vārds); 'ies' atstāj nenošķirami kā ebreju valodā."
+    }
+  ],
+  "translation": "Un Viņš sacīja: Mana seja ies, un Es tev došu mieru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/33\/13-16.1792513415170.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un Viņš sacīja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Mana seja"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ies"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "un Es tev došu mieru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T16:23:35.171472302Z",
+  "model": "glm-5.3"
+}

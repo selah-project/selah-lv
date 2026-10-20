@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ben-šana",
+      "rationale": "Dzīvnieka vecums tiek precīzi izmērīts: gada dēls."
+    },
+    {
+      "kind": "alternative",
+      "subject": "vai no kazām",
+      "rationale": "Ebrejiski vienkārši 'un no kazām' — 'vai' atspoguļo izvēles iespēju, ko latviešu 'un' nodotu kā pievienojumu."
+    }
+  ],
+  "translation": "Jērs bez vainas, tēviņš, viena gada vecumā lai jums ⟨ir⟩; no jēriem vai no kazām jūs to ņemsit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/12\/5-8.1792512870338.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tēviņš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lai ir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "jēriem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "vai no"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazām"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "jūs ņemsit"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:30.339626926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רעה תחת טובה",
+      "rationale": "burtiski 'ļaunu zem\/vietā labā' — ebreju 'aiz vietu' idiomā; latviski 'ļaunu par labo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישטנוני",
+      "rationale": "no saknes שטן — 'viņi mani apsūdz\/uzbrūk kā pretinieki'; daļa tulkojumu raksta 'ir mani pretinieki', bet darbības vārds ir specifisks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת רדפי",
+      "rationale": "'tāpēc, ka es dzenos pēc' — burtiski 'pret maniem labā dzinējiem' vai 'kopā ar manu labā dzīšanu'; רדפי skaitlis un forma tekstā neskaidra"
+    }
+  ],
+  "translation": "Un, kas atmakso ļaunu par labo, tie mani apsūdz, tāpēc, ka es dzenos pēc labā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/21-23.1792527465228.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "un, kas atmakso"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "labo"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "tie mani apsūdz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "es dzenos pēc"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:45.229088203Z",
+  "model": "glm-5.3"
+}

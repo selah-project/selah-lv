@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Partikula האש apzīmē 'vai ir', latviešu valodai vajag saikli"
+    },
+    {
+      "kind": "crux",
+      "subject": "Vai vēl",
+      "rationale": "BSB emendē uz 'Vai es varu vēl aizmirst' (האזכה); MT kā jautājums 'vai vēl ir'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשע",
+      "rationale": "Ļaunā nama ļaunuma krātuves — vienas saknes atkārtojums"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa",
+      "rationale": "Labības mērs — tirgus svari kā nemaldīgas tiesas mērs"
+    }
+  ],
+  "translation": "Vai vēl ļaunajā namā ir ļaunuma krātuves un izkārotā efa, kas ir niknuma pilna?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/6\/9-12.1792526430894.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "האש",
+      "gloss": "vai ⟨ir⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunajā"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "krātuves"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunuma"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "un efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "izkārotā"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "niknuma pilna"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:30.898547133Z",
+  "model": "glm-5.3"
+}

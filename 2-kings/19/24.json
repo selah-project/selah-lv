@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "'Micraima' (JPS, ASV) pret 'apcēlto vietu' (KJV) — מצור no saknes 'nocietināt', bet te tā ir Ēģipte"
+    },
+    {
+      "kind": "addition",
+      "subject": "akas",
+      "rationale": "קרתי 'es raku' — objekts pietsiepts no konteksta"
+    }
+  ],
+  "translation": "Es rokūdens akas un dzēru svešus ūdeņus, un ar savu pēdu zoli izkaltēju visus Micraimas upju kanālus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae3696727f4a4e40ae520358119b4ab3d68c5252949e0ba2c15e4d643d892830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/19\/21-24.1792521573437.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "rokūdens akas"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "un dzēru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svešus"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "un izkaltēju"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ar zoli"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "savu pēdu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "upju kanālus"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:33.438848399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "trešais הוליד",
+      "rationale": "Trešajā teikuma daļā darbības vārds הוליד izlaists, kā ebreju teksta elipse; latviešu em-dashe atspoguļo pārrāvumu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "priesteru genealoģija",
+      "rationale": "Priesteru paašu uzskaitījums — secīga ciltsrinda no Ješuas līdz Jojadam."
+    }
+  ],
+  "translation": "Un Ješua dzemdināja ⟨את⟩ Jojakimu, un Jojakims dzemdināja ⟨את⟩ Eljašibu, un Eljašibs — ⟨את⟩ Jojadu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/12\/9-12.1792530828414.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Un Ješua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "un Jojakims"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljašibu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljašibu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "un Eljašibs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojadu"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojadu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:13:48.415680393Z",
+  "model": "glm-5.3"
+}

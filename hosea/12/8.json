@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כנען",
+      "rationale": "'Ķenaans' (tirgotājs) daudzi tulkotāji attēlo kā 'tirgonis'; vārda forma saglabāta — arī tirdzniecības vārds un tautas vārds vienā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנען",
+      "rationale": "Divkārša nozīme: Ķenaans (tirdzniecības tauta) un 'tirgonis' — zaudēta, tulkojot tikai vienu."
+    }
+  ],
+  "translation": "Ķenaans — viņa rokā ir viltus svaru kausi, apspiešanu viņš mīl.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/12\/5-8.1792526082710.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Ķenaans"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "viņa rokā"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "svaru kausi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "viltus"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "apspiešanu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "viņš mīl"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:42.711751131Z",
+  "model": "glm-5.3"
+}

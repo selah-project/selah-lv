@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mortalā",
+      "rationale": "אנוש ir 'mirstīgais', un אדם ir 'cilvēks' — divi dažādi vārdi, ko KJV abi tulko kā 'other men'"
+    }
+  ],
+  "translation": "Nedz mortalā pūlās viņi nav, nedz ar cilvēkiem līdzīgiem viņi netiek aizskarti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/5-8.1792527835977.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "mortalā pūlās"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortalā"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nedz ar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēkiem līdzīgiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "netiek"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "aizskarti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:55.977851719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrejs izsaka izteiksmi אתה אל bez kopulas; latviešu valodai vajag 'esi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותחולל",
+      "rationale": "No חול 'vijums, dzemdības sāpes': 'veidoji ar dzemdību sāpēm' pret 'piedzemdēji'; parasto lasījums ir 'radīt\/veidot'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mūžība",
+      "rationale": "עולם no saknes 'slēpt' — laiks, kas pazūst skatienā, no paslēptās mūžības"
+    }
+  ],
+  "translation": "Pirms kalni tika dzemdēti un pirms Tu veidoji zemi un pasauli, no mūžības līdz mūžībai Tu ⟨esi⟩ El.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/1-4.1792528026029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Pirms"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalni"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "tika dzemdēti"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "un veidoji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "un pasauli"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "no mūžības"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:06.030720968Z",
+  "model": "glm-5.3"
+}

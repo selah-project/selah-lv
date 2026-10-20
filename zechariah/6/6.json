@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivritā nav darāmā vārda 'ir'; pievienots ⟨ir⟩, lai latviešu teikums stāv."
+    },
+    {
+      "kind": "crux",
+      "subject": "והלבנים יצאו אל אחריהם",
+      "rationale": "'aiz viņiem' (KJV\/ASV) pret YLT\/BSB 'uz rietumu zemi' — tā kā ziemeļi jau pieminēti, baltie lasāmi kā aizejam pēc ziemeļu zirgiem vai uz rietumiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raibie",
+      "rationale": "ברדים no ברד 'krusa' — 'kā ar krusas plankumiem raibie'; viens vārds 'raibie' saglabā ainu."
+    }
+  ],
+  "translation": "Kurā ⟨ir⟩ melnie zirgi, tie iziet uz ziemeļu zemi, un baltie izgāja aiz viņiem, un raibie izgāja uz dienvidu zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/6\/5-8.1792526826306.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "zirgi"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "melnie"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "un baltie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "un raibie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "dienvidu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:07:06.313436778Z",
+  "model": "glm-5.3"
+}

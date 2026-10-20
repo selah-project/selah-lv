@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baro",
+      "rationale": "הטריפני no saknes טרף 'plēst gabalos' — dot barību pa kumosam; 'baro' zaudē šo bildi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש\/ועשר",
+      "rationale": "Nabagums un bagātība kā pretstats vienā pārī — hiasma, kas griežas ap vidusceļu."
+    },
+    {
+      "kind": "you",
+      "subject": "Eloah",
+      "rationale": "Turpināts lūgums ar tiešu uzrunu Dievam."
+    }
+  ],
+  "translation": "Tukšumu un melu vārdu attālini no manis; nabagumu un bagātību man nedod; baro mani ar manas daļas maizi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/5-8.1792528916100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "tukšumu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un vārdu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melu"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "attālini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "nabagumu"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "un bagātību"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "baro mani"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "manas daļas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:56.102150260Z",
+  "model": "glm-5.3"
+}

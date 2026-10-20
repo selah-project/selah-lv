@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 2:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju zvēresta teikumā trūkst saikļa verba 'būt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks' nekā 'dvēsele'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ja es tevi atstāšu",
+      "rationale": "אם ar zvērestu apzīmē kategorisku noliegumu: 'lai notiek tas, ja...' — latviski atspoguļots ar sauci zīmi un izsaukumu"
+    }
+  ],
+  "translation": "Un Elija sacīja viņam: Paliec, lūdzu, šeit, jo Jahve ⟨ir⟩ mani sūtījis uz Jordānu. Un viņš sacīja: Tikpat kā dzīvs ⟨ir⟩ Jahve un tikpat kā dzīva ⟨ir⟩ tava dvēsele — ja es tevi atstāšu! Un viņi abi gāja tālāk.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/2\/5-8.1792521092205.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "שב",
+      "gloss": "paliec"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mani sūtījis"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "uz Jordānu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "un tikpat kā dzīva"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tava dvēsele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "es tevi atstāšu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "un viņi gāja"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:32.205897948Z",
+  "model": "glm-5.3"
+}

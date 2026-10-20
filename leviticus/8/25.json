@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "resnā aste",
+      "rationale": "האליה ir austrumu aitas resnā aste, ne vienmēr 'aste' vien"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב \/ חלבהן",
+      "rationale": "vārds 'tauki' atkārtojas četras reizes — upura daļu uzskaitījuma ritms"
+    }
+  ],
+  "translation": "Un viņš ņēma ⟨את⟩ taukus un ⟨את⟩ resno asti un ⟨את⟩ visus taukus, kas uz iekšām, un ⟨את⟩ akts apvalku, un ⟨את⟩ abas nieres ar to taukiem, un ⟨את⟩ labo cisku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6ff5f65ea8bb5795826c1a2c9c0de16af3260f245ba03e6813645c7fe72ed9cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/8\/25-28.1792513812134.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Un viņš ņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tauki"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tauki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "resnā aste"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "resno asti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visi tauki, kas uz iekšām"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iekšām"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akts apvalks"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "akts apvalku"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "akts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abas nieres"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abas"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nieres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to tauki"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "to taukiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laba ciska"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "cisku"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "labo"
+    }
+  ],
+  "timestamp": "2026-10-20T16:30:12.135288939Z",
+  "model": "glm-5.3"
+}

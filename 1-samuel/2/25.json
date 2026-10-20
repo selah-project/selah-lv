@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופללו אלהים",
+      "rationale": "Elohim 'apskriež\/tiesā' pret KJV 'the judge shall judge' un BSB 'God can intercede'; tas pats darbības vārds פלל gan 'tiesāt', gan 'aizlūgt'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטא \/ פלל",
+      "rationale": "Sacēlis par grēku pret cilvēku un pret Jahvi ar to pašu darbības vārdu; otrā puse spēlē ar פלל dubultnozīmi (tiesāt\/lūgt)."
+    }
+  ],
+  "translation": "Ja cilvēks sagrēko pret cilvēku, Elohim viņu apspriež; bet ja pret Jahvi cilvēks sagrēko, kas viņam lūgs? Un viņi neklausīja savas tēva balsī, jo Jahve gribēja viņus nonāvēt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/25-28.1792518775154.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sagrēko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pret cilvēku"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "apskriež"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bet ja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pret Jahvi"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sagrēko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "lūgs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "klausīja"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "balsī"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "savas tēva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gribēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "viņus nonāvēt"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:55.154706559Z",
+  "model": "glm-5.3"
+}

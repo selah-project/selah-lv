@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kušīti",
+      "rationale": "הכושים ir Kušas pēcnācēji, nevis 'etiopieši'."
+    }
+  ],
+  "translation": "Un Jahve sasita ⟨את⟩ kušītus Asas un Jūdas priekšā, un kušīti bēga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35c26ccfa92f8fb1e6fd91bc4e20568c4909ec07ef69eac910ec62f4937cfa81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/14\/9-12.1792531965102.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "sasita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kušītus"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kušītus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asas"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "un priekšā"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "un bēga"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kušīti"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:45.103325112Z",
+  "model": "glm-5.3"
+}

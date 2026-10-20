@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tika sadzirdēta",
+      "rationale": "וישמע burtiski 'un viņš sadzirdēja' — nenoteikta darbības forma, lai nepiekārtotu Elohim\/vārdu, kas tekstā nav nosaukts"
+    },
+    {
+      "kind": "addition",
+      "subject": "pat",
+      "rationale": "לשמים ir 'līdz debesīm' kā papildinājums 'svētajai mītnei'; ⟨pat⟩ apzīmē šo attieksmi"
+    }
+  ],
+  "translation": "Un piecēlās priesteri, levīti, un svētīja ⟨את⟩ ļaudis, un tika sadzirdēta viņu balss, un viņu lūgšana ienāca viņa svētajā mītnē, ⟨pat⟩ līdz debesīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/30\/25-27.1792532318256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Un piecēlās"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levīti"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "un svētīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ļaudis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "un tika sadzirdēta"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "viņu balss"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "un ienāca"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "viņu lūgšana"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "mītnē"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "viņa svētajā"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "līdz debesīm"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:38.257242709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 25:4",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pēc אשר"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ķēniņš⟩",
+      "rationale": "Darbības vārda וילך subjekts nav izteikts; no konteksta izriet Cidkijahu, pievienots iekavās"
+    },
+    {
+      "kind": "alternative",
+      "subject": "החמתים",
+      "gloss": "divskaitlis: 'starp abiem mūriem' — ūdens vārds forma ir divskaitlis, saglabāts kā 'abas mūri'"
+    }
+  ],
+  "translation": "Un pilsētā tika izlauzts caurums, un visi kara vīri naktī aizbēga caur vārtu ceļu starp abām mūriem, kas ⟨ir⟩ pie ķēniņa dārza; bet Kasdieši stāvēja pret pilsētu visapkārt; un ⟨ķēniņš⟩ gāja uz Arābas tuksneša pusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/1-4.1792521842773.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבקע",
+      "gloss": "Un tika izlauzts caurums"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "abām mūriem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "גן",
+      "gloss": "dārza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "bet Kasdieši"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visapkārt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arābas tuksneša pusi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:02.775166443Z",
+  "model": "glm-5.3"
+}

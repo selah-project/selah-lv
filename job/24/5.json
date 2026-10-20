@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 24:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savvaļas ēzeļi",
+      "rationale": "פראים — savvaļas ēzeļi (onageri), tēls par brīviem, neapkoptiem ļaudīm"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערבה",
+      "rationale": "‘stepes dod viņam maizi’ — KJV ‘tuksnesis dod maizi’; ערבה ir īpaši stepes\/joslas apgabals"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו לחם",
+      "rationale": "viņskaitļa ‘viņam’ pēc daudzskaitļa ‘ēzeļi’ — iespējams, ‘jaukums\/maisījums (ēdiens) viņam’ (YLT) pret ‘maize viņam’"
+    }
+  ],
+  "translation": "Redzi, kā savvaļas ēzeļi tuksnesī tie iziet savā darbā, austros dodamies pēc laupījuma; stepe dod ⟨viņam⟩ maizi viņa bērniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e232cb5867ac4971a63b1b82420de3884f08160a1037c217156c8ec1608ad597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/24\/5-8.1792529376525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "kā savvaļas ēzeļi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "tie iziet"
+    },
+    {
+      "surface": "בפעלם",
+      "gloss": "savā darbā"
+    },
+    {
+      "surface": "משחרי",
+      "gloss": "austros dodamies"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "pēc laupījuma"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "stepe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "bērniem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:36.526374592Z",
+  "model": "glm-5.3"
+}

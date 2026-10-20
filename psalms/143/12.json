@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסדך — 'Tavs hesed', nevis viens vārds 'žēlastība'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר\/מצרה",
+      "rationale": "Šī panta 'nomācēji' (צררי) atbalss iepriekšējā panta 'ciešanām' (מצרה) — viena sakne c-tz-r, šaustīšana."
+    }
+  ],
+  "translation": "Un savā hesed iznīdini manus ienaidniekus un iznīcini visus, kas nomāc manu nefesh, jo es esmu Tavs kalps.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/143\/9-12.1792528435681.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Un savā hesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "iznīdini"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manus ienaidniekus"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "un iznīcini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "kas nomāc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "manu nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Tavs kalps"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:55.682991734Z",
+  "model": "glm-5.3"
+}

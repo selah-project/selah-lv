@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuģa",
+      "rationale": "תבה ir 'kaste, lāde' — šis vārds Tanahā vēl par Mozes šķirstu (2. Mozus 2:3,5), ne par kuģi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pēc savām dzimtām",
+      "rationale": "Iznākšana tiek skaitīta un kārtota pēc משפחות — sugām, ciltīm, dzimtām."
+    }
+  ],
+  "translation": "Katru dzīvo radību, katru rāpuli un katru putnu — visu, kas kustas pa zemi — pēc savām dzimtām tie izgāja no kuģa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/8\/17-20.1792511564866.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "katru"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dzīvo radību"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katru"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "rāpuli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un katru"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "putnu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "kas kustas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "pēc savām dzimtām"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "tie izgāja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kuģa"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:44.867681108Z",
+  "model": "glm-5.3"
+}

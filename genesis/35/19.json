@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda 'ir'; latviešu valodai tas vajadzīgs paskaidrojumam 'tā ir Beit-Lehema'."
+    }
+  ],
+  "translation": "Un nomira Rahele, un tika apbedīta ceļā uz Efratu — tā ⟨ir⟩ Beit-Lehema.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cd8e878af2df6832deba07b441bcee78f8fc312bff1d93a079b503c8462c15c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/35\/17-20.1792512335673.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Un nomira"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahele"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "un tika apbedīta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "uz Efratu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehema"
+    }
+  ],
+  "timestamp": "2026-10-20T16:05:35.674641496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת פני",
+      "rationale": "Burtiski 'sejas pacelšana' — daļēji saglabāts; idiomā nozīmē personīgo favoritismu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "במשפט ir 'tiesas spriedumā', nevis abstraktā 'tiesa'."
+    }
+  ],
+  "translation": "Ļaut ļaunajam sagaidīt seju ⟨nav⟩ labi, lai novērstu taisno tiesā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/18\/5-8.1792528714034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "pacelt seju"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seju"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunajam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "novērst"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisno"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:34.034771286Z",
+  "model": "glm-5.3"
+}

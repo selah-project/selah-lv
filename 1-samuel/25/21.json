@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "velti",
+      "rationale": "literāri 'par melu\/par velti' — לשקר burtiski 'par melu', idiomātiski 'velti, par neko'"
+    },
+    {
+      "kind": "addition",
+      "subject": "cilvēkam",
+      "rationale": "לזה 'šim' — latviešu valodai vajadzīgs piebildes vārds"
+    }
+  ],
+  "translation": "Un Davids bija sacījis: Tik tiešām velti es sargāju ⟨את⟩ visu, kas pieder šim ⟨cilvēkam⟩ tuksnesī, un nekas netrūka no visa, kas viņam pieder, un viņš man atdeva ļaunu par labu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/21-24.1792519349894.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Un Davids"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bija sacījis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tik tiešām"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "velti"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "es sargāju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viss, kas pieder šim cilvēkam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "šim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nekas"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "netrūka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam pieder"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nekas"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un atdeva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "labu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:29.895531893Z",
+  "model": "glm-5.3"
+}

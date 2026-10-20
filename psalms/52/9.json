@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šis ir⟩",
+      "rationale": "Ebreju tekstā nav saikļa; demonstratīvais skaidrojums pievienots latviski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ļaunprātība",
+      "rationale": "הַוָּה nozīmē postu, iznīcību un ļaunu kārību; tulkojums izvēlas vienu no nozīmēm"
+    },
+    {
+      "kind": "you",
+      "subject": "par ļauno vīru",
+      "rationale": "Dāvida pēdējais skats uz pretinieku — rādīšana ar pirkstu, 'lūk, šis vīrs'"
+    }
+  ],
+  "translation": "Lūk, ⟨šis ir⟩ vīrs, kas nelika Elohim par savu patvērumu, bet paļāvās uz sava bagātības pārpilnību, stiprinājās savā ļaunprātībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/52\/9-11.1792527678483.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "par savu patvērumu"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "bet paļāvās"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "uz pārpilnību"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "savas bagātības"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "stiprinājās"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "savā ļaunprātībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:18.483750455Z",
+  "model": "glm-5.3"
+}

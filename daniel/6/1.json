@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kad viņam bija⟩",
+      "rationale": "Aramaic literally 'as\/when a son of sixty-two years' — relative clause supplied in Latvian"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešdesmit divi gadi",
+      "rationale": "age of Darius counted"
+    }
+  ],
+  "translation": "Un Dārijs no mediešiem saņēma valstību, ⟨kad viņam bija⟩ apmēram sešdesmit divi gadi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/1-4.1792530321287.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "Un Dārijs"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "no mediešiem"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "saņēma"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "valstību"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "apmēram"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "sešdesmit"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "un divi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:05:21.287929198Z",
+  "model": "glm-5.3"
+}

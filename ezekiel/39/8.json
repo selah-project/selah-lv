@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Saiklis pievienots latviešu valodai; ebreju valodā nav."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tā nāk",
+      "rationale": "Noslēpumainā 'diena, par ko es runāju' — diena nav nosaukta, tikai solīta."
+    }
+  ],
+  "translation": "Lūk, tā nāk, un tā notiks, saka Adonai Jahve; tā ⟨ir⟩ diena, par ko es runāju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/39\/5-8.1792525575256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par ko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "es runāju"
+    }
+  ],
+  "timestamp": "2026-10-20T19:46:15.258022070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 5:8",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצנור",
+      "rationale": "צנור — 'ūdens noteka \/ caurule': siena ūdens šahta, pa kuru var uzrāpties nocietinājumos; lasījumi dalīti."
+    },
+    {
+      "kind": "crux",
+      "subject": "שנאו נפש דוד",
+      "rationale": "Vai 'ko Davida dvēsele ienīst' (par jebusiešiem), vai 'saka' (KJV: 'jo akie un klibie saka') — teikums ebrejiski aprauts un tumšs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa \/ dzīvības spēks', nevis modernā 'dvēsele'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "aklais un klibais nenāks namā",
+      "rationale": "Pantas beigās paskaidrots sakāmvārds: 'tāpēc saka' — parauna izcelsmes stāsts."
+    }
+  ],
+  "translation": "Un Davids sacīja tanī dienā: ikviens, kas sit jebusieti un aizsniedzas līdz notekai, — un ⟨את⟩ klibos un ⟨את⟩ aklos ienīst Davida dvēsele. Tāpēc saka: aklais un klibais nenāks namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/5\/5-8.1792519684941.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kas sit"
+    },
+    {
+      "surface": "יבסי",
+      "gloss": "jebusieti"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "un aizsniedzas"
+    },
+    {
+      "surface": "בצנור",
+      "gloss": "līdz notekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klibos"
+    },
+    {
+      "surface": "הפסחים",
+      "gloss": "klibos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aklos"
+    },
+    {
+      "surface": "העורים",
+      "gloss": "aklos"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ienīst"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "על",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aklais"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "un klibais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nenāks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iekšā"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nams"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:04.943085148Z",
+  "model": "glm-5.3"
+}

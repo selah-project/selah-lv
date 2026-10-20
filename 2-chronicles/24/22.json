@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 24:22",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "החסד atstāts kā hesed pēc lv krēsla D2, nevis 'žēlastība' viena."
+    },
+    {
+      "kind": "crux",
+      "subject": "piemeklē",
+      "rationale": "וידרש: 'piemeklē\/atmaksā' pret 'iztaisa'; lūgums, lai Jahve atmaksā nokaušanu."
+    },
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "Piedēklis 'mirdams tas sacīja' — runātājs ir Caharja, ebreju tekstā vārds nav."
+    }
+  ],
+  "translation": "Un ķēniņš Joašs neatcerējās hesed, ko Jehojada, viņa tēvs, bija viņam darījis, un nogalināja ⟨את⟩ viņa dēlu; un, mirdams, tas sacīja: lai Jahve redz un piemeklē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/24\/21-24.1792532132662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un... ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "atcerējās"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bija darījis"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēvs"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "un nogalināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa dēlu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēlu"
+    },
+    {
+      "surface": "וכמותו",
+      "gloss": "un, mirdams,"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "lai... redz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "un piemeklē"
+    }
+  ],
+  "timestamp": "2026-10-20T21:35:32.663229974Z",
+  "model": "glm-5.3"
+}

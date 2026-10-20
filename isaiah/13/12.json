@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dārgāku",
+      "rationale": "פז 'tīrs\/zeltains zelts'; אוקיר 'padarīšu reto\/dārgo' — retums te ir sekas, dārgums tēls."
+    },
+    {
+      "kind": "crux",
+      "subject": "mirstīgais\/cilvēks",
+      "rationale": "אנוש un אדם — divi cilvēka vārdi; daži tulkotāji saskata pakāpju atšķirību, citi vienkārši paralelismu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "zelts",
+      "rationale": "Cilvēka vērtība svērta pret diviem zelta veidiem — pasaulē palikušo skaita mērs."
+    }
+  ],
+  "translation": "Es darīšu mirstīgo dārgāku par tīru zeltu, un cilvēku — par Ofīras raktu zeltu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/13\/9-12.1792522044092.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Es darīšu dārgāku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgo"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "par tīru zeltu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "un cilvēku"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "par raktu zeltu"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofīras"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:24.093154385Z",
+  "model": "glm-5.3"
+}

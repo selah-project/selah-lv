@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "tulkots kā ⟨את⟩ zīme; latviešu akuzatīvs jau norāda objektu, bet zīme saglabāta"
+    }
+  ],
+  "translation": "Un tauta neatgriezās pie tā, kas viņu sita, un ⟨את⟩ Jahvi Cevaot viņi nemeklēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/9-12.1792521969190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "un tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "tā, kas viņu sita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "viņi nemeklēja"
+    }
+  ],
+  "timestamp": "2026-10-20T18:46:09.191981385Z",
+  "model": "glm-5.3"
+}

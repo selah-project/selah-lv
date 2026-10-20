@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התעברת",
+      "rationale": "'pārgāji dusmās' — Hitpa'els forma no עבר, parasti 'šķērsoja'; šeit 'izrādīja niknumu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨savu⟩",
+      "rationale": "Latviešu valodai vajag piederības vietniekvārdu pie 'svaidītais'"
+    },
+    {
+      "kind": "you",
+      "subject": "Tu",
+      "rationale": "pēkšņa vēršanās pret Jahvi — lūgšanas protests sākas šeit"
+    }
+  ],
+  "translation": "Bet Tu esi atstūmis un nicinājis, Tu esi saniknots ar ⟨savu⟩ svaidīto.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/37-40.1792527985860.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "(ואתה",
+      "gloss": "Bet Tu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "esi atstūmis"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "un nicinājis"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "esi saniknots"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "svaidīto"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:25.861726097Z",
+  "model": "glm-5.3"
+}

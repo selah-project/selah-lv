@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skorpioni",
+      "rationale": "עקרבים var būt īsti skorpioni vai pātagas ar metāla dzelonīšiem — tulkotāji dalīti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבי...ואני",
+      "rationale": "Hiasmveida atkārtojums: 'mans tēvs — un es' divreiz, pastiprinājuma kāpņu retorika."
+    },
+    {
+      "kind": "you",
+      "subject": "tautai",
+      "rationale": "Rehoboama runa tieši vērsta uz tautu — draudošs paziņojums."
+    }
+  ],
+  "translation": "Un tagad: mans tēvs uzkrāva uz jums smagu jūgu, un es pievienošu jūsu jūgam; mans tēvs sodīja ⟨את⟩ jūs ar pātagām, un es sodīšu ⟨את⟩ jūs ar skorpioniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/12\/9-12.1792520735772.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mans tēvs"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "uzkrāva"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "uz jums"
+    },
+    {
+      "surface": "על",
+      "gloss": "jūgu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "smagu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "pievienošu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jūsu jūgu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mans tēvs"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "sodīja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "ar pātagām"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ar pātagām"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sodīšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "ar skorpioniem"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ar skorpioniem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:35.773283309Z",
+  "model": "glm-5.3"
+}

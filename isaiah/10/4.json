@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי כרע",
+      "rationale": "Burtiski 'bez (Manis) tie lieksies' (sal. KJV 'Without me'); arī lasījums 'tie tikai lieksies' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "pielieksies\/kritīs ... dusmas\/roka",
+      "rationale": "Atkārtotais Is 5,25 u.c. piedziedājums 'dusmas nav atgriezušās, roka izstiepta' — piedziedājuma ritmo zūd"
+    }
+  ],
+  "translation": "Tikai zem ieslodzītā tie pielieksies un zem nogalinātajiem tie kritīs. Ar visu to viņa dusmas nav atgriezušās, un vēl viņa roka ir izstiepta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/1-4.1792522087351.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "tie pielieksies"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ieslodzītā"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "un zem"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "nogalinātajiem"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tie kritīs"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezusies"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "viņa dusmas"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "un vēl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ir izstiepta"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:07.352716831Z",
+  "model": "glm-5.3"
+}

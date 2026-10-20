@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mēri",
+      "rationale": "Riteņa augstums — elkonis un puselkonis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rokas",
+      "rationale": "ידות burtiski 'rokas' — riteņu asis; tulkotāji parasti raksta 'asis', bet vārda forma ir 'rokas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav darbības vārda"
+    }
+  ],
+  "translation": "Un četri riteņi ⟨bija⟩ zem rāmjiem, un riteņu rokas pamatnē; un viena riteņa augstums — elkonis un puselkonis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/7\/29-32.1792520491048.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "un četri"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "riteņi"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "rāmjiem"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "un rokas"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "riteņu"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "pamatnē"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "un augstums"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "riteņa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "elkonis"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "un pus"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "elkoņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:31.049425508Z",
+  "model": "glm-5.3"
+}

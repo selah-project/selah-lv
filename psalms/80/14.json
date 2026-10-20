@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zvērs",
+      "rationale": "זיז burtiski ir 'kustīgā radība' (vai 'krūts pilnība'); parasti tulkots kā 'lauka zvērs', bet šeit paturēts burtiskais tēls."
+    },
+    {
+      "kind": "elision",
+      "subject": "שדי",
+      "rationale": "שָׂדַי šeit ir 'lauks' (שָׂדֶה celms), nevis Vārds Šadai — rakstība atšķiras tikai ar patskaņiem."
+    }
+  ],
+  "translation": "To nograuž meža cūka, un tas, kas kustas laukā, to ganā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/80\/13-16.1792527953922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "to nograuž"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "cūka"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "no meža"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "un tas, kas kustas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "laukā"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "to ganā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:53.923342246Z",
+  "model": "glm-5.3"
+}

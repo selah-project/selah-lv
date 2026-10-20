@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואשר",
+      "rationale": "Izrunas parts 'un to, ko' — ebreju relatīvais apzīmē objektu, ko pirksti darījuši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saules stabus",
+      "rationale": "חמנים ir saules\tpiloni\tstabi; 'elku tēli'\tone zaudē\tsaules\tsaistību."
+    }
+  ],
+  "translation": "Un viņš neskatīsies uz altāriem, viņa roku darbu, un to, ko darījušas viņa pirksti, viņš neredzēs: ne Ašeras, ne saules stabus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/17\/5-8.1792522212994.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "neskatīsies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altāriem"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "viņa roku"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un to, ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darījušas"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "viņa pirksti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "neredzēs"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "ne Ašeras"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "ne saules stabus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:50:12.996264943Z",
+  "model": "glm-5.3"
+}

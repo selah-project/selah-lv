@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יללתה ... יללתה",
+      "rationale": "Atkārtotā 'vaimanas' divos puspants nogalēs iezīmē robežu no austrumiem uz rietumiem — atbalsu refrēns."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apņēmis",
+      "rationale": "הקיפה (נקף) burtiski 'apgājusi apkārt' — kliedziens ielenk Moāba robežu kā gredzens."
+    }
+  ],
+  "translation": "jo kliedziens apņēmis ⟨את⟩ Moāba robežu; līdz Eglajimai tās vaimanas, un līdz Beer-Ēlimam tās vaimanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3dfbb3397f71939422c7b906dc459b0655c140849e19e5db1379650f6cf01ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/15\/5-8.1792522097723.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "apņēmis"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "kliedziens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moāba robežu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robežu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moāba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglajimai"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tās vaimanas"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "un līdz Beer-"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Ēlimam"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tās vaimanas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:17.724537215Z",
+  "model": "glm-5.3"
+}

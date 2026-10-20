@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 6:1",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviski vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mums",
+      "rationale": "ממנו burtiski 'no tās' — no vietas; latviski dots 'mums' pēc jebkādās nozīmes."
+    },
+    {
+      "kind": "you",
+      "subject": "praviešu dēli uz Elišu",
+      "rationale": "Tieša uzruna Elišam ar lūgumu 'הנה נא'."
+    }
+  ],
+  "translation": "Un praviešu dēli sacīja Elišam: Lūk, lūdzu, vieta, kurā mēs dzīvojam tur tev priekšā, ⟨ir⟩ šaura mums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/1-4.1792521221826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "praviešu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dzīvojam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev priekšā"
+    },
+    {
+      "surface": "צר",
+      "gloss": "šaura"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:41.826879200Z",
+  "model": "glm-5.3"
+}

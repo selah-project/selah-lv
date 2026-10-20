@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "בסערה השמים",
+      "rationale": "uzņemšana vētrā — teksts nesaka, kā tas notiks; notikums vēl ir apslēpts."
+    },
+    {
+      "kind": "you",
+      "subject": "Elija → Eliša",
+      "rationale": "nākamajos pantos Elija tieši uzrunā Elišu."
+    }
+  ],
+  "translation": "Un notika, kad Jahve cēla ⟨את⟩ Eliju vētrā uz debesīm: Elija gāja, un Eliša, no Gilgalas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96b2e076d0d8ffb0b0b2c191b2a172cc2fa14dc4ac0be02c080f78ae9acb500c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/2\/1-4.1792521125920.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "kad cēla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliju"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliju"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "vētrā"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "uz debesīm"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "un Eliša"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:32:05.921354281Z",
+  "model": "glm-5.3"
+}

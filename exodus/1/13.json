@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ar bardzību",
+      "rationale": "בפרך burtiski 'lauzums', tas ir, 'lauzoša stingrība'; latviski parasti 'ar negantīgu bardzību'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בפרך",
+      "rationale": "Vārds parādās tikai 2. Mozus 1:13 un 1:14 viss Tanahā; tā burtiskā nozīme nav pilnīgi skaidra."
+    }
+  ],
+  "translation": "Un Micraima darbināja ⟨את⟩ Jisraēla dēlus ar bardzību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/1\/13-16.1792512674872.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "darbināja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ar bardzību"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:14.873061356Z",
+  "model": "glm-5.3"
+}

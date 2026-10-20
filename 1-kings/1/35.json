@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būt⟩",
+      "rationale": "Ebreju infinitīvs להיות valodā dabiski savienojas; latviešu teikumā vajag ⟨būt⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Ebreju tekstā teikumu sasaiste ar ו 'un'; 'jo' pievienots, lai latviešu lasītājs redzētu pamatojuma attiecību."
+    }
+  ],
+  "translation": "Un jūs kāpsiet augšā pēc viņa, un viņš nāks un sēdēs uz mana troņa, un viņš valdīs manā vietā; jo ⟨את⟩ viņu es esmu pavēlējis ⟨būt⟩ par vadoni pār Jisraēlu un pār Jehudu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/33-36.1792520344168.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "Un jūs kāpsiet augšā"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pēc viņa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "un viņš nāks"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un sēdēs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "mana troņa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "valdīs"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "manā vietā"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "un ⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "es esmu pavēlējis"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨būt⟩"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "vadonis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:04.169821542Z",
+  "model": "glm-5.3"
+}

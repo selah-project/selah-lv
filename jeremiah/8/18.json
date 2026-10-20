@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מבליגיתי",
+      "rationale": "Vārds sastopams tikai šeit Tanahā; nozīme neskaidra — 'manā atvēsināšanā\/mierinājumā'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבליגיתי עלי יגון",
+      "rationale": "Šis hapax ļauj divus lasījumus: 'mans mierinājums pret bēdām (veltīgs)' vai 'es atsakos no mierinājuma par bēdām'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלי ... עלי",
+      "rationale": "Prepozīcija 'pret\/manī' atkārtojas divreiz pēc ritma — sēras plūsmas cēliens, kas latviski iespējams tikai daļēji."
+    }
+  ],
+  "translation": "Manā mierinājumā pret bēdām — manī mana sirds ⟨ir⟩ slima.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/8\/17-20.1792523488974.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "manā mierinājumā"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "bēdām"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "slima"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:28.975665784Z",
+  "model": "glm-5.3"
+}

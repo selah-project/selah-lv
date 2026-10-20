@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jautājuma skaidrojums",
+      "rationale": "Teksts var būt apgalvojums (nenotiek) vai retorisks jautājums (vai neiziet?) — tradīcijas dalītas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elijons",
+      "rationale": "עליון ir tituls ‘Augstākais’, atstāts pēc skanējuma"
+    }
+  ],
+  "translation": "Vai no Elijona mutes neiziet ļaunais un labais?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/37-40.1792529796554.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "no mutes"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijons"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ļaunais"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "un labais"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:36.555298863Z",
+  "model": "glm-5.3"
+}

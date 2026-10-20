@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dēls vienu gadu",
+      "rationale": "בן שנה — 'viens gads vecs': skaitlis teksta acīs trūkst; KJV tulko 'valdīja vienu gadu', BSB piedēvē trīsdesmit gadus, JPS atstāj tukšu."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa 'bija'; latviešu valodai tas vajadzīgs."
+    }
+  ],
+  "translation": "Šaula ⟨bija⟩ dēls vienu gadu, kad viņš sāka valdīt, un divus gadus viņš valdīja pār Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/13\/1-4.1792519028754.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vienu gadu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kad viņš sāka valdīt"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "un divus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "viņš valdīja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:57:08.755055692Z",
+  "model": "glm-5.3"
+}

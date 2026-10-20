@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 19:18",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krāsns",
+      "rationale": "כבשן ir kausējamā krāsns (metālu kausēšanai), ne vienkārši krāsns"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשן\/עשנו",
+      "rationale": "dūmu atkārtojums: kalns dūmo, tā dūmi kā krāsns dūmi — trīskārša sakne עשן"
+    }
+  ],
+  "translation": "Un Sinaja kalns visu dūmoja no tā, ka Jahve ar uguni nokāpa uz to, un tā dūmi cēlās augšup kā krāsns dūmi, un viss kalns ļoti trīcēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d98d1b8032b39698b198aa352f8c7afe57d9be8250ee9270646fd0dbed9bd07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/19\/18-18.1792514799253.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והר",
+      "gloss": "Un kalns"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaja"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmoja"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "visu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no tā, ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nokāpa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ar uguni"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "un cēlās augšup"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "tā dūmi"
+    },
+    {
+      "surface": "כעשן",
+      "gloss": "kā dūmi"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "krāsns"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "un trīcēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalns"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:39.255335969Z",
+  "model": "glm-5.3"
+}

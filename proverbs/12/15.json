@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "viņa acīs",
+      "rationale": "Ebreju idioms 'viņa acīs' = viņa uzskatā; saglabāts burtiski."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav."
+    }
+  ],
+  "translation": "Muļķa ceļš viņa acīs ⟨ir⟩ taisns, bet kas klausās padomā, ⟨ir⟩ gudrs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "568088875a3e3f67ab8b6df22578811a49054c1bbbfc42cb555f6085024591fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/13-16.1792528678849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "Muļķa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "taisns"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "viņa acīs"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "bet kas klausās"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "padomā"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gudrs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:58.849972343Z",
+  "model": "glm-5.3"
+}

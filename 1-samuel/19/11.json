@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפשך ir 'tava nepeš' — elpa, rīkle, dzīvības spēks, ne tikai 'dzīvība'."
+    },
+    {
+      "kind": "you",
+      "subject": "Mikala runa Davidam",
+      "rationale": "Tieša uzruna: Mikala brīdina savu vīru ar 'ja tu... tu tiksi nogalināts'."
+    }
+  ],
+  "translation": "Un Šauls sūtīja vēstnešus uz Davida namu sargāt viņu un nogalināt viņu no rīta; un Mikala, viņa sieva, paziņoja Davidam, sacīdama: Ja tu šonakt neizglābsi ⟨את⟩ savu dzīvību, rīt tu tiksi nogalināts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/19\/9-12.1792519242094.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un sūtīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vēstnešus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "sargāt viņu"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "un nogalināt viņu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "un paziņoja"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikala"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "viņa sieva"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "izglābsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dzīvību"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savu dzīvību"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "šonakt"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rīt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "tiksi nogalināts"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:42.096006571Z",
+  "model": "glm-5.3"
+}

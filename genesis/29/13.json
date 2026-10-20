@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 29:13",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu",
+      "rationale": "Ebreju tekstā priekšmetu apzīmē darbības vārds ar datīvu (לו), latviski vajadzīgs izteikts objekts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "notikumus",
+      "rationale": "הדברים burtiski 'vārdi\/lietas'; kontekstā 'visi šie notikumi'."
+    }
+  ],
+  "translation": "Un notika, kad Labans dzirdēja ⟨את⟩ ziņu par Jaakovu, savas māsas dēlu, viņš skrēja viņam pretī, apskāva ⟨viņu⟩ un noskūpstīja ⟨viņu⟩, un ieveda viņu savā namā; un Jaakovs pastāstīja Labanam ⟨את⟩ visus šos notikumus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/29\/13-16.1792512152357.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad dzirdēja"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziņu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ziņu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "savas māsas"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "viņš skrēja"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "viņam pretī"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "apskāva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨viņu⟩"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "noskūpstīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨viņu⟩"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ieveda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iekšā"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "pastāstīja"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Labanam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus notikumus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "notikumus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šos"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:32.358265231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שבת גם יחד",
+      "rationale": "burtiski 'sēžot arī vienoti'; גם un יחד abi apzīmē vienotību, latviski saplūst vienā vārdā 'kopā'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā nav saikļa; latviešu izsauksmes teikumā iztiek bez tā"
+    },
+    {
+      "kind": "you",
+      "subject": "uz lasītāju",
+      "rationale": "הנה 'redzi' tieši uzrunā klausītāju"
+    }
+  ],
+  "translation": "Pakāpienu dziesma — Davidam. Redzi, cik labi un cik patīkami brāļiem mājot kopā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/133\/1-3.1792528387378.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dziesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pakāpienu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un cik"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "patīkami"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mājot"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brāļiem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vienoti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:07.378853775Z",
+  "model": "glm-5.3"
+}

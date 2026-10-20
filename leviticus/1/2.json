@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יקריב\/קרבן\/תקריבו",
+      "rationale": "Radikālis קרב 'tuvot' trīskārši atkārtojas: tuvina — upuris (tuv-inājums) — tuvināsiet; latviski saglabāts ar vienu sakni 'tuv-'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרבן",
+      "rationale": "'upuris' zaudē burtisko nozīmi 'kas tuvināts' — tas pats burtisks 'pie-nesums'."
+    },
+    {
+      "kind": "you",
+      "subject": "Runā ar Jisraēla dēliem",
+      "rationale": "Pavēle Mošem tieši uzrunāt Jisraēla dēlus."
+    }
+  ],
+  "translation": "Runā ar Jisraēla dēliem un saki tiem: Kad kāds no jums tuvina upuri Jahvem, no lopiem — no liellopiem un no avis un kazām — jūs tuvināsiet ⟨את⟩ savu upuri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/1\/1-4.1792513614892.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "un saki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kāds"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "tuvina"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "upuri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lopiem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avis un kazām"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "jūs tuvināsiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu upuri"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "savu upuri"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:54.892956463Z",
+  "model": "glm-5.3"
+}

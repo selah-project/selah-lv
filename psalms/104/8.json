@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kalni kāpa \/ ielejas nolaidās",
+      "rationale": "Ivrita nepabeigtais laiks: 'ūdeņi kāpa kalnos un nolaidās ielejās' (KJV) pret 'kalni cēlās, ielejas nolaidās' (JPS\/ASV) — radīšanas notikums pret ūdeņu aizplūšanu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuru",
+      "rationale": "זה ir apzīmētais vietniekvārds 'šo'; latviski salīdzinošā struktūrā dabiskāk ir 'kuru'."
+    }
+  ],
+  "translation": "Kalni kāpa augšup, ielejas nolaidās — uz vietu, kuru Tu tiem esi licis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/5-8.1792528112329.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "kāpa augšup"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalni"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nolaidās"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ielejas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Tu esi licis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:32.330641959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 6:13",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ללא דבר \/ לדבר \/ קרנים",
+      "rationale": "Tradicionāli 'priecājas par nieku', bet iespējams vārdu spēles norādījums uz pilsētām Lo-Debar un Karnajima (2. Ķēniņu 14:25)"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר",
+      "rationale": "'niets, vārds' vai pilsētas vārds Lo-Debar; tāpat קרנים — 'ragi' vai pilsēta Karnajima"
+    }
+  ],
+  "translation": "Tie, kas priecājas par ⟨to, kas nav⟩ nekā, kas saka: Vai ne ar savu spēku mēs paņēmām sev ragus?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "20b4a5b6fbe4ce3294b060194e369f513eac100670b20b280d5b2da440511718",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/6\/13-14.1792526274537.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "tie, kas priecājas"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "par ⟨to, kas nav⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nekā (dēvēr)"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kas saka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "בחזקנו",
+      "gloss": "ar savu spēku"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "mēs paņēmām"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "ragus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:54.538052495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Retorisks jautājums vērsts pie Jisraēla kā sievišķa adresāta (tevi, tavu)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תעשה לך",
+      "rationale": "Burtiski 'dara tev' — 'nodarīji sev' atveido sekas, ko ebreju valoda izsaka ar 'darīt sev'."
+    }
+  ],
+  "translation": "Vai neesi šo nodarījusi ⟨sev⟩, tāpēc ka tu atstāji ⟨את⟩ Jahvi, savu Elohim, tanī laikā, kad viņš tevi vadīja ceļā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/17-20.1792523201596.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "vai neesi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nodarījusi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sev⟩"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "tu atstāji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tanī laikā"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "viņš tevi vadīja"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:41.596932366Z",
+  "model": "glm-5.3"
+}

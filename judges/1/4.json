@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "desmit tūkstošu vīru",
+      "rationale": "Cīņas upuru skaits — skaitlīga ziņa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sakāva",
+      "rationale": "ויכום ir 'sita'; latviski 'sakāva' pieņem uzvaras nozīmi."
+    }
+  ],
+  "translation": "Un Jehuda uzkāpa, un Jahve deva ⟨את⟩ kenaaniešus un periziešus viņu rokā; un viņi tos sakāva Bēzekā, desmit tūkstošus vīru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/1-4.1792518147408.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Un uzkāpa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "un deva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaaniešus"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešus"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "un periziešus"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "viņu rokā"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "un viņi tos sakāva"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bēzekā"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstošus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:27.409671250Z",
+  "model": "glm-5.3"
+}

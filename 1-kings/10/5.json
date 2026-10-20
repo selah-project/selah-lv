@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועלתו",
+      "rationale": "Nozīme 'augupejs' (pakāpieni) pret 'kalpošana' — daudzi tulkotāji lasa kā 'viņa kāpšanas ceļš' (KJV) nevis 'degupuri' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atturēta kā 'ruah' — vējš\/elpa\/gars vienā vārdā; latviski parasti 'garastāvoklis', bet tas zaudē vārda formu."
+    }
+  ],
+  "translation": "un ⟨viņa⟩ galda ēdienus, un viņa kalpu sēdekļus, un viņa kalpotāju stāvokli, un viņu tērpus, un viņa dzērienu devē­jus, un viņa augupeji, ko viņš cēla Jahves namā; un viņā vairs nebija ruah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/10\/5-8.1792520620160.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "un ēdieni"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "viņa galda"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "un sēdekļi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpiem"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "un stāvēšana"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "viņa kalpotājiem"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "un viņu tērpi"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "un viņa dzērienu devēji"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "un viņa augupeji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "viņš cēla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "בה",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:40.161446454Z",
+  "model": "glm-5.3"
+}

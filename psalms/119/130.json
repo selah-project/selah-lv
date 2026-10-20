@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "atklāšana",
+      "rationale": "פתח 'atvēršana\/atklāšana': KJV 'ieeja', YLT 'atvēršana', BSB 'izvēršana'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/פתיים",
+      "rationale": "Saknes פתח un פתי skan līdzīgi — vārdu atvēršana un atvērtie vientieši."
+    }
+  ],
+  "translation": "Tavu vārdu atklāšana apgaismo, tāpiešķir saprašanu vientiesīgajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/129-132.1792528331029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "atklāšana"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Tavu vārdu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "apgaismo"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "piešķir saprašanu"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "vientiesīgajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:11.030456553Z",
+  "model": "glm-5.3"
+}

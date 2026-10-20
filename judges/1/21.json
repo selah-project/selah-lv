@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 1:21",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את בני בנימן",
+      "rationale": "Šis את nav objekta marķieris, bet prievārds 'ar' (tuvums); atstāts kā ⟨את⟩ ar piezīmi, ka nozīme ir 'kopā ar'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir\/bija",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tas trūkst."
+    }
+  ],
+  "translation": "Un ⟨את⟩ jebusieti, kas dzīvoja Jerušalaimā, Benjamina dēli neizdzina; un jebusietis dzīvo ⟨את⟩ Benjamina dēlos Jerušalaimā līdz šai dienai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/21-24.1792518103394.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jebusieti"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusieti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "neizdzina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un dzīvo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusietis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamina dēlos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlos"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    }
+  ],
+  "timestamp": "2026-10-20T17:41:43.395189078Z",
+  "model": "glm-5.3"
+}

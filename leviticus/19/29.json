@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחלל\/להזנותה\/תזנה",
+      "rationale": "Sakne זנה atgriežas divreiz — meitas netiklība un zemes netiklība — paralele, kas latviski daļēi saglabāta ar vārdu 'netikle\/netiklība'."
+    },
+    {
+      "kind": "crux",
+      "subject": "להזנותה",
+      "rationale": "'Padarīt viņu par netikli' — daži lasa par kulta prostitūciju, citi par parastu netiklību."
+    }
+  ],
+  "translation": "Neneglīti ⟨את⟩ savu meitu, padarīdams viņu par netikli, un lai zeme nenododas netiklībā, un lai zeme nepiepildās ar ļaunumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/29-32.1792515066312.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "neneglīti"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "neneglīti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu meitu"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "savu meitu"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "padarīdams viņu par netikli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un lai ne"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "nenododas netiklībā"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "un nepiepildās"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ar ļaunumu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:06.313750290Z",
+  "model": "glm-5.3"
+}

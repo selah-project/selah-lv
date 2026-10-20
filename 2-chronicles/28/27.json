@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 28:27",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gūlās pie saviem tēviem",
+      "rationale": "וישכב עם אבתיו — ebreju apzīmējums 'nomira', burtiski 'gūlās ar saviem tēviem'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'jo' pret 'bet' — KJV\/geneva 'bet', ASV\/JPS 'jo'; loģika: apraka pilsētā, JO ne ķēniņu kapos."
+    },
+    {
+      "kind": "addition",
+      "subject": "kļuva",
+      "rationale": "וימלך ir darbības vārds 'valdīja\/kļuva ķēniņs'; latviešu vajag palīgdarbības vārdu."
+    }
+  ],
+  "translation": "Un Ahas gūlās pie saviem tēviem, un viņi apraka viņu pilsētā, Jerušalaimā, jo viņi neievietoja viņu Jisraēla ķēniņu kapos; un viņa dēls Hizkijahu kļuva ķēniņs viņa vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/28\/25-27.1792532196436.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "un gūlās"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "saviem tēviem"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "un viņi apraka viņu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הביאהו",
+      "gloss": "ievietoja viņu"
+    },
+    {
+      "surface": "לקברי",
+      "gloss": "kapos"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "un kļuva ķēniņs"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:36:36.438614423Z",
+  "model": "glm-5.3"
+}

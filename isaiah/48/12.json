@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā nav saikļa 'es esmu viņš' — pievienots latviešu 'esmu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Jaakov and Jisraēl",
+      "rationale": "Uzaicinājums klausīties: 'Klausi man, Jaakov' — tiešs uzrunājums"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jisraēl",
+      "rationale": "Vēstījums adresēts Jaakovam un Jisraēlam, Jahve saucītajiem"
+    }
+  ],
+  "translation": "Klausi man, Jaakov, un Jisraēl, mans sauktīgais: es ⟨esmu⟩ viņš; es ⟨esmu⟩ pirmais, un es ⟨esmu⟩ pēdējais.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/48\/9-12.1792522764152.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "klausi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēl"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mans sauktīgais"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pirmais"
+    },
+    {
+      "surface": "אף",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "pēdējais"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:24.153569122Z",
+  "model": "glm-5.3"
+}

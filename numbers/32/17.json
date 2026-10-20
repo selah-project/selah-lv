@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 32:17",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "'עד אשר אם' — 'ja' ir dubults nosacījuma pastiprinājums; latviski pietiek ar vienu 'līdz kamēr'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Izteikums 'iedzīvotājiem, kas ⟨ir⟩ zemē' — ebreju tekstā vietniekvārda nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apbruņosimies",
+      "rationale": "נחלץ burtiski 'novilksimies, atbrīvosimies', t.i. 'bruņosimies karam'; forma saglabā vienu vārdu abās pantās (17 un 20)."
+    }
+  ],
+  "translation": "Bet mēs paši apbruņosimies steidzīgi priekš Jisraēla bērniem, līdz kamēr ievadīsim viņus viņu vietā; un mūsu mazie dzīvos nocietinātajās pilsētās iedzīvotāju dēļ, kas ⟨ir⟩ zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/32\/17-20.1792516362516.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "bet mēs"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "apbruņosimies"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "steidzīgi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekš"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz kamēr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הביאנם",
+      "gloss": "ievadīsim viņus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "viņu vietā"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "mūsu mazie"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "nocietinātajās"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotājiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T17:12:42.518629241Z",
+  "model": "glm-5.3"
+}

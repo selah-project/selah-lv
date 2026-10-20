@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs 'ir'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו \/ אדום",
+      "rationale": "Eśavs un Ēdoms — vārdu saite no 1. Mozus 25:30 ('asiņaini sarkans' \/ 'sarkanā zupa'), latviski zudīga."
+    }
+  ],
+  "translation": "Šie ir Eśava dēli, un šie ir to vadonji; tas ⟨ir⟩ Ēdoms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "12e65595675d50c34a48f547fca8e3c9a84b16a0fa217c7570bfedcba2db3b47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/36\/17-20.1792512326669.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eśava"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "un šie"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "to vadonji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Ēdoms"
+    }
+  ],
+  "timestamp": "2026-10-20T16:05:26.671068586Z",
+  "model": "glm-5.3"
+}

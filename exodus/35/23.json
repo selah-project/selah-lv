@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Šeit אתו ir prievārds 'ar\/pie viņa' (H854), nevis pakārtotā objekta marķieris; glosā ⟨את⟩ kā zīme."
+    },
+    {
+      "kind": "crux",
+      "subject": "תחשים",
+      "rationale": "Nezināms dzīvnieks: 'tahasu ādas' — tularu ādas, jūras zvēra ādas vai ādains aituādas; saglabāts skanējums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ועזים",
+      "rationale": "Burtiski 'un kazas' — elipse, domātas kazu spalvas materiālam."
+    }
+  ],
+  "translation": "Un ikviens vīrs, pie kā atradās ⟨את⟩ tirkīzzils un purpurs un tārpiņu sarkanais un smalks lins un kazu spalvas, un aunu ādas, sarkanīgi iekrāsotas, un tahasu ādas — tās viņi atnesa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/35\/21-24.1792513444805.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "un ikviens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pie kā"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "atradās"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pie viņa atrastās lietas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tirkīzzils"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "un purpurs"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "un tārpiņu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sarkanais"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "un smalks lins"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "un kazu spalvas"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "un ādas"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "aunu"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "sarkanīgi iekrāsotas"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "un ādas"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahasu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "tie atnesa"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:04.807766004Z",
+  "model": "glm-5.3"
+}

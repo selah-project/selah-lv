@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šabats šabatons",
+      "rationale": "Š-B-T saknes dubultošana: 'šabats šabatons' — pilnīga atpūta; latviski saglabāts 'šabats' + 'atpūta'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבתון",
+      "rationale": "vārdu atkārtojums no 25:2 turpinās — visa perikope balstās uz šabata sakni"
+    }
+  ],
+  "translation": "bet septītajā gadā būs šabata atpūta zemei — šabats Jahvem; savu lauku tu nesēsi, un savu vīna dārzu tu neapgriezīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3fb618c5046f94c280399f06b0f15e0e5ea5b84ce72e6807b3cf3e47d0c2db06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/1-4.1792515203996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "bet septītajā gadā"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "atpūta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabats"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "lauku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sēsi"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "vīna dārzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "apgriezīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:23.999011958Z",
+  "model": "glm-5.3"
+}

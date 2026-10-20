@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל נפש",
+      "rationale": "'נפש kungs' — lielākas ēstgribas cilvēks (KJV 'man given to appetite') vai arī 'bagāts vīrs'; latviski atstāts burtiski ar נפש saglabātu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש nav 'dvēsele' vien — rīkle, elpa, dzīvības spēks, ēstgriba; šeit tuvāk 'apetītes valdniekam'."
+    }
+  ],
+  "translation": "Un liec nazi pie sava rīkles, ja tu esi נפש kungs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/1-4.1792528856662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "un liec"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "pie sava rīkles"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפש — dzīvības spēka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:56.662798600Z",
+  "model": "glm-5.3"
+}

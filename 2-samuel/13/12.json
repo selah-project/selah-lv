@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nevārdzī mani",
+      "rationale": "תענני no ענה: 'nemoci', 'nevārdzī', 'nevarē' — KJV 'force', YLT 'humble'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "negantību",
+      "rationale": "הנבלה burtiski 'muļķība' — morālā nozīmē 'ļaunprātība, negantība'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiek",
+      "rationale": "Latviešu izteiksme pieprasa palīgdarbības vārdu 'netiek darīts'; ivritā tikai לא יעשה."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Amnonu",
+      "rationale": "Tamāra runā tieši ar brāli — lūgums un atteikums."
+    }
+  ],
+  "translation": "Un viņa sacīja viņam: Nē, mans brāli, nevārdzī mani, jo tā Jisraēlā netiek darīts; nedari ⟨את⟩ šo negantību!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1efb8c193e72ffc27e359ce7d87017acce244ff323491bd3090365bdb786af98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/13\/9-12.1792519829248.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nē"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mans brāli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "vārdzī mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tiek darīts"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negantību"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "negantību"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:29.250647121Z",
+  "model": "glm-5.3"
+}

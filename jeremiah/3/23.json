@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המון הרים",
+      "rationale": "troksnis\/kalnu pūlis — 'kūtriņš uz kalniem' (ASV) pret 'pūlis kalnu' (Geneva); ņemts burtiski 'troksnis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "nam-sakārta bez saikļa; latviski vajag ⟨ir⟩"
+    }
+  ],
+  "translation": "Patiesi, melis ⟨ir⟩ no pakalniem, troksnis no kalniem; patiesi, Jahvē, mūsu Elohim, ⟨ir⟩ Jisraēla pestīšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/3\/21-24.1792523212755.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Patiesi"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "melis"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "no pakalniem"
+    },
+    {
+      "surface": "המון",
+      "gloss": "troksnis"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "no kalniem"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "patiesi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvē"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pestīšana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:52.756717231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אחשה כי אם שלמתי",
+      "rationale": "burtiski 'neklusēšu, ja vien neatmaksāju'; lielākā daļa tulkojumu gludina par 'bet atmaksāšu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמתי ושלמתי",
+      "rationale": "atgriezeniskais atkārtojums no šalam 'pilnīgi samaksāt' — dubultošana uzsaka pilnīgu atmaksu."
+    }
+  ],
+  "translation": "Lūk, tas ir rakstīts manā priekšā: es neklusēšu, bet atmaksāšu, jā, atmaksāšu viņu klēpī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/5-8.1792523109342.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ir rakstīts"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "manā priekšā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "es klusēšu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jā"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "atmaksāšu"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "un atmaksāšu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "viņu klēpī"
+    }
+  ],
+  "timestamp": "2026-10-20T19:05:09.343236663Z",
+  "model": "glm-5.3"
+}

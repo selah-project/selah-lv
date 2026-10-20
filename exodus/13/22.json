@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju tekstā darbības vārds bez skaidra subjekta — Jahve no 21. panta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "no tautas priekšas",
+      "rationale": "לפני העט burtiski 'tautas sejas priekšā' — latviski 'no tautas priekšas'"
+    }
+  ],
+  "translation": "Nenoņēma ⟨viņš⟩ mākoņa stabu dienā un uguns stabu naktī no tautas priekšas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/13\/21-22.1792512862942.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nenoņēma ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "nenoņēma"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "stabu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mākoņa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "un stabu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "no priekšas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:22.943132654Z",
+  "model": "glm-5.3"
+}

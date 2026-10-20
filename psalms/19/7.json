@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "neviena lieta",
+      "rationale": "Ebreju ואין נסתר burtiski 'un nav paslēpts' — bez subjekta; latviešu valodā pievienots 'neviena lieta'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "saules ceļš",
+      "rationale": "Pants apraksta saules kustību ar mērījuma valodu: gali, malas, riņķojums."
+    }
+  ],
+  "translation": "No debess gala tā iziešana, un tā riņķojums līdz to malām, un nav paslēpta neviena lieta no tā karstuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/19\/5-8.1792527228454.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "no gala"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "tā iziešana"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "un tā riņķojums"
+    },
+    {
+      "surface": "על",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "to malām"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "paslēpta"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "no tā karstuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:48.460157970Z",
+  "model": "glm-5.3"
+}

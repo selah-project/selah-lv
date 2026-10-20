@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gods",
+      "rationale": "כבוד burtiski 'svars' — 'gods' ir tradicionāls, bet zaudē svaru\/tēla jēdzienu"
+    },
+    {
+      "kind": "you",
+      "subject": "dariet",
+      "rationale": "Moše runā tieši pie ļaudīm — pavēle visa pulka priekšā"
+    }
+  ],
+  "translation": "Un Moše sacīja: Šis ir tas vārds, ko pavēlēja Jahve — dariet to, un jums parādīsies Jahves gods.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a6b0a4b7254ccbee1a9dae91d85e8b344ac8123d31fd6b41f47bc8086a09aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/9\/5-8.1792513779967.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un Moše sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dariet"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un parādīsies"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gods"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T16:29:39.968922420Z",
+  "model": "glm-5.3"
+}

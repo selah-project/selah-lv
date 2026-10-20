@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Divreiz nepieciešams saiklis, jo ebreju valodā teikumā tā nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "gloss": "'Viņiem\/tā ļaudīm' — daudzskaitlis; KJV lasa 'viņu', bet konteksts (28:9) iesaka 'ļaudis'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītajam",
+      "rationale": "משיחו — svaidītais (ķēniņš), ne 'Mesija' vēlākā nozīmē."
+    }
+  ],
+  "translation": "Jahve ⟨ir⟩ spēks saviem ļaudīm, un Viņš ⟨ir⟩ glābšanas cietoksis svaidītajam — Viņš pats.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/28\/5-8.1792527296419.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "למו",
+      "gloss": "saviem ļaudīm"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "un cietoksis"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "glābšanas"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "svaidītajam Viņa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš pats"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:56.420448446Z",
+  "model": "glm-5.3"
+}

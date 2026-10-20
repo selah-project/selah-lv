@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 4:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mirstīgais cilvēks",
+      "rationale": "האנוש ir 'mirstīgais' — cilvēks kā mirstīga būtne, pretstatā cilvēkam kā godājamam"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעשהו",
+      "rationale": "'viņa Darītāja' — daži lasa 'viņa darbi' (no עשׂה darbi), bet vairums lasa Radītājs"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobam",
+      "rationale": "Elifaza dzirdētā balss vēršas pie Joba ar retoriskiem jautājumiem"
+    }
+  ],
+  "translation": "Vai mirstīgais cilvēks būs cedekā pirms Eloah, vai vīrs būs tīrs pirms sava Radītāja?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/4\/17-20.1792528975053.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האנוש",
+      "gloss": "vai mirstīgais cilvēks"
+    },
+    {
+      "surface": "מאלוה",
+      "gloss": "pirms Eloah"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "būs cedekā"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "pirms sava Radītāja"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "būs tīrs"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīrs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:55.053855596Z",
+  "model": "glm-5.3"
+}

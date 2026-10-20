@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa starp vārdu un amatu; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "astoņdesmit",
+      "rationale": "Cilvēku skaits — Levi dzimtu uzskaitījums."
+    }
+  ],
+  "translation": "No Hebronas dēliem: Eliēls ⟨ir⟩ virsaitis, un viņa brāļi — astoņdesmit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be7f189f8906f45d742e7b18b0a04111e11d5690d3e0c82c58d6d82bb05f0473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/15\/9-12.1792531372656.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "no ... dēliem"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronas"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Eliēls"
+    },
+    {
+      "surface": "השר",
+      "gloss": "virsaitis"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "un viņa brāļi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "astoņdesmit"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:52.656829448Z",
+  "model": "glm-5.3"
+}

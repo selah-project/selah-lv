@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "līdz maizes maizei",
+      "rationale": "ככר לחם: daži lasa 'iedzīvo līdz maizei' (nabags top), citi 'maksā maizes cenu' — esatur skaidri bez darbības vārda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzīvība",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele kā atsevišķa būtība"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨maksā⟩",
+      "rationale": "tevika darbība trūkst ebreju tekstā; pievienots iekavās"
+    }
+  ],
+  "translation": "Jo par netikli sievu ⟨maksā⟩ līdz maizei maizei, un precēta sieva medī dārgo dzīvību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/6\/25-28.1792528595717.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "netikli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "maizes maizei"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizei"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "un sieva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "precēta (vīram)"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dārgo"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "medī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:35.718341136Z",
+  "model": "glm-5.3"
+}

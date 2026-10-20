@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלה",
+      "rationale": "'כַלֵּה' — vai imperatīvs 'pabeidz\/iznīcini ⟨viņus⟩' (KJV pievieno objektu 'them'), vai infinitīvs 'uz mūžību'; izvēlēts imperatīvs."
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "כלה objekts nav izteikts ebreju tekstā — pievienots ⟨to⟩."
+    }
+  ],
+  "translation": "Kāpēc tu atvelc savu roku un savu labo roku no ⟨savu⟩ klēpja vidus? Pabeidz ⟨to⟩!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/74\/9-12.1792527856133.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "atvelc"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "un savu labo roku"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "⟨savu⟩ klēpja"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pabeidz"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:16.134147360Z",
+  "model": "glm-5.3"
+}

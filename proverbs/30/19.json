@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך x4",
+      "rationale": "Četrkāršā atkārtošanās 'ceļš' veido pantmēru; latviešu atkārtojums to saglabā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vidū",
+      "rationale": "בלב יט burtiski 'jūras sirdī'; latviskais 'vidū' zaudē anatomisko metaforu."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלמה",
+      "rationale": "'jaunavā' — pēdējais 'ceļš' var nozīmēt vīrieša ceļu pie jaunavas vai mīlēšanos ar viņu; tulki dalās."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ceļi",
+      "rationale": "Četri ceļi, kas neatstāj pēdas — apzināti nesaprotamais, ko 30:20 pēc tam salīdzina ar laulības pārkāpēju."
+    }
+  ],
+  "translation": "ērgļa ceļš debesīs, čūskas ceļš uz klints, kuģa ceļš jūras vidū un vīra ceļš jaunavā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a0d276f20d658bc0e8c9455c8423a3117187248d59aa832a28e508164b188fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/18-19.1792532860038.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ērgļa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "čūskas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uz"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klints"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "kuģa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "un ceļš"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīra"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "jaunavā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:40.039523901Z",
+  "model": "glm-5.3"
+}

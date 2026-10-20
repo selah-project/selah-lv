@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Izraēlam",
+      "rationale": "Pavēle vērsta tieši pie 'tu' — Mozus runā Izraēlam"
+    }
+  ],
+  "translation": "Un tu sargāsi ⟨את⟩ pavēli un ⟨את⟩ statūtus un ⟨את⟩ tiesību spriedumus, ko es tev šodien pavēlu darīt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/9-12.1792516706138.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Un tu sargāsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pavēli"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pavēli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "statūtus"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statūtus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tiesību spriedumus"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "tiesību spriedumus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "tev pavēlu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "darīt"
+    }
+  ],
+  "timestamp": "2026-10-20T17:18:26.141223618Z",
+  "model": "glm-5.3"
+}

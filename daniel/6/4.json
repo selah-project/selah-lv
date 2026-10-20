@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 6:4",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח rendered by sound, not 'gars' — one word, three things: Gars, vējš, elpa"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל קבל די",
+      "rationale": "Aramaic causal cluster 'in every way that' rendered simply 'tāpēc, ka'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנצח",
+      "rationale": "from נצח 'excel\/be chief' — 'izcelās' vs 'kļuva par priekšnieku'"
+    }
+  ],
+  "translation": "Tad šis Daniēls izcelās pār pārvaldniekiem un ahašdarpeniem tāpēc, ka viņā bija īpaša ruah, un ķēniņš domāja celt viņu pār visu valstību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/1-4.1792530321287.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniēls"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "מתנצח",
+      "gloss": "izcelās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "pārvaldniekiem"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "un ahašdarpeniem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "—"
+    },
+    {
+      "surface": "די",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יתירא",
+      "gloss": "īpaša"
+    },
+    {
+      "surface": "בה",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "un ķēniņš"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "domāja"
+    },
+    {
+      "surface": "להקמותה",
+      "gloss": "celt viņu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "valstību"
+    }
+  ],
+  "timestamp": "2026-10-20T21:05:21.288630253Z",
+  "model": "glm-5.3"
+}

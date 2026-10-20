@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "galva un aste",
+      "rationale": "'galva un aste' = viss no augšas līdz apakšai; pievienoti 'ne… ne', jo latviešu nolieguma konstrukcija to prasa"
+    },
+    {
+      "kind": "addition",
+      "subject": "spētu",
+      "rationale": "latviešu palīgverbs darbības noliegumam"
+    }
+  ],
+  "translation": "Un Micraimam nebūs darba, ko spētu darīt — ne galva, ne aste, ne palmas zars, ne niedre.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/13-16.1792522180730.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un nebūs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micraimam"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "spētu darīt"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "aste"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palmas zars"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "niedre"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:40.732620478Z",
+  "model": "glm-5.3"
+}

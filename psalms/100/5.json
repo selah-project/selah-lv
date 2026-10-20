@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav tikai 'žēlastība' — hesed ir uzticības pilna labvēlība; atstāts pēc skanējuma pēc D2 noteikuma"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir \/ stāv",
+      "rationale": "Ebreju valodā iztrūkst saiklis un darbības vārds otrajā daļā; latviešu valodai tie pievienoti ⟨iekavās⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "Atkārtojums 'paaudzei un paaudzei' — ebreju uzbūve ar vienu vārdu divreiz, kas latviešu valodā saglabāta"
+    }
+  ],
+  "translation": "Jo labs ir Jahve; mūžības ⟨ir⟩ viņa hesed, un līdz paaudzei un paaudzei ⟨stāv⟩ viņa uzticība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9149f4869b8ab7ea1c87c2d2ccd930ce505ac28441e37936bca1d4549670bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/100\/5-5.1792528090205.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžības"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "viņa hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "דר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "un paaudzei"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "viņa uzticība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:10.206011349Z",
+  "model": "glm-5.3"
+}

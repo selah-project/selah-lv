@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lika priekšā",
+      "rationale": "לפני בני ישראל burtiski 'Jisraēla dēlu sejas priekšā'"
+    }
+  ],
+  "translation": "Un šī ir Tora, ko Moše lika Jisraēla dēlu priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "251c7d077da2b156b9eb09ca4dda43304b15c3959a298c1cc28569016d02b358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/4\/41-44.1792516664849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Un šī"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:44.852231106Z",
+  "model": "glm-5.3"
+}

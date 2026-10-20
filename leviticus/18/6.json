@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "Atkārtots vārds — 'katrs atsevišķs cilvēks'; latviski viens vārds 'katrs', dubultojums zūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאר בשרו",
+      "rationale": "Burtiski 'sava miesas miesa' — asinsradniecības tēls; latviski 'miesas radinieks'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju tekstā nav izteikta saikļa."
+    }
+  ],
+  "translation": "Katrs cilvēks — pie nekāda sava miesas radinieka jūs nepiekļūsiet, lai atsegtu kailumu; es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/18\/5-8.1792514966687.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Katrs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nekāda"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "radinieka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sava miesas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "jūs piekļūsiet"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "lai atsegtu"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "kailumu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:26.689721267Z",
+  "model": "glm-5.3"
+}

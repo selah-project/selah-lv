@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 18:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב אשוב",
+      "rationale": "Infinitivus absolutus — ‘atgriežoties atgriezīšos’, uzsvēra apzvērēšana; latviski divi vārdi saglabā."
+    },
+    {
+      "kind": "crux",
+      "subject": "כעת חיה",
+      "rationale": "‘pēc dzīves laika’ — ‘nākamgad šajā laikā’ (BSB) pret ‘kad dzīvības laiks atgriežas’ (dzimšanas laiks)."
+    },
+    {
+      "kind": "addition",
+      "subject": "וְהוּא אַחֲרָיו",
+      "rationale": "‘Un tas aiz viņa’ — vīrieša dzimte attiecas vai nu uz eņģeli\/viesi, vai uz Avrahamu; ebreju teksts nepasaka, kas tieši."
+    }
+  ],
+  "translation": "Un viņš sacīja: Atgriežoties Es atgriezīšos pie tevis pēc dzīves laika, un lūk — dēls Sārai, tavai sievai. Un Sāra klausījās telts ieejā, un tas ⟨bijāmājs⟩ ⟨vīrs⟩ ⟨stāvēja⟩ aiz viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/18\/9-12.1792511765235.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Atgriežoties"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "Es atgriezīšos"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pēc dzīves laika"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dzīvas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sārai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tavai sievai"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "Un Sāra"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "klausījās"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ieejā"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "telts"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "aiz viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:05.236056663Z",
+  "model": "glm-5.3"
+}

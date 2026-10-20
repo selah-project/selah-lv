@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju teikumā nav saikļa; latviešu valodai vajag 'esi'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mīlestības gaviļas",
+      "rationale": "רני skaidri ir gaviļu izpausme; attēlojums kā atskan skaņu, kas aptver, ir burtisks."
+    }
+  ],
+  "translation": "Tu ⟨esi⟩ man patvērums, no ciešanām Tu mani sargā, ar glābšanas gaviļu Tauss mani aptver. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/32\/5-8.1792527380772.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "patvērums"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "no ciešanām"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "sargā mani"
+    },
+    {
+      "surface": "רני",
+      "gloss": "gaviļu"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "glābšanas"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "aptver mani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:20.774165562Z",
+  "model": "glm-5.3"
+}

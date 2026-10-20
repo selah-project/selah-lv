@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ורם לבבך",
+      "rationale": "burti 'un pacelsies tava sirds' — ebreju idiomā par augstprātību; latviski 'ieaug lepnumā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית עבדים",
+      "rationale": "burti 'kalpu nams'; latviski 'verdzības nams' saglabā nama bildi"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Mozus runā tieši uz Israēlu — brīdinājuma otrā persona"
+    }
+  ],
+  "translation": "un tavs sirds ieaug lepnumā, un tu aizmirsti ⟨את⟩ Jahvi, savu Elohim, kas tevi izveda no Micraimas zemes, no verdzības nama",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/8\/13-16.1792516812056.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ieaug lepnumā"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavs sirds"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "un tu aizmirsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "kas tevi izveda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no … zemes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no … nama"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "verdzības"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:12.058355716Z",
+  "model": "glm-5.3"
+}

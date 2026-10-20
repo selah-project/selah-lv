@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Dāvida lūgums tieši Jahvem kā adresātam — klusēšanas drauds."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרש\/חשה",
+      "rationale": "Div dažādi sakņu darbības vārdi: 'neesi mēms' (חרש) un 'neesi kluss' (חשה); tradīcijas tos sajauc vienā 'be silent'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bore",
+      "rationale": "בור ir bedre\/aka, nevis 'sheols'; šeit nav pārspīlējuma par pazemi."
+    }
+  ],
+  "translation": "No Davida. Uz Tevi, Jahve, es saucu; mana klints, neesi kluss pret mani! Lai Tu, kluss būdams pret mani, es netopu līdzīgs tiem, kas kāpj bedrē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/28\/1-4.1792527321589.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "No Davida"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "uz Tevi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mana klints"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "esi kluss"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "Tu, kluss būdams"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "un es netopu līdzīgs"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tiem, kas kāpj"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bedrē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:15:21.590228133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ivritā pietuves teikumā nav saikļa"
+    }
+  ],
+  "translation": "Viņš sauks uz mani: Tu ⟨esi⟩ mans tēvs, mans El un mana glābšanas klints.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/25-28.1792527987974.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "sauks uz mani"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mans tēvs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mans El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "un klints"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mana glābšana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:27.975039508Z",
+  "model": "glm-5.3"
+}

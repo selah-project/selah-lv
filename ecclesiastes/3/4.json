@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaimanāt",
+      "rationale": "ספוד ir parasti sēru rituāls — plūkāt matus, sist sev krūtīs; 'sērot' būtu sekli."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dejas lēkāt",
+      "rationale": "רקוד burtiski 'dipot, lēkāt, stampt kājas'; YLT 'skip' saglabā šo priekšstatu."
+    }
+  ],
+  "translation": "Brīdis raudāt un brīdis smieties, brīdis vaimanāt un brīdis dejas lēkāt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/3\/1-4.1792529907073.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "brīdis"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "raudāt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "un brīdis"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "smieties"
+    },
+    {
+      "surface": "עת",
+      "gloss": "brīdis"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "vaimanāt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "un brīdis"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "dejas lēkāt"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:27.074595740Z",
+  "model": "glm-5.3"
+}

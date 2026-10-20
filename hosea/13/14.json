@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "slavens strīda punkts: jautājuma dalītājs 'kur?' (YLT\/ASV\/JPS) pret 'es būšu' (KJV\/Ženēva) — te izvēlēts jautājums kā drauds, ne solījums"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā trūkst saikla 'ir' pirms 'paslēpta'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "panta dubultā balss",
+      "rationale": "tie paši vārdi lasāmi kā glābšanas solījums vai kā posta pavēste — teksts apzināti divdomīgs"
+    }
+  ],
+  "translation": "No šeols rokas es viņus izpirkšu, no nāves es viņus izpestīšu — kur tavs mēris, nāve? kur tavs postījums, šeols? Nožēla ir paslēpta no manām acīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/13\/13-15.1792526085738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeols"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "es viņus izpirkšu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "no nāves"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "es viņus izpestīšu"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavs mēris"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāve"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "tavs postījums"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeols"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nožēla"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "ir paslēpta"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "no manām acīm"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:45.739608790Z",
+  "model": "glm-5.3"
+}

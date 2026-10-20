@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש ir tuvāk 'elpai\/dzīvības spēkam' nekā 'dvēselei' dvēseles teoloģijas nozīmē; atstāts nefes."
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Izpildītāja izpratnei pievienota piederības vietniekvārds; ebreju נפשו jau satur piedēkli."
+    }
+  ],
+  "translation": "Kas iegūst sirdi, mīl ⟨savu⟩ nefesu; kas sargā sapratni, atradīs labu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/19\/5-8.1792528797390.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kas iegūst"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīl"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kas sargā"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "sapratni"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "atradīs"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:57.391472340Z",
+  "model": "glm-5.3"
+}

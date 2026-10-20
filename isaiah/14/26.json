@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs saiklis, ebreju tekstā tā nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העצה היעוצה",
+      "rationale": "atkārtota sakne עצה\/יעץ — 'padome, kas padomāta', latviski daļēi saglabāts"
+    }
+  ],
+  "translation": "Šī ir padome, kas izdomāta pār visu zemi, un šī ir roka, kas izstiepta pār visām tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9de680f464db0cbd5f4faaa442ee7133609af9c87a1014318ca4f5201b38434d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/25-28.1792522047709.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "ir padome"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "kas izdomāta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "un šī"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ir roka"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "kas izstiepta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:27.709812323Z",
+  "model": "glm-5.3"
+}

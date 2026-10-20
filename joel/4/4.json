@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 4:4",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Cora, Cidona un Pelešeta",
+      "rationale": "Tieša vēršanās pie pilsētām un filistiešu apgabaliem ar jautājumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמול\/גמלים\/גמלכם",
+      "rationale": "Saknes גמל trīskārša atkārtošanās pantā — atmaksas atbalss, kas latviski saglabāta ar vārda atkārtojumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה אתם לי",
+      "rationale": "Idioma 'kas jūs Man esat?' — jautājums par attieksmi\/tiesībām; citur (Am 3:2) tas izsaka īpašumu, šeit nicinājumu."
+    }
+  ],
+  "translation": "Un ko jūs Man esat, Cora un Cidona, un visas Pelešetas apgabali? Vai jūs Man atmaksājat atmaksu? Un ja jūs Man atmaksājat, tad steidzami, ātri Es atgriezīšu jūsu atmaksu uz jūsu pašu galvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b6cf6963f1864771f3262726935207976b11e55b038b4f936c806bdb5674f15e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/4\/1-4.1792526222575.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Un arī"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cora"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "un Cidona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visas"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "apgabali"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešetas"
+    },
+    {
+      "surface": "הגמול",
+      "gloss": "atmaksu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "משלמים",
+      "gloss": "atmaksājat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "atmaksājat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "קל",
+      "gloss": "steidzami"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Es atgriezīšu"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "jūsu atmaksu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "uz jūsu pašu galvu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:02.576758604Z",
+  "model": "glm-5.3"
+}

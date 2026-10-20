@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nedara⟩",
+      "rationale": "Ebreju valodā darbības vārds izlaists: 'nejēģu sirds — ne tā'; latviski vajag 'nedara tā'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "izkaisja",
+      "rationale": "זרה burtiski 'vētīt graudus' — gudrība tiek izkaisīta kā vētīti graudi"
+    }
+  ],
+  "translation": "Gudro lūpas izkaisja zināšanas, bet nejēģu sirds ⟨nedara⟩ tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/5-8.1792528709288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "lūpas"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "Gudro"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "izkaisja"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zināšanas"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "bet sirds"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nejēģu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:29.290158948Z",
+  "model": "glm-5.3"
+}

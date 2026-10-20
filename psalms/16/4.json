@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם",
+      "rationale": "Sakne nozīmē gan 'sāpes', gan 'elki' (JPS: 'lai tiek vairoti viņu elki'); izvēlēts 'sāpes' kā biežākā nozīme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "neseķus",
+      "gloss": "נסכיהם ir libācijas (vīna\/asins lējuma upuris); 'neseķi' pēc skanējuma, jo latviešu viena vārda nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחר מהרו",
+      "rationale": "'Kas steidzas pēc cita (dieva)' pret YLT 'kas steidzas atpakaļ'; אחר bez 'elka' var nozīmēt 'cits' vai 'atpakaļ'."
+    }
+  ],
+  "translation": "Vairosies viņu sāpes — tie, kas steidzas pēc cita; es neizlešu viņu asins neseķus, un necelšu ⟨את⟩ viņu vārdus uz savām lūpām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/16\/1-4.1792527119024.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "vairosies"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "viņu sāpes"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pēc cita"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "steidzas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "izlešu"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "viņu neseķus"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "asins"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "celšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu vārdus"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "viņu vārdus"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "savām lūpām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:59.027384748Z",
+  "model": "glm-5.3"
+}

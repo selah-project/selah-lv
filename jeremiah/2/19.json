@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 2:19",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'cik ļauns un rūgts IR'; pievienots latviešu teikumam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bijāšana",
+      "rationale": "פחדתי ir 'mana trīsuļbailēšana\/manas bailīgā godbijība' — 'bijāšana' tuvāk par 'bailēm' vien."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיסרך\/תוכחך",
+      "rationale": "Chiastisks paralelisms: soda darbības apmainās vietām — ļaunība māca, atkrišanas pārliecina."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Pavēles 'zini un redzi' tieši vērstas uz Jisraēlu sievišķī."
+    }
+  ],
+  "translation": "Tev mācīs tava ļaunība, un tavas atkrišanas tevi pārliecinās; zini un redzi, cik ļauns un rūgts ⟨ir⟩ tas, ka tu atstāji ⟨את⟩ Jahvi, savu Elohim, un mana bijāšana nav pie tevis, saka Adonai Jahve Cevaot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/17-20.1792523201596.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תיסרך",
+      "gloss": "tevi mācīs"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tava ļaunība"
+    },
+    {
+      "surface": "ומשבותיך",
+      "gloss": "un tavas atkrišanas"
+    },
+    {
+      "surface": "תוכחך",
+      "gloss": "tevi pārliecinās"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "zini"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "un redzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļauns"
+    },
+    {
+      "surface": "ומר",
+      "gloss": "un rūgts"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "tu atstāji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "mana bijāšana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:41.597411796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שועלים",
+      "rationale": "'šakāļi' pret tradicionālo 'lapsas' — šakāļi ir līķu appēdēji tuksnesī, kas der kontekstam"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ידי חרב",
+      "rationale": "burtiski 'pār zobena roku', idiomatisks 'zobena varā'"
+    }
+  ],
+  "translation": "Izliks viņus zobena varā, par daļu šakāļiem viņi būs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/63\/9-12.1792527744413.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "izliks viņus"
+    },
+    {
+      "surface": "על",
+      "gloss": "varā"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rokās"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "par daļu"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "šakāļiem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "viņi būs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:24.414636836Z",
+  "model": "glm-5.3"
+}

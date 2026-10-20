@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atslābināja rokas",
+      "rationale": "מרפים ידי burtiski 'padara rokas vaļīgas\/atkarātas' — atņem spēkus; saglabāts burtiski"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומבלהים",
+      "rationale": "no baltais בלה 'izdilstēt\/šausmināt' — reti vārds; KJV 'troubled', YLT 'troubling'; 'iztramdīja' tuvāk 'biedēja līdz izsīkumam'"
+    }
+  ],
+  "translation": "Un notika: zemes ļaudis atslābināja Jūdas ļaužu rokas un viņus iztramdīja ⟨את⟩ būvēt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/4\/1-4.1792530578811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "atslābināja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rokas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaužu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "un iztramdīja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "būvēt"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:38.812883826Z",
+  "model": "glm-5.3"
+}

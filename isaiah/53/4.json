@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tas bija ... kas",
+      "rationale": "latviešu teikuma celtne ebreju īsajam חלינו הוא נשא"
+    },
+    {
+      "kind": "crux",
+      "subject": "אכן",
+      "rationale": "'patiesi' vai pretstatā 'bet' — atkarībā no tā, kā savieno ar 53:3"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגוע מכה",
+      "rationale": "divi 'aizskarts\/sists' participi pēc kārtas — sitiena atkārtojums"
+    }
+  ],
+  "translation": "Patiesi, mūsu slimbības — tas bija viņš, kas nesa, un mūsu sāpes — tās viņš uznesa; bet mēs viņu uzskatījām par sārdīgu, no Elohim sitītu un mocītu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/53\/1-4.1792522962058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Patiesi"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "mūsu slimbības"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nesa"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "un mūsu sāpes"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "uznesa tās"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "bet mēs"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "uzskatījām viņu"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "par sārdīgu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sitītu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "un mocītu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:42.059574202Z",
+  "model": "glm-5.3"
+}

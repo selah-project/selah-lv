@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tur⟩",
+      "rationale": "Latviešu valodai vajadzīgs apstāklis, ebreju panta konstrukcija to neizsaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septiņas dienas",
+      "rationale": "svētku ilguma skaitīšana"
+    }
+  ],
+  "translation": "Un Jisraēla dēli, kas atradās ⟨tur⟩, darīja ⟨את⟩ pesahu tai laikā un ⟨את⟩ neraudzētās maizes svētkus septiņas dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/35\/17-20.1792532418748.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "kas atradās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesahu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tai laikā"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "svētkus"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svētkus"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "neraudzētās maizes"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septiņas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:18.749377226Z",
+  "model": "glm-5.3"
+}

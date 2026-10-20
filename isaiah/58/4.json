@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kā šo dienu",
+      "rationale": "כיום var skaidrot kā 'kā šodien' (jūs tā negavējat kā šodien) vai 'tādu dienu kā šī' — izvēlēts otrais."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לריב ומצה",
+      "rationale": "ם strīda un ķildas pāris — gavēnis, kas beidzas ar dūri, ironiskā pretstatā 58:1 šofara balsij."
+    }
+  ],
+  "translation": "Redzi, strīdam un ķildai jūs gavējat un sitienam ar dūri — ļaunumu; nē, tādu dienu jūs negavējat, lai jūsu balss tiktu dzirdēta augšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/58\/1-4.1792523042308.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "strīdam"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "un ķildai"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "jūs gavējat"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "un sitienam"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ar dūri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē, ne"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "jūs gavējat"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "tādu dienu"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "lai tiktu dzirdēta"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "augšā"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "jūsu balss"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:02.309661288Z",
+  "model": "glm-5.3"
+}

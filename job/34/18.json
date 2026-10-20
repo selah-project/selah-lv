@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 34:18",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Belialnieks",
+      "rationale": "בליעל burtiski 'bez vērtības, bez peļņas'; transliterēts, ne tulkots."
+    },
+    {
+      "kind": "addition",
+      "subject": "Vai",
+      "rationale": "Jautājuma daļiņa pievienota; ebreju tekstā nav jautājuma marķiera."
+    }
+  ],
+  "translation": "Vai sacīt ķēniņam: Belialnieks, ļaunais, — un dižciltīgajiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/17-20.1792529533379.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "sacīt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialnieks"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunais"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "dižciltīgajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:13.380410154Z",
+  "model": "glm-5.3"
+}

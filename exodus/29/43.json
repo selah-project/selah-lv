@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 29:43",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "ebreju valodā teikumā nav subjekta; KJV\/JPS pievieno 'telti', bet ebreju teksts saka tikai 'un tas tiks svētīts'"
+    },
+    {
+      "kind": "crux",
+      "subject": "svētīšanas subjekts",
+      "rationale": "nav skaidrs, kas tiek svētīts — telts, vieta, vai pats Jahves tikšanās brīdis; ebreju teksts to nepasaka"
+    }
+  ],
+  "translation": "Un Es tur tikšos ar Jisraēla dēliem, un ⟨tas⟩ tiks svētīts ar manu godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/29\/41-44.1792513281334.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעדתי",
+      "gloss": "Un Es tikšos"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ar dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ונקדש",
+      "gloss": "un tiks svētīts"
+    },
+    {
+      "surface": "בכבדי",
+      "gloss": "ar manu godu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:21.335472706Z",
+  "model": "glm-5.3"
+}

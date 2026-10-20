@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחי — 'viņš dzīvos'",
+      "rationale": "Katrams tulks saka 'izveseļosies'; ebreju vārds ir vienkārši 'viņš dzīvos'."
+    },
+    {
+      "kind": "elision",
+      "subject": "דבלת — konstrakts",
+      "rationale": "'spiesta [maize] no vīģēm' — viens saistīts izteikums, latviski sadalīts divos vārdos."
+    }
+  ],
+  "translation": "Un Jesaja sacīja: Lai ņem ⟨את⟩ spiestu vīģu maizi un uztriep uz čūlas, un viņš dzīvos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc3102f1275d4a0b48de2620f238a604fa52aa7e1b5ad243b5b0041ee0aff638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/21-22.1792522503409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "lai ņem"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "spiestu maizi"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "vīģu"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "un uztriep"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "čūlas"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "un viņš dzīvos"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:03.409971981Z",
+  "model": "glm-5.3"
+}

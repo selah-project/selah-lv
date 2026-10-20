@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "norimuši",
+      "rationale": "הקלו no קלל — burtiski 'kļuva viegli\/mazinājās'; latviski 'norimuši' zaudē sasaisti ar 'vieglu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "vai",
+      "rationale": "Hebraismam לראות הקלו latviešu valodā vajadzīgs apstākļa jautājuma 'vai'."
+    }
+  ],
+  "translation": "Un viņš izsūtīja ⟨את⟩ balodi ⟨את⟩ no sevis, lai redzētu, vai ūdeņi bija norimuši no virs zemes virsmas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/8\/5-8.1792511548781.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un izsūtīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balodi"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "balodi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ no sevis"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai redzētu"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "bija norimuši"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsmas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:28.783250070Z",
+  "model": "glm-5.3"
+}

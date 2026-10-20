@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajag 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiek satraukti",
+      "rationale": "נעכרת burtiski 'ir nomākti, iztraucēti' — no saknes 'duļķot ūdeni'"
+    }
+  ],
+  "translation": "Taisnā mājā ⟨ir⟩ liels bagātības krājums, bet ļaunā ienākumi tiek satraukti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/5-8.1792528709288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "mājā"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Taisnā"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "bagātības krājums"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liels"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "bet ienākumi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "tiek satraukti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:29.289863147Z",
+  "model": "glm-5.3"
+}

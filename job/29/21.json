@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 29:21",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Darbības vārda personu latviešu forma nes nepieciešamu vietniekvārdu; ebreju valodā tas nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "klusēja",
+      "rationale": "וידמו burtiski 'palika mēmi\/apstulbuši' — apjukums un klusums kopā."
+    }
+  ],
+  "translation": "Mani viņi klausījās un gaidīja un klusēja par ⟨את⟩ manu padomu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/29\/21-24.1792529365679.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "viņi klausījās"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "un gaidīja"
+    },
+    {
+      "surface": "וידמו",
+      "gloss": "un klusēja"
+    },
+    {
+      "surface": "למו",
+      "gloss": "par"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "manu padomu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:25.679726955Z",
+  "model": "glm-5.3"
+}

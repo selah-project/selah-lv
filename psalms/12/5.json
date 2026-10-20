@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ņemsim virsroku",
+      "rationale": "נגביר no גבר 'būt stipram, valdīt' — latviskā idiomā 'ņemt virsroku'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "šeit את H854 'ar, pie' — 'mūsu lūpas ir ar mums', daudzi tulkojumi mīkstina par 'mūsu lūpas ir mūsu pašu'"
+    }
+  ],
+  "translation": "kas sacīja: Ar savu mēli mēs ņemsim virsroku, mūsu lūpas ir ⟨את⟩ mums — kas ir kungs pār mums?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/12\/5-8.1792527124582.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ar savu mēli"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "ņemsim virsroku"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "mūsu lūpas"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mums"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "pār mums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:04.584845013Z",
+  "model": "glm-5.3"
+}

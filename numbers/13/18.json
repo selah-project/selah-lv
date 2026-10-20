@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa jautājuma 'kāda tā ir' konstrukcijā; latviešu valodai vajadzīgs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "izlūkošanas uzdevums",
+      "rationale": "Pants uzskaita novērtēšanas kritērijus: stiprs\/vājš, maz\/daudz — skaitīšana un mērīšana."
+    }
+  ],
+  "translation": "Un jūs redzēsiet ⟨את⟩ zemi, kāda tā ⟨ir⟩, un ⟨את⟩ tautu, kas tajā dzīvo — vai tā ⟨ir⟩ stipra, vai vāja; vai tā ⟨ir⟩ nedaudza, vai daudza.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30ab6c9a7dd55b2db2a8c57b29d521e3abe42f41490e7df53b4f0a34c3d282ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/13\/17-20.1792515770368.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Un-jūs-redzēsiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kāda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "kas-dzīvo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "vāja"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "nedaudza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daudza"
+    }
+  ],
+  "timestamp": "2026-10-20T17:02:50.369625209Z",
+  "model": "glm-5.3"
+}

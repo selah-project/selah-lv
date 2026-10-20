@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 19:12",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nošķīstīsies",
+      "rationale": "יתחטא burtiski ir 'grēkos sevi' — hitpael no חטא 'garām mest, grēkot'; 'attīrīt sevi no grēka' ir interpretācija, kuru pieņem visas versijas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתחטא \/ יטהר",
+      "rationale": "pretstats starp חטא (grēkot\/nošķīstīties) un טהר (būt šķīstam) atkārtojas simetriski divreits — hiasma, kas latviski saglabāta divu vārdu pretnstatā"
+    }
+  ],
+  "translation": "Viņš ar to nošķīstīsies trešajā dienā un septītajā dienā, un viņš būs šķīsts; bet, ja viņš nošķīstīsies ne trešajā dienā un septītajā dienā, viņš nebūs šķīsts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c44c8a9a5e709ca27f25d7897e5470d1c931865206c42912270b82259465f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/19\/9-12.1792515991124.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "nošķīstīsies"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ar to"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "un dienā"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "viņš būs šķīsts"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bet, ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "nošķīstīsies"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "un dienā"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "viņš nebūs šķīsts"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:31.127425069Z",
+  "model": "glm-5.3"
+}

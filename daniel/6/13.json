@@ -1,0 +1,204 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 6:13",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramaic omits copula; Latvian requires it."
+    },
+    {
+      "kind": "elision",
+      "subject": "להן",
+      "rationale": "Aramaic particle rendered as 'izņemot'; literally 'tāpēc\/tikai'."
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņ",
+      "rationale": "Sūdzētāji tieši vēršas pie ķēniņa ar jautājumu par viņa parakstīto aizliegumu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit dienām",
+      "rationale": "Aizlieguma termiņš — trīsdesmit dienu skaits."
+    }
+  ],
+  "translation": "Tad tie nāca tuvu un sacīja ķēniņa priekšā par ķēniņa aizliegumu: vai tu neesi parakstījis aizliegumu, ka katrs cilvēks, kas lūgs ko no jebkura dieva vai cilvēka līdz trīsdesmit dienām, izņemot no tevis, ķēniņ, tiks iemests lauvu bedrē? Ķēniņš atbildēja un sacīja: vārds ⟨ir⟩ stingrs pēc mēdiešu un persiešu likuma, kas nemainās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6bf80d83bef066e473c32aa93e1ca8af8beb2eb9ee9e0893e75341663d3342cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/6\/13-16.1792530416194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "קריבו",
+      "gloss": "nāca tuvu"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "aizliegumu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "aizliegumu"
+    },
+    {
+      "surface": "רשמת",
+      "gloss": "esi parakstījis"
+    },
+    {
+      "surface": "די",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יבעה",
+      "gloss": "lūgs"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ko no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jebkura"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dieva"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "vai cilvēka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "יומין",
+      "gloss": "dienām"
+    },
+    {
+      "surface": "תלתין",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "להן",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "מנך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņ"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "tiks iemests"
+    },
+    {
+      "surface": "לגוב",
+      "gloss": "bedrē"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "lauvu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יציבא",
+      "gloss": "stingrs"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "pēc likuma"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mēdiešu"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "un persiešu"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעדא",
+      "gloss": "mainās"
+    }
+  ],
+  "timestamp": "2026-10-20T21:06:56.195448312Z",
+  "model": "glm-5.3"
+}

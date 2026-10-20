@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 1:10",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וחיבתם את ראשי למלך",
+      "rationale": "Burtiski 'jūs parādāsiet manu galvu ķēniņam' — idoma par galvas likšanu ķēniņa varai."
+    },
+    {
+      "kind": "crux",
+      "subject": "זעפים",
+      "rationale": "'sadīkušas\/nomāktas' pret 'sliktāk izskatās' — dažādi tulkojumi."
+    },
+    {
+      "kind": "crux",
+      "subject": "כגילכם",
+      "rationale": "'jūsu aprindai\/jūsu vecumam' — gil var nozīmēt gan aprindu, gadalaiku."
+    },
+    {
+      "kind": "you",
+      "subject": "Daniēlam",
+      "rationale": "Eunuhu priekšnieka runa vērsta pie Daniēla."
+    }
+  ],
+  "translation": "Un eunuhu priekšnieks sacīja Daniēlam: Es bīstos no sava kunga, ķēniņa, kas izraudzījis ⟨את⟩ jūsu ēdienu un ⟨את⟩ jūsu dzērienu; kādēļ lai viņš redzētu ⟨את⟩ jūsu sejas nomāktas, salīdzinot ar jaunekļiem, kas ir jūsu vecumā? Tad jūs padarītu manu galvu vainīgu ķēniņam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/1\/9-12.1792530128594.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שר",
+      "gloss": "priekšnieks"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuhu"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Daniēlam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "Es bīstos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kungu, ķēniņu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ir izraudzījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu ēdienu"
+    },
+    {
+      "surface": "מאכלכם",
+      "gloss": "jūsu ēdienu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "jūsu dzērienu"
+    },
+    {
+      "surface": "משתיכם",
+      "gloss": "jūsu dzērienu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kādēļ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "viņš redzētu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu sejas"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "jūsu sejas"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "nomāktas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "salīdzinot ar"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jaunekļiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "כגילכם",
+      "gloss": "ir jūsu vecumā"
+    },
+    {
+      "surface": "וחיבתם",
+      "gloss": "un padarītu vainīgu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu galvu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mano galvu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:08.595174985Z",
+  "model": "glm-5.3"
+}

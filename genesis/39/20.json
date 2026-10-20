@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסורי\/אסורים",
+      "rationale": "saknes אסר atkārtojums — 'ieslodzītie ir ieslodzīti' — saglabāts burtiski."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "",
+      "rationale": "prievārds 'el' saplūst ar 'ielika viņu cietuma namā' un nav atsevišķs vārds latviski."
+    }
+  ],
+  "translation": "Un Jāzefa kungs ņēma ⟨את⟩ viņu un ielika viņu cietuma namā, vietā, kur ķēniņa ieslodzītie ir ieslodzīti; un viņš bija tur cietuma namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7e400de7d81b83a985ff6fdf1c8a242bbddf7a7fd1066b0614eb90525cde8f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/39\/17-20.1792512419723.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "un ņēma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jāzefa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "un ielika viņu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "cietuma"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "ieslodzītie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ir ieslodzīti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "cietuma"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:59.724826998Z",
+  "model": "glm-5.3"
+}

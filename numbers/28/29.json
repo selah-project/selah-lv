@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omeru skaits",
+      "rationale": "Miltu upura mēri: omeru omeru par katru jēru, septiņiem jēriem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "katru",
+      "rationale": "האחד burtiski 'viens' — viduss variants: 'par vienu jēru, vienam no jēriem'."
+    }
+  ],
+  "translation": "omeru omeru par katru jēru, ⟨את⟩ septiņiem jēriem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/28\/29-31.1792516215577.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "omeru"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "omeru"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "par katru jēru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "katru"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "septiņiem"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "jēriem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:10:15.578652669Z",
+  "model": "glm-5.3"
+}

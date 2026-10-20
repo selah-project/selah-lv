@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 39:2",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dienā⟩",
+      "rationale": "Ebreju teksts saka tikai 'devītajā [dienā] mēnesī' — vārds 'diena' pievienots latviski."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Precīzs pilsētas ieņemšanas datums — hronoloģijas atzīme."
+    }
+  ],
+  "translation": "Un Cidkijas vienpadsmitajā gadā, ceturtajā mēnesī, mēneša devītajā ⟨dienā⟩, tika izlauzts laužums pilsētā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "165028f1741c1b507e606daec09be736c48d7e915bae80b8fd56dffd4f1b403a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/39\/1-4.1792524251006.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשתי",
+      "gloss": "vienpadsmitajā"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "Cidkijas"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ceturtajā"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "devītajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "tika izlauzts laužums"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:24:11.007889430Z",
+  "model": "glm-5.3"
+}

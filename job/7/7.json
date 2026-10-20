@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir vienlaikus vējš, elpa un gars — saglabāts kā 'ruah' ar skaidrojumu 'elpa'."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Elohim",
+      "rationale": "Jobs vēršas tieši pie Dieva ar pavēli 'Atceries'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Atceries",
+      "rationale": "Pavēles forma uzrunāDieva adresātu."
+    }
+  ],
+  "translation": "Atceries, ka mana dzīves ruah ⟨ir⟩ elpa; mana acs neatgriezīsies, lai redzētu labu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/5-8.1792529052589.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "atceries"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mana dzīves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mana acs"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai redzētu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:12.590407722Z",
+  "model": "glm-5.3"
+}

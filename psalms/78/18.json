@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa, rīkle, dzīvīgums, kāre' nekā 'dvēsele' kā nemateriāla būtība"
+    }
+  ],
+  "translation": "Un viņi kārdināja Elu savā sirdī, prasot ēdienu savai dvēselei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/17-20.1792527901653.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Un viņi kārdināja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "savā sirdī"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "prasot"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēdienu"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "savai dvēselei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:01.654723417Z",
+  "model": "glm-5.3"
+}

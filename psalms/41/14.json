@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "olam",
+      "rationale": "'mēolam ve'ad haolam' — spēle ar to pašu vārdu abos polos, ebreju hronoloģiskā formula"
+    },
+    {
+      "kind": "secret",
+      "subject": "olam",
+      "rationale": "'olam' burtiski 'slēptais, izzūdošais punkts' — laiks aiz redzes robežas"
+    }
+  ],
+  "translation": "Svētīts Jahve, Elohims, Jisraēla Elohims, no mūžības un līdz mūžībai. Āmen un āmen.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/41\/13-14.1792527455742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "no mūžības"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mūžībai"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Āmen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "un āmen"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:35.742995149Z",
+  "model": "glm-5.3"
+}

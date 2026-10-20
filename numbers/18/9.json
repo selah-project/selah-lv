@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 18:9",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "no uguns",
+      "rationale": "מן האש: 'no uguns' (kas atlicis pēc sadedzināšanas) vs 'vissvētākais no uguns upurēm' — tulkotāji dalās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה šeit ir upura veids; saglabāts translācijā 'minha', nevis viens tulkojuma vārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Atkārtotā sakne qodeš — 'svētumu svētums' — veido pantu aptverošu rāmi (sākumā un beigās)."
+    }
+  ],
+  "translation": "Šis lai tev ir par svētumu svētumu, no uguns: visi viņu upuri — visas viņu minhas un visas viņu grēku upures un visas viņu vainas upures, ko tie atdos man, — svētumu svētums tas ir tev un taviem dēliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "39d83533cd78079dc6f863f9860ab51678f75e536738270b83267cd983e126c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/18\/9-12.1792515862809.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lau ir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svētums"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "האש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "viņu upuri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "מנחתם",
+      "gloss": "minhām"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visām"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "grēku upurēm"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visām"
+    },
+    {
+      "surface": "אשמם",
+      "gloss": "vainas upurēm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "atdos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētumu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svētums"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "un taviem dēliem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:04:22.810907821Z",
+  "model": "glm-5.3"
+}

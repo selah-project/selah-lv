@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מוכיח",
+      "rationale": "Darības vārds 'pārmetējs\/aprādētājs' — tiesas vieta vārtos, kur taisnība tika runāta."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Netiešs uzrunas pants — Jahve runā par Israēla varasvīriem."
+    }
+  ],
+  "translation": "Viņi ienīst pārmetēju vārtos, un to, kas runā taisnību, viņi nīst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/5\/9-12.1792526294662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ienīst"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "pārmetēju"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un kas runā"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "taisnību"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "viņi nīst"
+    }
+  ],
+  "timestamp": "2026-10-20T19:58:14.662950296Z",
+  "model": "glm-5.3"
+}

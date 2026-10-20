@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 63:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "crux",
+      "subject": "krāsotās drānās",
+      "rationale": "חמוץ: 'krāsotas' (KLV) pret 'apskrējušās asinīm' (JPS 'crimsoned') — nākamajā pantā atbilde ir asinis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "soļo",
+      "rationale": "צעה ir reti vārds, burtiski 'gāž pāri\/lej ārā'; attēls saglabāts kā 'soļo', zaudēta pielejas nozīme"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kas ir šis, kas nāk",
+      "rationale": "Pants sākas ar jautājumu, kas uzrunā lasītāju — skats no Sionas sarga torņa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Edom \/ אדם",
+      "rationale": "Edoms un 'sarkans' (אדם, 63:2) — vienas sakanes vārdu spēle, kas latviski daļēji pazūd"
+    }
+  ],
+  "translation": "Kas ⟨ir⟩ šis, kas nāk no Edomas, krāsotās drānās no Bocras? Šis, spožs savā tērpā, soļo sava spēka dižumā? Es, kas runāju cedekā, varens glābt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/63\/1-4.1792523052959.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "no Edomas"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "krāsotās"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "drānās"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "no Bocras"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "spožs"
+    },
+    {
+      "surface": "בלבושו",
+      "gloss": "savā tērpā"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "soļo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dižumā"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "sava spēka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "runāju"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "cedekā"
+    },
+    {
+      "surface": "רב",
+      "gloss": "varens"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "glābt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:12.959606873Z",
+  "model": "glm-5.3"
+}

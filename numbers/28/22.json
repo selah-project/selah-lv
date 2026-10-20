@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grēk upuri",
+      "rationale": "חטאת nozīmē gan grēku, gan tā upuri — viens vārds, divas lietas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpirktu",
+      "rationale": "כפר burtiski 'segot, pārklīt' — segums, ne tikai 'izpirkt'"
+    }
+  ],
+  "translation": "un vienu āzi kā grēk upuri, lai izpirktu par jums",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "40e8a8c33ed3d50b39327f1e3d2d32cca6fd7bf6e8dc9e813c1e9e5f45943591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/28\/22-23.1792532488376.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "un āzi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēk upuri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "lai izpirktu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "par jums"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:28.376868397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tā⟩",
+      "rationale": "Latviešu paskaidrojošajai konstrukcijai vajadzīgs rādāmais vietniekvārds."
+    },
+    {
+      "kind": "alternative",
+      "subject": "En-Mišpats",
+      "rationale": "Vārds nozīmē 'tiesas avots' — saglabāts kā vietvārds, nevis tulkots."
+    }
+  ],
+  "translation": "Un atgriezās un nāca uz En-Mišpatu, ⟨tā⟩ ir Kadeša, un sita ⟨את⟩ visu amalekiešu lauku, kā arī ⟨את⟩ emoriešus, kas dzīvo Haccon-Tamarā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6ee2bd6779da411b3924018fa3382dbaecd8a9c2a2c56dab2ce04b7a34df5a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/14\/5-8.1792511658722.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Un atgriezās"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mišpatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeša"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "un sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu amalekiešu lauku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lauku"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "amalekiešu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kā arī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emoriešus"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešus"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Haccon-"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarā"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:18.724368316Z",
+  "model": "glm-5.3"
+}

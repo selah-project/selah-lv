@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח vienmēr 'ruah' — vējš\/elpa\/Gars vienā vārdā, netulkots"
+    },
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Hebreju passes trūkst palīgdarbības vārda latviešu valodā"
+    }
+  ],
+  "translation": "Un Može izstiepa ⟨את⟩ savu roku pār jūru, un Jahve dzina jūru atpakaļ ar stiplu austrumu ruah visu nakti, un pārvērta ⟨את⟩ jūru sausā zemē, un ūdeņi tika pāršķirti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/14\/21-24.1792512885194.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "izstiepa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Može"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "dzina atpakaļ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūru"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ar ruah"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austrumu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "stiplu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "pārvērta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūru"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "sausā zemē"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "tika pāršķirti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:45.195253699Z",
+  "model": "glm-5.3"
+}

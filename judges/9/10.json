@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Šeit את ir vietniekvārds 'tu' (H859), nevis aleph-tav rādītājs (H853)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kokiem → vīģeskokam",
+      "rationale": "Aicinājuma vārdi 'Ej, valdi pār mums'"
+    }
+  ],
+  "translation": "Un koki sacīja vīģeskoka: Ej, ⟨tu⟩ valdi pār mums!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/9-12.1792518368761.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "koki"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "vīģeskokam"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ej"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "valdi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pār mums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:08.762436935Z",
+  "model": "glm-5.3"
+}

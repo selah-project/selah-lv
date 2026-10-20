@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨amoniešu⟩",
+      "rationale": "העמוני ir īpašības vārds; latviski pievienots lietojuma vārds"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "burtiski 'griezt derību' — derības slēgšana, griežot gabalus; latviski 'saķert derību'"
+    }
+  ],
+  "translation": "Un Nahass ⟨amoniešu⟩ uzkāpa un nometinājās pretī Jabešam-Gileādam; un visi Jabešas vīri sacīja Nahasam: Saķer ar mums derību, un mēs kalposim tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ddc603da9ad16e68a52645577d22fcb183c15c5ec506e1a16ecd59a9a3340c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/11\/1-4.1792518991250.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "un uzkāpa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahass"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "⟨amoniešu⟩"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "un nometinājās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Jabešam"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileādam"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabešas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nahasam"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahass"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Saķer"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "un mēs kalposim tev"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:31.250821226Z",
+  "model": "glm-5.3"
+}

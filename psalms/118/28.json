@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs divreiz"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלי \/ אלהי",
+      "rationale": "'El' un 'Elohim' viena panta ietvaros — viens un tas pats Vārds divās formās, paralēlisms"
+    }
+  ],
+  "translation": "Tu ⟨esi⟩ mans El, un es Tevi godināšu; Tu ⟨esi⟩ mans Elohim, es Tevi augsti celšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/25-28.1792528271120.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "mans El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "un es Tevi godināšu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "es Tevi augsti celšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:11.121256363Z",
+  "model": "glm-5.3"
+}

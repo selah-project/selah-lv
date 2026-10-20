@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "no viņiem",
+      "rationale": "izteiksmes 'bīsties no viņiem' priekšmets pievienots latviski; תיראום sufikss '-ēm' jau nozīmē 'viņus'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Moše vēršas tieši pie Israēla ar aizliegumu un iedrošinājumu"
+    }
+  ],
+  "translation": " Nebīstieties no viņiem, jo Jahve, jūsu Elohim, ⟨ir⟩ tas, kas cīnās par jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/3\/21-24.1792516606789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "bīstieties no viņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩ tas"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "kas cīnās"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "par jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:16:46.791562306Z",
+  "model": "glm-5.3"
+}

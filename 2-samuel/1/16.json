@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמיך על ראשך",
+      "rationale": "'Tava asinis uz tavas galvas' — atbildības idioms, saglabāts burtiski."
+    },
+    {
+      "kind": "you",
+      "subject": "Davids uz amalekieti",
+      "rationale": "Tieša sprieduma runa: tava asinis uz tavas galvas."
+    }
+  ],
+  "translation": "Un Davids sacīja viņam: Tava asinis ⟨ir⟩ uz tavas galvas, jo tava mute atbildēja pret tevi, sacīdama: Es nogalināju ⟨את⟩ Jahves svaidīto.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/1\/13-16.1792519603708.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Tava asinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tavas galvas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tava mute"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "nogalināju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves svaidīto"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "svaidīto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:06:43.709568827Z",
+  "model": "glm-5.3"
+}

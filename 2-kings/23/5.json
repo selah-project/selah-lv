@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kemari",
+      "rationale": "הכמרים ir elku priesteri — saglabāts pēc skanējuma, nevis 'elku priesteri'"
+    },
+    {
+      "kind": "crux",
+      "subject": "zvaigznājiem",
+      "rationale": "מזלות: 'zvaigznāji' pret 'planētas' (KJV) — zodiaka zīmes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "debess pulks",
+      "rationale": "צבא השמים — 'debess pulks\/karaspēks', tas pats vārds kā Jahve Cevaot 'pulku' vārds"
+    }
+  ],
+  "translation": "Un viņš lika beigties ⟨את⟩ kemariem, kurus bija iecēluši Jehudas ķēniņi, lai kvēpinātu augstajās vietās Jehudas pilsētās un Jerušalaimas apkārtnēs, — un ⟨את⟩ tos, kas kvēpināja Baalam, saulei, mēnesim un zvaigznājiem, un visam debess pulkam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/23\/5-8.1792521741572.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "lika beigties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemariem"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "iecēluši"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kvēpināt"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "augstajās vietās"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "apkārtnēs"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tos, kas kvēpināja"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "tie, kas kvēpināja"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalam"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "saulei"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "mēnesim"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "zvaigznājiem"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visam"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pulkam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    }
+  ],
+  "timestamp": "2026-10-20T18:42:21.573251202Z",
+  "model": "glm-5.3"
+}

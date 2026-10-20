@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vai",
+      "rationale": "Jautājuma daļiņa 'vai' pievienota, lai latviski izskanētu retorisks jautājums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפטי",
+      "rationale": "Soģi — tie paši grāmatas Soģu vadoņi, nevis tiesneši ikdienas nozīmē."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jisraēla soģiem",
+      "rationale": "Jahve runā caur Nātanu, atgādinot vārdus, sacītus soģiem."
+    }
+  ],
+  "translation": "Visur, kur es staigāju pa visu Jisraēlu, vai es runāju vārdu ar kādu no Jisraēla soģiem, ko es pavēlēu ganīt ⟨את⟩ manu tautu, sacīdams: Kāpēc jūs neesat man uzcēluši ciedru namu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/17\/5-8.1792531484518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "visur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "es staigāju"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vai vārdu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "es runāju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ar kādu no Jisraēla soģiem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kādu"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "soģiem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "es pavēlēu"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ganīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano tautu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "jūs uzcēlāt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ciedru"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:44.519219124Z",
+  "model": "glm-5.3"
+}

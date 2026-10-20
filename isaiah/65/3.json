@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני תמיד",
+      "rationale": "'Manā priekšā pastāvīgi' — ebreju idiomāts par nepārtrauktu provokāciju."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלבנים",
+      "rationale": "'Ķieģeļi' vs KJV 'ķieģeļu altāri' — teksts saka tikai 'ķieģeļiem', altāris ir pieņēmums."
+    }
+  ],
+  "translation": "Tauta, kas Mani kaitina pastāvīgi Manā priekšā; kas upurē dārzos un kvēpina uz ķieģeļiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/1-4.1792523105719.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Tauta"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "kas kaitina"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Mani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pastāvīgi Manā"
+    },
+    {
+      "surface": "פני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "upurē"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "dārzos"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "un kvēpina"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "ķieģeļiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:05:05.720570432Z",
+  "model": "glm-5.3"
+}

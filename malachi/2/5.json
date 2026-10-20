@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום atstāts pēc skanējuma — viens vārds: veselums, labklājība, miers"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mora",
+      "rationale": "מורא var būt arī 'briesmīgs darbs'; izvēlēta 'bijāšana' pēc konteksta"
+    }
+  ],
+  "translation": "Mana derība ar viņu bija — ⟨את⟩ dzīvību un ⟨את⟩ šalomu, un es devu tās viņam — bijāšanu, un viņš baidījās no Manis, un no Mana Vārda sejas viņš ⟨ir⟩ satriekts — viņš pats.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1957617f5cc802cd5a36ff3b4d3acfc5a6b91f3bc8668bdb1274c3ace15128d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/2\/5-8.1792526930800.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Mana derība"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu",
+      "marks": "ar viņu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "un šalomu"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "un es devu tās"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "bijāšanu"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "un viņš baidījās no Manis"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "un no sejas"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mana Vārda"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "satriekts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš pats"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:50.801525472Z",
+  "model": "glm-5.3"
+}

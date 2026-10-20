@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "notekgrāvji",
+      "rationale": "פלגים ir mazs apūdeņošanas kanāls; 'notekgrāvji' tuvina ainavu, bet zaudē apūdeņošanas pieskaņu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'būt' — tas pievienots latviešu teikuma uzbūvei (atzīmēts ar ⟨ir⟩ pievienošanas vietās, ja vajadzīgs)"
+    }
+  ],
+  "translation": "Un būs uz katra augsta kalna un uz katra pacelta pakalna notekgrāvji, ūdens strumes — lielās kaušanas dienā, kad krīt torņi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "78451e2ab64c25000f22c6cc434baf02381c2f9f46d0de650b916e36b52f6623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/30\/25-28.1792522454503.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un būs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalna"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "augsta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "pakalna"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "pacelta"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "notekgrāvji"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "strumes"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kaušanas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "kad krīt"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "torņi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:54:14.503704842Z",
+  "model": "glm-5.3"
+}

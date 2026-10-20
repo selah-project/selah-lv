@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "burtiski 'uz tā' — latviski 'tāpēc'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atzīšu",
+      "rationale": "ידה burtiski 'mest (uz)' — šeit atzīt\/slavēt"
+    }
+  ],
+  "translation": "Tāpēc Es Tevi, Jahve, atzīšu starp tautām, un Tavam vārdam Es dziedāšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/49-51.1792520236205.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tāpēc (par)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Es Tevi atzīšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "starp tautām"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "un Tavam vārdam"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "Es dziedāšu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:16.205740571Z",
+  "model": "glm-5.3"
+}

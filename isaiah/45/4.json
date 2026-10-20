@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכנך",
+      "rationale": "כנה parasti nozīmē 'dot pielūgu\/uzrunāt ar vārdu'; 1. Mozus 30:28 Liena saka 'kā mani sauc?' — te 'es tevi nodēvēju ar goda vārdu'."
+    },
+    {
+      "kind": "you",
+      "subject": "Korešam",
+      "rationale": "Turpinās tieša uzruna Korešam: izredzēšana tikai Jisraēla dēļ, nevis viņa paša."
+    }
+  ],
+  "translation": "Sava kalpa Jaakova un Jisraēla, sava izredzētā, dēļ es tevi saucu tava vārdā, devu tev pielūgu, kaut gan tu mani nepazini.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bfb5e328863bc5c10f3423b869dfd9974b044f381c91465cf9d2c0c5b2c5afb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/1-4.1792522840315.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sava kalpa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēla"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "sava izredzētā"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tevi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "tava vārdā"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "devu tev pielūgu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kaut gan ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tu mani nepazini"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:40.316997314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "svars un mērs",
+      "rationale": "pants balsta ūdeņus un vēju — tīrs mērīšanas motīvs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah netiek tulkots kā 'vējš' — viens vārds: vējš, elpa, gars."
+    }
+  ],
+  "translation": "Dot svaram ruah un ūdeņus izmērīt ar mēru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/25-28.1792529414703.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Dot"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "svaram"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "un ūdeņus"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "izmērīt"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ar mēru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:14.704143612Z",
+  "model": "glm-5.3"
+}

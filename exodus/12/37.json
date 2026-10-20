@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 12:37",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seši simti tūkstoši",
+      "rationale": "Precīzs skaits kājinieku vīru — ceturtās Mozus grāmatas tautas skaitīšanas atslēga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maziem bērniem",
+      "rationale": "מטף ir 'tauta, saime, bērni kopa' — plašāks nekā tikai 'mazi bērni'."
+    }
+  ],
+  "translation": "Un Jisraēla dēli devās ceļā no Raamseses uz Suku: kā seši simti tūkstoši kājinieku vīru, bez maziem bērniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bf3a9cd1430b60cc5e41d7951e4c1ca0b2c7491e6175a75e848e6783d1e0d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/12\/37-40.1792512887480.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "devās ceļā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "no Raamseses"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "uz Suku"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kā seši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kājinieku"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מטף",
+      "gloss": "maziem bērniem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:47.481075452Z",
+  "model": "glm-5.3"
+}

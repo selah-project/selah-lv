@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבלול",
+      "rationale": "'kailgliemezis' (BSB) pret tradicionālo 'gliemezis'; tālāk — vai tas 'izšķīst' savā gļotā vai, kā daži lasa, pats apēd sev ceļu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שבלול",
+      "rationale": "Vārds 'šablul' Tanahā parādās tikai šeit"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valoda pie subjected neatstāj vietniekvārdu; latviešu teikumam tas vajadzīgs"
+    }
+  ],
+  "translation": "Kā kailgliemezis, kas izšķīst, ⟨viņš⟩ aizies; kā sievas priekšlaicīgi dzimušais, kas nav redzējis sauli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/9-12.1792527695314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "kailgliemezis"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "izšķīstot"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "aizies"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "priekšlaicīgi dzimušais"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "redzējis"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sauli"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:35.315537858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אפגע אדם",
+      "rationale": "'nepiegriezīšos cilvēkam' — KJV\/Ģeneva: 'nesatikšu tevi kā cilvēks' (Dievs darbojas pārcilvēciski); JPS\/ASV: 'neatstāšu nevienu cilvēku' (neviens netiks saudzēts)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaunavieta",
+      "rationale": "ערוה ir dzimumlocekļu kailums — ne vispārējs plikums"
+    }
+  ],
+  "translation": "Tiks atklāta tava kailā kaunavieta, jā, tavs kauns tiks redzēts; atriebību Es ņemšu un negriezīšos pret nevienu cilvēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/47\/1-4.1792522817769.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "tiks atklāta"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tava kailā kaunavieta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jā, arī"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tiks redzēts"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "tavs kauns"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "atriebību"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Es ņemšu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "griezīšos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pret nevienu cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:17.769967258Z",
+  "model": "glm-5.3"
+}

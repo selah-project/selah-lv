@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתן",
+      "rationale": "Darbnieks neskaidrs: 'viņam deva' (t.i. citas personas rīkoja kapu) pret 'viņš licis' — tulkojumi dalās starp aktīvu un pasīvu."
+    },
+    {
+      "kind": "crux",
+      "subject": "קברו",
+      "rationale": "Skanējums ļauj 'viņa kaps' vai arī 'ar ļaundariem viņa kapā'; latviski ņemts 'ļaundaru kapu'."
+    }
+  ],
+  "translation": "Un viņam deva ⟨את⟩ ļaundaru kapu un ⟨את⟩ bagātnieku viņa nāvē, kaut gan viņš nebija darījis varmācību un krāpšanas nebija viņa mutē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/53\/9-12.1792522928121.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "deva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ļaundaru"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaundaru"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kapu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "bagātnieku"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bagātnieku"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "viņa nāvē"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaut gan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varmācību"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darījis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "krāpšanas"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "viņa mutē"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:08.122526163Z",
+  "model": "glm-5.3"
+}

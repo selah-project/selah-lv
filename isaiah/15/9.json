@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 15:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דימון\/דם",
+      "rationale": "Dimon un dam (asins) — vietvārds atbalsojas vārdā 'asins'; latviski šīskaņa zūd."
+    },
+    {
+      "kind": "crux",
+      "subject": "לפליטת מואב אריה",
+      "rationale": "Literāri: 'pārbēgušajiem no Moabas — lauvu'; daži tulki lasa 'tam, kas bēg no lauvas' (Wycliffe)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ ⟨tas⟩",
+      "rationale": "Latviešu valodai vajadzīgs saiklis un artikula ekvivalents, ebreju tekstā to nav."
+    }
+  ],
+  "translation": "Jo Dimonas ūdeņi ir pilni asins, jo es uzlikšu uz Dimonas vēl vairāk: pārbēgušajiem no Moabas lauvu un atlikumam no ⟨tas⟩ zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8774e59516a1adcfb66c1cac372ee6b2c91e5a28aac48b3e8c251ad4f13c7bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/15\/9-9.1792522121833.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "דימון",
+      "gloss": "Dimonas"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ir pilni"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "es uzlikšu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דימון",
+      "gloss": "Dimonas"
+    },
+    {
+      "surface": "נוספות",
+      "gloss": "vēl vairāk"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "pārbēgušajiem no"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lauvu"
+    },
+    {
+      "surface": "ולשארית",
+      "gloss": "un atlikumam no"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:41.834431085Z",
+  "model": "glm-5.3"
+}

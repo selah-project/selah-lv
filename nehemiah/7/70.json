@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "nehemiah 7:70",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ziedojumi",
+      "rationale": "Svari un summas: miriādes, mānas, tūkstoši — precīzi skaitīts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "divas miriādes",
+      "rationale": "שתי רבות burtiski 'divas miriādes' (2×10 000); daudzas versijas vienkāršo uz 'divdesmit tūkstoši'."
+    }
+  ],
+  "translation": "Un no tēvu galvām tie deva darba krātuvē zelta dārķus divas miriādes, un sudraba mānas divus tūkstošus un divi simti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cf260d5a5453db204561f9b5c6e87296bcf93e5d71a4253e81ecca7d5f1441c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/7\/69-72.1792530789116.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומראשי",
+      "gloss": "un no galvām"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tie deva"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "krātuvē"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "dārķus"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "divas"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "miriādes"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "un sudraba"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mānas"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "divus tūkstošus"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "un divi simti"
+    }
+  ],
+  "timestamp": "2026-10-20T21:13:09.117037013Z",
+  "model": "glm-5.3"
+}

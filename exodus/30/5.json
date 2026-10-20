@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kārtis",
+      "rationale": "בדים ir 'nesamas kārtis\/zarīgi'; latviski viens vārds nes visu priekšmetu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "priekšmetu vietniekvārds 'tās' apzīmē אתט markeru, ne atsevišķu vārdu"
+    }
+  ],
+  "translation": "Un tu izdarīsi ⟨את⟩ kārtis no akācijas koka un apklāsi ⟨את⟩ tās ar zeltu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/30\/5-8.1792513256418.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "un tu izdarīsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kārtis"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "kārtis"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "koka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akācijas"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "un apklāsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tās"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar zeltu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:56.419329031Z",
+  "model": "glm-5.3"
+}

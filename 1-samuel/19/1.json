@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "juta labvēlību",
+      "rationale": "חפץ ir 'vēlējās, iemīļoja' — izvēlēts apustulis tuvu 'pavedās labvēlība'"
+    },
+    {
+      "kind": "you",
+      "subject": "nākamnodaļa",
+      "rationale": "Sauls uzrunā Jonatānu un kalpus — slepens nāves nodoms pret Davida"
+    }
+  ],
+  "translation": "Un Sauls runāja ar Jonatānu, savu dēlu, un ar visiem saviem kalpiem, lai nogalinātu ⟨את⟩ Davids; bet Jonatāns, Saula dēls, juta lielu labvēlību pret Davida.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/19\/1-4.1792519258129.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Un runāja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatānu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savu dēlu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "saviem kalpiem"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "lai nogalinātu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "bet Jonatāns"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "juta labvēlību"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "pret Davida"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lielu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:58.129672782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 2:5",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Ebreju idiom 'jo ja vien' = 'vienīgi, tikai'; tulkots kā 'vienīgi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעצר כח",
+      "rationale": "'Aizturēt spēku' — 'kas spētu sagādāt pietiekamu spēku'; KJV\/JPS atstāj aplinku, YLT burtiski 'retain strength'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tādu⟩",
+      "rationale": "Piedevu rādītāju, lai latviski skan 'aizturēt tādu spēku'."
+    },
+    {
+      "kind": "elision",
+      "subject": "להקטיר upura objekts",
+      "rationale": "Darbības vārdam 'kvēpināt' ebrejiski netiek minēts objekts; latviski pieļaujams bez objekta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים ושמי השמים",
+      "rationale": "Atkārtošanās 'debesis un debesu debesis' — superlatīva forma, saglabāta burtiski."
+    }
+  ],
+  "translation": "Un kas spētu aizturēt ⟨tādu⟩ spēku, lai celtu Viņam namu? Jo debesis un debesu debesis Viņu nespēj ietilpināt; un kas es esmu, ka es Viņam celtu namu — vienīgi lai kvēpinātu Viņa priekšā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb069e0910010e5f2479aed1aba445be3de15d5a70161c2aa8f12a4be8de214b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/2\/5-8.1792531672606.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Un kas"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "spētu aizturēt"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēku"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "celt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "un debesis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nespēj"
+    },
+    {
+      "surface": "יכלכלהו",
+      "gloss": "Viņu ietilpināt"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבנה",
+      "gloss": "celtu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vienīgi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "kvēpinātu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Viņa priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:27:52.606929312Z",
+  "model": "glm-5.3"
+}

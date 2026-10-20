@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 33:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savus vārdus",
+      "rationale": "ערכה 'kārto' objekts izteikts netieši; tiek pievienots tas, ko Jobas runātājs prasa sakārtot"
+    },
+    {
+      "kind": "invitation",
+      "subject": "uz Ijovu",
+      "rationale": "Elihu izaicina Ijovu nostāties un atbildēt — tieša uzruna ar pavēles formām"
+    }
+  ],
+  "translation": "Ja vari man atbildēt, kārto ⟨savus vārdus⟩ manā priekšā, nostājies!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a44a31fdca19fe4c3f2b5dc1fdfca7dd4087204fbedc9bba56dc46db9ba70e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/33\/5-8.1792529431662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "vari"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "man atbildēt"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "kārto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "manā priekšā"
+    },
+    {
+      "surface": "התיצבה",
+      "gloss": "nostājies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:31.662638778Z",
+  "model": "glm-5.3"
+}

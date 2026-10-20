@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "modināja",
+      "rationale": "עורר burtiski 'uzmodināja' šķēpu — dzīvais tēls par ieroci, kas ceļas kaujai."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא שם בשלושה",
+      "rationale": "Burtiski 'un ne vārds starp trijiem' — lasīts kā retā nolieguma forma 'un viņam nebija vārda'? Vairums tulko ar 2. Samuēla 23 paraleli: 'viņam bija vārds starp trijiem'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs simtiem",
+      "rationale": "Nogalināto skaits — skaitliska varoņdarba izteiksme."
+    }
+  ],
+  "translation": "Un Avšajs, Joaba brālis, — viņš bija galva no tiem trim; un viņš modināja ⟨את⟩ savu šķēpu pret trīs simtiem sistiem, un viņam ⟨ir⟩ vārds starp trijiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/17-20.1792531342285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Un Avšajs"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brālis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "no tiem trim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "modināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu šķēpu"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "savu šķēpu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simtiem"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "sistiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "starp trijiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:22.291771545Z",
+  "model": "glm-5.3"
+}

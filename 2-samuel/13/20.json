@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 13:20",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "האמינון",
+      "rationale": "Sākotnē ה + אמינון: jautājuma dalība 'Vai Avnons' — daži lasa vienkārši vārdu Avnons"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpostīta",
+      "rationale": "ושממה — 'postīta, pamesta'; stāvoklis, ne tikai 'vientuļa'"
+    }
+  ],
+  "translation": "Un Avšaloms, viņas brālis, sacīja viņai: Vai Avnons, tavs brālis, bija ar tevi? Un tagad, mana māsa, klusē, tavs brālis ⟨ir⟩ viņš; neliec ⟨את⟩ savu sirdi uz šo lietu. Un Tamara palika un izpostīta ⟨bija⟩ Avšaloma, viņas brāļa, namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "91bce73f40700fbd88f305511551619324e994014f3903aa0faa3f8ad018f267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/13\/20-20.1792532602378.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloms"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "viņas brālis"
+    },
+    {
+      "surface": "האמינון",
+      "gloss": "Vai Avnons"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavs brālis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mana māsa"
+    },
+    {
+      "surface": "החרישי",
+      "gloss": "klusē"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavs brālis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיתי",
+      "gloss": "liec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sirdi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "uz šo lietu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "Un palika"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "izpostīta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "viņas brāļa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:22.378697886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "četrpadsmitā diena",
+      "rationale": "Precīzs datumums: pirmais mēnesis, četrpadsmitā diena."
+    },
+    {
+      "kind": "addition",
+      "subject": "tā · ir",
+      "rationale": "Izvērstais datumums un kopula pievienotas latviešu valodai, ebreju teksts tās nesatur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesahs",
+      "rationale": "פֶּסַח atstāts kā 'pesahs' — 'paišana garām', vārds netiek tulkots."
+    }
+  ],
+  "translation": "un pirmajā mēnesī, četrpadsmitajā dienā ⟨tā⟩ mēneša, ⟨ir⟩ pesahs Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/28\/13-16.1792516242548.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "un mēnesī"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajā"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četr"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesahs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:10:42.550861504Z",
+  "model": "glm-5.3"
+}

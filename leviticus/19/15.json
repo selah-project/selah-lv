@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "burtiski 'pacelt seju' — izrādīt daļēju labvēlību; saglabāts burtiskais attēls."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedekā",
+      "rationale": "צדק transliterēts kā 'cedeks' pēc D2 noteikuma, nevis tulkots par 'taisnība'."
+    }
+  ],
+  "translation": "Nedarīsiet netaisnību tiesā; nepacelsi nabagā seju un negodi lielā seju — cedekā tiesāsi ⟨את⟩ savu līdzgaitnieku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/13-16.1792514924103.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nedarīsiet"
+    },
+    {
+      "surface": "עול",
+      "gloss": "netaisnību"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nepacelsi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seju"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nabagā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "negodi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seju"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cedekā"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "tiesāsi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "savu līdzgaitnieku"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:44.106822448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikles; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשי אבות",
+      "rationale": "Idioma 'tēvu galvas' = dzimtu vecākie; daudzi tulko 'dzimtu priekšgalā'."
+    }
+  ],
+  "translation": "un ⟨את⟩ Jeucu un ⟨את⟩ Šakiju un ⟨את⟩ Mirmu. Tie ⟨ir⟩ viņa dēli, tēvu galvas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/8\/9-12.1792531237581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jeucu"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeucu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Šakiju"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Šakiju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Mirmu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tēvu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:37.582840060Z",
+  "model": "glm-5.3"
+}

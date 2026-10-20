@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Prievārds מ״את ar iekļautu את ir atstāts tikai kā ⟨את⟩ zīme; pats prievārds 'no' ietverts vārdā 'no Heldaja'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "gūstā pārceltajiem",
+      "rationale": "הגולה ir 'izsūtījums\/aizceļotāji'; var arī 'no izsūtījuma'"
+    }
+  ],
+  "translation": "Ņem no gūstā pārceltajiem — no ⟨את⟩ Heldaja, un no ⟨את⟩ Tobijas, un no ⟨את⟩ Jedajas; un tu tanī dienā ienāksi, un tu ienāksi Jošijas, Cfanijas dēla, namā, kas atnākuši no Bābeles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75921cc987418a45b528ec493433fafbd0282b52fdc2858f1910bf0277a8d988",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/6\/9-12.1792526774061.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Ņem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩",
+      "marks": "Heldaja"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "gūstā pārceltajiem"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "no Heldaja"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "un no ⟨את⟩",
+      "marks": "Tobijas"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobijas"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "un no ⟨את⟩",
+      "marks": "Jedajas"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Jedajas"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "un tu ienāksi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "un tu ienāksi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Jošijas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cfanijas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atnākuši"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "no Bābeles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:14.064337852Z",
+  "model": "glm-5.3"
+}

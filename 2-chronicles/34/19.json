@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "saplēsa drēbes",
+      "rationale": "Drēbju plēšana ir ebreju sēru un šausmu izpausme; ķēniņš Jošija tā izrāda bailes no Jahves dusmām."
+    },
+    {
+      "kind": "addition",
+      "subject": "savas",
+      "rationale": "Vietniekvārds 'savas' pie בגדיו pievienots skaidrībai latviešu valodā."
+    }
+  ],
+  "translation": "Un notika, kad ķēniņš dzirdēja ⟨את⟩ Toras vārdus, viņš saplēsa ⟨את⟩ savas drēbes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/17-20.1792532412462.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad dzirdēja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toras vārdus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "viņš saplēsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas drēbes"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savas drēbes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:12.463400459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valdi",
+      "rationale": "רדה nozīmē 'mīt ar kājām, pakļaut' — valdīšana kā mínšana, latviskajā 'valdīt' šis attēls izzūd."
+    },
+    {
+      "kind": "you",
+      "subject": "imperatīvs 'valdi'",
+      "rationale": "Vēstījums 'mans kungs' — tiešs uzrunājums otrajā personā."
+    }
+  ],
+  "translation": "Tava spēka zizli Jahve sūtīs no Cionas: valdi tavu ienaidnieku vidū!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/110\/1-4.1792528243285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "zizli"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tava spēka"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sūtīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "no Cionas"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "valdi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tavu ienaidnieku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:43.286576887Z",
+  "model": "glm-5.3"
+}

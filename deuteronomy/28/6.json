@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבאך\/בצאתך",
+      "rationale": "Ienākšanas un iziešanas hīazms — pretstats, kas veido panti"
+    }
+  ],
+  "translation": "Svētīts tu ⟨esi⟩, kad tu ienāc, un svētīts tu ⟨esi⟩, kad tu iziet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/5-8.1792517277648.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīts"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "kad tu ienāc"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "un svētīts"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "kad tu iziet"
+    }
+  ],
+  "timestamp": "2026-10-20T17:27:57.649449786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Darbības vārdiem pievienots subjekta vietniekvārds 'Viņš'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Griba, ko vēlas",
+      "rationale": "רצון ir 'labvēlība\/vēlēšanās' — īpašnieka ģenitīvs: Viņa baiļu pārbiedēto vēlme"
+    }
+  ],
+  "translation": "Griba, ko vēlas tie, kas Viņu bīstas, Viņš piepilda, un ⟨את⟩ viņu kliedzienu Viņš dzirdē un viņus izglābj.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/17-20.1792528498831.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Griba, ko vēlas"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "tie, kas Viņu bīstas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "piepilda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viņu kliedzienu"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "viņu kliedzienu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "Viņš dzirdē"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "un viņus izglābj"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:58.832402524Z",
+  "model": "glm-5.3"
+}

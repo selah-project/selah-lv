@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Ivritā לשום 'lai liek' nav izteikts objekts; latviski vajadzīgs 'to'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pie savas sirds",
+      "rationale": "אל לבו burtiski 'uz savu sirdi' — latviski 'nievērtēt\/pie sirds likt'"
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņam Davidam",
+      "rationale": "Šimi personīgi pievēršas ķēniņam ar lūgumu — 'mans kungs' četras reizes"
+    }
+  ],
+  "translation": "Un viņš sacīja ķēniņam: lai mans kungs man nepieskaita vainu un neatceras, ⟨את⟩ ko tavs kalps sagrozīja tanī dienā, kad mans kungs ķēniņš izgāja no Jerušalaimas — lai ķēniņš ⟨to⟩ neliek pie savas sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/17-20.1792520139961.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "pieskaita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vainu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un lai ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "atceras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "sagrozīja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs kalps"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "no Jerušalaimas"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "lai liek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "savas sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:39.963587010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pacēluši galvu",
+      "rationale": "נשאו ראש — idioms 'celt galvu' = lepnīgi sacelties, ne vienkārši kustība"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dārd",
+      "rationale": "המה — trokšņot, ņemties, murmināt kā pūlis vai jūra; 'dārd' tuvākais latviešu attēls"
+    }
+  ],
+  "translation": "Jo, lūk, tavi ienaidnieki dārd, un tie, kas tevi ienīst, ir pacēluši galvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b05e970a48ac81548857beea3a066b95266a3b584729a8e138147363b408412c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/83\/2-3.1792532825842.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tavi ienaidnieki"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "dārd"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "un tie, kas tevi ienīst"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ir pacēluši"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:05.843463425Z",
+  "model": "glm-5.3"
+}

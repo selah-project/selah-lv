@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siena",
+      "rationale": "צלע ir 'riba, sānu siena' — elipses forma, ne vienkārši 'puse'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "divdesmit dēļus",
+      "rationale": "Miškana izmēru uzskaitījums"
+    }
+  ],
+  "translation": "Un miškana otrai sienai ziemeļu pusē viņš darīja divdesmit dēļus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/36\/25-28.1792513457185.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "otrai sienai"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškana"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "otrai"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pusē"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš darīja"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dēļus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:17.185643269Z",
+  "model": "glm-5.3"
+}

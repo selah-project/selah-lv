@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "KJV 'put them in fear' vs YLT 'a director' (nocturne); lasīts kā מורא 'bailes'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirstīgie",
+      "rationale": "אנוש nozīmē 'mirstīgais cilvēks', ne vienkārši 'vīri'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "lūgšana vērsta tieši pie Jahves"
+    }
+  ],
+  "translation": "Uzliec, Jahve, bailes pār viņiem; lai tautas zina, ka viņi ir tikai mirstīgie. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/9\/21-21.1792527079173.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Uzliec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "bailes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "lai zina"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgie"
+    },
+    {
+      "surface": "המה",
+      "gloss": "viņi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:19.175003111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עני\/עני",
+      "rationale": "atkārtots 'nabagais' divreiz vienā pantā — ebreju atkārtojums, latviski saglabāts"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "tieša uzruna Dievam: 'kas ir kā Tu?'"
+    }
+  ],
+  "translation": "Visi mani kauli sacīs: Jahve, kas ir kā Tu, kas izrauj nabago no stiprākā par viņu, nabago un trūcīgo no viņa aplaupītāja?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/35\/9-12.1792527369765.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mani kauli"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "sacīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kā Tu"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "izrauj"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabago"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "no stiprākā"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "un nabago"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "un trūcīgo"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "no viņa aplaupītāja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:09.766955682Z",
+  "model": "glm-5.3"
+}

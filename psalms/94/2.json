@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tu⟩",
+      "rationale": "izsauktais paveiktsārs ebreju valodā izlaists; latviešu vajag pagaidu vietniekvārdu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgšana Jahvem",
+      "rationale": "imperatīvi 'ceļies augšup' un 'atmaksā' vēršas pie Jahves kā tiesneša"
+    }
+  ],
+  "translation": "Ceļies augšup, ⟨tu⟩ zemes tiesnesis, atmaksā lepnajiem viņu darbu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/94\/1-4.1792528064476.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ceļies augšup"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "tiesnesis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "השב",
+      "gloss": "atmaksā"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "viņu darbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "lepnajiem"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "lepnajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:44.476703093Z",
+  "model": "glm-5.3"
+}

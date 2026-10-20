@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "ratioale": "Ebreju valodā trūkst saikļa 'es esmu' pirms 'Jahve, tavs Elohim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skauđīgs",
+      "rationale": "קנא attiecas arī uz Dieva degsmi par savu tautu, ne tikai skaudību cilvēciskā nozīmē."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Pavēle adresēta Israēlam otrajā personā."
+    }
+  ],
+  "translation": "Nenoliecies viņu priekšā un nekalpo tiem, jo es ⟨esmu⟩ Jahve, tavs Elohim, skauđīgs El, kas piemeklē tēvu vainu uz bērniem, uz trešās paaudzes un uz ceturtās paaudzes tiem, kas mani ienīst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/5-8.1792512979447.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "nenoliecies viņu priekšā"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "nekalpo tiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "skauđīgs"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "piemeklē"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vainu"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trešās paaudzes"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "ceturtās paaudzes"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "tiem, kas mani ienīst"
+    }
+  ],
+  "timestamp": "2026-10-20T16:16:19.447869053Z",
+  "model": "glm-5.3"
+}

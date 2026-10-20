@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie riteņi",
+      "rationale": "Ebreju darbības vārdi ir bez skaidra priekšmeta; latviski jānosauca, kas stāv un ceļas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā 'ruah' — viens vārds: gars, vējš, elpa; 'gars' viens būtu pārāk šaurs"
+    }
+  ],
+  "translation": "To stāvēšanā ⟨tie riteņi⟩ stāvēja, un to pacelšanās ⟨tie riteņi⟩ pacēlās augšup ⟨את⟩ kopā ar viņiem, jo dzīvās radības ruah bija ⟨tās riteņos⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac88f0b970f06e8c998758bae41c9e3d160f47969c750fe0d7145b75842eecd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/10\/17-20.1792524898962.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "to stāvēšanā"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stāvēja"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "un to pacelšanās"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "pacēlās augšup"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kopā ar viņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dzīvās radības"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tajās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:34:58.962706477Z",
+  "model": "glm-5.3"
+}

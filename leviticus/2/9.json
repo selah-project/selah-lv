@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "piemiņas daļa",
+      "rationale": "אזכרה ir 'atgādinājums' — daļa, kas atgādina visu upuri altārī"
+    },
+    {
+      "kind": "substitution",
+      "subject": "patīkama smarža",
+      "rationale": "ניחוח ir 'mierinoša, atpūtinoša' smarža — mierinājuma jēdziens, ne tikai patīkamība"
+    }
+  ],
+  "translation": "Un priesteris cels no minhas ⟨את⟩ tās piemiņas daļu un kvēpinās ⟨את⟩ to uz altāra — uguns upuris, patīkama smarža Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/2\/9-12.1792513575196.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "cels"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās piemiņas daļu"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "piemiņas daļu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "un kvēpinās"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "uz altāra"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "uguns upuris"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smarža"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "patīkama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:15.196564610Z",
+  "model": "glm-5.3"
+}

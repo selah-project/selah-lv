@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחם צח עלי אור",
+      "rationale": "'spilgts karstums virs gaismas' — neparasts tēls: 'mirgojošs tveice saules gaismā'; KJV 'karstums virs zāles' no citas lasījuma tradīcijas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mākonis",
+      "rationale": "עב parasti 'mākonis\/tumsa'; šeit 'rasas mākonis' — dzesējošs miglas tēls ražas karstumā"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sava⟩",
+      "rationale": "Possesīvais vietniekvārds pie 'mājokļa' latviešu valodā pievienots; ebreju celms במכונi jau to ietver"
+    }
+  ],
+  "translation": "Jo tā sacīja Jahve man: Es klusēšu un noraudzīšos no ⟨sava⟩ mājokļa, kā spilgts karstums pār gaismu, kā rasas mākonis ražas karstumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/18\/1-4.1792522216324.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "Es klusēšu"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "un noraudzīšos"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "no ⟨sava⟩ mājokļa"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "kā karstums"
+    },
+    {
+      "surface": "צח",
+      "gloss": "spilgts"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pār"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaismu"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kā mākonis"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasas"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "karstumā"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ražas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:50:16.326453812Z",
+  "model": "glm-5.3"
+}

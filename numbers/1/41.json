@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census total",
+      "rationale": "Ašera cilts skaits: 41 500 karavīru."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; skaitlis stāv kā noslēgums bez 'bija'."
+    }
+  ],
+  "translation": "Viņu uzskaitītie Ašera ciltij: viens un četrdesmit tūkstotši un pieci simti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/41-44.1792515292922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "viņu uzskaitītie"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ciltij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ašera"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "un četrdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstotši"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "un pieci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:52.923128954Z",
+  "model": "glm-5.3"
+}

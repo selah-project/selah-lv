@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' teikumā 'kad zieds ir pilnīgs'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בסר גמל",
+      "rationale": "'skābais ķekars nogatavojas' — daži lasa 'kad zieds ir beidzis ziedēt' (ASV\/JPS), citi 'kad skābā ogā sāk nogatavoties auglis' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כתם",
+      "rationale": "'pilnīgs' — כתם nozīmē 'pabeigts, pabeidzis ziedēt'; latviski dotas pieņemamākās nozīmes."
+    }
+  ],
+  "translation": "Jo pirms ražas novākšanas, kad zieds ⟨ir⟩ pilnīgs un skābais ķekars nogatavojas ziedā, Viņš nogriezīs dzinumus ar atzarošanas nažiem un ⟨את⟩ zarus aizvāks, nolauzīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "845e90fd0fe0e4ca67aaf26c4b5f4ee3c0f2494cc19f87e6d6ed1e5703721f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/18\/5-7.1792522184341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ražas novākšanas"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ir pilnīgs"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "zieds"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "un skābais ķekars"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nogatavojas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ziedā"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "nogriezīs"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "dzinumus"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "ar atzarošanas nažiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zarus"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "zarus"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "aizvāks"
+    },
+    {
+      "surface": "התז",
+      "gloss": "nolauzīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:44.343412397Z",
+  "model": "glm-5.3"
+}

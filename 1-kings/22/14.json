@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Zvēresta formula 'Kā dzīvs ir Jahve' — burtiski 'dzīvs Jahve'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Priekšlaicīgs objekta vietniekvārds אתו atkārto teikuma sākumu — latviski pievienots 'to'."
+    }
+  ],
+  "translation": "Un Miḵajahu sacīja: Kā dzīvs ir Jahve — patiesi, ⟨את⟩ ⟨to⟩, ko Jahve man sacīs, ⟨to⟩ es runāšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d3005b2bc7e66d7c92f000b4df28965400d64da230cf025e9b1f6ba649d2a91e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/13-16.1792521071715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Miḵajahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "patiesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko Jahve man sacīs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sacīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨to⟩",
+      "marks": "to, ko Jahve man sacīs"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "es runāšu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:11.716611492Z",
+  "model": "glm-5.3"
+}

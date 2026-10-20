@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 16:28",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir (mani sūtījis)",
+      "rationale": "Ebreju piedzīvojuma celms bez 'būt'; latviešu vajag 'ir'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Otrais כī ievieš teikumu 'ka tie nav no manas sirds' — vietniekvārds pievienots skaidrībai."
+    },
+    {
+      "kind": "you",
+      "subject": "uz saietu",
+      "rationale": "Moše vēršas pie ļaudīm: 'jūs zināsiet' — tieša adresācija kā apliecinājuma žests."
+    }
+  ],
+  "translation": "Un Moše sacīja: Ar to jūs zināsiet, ka Jahve ir mani sūtījis darīt ⟨את⟩ visus šos darbus, ka tie ⟨nav⟩ no manas sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0fdcae3c3025f32b3bdb511615fc8e5d47af66bbd0fb652552354edddc5af763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/16\/25-28.1792515869724.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Ar to"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ir mani sūtījis"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus šos darbus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "darbus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nav⟩"
+    },
+    {
+      "surface": "מלבי",
+      "gloss": "no manas sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T17:04:29.728276894Z",
+  "model": "glm-5.3"
+}

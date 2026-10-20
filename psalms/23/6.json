@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירדפוני",
+      "rationale": "רדף parasti nozīmē 'vajāt ar naidīgu nolūku' — šeit labais un hesed 'vajā' dziedātāju kā mednieks: apzināta ironija, latviski daļēji saglabāta ar 'vajā'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "D2: hesed netiek tulkots ar vienu vārdu 'žēlastība'; saglabāts hesed."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ilgām dienām",
+      "rationale": "לארך ימים burtiski 'dienu garumā' — 'ilgām dienām', nevis 'mūžīgi'; ⟨mūžīgam⟩ parāda pievienoto nozīmi."
+    }
+  ],
+  "translation": "Tikai labs un hesed mani vajā visas mana dzīves dienas, un es mitināšos Jahves namā līdz ⟨mūžīgam⟩ ilgam laikam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/23\/5-6.1792527178613.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "un hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "mani vajā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mana dzīves"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "un es mitināšos"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "līdz ilgam laikam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨mūžīgam⟩ dienām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:58.615536033Z",
+  "model": "glm-5.3"
+}

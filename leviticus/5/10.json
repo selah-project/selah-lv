@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veiks izpirkumu",
+      "rationale": "כפר — 'segot, izlīdzināt'; latviski vienam vārdam nav atbilstības"
+    }
+  ],
+  "translation": "Un ⟨את⟩ otro viņš darīs par dedzināmo upuru pēc tiesas, un priesteris veiks izpirkumu par viņu no viņa grēka, ko viņš ir grēkojis, un viņam tiks piedots.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/5\/9-12.1792513711233.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "otro"
+    },
+    {
+      "surface": "השני",
+      "gloss": "otro"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "viņš darīs"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "par dedzināmo upuru"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "pēc tiesas"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "un veiks izpirkumu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "no viņa grēka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "viņš ir grēkojis"
+    },
+    {
+      "surface": "ו נסלח",
+      "gloss": "un tiks piedots"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:28:31.234325790Z",
+  "model": "glm-5.3"
+}

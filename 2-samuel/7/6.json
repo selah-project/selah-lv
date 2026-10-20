@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "no dienas... līdz šai dienai",
+      "rationale": "Laika posms — no iziešanas no Micraimas līdz 'šai dienai' — tiek nomērīts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "soļotājs",
+      "rationale": "מתהלך ir aktivās dalīpas forma — 'kas staigā šurpu turpu'; nomalā kā tvertne zaudē kustības bildi"
+    }
+  ],
+  "translation": "Jo es nedzīvoju namā no dienas, kad es izvedu ⟨את⟩ Jisraēla dēlus no Micraimas, un līdz šai dienai, un es biju soļotājs teltī un miškanā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/7\/5-8.1792519761192.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "es dzīvoju"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "no dienas"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "kad es izvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šai dienai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "un es biju"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "soļotājs"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltī"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "un miškanā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:09:21.193072119Z",
+  "model": "glm-5.3"
+}

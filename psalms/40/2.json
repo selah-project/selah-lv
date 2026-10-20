@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוה קויתי",
+      "rationale": "Infinitīva absolūta atkārtojums pirms finīta darbības vārda — 'gaidīdams gaidīju' — pastiprina ilgstošo gaidīšanu; latviski divi vienādi vārdi to saglabā daļēji."
+    },
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Ebreju darbības vārdā (-īti) jau ietverota 1. personu; latviski vietniekvārds pievienots skaidrībai — netiek iekavots, jo ir vārda formā."
+    }
+  ],
+  "translation": "Gaidīju, es gaidīju Jahvi, un viņš pieliecās ⟨pie manis⟩ un dzirdēja manu kliedzienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/1-4.1792527496742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "gaidīju"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "es gaidīju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "pieliecās"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "un dzirdēja"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mano kliedzienu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:16.742836217Z",
+  "model": "glm-5.3"
+}

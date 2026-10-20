@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nāks",
+      "rationale": "Darbības vārds pievienots no 11:10 konteksta; יחרדו par 'trīcēt\/bīstoties steigties'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחרדו",
+      "rationale": "'Trīcēt' vai 'steigties bailēs' (kā ASV 'come trembling') — sakne nozīmē abus."
+    }
+  ],
+  "translation": "Tie trīsēdami nāks kā putniņš no Micraimas un kā balodis no Ašuras zemes, un Es likšu viņiem apmesties viņu namos, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/11\/9-11.1792526053904.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "tie trīsēdami nāks"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kā putniņš"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "un kā balodis"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašuras"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "un Es likšu apmesties"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "viņu namos"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:13.905659328Z",
+  "model": "glm-5.3"
+}

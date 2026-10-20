@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "כזבים",
+      "rationale": "Daudzskaitļa 'melu maizs' saplūst vienā saliktenī 'maizes-melīgs', forma saglabāta."
+    }
+  ],
+  "translation": "Netiecieties pēc viņa kārumiem, un tas ⟨ir⟩ maizes-melīgs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/1-4.1792528856662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "netiecies"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "pēc viņa kārumiem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizes-melīgs"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "melīgs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:56.662926630Z",
+  "model": "glm-5.3"
+}

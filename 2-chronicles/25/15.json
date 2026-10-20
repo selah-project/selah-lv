@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Jahves degums iedegās",
+      "rationale": "ויחר אף — burtiski 'dega nāsis\/degums', dusmu izpaudsme; tulkojums 'iedegās degums' saglabā attēlu"
+    },
+    {
+      "kind": "you",
+      "subject": "pravieša runa Amacjahu",
+      "rationale": "Pravietis tieši uzrunā ķēniņu ar jautājumu 'Kāpēc tu meklēji'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "אלהי העם — tautas dievi ar mazo burtu, pretstatā Elohim"
+    }
+  ],
+  "translation": "Un Jahves degums iedegās pret Amacjahu, un viņš sūtīja pie viņa pravieti, un tas sacīja viņam: Kāpēc tu meklēji ⟨את⟩ tautas dievus, kas nespēja izglābt ⟨את⟩ savu tautu no tavas rokas?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/25\/13-16.1792532242683.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Un iedegās"
+    },
+    {
+      "surface": "אף",
+      "gloss": "degums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "pret Amacjahu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pravieti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "tu meklēji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "spēja izglābt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tautu"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "savu tautu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "no tavas rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:37:22.684989529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst palīgdarbības vārda pie darīts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maizes drānu",
+      "rationale": "שק ir rupja sietu auduma drāna; latviski parasti 'soma' vai 'iedzina', te saglabāta drānas nozīme."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויזעק זעקה",
+      "rationale": "Darbības vārda un lietvārda vienādā sakne — 'kliedza kliedzienu', latviskā atbalss vāja."
+    }
+  ],
+  "translation": "Un Mordohajs uzzināja ⟨את⟩ visu, kas bija darīts, un Mordohajs saplēsa ⟨את⟩ savas drēbes un vilka ģērbt maizes drānu un pelnus, un izgāja pilsētas vidū un kliedza lielu un rūgtu kliedzienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/1-4.1792530084616.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Un Mordohajs"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uzzināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bija darīts"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "un saplēsa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordohajs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas drēbes"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savas drēbes"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "un vilka ģērbt"
+    },
+    {
+      "surface": "שק",
+      "gloss": "maizes drānu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "un pelnus"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un izgāja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "un kliedza"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "kliedzienu"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "un rūgtu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:24.617026467Z",
+  "model": "glm-5.3"
+}

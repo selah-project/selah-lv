@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks — tuvāk 'dzīvības' nekā 'dvēsele'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda izlaiž saikli; מרמה ir apzīmējums tam, kas elpo melus"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יפח",
+      "rationale": "'Izpūt' (elpot) melus — ebreju priekšstats par meliem kā izelpotu gaisu"
+    }
+  ],
+  "translation": "Patiesības liecinieks izglābj dvēseles, bet tas, kas izpūš melus, ⟨ir⟩ viltus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/25-28.1792528693219.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "izglābj"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liecinieks"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesības"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "bet tas, kas izpūš"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "melus"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "viltus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:13.219628064Z",
+  "model": "glm-5.3"
+}

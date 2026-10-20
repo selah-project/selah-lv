@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kluss tas kļuva",
+      "rationale": "נדמה no דמה — apklust, tikt iznīcinātam; tulkotos kā 'noklusis\/iznīcināts'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "Ebreju valodā nav subjekta vietniekvārda; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "Atkārtojošā paralelā struktūra Ar un Kir — divas identiskas puscēlenas, zaudē latviešu ritmā"
+    }
+  ],
+  "translation": "Nesums par Moabu: jo naktī Ar-Moabs tika izlaupīts, kluss tas kļuva; jo naktī Kir-Moabs tika izlaupīts, kluss tas kļuva.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/15\/1-4.1792522088342.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "nesums"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "tika izlaupīts"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kluss kļuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "tika izlaupīts"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kluss kļuva"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:08.343350141Z",
+  "model": "glm-5.3"
+}

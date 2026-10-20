@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai pietrūkst saiklis; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה — upurdāvana; paturēts skanējuma vārds, nevis 'upurs'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ļašar",
+      "rationale": "נסך — ļašars (dzēriena upurs); skanējuma vārds vienam jēdzienam"
+    }
+  ],
+  "translation": "Nogriezta ⟨ir⟩ minha un ļašar no Jahves nama; sēro priesteri, Jahves kalpotāji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/1\/9-12.1792526066826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "nogriezta"
+    },
+    {
+      "surface": "מנחha",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "un ļašar"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "sēro"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "kalpotāji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:26.827595627Z",
+  "model": "glm-5.3"
+}

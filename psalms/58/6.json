@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלחשים",
+      "rationale": "'čūskas apburēji' vs 'čukstētāji' — לחש nozīmē čukstēt burvestību, čūsku savaldīšanas kontekstā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חובר\/חברים",
+      "rationale": "Saknes atkārtojums: 'sasaista saites' — viena sakne חבר divreiz."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחכם",
+      "rationale": "Infinitīvs 'ļoti gudri' vs pielikums 'tas, kas ir gudrs' — dalītas lasījumu tradīcijas."
+    }
+  ],
+  "translation": "kas neklausa čūsku valdītāju balsij, lai cik veikls būtu tas, kas sasaista burvju saites.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "183ead1e0daa5e3741802c7fcb3bfa44556a12cb6497fa0b87c022c85ebf978d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/6-7.1792532809324.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "klausa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "balsij"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "čūsku valdītāju"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "sasaista"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "burvju saites"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "veikls"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:49.324515396Z",
+  "model": "glm-5.3"
+}

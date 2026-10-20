@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "nonievina",
+      "rationale": "מנבל no נבל — 'rīkojas kā muļķis, noniecina'; citur 'apgrūtina, apsmēj'"
+    }
+  ],
+  "translation": "Jo dēls nonievina tēvu, meita ceļas pret savu māti, vedekla pret savu vīramāti; cilvēka ienaidnieki ⟨ir⟩ viņa paša mājas ļaudis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/7\/5-8.1792526541748.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "nonievina"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ceļas"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "pret savu māti"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vedekla"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "pret vīramāti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ienaidnieki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "viņa mājas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:02:21.750280956Z",
+  "model": "glm-5.3"
+}

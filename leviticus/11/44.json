@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 11:44",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Izteiksmē 'Es esmu Jahve' kopsaucis pievienots latviešu valodas labad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש — 'elpas būtne, dzīvība'; 'dvēsele' ir pieņemts aizstājējs"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Tieša uzruna ar pamatojumu 'jo Es esmu Jahve'"
+    }
+  ],
+  "translation": "Jo Es ⟨esmu⟩ Jahve, jūsu Elohim; un svētījat sevi un būsit svēti, jo svēts ⟨esmu⟩ Es; un neaptraipiet ⟨את⟩ savas dvēseles ne ar vienu rāpuli, kas rāpo pa zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "665455bad97117ce7444df3a9a13f75806bef688f7488e9d7309474102c8251f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/42-44.1792514816353.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "והתקדשתם",
+      "gloss": "un svētījat sevi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "un būsit"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svēti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svēts"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "aptraipiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas dvēseles"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "savas dvēseles"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne ar vienu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "rāpuli"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "kas rāpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:56.357884331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 14:50",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ivritam nav saikļa; latviešu valodai vajag ⟨bija⟩ divreiz"
+    },
+    {
+      "kind": "crux",
+      "subject": "דוד",
+      "rationale": "דוד šeit nozīmē 'tēvocis' (Šaula tēvocis), nevis personvārds Davids; daudzi tulkojumi liek 'onkulis'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vārdi",
+      "rationale": "Ģenealoģisks vārdu saraksts — Šaula ģimenes amata personas"
+    }
+  ],
+  "translation": "Un vārds Šaula sievai ⟨bija⟩ Ahiham, Ahimaaca meita; un vārds viņa karaspēka pavēlniekam ⟨bija⟩ Avners, Nera dēls, Šaula tēvocis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b4f79880d6fb7e456fc82b7bba8261b9fcf8f236d09085f016215b656e84804d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/50-51.1792532581905.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Un vārds"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sieva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahiham"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaacs"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un vārds"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pavēlnieks"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "viņa karaspēka"
+    },
+    {
+      "surface": "אבינר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ners"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "tēvocis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:01.905828561Z",
+  "model": "glm-5.3"
+}

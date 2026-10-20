@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rūgti sacēlās",
+      "rationale": "מר nozīmē gan 'kļūt rūgtam', gan 'sacelties' — latviski apvienoti abi iespaidi"
+    },
+    {
+      "kind": "elision",
+      "subject": "בהם",
+      "rationale": "'staigāt pa tiem' latviski sakņojas priekšlocekļa 'pēc' formā; atsevišķs tokens paliek tukšs"
+    }
+  ],
+  "translation": "Un viņa rūgti sacēlās pret ⟨את⟩ maniem tiesas spriedumiem ļaunprātīgāk nekā tautas un pret ⟨את⟩ maniem likumiem vairāk nekā zemes, kas viņai apkārt; jo manus tiesas spriedumus tie nicināja, un pēc maniem likumiem tie nav staigājuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/5\/5-8.1792524773703.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Un viņa rūgti sacēlās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maniem tiesas spriedumiem"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "maniem tiesas spriedumiem"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "ļaunprātīgāk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "maniem likumiem"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "maniem likumiem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "viņai apkārt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "manus tiesas spriedumus"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "tie nicināja"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "un pēc maniem likumiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "staigājuši"
+    },
+    {
+      "surface": "בהם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T19:32:53.704650365Z",
+  "model": "glm-5.3"
+}

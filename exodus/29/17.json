@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "āuns",
+      "rationale": "איל šeit ir upurēšanas kontekstā āuns, nevis 'briedis' kā medību dzīvnieku tabulā."
+    }
+  ],
+  "translation": "Un ⟨את⟩ āunu tu sadalīsi gabalos, un nomazgāsi tā iekšas un tā kājas, un uzliksi tās uz tā gabaliem un uz tā galvas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "726529bc76c5389857739c8463775b54626592956593f976d260c32766ab5dcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/29\/17-20.1792513308572.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "āunu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "āunu"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "sadalīsi gabalos"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "savos gabalos"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "un nomazgāsi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "tā iekšas"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "un tā kājas"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "un uzliksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "tā gabaliem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tā galvas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:48.573167390Z",
+  "model": "glm-5.3"
+}

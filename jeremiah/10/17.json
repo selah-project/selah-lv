@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה — vārds, kas Tanahā parādās tikai šeit; 'nasta \/ saiņi', no saknes כנע."
+    },
+    {
+      "kind": "crux",
+      "subject": "במצור",
+      "rationale": "'aplenkumā \/ cietoksnī' — KJV 'cietoksnis', ASV\/JPS 'aplenkums'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tu⟩",
+      "rationale": "Ebreju sievišķais divdabis 'dzīvo aplenktajā' prasa latviski skaidrojumu 'tu'."
+    }
+  ],
+  "translation": "Sapulcē no zemes savu nastu, ⟨tu⟩, kas dzīvo aplenktajā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/10\/17-20.1792523417712.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Sapulcē"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "savu nastu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "aplenktajā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:17.712618049Z",
+  "model": "glm-5.3"
+}

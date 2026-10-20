@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "atbildes saknes atkārtojums: 'rūgti es rūgtināju\/sacēlos' — viss pants dzimis uz מרר rūgtuma saknes, latviski daļēji saglabāts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atņem bērnus",
+      "rationale": "שכל burtiski 'izrauta abortu\/atņem pēcnācējus' — bērības, nevis vispārēja nogalināšana"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "otrā puse teikumam latviski vajag saikli; ebreju valodā tas tikai salīdzina 'mājās kā nāve'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "dzejolis pēkšņi griežas pie Jahves — pirmā tiešā uzruna Dievam 1. nodaļā"
+    }
+  ],
+  "translation": "Redzi, Jahve, jo man ir šaurs ⟨gals⟩; mani iekši vārās, mans sirds apgriezās manī, jo es ļoti rūgti sacēlos; ārpusē zobens atņem bērnus, mājās ⟨ir⟩ kā nāve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/1\/17-20.1792529860617.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "šaurs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mani iekši"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "vārās"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "apgriezās"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mans sirds"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ļoti rūgti"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "es sacēlos"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ārpusē"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "atņem bērnus"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mājās"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "kā nāve"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:40.618567604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Pieejiet, paceliet",
+      "rationale": "Moše imperativi vērsti pie Mišaela un Elcafana — aicinājums rīkoties."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tēvocis",
+      "rationale": "דד — burtiski 'mīļotais, onkulītis'; Uziels ir Aharona onkulis, latviešu 'tēvocis'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "Latviešu locījums (Mišaelu) jau nes virzienu, tāpēc prievārds noklusušo."
+    }
+  ],
+  "translation": "Un Moše piesauca Mišaelu un Elcafanu, Uziela dēlus, Aharona tēvoči, un sacīja tiem: Pieejiet, paceliet ⟨את⟩ savus brāļus no svētuma ⟨את⟩ sejas uz āru no nometnes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/10\/1-4.1792513757932.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Un piesauca"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mišaelu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "Elcafanu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uziela"
+    },
+    {
+      "surface": "דד",
+      "gloss": "tēvoči"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "Pieejiet"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "paceliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus brāļus"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "savus brāļus"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sejas"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "āru"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "no nometnes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:29:17.933675685Z",
+  "model": "glm-5.3"
+}

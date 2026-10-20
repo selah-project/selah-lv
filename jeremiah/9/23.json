@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 9:23",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "ebreju valodā nav saikļa 'ka es Jahve'; latviešu valodai vajadzīgs ⟨esmu⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed · cedeku",
+      "rationale": "חסד un צדקה saglabāti transliterēti pēc D2 noteikumiem — viens vārds, ne 'žēlastība' un 'taisnība' vienas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "burtiski 'jo ja' — noraidījuma pretstatījums: 'bet tikai tajā'"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Israēlu",
+      "rationale": "tiešs runas akts: kas lepojas, lai lepojas tikai ar atziņu un pazīšanu"
+    }
+  ],
+  "translation": "bet tikai tajā lai lepojas tas, kas lepojas: ka viņš saprot un pazīst ⟨את⟩ mani, ka es ⟨esmu⟩ Jahve, kas dara hesed, tiesu un cedeku virs zemes, jo tajās es ieņemu patiku, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/9\/21-24.1792523445993.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "lai lepojas"
+    },
+    {
+      "surface": "המתהלל",
+      "gloss": "tas, kas lepojas"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "saprot"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "un pazīst"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kas dara"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "un cedeku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "virs zemes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "tajās"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "es ieņemu patiku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:45.994903905Z",
+  "model": "glm-5.3"
+}

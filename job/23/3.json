@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "burtiski 'kas dotu?' — vēlēšanās idiom; attēlots ar 'kaut'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכונתו",
+      "rationale": "'viņa nostiprinātā vieta\/mītne' — 'troni' (KJV) pret 'mītni\/vietu'; vārds no takan, izkārtot"
+    },
+    {
+      "kind": "addition",
+      "subject": "kur",
+      "rationale": "'zināt' objekts ebrejiski nav izteikts; latviešu valodai vajag vietu"
+    },
+    {
+      "kind": "secret",
+      "subject": "atrast ⟨viņu⟩",
+      "rationale": "Elohim ir paslēpts — Ijovs nevar Viņu atrast"
+    }
+  ],
+  "translation": "Kaut es zinātu ⟨kur⟩ un atrastu ⟨viņu⟩, kaut es nonāktu līdz viņa mītnei!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "22611f0377ce044819b85aa507b1352c908304232dfc0ce76a089988cc97b6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/23\/1-4.1792529339509.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kaut"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kaut"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "zinātu"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "un atrastu ⟨viņu⟩"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nonāktu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "viņa mītnei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:59.510720968Z",
+  "model": "glm-5.3"
+}

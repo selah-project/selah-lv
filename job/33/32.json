@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "attaisnot",
+      "rationale": "צדקך burti 'tavs cedek' — 'tavas taisnības (cedek) dēļ'; latviski dot divi vārdi vienam"
+    },
+    {
+      "kind": "you",
+      "subject": "Ījab",
+      "rationale": "turpinās tieša uzruna — ja vārdi ir, atbildi man"
+    }
+  ],
+  "translation": "ja ir vārdi — atbildi man, runā, jo es vēlos tevi attaisnot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/33\/29-32.1792529469651.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "atbildi man"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "es vēlos"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "attaisnot tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:09.652859275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iekšējā",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele; latviski ņemts 'iekšējā', lai nesasauktu ar dvēseles doktrīnu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אדדה",
+      "rationale": "Darbības vārds דדה 'iet klusi\/ļengni' Tanahā sastopams tikai šeit un Jesajas 38:15 kontekstā."
+    },
+    {
+      "kind": "alternative",
+      "subject": "iešu klusi",
+      "rationale": "אדדה var noמענēt arī 'ļengni staigāt sēru zīmē' — tāpēc daudzi tulki: 'I shall go softly'."
+    }
+  ],
+  "translation": "Ko lai es runāju, kad Viņš man to pateica un Viņš pats to izdarīja? Es iešu klusi visus savus gadus mana iekšējā rūgtuma dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/13-16.1792522535858.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "lai es runāju"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un pateica"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un Viņš pats"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izdarīja"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "es iešu klusi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "savus gadus"
+    },
+    {
+      "surface": "על",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "rūgtuma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana iekšējā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:35.859785634Z",
+  "model": "glm-5.3"
+}

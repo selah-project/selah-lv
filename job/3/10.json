@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tā nakts",
+      "rationale": "Ebreju teksta teikumā darītājs ir iepriekšējā panta nakts; latviešu teikumam vajag subjektu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pūles",
+      "rationale": "עמל ir 'nogurdinošs darbs, ciešanu pūles', ne vien 'bēdas'."
+    }
+  ],
+  "translation": "Tāpēc ka ⟨tā nakts⟩ neslēdza mana klēpja durvis un neslēpa pūles no manām acīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/3\/9-12.1792528973764.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "slēdza"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "durvis"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mana klēpja"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "un slēpa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pūles"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "no manām acīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:53.765386155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav viens vārds — žēlsirdība, uzticamība, lojalitāte; paturēts ebreju skanējums"
+    },
+    {
+      "kind": "addition",
+      "subject": "būs",
+      "rationale": "Ebreju valodā nav pazīstamā vārda; latviešu teikumam vajag laiku"
+    }
+  ],
+  "translation": "Dienā Jahve pavēlēs savu hesed, un naktī dziesma būs ar mani — lūgšana manas dzīvības Elam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/42\/9-12.1792527499365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "pavēlēs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "savu hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "un naktī"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "dziesma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lūgšana"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "manas dzīvības"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:19.365795078Z",
+  "model": "glm-5.3"
+}

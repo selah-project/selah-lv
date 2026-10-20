@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "'Ja tu nezini' — ebreju valodā nav saikļa jautājuma vidū."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ej... ganies",
+      "rationale": "_imperatīvi, aicinājums doties avju pēdās._"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעים \/ רעי",
+      "rationale": "sakne r'h ganīt: 'ganies' un 'gani' — vārdu atbilsme, latviešu valodā daļēji saglabāta."
+    }
+  ],
+  "translation": "Ja tu nezini — skaistā starp sievietēm — ej sev līdzi avju pēdām un ganies ⟨את⟩ savus kazu mazuļus pie ganu teltīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/1\/5-8.1792529686395.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "tu nezini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "skaistā"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "starp sievietēm"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "ej"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "בעקבי",
+      "gloss": "līdzi pēdām"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avju"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "un ganies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus kazu mazuļus"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "savus kazu mazuļus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "teltīm (miškan)"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ganu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:46.396880549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apcer ļaunu",
+      "rationale": "זמם nozīmē 'plāno ļaunu'; latviešu 'plānot' skan pārāk neitrāli"
+    }
+  ],
+  "translation": "Bezdievis apcer ļaunu pret taisno, un viņš klabina viņam zobus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/37\/9-12.1792527374370.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "apcer ļaunu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezdievis"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pret taisno"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "un klabina"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "savus zobus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:14.371849900Z",
+  "model": "glm-5.3"
+}

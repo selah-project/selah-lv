@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "satvēra",
+      "rationale": "ויחזק burtiski 'kļuva stiprs pret' — satvēra ar spēku."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Tamāru",
+      "rationale": "Amnons runā tieši ar savu māsu — pavēles 'nāc, guli'."
+    }
+  ],
+  "translation": "Un viņa pienesa viņam ēst, un viņš satvēra viņu un sacīja viņai: Nāc, guli ar mani, mana māsa!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1efb8c193e72ffc27e359ce7d87017acce244ff323491bd3090365bdb786af98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/13\/9-12.1792519829248.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "un pienesa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "un satvēra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "nāc"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "guli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mana māsa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:29.250307804Z",
+  "model": "glm-5.3"
+}

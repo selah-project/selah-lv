@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "namu",
+      "rationale": "הבית šeit ir templis; 'namu' saglabā vārda formu, konteksts saka, kāds nams"
+    }
+  ],
+  "translation": "Pēc visa tā, kad Jošijahs bija sagatavojis ⟨את⟩ namu, uzkāpa Neko, Micraimas ķēniņš, lai karotu pret Karkemišu pie Peratas, un Jošijahs izgāja viņam pretī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/35\/17-20.1792532418748.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bija sagatavojis"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uzkāpa"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "lai karotu"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "pret Karkemišu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Peratas"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un izgāja"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "viņam pretī"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:18.749911695Z",
+  "model": "glm-5.3"
+}

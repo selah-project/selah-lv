@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "Ruah ir viens vārds — elpa, vējš, gars; 'elpa' viena būtu pārāk šaurs."
+    },
+    {
+      "kind": "crux",
+      "subject": "pulks",
+      "rationale": "צבאם — 'to karaspēks\/pulks': zvaigznes vai eņģeļi; KJV 'host' ir divdomīgs tāpat kā ebreju vārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "debesis",
+      "rationale": "שמים ir duālis — 'divas debesis'; latviešu daudzskaitlis to daļēji saglabā."
+    }
+  ],
+  "translation": "Ar Jahves vārdu tika darītas debesis, un ar Viņa mutes ruah — viss to pulks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/33\/5-8.1792527380971.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Ar vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "tika darītas"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "un ar ruah"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Viņa mutes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "to pulks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:20.972225019Z",
+  "model": "glm-5.3"
+}

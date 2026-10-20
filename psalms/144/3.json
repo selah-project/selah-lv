@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדם \/ אנוש",
+      "rationale": "Divi vārdi cilvēkam — 'adam' un 'enosh' (mirstīgais) — paralēlisms, latviski redzams kā 'cilvēks \/ mirstīgā dēls'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums Jahvem",
+      "rationale": "Retorisks jautājums — brīnums par Dieva ievērību pret mirstīgo cilvēku"
+    }
+  ],
+  "translation": "Jahve, kas ir cilvēks, ka tu viņu pazīsti, mirstīgā dēls, ka tu viņu piemin?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/144\/1-4.1792528451432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ka tu viņu pazīsti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgā"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ka tu viņu piemin"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:11.433562382Z",
+  "model": "glm-5.3"
+}

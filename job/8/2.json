@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah kā varens vējš",
+      "rationale": "רוח ir viens vārds — ruah — kas nozīmē garu, vēju un elpu; \"vējš\" pievienots, jo konteksts to prasa"
+    },
+    {
+      "kind": "crux",
+      "subject": "kā varens vējš",
+      "rationale": "ievainojums: vai teikums ir jautājums (KJV) vai apgalvojums (JPS) — ebreju teksts pieļauj abus"
+    }
+  ],
+  "translation": "Cik ilgi tu runāsi ⟨את⟩ šos ⟨vārdus⟩? Un ruah kā varens vējš — tavas mutes vārdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fafd15e4a70a24007137c865d5725f65764c8a9d7f7cdb57b19058387b9c1a59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/8\/1-4.1792529065896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cik"
+    },
+    {
+      "surface": "אן",
+      "gloss": "ilgi"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "tu runāsi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šos"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "un ruah"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "varens"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavas mutes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:25.896757548Z",
+  "model": "glm-5.3"
+}

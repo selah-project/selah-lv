@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trešajā gadā",
+      "rationale": "Valdīšanas gads tiek skaitīts."
+    },
+    {
+      "kind": "crux",
+      "subject": "חיל",
+      "rationale": "'Karaspēks' (JPS) pret 'varēja\/elite' — חיל var nozīmēt gan karaspēku, gan spēku, gan bagātību."
+    }
+  ],
+  "translation": "Trešajā gadā pēc sava valdīšanas sākuma viņš rīkoja dzīres visiem saviem firstiem un saviem kalpiem — Parases un Mādas karaspēks, dižmaņi un zemju firsti — ⟨visi⟩ viņa priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/1-4.1792530098918.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "pēc sava valdīšanas sākuma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš rīkoja"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "dzīres"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "saviem firstiem"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "un saviem kalpiem"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "karaspēks"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parases"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "un Mādas"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "dižmaņi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "un firsti"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "zemju"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:38.919641048Z",
+  "model": "glm-5.3"
+}

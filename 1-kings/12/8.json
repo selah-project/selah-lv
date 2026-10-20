@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "העומדים לפניו",
+      "rationale": "'Tie, kas stāv viņa priekšā' — galmā kalpojošie, ne vienkārši stāvētāji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הילדים",
+      "rationale": "Burtiski 'bērni\/jaunekļi' — kontekstā pieauguši Rehabeama vienaudži; 'jaunie' saglabā pretstatu 'vecajiem'."
+    }
+  ],
+  "translation": "Un viņš atstāja veco padomu, ko tie viņam bija devuši, un apspriedās ⟨את⟩ ⟨ar⟩ jaunajiem, kas bija uzauguši ⟨את⟩ kopā ar viņu, kas stāvēja viņa priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/12\/5-8.1792520737732.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Un viņš atstāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veco padomu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "padomu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "veco"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "tie viņam bija devuši"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "un apspriedās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ar⟩",
+      "marks": "jaunajiem"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jaunajiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bija uzauguši"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kopā ar viņu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stāvēja"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:37.734092372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרב",
+      "rationale": "'Sausums\/karstums' — drudzis vai dedzinošs karstums; latviski 'karstums'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצמי",
+      "rationale": "Burtiski 'mans kauls' (vienskaitlis); latviski daudzskaitlis 'kauli' kā ķermeņa daļa."
+    }
+  ],
+  "translation": "Mana āda nomelnēja uz ⟨mana⟩ ķermeņa, un mani kauli iekaisa no karstuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb2982aabea12cbe79d25fa5408aa2a2805943f9bfd7cba084631303bf137639",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/30\/29-31.1792529472801.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Mana āda"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "nomelnēja"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "uz ⟨mana⟩ ķermeņa"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "un mani kauli"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "iekaisa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "karstuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:12.801900819Z",
+  "model": "glm-5.3"
+}

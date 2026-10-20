@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "התהלכתי",
+      "rationale": "Hitpael intensīvā 'staigāju šurpu turpu' — attēls zaudēts vienkāršā 'staigāju'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדר",
+      "rationale": "Burtiski 'kļūt pelēkaskumjš\/tumšs' no miecēta āda — sēru tumšums kā krāsa."
+    }
+  ],
+  "translation": "Kā draugam, kā brālim man, tā es staigāju ⟨את⟩ viņu vidū; kā sērotājs par māti, bēdīgs es noliecos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/35\/13-16.1792527385412.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Kā draugam"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kā brālim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "es staigāju"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kā sērotājs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "par māti"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bēdīgs"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "es noliecos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:25.415674439Z",
+  "model": "glm-5.3"
+}

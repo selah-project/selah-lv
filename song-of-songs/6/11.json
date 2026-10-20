@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ielejas",
+      "rationale": "נחל burtiski ir ziemas strautve \/ aiza — ׳ieleja׳ ir šaurāka nozīme, bet pieņemts attēls."
+    },
+    {
+      "kind": "crux",
+      "subject": "באבי הנחל",
+      "rationale": "KJV lasa ׳the fruits of the valley׳, JPS ׳green plants of the valley׳ — אבי no אב (jauns dzinums, pups)."
+    },
+    {
+      "kind": "mystery",
+      "subject": "neskaidrs skatītājs",
+      "rationale": "Nezināms, kurš runā — dziedātājs vai līgava — teksts to nenosaka."
+    }
+  ],
+  "translation": "Riekstu dārzā es nokāpu, lai redzētu ielejas jaunos dzinumus, lai redzētu, vai vīnakoks bija uzplaukuis, vai granātkoki bija izplaukuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/6\/9-12.1792529642423.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Uz"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "dārzu"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "riekstu"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "es nokāpu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai redzētu"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "jaunos dzinumus"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ielejas"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai redzētu"
+    },
+    {
+      "surface": "הפרחה",
+      "gloss": "vai bija uzplaukuis"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "vīnakoks"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "vai bija izplaukuši"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "granātkoki"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:02.424963313Z",
+  "model": "glm-5.3"
+}

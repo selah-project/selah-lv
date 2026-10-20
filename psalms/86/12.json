@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אודך",
+      "rationale": "Sakne ידה burtiski 'mest, laistīt' — pārnesti 'pateikties, atzīt'."
+    }
+  ],
+  "translation": "Es Tev pateikšos, Adonai, mans Elohim, ar visu savu sirdi, un godināšu Tavu vārdu mūžīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8d55b0bff19daab32d0140ef27a4b8b5dcba43105abd7ab7cf05938910c57b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/86\/9-12.1792527980867.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Es Tev pateikšos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "un godināšu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tavu vārdu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:20.868172742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "והחריטים",
+      "rationale": "vārds 'izgriezta\/izdobta lieta' — kabatas vai somiņas — Tanahā tikai šeit"
+    },
+    {
+      "kind": "crux",
+      "subject": "svētku tērpi",
+      "rationale": "המחלצות: 'viegli novelkami apģērbi' pret 'grezni tērpi'; KJV 'changeable suits'"
+    }
+  ],
+  "translation": "svētku tērpi un apmetņi, un platie apsegi, un kabatas —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb0e3bb30f04c6f1b3b56935e2c33b9e5b62c6dc8fbb07d377e199654affbfa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/3\/21-24.1792521811108.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "svētku tērpi"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "un apmetņi"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "un platie apsegi"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "un kabatas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:31.109548838Z",
+  "model": "glm-5.3"
+}

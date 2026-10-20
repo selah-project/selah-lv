@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas bija",
+      "rationale": "ivritā אשר היה — 'kas notika\/bija', latviešu teikumam vajadzīgs saiklis 'kas'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relatīvais segments iekļauts teikuma struktūrā, atsevišķs vārds latviski nepieciešams tikai kā 'kas'"
+    }
+  ],
+  "translation": "Jahves vārds, kas bija pravietim Jeremijam par filistiešiem, pirms faraons sita ⟨את]] Gaz(=עזה →) Gazu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/47\/1-4.1792524380973.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijas"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "par"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešiem"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:26:20.974189893Z",
+  "model": "glm-5.3"
+}

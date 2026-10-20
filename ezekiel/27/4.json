@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav darāmā vārda; latviešu valodai nepieciešams saiklis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלילת \/ כללו",
+      "rationale": "Sakne כלל atkārtojas: Cora saka 'esmu skaistuma pilnība' (כלילת), un cēlāji 'pilnīgoja' (כללו) viņas skaistumu — vārdu spēle zūd tulkojumā."
+    }
+  ],
+  "translation": "Jūru sirdī ⟨ir⟩ tavas robežas; tavi cēlāji pilnīgoja tavu skaistumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3935aa4a6db331ff826886ef1a5940ae6aeb838fe087472cbb2308ca0bac2c79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/27\/1-4.1792525358121.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "tavas robežas"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavi cēlāji"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "pilnīgoja"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "tavu skaistumu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:38.122777089Z",
+  "model": "glm-5.3"
+}

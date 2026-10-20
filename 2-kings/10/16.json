@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dedzība",
+      "rationale": "קנאה ir 'greizsirdīga degsmi' par Jahvi — 'zelotisms'; 'dedzība' tuvākais viens vārds latviski."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Nāc ar mani un redzi",
+      "rationale": "Jehu aicina Jehonadabu kļūt par aculiecinieku — imperatīvs ar apskates solījumu."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Te אתי ir prievārds 'ar mani' (H854), nevis priekšmets-zīme; saglabāts kā ⟨את⟩ pēc struktūras noteikuma."
+    }
+  ],
+  "translation": "Un viņš sacīja: Nāc ⟨את⟩ ar mani un redzi manu dedzību Jahvem! Un viņi lika viņu ⟨את⟩ braukt savos ratos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/10\/13-16.1792521341976.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Nāc"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ar mani"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "un redzi"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "manu dedzību"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Un viņi lika viņu braukt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "savos ratos"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:41.978042644Z",
+  "model": "glm-5.3"
+}

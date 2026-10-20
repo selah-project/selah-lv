@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kas tu esi, mana meita?",
+      "rationale": "את šeit ir vietniekvārds 'tu', nevis aleph-tav marķieris; jautājumu daži lasa kā 'Kas tu esi?' (baidās, ka Ruta atpazīta) vai kā 'Kā tev veicās?' (idiotisma)."
+    },
+    {
+      "kind": "addition",
+      "subject": "tā, esi",
+      "rationale": "Latviešu valodai vajadzīgs piederības vietas rādītājs ⟨tā⟩ un kopula ⟨esi⟩, ko ebreju teksts neizsaka."
+    }
+  ],
+  "translation": "Un viņa atnāca pie savas vīramātes, un ⟨tā⟩ sacīja: Kas tu ⟨esi⟩, mana meita? Un viņa pastāstīja viņai ⟨את⟩ visu, ko vīrs bija viņai darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/3\/13-16.1792529739838.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "un viņa atnāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "savas vīramātes"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mana meita"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "un viņa pastāstīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bija darījis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:39.839705944Z",
+  "model": "glm-5.3"
+}

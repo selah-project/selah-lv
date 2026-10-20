@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņam",
+      "rationale": "Ebreju valodā prievārds אליו ir, bet latviešu teikumā prasa ⟨viņam⟩ kā skaidri pievienotu saistību."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sūties",
+      "rationale": "אבה burtiski 'elpot pēc kaut kā', šeit 'piekrist, paklausīt' — tēlainā sakne pazūd."
+    }
+  ],
+  "translation": "Un visi vecajo un viss ļaudis sacīja ⟨viņam⟩: neklausies un nesūties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb59b1291dc45702e17256d4bbc67f831c18596dd1bcb9090711f0b545887617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/8-8.1792532599157.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨viņam⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vecajo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausies"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "sūties"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:19.158508579Z",
+  "model": "glm-5.3"
+}

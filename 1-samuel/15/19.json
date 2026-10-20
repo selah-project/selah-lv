@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 15:19",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meties kā vanags virsū",
+      "rationale": "עט ir plēsīga putna metiens lejup uz upuri — attēls, kas vienā latviešu vārdā nepanesas"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulam",
+      "rationale": "Samuēla tiešais jautājums Šaulam"
+    }
+  ],
+  "translation": "Un kāpēc tu neklausīji Jahves balsij, bet meties kā vanags virsū laupījumam un darīji to, kas ļauns Jahves acīs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/17-20.1792519116307.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Un kāpēc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "klausīji"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ותעט",
+      "gloss": "bet meties virsū"
+    },
+    {
+      "surface": "אל",
+      "gloss": "virsū"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "laupījumam"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "un darīji"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļauno"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:36.308715503Z",
+  "model": "glm-5.3"
+}

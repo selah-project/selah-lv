@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 9:6",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav saikļa 'Jahve — Viņa vārds'; latviski pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואגדתו",
+      "rationale": "'saišķis, kūlis, loks\/velve' — KJV 'troop', ASV 'vault'; šeit 'velve' kā debess velve pār zemi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אגדה",
+      "rationale": "Vārds אגדה Tanahā parādās tikai šeit (Amos 9:6)."
+    }
+  ],
+  "translation": "Kas saviem augstumiem debesis ceļ un savu velvi pār zemi dibina; kas sauc jūras ūdeņus un izlej tos pār zemes virsu — Jahve ⟨ir⟩ Viņa vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/9\/5-8.1792526366578.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבונה",
+      "gloss": "Kas ceļ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "מעלותו",
+      "gloss": "saviem augstumiem"
+    },
+    {
+      "surface": "ואגדתו",
+      "gloss": "un savu velvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "dibina"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "kas sauc"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "וישפכם",
+      "gloss": "un izlej tos"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņa vārds"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:26.579608793Z",
+  "model": "glm-5.3"
+}

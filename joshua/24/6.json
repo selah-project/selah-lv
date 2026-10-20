@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "niedru jūra",
+      "rationale": "Jam Suf parasti tiek tulkots 'Sarkanā jūra', bet סוף ir 'niedres, papiruss'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הימה virziens",
+      "rationale": "hebreju virziena locījums '-āh' (uz jūru) latviski pievieno prievārdu 'pie'"
+    }
+  ],
+  "translation": "Un es izvedu ⟨את⟩ jūsu tēvus no Micraimas, un jūs nonācāt pie jūras, un Micraima vajāja jūsu tēvus ar ratiem un jātniekiem — niedru jūra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/24\/5-8.1792518164438.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "Un es izvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu tēvus"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jūsu tēvus"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "un jūs nonācāt"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "pie jūras"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "un vajāja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jūsu tēviem"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ar ratiem"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "un jātniekiem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūra"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "niedru"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:44.439278264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pieņemts",
+      "rationale": "כמשפט burtiski 'kā tiesa\/paraža' — jāpievieno vārds 'pieņemts', lai latviski skanētu."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Vēršanās pie Dieva — lūgums pagriezties un apžēlot."
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgums",
+      "rationale": "Imperatīvi 'pagriezies' un 'apžēlo' tieši uzrunā Dievu."
+    }
+  ],
+  "translation": "Pagriezies pret mani un apžēlo mani, kā ⟨pieņemts⟩ tiem, kas mīl tavu Vārdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/129-132.1792528331029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Pagriezies"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "un apžēlo mani"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kā ⟨pieņemts⟩"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tiem, kas mīl"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo Vārdu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:11.030809560Z",
+  "model": "glm-5.3"
+}

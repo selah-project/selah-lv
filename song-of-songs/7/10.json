@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "Šis vārds Tanahā sastopams tikai šeit; nozīme 'slīdēt, kustināt lūpas' tiek secināta no saknes"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישנים",
+      "rationale": "'guļošie' pret tradīciju 'vecie\/gudrie'; vārds nozīmē 'tas, kas guļ'"
+    }
+  ],
+  "translation": "un tavas aukslējas kā labais vīns, kas tek manam mīļotajam gludi, rosina guļošo lūpas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/7\/9-12.1792529647878.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "un tavas aukslējas"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "kā vīns"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "labais"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kas tek"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "manam mīļotajam"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "gludi"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "rosina"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lūpas"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "guļošo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:07.879714751Z",
+  "model": "glm-5.3"
+}

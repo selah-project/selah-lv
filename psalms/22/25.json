@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענות עני",
+      "rationale": "Saknes ענו\/עני atkārtojums — pazemojums un pazemotais no viena saknes; latviskā atbalss izzūd."
+    },
+    {
+      "kind": "alternative",
+      "subject": "שמע",
+      "rationale": "Pastāvēšanas laiks: 'viņš uzklausa' (pat pastāvīgi) pret vienkāršu pagātni 'uzklausīja'."
+    }
+  ],
+  "translation": "Jo viņš nav nicinājis un nav turējis par pretīgu nabagā pazemojumu, un nav paslēpis savu vaigu no viņa, un, kad viņš viņam kliedza, viņš uzklausīja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/25-28.1792527221266.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "nicinājis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "turējis par pretīgu"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "pazemojumu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabagā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "paslēpis"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savu vaigu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "un, kad viņš kliedza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "viņš uzklausīja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:41.267549057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Rūcošs lauva un izsalcis lācis — tāds ir",
+      "rationale": "Ivrita salīdzinājums bez 'kā'; latviski pievienota skaidrojošā saite 'tāds ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izsalcis",
+      "rationale": "שקק nozīmē 'skrien kā plēsīgs zvērs, alkti medīt' — attēls par saīsinātu vārdu latviski"
+    }
+  ],
+  "translation": "Rūcošs lauva un izsalcis lācis — tāds ir ļaunais valdnieks pār nabadzīgu tautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3002978ecd6e910ccfe75da8f0c6fd1b46b9c502ad660470b28e43e3f2733d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/28\/13-16.1792528918388.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "lauva"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "rūcošs"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "un lācis"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "izsalcis (kas skrien pēc laupījuma)"
+    },
+    {
+      "surface": "משל",
+      "gloss": "valdnieks"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunais"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nabadzīgu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:58.389897391Z",
+  "model": "glm-5.3"
+}

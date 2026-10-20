@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusmās",
+      "rationale": "באף burtiski 'degunā\/nāsīs' — dusmas ebreju valodā sēž sejā."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩",
+      "rationale": "Izsauktā objekta vietniekvārds, ko ebreju valodas suffikss -ם jau satur vārdā ותשמידם."
+    }
+  ],
+  "translation": "Tu vajāsi ⟨tos⟩ dusmās un iznīcināsi tos no zem Jahves debesīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ad5bfc20e7a4d870667b74c5019fed38db0c420434448a4ab9dd901fac76dde5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/65-66.1792529793615.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "Tu vajāsi"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dusmās"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "un iznīcināsi tos"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "no zem"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "debesīm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:33.615767375Z",
+  "model": "glm-5.3"
+}

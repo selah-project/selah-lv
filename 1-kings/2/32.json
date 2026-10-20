@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atmaksās asinis pār galvu",
+      "rationale": "והשיב יהוה את דמו על ראשו — ‘atgriezt asinis uz galvas’ = asins atriebības idiom; latviski ‘atmaksāt pār galvu’"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taisnākiem",
+      "rationale": "צדקים — cedek vārds ‘cedek’; latviskā salīdzināmā pakāpe pieprasa ‘-ākiem’, zaudē vienīgo sakni cedek"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨paša⟩ · ⟨tos⟩",
+      "rationale": "ivritā nav; pievienoti latviešu skaidrībai"
+    }
+  ],
+  "translation": "Un Jahve atmaksās ⟨את⟩ viņa asinis pār viņa ⟨paša⟩ galvu, jo viņš uzbruka diviem vīriem, taisnākiem un labākiem par viņu, un nogalināja ⟨tos⟩ ar zobenu, un mans tēvs Davids nezināja ⟨את⟩ Avneru, Nēra dēlu, Jisraēla karaspēka pavēlnieku, un ⟨את⟩ Amasu, Jetēra dēlu, Jehudas karaspēka pavēlnieku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "29063703a068d4864c6594e17d487518d98a1e6b6d17bde520a56f799173aef2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/29-32.1792520387789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "atmaksās"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa asinis"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "viņa asinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "viņa galvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "uzbruka"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "diviem"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vīriem"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "taisnākiem"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "un labākiem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "un nogalināja tos"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ar zobenu"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "un mans tēvs"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avneru"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nēra"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pavēlnieku"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amasu"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jetēra"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pavēlnieku"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:47.790833144Z",
+  "model": "glm-5.3"
+}

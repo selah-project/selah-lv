@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atbrīvo",
+      "rationale": "ואספתו burtiski 'un savāc viņu' — no slimības savākt nozīmē izārstēt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spitālība",
+      "rationale": "צרעת nav mūsdienu Hansen slimība; tanahiskā slender aptver arī drēbju un sienu augšējo sēnīti."
+    }
+  ],
+  "translation": "Un nonāca vēstule pie Jisraēla ķēniņa, sacīdams: Un tagad, kad nonākusi šī vēstule pie tevis, — lūk, es sūtīju pie tevis ⟨את⟩ Naamanu, savu kalpu, un tu viņu atbrīvo no viņa spitālības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b39ec450498b7878d187663b08778aa418eb799bde7d1f8214433cc4b1c05f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/5\/5-8.1792521262178.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un nonāca"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "vēstule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kad nonāca"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "vēstule"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "es sūtīju"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamanu"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamanu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "savu kalpu"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "un tu viņu atbrīvo"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "no viņa spitālības"
+    }
+  ],
+  "timestamp": "2026-10-20T18:34:22.178928442Z",
+  "model": "glm-5.3"
+}

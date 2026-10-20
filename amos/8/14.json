@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 8:14",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באשמת",
+      "rationale": "אשמה var nozīmēt 'vaina' vai 'vainas upuris'; LXX lasa 'Asimat' kā dievības vārdu ('Apustuļu darbos' 7:43 atbalsts tam)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דרך באר שבע",
+      "rationale": "'Beer-Šebas ceļš' var būt svētceļnieku ceļš uz Beer-Šebas svētnīcu vai tur pielūgtā dievības 'ceļš' (kulta epithets)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי ... וחי",
+      "rationale": "atkārtots zvēresta formulas 'kā dzīvs...' — divi pilsoņi Danā un Beer-Šebā, zemes divos galos"
+    }
+  ],
+  "translation": "Tie, kas zvēr pie Šomeronas vainas un saka: Kā dzīvs tavs elohims, Dan! un: Kā dzīvs Beer-Šebas ceļš! — tie kritīs un necelsies vairs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b995a80e17e07cb7158387200b0b33cd97cadcdf5129c2e17820d6ecb1ee0e55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/8\/13-14.1792526274592.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשבעים",
+      "gloss": "Tie, kas zvēr"
+    },
+    {
+      "surface": "באשמת",
+      "gloss": "pie vainas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeronas"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "un saka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Kā dzīvs"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs elohims"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "un: Kā dzīvs"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Šebas"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "tie kritīs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "celsies"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:54.593080907Z",
+  "model": "glm-5.3"
+}

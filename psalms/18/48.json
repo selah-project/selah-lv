@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pakļauj",
+      "rationale": "ידבר šeit ir retais dābars II 'pakļaut, dzīt', nevis 'runāt'; tulkotāji: 'subdueth' (kjv) pret 'speaketh'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Tas",
+      "rationale": "Latviešu piederības teikumam vajag rādāmo vietniekvārdu, ebreju valodā tā nav"
+    }
+  ],
+  "translation": "⟨Tas⟩ El, kas dod atriebības man, un pakļauj tautas zem manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/18\/45-48.1792527207673.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "⟨Tas⟩ El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "kas dod"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "atriebības"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "un pakļauj"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "zem manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:27.675180684Z",
+  "model": "glm-5.3"
+}

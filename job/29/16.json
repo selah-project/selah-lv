@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "strīdu, ko es nezināju",
+      "rationale": "ורב לא ידעתי: 'lietu, ko es nezināju' (KJV\/ASV 'the cause which I knew not') pret 'strīdnieku, ko es nepazinu' (JPS 'him that I knew not') — רב vienšķaitlis vai lietvārds 'strīds'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "BSB 'case of the stranger'",
+      "rationale": "BSV lasa רב kā 'svešinieka lieta', apvienojot abus skaidrojumus vienā."
+    }
+  ],
+  "translation": "Tēvs es biju trūkumcietējiem, un strīdu, ko es nezināju, es izpētīju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7626a14b730aa91aeef49789b14c7211af5c69e7afd75a5560476bf2b324f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/29\/13-16.1792529373472.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "Tēvs"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "trūkumcietējiem"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "un strīdu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "zināju"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "es izpētīju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:33.473470203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 19:37",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņa dēli",
+      "rationale": "Ebreju tekstā nav teikts, ka Adramelehs un Šarecers būtu Sanheriba dēli — tas ir tikai no konteksta; 'בנו' attiecas uz Esarhadonu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "אלהיו šeit par elu — noliegtā tautu dievs, tāpēc 'els', nevis Elohim forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "Ararat",
+      "rationale": "KJV tulko 'Armēnija'; ebreju vārds ir Ararats, un tas paliek"
+    }
+  ],
+  "translation": "Un notika, kad viņš pielūdza Nisroku, savu elu, viņa namā, ka Adramelehs un Šarecers viņu nocirta ar zobenu, un tie aizbēga uz Arc Ararata, un viņa dēls Esarhadons sāka valdīt viņa vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec789943a4c1a9614545531906243b90e65409af09348ca55838442e759a642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/19\/37-37.1792521650248.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "משתחוה",
+      "gloss": "pielūdza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "נסרך",
+      "gloss": "Nisroku"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savu elu"
+    },
+    {
+      "surface": "ואדרמלך",
+      "gloss": "un Adramelehs"
+    },
+    {
+      "surface": "ושראצר",
+      "gloss": "un Šarecers"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "viņu nocirta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ar zobenu"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "un tie"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "aizbēga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararata"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "un sāka valdīt"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Esar-"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "hadons"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:40:50.248879385Z",
+  "model": "glm-5.3"
+}

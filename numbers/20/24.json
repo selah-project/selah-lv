@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 20:24",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tiks savākts pie sava ļaužu pulka",
+      "rationale": "Ebreju אָסַף אֶל עַמָּיו — eifēmisms nāvei; saglabāts burtiski"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריתם \/ מריבה",
+      "rationale": "Darbības vārds 'sadumpot' (maritem) un vietas vārds Meriba daliek sakni; latviski atbalsojas tikai caur tulkojumu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר (otrs)",
+      "rationale": "Otrs אשer apvienots ar עַל par 'tāpēc, ka'; atsevišķs atgādnieks latviski nav iespējams"
+    }
+  ],
+  "translation": "Aharons tiks savākts pie sava ļaužu pulka, jo viņš neieies ⟨tā⟩ zemē, kuru esmu devis Jisraēla dēliem, tāpēc, ka jūs sadumpojāt pret ⟨את⟩ manu muti pie Meribas ūdeņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ec2d459ebd51e0f58c967080a560f829e3f364c02ccaf25e776f5bc818dcf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/20\/21-24.1792516000627.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאסף",
+      "gloss": "tiks savākts"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "sava ļaužu pulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ieies"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "esmu devis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מריתם",
+      "gloss": "jūs sadumpojāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mani muti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "manu muti"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:40.628522245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "בל־אמים ir salikts 'nav-tautas', t.i., sveļas ciltis; atsevišķa glaosa saplūst ar לאמים"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pateikšos",
+      "rationale": "ידה burtiski 'mest, sviest' — pateicība kā žests, kas nodots ar vārdu"
+    }
+  ],
+  "translation": "Es tevi pateikšos tautu vidū, Adonai, es tevi dziedāšu ciltīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/57\/9-12.1792527687032.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "es tevi pateikšos"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tautu vidū"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "es tevi dziedāšu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ciltīs"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:27.032842488Z",
+  "model": "glm-5.3"
+}

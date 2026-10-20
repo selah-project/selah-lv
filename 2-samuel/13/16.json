@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 13:16",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאחרת",
+      "rationale": "Grūts vieta: 'lielāks nekā cits (ļaunums)' pret KJV 'nav iemesla'; šeit lasīts salīdzinājums — padzīšana ir ļaunāka par pašu piesmiešanu."
+    },
+    {
+      "kind": "elision",
+      "subject": "אודת",
+      "gloss": "Daļiņa 'dēļ, sakarā ar' iekļauta teikuma locījumā, atsevišķs vārds neatstāts."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saikle, ebreju tekstā tās nav."
+    }
+  ],
+  "translation": "Un viņa sacīja viņam: Nē! Šis lielais ļaunums — mani aizsūtīt — ⟨ir⟩ lielāks nekā cits, ko tu darīji ar mani. Bet viņš negribēja klausīt viņai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/13\/13-16.1792519830125.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nē"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lielais"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šis"
+    },
+    {
+      "surface": "מאחרת",
+      "gloss": "lielāks nekā cits"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu darīji"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "לשלחני",
+      "gloss": "mani aizsūtīt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Bet ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "klausīt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:30.126906724Z",
+  "model": "glm-5.3"
+}

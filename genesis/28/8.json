@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikla; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "acīs",
+      "rationale": "בעיני — idiomā 'kāda acīs' = viņa vērtējumā; saglabāts burtiski."
+    }
+  ],
+  "translation": "Un Ēsavs redzēja, ka Kenaana meitas ir ļaunas Jichaka, viņa tēva, acīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/28\/5-8.1792512141082.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un redzēja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ēsavs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ir ļaunas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:21.084135636Z",
+  "model": "glm-5.3"
+}

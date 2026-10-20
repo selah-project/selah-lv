@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikla 'jūsu spēks IR izsīcis'; latviešu valodai vajadzīgs darbības vārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתן \/ יתן",
+      "rationale": "Atkārtota sakne 'dot' divreiz: zeme 'nedod' ražu un koks 'nedod' augli — paralelisms, lv saglabāts ar atkārtotu 'dos\/nedos'."
+    }
+  ],
+  "translation": "Un jūsu spēks izsīks veltīgi, un jūsu zeme nedos ⟨את⟩ savu ražu, un zemes koki nedos savu augli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/17-20.1792515232530.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Un izsīks"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "veltīgi"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "jūsu spēks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nedos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedos"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jūsu zeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu ražu"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "savu ražu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "un koki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedos"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "savu augli"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:52.532810778Z",
+  "model": "glm-5.3"
+}

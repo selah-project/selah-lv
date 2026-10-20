@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; חפץ ir darbības vārds 'grib\/labprāt' bez izteikta predikāta objekta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק atstāts kā cedek, nevis 'taisnība' viena — viena sakne, vairākas nozīmes."
+    }
+  ],
+  "translation": "Jahve labprāt ⟨ir⟩ — Sava cedeka dēļ Viņš padara diženu Toru un cildina ⟨to⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/42\/21-24.1792522682734.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "labprāt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "Sava cedeka"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "padara diženu"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "un cildina"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:02.734674474Z",
+  "model": "glm-5.3"
+}

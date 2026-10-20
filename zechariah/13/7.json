@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 13:7",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Zoben, mosties",
+      "rationale": "Teksts uzrunā zobenu imperatīvā — reta personifikācijas uzruna."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמיתי",
+      "rationale": "'mans tuvinieks\/līdzīgais' — parādība, ko kristīgā tradīcija attiecina uz mesiju, bet panta konteksts ir Israēla gans."
+    },
+    {
+      "kind": "crux",
+      "subject": "הצערים",
+      "rationale": "'mazie\/nievotie' — no צער 'būt mazam'; daži lasa 'jaunie avis'."
+    }
+  ],
+  "translation": "Zoben, mosties pret manu ganu un pret vīru, manu tuvinieku, saka Jahve Cevaot: sit ⟨את⟩ gani, un avis tiks izkliedētas, un Es atgriezīšu Savu roku pār mazajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f6344f5284f3836e174fddcc56e802f23c2b1ce35aa0c761610ce0c9ed88c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/13\/5-8.1792526908592.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Zoben"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "manu ganu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "עמיתי",
+      "gloss": "manu tuvinieku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "הך",
+      "gloss": "sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gani"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "ותפוצין",
+      "gloss": "un tiks izkliedētas"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avis"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "un Es atgriezīšu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Savu roku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הצערים",
+      "gloss": "mazajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:28.593781240Z",
+  "model": "glm-5.3"
+}

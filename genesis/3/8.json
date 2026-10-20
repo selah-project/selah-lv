@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "לרוח היום — 'pie dienas ruah': ruah ir vējš\/elpa\/Gars vienā vārdā; parasti 'vēsumā', bet ruah tiek saglabāts."
+    },
+    {
+      "kind": "crux",
+      "subject": "staigāja",
+      "rationale": "מתהלך — gramatiski apraksta balsi ('balss staigāja') vai pašu Jahvu; tulkojumi dalās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaiga",
+      "rationale": "מפני — 'no vaiga\/sejas', eidioms 'no Jahves klātbūtnes'; saglabāts literālais 'vaigs'."
+    }
+  ],
+  "translation": "Un viņi dzirdēja ⟨את⟩ Jahves Elohim balsi, kas staigāja pa dārzu pie dienas ruah; un cilvēks un viņa sieva paslēpās no Jahves Elohim vaiga dārza koku vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/3\/5-8.1792511477132.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Un viņi dzirdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves Elohim balsi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "staigāja"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "pa dārzu"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pie ruah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "un paslēpās"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "un viņa sieva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no vaiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koku"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "dārza"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:17.134532916Z",
+  "model": "glm-5.3"
+}

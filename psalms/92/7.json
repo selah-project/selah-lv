@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "līdzīgs lopam",
+      "rationale": "בער — no lopa jēdziena 'barība, lops'; 'plankumains vīrs' zaudētu bildi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "šo",
+      "rationale": "זאת norāda uz iepriekšējā panta dziļajām domām, kuras muļķis nespēj saskatīt"
+    }
+  ],
+  "translation": "Vīrs, līdzīgs lopam, nezina, un muļķis nesaprot ⟨את⟩ šo:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/92\/5-8.1792528058960.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "בער",
+      "gloss": "līdzīgs lopam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "un muļķis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "saprot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:38.961844786Z",
+  "model": "glm-5.3"
+}

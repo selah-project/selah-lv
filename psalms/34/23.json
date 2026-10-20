@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele platōniskā nozīmē"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסים\/יאשמו",
+      "rationale": "psalma nobeiguma hīazms: kas meklē patvērumu Viņā — netiks pazudināti; atbalsо pret 22. panta sodu ļaunajiem"
+    }
+  ],
+  "translation": "Jahve izpērk savu kalpu dvēseles, un neviens no tiem, kas meklē patvērumu Viņā, netiks atzīts par vainīgu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/34\/21-23.1792527363751.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "izpērk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savu kalpu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "tiks atzīti par vainīgiem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "neviens no"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "kas meklē patvērumu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Viņā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:03.752344359Z",
+  "model": "glm-5.3"
+}

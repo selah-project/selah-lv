@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 39:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בבר",
+      "rationale": "בר 'labība\/atklāts lauks' — YLT 'field', KJV 'corn'; ņemts 'laukā'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלל\/יחלמו",
+      "rationale": "V.1 חול 'vārstīties' un v.4 חלם 'kļūt apaļam\/stipram' — tā pati sakne par topošiem mazuļiem."
+    }
+  ],
+  "translation": "Viņu mazuļi kļūst stipri, laukā tie aug lieli; tie aiziet un neatgriežas pie viņām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a321f3634137e22c94c33122f0a5ecf85a123750f89956644234070a1d94b66a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/39\/1-4.1792529581635.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחלמו",
+      "gloss": "kļūst stipri"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "Viņu mazuļi"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "aug lieli"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "laukā"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "aiziet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "atgriežas"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pie viņām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:01.636231275Z",
+  "model": "glm-5.3"
+}

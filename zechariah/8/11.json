@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būšu⟩",
+      "rationale": "Ivritā teikumā nav darbības vārda — tikai ‘es’ un ‘ne kā pirmās dienas’; latviešu valodai vajag kopulu."
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם",
+      "rationale": "Orākula formula נאם יהוה atgriezeniska kā ‘saka Jahve’ pēc D3."
+    }
+  ],
+  "translation": "Un tagad — ne kā iepriekšējās dienās ⟨būšu⟩ es šīs tautas atlikumam, saka Jahve Cevaot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/8\/9-12.1792526788608.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un-tagad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kā-dienās"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "iepriekšējās"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "atlikumam"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:28.619011469Z",
+  "model": "glm-5.3"
+}

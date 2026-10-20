@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju יש apzīmē esamību; latviski vajadzīgs saiklis ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ תתראו",
+      "rationale": "Radītāja atkārtojums: Jaakovs redzēja (ראה) — dēli skatās (נתראה) viens uz otru; tas pats darbības vārds"
+    },
+    {
+      "kind": "you",
+      "subject": "uz dēliem",
+      "rationale": "Jaakovs tieši uzrunā savus dēlus ar jautājumu"
+    }
+  ],
+  "translation": "Un Jaakovs redzēja, ka Micraimā ⟨ir⟩ labība, un Jaakovs sacīja saviem dēliem: kāpēc jūs skatāties viens uz otru?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/42\/1-4.1792512519420.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "un redzēja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "labība"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "saviem dēliem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "jūs skatāties"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:39.421002260Z",
+  "model": "glm-5.3"
+}

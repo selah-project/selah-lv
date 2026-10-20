@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלימו",
+      "rationale": "Nezīmē 'no viņa' (no Dieva) vai 'no sevis' (pašam gudrajam) — YLT un ASV šeit atšķiras."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלאל",
+      "rationale": "Forma הלאל — vai tā ir jautājuma הֲ + אל 'vai El', vai Shadai apzīmējums; šeit ņemts kā 'vai El'."
+    }
+  ],
+  "translation": "Vai vīrs dod peļņu Elam, vai gudrajam ir peļņa no ⟨sevis⟩?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/1-4.1792529341052.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "vai Elam"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "dod peļņu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ir peļņa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gudrais"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:01.053202457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מדחה",
+      "rationale": "מִדְחֶה parādās tikai šeit Tanahā; no saknes 'atgrūst', tulkots 'sagrāve'."
+    },
+    {
+      "kind": "crux",
+      "subject": "דכיו",
+      "rationale": "'Savus samiestos' — vai mēle ienīst tos, kurus tā ir samīdījusi (KJV\/JPS), vai pašu patiesību\/samiesto (Wycliffe); izvēlēts pirmais."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩, ko tā",
+      "rationale": "Ivrita דכיו ir viens vārds 'tās-samiedrie'; latviski izvērsts ar iekavās atzīmētu pievienojumu."
+    }
+  ],
+  "translation": "Melojoša mēle ienīst ⟨tos⟩, ko tā samin, un gluda mute rada sagrāvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f40558369f50c57f53234ce268b1a035fa5ddefc48d14095366df8e43ed5d923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/26\/25-28.1792528870727.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "mēle"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melojoša"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ienīst"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "⟨tos⟩, ko tā samin"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "un mute"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gluda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "rada"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "sagrāvi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:10.728685125Z",
+  "model": "glm-5.3"
+}

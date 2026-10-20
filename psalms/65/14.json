@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "כר vai nu 'jēri\/avi' (YLT 'clothed have lambs the flock'), vai 'ganības' (KJV 'pastures are clothed with flocks'); izvēlēts 'avju bari'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבשו\/יעטפו",
+      "rationale": "divi apģērbšanās darbības vārdi pēc kārtas — 'apguļas' un 'ietinas' — metaforiskā virkne par zemes plaukšanu."
+    }
+  ],
+  "translation": "Apguļas avju bari, un ielejas ietinas labībā; tie gavilē, jā, tie dzied.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/65\/13-14.1792527723558.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "apguļas"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "avju bari"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avis un kazas"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "un ielejas"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "ietinas"
+    },
+    {
+      "surface": "בר",
+      "gloss": "labībā"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "gavilē"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jā"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "dzied"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:03.559668561Z",
+  "model": "glm-5.3"
+}

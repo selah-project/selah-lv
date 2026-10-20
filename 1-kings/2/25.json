@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nogalināja",
+      "rationale": "ויפגע būtībā 'triecās viņam virsū'; latviski darbības vārds izsaka iznākumu, ne trāpījumu."
+    }
+  ],
+  "translation": "Un ķēniņš Šelomo nosūtīja ar Benajahu, Jehojadas dēla, roku, un tas viņu nogalināja, un viņš nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5214810363284f83c04fc9d0eeb1a94acc59dcea7eb9e9ae870a4c5ba566b38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/25-28.1792520393262.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nosūtīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ar... roku"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "nogalināja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:53.262636520Z",
+  "model": "glm-5.3"
+}

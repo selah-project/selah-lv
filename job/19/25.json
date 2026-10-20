@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 19:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'dzīvs' un 'izpestītājs' savieno"
+    },
+    {
+      "kind": "crux",
+      "subject": "pēdējais pār putekļiem celsies",
+      "rationale": "Seno skaidrojumu strīds: vai celsies izpestītājs, vai pats Ijobs (JPS: 'viņš liecinās pēdējais pār putekļiem')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpestītājs",
+      "rationale": "גואל ir asins-radis, kas pēc radniecības likuma izpērk un aizstāv — 'izpestītājs' zaudē radniecības nozīmi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "vispants",
+      "rationale": "Ijobs apgalvo zinām ko slēptu un nākotnē redzamu — apzināti necaurredzams"
+    }
+  ],
+  "translation": "Bet es — es zināju: mans izpestītājs ⟨ir⟩ dzīvs, un pēdējais pār putekļiem celsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/19\/25-28.1792529250263.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Bet es"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zināju"
+    },
+    {
+      "surface": "גאלי",
+      "gloss": "mans izpestītājs"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "ואחרון",
+      "gloss": "un pēdējais"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekļiem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "celsies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:30.264637928Z",
+  "model": "glm-5.3"
+}

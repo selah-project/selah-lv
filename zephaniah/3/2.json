@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pamācība",
+      "rationale": "מוסר ir rājiens\/pēršana ar audzināšanas nozīmi; 'pamācība' ir pārāk maigs."
+    },
+    {
+      "kind": "addition",
+      "subject": "sava",
+      "rationale": "Ivriešu pievedējs suffikss -ה norāda 'viņas Elohim'; latviešu valodai vajadzīgs īpašnieka vietniekvārds."
+    }
+  ],
+  "translation": "Tā neklausīja balsij, nepieņēma pamācību, Jahvē nepaļāvās, pie sava Elohim nav tuvotojās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/3\/1-4.1792526669830.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "klausīja"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "pieņēma"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pamācību"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvē"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "paļāvās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "sava Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "tuvotojās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:29.831283446Z",
+  "model": "glm-5.3"
+}

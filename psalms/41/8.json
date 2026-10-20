@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלי ... עלי",
+      "rationale": "'pret mani' atkārtots divreiz pantes sākumā un vidū — iepleta struktūra, kas latviski saglabāta"
+    }
+  ],
+  "translation": "Kopā pret mani čukst visi, kas mani ienīst; pret mani tie izdomā ļaunu man.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/41\/5-8.1792527477460.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Kopā"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "čukst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kas mani ienīst"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "tie izdomā"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:57.462163951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמתלהמים",
+      "rationale": "Sacenstas nozīmes: no להמים 'laizīt\/kumosi' (ASV\/JPS 'dainty morsels') pret מהלומות 'brūces\/sitieni' (KJV 'wounds')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חדרי בטן",
+      "rationale": "Burtiski 'vēdera iekšējās istabas' — attēls par vārdiem, kas iesūcas pašos innermost."
+    }
+  ],
+  "translation": "Tenku vārdi ir kā gardi kumosi, un tie nonāk vēdera dziļumos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/18\/5-8.1792528714034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "tenku"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "kā gardi kumosi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "un tie"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nonāk"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "dziļumos"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "vēdera"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:34.035317278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישר",
+      "rationale": "Daži tulko lasa kā īpašības vārdu Dievam (\"Tu, Taisnais\"), citi kā apzīmētāju ceļam (\"taiss ceļš\")."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תפלס",
+      "rationale": "Darbības vārds פלס piel-formā Tanahā parādās tikai šeit."
+    }
+  ],
+  "translation": "Taisnīgajam ceļš ⟨ir⟩ taisnums; Taisnais izlīdzina taisnīgā taku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/5-8.1792522282937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "taisnīgajam"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "taisnums"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Taisnais"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "taka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnīgā"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "izlīdzina"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:22.938796689Z",
+  "model": "glm-5.3"
+}

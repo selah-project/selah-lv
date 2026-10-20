@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "Vai lasām kā 'מִנִּי' (no, no) — 'tie tevi iepriecināja no pilīm' — vai kā 'מְנִים' stīgu instrumenti, kas ķēniņu iepriecina (YLT\/ASV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שן",
+      "rationale": "Burtiski 'zobs'; šeit ziloņkauls — ilgoņkaula pils."
+    }
+  ],
+  "translation": "Mirres un ahālu koks un kasija — visi tavi apģērbi; no ziloņkaula pilīm stīgu instrumenti tevi iepriecināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/9-12.1792527577035.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mirres"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "un ahālu koks"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasija"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "tavi apģērbi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "pilīm"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ziloņkaula"
+    },
+    {
+      "surface": "מני",
+      "gloss": "stīgu instrumenti"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "tevi iepriecināja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:37.035863209Z",
+  "model": "glm-5.3"
+}

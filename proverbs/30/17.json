@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izknābs",
+      "rationale": "נקר burtiski 'izurbt\/izdurt' — acs izduršana, ne tikai knābāšana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "iekšējā rima",
+      "rationale": "תלעג\/תבוז un יקרוה\/יאכלוה — divi pāri līdzīgskanīgie darbības vārdi"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקרוה",
+      "rationale": "'izurbīs to' vs 'izknābs to' — kraukļu knābīšana ir attēls, vārds pats nozīmē urbt"
+    }
+  ],
+  "translation": "Acu, kas izsmej tēvu, un nicina mātes mācību, izknābs ielejas kraukļi, un ērgļa bērni to apēdīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/17-20.1792528942320.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "izsmej"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "nicina"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "mācību"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mātes"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "izknābs"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "kraukļi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ielejas"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "apēdīs"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "ērgļa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:22.321086507Z",
+  "model": "glm-5.3"
+}

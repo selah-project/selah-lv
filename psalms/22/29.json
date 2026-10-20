@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pieder",
+      "rationale": "Ebreju tekstā nav darbības vārda — ‘Jahvem ⟨ir⟩ valstība’; latviešu valodai vajag piederēšanas izteiksmi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "valdīt pār",
+      "rationale": "בגוים burtīgi ‘tautās’ — valdīšana notiek tautu vidū, nevis virs tām"
+    }
+  ],
+  "translation": "Jo Jahvem pieder valstība, un Viņš valda pār tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/29-32.1792527221149.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "valstība"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "un Viņš valda"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pār tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:41.149715505Z",
+  "model": "glm-5.3"
+}

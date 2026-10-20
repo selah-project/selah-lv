@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eņģelis",
+      "rationale": "מלאך burtiski 'vēstnesis'; 'eņģelis' ir tradicionāls, bet zaudē sākotnējo nozīmi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "netika aprijies",
+      "rationale": "אכל burtiski 'ēst' — krūms netiek 'apēsts' vai 'aprijies'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "degošais krūms",
+      "rationale": "brīnums, ko teksts piedāvā kā redzējumu, kas aicināms apskatīt — pats notikums ir apslēpts"
+    }
+  ],
+  "translation": "Un parādījās Jahve eņģelis viņam uguns liesmā no ērkšķu krūma vidus; un viņš skatījās, un lūk, ērkšķu krūms dega ugunī, bet ērkšķu krūms netika aprijies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/3\/1-4.1792512692607.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un parādījās"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "eņģelis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "uguns liesmā"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ērkšķu krūma"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un viņš skatījās"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ērkšķu krūms"
+    },
+    {
+      "surface": "בער",
+      "gloss": "dega"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "bet ērkšķu krūms"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "netika"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aprijies"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:32.608690998Z",
+  "model": "glm-5.3"
+}

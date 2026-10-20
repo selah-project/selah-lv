@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai trūkst saikļa; latviešu valodai vajag 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרש",
+      "rationale": "'kur' — חָרַשׁ ir 'ar (kā pluca zemi) ierīkot'; latviešu 'kūdīt ļaunu' atbilst attēlam"
+    },
+    {
+      "kind": "alternative",
+      "subject": "izdomā ļaunu",
+      "rationale": "חרש kā 'klusi plāno' ir otra iespējamā lasījuma puse"
+    }
+  ],
+  "translation": "apgrieztība ⟨ir⟩ viņa sirdī, ļaunu viņš kur no visas reizes, ķildas viņš izsūta",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "338fb5966275f100afab75125c5f7f6a09d557dced00fefb7507f391693bf6cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/6\/13-16.1792528584245.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "apgrieztība"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "viņa sirdī"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "viņš kur"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no visas"
+    },
+    {
+      "surface": "עת",
+      "gloss": "reizes"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ķildas"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "viņš izsūta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:24.246231831Z",
+  "model": "glm-5.3"
+}

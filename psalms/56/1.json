@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jonat-elem-rehokim",
+      "rationale": "Uzskats: «klusā balodis tālu» — dziesmas nosaukums vai melodijas zīme; atstāts pārlikts pēc skanējuma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יונת אלם רחקים",
+      "rationale": "Iespējama mājiena uz Davids kā kluso balodi tālu no mājām; tulkojumā zudis."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "Skaidro kā «iegravējums» vai «zelta dzejolis»; atstāts kā miktam."
+    }
+  ],
+  "translation": "Koram vadītājam, pēc «Jonat-elem-rehokim», Davida miktam, kad filistieši notvēra ⟨את⟩ viņu ⟨vārdā⟩ Gatā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/56\/1-4.1792527710082.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koram vadītājam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "«Jonat»"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "-elem-"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "-rehokim»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "kad notvēra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu (Davids)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistieši"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:50.082978873Z",
+  "model": "glm-5.3"
+}

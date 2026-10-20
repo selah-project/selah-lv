@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumā nav darbības vārda 'būt'; latviešu valodai tas pievienots iekavās."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kir homah",
+      "rationale": "Atkārtots 'mūra siena' divreiz pēc kārtas — Rahabas nama novietojuma uzsvars."
+    }
+  ],
+  "translation": "Un viņa nolaida viņus pa virvi pa logu, jo viņas nams ⟨bija⟩ pie mūra sienas, un pie mūra sienas viņa dzīvoja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/2\/13-16.1792517570500.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Un viņa nolaida viņus"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "pa virvi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "logu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "viņas nams"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "pie mūra"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "sienas"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "un pie mūra sienas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "dzīvoja"
+    }
+  ],
+  "timestamp": "2026-10-20T17:32:50.501888047Z",
+  "model": "glm-5.3"
+}

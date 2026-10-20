@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajag saikli; ebreju הוא ir uzsvērums 'tur ir (abi)'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "'Tur viņš (ir)' — attiecas gan uz mazo, gan lielo: vienādi; daži lasa 'tāds pats'."
+    }
+  ],
+  "translation": "Mazs tur ⟨ir⟩ vienāds ar lielu, un vergs ⟨ir⟩ brīvs no sava kunga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/3\/17-20.1792528969322.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "mazs"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩ vienāds"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "un vergs"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "brīvs"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "no sava kunga"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:49.323414457Z",
+  "model": "glm-5.3"
+}

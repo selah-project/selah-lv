@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מזמור",
+      "rationale": "Instrumentālai mūzikai uzstādīts dzejolis; latviski nav viena vārda, saglabāts skanējuma vārds 'miz-mors'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju virsrakstā nav darbības vārda; latviski vajag ⟨ir⟩"
+    }
+  ],
+  "translation": "Dziesma, miz-mors ⟨ir⟩ no Davida.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/108\/1-4.1792528212151.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dziesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miz-mors"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "no Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:12.152226783Z",
+  "model": "glm-5.3"
+}

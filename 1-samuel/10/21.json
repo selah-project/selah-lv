@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izlozēta",
+      "rationale": "לכד šeit ir lozes izvēle (kā tīklā sagūstīt), radītais latviešu vārds apzīmē izvēli ar lozi, kā prasa konteksts"
+    },
+    {
+      "kind": "measurement",
+      "subject": "izlozēšana",
+      "rationale": "pants apraksta lozes vilkšanu pa ciltīm un ģimenēm — skaitīšanu un izvēli pakāpeniski"
+    }
+  ],
+  "translation": "Un viņš piesaistināja ⟨את⟩ Benjamina cilti pēc tās ģimenēm, un tika izlozēta Matri ģimene, un tika izlozēts Šauls, Kiša dēls; un viņi meklēja viņu, bet viņš netika atrasts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/10\/21-24.1792518971811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "piesaistināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamina cilti"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cilti"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "pēc tās ģimenēm"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "un tika izlozēta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ģimene"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "un tika izlozēts"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiša"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "un viņi meklēja viņu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "netika atrasts"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:11.811957149Z",
+  "model": "glm-5.3"
+}

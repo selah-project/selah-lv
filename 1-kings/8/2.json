@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Darbības vārds 'ir' pie 'tas — septītais mēnesis' latviešu valodā vajadzīgs, ebreju teksts to izlaiž."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mēnesis Etanim, septītais",
+      "rationale": "Laika norāde — mēneša nosaukums un tā kārtas skaitlis."
+    }
+  ],
+  "translation": "Un pulcējās pie ķēniņa Šelomo visi Jisraēla vīri mēnesī Etanim, svētkos — tas ⟨ir⟩ septītais mēnesis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/1-4.1792520515349.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Un pulcējās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "svētkos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mēnesis"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītais"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:55.350327029Z",
+  "model": "glm-5.3"
+}

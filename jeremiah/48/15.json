@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 48:15",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ ... ⟨ir⟩",
+      "rationale": "Latviešu kopula, kuras ebreju valodā nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלה",
+      "rationale": "'uzkāpa(tājs)' — ienaidnieks uzkāpis pilsētās, vai Moabs aizbēdzis no tām; latviski 'ieņemtas' seko kontekstam."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבחר \/ בחוריו",
+      "rationale": "Viena sakne בחר — 'izredzētais' un 'jaunekļi' skan vienādi, paradās blakus."
+    }
+  ],
+  "translation": "Izlaupīts Moabs, un tā pilsētas ⟨ir⟩ ieņemtas, un tā izredzētie jaunekļi nokāpa kaušanai — saka ķēniņš, Jahve Cevaot ⟨ir⟩ Viņa vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/48\/13-16.1792524395317.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Izlaupīts"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "un tā pilsētas"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ieņemtas"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "un izredzētie"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "jaunekļi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nokāpa"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kaušanai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņa vārds"
+    }
+  ],
+  "timestamp": "2026-10-20T19:26:35.318406056Z",
+  "model": "glm-5.3"
+}

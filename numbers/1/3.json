@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vecuma",
+      "rationale": "Ebreju 'no dēla divdesmit gadu' prasa latviešu 'vecuma' pareizai izteiksmei."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Skaitīšanas vecuma slieksnis: no divdesmit gadiem un augstāk, karaspēka vīru ierakstīšana."
+    },
+    {
+      "kind": "you",
+      "subject": "tu un Aharons",
+      "rationale": "Tieša uzruna Mošem un Aharonam kopīgam uzdevumam."
+    }
+  ],
+  "translation": "No divdesmit gadu vecuma un augstāk, ikviens, kas iziet karaspēkā Jisraēlā, ieskaitiet ⟨את⟩ viņus pēc to karaspēkiem — tu un Aharons.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee1b0a46ed97504229ea64d7339b27e2aed820c8247d190d7536c5097fd5034f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/2-3.1792532492866.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "No ... vecuma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un augstāk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēkā"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ieskaitiet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pēc to karaspēkiem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "un Aharons"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:32.867564122Z",
+  "model": "glm-5.3"
+}

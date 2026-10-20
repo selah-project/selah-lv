@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק transliterēts kā 'cedek', nevis tulkots ar vienu vārdu 'taisnība', pēc D2 noteikuma."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Psalma noslēguma uzslavas izteikums — runātājs vēršas pie Jahve arī vārda došanu, liturģiska pateicības forma."
+    }
+  ],
+  "translation": "Es pateikšos Jahve Viņa cedek dēļ un dziedāšu ⟨par⟩ Augstā Jahve vārdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/7\/17-18.1792527000042.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Es pateikšos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "Viņa cedek dēļ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "un dziedāšu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Augstā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:00.043883620Z",
+  "model": "glm-5.3"
+}

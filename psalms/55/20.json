@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pazemos",
+      "rationale": "ויענם no ענה — atbildēs vai apspiedīs; konteksts prasa pazemošanu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין חליפות למו",
+      "rationale": "'nav viņiem pārmaiņu' — vai nu dievbijības, vai likteņa; tulkotāji dalīti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sēž no senatnes",
+      "rationale": "יושב קדם — tronis no mūžības, iespējams arī apdzīvoja austrumus; divskaidrība"
+    }
+  ],
+  "translation": "El dzirdēs un viņus pazemos, un ⟨tas, kas⟩ sēž no senatnes. Selah. Tādi, kam nav pārmaiņu, un tie nebīstas Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/17-20.1792527688689.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "dzirdēs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "un viņus pazemos"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un sēž"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "no senatnes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨tas, kas⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "pārmaiņu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bīstas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:28.691003745Z",
+  "model": "glm-5.3"
+}

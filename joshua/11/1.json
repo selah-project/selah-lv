@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ziņu",
+      "rationale": "Latviešu valodai vajadzīgs objekts 'nosūtīja ⟨ziņu⟩'; ebreju textā שלח bez objekta"
+    },
+    {
+      "kind": "elision",
+      "subject": "כשמע",
+      "rationale": "Ebreju 'kad-dzirdēja' nesaka, ko Javins dzirdēja; konteksts (10:43) to pieved"
+    }
+  ],
+  "translation": "Un notika, kad Javins, Hacoras ķēniņš, dzirdēja, viņš nosūtīja ⟨ziņu⟩ pie Jovava, Madonas ķēniņa, un pie Šimronas ķēniņa, un pie Akšafas ķēniņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/11\/1-4.1792517812943.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad dzirdēja"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Javins"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacoras"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "viņš nosūtīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovava"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Madonas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šimronas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akšafas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:36:52.943712613Z",
+  "model": "glm-5.3"
+}

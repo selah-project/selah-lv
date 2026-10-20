@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Jahves muti",
+      "rationale": "פִּי יְהוָה — 'Jahves mute' nozīmē 'jautāt Jahvem padomu'; glabāts burtiski, jo 'mute' ir paņēmiens, kā tiek dots orākuls"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ēdiens",
+      "rationale": "מִצֵּידָם — burtiski 'no viņu medījuma\/ceļa provianta'; 'ēdiens' ir sašaurinājums"
+    }
+  ],
+  "translation": "Un vīri paņēma no viņu ēdiena, bet ⟨את⟩ Jahves muti viņi nejautāja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c7a9162394f9b6a21c707027fffc063d7e5381ea020ea3a59762525026689c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/9\/13-14.1792532532367.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "paņēma"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "no viņu ēdiena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves muti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "jautāja"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:12.368209731Z",
+  "model": "glm-5.3"
+}

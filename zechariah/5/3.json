@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 5:3",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa."
+    },
+    {
+      "kind": "crux",
+      "subject": "נקה",
+      "rationale": "Burtiski 'tiks attīrīts \/ paliks nesods': vai nu 'iznīcināts pēc tā' (KJV\/JPS), vai 'attaisnots pēc tās otras puses' (YLT) — rituļa divas puses diviem grēkiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lāsts",
+      "rationale": "האלה ir imprecija — lāsts kā fizisks spēks, kas 'iziet' un staigā."
+    }
+  ],
+  "translation": "Un viņš sacīja man: Šī ⟨ir⟩ lāsts, kas iziet pār visas zemes virsmu, jo ikviens zaglis tiks iznīcināts, kā tas, un ikviens, kas zvēr, tiks iznīcināts, kā tas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf4668ac83d70dcaa48aad5b26ecfdeec039a3ac87d17d8ce89d8cad4b30b75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/5\/1-4.1792526807126.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Šī"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lāsts"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "izietošais"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "zaglis"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "no šī"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "kā tas"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "tiks iznīcināts"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un ikviens"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kas zvēr"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "no šī"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "kā tas"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "tiks iznīcināts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:47.128286839Z",
+  "model": "glm-5.3"
+}

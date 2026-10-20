@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai trūkst saikļa; latviešu teikumam vajag ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "pārmet",
+      "rationale": "מוכיח var nozīmēt arī 'izlemj taisnīgi' (JPS) pret 'pārmet pienākumu' (KJV)."
+    }
+  ],
+  "translation": "Bet tiem, kas pārmet, ⟨ir⟩ patīkami, un pār tiem nāks laba svētība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aa910965656cf62a28bd6d01c5aa3711daf4ebf69ddea540827e525aa64bee3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/24\/25-28.1792528845178.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "tiem, kas pārmet"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "patīkami"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "un pār tiem"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "svētība"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "laba"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:45.178856270Z",
+  "model": "glm-5.3"
+}

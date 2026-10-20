@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikles; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēla kopienai",
+      "rationale": "Pavēle daudzskaitlī vērsta pie visas kopienas."
+    }
+  ],
+  "translation": "⟨את⟩ Manus šabatus turēsiet un manu svētumu bīsieties: es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/29-32.1792515066312.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manus šabatus"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Manus šabatus"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "turēsiet"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "un manu svētumu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bīsieties"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:06.314528380Z",
+  "model": "glm-5.3"
+}

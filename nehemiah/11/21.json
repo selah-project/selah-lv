@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "crux",
+      "subject": "netīnieši",
+      "rationale": "Netinim: tempļa kalpi vai 'dotie'; daži tulko 'piederīgie kalpi'"
+    }
+  ],
+  "translation": "Un netīnieši dzīvoja Ofelā, un Ciha un Gišpa ⟨bija⟩ pār netīniešiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "07948434fdee8900079e18a603fce29ac57c807416e6f313742fce0c3b5283e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/11\/21-24.1792530857354.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "un netīnieši"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "Ofelā"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "un Ciha"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "un Gišpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "netīniešiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:17.355220080Z",
+  "model": "glm-5.3"
+}

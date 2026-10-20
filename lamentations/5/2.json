@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebraju teikumā nav darbības vārda otrajā daļā; latviski jāpievieno saikle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים\/נכרים",
+      "rationale": "divi dažādi vārdi 'svešinieks', latviski atspoguļoti kā 'svešinieki\/ārzemnieki', lai saglabātu atšķirību"
+    }
+  ],
+  "translation": "Mūsu mantojums ⟨ir⟩ pārvērsts svešiniekiem, mūsu nami ārzemniekiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/5\/1-4.1792529836414.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Mūsu mantojums"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "pārvērsts"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "svešiniekiem"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "mūsu nami"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ārzemniekiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:16.415593510Z",
+  "model": "glm-5.3"
+}

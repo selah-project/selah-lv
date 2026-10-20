@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 1:32",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gan",
+      "rationale": "Latviešu valoda pieprasa domuzīmi\/starpvārdu, ebreju valodā saliktais ģenitīvs pietiek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבן עשרים שנה",
+      "rationale": "Burtiski “no divdesmit gadu dēla”"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ieskaite",
+      "rationale": "Efraima karaspēka ieskaites formula: no 20 gadiem, vārdu skaitā"
+    }
+  ],
+  "translation": "No Jāzepa dēliem, no Efraima dēliem — viņu paaudzes pēc viņu dzimtām, pēc viņu tēvu namiem, skaita vārdos, no divdesmit gadu vecuma un augšāk, ikviens, kas iziet karaspēkā:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dcd183f9aadd9828ff5268ea4ca299cc0beda65074aa3b1e62aec81f53e4b3ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/29-32.1792515291564.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "no dēliem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jāzepa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "no dēliem"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "viņu paaudzes"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pēc nama"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "skaita"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "vārdos"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "no dēla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un augšāk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēkā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:51.565400855Z",
+  "model": "glm-5.3"
+}

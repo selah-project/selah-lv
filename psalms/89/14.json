@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; trīs izteikumi ir bezdarbības teikumi ar priedēkli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "roka",
+      "rationale": "זרוע ir 'izstieptā roka\/elibowa' — latviski viens vārds 'roka' abiem: זרוע un יד"
+    }
+  ],
+  "translation": "Tev ⟨ir⟩ roka ar varenību; stipra ⟨ir⟩ Tava roka, pacelta ⟨ir⟩ Tava labā roka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/13-16.1792528019811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "זרowע",
+      "gloss": "roka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "varenību"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Tava roka"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "pacelta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Tava labā roka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:59.811966747Z",
+  "model": "glm-5.3"
+}

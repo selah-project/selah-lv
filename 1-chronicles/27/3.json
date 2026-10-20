@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš ir",
+      "rationale": "Ebreju valoda apraksta Jašobēamu bez vietniekvārda un saikļa; latviešu valodai tie jāpievieno"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הראש לכל שרי הצבאות",
+      "rationale": "Var lasīt arī kā 'galva pār visiem karaspēku pavēlniekiem', nevis 'visu pavēlnieku galvenais'"
+    }
+  ],
+  "translation": "No Peresa dēliem, ⟨viņš⟩ ⟨ir⟩ galva visiem karaspēku pavēlniekiem pirmajam mēnesim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/27\/1-4.1792531619946.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "No"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peresa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pavēlniekiem"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "karaspēku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesim"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:26:59.948008933Z",
+  "model": "glm-5.3"
+}

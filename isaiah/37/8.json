@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ravšake",
+      "rationale": "רב שקה ir viens tituls, kas sadalīts divos tokenos; glosā atkārtots pilnais vārds."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Ebreju teikumā nav subjekta 'ka ir aizceļojis'; latviešu valodai vajadzīgs ⟨tas⟩ priekšmeta ķēniņa norādīšanai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aizceļojis",
+      "rationale": "נסע burtiski 'izraustīt mietus, doties ceļā (nometni ceļot)'; tulkots kā ceļošanas darbība."
+    }
+  ],
+  "translation": "Un Ravšake atgriezās un atrada ⟨את⟩ Asīrijas ķēniņu karojam pret Libnu, jo viņš bija dzirdējis, ka ⟨tas⟩ ir aizceļojis no Lakišas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/37\/5-8.1792522558375.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un atgriezās"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ravšake"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravšake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "un atrada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asīrijas ķēniņu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asīrijas"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "karojam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "viņš bija dzirdējis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "aizceļojis"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "no Lakišas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:58.376942580Z",
+  "model": "glm-5.3"
+}

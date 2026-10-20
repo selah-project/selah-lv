@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשון",
+      "rationale": "Kas ir 'pirmais': 'Es esmu pirmais, kas saka Cionam' (KJV\/ASV) pret 'Pirmo vēstījumu Cionam' (JPS) — teikuma struktūra neskaidra."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "הנם burtiski 'lūk, tie' — koproula 'ir' pievienota latviešu valodai."
+    }
+  ],
+  "translation": "Pirmo — Cionam: Lūk, tie ir! Un Jerušalaimai vēstnesi Es došu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/41\/25-28.1792522662504.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Pirmo"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Cionam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "tie ir"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "Un Jerušalaimai"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "vestnesi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Es došu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:42.505330799Z",
+  "model": "glm-5.3"
+}

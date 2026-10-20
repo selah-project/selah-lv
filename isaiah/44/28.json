@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 44:28",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš ir⟩",
+      "rationale": "ebreju tekstā tikai noslēguma konstruktors 'mans gans'; latviešu teikumā vajadzīga saite"
+    },
+    {
+      "kind": "crux",
+      "subject": "Korešs",
+      "rationale": "vienīgā vieta Tanahā, kur ārzemju ķēniņš tiek saukts par 'manu ganu'; slavenā pieņēmuma vieta par pravietojuma laiku"
+    }
+  ],
+  "translation": "kas saka par Korešu: ⟨viņš ir⟩ mans gans, un visu manu gribu viņš izpildīs; un kas saka par Jerušalaimu: tā tiks uzcelta, un templim: pamati tiks likti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/44\/25-28.1792522769176.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "kas saka"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "par Korešu"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mans gans"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "manu gribu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "izpildīs"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "un saka"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "par Jerušalaimu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tiks uzcelta"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "un templim"
+    },
+    {
+      "surface": "תוסד",
+      "gloss": "pamati tiks likti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:29.177721136Z",
+  "model": "glm-5.3"
+}

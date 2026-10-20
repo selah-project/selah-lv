@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחך",
+      "rationale": "כח: 'tavs spēks' (ASV, JPS) pret 'tavs īpašums' (KJV 'wealth') — izvēlēts burtiskais 'spēks'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועצביך",
+      "rationale": "עצב: 'tavi pūliņi' (darbs) — vārds var nozīmēt arī 'sāpes' vai 'māla trauks'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים\/נכרי",
+      "rationale": "Divi vārdi 'svešs' vienā pantā par vienu un to pašu — atkārtojums, kas latviski daļēi saglabāts ar 'svešinieki\/svešinieka'."
+    }
+  ],
+  "translation": "lai svešinieki nepiepilda ⟨את⟩ savu vēderu ar tavu spēku un tavi pūliņi ⟨nebūtu⟩ svešinieka namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/9-12.1792528536409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nepiepilda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svešinieki"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "savu vēderu ar tavu spēku"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "un tavi pūliņi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨nebūtu⟩ namā"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "svešinieka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:36.410307436Z",
+  "model": "glm-5.3"
+}

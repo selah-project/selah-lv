@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 7:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbības vārds; ebreju tekstā tā nav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Eben-Haezers",
+      "rationale": "Akmeņa vārds אבן העזר ('palīdzības akmens') sasaucas ar עזרנו 'mums palīdzēja' — vārdu spēle latviešu valodā daļēi saglabāta."
+    }
+  ],
+  "translation": "Un Šemuelis paņēma vienu akmeni un nolika to starp Micpu un starp Šenu, un nosauca ⟨את⟩ tā vārdu — Eben-Haezers — un sacīja: Līdz šejienei Jahve mums palīdzējis ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/7\/9-12.1792518845176.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "paņēma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelis"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "akmeni"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nolika to"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "השן",
+      "gloss": "Šenu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tā vārdu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tā vārdu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Haezers"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Līdz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "šejienei"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "mums palīdzējis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:05.178266786Z",
+  "model": "glm-5.3"
+}

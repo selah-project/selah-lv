@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tur",
+      "rationale": "Vietu norādošs apstārkļa vietniekvārds pie 'nebūs nekā', ebreju valodā izteikts tikai ar ואין."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחרף",
+      "rationale": "'Ziema\/augums sezona' — 'aujuma dēļ' vai 'ziemas aukstuma dēļ' (KJV 'aukstums')."
+    }
+  ],
+  "translation": "Ziemas dēļ slinkais nearaus; ražas laikā viņš lūgs, un ⟨tur⟩ nebūs nekā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/20\/1-4.1792528794086.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ziemas dēļ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "slinkais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "araus"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "lūgs"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ražas laikā"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nebūs nekā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:54.087913841Z",
+  "model": "glm-5.3"
+}

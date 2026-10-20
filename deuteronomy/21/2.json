@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨attālumu⟩",
+      "rationale": "ivrit saka tikai 'izmērīs uz pilsētām'; latviešu valodai vajadzīgs mērāmais lielums."
+    },
+    {
+      "kind": "measurement",
+      "subject": "izmērīs līdz pilsētām",
+      "rationale": "formāla distancešanas mērīšana — pantu pāra struktūrālais kodols."
+    }
+  ],
+  "translation": "tad izies tavi vecākie un tavi soģi un izmērīs ⟨attālumu⟩ līdz pilsētām, kas ir ap nokauto.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/1-4.1792517088237.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "tad izies"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "tavi vecākie"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "un tavi soģi"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "un izmērīs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ir apkārt"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "nokautajam"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:48.239030420Z",
+  "model": "glm-5.3"
+}

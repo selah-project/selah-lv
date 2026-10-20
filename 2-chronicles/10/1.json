@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "par ķēniņu",
+      "rationale": "Latviešu valodai vajag predikātu, ebreju darbības vārds להמליך nozīmē 'celt ķēniņā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכם",
+      "rationale": "Vietas vārds atkārtots divreiz — virknes stils, latviski saglabāts"
+    }
+  ],
+  "translation": "Un gāja Rahabeāms uz Šekēmu, jo uz Šekēmu bija atnācis viss Jisraēls, lai ⟨את⟩ viņu iceltu par ķēniņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/10\/1-4.1792531879140.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Un gāja"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahabeāms"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "uz Šekēmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekēmā"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bija atnācis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "lai iceltu par ķēniņu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu — Rahabeāmu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:31:19.141435876Z",
+  "model": "glm-5.3"
+}

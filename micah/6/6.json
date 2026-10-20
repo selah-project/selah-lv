@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "augstupiedegumi",
+      "rationale": "עולות — kas uziet pilnīgi dedzināmā upurī; latviešu tradīcijas vārds"
+    },
+    {
+      "kind": "literal-shape",
+      "subject": "vienu gadu veciem teļiem",
+      "rationale": "'teļiem, viena gada bērniem' — בני שנה burtiski 'gada dēli'; skaitļa precizitāte saglabāta"
+    }
+  ],
+  "translation": "Ar ko lai es nāktu Jahves priekšā, lai locītos augstā Elohim priekšā? Vai lai es nāktu Viņa priekšā ar augstupiedegumiem, ar teļiem, viena gada bērniem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc496f949c71ee693c20fa9167001a0e4d13552e18c0a3a5077de089ee6d3871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/6\/5-8.1792526451646.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ar ko"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "nāktu priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "locītos"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "augstā"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "nāktu Viņa priekšā"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "ar augstupiedegumiem"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "ar teļiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "viena gada"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:51.648061681Z",
+  "model": "glm-5.3"
+}

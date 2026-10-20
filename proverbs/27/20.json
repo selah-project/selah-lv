@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iznīcība",
+      "rationale": "אבדה (Abadona) — 'iznīcības vieta'; latviski bez vārdiskās formas 'Abadona'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא תשבענה...לא תשבענה",
+      "rationale": "pilnīgs atkārtojums abās panta pusēs — zaudējums neizsīkst, acis neizsīkst."
+    }
+  ],
+  "translation": "Šeols un iznīcība nesātinās, un cilvēka acis nesātinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/17-20.1792528893134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Šeols"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "un iznīcība"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "sātinās"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "un acis"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "sātinās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:33.135327725Z",
+  "model": "glm-5.3"
+}

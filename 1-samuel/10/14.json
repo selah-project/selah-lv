@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tādu⟩",
+      "rationale": "אין teikumā nav subjekta; latviski vajadzīgs paskaidrojošs vārds"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saulam",
+      "rationale": "Tēvoča jautājums 'Kur jūs aizgājāt?' vērsts tieši pie Šaula un viņa jaunekļa"
+    }
+  ],
+  "translation": "Un Saula tēvocis sacīja viņam un viņa jauneklim: Kur jūs aizgājāt? Un viņš sacīja: Meklēt ⟨את⟩ ēzeļu mātes; un mēs redzējām, ka ⟨tādu⟩ nav, un mēs atnācām pie Šemuēla.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/10\/13-16.1792519008653.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "tēvocis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "viņa jauneklim"
+    },
+    {
+      "surface": "אן",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "jūs aizgājāt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "Meklēt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ēzeļu mātes"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "ēzeļu mātes"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "un mēs redzējām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "un mēs atnācām"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:48.653837004Z",
+  "model": "glm-5.3"
+}

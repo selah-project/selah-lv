@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "ebreju valodā nav saikļa 'bija'; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "measurement",
+      "subject": " abus ķēniņus",
+      "rationale": "skaitlis — divi ķēniņi — paliek precīzi kā ebreju tekstā"
+    }
+  ],
+  "translation": "Un tie apņēma ⟨את⟩ viņa zemi un ⟨את⟩ Oga zemi, Bašanas ķēniņa, — abus amoriešu ķēniņus, kas ⟨bija⟩ aiz Jordānas, pretī saules lēktam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/4\/45-48.1792516671207.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Un tie apņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa zemi"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "viņa zemi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Oga zemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašanas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abus"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņus"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoriešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānas"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "pretī saules lēktam"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saules"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:51.210477690Z",
+  "model": "glm-5.3"
+}

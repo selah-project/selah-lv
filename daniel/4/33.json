@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 4:33",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Aramejiešu paaugstināmās pārejas forma pieprasa subjektu, kura ebreju teksts neizsaka vārdos"
+    },
+    {
+      "kind": "crux",
+      "subject": "וליקר מלכותי",
+      "rationale": "JPS sasaista 'godībai manas valstības' ar atgriešanos; arī lasāms 'un atgriežoties godībā manas valstības' — priekšstatījuma virziens nav viennozīmīgs"
+    },
+    {
+      "kind": "elision",
+      "subject": "ועל מלכותי התקנת",
+      "rationale": "'un par manu valstību es tiku nostiprināts' — Aramaic על priekšā apstiprinājumam latviski kļūst par 'par... valstībā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mans prāts",
+      "rationale": "מנדעי ir 'mana saprašana\/izpratne', lai ne zaudētu savienojumu ar 4:31 'mans prāts atgriezās' un 4:13 pravietojuma mēra vienību"
+    }
+  ],
+  "translation": "Tanī laikā mans prāts atgriezās pie manis, un godībai manas valstības mans diženums un mans spožums atgriezās pie manis, un mani padomdevēji un mani dižkungi meklēja mani, un manā valstībā ⟨es⟩ tiku nostiprināts, un pārspīdējoša varenība tika pievienota man.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7564fa2c0f8252ee7625f58b1cd57d6ea53fc572cef67d88e14e86db4ef7fba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/4\/33-34.1792530241318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "זמנא",
+      "gloss": "laikā"
+    },
+    {
+      "surface": "מנדעי",
+      "gloss": "mans prāts"
+    },
+    {
+      "surface": "יתוב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "וליקר",
+      "gloss": "un godībai"
+    },
+    {
+      "surface": "מלכותי",
+      "gloss": "manas valstības"
+    },
+    {
+      "surface": "הדרי",
+      "gloss": "mans diženums"
+    },
+    {
+      "surface": "וזוי",
+      "gloss": "un mans spožums"
+    },
+    {
+      "surface": "יתוב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "un pie manis"
+    },
+    {
+      "surface": "הדברי",
+      "gloss": "mani padomdevēji"
+    },
+    {
+      "surface": "ורברבני",
+      "gloss": "un mani dižkungi"
+    },
+    {
+      "surface": "יבעון",
+      "gloss": "meklēja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un par"
+    },
+    {
+      "surface": "מלכותי",
+      "gloss": "savu valstību"
+    },
+    {
+      "surface": "התקנת",
+      "gloss": "es tiku nostiprināts"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "un varenība pieauga"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "pārspīdējoša"
+    },
+    {
+      "surface": "הוספת",
+      "gloss": "tika pievienota"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T21:04:01.319126696Z",
+  "model": "glm-5.3"
+}

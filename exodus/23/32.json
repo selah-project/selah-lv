@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Burtiski 'griezt derību' — derības noslēgšana, ejot starp gabaliem."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Tiešs aizliegums izraēļiem — 'tu neslēgsi'."
+    }
+  ],
+  "translation": "Neslēgsi derību ne ar viņiem, ne ar viņu dieviem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/23\/29-32.1792513122730.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "slēgsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ar viņiem"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ne ar viņu dieviem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:42.732044063Z",
+  "model": "glm-5.3"
+}

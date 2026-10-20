@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידעו\/יבינו",
+      "rationale": "Zināšanas un saprašanas pars paralēlisms — divi darbības vārdi vienam domas pavedienam."
+    },
+    {
+      "kind": "alternative",
+      "subject": "šūpojas",
+      "rationale": "ימוטו nozīmē arī 'sagrīļosies' jeb 'kritīs' — pamati krīt, ne vien šūpojas."
+    }
+  ],
+  "translation": "Tie nezina un nesaprot, tumsā tie staigā; šūpojas visi zemes pamati.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/82\/5-8.1792527934346.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tie nezina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nesaprot"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "tumsā"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "tie staigā"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "šūpojas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "pamati"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:34.347386987Z",
+  "model": "glm-5.3"
+}

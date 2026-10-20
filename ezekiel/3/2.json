@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Ivrita īpašnieka konstrukcija ' manu pieprasa latviešu valodā īpašnieka vietniekvārdu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iedeva ēst",
+      "rationale": "Hifila 'והאכילני' — kauzitatīvs 'viņš lika man ēst \/ pabarāja mani ar'."
+    }
+  ],
+  "translation": "Un es atvēru ⟨את⟩ savu muti, un Viņš man iedeva ēst ⟨את⟩ šo rituli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/3\/1-4.1792524663666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Un es atvēru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu muti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muti"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "Viņš man iedeva ēst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo rituli"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rituli"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šo"
+    }
+  ],
+  "timestamp": "2026-10-20T19:31:03.667277803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 22:14",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משמעתך",
+      "rationale": "Rets vārds: 'tavā pavēlē\/tavā aprindā' — tulkots 'miesassardze' (BSB) vs 'tavā padomē' (ASV) vs 'tavā pavēlē' (JPS); jebkurā gadījumā skan visnotaļ dzirdīgs dienests."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Jautājumam latviešu valodā vajag kopulu, kur ebreju parataksē to izlaiž."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saulam",
+      "rationale": "Ahimeleha aizstāvība vērsta tieši pie ķēniņa, ar jautājuma formu."
+    }
+  ],
+  "translation": "Un atbildēja Ahimelehs ⟨את⟩ ķēniņu un sacīja: Un kas starp visiem taviem kalpiem ⟨ir⟩ kā Davids — uzticams, un ķēniņa znots, un griezies pie tavas miesassardzes, un godāts tavā namā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/22\/13-16.1792519378732.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Un atbildēja"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelehs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Un kas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "starpt visiem"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "taviem kalpiem"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kā Davids"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "uzticams"
+    },
+    {
+      "surface": "וחתן",
+      "gloss": "un znots"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "un griezies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משמעתך",
+      "gloss": "tavas miesassardzes"
+    },
+    {
+      "surface": "ונכבד",
+      "gloss": "un godāts"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "tavā namā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:58.733313421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אתי ir prievārds את ar personisku piedēkli — 'ar mani\/pie manis', nevis priekšmetu izrādītājs את H853."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kungs",
+      "rationale": "אדני šeit par cilvēku — par Jozefi; 'kungs' par cilvēku ir atļauts, Vārda vietā tas nenāk."
+    }
+  ],
+  "translation": "Un teica mums tas vīrs, zemes kungs: ar šo es pazīšu, ka jūs esat patiesi; vienu no saviem brāļiem atstājiet ⟨את⟩ ar mani, un ⟨את⟩ badu saviem namiem ņemiet un ejiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/42\/33-36.1792512504985.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un teica"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vīrs"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ar šo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "es pazīšu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "patiesi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs esat"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsu brāļu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "atstājiet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ar mani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "badu"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "badu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "saviem namiem"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ņemiet"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "un ejiet"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:24.986229615Z",
+  "model": "glm-5.3"
+}

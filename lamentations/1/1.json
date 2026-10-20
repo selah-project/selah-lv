@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איכה",
+      "rationale": "'Kā!' — ebreju sēru izsauciens (ekha), atkārtojas vēl 4 reizes nodaļā 1, tas ir visas grāmatas nosaukums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבתי … רבתי",
+      "rationale": "atkārtots 'daudz' — pilsēta bagāta ļaudīm un liela starp tautām, pretstats vienatnei un atraitnei"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "siekalas trūkst; latviešu valodai vajadzīgs predikāts 'kļuvusi'"
+    }
+  ],
+  "translation": "Kā sēž vienatnē ⟨pilsēta⟩, kas bagāta ļaudīm! Kļuvusi viņa kā atraitne, kas bija liela starp tautām, valdniece starp novadiem, kļuvusi par meslu maksātāju!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/1\/1-4.1792529785834.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "sēž"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "vienatnē"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "bagāta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudīm"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kļuvusi"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "kā atraitne"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "liela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "starp tautām"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "valdniece"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "starp novadiem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kļuvusi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "par meslu maksātāju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:25.834815641Z",
+  "model": "glm-5.3"
+}

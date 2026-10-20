@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשפט ... התשפוט",
+      "rationale": "Atkārtots jautājums divreiz pēc kārtas — retoriska pastiprināšana, saglabāta atkārtojumā."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Vai tu tiesāsi",
+      "rationale": "Var lasīt arī kā pavēli: 'Tiesā tos, tiesā' — jautājuma ה garums tomēr labāk atbalsta jautājumu."
+    }
+  ],
+  "translation": "Vai tu tiesāsi viņus, vai tu tiesāsi, cilvēka dēls? Liec viņiem zināt ⟨את⟩ viņu tēvu pretīgās lietas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/20\/1-4.1792525135695.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Vai tu tiesāsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņiem"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "vai tu tiesāsi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "cilvēka dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "..."
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu tēvu pretīgās lietas"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "pretīgās lietas"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Liec viņiem zināt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:38:55.696839796Z",
+  "model": "glm-5.3"
+}

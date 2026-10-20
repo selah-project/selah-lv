@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Taršiša kuģi",
+      "rationale": "Tiešs uzrunasaicinājums kuģiem kaucīt par izpostīto cietoksni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעזכן",
+      "rationale": "Burtiski 'jūsu stiprā pils \/ cietoknis'; daži tulkojumi sašaurina līdz 'osta'."
+    }
+  ],
+  "translation": "Kaudo, Taršiša kuģi, jo jūsu cietoknis ir izpostīts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/23\/13-16.1792522265326.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Kaudo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kuģi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ir izpostīts"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "jūsu cietoknis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:05.327398491Z",
+  "model": "glm-5.3"
+}

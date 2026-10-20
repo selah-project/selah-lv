@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 13:11",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šaulam",
+      "rationale": "Šemuēla tiešais jautājums 'Ko tu esi darījis?' vērsts pie Šaula"
+    },
+    {
+      "kind": "crux",
+      "subject": "למועד הימים",
+      "rationale": "'noteikto dienu laikā' pret 'dienu termiņā' — konstruētais lietojums var nozīmēt arī 'dienu ilguma laikā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izklīda",
+      "rationale": "נפץ nozīmē 'izsit drumstalās, izkaisīt' — vardarbīgāks tēls nekā vienkārša aiziešana"
+    }
+  ],
+  "translation": "Un Šemuēls sacīja: Ko tu esi darījis? Un Šauls sacīja: Tāpēc ka redzēju, ka tauta no manis izklīda, un tu nenāci noteikto dienu laikā, un filistieši sapulcējas Mihmašā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/13\/9-12.1792519032344.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēls"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu esi darījis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "redzēju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "izklīda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "un tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באת",
+      "gloss": "nāci"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "noteikto laiku"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "un filistieši"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "sapulcējas"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mihmašā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:57:12.345783933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'ir'"
+    }
+  ],
+  "translation": "Un filistieši sapulcēja ⟨את⟩ visas savas nometnes Afeqā, un Jisraēls nometojās pie avota, kas ⟨ir⟩ Jizreēlā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/29\/1-4.1792519545593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "sapulcēja"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistieši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas savas nometnes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "savas nometnes"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeqā"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēls"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nometojās"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pie avota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreēlā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:05:45.594416834Z",
+  "model": "glm-5.3"
+}

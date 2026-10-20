@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 12:8",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "היתה ir darbības vārds 'kļuva', bet latviešu teikumā pievienots ⟨ir⟩ kā saiklis."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נתנה בקולה",
+      "rationale": "Burtiski 'deva savu balsi' — idiomātiski 'iecēla\/dzd pret mani rūcienu'; tulkots 'pacēla balsi'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כאריה",
+      "rationale": "Daži lasa 'kā lauva mežā', citi (vokālis ארי) 'kā plankumainais' — atsaucoties uz 12:9 raibo putnu; izvēlēta lauva."
+    }
+  ],
+  "translation": "Mans mantojums man ⟨ir⟩ kā lauva mežā; viņa pacēla pret mani savu balsi — tāpēc es viņu ienīdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/5-8.1792523502861.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ir kļuvis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "Mans mantojums"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kā lauva"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "mežā"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "pacēla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "savu balsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "שנאתיה",
+      "gloss": "es viņu ienīdu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:42.863226559Z",
+  "model": "glm-5.3"
+}

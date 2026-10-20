@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraēla ķēniņam",
+      "rationale": "Jahve vārdi tieši uzrunā ķēniņu ar soda sentenci."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמי",
+      "rationale": "Hērems: 'manis lāstam nodots' pret 'vīru, ko es nozvērēju iznīcībai' — viens vārds, posts un lāsts vienā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzīvība",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne tikai 'dvēsele'; šeit par dzīvību kā maksājumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת ... תחת",
+      "rationale": "Atkārtotā 'vietā' piesaista paralēli: dvēsele par dvēseli, tauta par tautu — tiesas atmaksa mērs pret mēru."
+    }
+  ],
+  "translation": "Un viņš sacīja viņam: Tā saka Jahve: Tāpēc ka tu atlaidi no savas rokas ⟨את⟩ vīru, kas manis lāstam nodots, tad tava dzīvība būs viņa dzīvības vietā un tauta — viņa tautas vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/41-43.1792520938051.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Tāpēc ka"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "tu atlaidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vīru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "kas manis lāstam nodots"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no savas rokas"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "tad ⟨būs⟩"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tava dzīvība"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa dzīvība"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "un tauta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa tauta"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:58.052581295Z",
+  "model": "glm-5.3"
+}

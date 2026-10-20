@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav saikļa — 'manas acis uz uzticamajiem'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שרת",
+      "rationale": "Arī 'man kalpos' kā dievkalpojuma darbība; šeit ķēniņa galmā — kalpot, apkalpot"
+    }
+  ],
+  "translation": "Manas acis ⟨ir⟩ uz zemes uzticamajiem, lai tie dzīvotu manā pusē; kas staigā nevainojamā ceļā, tas man kalpos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/101\/5-8.1792528137988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "manas acis"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "uzticamajiem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "lai dzīvotu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "manā pusē"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kas staigā"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nevainojamā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "man kalpos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:57.989023276Z",
+  "model": "glm-5.3"
+}

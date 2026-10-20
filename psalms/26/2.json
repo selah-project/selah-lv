@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Turpināts tiešais lūgums Jahvei."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nieres",
+      "rationale": "כליה burtiski 'niere' — iekšējās domas sēdeklis; daudzi tulkojumi to mīkstina par 'prāts\/sirds'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתכתu tēls",
+      "rationale": "בחן, נסה, צרף visi trīs ir metālu kausēšanas pārbaudes darbības vārdi — viens tēls trīs verbiem."
+    }
+  ],
+  "translation": "Pārbaudi mani, Jahve, un kārdini mani, rafinē manas nieres un manu sirdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/26\/1-4.1792527316189.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Pārbaudi mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "un kārdini mani"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "rafinē"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "manas nieres"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "un manu sirdi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:15:16.190158453Z",
+  "model": "glm-5.3"
+}

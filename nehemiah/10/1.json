@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתים אמנה",
+      "rationale": "Burtiski 'griežam derību' — derības 'griešana' ebreju idiomā; latviski 'noslēgt derību'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, kura ebreju tekstā nav."
+    }
+  ],
+  "translation": "Un par visu šo mēs noslēdzam ⟨ir⟩ derību un rakstām to; un uz tās ⟨ir⟩ parakstījušies mūsu firstie, mūsu levīti, mūsu priesteri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/10\/1-4.1792530776124.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Un par visu šo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "noslēdzam"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "derību"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "un rakstām"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "tās parakstījušies"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "mūsu firstie"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "mūsu levīti"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "mūsu priesteri"
+    }
+  ],
+  "timestamp": "2026-10-20T21:12:56.125077379Z",
+  "model": "glm-5.3"
+}

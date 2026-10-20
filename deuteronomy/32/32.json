@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענבמו\/ענבי",
+      "rationale": "'Viņu vīnogas — vīnogas indes': atkārtojums vienā saknē uzsver rūgtumu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "indes",
+      "rationale": "רושׁ ir indīgs augs (iespējams magone); 'inde' vispārīgi, nevis 'zvērests' kā citas saknes lasījumā"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומשדמת",
+      "rationale": "שדמות 'tīrumi, dēstījumi' — rets vārds, šeit par Amoras novadiem"
+    }
+  ],
+  "translation": "Jo no Sedomas vīna stāda ir viņu vīna stādi un no Amoras tīrumiem; viņu vīnogas ir indes vīnogas, tiem rūgtu ķekaru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/32\/29-32.1792517459194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "no vīna stāda"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomas"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "viņu vīna stādi"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "un no tīrumiem"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoras"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "viņu vīnogas"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "vīnogas"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "indes"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "ķekaru"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "rūgtu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:59.196952895Z",
+  "model": "glm-5.3"
+}

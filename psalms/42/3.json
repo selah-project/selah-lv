@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "nefeš — elpa, dzīvības spēks"
+    },
+    {
+      "kind": "alternative",
+      "subject": "un redzēšu",
+      "rationale": "'era' var būt 'parādīšos' (Nifal) vai 'redzēšu' — kultiskā kontekstā 'parādīties Elohim vaiga priekšā'"
+    }
+  ],
+  "translation": "Manas dvēseles slāpē pēc Elohim, pēc dzīvā El — kad es nākšu un parādīšos Elohim vaiga priekšā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/42\/1-4.1792527508770.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "slāpē"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pēc Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "pēc El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvā"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "es nākšu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "un parādīšos"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaiga priekšā"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:28.771836158Z",
+  "model": "glm-5.3"
+}

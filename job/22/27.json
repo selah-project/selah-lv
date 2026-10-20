@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 22:27",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lūgsi",
+      "rationale": " pamatnozīme 'kvēpināt' — lūgšana kā upurs; latviski lūgšana zaudē upura ainu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobam (Elifaza runā)",
+      "rationale": "Elifaza otrā personā vērsts solījums — tieša uzruna"
+    }
+  ],
+  "translation": "Tu Viņu lūgsi, un Viņš tevi uzklausīs, un savus solījumus tu izpildīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4398b84b39371117f9ebb9c26d1f73ecfec90a534864fbae89b09ade759d4a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/25-28.1792529331269.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעתיר",
+      "gloss": "Tu lūgsi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Viņu"
+    },
+    {
+      "surface": "וישמעך",
+      "gloss": "un Viņš tevi uzklausīs"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "un savus solījumus"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "tu izpildīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:51.270293783Z",
+  "model": "glm-5.3"
+}

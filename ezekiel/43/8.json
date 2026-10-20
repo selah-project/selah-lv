@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 43:8",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את (ספם את ספי)",
+      "rationale": "Šeit את ir prievārds 'pie\/līdzās', nevis tiešā objekta marķieris; saglabāts kā ⟨את⟩ pēc vienotās kārtības."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstam nav darbības vārda pie 'siena starp mani un viņiem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iznīcināju",
+      "rationale": "ואכל burtiski 'un es apēdu' — dusmu metafora, latviski 'iznīcināju'."
+    }
+  ],
+  "translation": "Kad viņi lika savu sliekšni pie ⟨את⟩ mana sliekšņa un savu durvju stabu līdzās manam durvju stabam, un siena ⟨bija⟩ starp mani un viņiem, tad viņi aptraipīja ⟨את⟩ manu svēto Vārdu ar savām pretīgajām lietām, ko tie darīja, tāpēc es tos iznīcināju ⟨את⟩ viņus savās dusmās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/43\/5-8.1792525788009.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתתם",
+      "gloss": "kad viņi lika"
+    },
+    {
+      "surface": "ספם",
+      "gloss": "savu sliekšni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mans slieksnis"
+    },
+    {
+      "surface": "ספי",
+      "gloss": "mana sliekšņa"
+    },
+    {
+      "surface": "ומזוזתם",
+      "gloss": "un savu durvju stabu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "līdzās"
+    },
+    {
+      "surface": "מזוזתי",
+      "gloss": "manam durvju stabam"
+    },
+    {
+      "surface": "והקיר",
+      "gloss": "un sienu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "starp mani"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "un viņiem"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "tad viņi aptraipīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mans svētais Vārds"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Vārdu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svēto"
+    },
+    {
+      "surface": "בתועבותם",
+      "gloss": "ar savām pretīgajām lietām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tie darīja"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "tāpēc es iznīcināju"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "savās dusmās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:49:48.010716695Z",
+  "model": "glm-5.3"
+}

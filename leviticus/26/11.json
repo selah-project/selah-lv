@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefoša",
+      "rationale": "נפש nav 'dvēsele' augstākā nozīmē, bet elpa \/ dzīvības spēks — atstāts pēc skanējuma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nejutīs riebumu",
+      "rationale": "געל — 'garsīs ar riebumu \/ atgrūdīs'; latviskā locījuma dēļ sadalīts divos vārdos."
+    }
+  ],
+  "translation": "Un Es likšu savu miškanu jūsu vidū, un mana nefoša nejutīs riebumu ⟨אתכם⟩ pret jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/9-12.1792515201742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "likšu"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "savu miškanu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "jūsu vidū"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nejutīs"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "riebumu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana nefoša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:21.745900667Z",
+  "model": "glm-5.3"
+}

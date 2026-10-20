@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סוס כסוס \/ רכב כרכב",
+      "rationale": "Atkārtotais salīdzinājums 'zirgus kā zirgus, ratus kā ratus' — burtiskais atbalsojums saglabāts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאותך \/ אותם",
+      "rationale": "Automātiskā atzīme notur šos par aleph-tav; tie ir prievārdi ar personu vietniekvārdiem ('no tevis', 'ar viņiem'), nevis ⟨את⟩ marķieri."
+    }
+  ],
+  "translation": "Un tu saskaiti sev karaspēku kā to karaspēku, kas kritis ⟨את⟩ no tevis, un zirgus kā zirgus un ratus kā ratus, un mēs cīnīsimies ⟨את⟩ ar viņiem līdzenumā — vai mēs nav stiprāki par viņiem? Un viņš klausīja viņu balsij un darīja tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/25-28.1792520936665.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "un tu"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "saskaiti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "karaspēku"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "kā karaspēku"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "kas kritis"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ no tevis"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "un zirgus"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kā zirgus"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "un ratus"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "kā ratus"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "un mēs cīnīsimies"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ar viņiem"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "līdzenumā"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "stiprāki"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "par viņiem"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "un klausīja"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "viņu balsij"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:56.666198629Z",
+  "model": "glm-5.3"
+}

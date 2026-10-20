@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומכבדו חנן אביון",
+      "rationale": "KJV lasa 'godā viņu (Radītāju), kas ir žēls nabagam'; YLT — 'kas godā viņu (nabago), ir žēls pret trūcīgo'; priekšmets ir gramatiski divdomīgs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nonieko",
+      "rationale": "חרף burtiski 'apcenīgi novelk kailu, apsmej'; JPS 'blasphemeth' ir stiprāk nekā teksta sakne."
+    }
+  ],
+  "translation": "Kas apspiež nabago, tas nonieko ⟨את⟩ viņa Radītāju, un kas tam izrāda godu, tas ir žēlsirģis pret trūkumu cietēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/29-32.1792528699139.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "Kas apspiež"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nabago"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "nonieko"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "viņa Radītāju"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "un kas tam izrāda godu"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ir žēlsirģis"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "pret trūkumu cietēju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:19.140232028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raža",
+      "rationale": "תבואה burtiski 'ieņēmumi, ienākumi' — tas, kas tiek ienests"
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "vv. 36–37 darbības izpildītājs izsauktais izsalkušais ļautiņš, ebreju valodā personas nozīme tikai darbības vārda formā"
+    }
+  ],
+  "translation": "Un viņi iesēja laukus un iestādīja vīna dārzus, un tie deva augļu ražu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/37-40.1792528213643.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "Un viņi iesēja"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "laukus"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "un iestādīja"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vīna dārzus"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "un tie deva"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "augļu"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ražu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:13.644263370Z",
+  "model": "glm-5.3"
+}

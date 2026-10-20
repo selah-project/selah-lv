@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחזי...חרבו",
+      "rationale": "Zobens minēts divreiz — turētāju rokā un pie gurna — koncentrisks pastiprinājums, latviski saglabāts atkārtojums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gurna",
+      "rationale": "יָרֵך 'gurns' reizē eifēmisms dzimumorgāniem (1. Mozus 24:2, 9) — šeit praktiska zobena novietne."
+    }
+  ],
+  "translation": "Visi viņi tur zobenus, karā izmācīti; katram savs zobens pie gurna nakts baiļu dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/3\/5-8.1792529664100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Visi viņi"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "tur"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobenus"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "izmācīti"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karā"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katram"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "gurna"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "baiļu dēļ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nakts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:24.102645739Z",
+  "model": "glm-5.3"
+}

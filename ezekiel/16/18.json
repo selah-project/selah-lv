@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נתתי",
+      "rationale": "Locījuma forma identiska gan ‘es devu’, gan ‘tu devi\/liki’; konteksts prasa 2. personu — visi tulkojumi lasa ‘tu liki’."
+    },
+    {
+      "kind": "addition",
+      "subject": "tos",
+      "rationale": "Izrunātas paaugstinājuma vietas — apģērbi izlietoti par elku segu; vietniekvārds pievienots skaidrībai."
+    }
+  ],
+  "translation": "Un tu ņēmi ⟨את⟩ savus izšuvuma apģērbus un apklāji ⟨tos⟩, un manu eļļu un manu kvēpinājumu tu liki to priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3871291f1a1296e9a2db91200bb5184e7e59401ec76bd4af1b1e8d1b0405e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/16\/17-20.1792524998436.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "un tu ņēmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus apģērbus"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "apģērbus"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "tavu izšuvumu"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "un tu apklāji"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "un manu eļļu"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "un manu kvēpinājumu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tu liki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "to priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:38.437498966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רתח רתחיה",
+      "rationale": "Darbības vārda un lietvārda atkārtojums no vienas saknes — 'vāri tās vārīšanos', latviski zaudē skanējuma spēli."
+    },
+    {
+      "kind": "crux",
+      "subject": "דור",
+      "rationale": "'Kaulu kaudze' (JPS, YLT) pret 'malkas kaudze zem katla' (ASV, BSB) — sakne nozīmē apaļu kaudzi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בשלו",
+      "rationale": "Literāri 'vārījās' (nepārejošs), ņemts kā pavēle 'izvāri' pēc konteksta."
+    }
+  ],
+  "translation": "Izredzēto no ganāmpulka ņem, un arī kaulu kaudzi zem tās; vāri tās vārīšanos, jā, izvāri tās kaulus tās vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a5713b41536115e2a3b619c601c23e33efb8e0e97c5f60902790baa1b4279785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/24\/5-8.1792525265468.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "Izredzēto"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "no ganāmpulka"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "ņem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaudzi"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "kaulu"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "zem tās"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "vāri"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "tās vārīšanos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jā"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "izvāri"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "tās kaulus"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "tās vidū"
+    }
+  ],
+  "timestamp": "2026-10-20T19:41:05.468578413Z",
+  "model": "glm-5.3"
+}

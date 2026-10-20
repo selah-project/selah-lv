@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נטף",
+      "rationale": "Sakne nozīmē 'tecēt pa lāsei' — par praviešošanu kā vārdu 'pilēšanu'; trīskārša atkārtošana zaudēta."
+    },
+    {
+      "kind": "crux",
+      "subject": "runātājs",
+      "rationale": "Nezināms, kas runā: tauta aizliedz praviešiem, vai Jahve (caur Micaju) aizliedz viltus praviešiem; KJV un JPS lasa pretēji."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסג",
+      "rationale": "נסג 'atkāpties' Tanahā tikai šeit."
+    }
+  ],
+  "translation": "Neteciniet — tie tecina; šiem netecinās, kauns netiks atkāpts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/2\/5-8.1792526432160.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "teciniet"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "tie tecina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטטפו",
+      "gloss": "tecinās"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "šiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "tiks atkāpts"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "kauns"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:32.164540318Z",
+  "model": "glm-5.3"
+}

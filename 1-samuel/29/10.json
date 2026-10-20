@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואור לכם",
+      "rationale": "Burtiski 'un gaisma jums' — idiomatisks 'kad jums ausīs gaisma', dotais tulkojums seko grafiskam skanējumam."
+    },
+    {
+      "kind": "invitation",
+      "subject": "celies agri no rīta ... ejiet",
+      "rationale": "Ahiša pavēle-uzaicinājums Davidam doties projām."
+    }
+  ],
+  "translation": "Un tagad celies agri no rīta, tu un tā kunga kalpi, kas nāca ⟨את⟩ tev, un celties agri no rīta, un, kad ausīs gaisma, ejiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "544093e83701cbb8b62537b19d28a8d906a36dc98fa2fe3a66be5c5786ed4539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/29\/9-11.1792519452428.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "celies agri"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "un kalpi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tā kunga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tev"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "un jūs celsities agri"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "un kļūs gaišs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "un ejiet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:12.429464376Z",
+  "model": "glm-5.3"
+}

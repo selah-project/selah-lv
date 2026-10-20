@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "6 + 42",
+      "rationale": "Patvēruma pilsētu un papildu pilsētu skaits uzskaitīts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cilvēkslepkava",
+      "rationale": "הרוצח ir nomaiņīgais (bez nodoma), ne vienmēr \"slepkava\" ar nodomu; latviešu \"cilvēkslepkava\" ir tuvāk neitrālajam."
+    },
+    {
+      "kind": "addition",
+      "subject": "papildus tām",
+      "rationale": "עליהם burtiski \"uz tām\/virs tām\" — attieksme \"papildus\" izteikta latviski."
+    }
+  ],
+  "translation": "Un ⟨את⟩ pilsētas, ko dosiet levītiem: ⟨את⟩ sešas patvēruma pilsētas, ko dosiet, lai turp bēgtu cilvēkslepkava, un papildus tām dosiet četrdesmit divas pilsētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/35\/5-8.1792516468243.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Un ⟨את⟩",
+      "marks": "pilsētas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dosiet"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levītiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sešas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sešas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "patvēruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dosiet"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "lai bēgtu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "cilvēkslepkava"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "un papildus tām"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dosiet"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdesmit"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "divas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:14:28.245740183Z",
+  "model": "glm-5.3"
+}

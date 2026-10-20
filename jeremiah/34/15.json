@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 34:15",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרור",
+      "rationale": "'Brīvība' vai 'pilnīga atbrīvošana' — tas pats vārds uz uzraksta; 'tīrā' nozīme arī pastāv, šeit 'brīvības pasludināšana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הישר",
+      "rationale": "Burtiski 'taisnais\/taisnais ceļš' — latviski 'tas, kas taisns'."
+    }
+  ],
+  "translation": "Un jūs atgriezāties šodien un darījāt ⟨את⟩ to, kas taisns Manās acīs, pasludināt brīvību ikvienam savam tuvākajam, un noslēdzāt derību Manā priekšā namā, pār kuru ir piesaukts Mans Vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "71a5ad4b31b85a3dc9133a0191d15f14c1526447bacf2e0dd972f70d606b54ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/34\/13-16.1792524145112.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "Un jūs atgriezāties"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "un darījāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, kas taisns"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "to, kas taisns"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "Manās acīs"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "pasludināt"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "brīvību"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikvienam"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "savam tuvākajam"
+    },
+    {
+      "surface": "ותכרתו",
+      "gloss": "un noslēdzāt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Manā priekšā"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pār kuru"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ir piesaukts"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mans Vārds"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār to"
+    }
+  ],
+  "timestamp": "2026-10-20T19:22:25.114140234Z",
+  "model": "glm-5.3"
+}

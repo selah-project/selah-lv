@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Hinneni ir izsauksmes daļiņa ar personu; latviešu valodai vajag darbības vārdu"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "prievārds ar personu latviešu lokāmajā formā 'mani' saplūst"
+    }
+  ],
+  "translation": "Un viņš aizskrēja pie Eli un sacīja: Lūk, es ⟨esmu⟩, jo tu mani sauci. Bet viņš sacīja: Es nesaucu ⟨tevi⟩; ej atpakaļ un guli. Un viņš aizgāja un nolikās ⟨gultā⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/3\/5-8.1792518735941.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "un viņš aizskrēja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lūk, es ⟨esmu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu sauci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ej atpakaļ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "guli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un viņš aizgāja"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "un nolikās ⟨gultā⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:15.941746581Z",
+  "model": "glm-5.3"
+}

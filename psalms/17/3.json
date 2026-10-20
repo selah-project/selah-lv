@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mans nodoms nepāries pāri mutei",
+      "rationale": "זמתי בל יעבר פי: 'mans nodoms nepārsniegs muti' (YLT) pret 'mute nepārkāps' (KJV) — subjekts vai nu זמה, vai פה."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל ... בל",
+      "rationale": "Atkārtots noliegums בל divreiz rindā — metāla kausēšanas metaforas ietvaros skan kā ass divkāršs 'nē'."
+    }
+  ],
+  "translation": "Tu pārbaudīji manu sirdi, Tu apciemoji naktī, Tu mani kausēji — neko neatradi; mans nodoms nepāries pāri mutei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/17\/1-4.1792527146078.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Tu pārbaudīji"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "manu sirdi"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Tu apciemoji"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "Tu mani kausēji"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "atradi"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mans nodoms"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pāries pāri"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mutei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:26.114213343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lūdzam",
+      "rationale": "Daļiņa נָא pauž pieklājīgu lūgumu; latviski nepieciešams atsevišķs vārds."
+    },
+    {
+      "kind": "elision",
+      "subject": "אֵל",
+      "rationale": "Prievārds saplūst ar datīvu 'vēstnesim'."
+    }
+  ],
+  "translation": "Un Manoahs sacīja Jahves vēstnesim: Aizkavēsim ⟨את⟩ tevi, ⟨lūdzam⟩, un mēs sagatavosim tev priekšā kazlēnu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/13\/13-16.1792518505338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoahs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "vēstnesim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "Aizkavēsim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzam"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tevi",
+      "marks": "aizkavēsim tevi"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "un mēs sagatavosim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev priekšā"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kazlēnu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "no kazām"
+    }
+  ],
+  "timestamp": "2026-10-20T17:48:25.339679034Z",
+  "model": "glm-5.3"
+}

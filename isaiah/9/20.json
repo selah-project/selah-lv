@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pret",
+      "rationale": "Ebreju teksts pie Menaše\/Efraima darbības vārdu nesaka — teikums ir tikai vārdi; 'pret' pievienots pēc konteksta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנשה\/אפרים",
+      "rationale": "Hiazms: Menaše—Efraims, Efraims—Menaše; ciltstēvu savstarpējā rīšanās spoguļo brāļu ēšanu 19. pantā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Burtiski 'Viņa nāsis\/deguni' — dusmu tēls ebreju valodā nāk pa nāsīm."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא שב אפו",
+      "rationale": "Atkārtojošais refrēns 'dusmas nav novērsušās, roka vēl izstiepta' noslēdz pantu bloku Isa 9 un 10."
+    }
+  ],
+  "translation": "Menaše ⟨pret⟩ ⟨את⟩ Efraimu, un Efraims ⟨pret⟩ ⟨את⟩ Menaši — tie kopā pret Jehudu. Par visu šo Viņa dusmas nav novērsušās, un vēl Viņa roka ⟨ir⟩ izstiepta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94444872f9c212dbb87964f681d85256d2f192592ab9cb7e9d43d14c190a5796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/17-20.1792522034650.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "un Efraims"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menaši"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaši"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "par visu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nav novērsušās"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "Viņa dusmas"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "un vēl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Viņa roka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "izstiepta"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:14.651545102Z",
+  "model": "glm-5.3"
+}

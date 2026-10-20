@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Šeit es esmu",
+      "rationale": "הנני ir viens vārds 'lūk-es'; latviski vajag vairākus vārdus"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim uzrunā Moši",
+      "rationale": "tieša uzruna ar dubultotu vārdu — aicinājuma forma Tanahā"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Moše, Moše",
+      "rationale": "dubultotais vārds ir aicinājums, kas gaida atbildi — un atbilde nāk"
+    }
+  ],
+  "translation": "Un Jahve redzēja, ka viņš griezās nost, lai skatītos; un Elohim uzsauca viņam no ērkšķu krūma vidus un sacīja: Moše, Moše! Un viņš sacīja: ⟨Šeit es esmu⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/3\/1-4.1792512692607.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un redzēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "griezās nost"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai skatītos"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un uzsauca"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ērkšķu krūma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "⟨Šeit es esmu⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:32.609017046Z",
+  "model": "glm-5.3"
+}

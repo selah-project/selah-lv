@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 15:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izdvesusi savu elpu",
+      "rationale": "נפשה nav 'dvēsele', bet elpa\/dzīvības spēks, kas aiziet"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "crux",
+      "subject": "באה שמשה",
+      "rationale": "'nogājusi viņas saule' — tēlaina runa par priekšlaicīgu galu; daži lasa par Saula dinastiju"
+    }
+  ],
+  "translation": "Sasirusi ⟨ir⟩ tā, kas dzemdējusi septiņus; izdvesusi savu elpu, nogājusi viņas saule, kamēr vēl bija diena; apkaunota un apjukusi; un viņu atlikumu došu zobenam viņu ienaidnieku priekšā, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a73cde250046486305da11170782a828977c7b2b98a2edc7a52f4ff0968ba912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/15\/9-12.1792523588232.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמללה",
+      "gloss": "sasirusi"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "tā, kas dzemdējusi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "septiņus"
+    },
+    {
+      "surface": "נפחה",
+      "gloss": "izdvesusi"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "savu elpu"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nogājusi"
+    },
+    {
+      "surface": "שמשה",
+      "gloss": "viņas saule"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "kamēr vēl"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bija diena"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "apkaunota"
+    },
+    {
+      "surface": "וחפרה",
+      "gloss": "un apjukusi"
+    },
+    {
+      "surface": "ושאריתם",
+      "gloss": "un viņu atlikumu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "zobenam"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "došu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "viņu ienaidniekiem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:13:08.233259504Z",
+  "model": "glm-5.3"
+}

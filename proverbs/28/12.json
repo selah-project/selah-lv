@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "paslēpjas",
+      "rationale": "יחפש no חפש var nozīmēt gan 'meklēt', gan 'paslēpties' (hitpa'el nianses): KJV 'ir paslēpts', JPS 'jāmeklē'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "godība",
+      "rationale": "תפארת ir 'rotas, spožums, diženums' — 'godība' tuvākais viens vārds latviski"
+    }
+  ],
+  "translation": "Kad taisnie priecājas, liela ⟨ir⟩ godība, bet, kad pieceļas ļaundari, cilvēks paslēpjas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/28\/9-12.1792528893660.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "Kad priecājas"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "taisnie"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liela"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "godība"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "bet, kad pieceļas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaundari"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "paslēpjas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:33.661675148Z",
+  "model": "glm-5.3"
+}

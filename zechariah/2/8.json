@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 2:8",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזות",
+      "rationale": "'Atklāti ciemi bez mūriem' pret 'izpletīsies \/ plaši apdzīvota'; burtiski 'perazot' — neapjoņotas apdzīvotas vietas."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הלז",
+      "gloss": "Sasaiste ar 2:4 kontekstu: הלז 'šis šeit' norāda uz to pašu jaunekli."
+    },
+    {
+      "kind": "measurement",
+      "subject": "daudzums",
+      "rationale": "Cilvēku un lopu daudzums kā pilsētas plašuma mērs."
+    }
+  ],
+  "translation": "Un viņš tam teica: Skrej, runā ar to jaunekli, sacīdams: kā atklāti ciemi bez mūriem apdzīvos Jerušalaima no cilvēku un lopu daudzuma tās vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/2\/5-8.1792526776058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš teica"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "Skrej"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "to jaunekli"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "šo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "פרזות",
+      "gloss": "kā atklāti ciemi bez mūriem"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "apdzīvos"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "no daudzuma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "un lopu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "tās vidū"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:16.068184978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 45:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האתיות",
+      "rationale": "Vārds parādās tikai šeit Tanahā; sakne אתה 'nākt' — 'nākamās lietas', daži lasa kā jautājuma pārmetumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "שאלוני\/תצוני",
+      "rationale": "Skaidrs pavēles izskats 'jautājiet Man... pavēlējiet Man!' vai, kā BSB, pārmetums 'Kā jūs drīkstat Man jautāt... un pavēlēt?' — konteksts (45:9 'vai tam, kas strīdas') sliecas uz pārmetumu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājiet Man",
+      "rationale": "Ja lasa kā pavēli, pants aicina Israēlu jautāt Jahvem par nākotni."
+    }
+  ],
+  "translation": "Tā saka Jahve, Jisraēla Svētais, un viņa Veidotājs: Nākamās lietas jautājiet Man par Maniem dēliem, un par Mana roku darbu Mani pavēlējiet!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/9-12.1792522781583.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svētais"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "un viņa Veidotājs"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "Nākamās lietas"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "jautājiet Man"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Maniem dēliem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un par"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Mana roku"
+    },
+    {
+      "surface": "תצוני",
+      "gloss": "Mani pavēlējiet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:41.584508070Z",
+  "model": "glm-5.3"
+}

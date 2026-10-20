@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כוס ישועות",
+      "rationale": "'glāze pestīšanas' — saliktā konstrukcija; נשא כוס nozīmē gan 'pacelt glāzi (dzert)', gan 'veltīt laimi', zaudēts latviski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pestīšana",
+      "rationale": "ישועות ir daudzskaitlis — 'pestīšanas'; latviski vienskaitlis."
+    }
+  ],
+  "translation": "Glāzi pestīšanas es pacelšu, un Jahves vārdā es saukšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/116\/13-16.1792528273401.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "glāzi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "pestīšanas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "es pacelšu"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "un ... vārdā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saukšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:13.402403389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 3:13",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וְאֵין",
+      "rationale": "Noliedzošais 'un nebija' saplūst ar 'neašķīra' — ebrejs burtiski saka 'un ļaudis nebija atpazīstam balsis'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תְּרוּעָה \/ מְרִיעִים",
+      "rationale": "Vārds spēle: 'teru'a' (trauksme\/sauciens) un darbības vārds 'meri'im' no tās pašas saknes — atbalsojas trīsreiz pantā."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עַד לְמֵרָחוֹק",
+      "rationale": "Skaņas tālums — 'līdz tālumam' — tiek izmērīts kā apgabals."
+    }
+  ],
+  "translation": "Un ļaudis nespēja atšķirt ⟨את⟩ priecīgo skaņu balsi no raudāšanas balss, jo ļaudis cēla lielu trauksmi, un balss bija dzirdama līdz ⟨pat⟩ tālumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a6622c9f8a24cea8a5e63c44091fa6d800ec5055096a2485b6cae74a6e6e8c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/3\/13-13.1792530514198.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "un nespēja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "atšķirt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "תרועת",
+      "gloss": "trauksmes"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "priecīgās"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "no balss"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "raudāšanas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaužu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "מריעים",
+      "gloss": "cēla"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "trauksmi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "והקול",
+      "gloss": "un balss"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tika dzirdēta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "tālumam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:08:34.198668448Z",
+  "model": "glm-5.3"
+}

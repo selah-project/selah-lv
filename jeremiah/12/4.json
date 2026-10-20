@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Viņš",
+      "rationale": "Ebreju teksts saka 'viņš' bez vārda — runātāji domā Jahvi, bet vārds nav izteikts."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Darbības vārda pietrkst ebreju teikumam ספתה; latviski vajag 'ir'."
+    }
+  ],
+  "translation": "Cik ilgi zeme sēros un visa lauka zāle izkaltīs no ļaunuma tās iedzīvotāju dēļ? Izzudušas ⟨ir⟩ lopi un putni, jo tie sacīja: Viņš neredzēs ⟨את⟩ mūsu galu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/1-4.1792523503719.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Cik ilgi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ilgi"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "sēros"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "un zāle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "izkaltīs"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "no ļaunuma"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotāju"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tās"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "izzudušas"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "lopi"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "un putni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tie sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu galu"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "mūsu galu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:43.720789099Z",
+  "model": "glm-5.3"
+}

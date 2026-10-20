@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pavēle",
+      "rationale": "Uzsaukums Israēlam: svētīt sevi un būt svētiem."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Vairākskaitļa uzruna Dieva tautai."
+    }
+  ],
+  "translation": "Un jūs svētīsiet sevi un būsiet svēti, jo Es ⟨esmu⟩ Jahve, jūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/20\/5-8.1792515061150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Un jūs svētīsiet sevi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "un būsiet"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svēti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:01.154409332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valdnieks",
+      "rationale": "נשיא ir 'paceltais', virsaitis vai ķēniņš; 'valdnieks' tuvākā latviskā forma bez vēlākas mesijas ielādes."
+    },
+    {
+      "kind": "addition",
+      "subject": "to pašu",
+      "rationale": "ומדרכו burtiski 'un pa tā ceļu' — latviski skaidrojams kā pa to pašu ceļu."
+    }
+  ],
+  "translation": "⟨את⟩ valdnieku — valdnieks, viņš tajā sēdēs, lai ēstu maizi Jahves priekšā; viņš ieies priekšnamas vārtu ceļā un pa to pašu ceļu izies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/44\/1-4.1792525842355.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valdnieku"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "valdnieku"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "valdnieks"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sēdēs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "priekšnamas"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ieies"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "un pa savu ceļu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:50:42.356289521Z",
+  "model": "glm-5.3"
+}

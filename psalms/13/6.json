@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav viens vārds — uzticīga mīlestība, žēlastība, lojalitāte kopā"
+    },
+    {
+      "kind": "crux",
+      "subject": "גמל עלי",
+      "rationale": "'Viņš man ir atmaksājis\/apbalvojis' — darbības vārds nozīmē 'rīkoties ar kādu (labi vai slikti)'; konteksts liek 'labu darījis'"
+    }
+  ],
+  "translation": "Bet es tavā hesed ceru, priecājas mana sirds par tavu pestīšanu; es dziedāšu Jahve, jo Viņš man ir labu darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/13\/5-6.1792527095733.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "bet es"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "tavā hesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ceru"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "priecājas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "par tavu pestīšanu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "es dziedāšu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ir labu darījis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:35.734919714Z",
+  "model": "glm-5.3"
+}

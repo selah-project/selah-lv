@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדיך",
+      "rationale": "'plāti\/tuksi' (KJV 'lies', JPS 'boastings') — בד nozīmē gan lielību, gan melu; izvēlēts 'plāti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתים",
+      "rationale": "מתים burtiski 'nāve' — aizgājušie, mirušie; KJV lasa 'vīri' (מתים kā מתי־אישׁ 'cilvēki'), tāpēc 'vīriem'"
+    }
+  ],
+  "translation": "Tavi plāti liec vīriem klusēt, un tu dziļo nievā, un nav, kas tevi kauninātu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "981e1313cc574f87ff07e6add71f20092d3aa62dbe96fab18d42c72728315703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/11\/1-4.1792529143449.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "Tavi plāti"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "vīriem"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "liec klusēt"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "un tu dziļo nievā"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "kas tevi kauninātu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:43.450008853Z",
+  "model": "glm-5.3"
+}

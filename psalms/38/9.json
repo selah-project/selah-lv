@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rūcu",
+      "rationale": "šאג parasti ir lauvas rēciens; šeit par cilvēku — 'rūcu\/ķērcu', nevis klusu vaidu"
+    },
+    {
+      "kind": "crux",
+      "subject": "no vaidiem",
+      "rationale": "מנהמת no המה — 'dunoņa\/ņaudēšana'; tulkots 'vaidi' konteksta dēļ"
+    }
+  ],
+  "translation": "Esmu apdullis un pilnīgi satriekts līdz pārmēram; es rūcu no savas sirds vaidiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/9-12.1792527468288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "esmu apdullis"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "un satriekts"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pārmēram"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "es rūcu"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "no vaidiem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "savas sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:48.289437561Z",
+  "model": "glm-5.3"
+}

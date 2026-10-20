@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסיד\/תתחסד — viena sakne divreiz; hesed saglabāts, nevis 'žēlastība' vien"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם חסיד תתחסד",
+      "rationale": "katrā pārī darītājs un darbība no vienas saknes — atbalss, ko latviešu valodā var tikai aptuveni atveidot"
+    }
+  ],
+  "translation": "Ar hesed cilvēku Tu rīkojies hesed, ar nevainojamu vīru Tu esi nevainojams.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/18\/25-28.1792527197150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed cilvēku"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Tu rīkojies hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nevainojamu"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Tu esi nevainojams"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:17.151415160Z",
+  "model": "glm-5.3"
+}

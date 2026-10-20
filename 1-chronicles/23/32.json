@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משמרת ×3",
+      "rationale": "Vārds 'sardze' atkārtojas trīs reizes — ritmiskā uzskaites struktūra, latviski saglabāta."
+    }
+  ],
+  "translation": "un tie sargāja ⟨את⟩ saules telts sardzi un ⟨את⟩ svētuma sardzi, un Aharonas dēlu, savu brāļu, sardzi Jahves nama kalpošanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a067373f8aa202fcf6112a75de42ce041add037a749b0d45536867f3dda90a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/23\/29-32.1792531544705.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "un tie sargāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saules telts sardzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sardzi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telts"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "saules"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svētuma sardzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sardzi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "un sardzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "savu brāļu"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kalpošanai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:44.706276256Z",
+  "model": "glm-5.3"
+}

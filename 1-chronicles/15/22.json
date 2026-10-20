@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 15:22",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במשא",
+      "rationale": "massa: 'nesums\/pārnešana' (šķirsta nēšana) pret 'dziesma' (KJV\/ASV 'song') — burtiski 'nesums'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mācīja",
+      "rationale": "jasar pamatnozīme 'sodīt\/kaļināt', šeit 'instruēt, mācīt'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju valodā nav saikļa 'viņš sapratīgs'."
+    }
+  ],
+  "translation": "Un Kenanjāhu, levītu virsaitis pār nesumu, mācīja par nesumu, jo viņš ⟨bija⟩ sapratīgs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c4b9973b9f589e02ff6405fb49708380bfafdf468028fa8d49a63cafc96c21f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/15\/21-24.1792531383318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנניהו",
+      "gloss": "Un Kenanjāhu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "virsaitis"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levītu"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "pār nesumu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "mācīja"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "par nesumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "saprātīgs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:03.319354465Z",
+  "model": "glm-5.3"
+}

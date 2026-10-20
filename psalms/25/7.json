@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכר \/ אל־תזכר \/ זכר",
+      "rationale": "Vienas saknes atkārtojums: 'neatceries grēkus… atceries mani' — pretstats vienā vārdā"
+    },
+    {
+      "kind": "you",
+      "subject": "uzrunāts Jahve",
+      "rationale": "Lūgums tieši vērsts pie Jahves"
+    }
+  ],
+  "translation": "Manas jaunības grēkus un manus pārkāpumus neatceries; pēc sava heseda atceries mani — Tu — labā dēļ, Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/5-8.1792527280647.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "grēkus"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "manas jaunības"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "un manus pārkāpumus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "atceries"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "pēc sava heseda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "atceries"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "labā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:40.648039681Z",
+  "model": "glm-5.3"
+}

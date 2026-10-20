@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tu ej \/ es iešu",
+      "rationale": "Ebreju teksts pie sāniem min tikai virzienu; darbības vārds pievienots latviešu valodā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמאל\/ימין",
+      "rationale": "Kreisā un labā puse hiāzā apmainās vietām — Avrams sola pretējo, ko izvēlēsies Lots."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Avrama piedāvājums Lotam",
+      "rationale": "Vērsts pie Lotam ar jautājumu un izvēles brīvību."
+    }
+  ],
+  "translation": "Vai nav visa zeme tavā priekšā? Atdalies, lūdzu, no manis: ja ⟨tu ej⟩ pa kreisi, es ⟨iešu⟩ pa labi, un ja pa labi, es ⟨iešu⟩ pa kreisi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e9bef3ac35e54187e7586a17cf56659f1f69e679c6e7c67efd9ac6b78b6bc09d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/13\/9-12.1792511649024.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vai nav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tavā priekšā"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "atdalies"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "pa kreisi"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "es ⟨iešu⟩ pa labi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pa labi"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "es ⟨iešu⟩ pa kreisi"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:09.025439580Z",
+  "model": "glm-5.3"
+}

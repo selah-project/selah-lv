@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vīriem⟩",
+      "rationale": "ivrits saka tikai 'gudra sirds' — latviski vajag piederošu vārdu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח tulkots kā ruah, nevis 'gars' — viens vārds trim nozīmēm"
+    }
+  ],
+  "translation": "Un tu runāsi ar visiem gudra-sirds ⟨vīriem⟩, kurus Es esmu piepildījis ar gudrības ruah, un tie izgatavos ⟨את⟩ Aharona drēbes, lai viņu iesvētītu Man priesterī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9cd069d94489ba78ba472b2c60ea5cab77c301ec5dbe39cec55dac5827546e8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/28\/1-4.1792513210980.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Un tu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "runāsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "gudra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "-sirds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "Es esmu piepildījis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrības"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "un tie izgatavos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona drēbes"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drēbes"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "lai viņu iesvētītu"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "priesterī"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:10.981991890Z",
+  "model": "glm-5.3"
+}

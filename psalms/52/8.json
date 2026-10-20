@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויראו \/ וייראו",
+      "rationale": "'Redzēs' un 'baidīsies' — vienādi burti ירא, vārdu spēle, kas latviski izzūd"
+    },
+    {
+      "kind": "alternative",
+      "subject": "smies",
+      "rationale": "שחק var būt arī 'izsmiet, ņirgāties' — konteksts liek domāt izsmiešanu"
+    }
+  ],
+  "translation": "Un taisnie redzēs un izbijīsies, un par viņu smies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/52\/5-8.1792527709225.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "un redzēs"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "taisie"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "un izbijīsies"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "smies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:49.226458952Z",
+  "model": "glm-5.3"
+}

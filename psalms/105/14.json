@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Ebreju tekstā darītājs (Jahve\/Elohim no konteksta) nav nosaukts; latviešu teikumam vajag subjektu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "apsudzēja",
+      "rationale": "ויוכח var nozīmēt arī 'tiesāja' vai 'pierādīja nepareizu' — izvēlētais 'apsudzēja' ir viens no vairākiem iespējamiem."
+    }
+  ],
+  "translation": "Viņš neatļāva nevienu cilvēku viņus apspiest, un viņš apsudzēja ķēniņus par viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/13-16.1792528159893.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "atļāva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nevienu cilvēku"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "viņus apspiest"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "un apsudzēja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "par viņiem"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:19.894353565Z",
+  "model": "glm-5.3"
+}

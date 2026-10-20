@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 3:6",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "priecājas",
+      "rationale": "יחד vai nu no חדה 'priecāties' (ASV\/JPS) vai no יחד 'pievienoties' (KJV 'joined')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mēnešu skaitā",
+      "rationale": "nedeļas vēlme: nakts lai netiek skaitīta gada dienās un mēnešos"
+    }
+  ],
+  "translation": "To nakti lai sagrābj krēsla, lai tā nepriecājas gadu dienās, mēnešu skaitā lai tā nenāk.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/3\/5-8.1792528977809.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלילה",
+      "gloss": "to nakti"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "sagrābj to"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "krēsla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "priecājas"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gada"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "skaitā"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mēnešu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nāk"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:57.810415568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Elahs",
+      "rationale": "Ebreju teksts subjectu nesauc — pievienots vietniekvārda viņa skaidrojumam"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa, latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על הבית",
+      "rationale": "Idioma 'pār namu' = pils nama pārvaldnieks, atstāta burtiskā forma"
+    }
+  ],
+  "translation": "Un sazvērējās pret viņu viņa kalps Zimri, virsnieks pār pusi no ratiem; bet viņš ⟨Elahs⟩ bija Tircā, dzerdams piedzēries Arcas namā — ⟨Arcas⟩, kas ⟨bija⟩ pār namu Tircā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/16\/9-12.1792520835460.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "sazvērējās"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pret viņu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "viņa kalps"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "virsnieks"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "puse"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "no ratiem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "bet viņš"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircā"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "dzerdams"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "piedzēries"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Arcas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:15.460725721Z",
+  "model": "glm-5.3"
+}

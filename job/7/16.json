@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "מאסתי objekts netiek minēts — 'to' atsaucas uz dzīvi no konteksta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tukša elpa",
+      "rationale": "הבל ir 'izplūstoša elpa, tukšums' — viens vārds, latviski divi"
+    }
+  ],
+  "translation": "Es to nīstu — ne uz mūžu es dzīvošu; atstāj mani, jo manas dienas ir tukša elpa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/13-16.1792529032222.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "Es nīstu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "uz mūžu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "es dzīvošu"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "atstāj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tukša elpa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "manas dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:52.223507610Z",
+  "model": "glm-5.3"
+}

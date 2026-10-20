@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 19:26",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā teikumā nav subjekta; latviešu valoda to prasa"
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņš Mefibošetam",
+      "rationale": "Davids tieši uzrunā Mefibošetu ar jautājumu"
+    }
+  ],
+  "translation": "Un notika, kad viņš ieradās Jerušalaimā ķēniņu sagaidīt, ka ķēniņš viņam sacīja: Kāpēc tu negāji ar mani, Mefibošet?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/25-28.1792520094273.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ieradās"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sagaidīt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "tu gāji"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefibošet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:54.274791394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הגר הגר",
+      "rationale": "Divi vienādi vārdi — lietvārds un darāmvārds: 'svešinieks, kas svešo' — latviski saliekami ar diviem vārdiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvēru",
+      "rationale": "חיה ir 'dzīvā radība' medījuma kontekstā; 'zvērs' ir šaurāk."
+    }
+  ],
+  "translation": "Un ikviens cilvēks no Jisraēla dēliem un no svešiniekiem, kas dzīvo viņu vidū, kas noķer medījumu — zvēru vai putnu, ko var ēst, — izlijinās ⟨את⟩ tā asinis un apklās tās ar putekļiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/17\/13-16.1792514994102.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Un ikviens cilvēks"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens cilvēks"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "no dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "svešiniekiem"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "viņu vidū"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "noķer"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "medījumu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zvēru"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "putnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "var ēst"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "izlijinās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tā asinis"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "tā asinis"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "un apklās tās"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ar putekļiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:54.104995949Z",
+  "model": "glm-5.3"
+}

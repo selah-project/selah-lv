@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju salīdzinājumā trūkst kopulas; latviešu valodā tā nepieciešama."
+    },
+    {
+      "kind": "alternative",
+      "subject": "baldahīns",
+      "rationale": "חופה ir kāzu baldahīns vai līgavas istaba; 'līgavaiņa istaba' ir otra iespējamā lasījuma pieeja."
+    }
+  ],
+  "translation": "Un tas ir kā līgavainis, kas iziet no sava baldahīna; tas priecājas kā varonis, lai skrietu ceļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/19\/5-8.1792527228454.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kā līgavainis"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "no sava baldahīna"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "tas priecājas"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kā varonis"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "lai skrietu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ceļu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:48.458613856Z",
+  "model": "glm-5.3"
+}

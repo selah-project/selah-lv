@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lai",
+      "rationale": "Latviešu optatīva daļiņa pievienota precizēšanai, ka te ir vēlējums, nevis apgalvojums."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Tieša vēršanās pie Jahves — lūguma sākums."
+    }
+  ],
+  "translation": "Jahve, paklausi manu lūgšanu, un mans kliedziens lai nāk pie Tevis!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/1-4.1792528130719.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "paklausi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "manu lūgšanu"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "un mans kliedziens"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie Tevis"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "lai nāk"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:50.720479054Z",
+  "model": "glm-5.3"
+}

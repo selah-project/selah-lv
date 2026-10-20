@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tola'at šani",
+      "rationale": "Tulkojums 'karmazīna sarkans'; ebrejiski burtiski 'tārps (kermes) šani' — krāsa nosaukta pēc kukaiņa."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošem",
+      "rationale": "Pavēles forma 'tu darīsi' vērsta pie Moše par miškana celšanu."
+    }
+  ],
+  "translation": "Un ⟨את⟩ miškanu tu darīsi: desmit segas no smalka vijuma lina, un teheleta, un purpura, un karmazīna sarkana; ar kerubiem, audēja meistara darbu, tu darīsi ⟨את⟩ tās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/26\/1-4.1792513220451.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miškanu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "segas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "smalka lina"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "vijuma"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "un teheleta"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "un purpura"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "un tārpa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "karmazīna sarkanā"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ar kerubiem"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "audēja meistara"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tās (segas)"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:20.452351939Z",
+  "model": "glm-5.3"
+}

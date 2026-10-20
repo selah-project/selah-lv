@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pieder⟩",
+      "rationale": "Ebreju virsrakstā nav darbvārda; latviešu valodai vajag saikli"
+    },
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "gloss": "mācībs dzejolis — atstāts pēc skanējuma kā Maškils"
+    }
+  ],
+  "translation": "Diriģentam. Maškils ⟨pieder⟩ Davidam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/52\/1-4.1792527707484.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maškils"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:47.484827300Z",
+  "model": "glm-5.3"
+}

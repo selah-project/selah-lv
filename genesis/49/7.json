@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Ivritā darbības vārds אחלקם bez personu vietniekvārda pietiek; latviešu valoda pieprasa 'es'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jaakov \/ Jisraēls",
+      "rationale": "Paralēlisms: tas pats cilvēks divos vārdos — dzejas hiasmiskā rāmī"
+    }
+  ],
+  "translation": "Lāsts viņu dusmām, jo tās ir stipras, un viņu niknumam, jo tas ir ciets; es viņus sadalīšu Jaakovā un izkaisīšu Jisraēlā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ac288b5347b8a206f7033ea468830eeb62bf743b1517f85389b1b9b1a74a250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/49\/5-8.1792512664557.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lāsts"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "viņu dusmām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "stipras"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "un viņu niknumam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "ciets"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "es viņus sadalīšu"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakovā"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "un izkaisīšu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:04.558282411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā pietekes darbības vārda nav; latviešu valoda to prasa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר \/ דברנו",
+      "rationale": "Vārds un darbības vārds no vienas saknes — 'vārds, ko esam vārduši', latviski zūd."
+    },
+    {
+      "kind": "secret",
+      "subject": "derības vārds",
+      "rationale": "Slepena derība starp Jonatanu un Davidu ar Jahvi kā liecinieku."
+    }
+  ],
+  "translation": "Un par vārdu, ko esam runājuši es un tu: lūk, Jahve ⟨ir⟩ starp mani un tevi līdz mūžībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/20\/21-24.1792519233744.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "Un par vārdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "esam runājuši"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "un tu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "starp mani"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "un tevi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:33.745335551Z",
+  "model": "glm-5.3"
+}

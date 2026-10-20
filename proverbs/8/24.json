@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חוללתי",
+      "rationale": "חול nozīmē 'vīt\/ griezt\/ līdzināt dzemdību sāpēm' — attēls ir dzemdēšana, atstāts kā 'tiku dzemdēta'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באין … באין",
+      "rationale": "Atkārtots nolieguma paralēlisms 'kad vēl nebija \/ kad vēl nebija' — hiasmveida struktūra par dzelmēm un avotiem."
+    }
+  ],
+  "translation": "Kad vēl nebija dzelmju, es tiku dzemdēta, kad vēl nebija avotu, smagu ⟨no⟩ ūdeņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbcde02e519fd5e2eb6957bbc6c17f10aa788801e3b1fb8918f88abf55e75f85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/8\/21-24.1792528606569.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "kad vēl nebija"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "dzelmju"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "es tiku dzemdēta"
+    },
+    {
+      "surface": "באין",
+      "gloss": "kad vēl nebija"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "avotu"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "smagu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:46.570233207Z",
+  "model": "glm-5.3"
+}

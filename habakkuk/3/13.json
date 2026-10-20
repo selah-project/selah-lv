@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "par glābšanu ⟨את⟩ sava svaidītā",
+      "rationale": "לישע את משיחך: 'par glābšanu ar svaidīto' (tulkotu: KJV, Genevas) pret 'par glābšanu sava svaidītā' — את šeit var būt priedēklis 'ar' vai tiešs objekta marķieris."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atsedzot pamatus līdz kaklam",
+      "rationale": "ערות — 'kailojot\/atsegdama': nama pamati atsegti līdz pat kaklam,_attēls, ka ēka nogāzta līdz pamatiem."
+    }
+  ],
+  "translation": "Tu izgāji par glābšanu tavai tautai, par glābšanu ⟨את⟩ sava svaidītā; tu sacirti galvu no ļaunā nama, atsedzot pamatus līdz kaklam. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/habakkuk\/3\/13-16.1792526644477.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "Tu izgāji"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "par glābšanu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavai tautai"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "par glābšanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava svaidītā"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sava svaidītā"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "tu sacirti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "atsedzot"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "pamatus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kaklam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:04.478950003Z",
+  "model": "glm-5.3"
+}

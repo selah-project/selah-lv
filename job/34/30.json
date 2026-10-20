@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן prefikss",
+      "rationale": "ממלך\/ממקשי 'no valdīšanas, no slazdiem' — YLT tur literāro 'no', KJV\/JPS pārfrāzē par mērķa teikumu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חנף",
+      "rationale": "'bezdievis' — žargons 'licis cilvēks'; var arī 'liekulis' kā vecajos tulkojumos"
+    }
+  ],
+  "translation": "Lai bezdievji cilvēki nevalda, lai tauta netiek slazdos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/29-32.1792529538424.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "no valdīšanas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "bezdievis"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "no slazdiem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:18.425387480Z",
+  "model": "glm-5.3"
+}

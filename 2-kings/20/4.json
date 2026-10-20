@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העיר התיכנה",
+      "rationale": "'pilsēta, kas ir vidū' vai 'vidējais pagalms' — KJV 'middle court', ASV 'middle part of the city'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨no⟩",
+      "rationale": "latviešu prievārds pievienots, ebreju יצא 'iziet' to satur"
+    }
+  ],
+  "translation": "Un notika, vēl Ješajahs nebija izgājis ⟨no⟩ iekšējā pagalma, kad Jahves vārds viņam tapa sacīts:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/20\/1-4.1792521690053.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgājis"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pagalma"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "iekšējā"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīts"
+    }
+  ],
+  "timestamp": "2026-10-20T18:41:30.054761435Z",
+  "model": "glm-5.3"
+}

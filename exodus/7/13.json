@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kļuva cieta",
+      "rationale": "ויחזק לב — burtiski 'un sirds kļuva stipra'; latviskā idiomā 'sirds kļuva cieta'."
+    },
+    {
+      "kind": "you",
+      "subject": "viņiem",
+      "rationale": "אלה׮ — 'pie viņiem', tas ir, pie Mošes un Aharona."
+    }
+  ],
+  "translation": "Un Para sirds kļuva cieta, un viņš neklausīja viņiem, kā bija teicis Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/7\/13-16.1792512759182.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kļuva cieta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausīja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teicis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:12:39.183330243Z",
+  "model": "glm-5.3"
+}

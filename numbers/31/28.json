@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 31:28",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša radība \/ dzīvība, ne tikai 'dvēsele' — šeit skaitā vienība (vienu dzīvu radījumu no 500)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viena dvēsele no pieciem simtiem",
+      "rationale": "tribūta likums 1\/500 — skaitļa precizitāte ir panta kodols."
+    },
+    {
+      "kind": "addition",
+      "subject": "kazām",
+      "rationale": "צאן ir avis un kazas kopā; latviešu 'avis' viena nesedz abus, tāpēc pievienots 'kazām'"
+    }
+  ],
+  "translation": "Un tu pacelsi nodevu Jahvem no ⟨את⟩ kara vīriem, kas iziet karaspēkā: viena dvēsele no pieciem simtiem, no cilvēkiem, no liellopiem, no ēzeļiem un no avis un kazām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/31\/25-28.1792516363246.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרמת",
+      "gloss": "Un tu pacelsi"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "nodevu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kara vīriem"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "kas iziet"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "karaspēkā"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "מחמש",
+      "gloss": "no pieciem"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "simtiem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēkiem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "ēzeļiem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avis un kazām"
+    }
+  ],
+  "timestamp": "2026-10-20T17:12:43.250070565Z",
+  "model": "glm-5.3"
+}

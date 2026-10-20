@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Latviešu pasīvā forma pieprasa palīgdarbības vārdu; ebreju ויגד ir viens vārds"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pieci ķēniņi",
+      "rationale": "skaitļa norāde uz paslēptajiem ķēniņiem"
+    }
+  ],
+  "translation": "Un Jozuam tika ziņots, sacīdams: Atrasti pieci ķēniņi, paslēpušies alā pie Makedas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ad32088330da79b6e7acf6dbf391c509a699a8de7c731ddd8a46b22dc209c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/10\/17-20.1792517716297.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "tika ziņots"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "Jozuam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "atrasti"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "paslēpušies"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "alā"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "pie Makedas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:35:16.298378019Z",
+  "model": "glm-5.3"
+}

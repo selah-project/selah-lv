@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa, dzīvības spēks — ne nemateriāla 'dvēsele' vēlākā nozīmē."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יתערב",
+      "rationale": "Burtiski 'iejaukties, sapīt kopā' — attēlots kā 'nav daļas tajā'."
+    }
+  ],
+  "translation": "Sirds pazīst savas dvēseles rūgtumu, un savā priekā svešiniekam tajā nav daļas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/9-12.1792528653526.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pazīst"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "rūgtumu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savas dvēseles"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "un savā priekā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "daļas"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešiniekam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:33.527460295Z",
+  "model": "glm-5.3"
+}

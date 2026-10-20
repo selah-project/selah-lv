@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brīnumus",
+      "rationale": "נפלאות no פלא — ‘brīnumainie darbi’, apliecinājuma izpausme"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "tieša uzruna — lūgšana vērsta pie Elohim"
+    }
+  ],
+  "translation": "Elohim, no jaunības Tu mani mācīji, un līdz ⟨šejienei⟩ es stāstīšu Tavus brīnumus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/71\/17-20.1792527822602.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Tu mani mācīji"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "no jaunības"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "šejienei"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "es stāstīšu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Tavus brīnumus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:42.602774691Z",
+  "model": "glm-5.3"
+}

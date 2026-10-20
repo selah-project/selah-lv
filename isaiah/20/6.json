@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 20:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa 'כה מבטנו' — 'tāda mūsu cerība'; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "no... vaiga",
+      "rationale": "מפני burtiski 'no vaiga\/sejas' — idioms 'kāda dēļ, no kā priekšā'"
+    },
+    {
+      "kind": "you",
+      "subject": "jūras krasta iedzīvotājiem",
+      "rationale": "Runa tieši vērsta pie Filistijas piekrastes iedzīvotājiem — Īšajāaslaus dzirdētājiem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסנו\/נמלט",
+      "rationale": "Divi bēgšanas verbi vienā pantā — 'aizbēgām' un 'izbēgsim' — ironija: kas bēga pie citiem, kā pats izbēgs"
+    }
+  ],
+  "translation": "Un šīs salas iedzīvotājs teiks tanī dienā: Lūk, tāda ⟨ir⟩ mūsu cerība, pie kuras mēs aizbēgām tur palīdzībai, lai tiktu izglābti no Ašūras ķēniņa vaiga; un kā mēs izbēgsim?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/20\/5-6.1792522140787.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "un teiks"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "iedzīvotājs"
+    },
+    {
+      "surface": "האי",
+      "gloss": "sala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tāda"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "mūsu cerība"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pie kuras"
+    },
+    {
+      "surface": "נסנו",
+      "gloss": "mēs aizbēgām"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "palīdzībai"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "lai tiktu izglābti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no... vaiga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūras"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "un kā"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "mēs izbēgsim"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:00.787973169Z",
+  "model": "glm-5.3"
+}

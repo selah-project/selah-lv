@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs saiklis, ko ebreju teksts neizsaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברנו",
+      "rationale": "'vārds' (davar) un 'mēs runājām' (dibbernu) — viena sakne divreiz panta sākumā"
+    }
+  ],
+  "translation": "Vai tas nav ⟨ir⟩ tas vārds, ko mēs runājām tev Micraimā, sacīdami: Atstāj mūs, un mēs kalposim ⟨את⟩ Micraimitiešiem? Jo labāk mums kalpot ⟨את⟩ Micraimitiešiem nekā nomirt tuksnesī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b45adcfc34bdc687b76658912b17a85d3d74057f855d063fd72dcf6f678d832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/14\/9-12.1792512932089.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Vai nav"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "mēs runājām"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "Atstāj"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mūs"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "un mēs kalposim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimitiešiem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimitiešiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labāk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kalpot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimitiešiem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimitiešiem"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "nekā nomirt"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:32.091021186Z",
+  "model": "glm-5.3"
+}

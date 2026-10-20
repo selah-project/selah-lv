@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pretīgs",
+      "rationale": "פגול ir 'smakojošs, trūdējis' — upura gaļa, kas kļuvusi pretīga; tulkojumi 'negants' \/ 'nejauks' zaudē smakas bildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "פגול הוא ir bez kopulas; latviski pievienots 'ir'."
+    }
+  ],
+  "translation": "Un, ja tas vispār tiks ēsts trešajā dienā, tas ir pretīgs; tas netiks pieņemts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/5-8.1792514921483.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un, ja"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "vispār ēst"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tiks ēsts"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienne"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pretīgs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "tiks pieņemts"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:41.487645414Z",
+  "model": "glm-5.3"
+}

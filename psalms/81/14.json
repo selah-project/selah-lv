@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ak, kad tikai",
+      "rationale": "לו — vēlējuma daļiņa 'kaut gan', atspoguļots kā izsaukuma teikums"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mana tauta",
+      "rationale": "tiešs uzrunas izsauciens Jisraēlam, lai klausītu Jahvei"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "runa vērsta pie Jisraēlas tautas"
+    }
+  ],
+  "translation": "Ak, kad tikai mana tauta man klausītu, Jisraēls manās ceļos ietu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/81\/13-16.1792527939958.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ak, kad tikai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mana tauta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausītu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "manās ceļos"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ietu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:39.958585397Z",
+  "model": "glm-5.3"
+}

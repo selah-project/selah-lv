@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Pants tieši vēršas pie Jahves ar imperatīviem — dzirdi, uzklausi, nekļūsti kluss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kļūsti kluss",
+      "rationale": "חרש burtiski 'kļūt kurls \/ klusu taisīt', attēls: aizbāztas ausis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר \/ תושב",
+      "rationale": "Divi tuvi vārdi — viesis-svešinieks un iemītnieks — parādās līdzās kā pāris, latviski zaudē skaņas tuvību."
+    }
+  ],
+  "translation": "Dzirdi manu lūgšanu, Jahve, un manu kliedzienu uzklausi, pie manām asarām nekļūsti kluss, jo es esmu svešinieks pie Tevis, iemītnieks kā visi mani tēvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/39\/13-14.1792527460532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dzirdi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "manu lūgšanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "un manu kliedzienu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uzklausi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "manām asarām"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kļūsti kluss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "svešinieks"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pie Tevis"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "iemītnieks"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kā visi"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mani tēvi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:40.532672795Z",
+  "model": "glm-5.3"
+}

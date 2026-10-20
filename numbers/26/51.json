@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa starp rādāmo vārdu un skaitli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "601 730",
+      "rationale": "Visas tautas kopējais ieskaitījums — skaitļi pilni, kā ebreju valodā"
+    }
+  ],
+  "translation": "Šie ⟨ir⟩ Jisraēla dēlu ieskaitītie: seši simti tūkstoši un tūkstotis, septiņi simti un trīsdesmit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5107e8be24b0743784dcd8c15bc0d5183ea09e66075b45bd4853408045c02b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/26\/50-51.1792532480852.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ieskaitītie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "un tūkstotis"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:20.852803150Z",
+  "model": "glm-5.3"
+}

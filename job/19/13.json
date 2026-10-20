@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 19:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā nav subjekta — darītājs (Elohim\/nelaime) paliek nenosaukts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pilnīgi",
+      "rationale": "אך šeit apstiprinājuma\/ierobežojuma daļiņa 'patiesi, pilnīgi', bez tās teikums zaudē asumu."
+    }
+  ],
+  "translation": "Manus brāļus ⟨viņš⟩ ir tālinājis no manis, un mani pazīstamie ir kļuvuši man pilnīgi sveši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/19\/13-16.1792529218117.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Manus brāļus"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ir tālinājis"
+    },
+    {
+      "surface": "וידעי",
+      "gloss": "un mani pazīstamie"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pilnīgi"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ir kļuvuši sveši"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:58.118313105Z",
+  "model": "glm-5.3"
+}

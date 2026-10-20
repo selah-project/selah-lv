@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 33:23",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Pilnais sasiešanas laiks latviešu valodā prasa palīgdarbības vārdu; ebreju pusfragments to izsaka bez tā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "noticināja sevi",
+      "rationale": "נכנע burtiski 'nolieca ceļus'; latviešu 'noticināja sevi' ir dzīvā Tradīcijas atbilstība šai saknei Tanahā (2. Mozus 10:3)."
+    }
+  ],
+  "translation": "Un nenoticināja sevi Jahves priekšā, kā bija noticinājis sevi Menášehs, viņa tēvs, jo Amons pats ⟨bija⟩ vairojis vainu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "297338e508f900282c9279f692e027bdc01c6186fa2b0c1cf026eda34dc7946f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/21-24.1792532303626.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "noticināja sevi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כהכנע",
+      "gloss": "kā bija noticinājis sevi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menášehs"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēvs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amons"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "vairojis"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "vainu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:23.627296662Z",
+  "model": "glm-5.3"
+}

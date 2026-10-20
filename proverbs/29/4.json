@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "notur ⟨stāvus⟩",
+      "rationale": "יעמיד — darāms 'nolikt stāvus, nostiprināt'; latviski nepieciešams papildu vārds"
+    },
+    {
+      "kind": "crux",
+      "subject": "dāvanas",
+      "rationale": "תרומות — 'upurdāvanas vai nodevas'; KJV 'saņem dāvanas', ASV 'pieprasa nodevas' — korupcijas vai nodokļu lasījums"
+    }
+  ],
+  "translation": "Ķēniņš ar tiesu notur ⟨stāvus⟩ zemi; bet vīrs, kas saņem dāvanas, to nogāž.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/29\/1-4.1792528921925.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ar tiesu"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "notur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "bet vīrs"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "dāvanas"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "to nogāž"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:01.926303193Z",
+  "model": "glm-5.3"
+}

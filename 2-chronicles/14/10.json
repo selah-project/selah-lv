@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 14:10",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין רב לאין כח",
+      "rationale": "'starp vareno un bezspēcīgo' — vai arī 'līdzīgi daudzajam un niecīgajam spēkam'; nav citas palīdzības kā Jahve."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirstīgais",
+      "rationale": "אנוש ir 'mirstīgais cilvēks', nevis vienkārši 'cilvēks'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨cita⟩",
+      "rationale": "Izteiksme 'nav ... kas palīdzētu' latviski prasa paskaidrojošu 'cita'."
+    },
+    {
+      "kind": "you",
+      "subject": "Asa lūgšana",
+      "rationale": "Tieša uzruna Jahvem, mūsu Elohim."
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgšana",
+      "rationale": "Asa lūgums piesaista klausītāju ar atkārtotu uzrunu 'Jahve'."
+    }
+  ],
+  "translation": "Un Asa piesauca Jahvi, savu Elohim, un sacīja: Jahve, nav ⟨cita⟩ līdzās Tev, kas palīdzētu — starp vareno un to, kam nav spēka. Palīdzi mums, Jahve, mūsu Elohim, jo uz Tevi mēs paļāvojamies un Tavā vārdā mēs nākam pret šo pūli. Tu ⟨esi⟩ Jahve, mūsu Elohim; lai mirstīgais neuzvar Tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35c26ccfa92f8fb1e6fd91bc4e20568c4909ec07ef69eac910ec62f4937cfa81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/14\/9-12.1792531965102.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "piesauca"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "līdzās Tev"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "kas palīdzētu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vareno"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "tam, kam nav"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēka"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "Palīdzi mums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uz Tevi"
+    },
+    {
+      "surface": "נשענו",
+      "gloss": "mēs paļāvojamies"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "un Tavā vārdā"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "mēs nākam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "šo pūli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "uzvar"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Tevi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgais"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:45.103091963Z",
+  "model": "glm-5.3"
+}

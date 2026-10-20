@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 8:18",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "no sejas",
+      "rationale": "מלפני — burtiski 'no sejas priekšas', idioms 'aiz bēgšanas no'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tanī dienā",
+      "rationale": "'ביום ההוא' atkārtojas divreis panta ietvaros — hiasmaisks ietvars, kas latviski saglabāts atkārtojumā"
+    }
+  ],
+  "translation": "Un jūs kliegsit tanī dienā no sejas sava ķēniņa, kuru izredzējāt sev, un Jahve neatbildēs ⟨את⟩ jums tanī dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/8\/17-20.1792518834434.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזעקתם",
+      "gloss": "Un jūs kliegsit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "sava ķēniņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "izredzējāt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atbildēs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums",
+      "marks": "jums"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    }
+  ],
+  "timestamp": "2026-10-20T17:53:54.435588333Z",
+  "model": "glm-5.3"
+}

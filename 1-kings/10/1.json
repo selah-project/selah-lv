@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mīklās",
+      "rationale": "בחידות — mīklas, tumši teikumi, parunas; 'grūti jautājumi' ir paviršs"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mīklās",
+      "rationale": "Ķēniņiene nāk ar mīklām — apzināti noslēpumaini jautājumi"
+    },
+    {
+      "kind": "secret",
+      "subject": "בחידות",
+      "rationale": "Mīklas kā noslēpumaina runa, ko atklāt"
+    }
+  ],
+  "translation": "Un Šebas ķēniņiene dzirdēja ⟨את⟩ Slavenību par Šelomo — par Jahves vārdu — un atnāca pārbaudīt viņu mīklās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/10\/1-4.1792520636531.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Un ķēniņiene"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šebas"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Slavenību"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Slavenību"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "par Šelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "par vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "un atnāca"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "pārbaudīt viņu"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "mīklās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:56.532683566Z",
+  "model": "glm-5.3"
+}

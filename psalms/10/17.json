@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pazemoto",
+      "rationale": "ענוים — 'cliendētie, nabagie, pazemotie'; latviski viens vārds jāizvēlas no plašāka lauka"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכין לבם",
+      "rationale": "vai 'tu sagatavo viņu sirdi' (Dievs stiprina) vai 'tu nodibini viņu sirdi'; KJV\/BSB atšķiras"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pēc⟩",
+      "rationale": "ivritā nepārtraukta konstruktivu saite 'pazemoto tāpātava'; latviešu valodai vajadzīgs show"
+    }
+  ],
+  "translation": "Tāpātavas ⟨pēc⟩ pazemoto tu esi dzirdējis, Jahve, tu sagatavo viņu sirdi, tu piesliedzi ⟨savu⟩ ausi,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/17-18.1792527084233.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "tāpātava"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pazemoto"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu esi dzirdējis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu sagatavo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "viņu sirdi"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "tu piesliedzi ausi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tavu ausi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:24.234414692Z",
+  "model": "glm-5.3"
+}

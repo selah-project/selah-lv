@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ארנן laiks",
+      "rationale": "Forma var būt arī intensīvs tagadne: 'es gavilēju' (YS 'I sing')."
+    }
+  ],
+  "translation": "Jo tu esi bijis man palīgs, un tavu spārnu ēnā es gavilēšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/63\/5-8.1792527762029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "esi bijis"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "palīgs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "un ēnā"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tavu spārnu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "es gavilēšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:42.030116859Z",
+  "model": "glm-5.3"
+}

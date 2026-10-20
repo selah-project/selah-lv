@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 33:24",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פדעהו",
+      "rationale": "פדע parādās tikai šeit; nozīme 'izraut, atsvabināt' pēc saknes."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'izpirkums' (KJV\/JPS) pret 'pirmsdiegu (pārklājumu)' — pārnesums no seguma jēdziena."
+    },
+    {
+      "kind": "you",
+      "subject": "lūgums vēstnesim",
+      "rationale": "Vārdi 'atsvabini viņu' adresēti starpniekam, nevis slimajam."
+    }
+  ],
+  "translation": "tad Viņš ir žēlīgs pret viņu un saka: Atsvabini viņu no ieiešanas bedrē — esmu atradis izpirkumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/33\/21-24.1792529426741.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחננו",
+      "gloss": "tad Viņš ir žēlīgs pret viņu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un saka"
+    },
+    {
+      "surface": "פדעהו",
+      "gloss": "atsvabini viņu"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "no ieiešanas lejup"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "bedrē"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "esmu atradis"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "izpirkumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:26.742533903Z",
+  "model": "glm-5.3"
+}

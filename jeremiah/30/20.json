@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 30:20",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "„apciemos” ar naidnieku nodomu — latviski „piemeklēšu” saglabā abpusējo nozīmi"
+    },
+    {
+      "kind": "addition",
+      "subject": "Manā",
+      "rationale": "לפני — „Manā priekšā”; vietniekvārds pievienots skaidrībai"
+    }
+  ],
+  "translation": "Un viņa bērni būs kā agrāk, un viņa saime stāvēs Manā priekšā, un Es piemeklēšu visus viņa apspiedējus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d2ae9f14028d2e1180d43dfb09265024cba731a725993cbc408b2e4d5811735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/30\/17-20.1792523937384.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Un būs"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa bērni"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "kā agrāk"
+    },
+    {
+      "surface": "ועדתו",
+      "gloss": "un viņa saime"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "stāvēs"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "un Es piemeklēšu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "לחציו",
+      "gloss": "viņa apspiedējus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:18:57.386200866Z",
+  "model": "glm-5.3"
+}

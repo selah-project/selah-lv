@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju teksts nav pilns teikums — 'Es Jahve, svētīšanas darītājs'; latviešu valoda pieprasa copulu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקדש \/ מקדשי",
+      "rationale": "Darītājs (particips) un vieta — viena sakne קדש divreiz: kas svētī un svētnība"
+    }
+  ],
+  "translation": "Un tautas zinās, ka Es ⟨esmu⟩ Jahve, kas svētī ⟨את⟩ Jisraēlu, kad mana svētnība būs viņu vidū uz mūžību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/37\/25-28.1792525643709.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Un zinās"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svētī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kad būs"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mana svētnība"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "viņu vidū"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžību"
+    }
+  ],
+  "timestamp": "2026-10-20T19:47:23.711024571Z",
+  "model": "glm-5.3"
+}

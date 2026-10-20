@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu teikuma struktūrai vajadzīgs."
+    },
+    {
+      "kind": "crux",
+      "subject": "tīri",
+      "rationale": "KJV lasa 'patīkami vārdi' (tīrības īpašība), JPS — 'vārdi ir tīri' (predikāts); ebreju virkne pieļauj abas."
+    }
+  ],
+  "translation": "Jahvei pretīgas ⟨ir⟩ ļaunās domas, bet tīri ⟨ir⟩ laipnie vārdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/25-28.1792528749359.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "pretīgas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "domas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunās"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "bet tīri"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "laipnie"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:09.360528886Z",
+  "model": "glm-5.3"
+}

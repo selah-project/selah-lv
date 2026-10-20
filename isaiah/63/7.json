@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 63:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesedus",
+      "rationale": "חסד saglabāts kā 'hesed' — viens vārds, kas aptver labestību, uzticību, žēlastību"
+    },
+    {
+      "kind": "crux",
+      "subject": "כעל",
+      "rationale": "Saplūdušas daļiņas כ + על; lasīts arī kā 'pēc visa' vai 'par visu', ko Jahve darījis"
+    }
+  ],
+  "translation": "Jahves hesedus es pieminēšu, Jahves slavas, par visu, ko Jahve mums darījis, un lielo labumu Jisraēla namam, ko viņš tiem darījis pēc savām žēlsirdībām un pēc sava heseda daudzuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/63\/5-8.1792523103243.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesedus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "es pieminēšu"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "slavas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "par"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "mums darījis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "un lielo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labumu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גמלם",
+      "gloss": "viņiem darījis"
+    },
+    {
+      "surface": "כרחמיו",
+      "gloss": "pēc savām žēlsirdībām"
+    },
+    {
+      "surface": "וכרב",
+      "gloss": "un pēc daudzuma"
+    },
+    {
+      "surface": "חסדיו",
+      "gloss": "sava heseda"
+    }
+  ],
+  "timestamp": "2026-10-20T19:05:03.244119138Z",
+  "model": "glm-5.3"
+}

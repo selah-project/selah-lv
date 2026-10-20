@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 7:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ahazam",
+      "rationale": "Pravietis runā tieši pie ķēniņa Ahasa: 'pār tevi un tavu tēva namu'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "lamed במלך אשור",
+      "rationale": "'Ar Asīrijas ķēniņa [starpgadījumu]' — ar vārdu 'ar' nevis vienkārši identifikācijas domdivdabība kā KJV 'even the king of Assyria'."
+    }
+  ],
+  "translation": "Jahve atvedīs pār tevi, pār tavu tautu un pār tavas tēva namu dienas, kādas nav nākušas, kopš dienas, kad Efrajims atkāpās no Jehudas — ⟨את⟩ Asīrijas ķēniņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "079c2e14bb824b8fe56427ec2eaf70b8aba376ea67bd2e9da0c84bbfed3e2295",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/7\/17-20.1792521913738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יביא",
+      "gloss": "atvedīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavu tautu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavas tēva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kādas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nākušas"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "kopš dienas"
+    },
+    {
+      "surface": "סור",
+      "gloss": "atkāpās"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asīrijas ķēniņu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asīrijas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:13.739469121Z",
+  "model": "glm-5.3"
+}

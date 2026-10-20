@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pret",
+      "rationale": "Latviešu valodai vajadzīgs prievārds; ebreju לו ir tikai datīvs 'Viņam'"
+    }
+  ],
+  "translation": "Un viņi turpināja vēl grēkot pret Viņu, saceldamies pret Elijonu sausumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/17-20.1792527901653.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "Un viņi turpināja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "grēkot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pret Viņu"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "saceldamies"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "pret Elijonu"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "sausumā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:01.654555644Z",
+  "model": "glm-5.3"
+}

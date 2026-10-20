@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseli",
+      "rationale": "נפש ir 'elpojoša būtne, rīkle, dzīvības spēks' — nevis nemateriāla 'dvēsele'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "acis nespēj pieēst bagātību",
+      "rationale": "Ebreju idiomā acis 'sātās' (שבע) bagātības — skatiene kā apetīte."
+    },
+    {
+      "kind": "crux",
+      "subject": "liedzu savu dvēseli no laba",
+      "rationale": "ומחסר את נפשי מטובה: vai 'atņemu savai dvēselei labo' (sev labumu laupu) vai 'apslodzu savu dzīvību ar labu'; JPS pirmo, KJV otro virzienu."
+    },
+    {
+      "kind": "addition",
+      "subject": "priekš",
+      "rationale": "Latviešu jautājuma konstrukcija prasa prievārdu, ko ebreju מי jau ietver."
+    }
+  ],
+  "translation": "ĻIr viens, un nav otra; arī dēla un brāļa viņam nav, un nav gala visam viņa pūlam; arī viņa acis nespēj pieēst bagātību. Un ⟨priekš⟩ kā es pūlējos un liedzu ⟨את⟩ savu dvēseli no laba? Arī tas ir hebel un ļauns nodarbojums — tas ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/4\/5-8.1792529944640.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "שני",
+      "gloss": "otra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "un brāļa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "gala"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "viņa pūlam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "viņa acis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "spēj pieēst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bagātību"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "Un ⟨priekš⟩ kā"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pūlējos"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "un liedzu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dvēseli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "no laba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "un nodarbojums"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļauns"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ⟨ir⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:04.642223966Z",
+  "model": "glm-5.3"
+}

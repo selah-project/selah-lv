@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "starp ... un starp",
+      "rationale": "Ebreju constructions בין ... ובין atkārto 'starp' abos locekļos"
+    }
+  ],
+  "translation": "Un karš ⟨bija⟩ starp Asu un starp Bašu, Jisraēla ķēniņu, visās viņu dienās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/15\/29-32.1792520841389.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Un karš"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "viņu dienās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:21.390307693Z",
+  "model": "glm-5.3"
+}

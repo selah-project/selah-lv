@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנפשו",
+      "rationale": "'ar savu dvēseli\/patiku' — KJV 'at his pleasure'; arī lasījums 'sava personīgā autoritātē'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prāts",
+      "rationale": "נפש ir 'rīkle, dzīvības spēks, paša griba', ne tikai 'dvēsele'"
+    }
+  ],
+  "translation": "Sasaistīt ⟨sava⟩ firstu pēc sava prāta un vecajiem mācīt gudrību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/21-24.1792528155070.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sasaistīt"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sava firstu"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "pēc sava prāta"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "un vecajiem"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "mācīt gudrību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:15.071457657Z",
+  "model": "glm-5.3"
+}

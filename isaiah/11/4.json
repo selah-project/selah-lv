@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק atstāts kā 'cedek' — viena sakne visur, nevis atsevišķi 'taisnība\/tiesiskums'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sava mute — zižli",
+      "rationale": "'Zižlis no viņa mute' — burtiski 'zižlis viņa mute'; metafora: vārds kā pavēle, kas sit."
+    }
+  ],
+  "translation": "Un cedekā viņš tiesās vārgos un taisnā ceļā spriedīs zemes pieticīgajiem; un ar sava mute — zižli viņš sitīs zemi, un ar savu lūpu ruah viņš nogalinās ļauno.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/11\/1-4.1792522079641.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "tiesās"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cedekā"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "vārgos"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "spriedīs"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "taisnā ceļā"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "pieticīgajiem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "sitīs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ar zižli"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "no viņa mute"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "un ar ruah"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "no viņa lūpām"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "nogalinās"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļauno"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:59.642686452Z",
+  "model": "glm-5.3"
+}

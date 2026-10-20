@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "un viņš redzēja",
+      "rationale": "וירא var būt 'redzēja' vai (ar citu patskaņiem) 'baidījās' — septuaginta un daudzi tulki lasa 'nobijās'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "gāja par savu dzīvību",
+      "rationale": "ebreju 'gāja uz savu nefesh' — bēgšanas idioms, burtiski 'savai dvēselei'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩ · ⟨bēgt⟩",
+      "rationale": "pretējs objekts un skaidrojošs darbības vārds pievienoti latviešu lasāmībai"
+    }
+  ],
+  "translation": "Un viņš redzēja ⟨to⟩, un cēlās, un gāja ⟨bēgt⟩ par savu dzīvību, un nonāca Bēr-Ševā, kas pieder Jūdai, un atstāja ⟨את⟩ savu jaunekli tur.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/19\/1-4.1792521006990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "un viņš redzēja"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "un cēlās"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "par"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu dzīvību"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un nonāca"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bēr-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jūdai"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "un atstāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu jaunekli"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "savu jaunekli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    }
+  ],
+  "timestamp": "2026-10-20T18:30:06.991381395Z",
+  "model": "glm-5.3"
+}

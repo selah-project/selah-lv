@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 43:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kā lina diegs",
+      "rationale": "פשתה ir lins; arī 'lina diegs (ugunī)' — attēls par nopūšamu uguntiņu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דעכו ... כבו",
+      "rationale": "Divi sinonīmi darbības vārdi par dzēšanu\/izdzišanu vienā pantā — pastiprinājums"
+    }
+  ],
+  "translation": "Kas izved ratus un zirgus, armiju un vareno spēku — kopā tie guļ, necelsies: tie ir nodzisuši, kā lina diegs tie nodzisuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "860c0abc2c81991eb53eb5768f4b9b71242da6c7952b6d344839c9c91e3e99f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/17-20.1792522681972.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Kas izved"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "un zirgus"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "armiju"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "un vareno spēku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "tie guļ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "necelos"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "necelsies"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ir nodzisuši"
+    },
+    {
+      "surface": "כפשתה",
+      "gloss": "kā lina diegs"
+    },
+    {
+      "surface": "כבו",
+      "gloss": "nodzisuši"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:01.972652714Z",
+  "model": "glm-5.3"
+}

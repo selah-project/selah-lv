@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 10:13",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "galgals",
+      "rationale": "הגלגל — atkārtots riņķojošs no ‘ofan’ atvasinājums; tulkotāji šķiras: 'riņķojošais ritenis' (KJV), 'riteņu ierīce' (JPS) vai kā vārds-saukums 'Galgals'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tika saukts vārds",
+      "rationale": "קורא — burtiski 'sauc\/uzsauc'; neviens necer runātāju, tāpēc nenoteikta forma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אופן\/גלגל",
+      "rationale": "Divi vārdi 'ritenis' vienā pantā — ofan un galgal; atkārtojums zūd, ja abus tulko vienādi."
+    }
+  ],
+  "translation": "Riteņiem — tiem tika saukts vārds galgals, manās ausīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/10\/13-16.1792524874885.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאופנים",
+      "gloss": "riteņiem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "tika saukts vārds"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "galgals"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "manās ausīs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:34:34.886464428Z",
+  "model": "glm-5.3"
+}

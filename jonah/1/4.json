@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā 'ruah' — vējš\/gars\/elpa vienā vārdā pēc D2 noteikuma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשבה",
+      "rationale": "'kuģis domāja' — personifikācija burtiska: kuģis 'rēķināja' sevi sašķīstam; daudzi tulko 'draudēja sairt'"
+    }
+  ],
+  "translation": "Un Jahve svieda lielu ruah uz jūru, un notika liels vētrašana jūrā, un kuģis domāja uz sašķīšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a98d519c2fa335203127eaaf28ec894ecebff3f3a5cd68fc4aa20334c5f721d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jonah\/1\/1-4.1792526353257.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Un Jahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "svieda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "סער",
+      "gloss": "vētrašana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liels"
+    },
+    {
+      "surface": "בים",
+      "gloss": "jūrā"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "un kuģis"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "domāja"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "uz sašķīšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:13.258599303Z",
+  "model": "glm-5.3"
+}

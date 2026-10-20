@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa, latviešu teikumam vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sacelšanās",
+      "rationale": "פֶשַׁע ir sacelšanās pret autoritāti, nevis vienkārši 'pārkāpums'."
+    }
+  ],
+  "translation": "Jo savas sacelšanās es pazīstu, un mans grēks man pretī ⟨ir⟩ pastāvīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/5-8.1792527609128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "savas sacelšanās"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "pazīstu"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "un mans grēks"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "man pretī"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:09.129186333Z",
+  "model": "glm-5.3"
+}

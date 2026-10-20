@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 38:25",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ממנו",
+      "rationale": "ivriešu 'no viņa' (no ķēniņa) latviski dabiskāk 'no mums', jo runātāji prasa neslēpt no viņiem pašiem"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "prievārds ar priedēkli את renderēts kā ⟨את⟩ ar tevi"
+    }
+  ],
+  "translation": "Un ja virsnieki dzirdēs, ka es runāju ⟨את⟩ ar tevi, un atnāks pie tevis un sacīs tev: Padari mums zināmu, lūdzu, ko tu runāji ar ķēniņu, neslēp to no mums, un mēs tevi nenonāvēsim, — un ko ķēniņš runāja ar tevi,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "97ed94a5a00674374c59fbfaa64da0892d5e1af00b6f6c97213457a8f374e629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/38\/25-28.1792524242471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dzirdēs"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "virsnieki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "es runāju"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi",
+      "marks": "ar tevi"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "un atnāks"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "un sacīs"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "padari zināmu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu runāji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neslēp"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "to"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no mums"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נמיתך",
+      "gloss": "mēs tevi nenonāvēsim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    }
+  ],
+  "timestamp": "2026-10-20T19:24:02.472089419Z",
+  "model": "glm-5.3"
+}

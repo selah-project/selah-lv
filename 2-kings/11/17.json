@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכרת ברית",
+      "rationale": "Burtiski 'nocirta derību' — derība tika noslēgta, ejot gaļas gabalu starpā; latviski 'noslēdza derību'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Darāmajam vārdam 'lai būtu' latviešu valodā vajadzīgs subjekts, ebreju tekstā tas netiek minēts."
+    }
+  ],
+  "translation": "Un Jehojada noslēdza ⟨את⟩ derību starp Jahvi un starp ķēniņu un starp tautu, lai tie būtu par tautu Jahvem, un starp ķēniņu un starp tautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/11\/17-20.1792521369521.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "noslēdza"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derību"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "lai tie būtu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:36:09.521711978Z",
+  "model": "glm-5.3"
+}

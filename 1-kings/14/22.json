@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Jahves acīs",
+      "rationale": "בעיני יהוה — 'Jahves acīs' = Viņa skatījumā; saglabāts burtiski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "greizsirdība",
+      "rationale": "קנא — 'būt greizsirdīgam\/degunskalam'; attieksmes cilpa ar derību"
+    }
+  ],
+  "translation": "Un Jūda darīja ļaunu Jahves acīs, un tie ⟨את⟩ Viņu izprovocēja greizsirdībā vairāk par visu, ko darījuši viņu tēvi, ar saviem grēkiem, kurus tie bija grēkojuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cfb75b040cc44eb66a820c664b6ae3386fedad67c4b6a69c1544477fe06a5426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/21-24.1792520735203.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un darīja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "un izprovocēja greizsirdībā"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Viņu",
+      "marks": "vairāk par visu, ko darījuši tēvi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vairāk par visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darījuši"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvi"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "ar saviem grēkiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bija grēkojuši"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:35.204142773Z",
+  "model": "glm-5.3"
+}

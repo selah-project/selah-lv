@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pār",
+      "rationale": "Priekšvārds ל atveidots kā 'pār', netulkojot valdītāja amatu, kādā tekstā nav darbības vārda."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאחי דויד",
+      "rationale": "'no Davida brāļiem' burtiski; KJV 'viens no Davida brāļiem' — skaits pievienots."
+    }
+  ],
+  "translation": "Pār Jehudu — Elihu, no Davida brāļiem; pār Jisaskaru — Omri, Mihaela dēls.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/27\/17-20.1792531607561.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "pār Jehudu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "no brāļiem"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "pār Jisaskaru"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mihaela"
+    }
+  ],
+  "timestamp": "2026-10-20T21:26:47.562589007Z",
+  "model": "glm-5.3"
+}

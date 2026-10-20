@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערוה",
+      "rationale": "'Kailums' — kauns, kas saistīts ar atklātu ķermeni priesterības kontekstā; 3. Mozus izmanto to pašu sakni aizliegto attiecību sarakstā."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשר לא",
+      "rationale": "Nolieguma intended rezultāts ('lai ne...') pret tīru mērķa teikumu; abas lasījumas iespējamas."
+    }
+  ],
+  "translation": "Un tu nekāpsi pa pakāpieniem uz manu altāri, lai tavu kailumu neatklātu uz tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/25-26.1792513062552.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "tu kāpsi"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "pa pakāpieniem"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mano altāri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atklātu"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tavu kailumu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz tā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:42.553220263Z",
+  "model": "glm-5.3"
+}

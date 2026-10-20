@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ozoli",
+      "rationale": "אילים: 'ozoli' (JPS 'terebintas', KJV 'oaks') — svēto koku kults; tas pats vārds nozīmē arī 'briedi' un 'spēks'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jūs",
+      "rationale": "Hebreju valodā pāreja no 3. persones (viņi) uz 2. personu (jūs) ir tekstā pašā — tulkojums to saglabā bez pievienojuma, bet latviešu darbības vārdos personas tiek izteiktas."
+    }
+  ],
+  "translation": "Jo viņi kaunēsies no ozoliem, ko jūs iekārojāt, un jūs apkaunēsities no dārziem, ko jūs izvēlējāties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/1\/29-31.1792521848180.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "kaunēsies"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "no ozoliem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "jūs iekārojāt"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "un apkaunēsities"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "no dārziem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "jūs izvēlējāties"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:08.180904081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנת בלבבך",
+      "rationale": "Darbības vārds צפן — slēpt, krāt klusībā: Hiobs saka, ka Elohim glabā apslēptu nodomu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "זאת עמך",
+      "rationale": "Nenosauktais 'tas, kas ir ar Tevi' paliek apzināti miglains."
+    }
+  ],
+  "translation": "Un ⟨ir⟩ šīs Tu esi paslēpis savā sirdī; es zinu, ka tas ⟨ir⟩ pie Tevis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/10\/13-16.1792529131243.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Un šīs"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "esi paslēpis"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "savā sirdī"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tas"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pie Tevis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:31.243725650Z",
+  "model": "glm-5.3"
+}

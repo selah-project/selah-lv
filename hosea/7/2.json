@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמרו — 'viņi nesaka' vs 'lai viņi nesaka'",
+      "rationale": "JPS lasa to kā vēlējumu\/noliegumu ('un lai viņi nesaka'), citi kā konstatējumu ('un viņi neapsver')"
+    },
+    {
+      "kind": "you",
+      "subject": "manā priekšā",
+      "rationale": "Jahve runā pirmajā personā — ļaunums ir tieši Viņa acu priekšā"
+    }
+  ],
+  "translation": "Un viņi nesaka savā sirdī: visu savu ļaunumu es atcerējos; tagad viņu darbi ir aplaiduši viņus, viņi ir bijuši manā priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/7\/1-4.1792526003657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "un... ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "viņi saka"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "savā sirdī"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "savu ļaunumu"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "es atcerējos"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "ir aplaiduši viņus"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "viņu darbi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "פני",
+      "gloss": "manā priekšā"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ir bijuši"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:23.657923534Z",
+  "model": "glm-5.3"
+}

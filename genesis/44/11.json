@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש אמתחתו … איש אמתחתו",
+      "rationale": "atkārtotā struktūra 'katrs savu maisu' divreiz — virknes ritms, latviski saglabāts."
+    }
+  ],
+  "translation": "Un viņi steidzās un nolaida katrs ⟨את⟩ savu maisu zemē, un katrs atvēra savu maisu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/44\/9-12.1792512466908.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Un viņi steidzās"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "un nolaida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu maisu"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "savu maisu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "un atvēra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "savu maisu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:46.910490407Z",
+  "model": "glm-5.3"
+}

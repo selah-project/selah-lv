@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "ebreju teikumā nav saikļa — והנה 'un lūk' ievada ainu bez darbības vārda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התרפים ... וכביר",
+      "rationale": "atkārtojums no 19:13 — tas pats vārdu pāris vēstnešu acīm atklāj Mikalas viltu"
+    }
+  ],
+  "translation": "Un vēstneši ienāca, un lūk — terafimi ⟨ir⟩ uz gultas un kazu spalvu matracis ⟨viņa⟩ galvgalī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/19\/13-16.1792519226450.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Un ... ienāca"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "vēstneši"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gultas"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "un ... matracis"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazu"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "galvgalī"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:26.451744039Z",
+  "model": "glm-5.3"
+}

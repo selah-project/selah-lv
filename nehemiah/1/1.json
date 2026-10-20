@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir' nosaukuma teikumā"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Kislēv, divdesmitais gads",
+      "rationale": "Precīzs datumu norādījums — mēnesis un gads"
+    },
+    {
+      "kind": "elision",
+      "subject": "הבירה",
+      "rationale": "Nozīme 'cietoksnis, pils'; latviski 'cietoksnis' kā viens vārds pietuvina formu"
+    }
+  ],
+  "translation": "Neḥemijas, ᤤḤakalijas dēla, vārdi. Un notika mēnesī Kislēv, divdesmitajā gadā, un es biju Šūšānas cietoksnī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d487a4e1c62f57474de3b334f9eae225fa2412ea2f0c6ce0e4812639bc0e52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/1\/1-4.1792530649490.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Neḥemija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Ḥakalija"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "Kislēv"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmitajā"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "biju"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Šūšānā"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cietoksnī"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:49.490767116Z",
+  "model": "glm-5.3"
+}

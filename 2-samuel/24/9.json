@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census totals",
+      "rationale": "Tautas skaitīšanas rezultāts: astoņi simti tūkstoši un pieci simti tūkstoši vīru."
+    },
+    {
+      "kind": "addition",
+      "subject": "Jūdas vīri",
+      "rationale": "Ivrita איש יהודה ir burtiski 'Jūdas vīrs'; latviski pievienots 'vīri' skaidrībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "skaitļi",
+      "rationale": "2 Sam 24:9 skaitļi nesakrīt ar 1 Laiku 21:5 versiju (Jisraēls 1 100 000, Jūda 470 000)."
+    }
+  ],
+  "translation": "Un Joabs nodeva ķēniņam ⟨את⟩ tautas skaitīšanas skaitu; un Jisraēlā bija astoņi simti tūkstoši vīru spēka, kas izvilka zobenu, un Jūdas vīri — pieci simti tūkstoši vīru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/9-12.1792520260784.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nodeva"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skaitu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaitu"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "skaitīšanas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "bija"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "spēka"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "kas izvilka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobenu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un Jūdas vīri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:40.785038877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩ · ⟨esmu⟩",
+      "rationale": "Ebreju valodā saiklis trūkst; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "you",
+      "subject": "Jichaka jautājums",
+      "rationale": "Tiešs jautājums Esausam — 'Kas tu esi?'"
+    }
+  ],
+  "translation": "Un sacīja viņam Jichaks, viņa tēvs: Kas tu ⟨esi⟩? Un viņš sacīja: Es ⟨esmu⟩ tavs dēls, tavs pirmdzimtais, Esaus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3b32dee35b19fb090e6a3468a07e2a2a7dd3ea48e78949b0d5c1534f8a8f9e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/27\/29-32.1792512129650.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichaks"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēvs"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavs dēls"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "tavs pirmdzimtais"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:09.651376070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "avis un kazas",
+      "rationale": "צאן ir kopvārds aviām un kazām kopā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "atkārtotais 'arī' savieno cilvēku, lopus un ganāmpulkus vienā aizlieguma ķēdē."
+    }
+  ],
+  "translation": "Un neviens cilvēks nedrīkst kāpt augšā ar tevi, un arī neviens lai neparādās visā kalnā, arī avis un kazas un liellopi lai neganās pretī tam kalnam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f91e99dbbd63c3aeef2239d1ae6461368a1ccd96c2fca88ced504e513e33c62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/34\/1-4.1792513388092.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Un neviens cilvēks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedrīkst"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kāpt augšā"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai nē"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "neparādās"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avis un kazas"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "un liellopi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai nē"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "neganās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "מול",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tam kalnam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:23:08.093411915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju valodā nav saikļa 'Es Jahve' — pievienots ⟨esmu⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "KJV ar Qere ואתי lasa 'izklāj zemi viens pats'; Ketiv מי אתī ir jautājums 'kas ⟨ir⟩ ar mani?' (kā YLT\/ASV) — saglabāts jautājuma lasījums."
+    },
+    {
+      "kind": "secret",
+      "subject": "kas ir ar mani?",
+      "rationale": "Retoriskais jautājums uzsver Jahves vienpatību — neviens nav Viņa līdzgalvis radīšanā."
+    }
+  ],
+  "translation": "Tā saka Jahve, tavs izpestītājs un tavs veidotājs no miesas: Es ⟨esmu⟩ Jahve, kas dara visu, kas viens pats izpleš debesis, izklāj zemi — kas ⟨ir⟩ ⟨את⟩ ⟨ar⟩ mani?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/44\/21-24.1792522775283.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "tavs izpestītājs"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "un tavs veidotājs"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "no miesas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kas dara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "izpleš"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vienas pats"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "izklāj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨ar⟩ mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:35.284321747Z",
+  "model": "glm-5.3"
+}

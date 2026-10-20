@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 14:17",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Prievārds מן ar את — saglabāts kā ⟨no⟩ ⟨את⟩, jo latviski vajag prievārdu."
+    },
+    {
+      "kind": "crux",
+      "subject": "הגשם",
+      "rationale": "גשם ir 'lietusgāze'; JPS lasa 'plūdi\/overflow' — 'lietus' pret 'plūdi'."
+    }
+  ],
+  "translation": "Un notiks: kas no zemes dzimtām nekāps augšā ⟨no⟩ ⟨את⟩ zemes dzimtām uz Jerušalaimu, lai pielūgtu Ķēniņu, Jahvi Cevaot, — uz tiem nebūs lietus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "579783ad4adadb7edf00f2211956110567fcde272f10e8395c8ba170126c4692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/14\/17-20.1792526917320.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nekāps augšā"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "no zemes dzimtām"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dzimtām"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "lai pielūgtu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Ķēniņu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "uz tiem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "lietus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:37.322553459Z",
+  "model": "glm-5.3"
+}

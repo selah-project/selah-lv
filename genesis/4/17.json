@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידע",
+      "rationale": "'Pazina' — ebreju 'zināja' par miesisku sakaru (pazina savu sievu), latviski saules idiomā 'pazina'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהי בנה עיר",
+      "rationale": "Burtiski 'un notika, būdams pilsētas cēlājs' — atkārtojošais_particips pārcelts uz 'kļuva par cēlāju'."
+    }
+  ],
+  "translation": "Un Kains pazina ⟨את⟩ savu sievu, un viņa ieņēma un dzemdēja ⟨את⟩ Hanohu; un viņš kļuva par pilsētas cēlāju un nosauca pilsētas vārdu pēc sava dēla vārda — Hanohs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/4\/17-20.1792511483797.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "pazina"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kains"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sievu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savu sievu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ieņēma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanohu"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanohu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kļuva"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "cēlājs"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "pēc vārda"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sava dēla"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanohs"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:23.798459360Z",
+  "model": "glm-5.3"
+}

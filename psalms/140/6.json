@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mūzikas pauzes atzīme, atstāta kā 'Selah' bez tulkojuma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "medību tēla virkne",
+      "rationale": "Slazgs — virves — tīkls — lamatas: četri dažādi slazgu vārdi vienā pantā kā uzkrāšana."
+    }
+  ],
+  "translation": "Paslēpa lepnie man slazgu un virves, izklāja tīklu pie ceļa malas, lamatas man uzcēla. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/5-8.1792528461238.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "paslēpa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "lepnie"
+    },
+    {
+      "surface": "פח",
+      "gloss": "slazgu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "un virves"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "izklāja"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "tīklu"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "pie ceļa malas"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ceļa"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "lamatas"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:21.239496149Z",
+  "model": "glm-5.3"
+}

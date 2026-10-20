@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד netiek tulkots vienā vārdā — žēlastība vai mīlestība viena par šauru"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסדי",
+      "rationale": "'Mans hesed' — vai tas attiecas uz Dieva hesed pret Davidu, vai uz Davida dievbijību"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי מגני",
+      "gloss": "Skandiņa: li-maginni — 'manam vairogam', ieskauj pārējos piederības vārdus"
+    }
+  ],
+  "translation": "Mans hesed un mans cietoksis, mans augstais patvērums un mans atbrīvotājs, mans vairogs — un viņā es patveros, tas, kas samīda ⟨את⟩ manu tautu zem manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/144\/1-4.1792528451432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "mans hesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "un mans cietoksis"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mans augstais patvērums"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "un mans atbrīvotājs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨manam patvērumam⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mans vairogs"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "un viņā"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "es patveros"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "kas samīda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manu tautu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "zem manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:11.433301016Z",
+  "model": "glm-5.3"
+}

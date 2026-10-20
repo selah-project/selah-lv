@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מוסר מעיר",
+      "rationale": "burtiski 'novērsta no pilsētas' — Damaskai pārstās būt pilsēta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעי מפלה",
+      "rationale": "drupu kaudze un kritums — divi tuvi vārdi par vienu postījumu"
+    }
+  ],
+  "translation": "Nasta Damaskai. Lūk, Damaska tiek novērsta no ⟨את⟩ pilsētas, un tā būs drupu kaudze.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/17\/1-4.1792522201912.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Nasta"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tiek novērsta"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "no pilsētas"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un tā būs"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "drupu kaudze"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "drupas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:50:01.912728205Z",
+  "model": "glm-5.3"
+}

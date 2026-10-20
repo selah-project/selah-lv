@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rēciens",
+      "rationale": "שאגה ir lauvas rēciens, ne vienkārši vaidēšana — tēls saglabāts"
+    }
+  ],
+  "translation": "Kad es klusēju, mani kauli novārga, ar manu rēcienu visu dienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/32\/1-4.1792527318767.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "es klusēju"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "novārga"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mani kauli"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ar manu rēcienu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:15:18.769300353Z",
+  "model": "glm-5.3"
+}

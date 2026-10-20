@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 42:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis; ebreju teikumā nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "spraugās",
+      "rationale": "בחורים: 'alu spraugas \/ dējēju ligzdas' vs 'cietuma kameras' — tulkotāji dalās."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בחורים",
+      "rationale": "Vārds Tanahā sastopams tikai šeit (No. 2352); tēls no čūskas spraugas vai cietuma kameras."
+    }
+  ],
+  "translation": "Bet šī ⟨ir⟩ tauta izlaupīta un aplaupīta; visi tie ķerti spraugās un paslēpti cietumu namā; tie kļuvuši par laupījumu, un nav, kas izglābj — par laupījumu, un nav, kas saka: Atgriez!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/42\/21-24.1792522682734.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Bet šī"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "בזוז",
+      "gloss": "izlaupīta"
+    },
+    {
+      "surface": "ושסוי",
+      "gloss": "un aplaupīta"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ķerti"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "spraugās"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ובבתי",
+      "gloss": "un cietumu"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "namā"
+    },
+    {
+      "surface": "החבאו",
+      "gloss": "paslēpti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kļuvuši"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "par laupījumu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kas izglābj"
+    },
+    {
+      "surface": "משסה",
+      "gloss": "laupījums"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kas saka"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Atgriez"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:02.734886530Z",
+  "model": "glm-5.3"
+}

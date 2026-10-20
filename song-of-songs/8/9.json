@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; tas pievienots latviski, atzīmēts ar ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "טירה",
+      "rationale": "Vārds nozīmē 'siena, cietoksnis, mazs ciems'; versijas: 'tornis', 'pils', 'cietoksnis'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חומה\/דלת",
+      "rationale": "Metaforu pretnstatījums siena–durvis atbild uz 8:8–8:10 dvēseles runu"
+    }
+  ],
+  "translation": "Ja viņa ⟨ir⟩ siena, mēs uzcelsim uz viņas sudraba cietoksni; un ja viņa ⟨ir⟩ durvis, mēs ieslēgsim viņu ar ciedra dēli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/9-12.1792529721254.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "siena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa ⟨ir⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "uzcelsim"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uz viņas"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "cietokšņa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "durvis"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa ⟨ir⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "ieslēgsim"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aiz viņas"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ciedra"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:21.255352633Z",
+  "model": "glm-5.3"
+}

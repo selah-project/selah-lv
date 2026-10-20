@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa 'šie ir ragi'; latviešu valodai tas vajadzīgs."
+    }
+  ],
+  "translation": "Un es teicu pie eņģeļa, kas runāja manī: kas ⟨ir⟩ šie? Un viņš teica man: šie ⟨ir⟩ ragi, kas izkaisīja ⟨את⟩ Jehudu, ⟨את⟩ Jisraēlu un Jerušalaimu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/2\/1-4.1792526711178.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Un es teicu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "eņģeļa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "runājošā"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš teica"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "izkaisīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "un Jerušalaimu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:05:11.180200500Z",
+  "model": "glm-5.3"
+}

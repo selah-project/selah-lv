@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Piedevots saiklis ⟨ir⟩, ko ebreju īsā frāze izlaiž"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרבה ... הרבה",
+      "rationale": "Atslēgas vārda atkārtojums: 'daudzums — daudz', cēlzies paliek"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lasītājam",
+      "rationale": "Pavēle 'bīsties Elohim' tieši vērsta pie klausītāja"
+    }
+  ],
+  "translation": "Jo sapņu daudzumā ⟨ir⟩ tukšības un vārdu daudz; bet tu bīsties ⟨את⟩ Elohim!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/5\/5-8.1792529944634.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "daudzumā"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "sapņu"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "tukšības"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daudz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bīsties"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:04.635542119Z",
+  "model": "glm-5.3"
+}

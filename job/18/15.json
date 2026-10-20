@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 18:15",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבלי לו",
+      "rationale": "Burtiski 'bez viņa' — 'kas viņam nav piederošs' (KJV\/JPS) pret 'jo viņa tur vairs nav' (BSB u.c.)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kas⟩",
+      "rationale": "Latviešu valodai vajadzīgs subjekta vārds; ebreju tekstā tas nav izteikts."
+    }
+  ],
+  "translation": "Viņa teltī mitēs ⟨kas⟩ viņam nepieder; pār viņa mitekli tiks izkaisīta sēra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/18\/13-16.1792529221732.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשכון",
+      "gloss": "mitēs"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "viņa teltī"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nepieder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "יזרה",
+      "gloss": "tiks izkaisīta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "viņa mitekli"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "sēra"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:01.733123453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Pants ir tiešs pielūgšanas lūgums — imperatīvs 'Darī' vērsts pie Dieva par ienaidniekiem."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tā tika darīts⟩",
+      "rationale": "Ebreju 'כ' ('kā') salīdzina tikai vārdus; latviešu valodai vajag izteiksmi, ka darbība attiecas uz notikumu."
+    }
+  ],
+  "translation": "Darī viņiem kā ⟨tā tika darīts⟩ Midjanam, kā Sīseram, kā Javīnam pie Kišonas strauta:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "69f6dfa6ded16bd24af260241a3b7338019813431766eae336da71947a0bc249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/83\/10-11.1792532804792.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Darī"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "kā Midjanam"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "kā Sīseram"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "kā Javīnam"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "pie strauta"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kišonas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:44.792482696Z",
+  "model": "glm-5.3"
+}

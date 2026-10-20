@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tante",
+      "rationale": "דדתו nozīmē 'viņa tante'; KJV un citi precizē 'tēva māsa' — ebreju vārds pats to nesaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "par sievu",
+      "rationale": "לאשה burtiski 'par sievu' saglabāts; ויקח 'ņēma' ir ebreju laulības idiomats, atstāts burtisks."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumā nav darbības vārda; latviešu valodai vajag saikli."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Amrama dzīves gadi",
+      "rationale": "Vecuma uzskaitījums: 137 gadi."
+    }
+  ],
+  "translation": "Un Amrams ņēma ⟨את⟩ Jokebedu, savu tanti, sev par sievu, un viņa dzemdēja viņam ⟨את⟩ Aharonu un ⟨את⟩ Moši; un Amrama dzīves gadu skaits ⟨bija⟩ simts trīsdesmit septiņi gadi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/6\/17-20.1792512715785.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Un ... ņēma"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokebedu"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Jokebedu"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "savu tanti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "par sievu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "un viņa dzemdēja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Moši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moši"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "un gadu skaits"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "dzīves"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrama"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "un simts"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:55.786067842Z",
+  "model": "glm-5.3"
+}

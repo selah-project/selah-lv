@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kausēts tīrs",
+      "rationale": "צרופה nozīmē metāla kausēšanu — attēls par tīrību pēc pārbaudes, ne tikai 'tīrs'."
+    }
+  ],
+  "translation": "Katrs Eloah vārds ir kausēts tīrs; viņš ir vairogs tiem, kas ⟨pie⟩ viņa patvēršas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/5-8.1792528916100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "kausēts tīrs"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "vairogs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "patvēršas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pie viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:56.101028309Z",
+  "model": "glm-5.3"
+}

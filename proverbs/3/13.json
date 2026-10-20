@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviski vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iegūst",
+      "rationale": "יפיק no saknes 'izplūst, izdot': burtiski 'izplūdina' sapratni kā avots; tulkots kā 'iegūst'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "אשרי",
+      "rationale": "Saucienu-makarisms vēršas pie lasītāja un aicina atpazīt svētīgo ceļu."
+    }
+  ],
+  "translation": "Laimīgs ⟨ir⟩ cilvēks, kas atrod gudrību, un cilvēks, kas iegūst sapratni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/13-16.1792528566443.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Laimīgs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "atrod"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "un cilvēks"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "iegūst"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "sapratni"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:06.443879370Z",
+  "model": "glm-5.3"
+}

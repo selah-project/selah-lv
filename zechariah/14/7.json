@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst darāmā vārda 'tā ir zināma'; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "zināma Jahvem",
+      "rationale": "ליהוה יודע: 'zināma Jahvem' pret JPS 'pazīstama kā Jahves' — ģenitīvs vai datīvs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viena diena",
+      "rationale": "Laika skaitīšana: viena diena, ne diena, ne nakts, vakara laikā gaisma."
+    },
+    {
+      "kind": "mystery",
+      "subject": "diena bez dienas un nakts",
+      "rationale": "Apzināti nepieejama diena — zināma tikai Jahvem."
+    }
+  ],
+  "translation": "Un būs viena diena — tā ⟨ir⟩ zināma Jahvem: nav diena un nav nakts; un notiks: vakara laikā būs gaisma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b258840484ae823704d9b8384173f58fc8b481d88537af792898bf01c0a50d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/14\/5-8.1792526916966.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zināma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakts"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "laikā"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vakara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaisma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:36.970520959Z",
+  "model": "glm-5.3"
+}

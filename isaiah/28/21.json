@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעשהו זר מעשהו",
+      "rationale": "Darbības vārda atkārtošana ar epitetu vidū — būtiski atkārtojums abos pantiem, saglabāts."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivritā teikumos nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    }
+  ],
+  "translation": "Jo kā Peracima kalnā celsies Jahve, kā Gibeonas ielejā viņš satricinās, lai darītu savu darbu — svešs ir viņa darbs, un lai veiktu savu darbību — sveša ir viņa darbība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/21-24.1792522263715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kā kalnā"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peracima"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "celsies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "kā ielejā"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibeonā"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "viņš satricinās"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "lai darītu"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "savu darbu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešs"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ir viņa darbs"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "un lai veiktu"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "savu darbību"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "sveša"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ir viņa darbība"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:03.716953978Z",
+  "model": "glm-5.3"
+}

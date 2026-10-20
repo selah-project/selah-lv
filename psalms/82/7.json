@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kā ādams",
+      "rationale": "אדם ir īpašvārds vienlaikus 'cilvēks' — saglabāts 'ādams' ar mazo burtu, jo vārda forma ir tā nozīme."
+    },
+    {
+      "kind": "crux",
+      "subject": "valdniekiem",
+      "rationale": "השרים — 'first' \/ 'valdnieki' \/ 'diženieki'; izvēlēts 'valdnieki' kā visneitrālākais."
+    }
+  ],
+  "translation": "Tomēr kā ādams jūs mirsiet un kā viens no valdniekiem jūs kritisiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/82\/5-8.1792527934346.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Tomēr"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "kā ādams"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "jūs mirsiet"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "un kā viens"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "no valdniekiem"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "jūs kritisiet"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:34.347709751Z",
+  "model": "glm-5.3"
+}

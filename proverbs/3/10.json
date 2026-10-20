@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pārplūdīs",
+      "rationale": "יפרצו burtīgi 'izlauzīsies, plīsīs vaļā' — spēcīgāka aina nekā 'pārpildīsies'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jauno vīnu",
+      "rationale": "תירוש ir svaigi izspiesta vīnogu sula, vēl neraudzēts vīns"
+    }
+  ],
+  "translation": "un tavas klētis pildīsies ar pārpilnību, un tavas vīna spiedes pārplūdīs ar jauno vīnu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/9-12.1792528538929.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "un pildīsies"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "tavas klētis"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ar pārpilnību"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ar jauno vīnu"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "tavas vīna spiedes"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "pārplūdīs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:38.930797084Z",
+  "model": "glm-5.3"
+}

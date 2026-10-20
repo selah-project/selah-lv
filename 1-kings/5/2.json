@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav darbības vārda 'bija'; latviešu teikumam vajag saikli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienas devums",
+      "rationale": "Pants uzskaita precīzu diennakts maizes daudzumu mēros (kor)"
+    }
+  ],
+  "translation": "Un Šlomo maize vienai dienai ⟨bija⟩ trīsdesmit kor smalko miltu un sešdesmit kor parasto miltu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/1-4.1792520365716.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Un maize"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vienai dienai"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienai"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "smalko miltu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "un sešdesmit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "parasto miltu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:25.717218976Z",
+  "model": "glm-5.3"
+}

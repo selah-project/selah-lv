@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mēri",
+      "rationale": "Bat (šķidruma mērs), homers un eifa (labības mēri): desmit jūgu vīna dārzs dos vienu batu — desmitkārīgs trūkums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jūgi",
+      "rationale": "צמד burtiski 'jūgs, pāris' — tā dienas darba platība vienam vēršu jūgam, ne 'akrs'."
+    }
+  ],
+  "translation": "Jo desmit vīna dārza jūgus darīs vienu batu, un homers sēklas darīs eifu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/5\/9-12.1792521934767.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "jūgus"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vīna dārza"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "darīs"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "un sēkla"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homers"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darīs"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eifu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:34.768030668Z",
+  "model": "glm-5.3"
+}

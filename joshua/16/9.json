@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 16:9",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Latviešu pagātne prasa palīgdarbības vārdu, ebreju valodā to nav"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pilsētu uzskaitījums",
+      "rationale": "pantā skaita un norobežo Efrajima mantojuma pilsētas Manases teritorijā"
+    }
+  ],
+  "translation": "Un pilsētas, kas ⟨tika⟩ atdalītas Efrajima dēliem Manases dēlu mantojuma vidū — visas pilsētas un to sētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/16\/9-10.1792517899509.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "un pilsētas"
+    },
+    {
+      "surface": "המבדלות",
+      "gloss": "kas ⟨tika⟩ atdalītas"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mantojuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manases"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "un to sētas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:19.510382382Z",
+  "model": "glm-5.3"
+}

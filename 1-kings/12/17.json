@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Un",
+      "rationale": "Hebrew vav ties this verse back to v.16; Latvian needs a conjunction"
+    }
+  ],
+  "translation": "Un Jisraēla dēli, kas dzīvoja Jehudas pilsētās, — pār tiem valdīja Rehabeams.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ebce0a2364cf3acde976d87e5d97a61fc1a27c9c85125086c5746248017ffc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/12\/17-20.1792520686196.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kas dzīvoja"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "valdīja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pār tiem"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeams"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:46.196712719Z",
+  "model": "glm-5.3"
+}

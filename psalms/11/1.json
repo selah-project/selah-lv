@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks', nevis latviešu 'dvēsele' dvēseles-jēdzienā"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst izteiksmes vārda 'es patvēros' saistībai; 'dziesma' pievienota virsraksta glabalam"
+    },
+    {
+      "kind": "you",
+      "subject": "Davids",
+      "rationale": "Teksts vēršas pie runātāja dvēseles un tiem, kas saka 'bēdz'"
+    }
+  ],
+  "translation": "Diriģentam. Davida dziesma. Pie Jahves es patvēros — kā jūs sakāt manai dvēselei: Bēdziet, putns, uz savu kalnu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/11\/1-4.1792527135737.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida dziesma"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pie Jahves"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "es patvēros"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kā"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jūs sakāt"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "manai dvēselei"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "bēdziet"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "savu kalnu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "putns"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:15.739016293Z",
+  "model": "glm-5.3"
+}

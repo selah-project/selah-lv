@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es esmu",
+      "rationale": "Ebreju valodā nav saikļa; אני הוא ir nominalā frāze"
+    },
+    {
+      "kind": "crux",
+      "subject": "no dienas",
+      "rationale": "מיום — 'no dienas' vai 'no mūžības' (BSB); KJV 'pirms dienas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "es daru",
+      "rationale": "אפעל — darāmais laiks 'es darīšu' vai pabeigtais 'es daru' (YL T\/BSB 'kad es darbojos')"
+    }
+  ],
+  "translation": "Arī no dienas ⟨es⟩ ⟨esmu⟩ viņš, un nav, kas izrauj no manas rokas; es daru, un kas to atgriezīs atpakaļ?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/13-16.1792522677388.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "no dienas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "no manas rokas"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kas izrauj"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "es daru"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "to atgriezīs atpakaļ"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:57.388780718Z",
+  "model": "glm-5.3"
+}

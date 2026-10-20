@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā par siriem matiem nav darbības vārda 'bija'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והוא לא ידע",
+      "rationale": "Atkārtotā frāze 'un viņš to nezināja' divreiz — ebreju refrēns par aklu neredzēšanu; atkārtojums saglabāts."
+    }
+  ],
+  "translation": "Svešinieki aprija viņa spēku, un viņš to nezināja; arī sirmie mati ⟨bija⟩ viņā izkaisīti, un viņš to nezināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/7\/9-12.1792525966128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "aprija"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svešinieki"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "viņa spēku"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sirmie mati"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "izkaisīti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    }
+  ],
+  "timestamp": "2026-10-20T19:52:46.128785747Z",
+  "model": "glm-5.3"
+}

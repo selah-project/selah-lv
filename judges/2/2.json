@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 2:2",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tempus",
+      "rationale": "nepilnīgais laiks 'jūs neslēgsit \/ nogāzīsit' ir pavēle, bet pēc tam 'jūs neklausījāt' — iedzīvotāju lasījumos viens vai otrs temps."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tādu⟩",
+      "rationale": "mah-zot burtiski 'kas ⟨tāds⟩' — latviešu teikumam vajadzīgs īpašības vārds."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "tiešs pārmetošs jautājums Israēlam."
+    }
+  ],
+  "translation": "Un jūs neslēgsit derību ar šīs zemes iedzīvotājiem, viņu altārus jūs nogāzīsit, bet jūs neklausījāt manu balsi — ko ⟨tādu⟩ jūs darījāt?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/2\/1-4.1792518138769.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "un jūs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "תכרתו",
+      "gloss": "neslēgsit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "ar iedzīvotājiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "מזבחותיהם",
+      "gloss": "viņu altārus"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "jūs nogāzīsit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "jūs klausījāt"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "mano balsi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨tādu⟩"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jūs darījāt"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:18.770200637Z",
+  "model": "glm-5.3"
+}

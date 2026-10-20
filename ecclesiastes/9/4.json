@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבחר",
+      "rationale": "kētib 'jibar' — 'viņš izvēlas'; qarē 'jittabar' — 'viņš ir savienots'; versijas dalītas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בטחון",
+      "rationale": "'paļāvība\/drošība' — KJV 'hope'; tulkots 'cerība' tuvāk tradīcijai, burtiski 'paļāvība'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר הוא",
+      "rationale": "relatīvais 'asher' un uzsvara 'hu' latviešu pareizajā teikumā nav vajadzīgi"
+    }
+  ],
+  "translation": "Jo kas ir savienots ar visiem dzīvajiem, tam ir cerība; jo dzīvam sunim ir labāk nekā mirušam lauvam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/9\/1-4.1792530004090.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ir savienots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dzīvajiem"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "cerība"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "sunim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labāk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lauvam"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mirušam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:00:04.092504704Z",
+  "model": "glm-5.3"
+}

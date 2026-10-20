@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "izkaltēja",
+      "rationale": "הוביש no יבש: Bībelē par ūdeņiem 'izkaltēja', bet tā pati sakne nozīmē 'apkaunot' — daži tulkotāji saglabā vienu nozīmi visur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bijāt nodotu iznīcināšanai",
+      "rationale": "חרם ir 'bans, izņemšana dievam' — pilnīga nodošana iznīcināšanai, ne vienkārši 'nogalināt'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואשר",
+      "rationale": "'un ⟨את⟩ to, ko' — ebreju relativs ar aleph-tav latviešu tekstā daļēji izšķīdis konstrukcijā"
+    }
+  ],
+  "translation": "Jo mēs dzirdējām ⟨את⟩ to, ko Jahve izkaltēja ⟨את⟩ Sūfa jūras ūdeņus jūsu priekšā, kad jūs izgājāt no Micraimas, un ⟨את⟩ to, ko jūs darījāt abiem emoriešu ķēniņiem, kas aiz Jordenas — Sihonam un Ogam, kurus jūs bijāt nodotu iznīcināšanai ⟨את⟩ viņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/2\/9-12.1792517607115.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "mēs dzirdējām"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "izkaltēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ūdeņus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sūfa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "kad jūs izgājāt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jūs darījāt"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "abiem"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņiem"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordenas"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonam"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "un Ogam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "jūs bijāt nodotu iznīcināšanai"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:33:27.116674446Z",
+  "model": "glm-5.3"
+}

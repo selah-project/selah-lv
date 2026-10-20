@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jehošafats Jisraēla ķēniņam",
+      "rationale": "Tieša uzruna ķēniņa padomē par pravieša meklēšanu."
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד",
+      "rationale": "'vēl' — vai nozīmē 'vēl viens papildus', vai 'vēl joprojām'."
+    }
+  ],
+  "translation": "Un Jehošafats sacīja: Vai šeit nav vēl kāda Jahves pravieša, lai vaicātu ⟨את⟩ viņam?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/5-8.1792521092728.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafats"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Vai nav"
+    },
+    {
+      "surface": "פה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "lai vaicātu"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ viņam",
+      "marks": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:32.729268045Z",
+  "model": "glm-5.3"
+}

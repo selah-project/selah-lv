@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 19:16",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mantojuma kopsavilkums",
+      "rationale": "Ciltstēves teritorijas sadalījuma noslēguma formulas pants ar skaitlisku atskaiti."
+    }
+  ],
+  "translation": "Šī ⟨ir⟩ Zevuluna dēlu mantojums pēc to dzimtām — šīs pilsētas un to sētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "12d7bf4b6a4769e24aa785605c5e8ad60581a8961922c2d4a81af1bd57885d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/19\/13-16.1792517929329.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mantojums"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuluna"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "pēc to dzimtām"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "un to sētas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:49.330873046Z",
+  "model": "glm-5.3"
+}

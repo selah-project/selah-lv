@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לב שים",
+      "rationale": "'uz sirds likt' — ebreju idioms 'ņemt vērā'; saglabāts burtiski, pirms 'uz' pievienota ⟨uz⟩ cilpa latviešu locījumam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להט",
+      "rationale": "'laizīt → liesmot': verbam ir laizīšanas aina (uguns laiza kā mēle), latviski 'aplēzt ar liesmām'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידע \/ ישים על לב",
+      "rationale": "Daži tulki (BSB) vienmēr izmanto daudzskaitli 'viņi'; ivrita ידע un ישים ir vienkāršrinda (viņš) — 'viņš to nezināja ... viņš to nelika uz sirds'."
+    }
+  ],
+  "translation": "Un viņš izlēja pār viņu kvēlo dusmu karstumu un kara varēku, un tas aplēja viņu ar liesmām no visām pusēm, bet viņš to nezināja, un tas iedegās viņā, bet viņš to nelika ⟨uz⟩ sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/42\/25-25.1792522622437.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "un izlēja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār viņu"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kvēlo dusmu karstumu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "viņa niknumu"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "un varēku"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "un tas aplēza viņu ar liesmām"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "no visām pusēm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "viņš zināja"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "un tas iedegās"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "viņš lika"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:02.437979328Z",
+  "model": "glm-5.3"
+}

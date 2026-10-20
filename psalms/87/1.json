@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņa",
+      "rationale": "ebr. יסודתו — «pamati tā» — norāda uz Cionu, kas minēts vēlāk; latviešu valodai vajadzīgs piederības vietniekvārds"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Viņa pamati",
+      "rationale": "pirmajiem lasītājiem nav pateikts, kā pilsēta pamatos balstās — nākamais pants to atklās kā Cionu"
+    }
+  ],
+  "translation": "Koraha dēliem, psalms, dziesma. Viņa pamati svētajos kalnos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/87\/1-4.1792528005911.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Koraha dēliem"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalms"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dziesma"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Viņa pamati"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "kalnos"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētajos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:45.912378873Z",
+  "model": "glm-5.3"
+}

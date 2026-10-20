@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ביום השבת ביום השבת",
+      "rationale": "Atkārtojums — 'šabata dienā, šabata dienā' — uzsver nemainīgo ritmu; latviešu tulkojums saglabā atkārtojumu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šabata dienā",
+      "rationale": "Nedēļas laika skaitīšana — klaipu nomaiņa katru šabatu"
+    }
+  ],
+  "translation": "Šabata dienā, šabata dienā tas tiks izkārtots Jahves priekšā pastāvīgi — no Jisraēla ⟨את⟩ dēliem par mūžīgu derību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/24\/5-8.1792515169528.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "tas tiks izkārtots"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:49.532834391Z",
+  "model": "glm-5.3"
+}

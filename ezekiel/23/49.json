@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezekiel 23:49",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag 'esmu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זמה",
+      "rationale": "zimmā — 'ļauns nodoms\/plāns', bieži ar seksuālu nozīmi; 'ļaunais nodoms' saglabā vārda formu bez viena viennozīmīga tulkojuma"
+    }
+  ],
+  "translation": "Un viņi atmaksās jūsu ļauno nodomu pār jums, un jūs nesīsiet savu elku grēkus, un jūs zināsiet, ka es ⟨esmu⟩ Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "85546a724fd464c9b117e263851131908a70ac90fc1eb435ba27be2a0b570c7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/49-49.1792525200686.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "un viņi atmaksās"
+    },
+    {
+      "surface": "זמתכנה",
+      "gloss": "jūsu ļaunais nodoms"
+    },
+    {
+      "surface": "עליכן",
+      "gloss": "pār jums"
+    },
+    {
+      "surface": "וחטאי",
+      "gloss": "un grēkus"
+    },
+    {
+      "surface": "גלוליכן",
+      "gloss": "savu elku"
+    },
+    {
+      "surface": "תשאינה",
+      "gloss": "jūs nesīsiet"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:00.687292902Z",
+  "model": "glm-5.3"
+}

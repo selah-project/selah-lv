@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפגע בי",
+      "rationale": "'Nesit Mani' \/ 'nesaucies pie Manis' \/ 'nejaucies Man starpā' — פגע nozīmē ietriekties, uzmākties; šeit atstāta starpniecības nozīme 'nesaucies pie Manis'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אינני",
+      "rationale": "Pastiprinātais noliegums ar אין 'es ne-esmu klausīgs tev' — latviski sašķelts 'es tevi nesodīšos'."
+    },
+    {
+      "kind": "you",
+      "subject": "runa Mošem — teicājs Jeremijam",
+      "rationale": "Jahve aizliedz pravietim Jeremijam lūgt par tautu; otrā persona vienskaitlis 'tu'."
+    }
+  ],
+  "translation": "Bet tu — nelūdz par šo tautu un neslēdz viņu labad lūgšanas saucienu un pielūgsmi, un nesaucies pie Manis, jo es tevi nesodīšos ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/7\/13-16.1792523328124.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "bet tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "lūdz"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šo tautu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "neslēdz"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "viņu labad"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lūgšanas saucienu"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "pielūgsmi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "nesaucies"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pie Manis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "es ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sodīšos"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:48.125471496Z",
+  "model": "glm-5.3"
+}

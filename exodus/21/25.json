@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "lex talionis",
+      "rationale": "Trīskārša vārdu atkārtošana (apdegums par apdegumu u.c.) — spoguļstruktūra, kas latviski saglabāta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "soda atbilstība",
+      "rationale": "Pants dimensionē kompensāciju — vienāds par vienādu."
+    }
+  ],
+  "translation": "apdegums par apdegumu, brūce par brūci, zilums par zilumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/21\/25-28.1792513084330.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "apdegums"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "apdegumu"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "brūce"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "brūci"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "zilums"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "zilumu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:04.331118921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ir nodevis",
+      "rationale": "ebraju נכר burtiski 'atpazinis'; atsevišķi tulki: 'Elohim viņu atpazina (nolēma dot) manā rokā' pret 'nodevis manā rokā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Šauls saka אלהים — 'Elohim', nevis 'Dievs', saskaņā ar Vārda disciplīnu"
+    }
+  ],
+  "translation": "Un tika pavēstīts Šaulam, ka Davids ir ieradies Keilā. Un Šauls sacīja: Elohim ir nodevis ⟨את⟩ viņu manā rokā, jo viņš ir ieslēgts, ienākdams pilsētā ar vārtiem un aizbīdņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c99fba9caa4ea3e2c531c0828e8488bb70f0a131c6d19a26c504b28087e22107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/23\/6-7.1792532571845.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Un tika pavēstīts"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ir ieradies"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilā"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ir nodevis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "manā rokā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "ir ieslēgts"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ienākdams"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ar vārtiem"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "un aizbīdņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:51.845820313Z",
+  "model": "glm-5.3"
+}

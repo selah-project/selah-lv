@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apēdīs",
+      "rationale": "אכל ir 'ēst' — uguns 'ēd' cietokšņus; latviskais forms saglabā šo tēlu."
+    }
+  ],
+  "translation": "Un Es sūtīšu uguni uz Hazaela namu, un tā apēdīs Ben-Hadada cietokšņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/1\/1-4.1792526250293.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Un Es sūtīšu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uz namu"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaela"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "un tā apēdīs"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "cietokšņus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:30.294935765Z",
+  "model": "glm-5.3"
+}

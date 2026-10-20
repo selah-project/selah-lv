@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 1:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחת שוא — 'veltīgā minha'; maize upuris, vārds paturēts pēc ebreju skanējuma"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אוכל און ועצרה",
+      "rationale": "KJV\/ASV: 'es nevaru ciest ļaunumu un svētku sapulci' pret YLT: 'nepaciešiet ļaunumu — un apspiešana!'"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jūdu un Jerušalaimu",
+      "rationale": "Jahve runā tieši uz tautu ar aizlieguma un nolieguma formām"
+    }
+  ],
+  "translation": "Neturpiniet vairs atnest ⟨את⟩ veltīgo minhu; kvēpināšana — negantums tā man ⟨ir⟩. Jaunais mēness un šabats, sapulces sasaucē — es nevaru ciest ļaunumu un svētku sapulci.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/1\/13-16.1792521861250.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "neturpiniet"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "atnest"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "veltīgo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvēpināšana"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "negantums"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jaunais mēness"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "un šabats"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sasaucē"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "sapulces"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "varu ciest"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "ועצרה",
+      "gloss": "un svētku sapulci"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:21.251459109Z",
+  "model": "glm-5.3"
+}

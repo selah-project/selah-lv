@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 15:15",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשרו \/ קשר",
+      "rationale": "sazvērestība\/sazvērēja — viena sakne divreis, saglabāts latviski"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā nav saikļa, latviešu valodai vajadzīgs"
+    }
+  ],
+  "translation": "Un pārējie Šalluma darbi un viņa sazvērestība, ko viņš sazvērēja, — lūk, tie ir uzrakstīti Jisraēla ķēniņu dienu grāmatā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c184e8d47edc1543aa1e10f050bd311954b0cfab9943c891f8c67bfbdb7494f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/15\/13-16.1792521461948.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "pārējie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šalluma"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "viņa sazvērestība"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sazvērēja"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "lūk, tie"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ir uzrakstīti"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "... darbu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T18:37:41.949997769Z",
+  "model": "glm-5.3"
+}

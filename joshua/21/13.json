@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "priesteru pilsētas",
+      "rationale": "Pilsētu saraksts ar skaitīšanu — levītu pilsētu sadale."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ganību laukus",
+      "rationale": "מגרש — priekšpilsētas atklātā zeme ganāmpulkiem."
+    }
+  ],
+  "translation": "Un Aharonam, priesterim, dēliem viņi deva patvēruma ⟨את⟩ pilsētu slepkavam, ⟨את⟩ Hebronu un ⟨את⟩ tās ganību laukus, un ⟨את⟩ Livnu un ⟨את⟩ tās ganību laukus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "18b05d91fa11c26c6731cf8ec5bbcf4653e72e1daa32b94e64cc8d6e2508058c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/21\/13-16.1792517988478.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Un ... dēliem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesterim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "viņi deva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patvēruma pilsētu slepkavam"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "patvēruma"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "slepkavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tās ganību laukus"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tās ganību laukus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Livnu"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tās ganību laukus"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tās ganību laukus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:39:48.479470788Z",
+  "model": "glm-5.3"
+}

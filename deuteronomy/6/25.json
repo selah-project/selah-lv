@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būs",
+      "rationale": "Ebreju תהיה ir pilna darbības vārda forma, ne vienkārši saiklis; latviešu valodai vajadzīgs tās atbalsts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה transliterēta kā cedek pēc D2, nevis tulkota kā 'taisnība' viena"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעשות",
+      "rationale": "Infinitīva prievīte ל- atspoguļota kā 'no'-darīt; latviešu valodā tā nav obligāta"
+    }
+  ],
+  "translation": "Un cedek tā ⟨būs⟩ mums, ja mēs sargāsim ⟨no⟩-darīt ⟨את⟩ visu šo bausli Jahves, mūsu Elohim, priekšā, kā Viņš mums ir pavēlējis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/6\/25-25.1792516647953.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Un cedek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tā būs"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "mēs sargāsim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu šo bausli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "bausli"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "Viņš mums ir pavēlējis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:27.954238556Z",
+  "model": "glm-5.3"
+}

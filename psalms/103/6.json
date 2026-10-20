@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקות tulkots kā 'cedek' — 'taisnības darbi' vien vārdā, pēc D2."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam nav darbības vārda 'ir' — piedēvējums bez saikļa."
+    }
+  ],
+  "translation": "Jahve dara cedek un tiesas visiem apspiestajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/5-8.1792528104856.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "dara"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "un tiesas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "apspiestajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:24.857235836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 41:21",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa teikumā 'to izskats ļauns'"
+    },
+    {
+      "kind": "you",
+      "subject": "farzona stāstījums faraonam",
+      "rationale": "Farsons runā pirmajā personā, tieši vērsts pie faraona"
+    }
+  ],
+  "translation": "Un tās ienāca to iekšienē, un nebija zināms, ka tās bija ienākušas to iekšienē, un to izskats ⟨bija⟩ ļauns kā sākumā; un es pamodos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "52d171f77d4a0db9bbf35013864851f355b569df8d50ed632cc3a8f5d9874886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/21-24.1792512434973.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "Un tās ienāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "to iekšienei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "zināms"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tās bija ienākušas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "to iekšienei"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "un to izskats"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļauns"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "ואיקץ",
+      "gloss": "un es pamodos"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:14.974571598Z",
+  "model": "glm-5.3"
+}

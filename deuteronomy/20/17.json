@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 20:17",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרם תחרימם",
+      "rationale": "Infinitivus absolutus: banu tu viņus izbanosi — intensitātes atkārtojums, latviski viens vārds 'pilnīgi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "חרם ir 'nodevums iznīcībai, bans' — latviski 'pilnīgi iznīdēt' zaudē reliģisko nodevuma pavedienu."
+    }
+  ],
+  "translation": "Jo pilnīgi iznīdēsi tos: hitus un emoriešus, kenaaniešus un periziešus, hiviešus un jebusiešus, kā tev pavēlēja Jahve, tavs Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/20\/17-20.1792517103775.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pilnīgi iznīdēdams"
+    },
+    {
+      "surface": "תחרימם",
+      "gloss": "iznīdēsi tos"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitus"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "un emoriešus"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešus"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "un periziešus"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviešus"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "un jebusiešus"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "tev pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T17:25:03.776712920Z",
+  "model": "glm-5.3"
+}

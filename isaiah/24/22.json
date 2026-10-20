@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואספו אספה אסיר",
+      "rationale": "Trīskārša alliterācija ar sakni אספ un vārdu אסיר — 'savākt\/savākšana\/ieslodzītais', latviski daļēji zudusi."
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקדו",
+      "rationale": "Pārbaudīs\/tiks piemeklēti — 'sods' (JPS) vai 'apmeklējums'; sakne פקד ir divdomīga kā 24:21."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אספה",
+      "rationale": "Vārds אספה 'savākšana' Tanahā sastopams tikai šeit."
+    }
+  ],
+  "translation": "Un tie tiks savākti, ieslodzīto savākšanā ⟨kā⟩ bedrē, un ieslēgti cietumā, un pēc daudzām dienām tie tiks piemeklēti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/24\/21-23.1792522272699.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "Un tie tiks savākti"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "savākšanā"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ieslodzīto"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kā⟩"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bedrē"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "un ieslēgti"
+    },
+    {
+      "surface": "על",
+      "gloss": "cietumā"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "cietumā"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "un pēc daudzuma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "tie tiks piemeklēti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:12.700350651Z",
+  "model": "glm-5.3"
+}

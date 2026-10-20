@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "teikuma kārtība",
+      "rationale": "Ebreju rinda: bultas — tautas krīt — sirdī ienaidnieku; tulkotāji svārstās, vai bultas krīt sirdī vai tautas krīt zem ķēniņa."
+    },
+    {
+      "kind": "addition",
+      "subject": "tie skar",
+      "rationale": "Darbības vārds piekortētam 'sirdī' pievienots, lai lasītos loģiski latviski."
+    }
+  ],
+  "translation": "Tavas bultas ir asas — tautas krīt zem tevis — ⟨tie skar⟩ ķēniņa ienaidnieku sirdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/5-8.1792527621735.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "tavas bultas"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ir asas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "zem tevis"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "krīt"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ienaidnieku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:21.736122861Z",
+  "model": "glm-5.3"
+}

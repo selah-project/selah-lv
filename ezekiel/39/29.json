@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח paliek 'ruah' — viens vārds, trīs nozīmes: gars, vējš, elpa"
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Ivritā nav piederības vietniekvārda pie פני; latviešu valoda to prasa"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הסתיר פנים",
+      "rationale": "'Slēpt vaigu' — ebreju idiomā par Dieva labvēlības apturēšanu; latviskais priekšstats saglabāts burtiski"
+    }
+  ],
+  "translation": "Un vairs neslēpšu savu vaigu no viņiem, jo esmu izlējis ⟨את⟩ savu ruah pār Jisraēla namu, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8e54b7304b90ede725bd7d847ffc2432ee827ff0d9bc42ef822e72f70483b173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/39\/29-29.1792525560067.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un vairs ne"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "slēpšu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "savu vaigu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "no viņiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "esmu izlējis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu ruah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "savu ruah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:46:00.067955145Z",
+  "model": "glm-5.3"
+}

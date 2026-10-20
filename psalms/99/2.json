@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir'"
+    }
+  ],
+  "translation": "Liels ⟨ir⟩ Jahve Cinā, un augsts ⟨ir⟩ viņš pār visām tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/99\/1-4.1792528122632.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cinā"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Liels"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "augsts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:42.633173894Z",
+  "model": "glm-5.3"
+}

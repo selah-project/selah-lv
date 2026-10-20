@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vēl",
+      "rationale": "Ievietots pēc pārvaldnieku parauga; ebreju tekstā vienkārši 'nav pamatots'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "templis",
+      "rationale": "היכל ir 'pils, liela celtnes zāle' — latviski parasti 'templis'"
+    }
+  ],
+  "translation": "No pirmās dienas septītajā mēnesī viņi sāka celt augstupus Jahve, bet Jahve templis ⟨vēl⟩ ⟨nebija⟩ pamatots.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/3\/5-8.1792530591896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "No dienas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pirmās"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "viņi sāka"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "celt"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "augstupus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "bet templis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "pamatots"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:51.897544647Z",
+  "model": "glm-5.3"
+}

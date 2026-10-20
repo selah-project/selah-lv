@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 6:6",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pie 'pilsēta' un 'apspiešana'."
+    },
+    {
+      "kind": "crux",
+      "subject": "tiek piemeklēta",
+      "rationale": "הפקד nozīmē 'apmeklēt' gan ar labu, gan ar sodu; šeit — sodītāja apmeklējums, tāpēc daudzi tulko 'tiks sodīta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aplieguma valni",
+      "rationale": "סללה ir aplenkuma zemes uzbedums; vārds no 'beršanas' saknes, ko latviešu 'uzberiet' saglabā daļēji."
+    }
+  ],
+  "translation": "Jo tā saka Jahve Cevaot: Cirtiet kokus un uzberiet pret Jerušalaimu aplieguma valni — tā ⟨ir⟩ pilsēta, kas tiks piemeklēta; visa ⟨ir⟩ apspiešana viņas vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bafc51c48ca1e64df4f2108824bfb101c6404a2ba8967e465488b9b6c61e4f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/6\/5-8.1792523354599.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "cirtiet"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "kokus"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "un uzberiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "aplieguma valni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "tiek piemeklēta"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "viss"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "apspiešana"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "viņas vidū"
+    }
+  ],
+  "timestamp": "2026-10-20T19:09:14.600334339Z",
+  "model": "glm-5.3"
+}

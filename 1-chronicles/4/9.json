@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa ויהי kā pilna darbības vārda 'bija' ekvivalenta latviešu teikumā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעבץ \/ עצב",
+      "rationale": "Vārda vārds Jābecs (יעבץ) skan līdzīgi עצב 'sāpe' — māte skaidro vārdu ar skanējuma līdzību, kas latviski daļēji zūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצב",
+      "rationale": "בעצב var nozīmēt gan 'sāpēs' gan 'bezmiegu\/ciešanās'; izvēlēts 'ar sāpēm'."
+    }
+  ],
+  "translation": "Un Jābecs bija cienītāks par saviem brāļiem, un viņa māte nosauca viņa vārdu Jābecs, sacīdama: Jo ar sāpēm es viņu dzemdēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/9-12.1792531074715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un ... bija"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jābecs"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "cienītāks"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "par saviem brāļiem"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "un viņa māte"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "viņa vārdu"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jābecs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "es dzemdēju"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "ar sāpēm"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:54.716559723Z",
+  "model": "glm-5.3"
+}

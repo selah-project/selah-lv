@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; partizips נושע bez darbības vārda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נושע\/תשועת",
+      "rationale": "Sakne ישע atkārtojas: izglābts un pestīšana — viena sakne divreiz"
+    }
+  ],
+  "translation": "Jisraēls ⟨ir⟩ izglābts Jahvē, pestīšana mūžībām; jūs nekaunosiet un netiksiet apkaunoti līdz mūžību mūžiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14b14985e7217244347027751991e16b06f2ef0b41cfb5c9311d74c8bec6e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/17-20.1792522826667.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ir izglābts"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvē"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pestīšana"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "mūžībām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "kaunosiet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "tiksiet apkaunoti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "mūžību"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mūžiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:26.668460985Z",
+  "model": "glm-5.3"
+}

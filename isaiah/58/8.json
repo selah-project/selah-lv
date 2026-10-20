@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeks",
+      "rationale": "צדק ir 'cedek' — taisnums, ne abstraktā 'taisnība' viena"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאספך",
+      "rationale": "'Tevi savāks\/apkampīs' (burtiski no אסף 'savākt') pret KJV 'tev par aizsegu' (pēc轨noformējuma 'rērevārds') — izvēlēts burtiskais 'apkampīs'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "gaismas solījums",
+      "rationale": "Nākotnes solījums 'tad' — nosacīts ar iepriekšējo pantu darbiem, vēl nepiepildīts"
+    }
+  ],
+  "translation": "Tad tava gaisma pārplīsīs kā rītausma, un tavs dziedinājums ātri uzdīgs, un tavs cedeks ies tev pa priekšu, Jahves gods tevi apkampīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2ac31c7a99b205ef5f6b8406a9173a151a610a15e2e41c12ab872cbf91b073f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/58\/5-8.1792523096594.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "pārplīsīs"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kā rītausma"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "tava gaisma"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "un tavs dziedinājums"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "uzdīgs"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "un ies"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev pa priekšu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tavs cedeks"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gods"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "tevi apkampīs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:56.595467989Z",
+  "model": "glm-5.3"
+}

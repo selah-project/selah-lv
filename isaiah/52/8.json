@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "acs pret aci",
+      "rationale": "עין בעין — burtiski 'acs acī': tieši, bez šķēršļiem redzēt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול ... קול",
+      "rationale": "Atkārtots 'balss' uz sarga saucienu — uzsvara atkārtojums"
+    }
+  ],
+  "translation": "Balsi pacēluši — tavi sargi! Kopā tie gavilēs, jo acs pret aci tie redzēs, kad Jahve atgriezīsies Cionā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/52\/5-8.1792522939745.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Balsi"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "tavi sargi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "pacēluši"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Kopā"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "gavilēs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "acs"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pret aci"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kad atgriezīsies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:19.746411448Z",
+  "model": "glm-5.3"
+}

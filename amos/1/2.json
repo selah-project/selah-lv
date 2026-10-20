@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rūc",
+      "rationale": "שאג ir lauvas rēciens; Jahve parādīts kā lauva, kas rūc no Cionas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nosauktais vēlāk",
+      "rationale": "Ebreju vārdekārtā darbība (rūc) nāk pirms darāja vārda (Jahve) — latviski secība mainīta."
+    }
+  ],
+  "translation": "Un Viņš sacīja: Jahve no Cionas rūc, un no Jerušalaimas Viņš dod savu balsi, un sēro ganiem piederīgās ganības, un izkalst Karmela virsotne.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/1\/1-4.1792526250293.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un Viņš sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "no Cionas"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "rūc"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "un no Jerušalaimas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "savu balsi"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "un sēro"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ganības"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ganiem piederīgās"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "un izkalst"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "virsotne"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmela"
+    }
+  ],
+  "timestamp": "2026-10-20T19:57:30.294583038Z",
+  "model": "glm-5.3"
+}

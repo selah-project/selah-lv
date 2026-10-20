@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 28:25",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "no viņiem",
+      "rationale": "לפניו burtiski 'viņa priekšā'; latviski bēgšanas kontekstā — 'no viņiem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך ... דרכים",
+      "rationale": "viens ceļš pret septiņiem ceļiem — skaitļu antitēze 1 : 7"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraēlam",
+      "rationale": "svētības un lāsta teksts tieši vērsts uz 'tev'\/'tu'"
+    }
+  ],
+  "translation": "Jahve dos tevi sistu tavu ienaidnieku priekšā; vienā ceļā tu iesi pret tiem, un septiņos ceļos tu bēgsi no viņiem, un tu kļūsi par trīcēšanu visām zemes valstībām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bbe3bbc5c6b538b1869f331d03ae3bcc2d74d7f3e909b32e113ec1a0756f2ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/25-28.1792517293414.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתנך",
+      "gloss": "dos tevi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "sistu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "taviem ienaidniekiem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "vienā ceļā"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tu iesi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pret tiem"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "un septiņos"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ceļos"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "tu bēgsi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "no viņiem"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "un tu kļūsi"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "par trīcēšanu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "valstībām"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T17:28:13.415357182Z",
+  "model": "glm-5.3"
+}

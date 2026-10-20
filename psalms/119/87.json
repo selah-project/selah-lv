@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Ebreju valodā teikumā nav darītāja; 'tie' (ienaidnieki) pievienots no konteksta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iznīcināja",
+      "rationale": "כלוני — burtiski 'beidza mani', 'iznīcināja'."
+    }
+  ],
+  "translation": "Gandrīz tie mani iznīcināja uz zemes, bet es nepametu Tavas pavēles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/85-88.1792528334324.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "gandrīz"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "tie mani iznīcināja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "bet es"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "pametu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tavas pavēles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:14.325469626Z",
+  "model": "glm-5.3"
+}

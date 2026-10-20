@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefesh šeit 'dzīvība', nevis 'dvēsele' — 'kas meklē viņu dzīvību'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבלתם",
+      "rationale": "nevela — neapbedīta mironība kā derības laužanas sekas: kā teļa gabali, tā viņu ķermeņi."
+    }
+  ],
+  "translation": "un es došu ⟨את⟩ viņiem to varā — savu ienaidnieku varā un to varā, kas meklē viņu dzīvību; un viņu mirstīgās atliekas būs par ēdienu debess putniem un zemes lopiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/34\/17-20.1792524142613.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "un es došu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ viņiem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "varā"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "savu ienaidnieku"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un varā"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kas meklē"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu dzīvību"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "viņu mirstīgās atliekas"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "par ēdienu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "putniem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "un lopiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T19:22:22.614719759Z",
+  "model": "glm-5.3"
+}

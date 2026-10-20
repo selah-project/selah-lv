@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "El neqamot… El neqamot",
+      "rationale": "atkārtots izsaukums, hiasma ar Jahvi vidū — atkārtojums saglabāts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "parādies spoži",
+      "rationale": "הופיע no יפע 'spīdēt' — parādīties spožumā, ne vien 'uzradies'"
+    }
+  ],
+  "translation": "El atriebības, Jahve, El atriebības, parādies spoži!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/94\/1-4.1792528064476.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "atriebības"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "atriebības"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "parādies spoži"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:44.476530780Z",
+  "model": "glm-5.3"
+}

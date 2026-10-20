@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam tas nepieciešams."
+    },
+    {
+      "kind": "crux",
+      "subject": "בין הערבים",
+      "rationale": "Burtiski 'starp vakariem' — pieejās laiks starp saulrietu un tumsu; atveidots kā 'saules rieta laikā'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēla dēliem",
+      "rationale": "Jahve runā tieši uz Jisraēla dēliem caur Moši: 'jūs ēdīsiet... jūs zināsiet'."
+    }
+  ],
+  "translation": "Es dzirdēju ⟨את⟩ Jisraēla dēlu murgošanu; runā ar viņiem, sacīdams: Saules rieta laikā jūs ēdīsiet gaļu, un no rīta jūs paēdīsiet maizi, un jūs zināsiet, ka es ⟨esmu⟩ Jahve, jūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7a9023c85efb0a416a14319c4a6502c7d81742ccf81ca4d63500ffb0a1c6292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/16\/9-12.1792512974672.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Es dzirdēju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla dēlu murgošanu"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "murgošanu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ar viņiem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "saules rieta laiku"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jūs ēdīsiet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gaļu"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "un no rīta"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "jūs paēdīsiet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:16:14.673902861Z",
+  "model": "glm-5.3"
+}

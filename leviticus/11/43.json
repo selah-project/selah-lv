@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir tuvāk 'elpas būtne, dzīvība', ne dvēsele"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Tieša pavēle — aicinājums ar 'jūs' (2. pl.)"
+    }
+  ],
+  "translation": "Nepadarait sevi par rietumu ne ar vienu rāpuli, kas rāpo, un neaptraipiet ar tiem ⟨sevi⟩, lai jūs nekļūtu aptraipīti ar tiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "665455bad97117ce7444df3a9a13f75806bef688f7488e9d7309474102c8251f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/42-44.1792514816353.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "padarait sevi par rietumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu dvēseles"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jūsu dvēseles"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne ar vienu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "rāpuli"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kas rāpo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "aptraipiet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ar tiem"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "un jūs tiksiet aptraipīti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ar tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:56.356497532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 17:2",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa 'šis vārds' — latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Runā… un saki",
+      "rationale": "Pavēle Mošem adresēt Aharonu, viņa dēlus un visu Jisraēlu"
+    }
+  ],
+  "translation": "Runā uz Aharonu, uz viņa dēliem un uz visiem Jisraēla dēliem, un saki viņiem: šis ⟨ir⟩ vārds, ko pavēlēja Jahve, sacīdams:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "099d492f34fa04e734d9a1ad81d559d49e38d47b540d08250c582873476ab5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/17\/1-4.1792514983215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēliem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "un saki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:43.217160933Z",
+  "model": "glm-5.3"
+}

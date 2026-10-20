@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפר בצר",
+      "rationale": "KJV 'gold as dust' (בצר = izrakts zelts) pret YLT 'a defence on the dust' (בצר = aizsardzība); arī panta skaitlis dažos manuskriptos nelasāms."
+    },
+    {
+      "kind": "addition",
+      "subject": "zeltu",
+      "rationale": "'Ophīras zelts' — latviski jāpievieno vārds 'zelts', jo ivritā stāv tik vietas vārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "straumu gultnēs",
+      "rationale": "נחלים ir ziemas strauti \/ aizas, viens vārds vairākiem latviešu vārdiem."
+    }
+  ],
+  "translation": "Un tu liksi iegūto zeltu uz putekļiem un Ophīras ⟨zeltu⟩ klintīs, kas strautu gultnēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34839cc85820da0747e4c67d47dfa331b923642de585cf389a9635a1e295fc00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/21-24.1792529309509.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "un tu liksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekļiem"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iegūto zeltu"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "un klintīs"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "strautu gultnēs"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophīras"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:29.510241753Z",
+  "model": "glm-5.3"
+}

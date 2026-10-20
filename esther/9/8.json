@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "panteles teikums",
+      "rationale": "Vārdu uzskaitījums bez darbības vārda, turpinājums 9:7."
+    }
+  ],
+  "translation": "un ⟨את⟩ Poratu un ⟨את⟩ Adalju un ⟨את⟩ Aridatu",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1436c781cc6b90c6e2122f1d24c2af583224b647f09093b1fa8f346f02c180d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/5-8.1792530113240.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Poratu"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Adalju"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Aridatu"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:53.241234213Z",
+  "model": "glm-5.3"
+}

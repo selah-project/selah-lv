@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgā saikļa kopula, ebreju tekstā tās nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "'Ļaunums' attēlo און, kas stingri nozīmē 'nenozīmīgums\/tukšums' arī 'elks'."
+    }
+  ],
+  "translation": "Bet arī Viņš ⟨ir⟩ gudrs, un atnes ļaunumu, un ⟨את⟩ Savus vārdus neatvelk; un celsies pret ļaundaru namu un pret ļaunuma darītāju palīdzību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/31\/1-4.1792522463536.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Bet arī"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gudrs"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un atnes"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Savus vārdus"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Savus vārdus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "atvelk"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "un celsies"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ļaundaru"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "palīdzību"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "darītāju"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunuma"
+    }
+  ],
+  "timestamp": "2026-10-20T18:54:23.537832892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pie טמאה"
+    },
+    {
+      "kind": "measurement",
+      "subject": "divas nedēļas ... sešdesmit sešas dienas",
+      "rationale": "Precīzs šķīstības laika skaitījums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "niddā",
+      "rationale": "נדה atstāts pēc skanējuma — 'atstumšana, menstruālnešķīstība'; 'šķiršanās' zaudē vārda formu"
+    }
+  ],
+  "translation": "Un ja viņa dzemdē meiteni, tad viņa ⟨ir⟩ nešķīsta divas nedēļas, kā savā niddā, un sešdesmit dienu un sešu dienu laiku viņa sēdēs uz sava šķīstīšanas asinīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/12\/5-8.1792513881609.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "meiteni"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "viņa dzemdē"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "viņa ⟨ir⟩ nešķīsta"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "divas nedēļas"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "kā savā niddā"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "un sešdesmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "un sešu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "viņa sēdēs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "asinīm"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "šķīstīšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:31:21.611189263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ ⟨no⟩",
+      "rationale": "Ebreju valodā nav izteikuma darītāja un piederības saišu; latviski vajag 'ir' un 'no'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kāp augšā, ēd un dzer",
+      "rationale": "Elija uzrunā Ahabu ar pavēlēm — tiešs aicinājums"
+    }
+  ],
+  "translation": "Un Elija sacīja Ahabam: Kāp augšā, ēd un dzer, jo ⟨ir⟩ skaņa stipra ⟨no⟩ lietus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbd41c5c72a768861a3cc1174c8b345fa2cc43914be8d4ba89775ebe02b1ab9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/41-44.1792520928523.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kāp augšā"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "un dzer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "skaņa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "lietus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:48.523889339Z",
+  "model": "glm-5.3"
+}

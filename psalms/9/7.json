@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "daudzskaitlisis 'drupas' vai vienskaitlis 'postījums'; KJV 'destructions come to an end', ASV 'they are desolate'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tie paši⟩",
+      "rationale": "uzsvērums vietniekvārds המה apzīmē pašus ienaidniekus, latviski pievienots skaidrojums"
+    }
+  ],
+  "translation": "Ienaidnieks ir beigts, drupas uz mūžīgu laiku; un pilsētas Tu esi izrauvis — viņu piemiņa ir gājusi bojā ⟨tie paši⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/9\/5-8.1792527096199.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ir beigts"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "drupas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "uz mūžīgu laiku"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "un pilsētas"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "Tu esi izrauvis"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ir gājusi bojā"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "viņu piemiņa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨tie paši⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:36.205040976Z",
+  "model": "glm-5.3"
+}

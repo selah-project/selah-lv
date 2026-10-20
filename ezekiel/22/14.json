@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 22:14",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "es darīšu ⟨את⟩ tevi",
+      "rationale": "עשה אותך burtiski 'darīt tevi'; KJV 'rīkoties ar tevi', YLT burtiski — teksts saka 'darīt', saglabāts burtiski"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jeruzalemi",
+      "rationale": "tiešs jautājums pilsētai — vai tā izturēs Jahves dienu"
+    }
+  ],
+  "translation": "Vai izturēs tava sirds, vai stipras paliks tavas rokas dienās, kad es darīšu ⟨את⟩ tevi? Es, Jahve, esmu runājis un darīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6efb30509f12ccc59fe447d6ca6edaa22d0ef308ecd57effc4e12cbe6d8e5c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/22\/13-16.1792525123622.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעמד",
+      "gloss": "vai izturēs"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tava sirds"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "stipras paliks"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tavas rokas"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīšu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tevi",
+      "marks": "tev"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "esmu runājis"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "un darīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:38:43.623037238Z",
+  "model": "glm-5.3"
+}

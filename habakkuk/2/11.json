@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפיס",
+      "rationale": "Reti vārds — 'sija\/spāre' (no כפס 'saistīt') pret 'skaida\/koka gabals'; noformēts kā būvkonstrukcijas elements"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזעק\/יעננה",
+      "rationale": "Sienas akmens 'kliedz' un koka sija 'atbild' — personifikācijas dialogs par noziedzīgi celtu namu"
+    }
+  ],
+  "translation": "Jo akmens no sienas sauks kliedzot, un sija no koka tam atbildēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/habakkuk\/2\/9-12.1792526505783.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "akmens"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "no sienas"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "sauks kliedzot"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "un sija"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "no koka"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "tam atbildēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:01:45.784409009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "אף burtiski ir 'deguns\/nāsis' — dusmu tēls, kas latviski izzūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמעו",
+      "rationale": "šama' nozīmē 'dzirdēt ar paklausību'; 'neklausīja' ietver abus."
+    }
+  ],
+  "translation": "Un es darīšu dusmās un bardzībā atriebību ⟨את⟩ tautām, kas neklausīja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/5\/13-14.1792526387791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Un es darīšu"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dusmās"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "un bardzībā"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "atriebību"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautām"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausīja"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:47.792359979Z",
+  "model": "glm-5.3"
+}

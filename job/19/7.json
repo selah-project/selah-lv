@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "netieku",
+      "rationale": "ebreju guļ vienkārši 'un ne' — palīgverbs piekārtots latviešu pasīvam"
+    },
+    {
+      "kind": "mystery",
+      "subject": "nesaņemta atbilde",
+      "rationale": "kliedziens tukšumā bez atbildes un bez tiesas — slēgta, neatrisināta nediena"
+    }
+  ],
+  "translation": "Lūk, es kliedzu: 'Varas!' — un netieku atbildēts; es saucu pēc palīdzības, bet tiesas nav.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "427cb67c1ff0b1ba053a3f41681ce41cba986a99e25b3c3f4ce283c2714f9949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/19\/5-8.1792529244186.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "es kliedzu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un netieku"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "atbildēts"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "es saucu pēc palīdzības"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bet nav"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:24.187743181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jēkaba pēkšņa lūgšanā vēršanās tieši pie Jahves pēc Dana tēla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glābiņš",
+      "rationale": "יְשׁוּעָה ir 'izglābšana, uzvara', ne vien personīgs 'glābiņš'."
+    }
+  ],
+  "translation": "Uz Tavu glābiņu es gaidu, Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/49\/17-20.1792512649126.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "uz Tavu glābiņu"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "es gaidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:49.126990445Z",
+  "model": "glm-5.3"
+}

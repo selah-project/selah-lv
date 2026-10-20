@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "varonīgu darbu",
+      "rationale": "חיל ir 'spēks, vīrišķība, karaspēks'; 'varonīgs darbs' kā viens vārds vienai lietai."
+    },
+    {
+      "kind": "crux",
+      "subject": "צרינו",
+      "rationale": "'mūsu ienaidnieki' vs 'mūsu ciešanas\/briesmas' — צר var būt persona vai apgrūtinājums."
+    },
+    {
+      "kind": "addition",
+      "subject": "tas ir",
+      "rationale": "והוא ir uzsvērtā vietniekvārds bez darbības vārda; latviski pievienota 'tas ir', lai uzsvērtu saglabātos."
+    }
+  ],
+  "translation": "Ar Elohim mēs darīsim varonīgu darbu, un ⟨viņš⟩ tas ir, kas sabradās mūsu ienaidniekus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/60\/13-14.1792527723567.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ar Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "mēs darīsim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "varonīgu darbu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "sabradās"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "mūsu ienaidniekus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:03.568067265Z",
+  "model": "glm-5.3"
+}

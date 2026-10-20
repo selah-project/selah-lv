@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קומי לך",
+      "rationale": "burtiski 'celies sev' — ebreju idiomā 'ej, dodies'; latviski 'celies un ej'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgums",
+      "rationale": "mīļotais aicina: 'Celies... un nāc!' — divkāršs imperatīvs aicinājumā"
+    },
+    {
+      "kind": "you",
+      "subject": "mīļākā",
+      "rationale": "tieša uzruna: 'mana mīļā, mana daiļā'"
+    }
+  ],
+  "translation": "Mans mīļotais atbildēja un man sacīja: Celies, mana mīļā, mana daiļā, un nāc ⟨projām⟩!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/2\/9-12.1792529625209.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mans mīļotais"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "celies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨projām⟩"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mana mīļā"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mana daiļā"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "un nāc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨projām⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:45.210481259Z",
+  "model": "glm-5.3"
+}

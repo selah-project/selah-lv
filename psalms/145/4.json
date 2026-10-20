@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "varoņdarbus",
+      "rationale": "גבורות burtiski 'varenie darbi', spēks un uzvaras"
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Ivrita vienskaitļa darbības vārds ar daudzskaitļa יגידו; latviešu valodai vajag subjektu"
+    }
+  ],
+  "translation": "Paaudze paaudzei slavēs tavus darbus, un tavus varoņdarbus tie pasludinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/1-4.1792528498884.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Paaudze"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "slavēs"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tavus darbus"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "un tavus varoņdarbus"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "tie pasludinās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:58.885658257Z",
+  "model": "glm-5.3"
+}

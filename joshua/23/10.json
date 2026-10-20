@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valoda to prasa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viens pret tūkstoti",
+      "rationale": "Skaitliskā attiecība: viens vīrs dzīs tūkstoti — uzvaras mērs"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Jošua solījums Israēlam: Jahve cīnās par viņiem"
+    }
+  ],
+  "translation": "Viens no jums dzīs pakaļ tūkstotim, jo Jahve, jūsu Elohim, ⟨ir⟩ tas, kas cīnās par jums, kā Viņš jums ir runājis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4628bf1cd59fd95085db3b7694fe203bc8f2ae5d7dd511dffc7cafa158a86e20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/23\/9-12.1792518116774.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "viens"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vien"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "dzīs pakaļ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstotim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "kas cīnās"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "par jums"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ir runājis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:41:56.775657255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 8:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa jautājuma teikumā 'kāda gudrība viņiem?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חתו וילכדו",
+      "rationale": "Daži lasa kā divdabju predikātu ('satrikti un notverti'), citi kā imperatīvu ('satriksities! un tiksiet notverti!')"
+    },
+    {
+      "kind": "you",
+      "subject": "gudrajiem",
+      "rationale": "Teksts vēršas pret gudrajiem un rakstvežiem — tieša vēstījuma adresāti ir Jeruzalemes gudrie"
+    }
+  ],
+  "translation": "Nokaunēti ir gudrie, satrikti un notverti; lūk, Jahves vārdu tie ir nicinājuši — un kāda gudrība viņiem ⟨ir⟩?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/8\/9-12.1792523449013.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "nokaunēti"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "gudrie"
+    },
+    {
+      "surface": "חתו",
+      "gloss": "satrikti"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "un notverti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "tie ir nicinājuši"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "un gudrība"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kāda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:49.014028259Z",
+  "model": "glm-5.3"
+}

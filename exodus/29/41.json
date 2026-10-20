@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 29:41",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה šeit ir upuris, nevis dāvana, tāpēc transliterēta kā minhs"
+    },
+    {
+      "kind": "crux",
+      "subject": "starp abiem vakariem",
+      "rationale": "בין הערבים burtiski 'starp vakariem' — laika posms pirms tumsas; daudzi tulkotāji vienkārši 'vakarā'"
+    }
+  ],
+  "translation": "Un ⟨את⟩ otro jēru tu upurēsi starp abiem vakariem; kā rīta minhu un kā tās libāciju tu darīsi tam par patīkamas smaržas, uguns upuris Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/29\/41-44.1792513281334.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "otro jēru"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "השני",
+      "gloss": "otro"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "abiem vakariem"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "kā minhu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rīta"
+    },
+    {
+      "surface": "וכנסכה",
+      "gloss": "un kā tās libāciju"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "par smaržu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "patīkamu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "uguns upuris"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:21.335148615Z",
+  "model": "glm-5.3"
+}

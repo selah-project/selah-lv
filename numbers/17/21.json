@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 17:21",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikļa ‘un Aharona kārts ⟨bija⟩ vidū’ — pievienots latviešu valodai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה",
+      "rationale": "Vārds מטה nozīmē gan 'kārts', gan 'cilti' — divpadsmit kārtis ir divpadsmit ciltis; latviski šī dubultnozīme izzūd"
+    }
+  ],
+  "translation": "Un Moše runāja ar Jisraēla dēliem, un viņi viņam deva visi viņu firstči kārtis — katrai firstei viena kārts, katram tēvu namam viena kārts; divpadsmit kārtis; un Aharona kārts bija vidū starp viņu kārtīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25ee73993f97657849a70c545a02f6d2f1a9d8af04d1de72cb9cecabdd592a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/17\/21-24.1792515912927.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "un viņi deva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "נשיאיהם",
+      "gloss": "viņu firstči"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kārtis"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "katrai firstei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kārts"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "pirmajam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divpadsmit"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kārtis"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "un kārts"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "מטותם",
+      "gloss": "viņu kārtīm"
+    }
+  ],
+  "timestamp": "2026-10-20T17:05:12.928490512Z",
+  "model": "glm-5.3"
+}

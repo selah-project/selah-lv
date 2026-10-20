@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ļaunu Jahves acīs",
+      "rationale": "Ebreju idioms בעיני יהוה — 'Jahves acīs' — atstāts burtiski kā teksta aina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stabs",
+      "rationale": "מצבת ir stāvulis, stabs (pielūgsmes akmens), ne vispārīgs 'elks'."
+    }
+  ],
+  "translation": "Un viņš darīja ļaunu Jahves acīs, tikai ne tā kā viņa tēvs un viņa māte, un viņš novāca ⟨את⟩ Baala stabi, ko viņa tēvs bija uzceļis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/3\/1-4.1792521117077.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Un viņš darīja"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "tā kā viņa tēvs"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "un viņa māte"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "un viņš novāca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baala stabi"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stabi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bija uzceļis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēvs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:57.078481024Z",
+  "model": "glm-5.3"
+}

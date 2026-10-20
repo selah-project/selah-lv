@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pirms 'atnācis tavs gaišums'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אורי\/אורך",
+      "rationale": "Saknes אור atkārtojums: 'spīdi' un 'tavs gaišums' — gaisma kā pavēle un kā dāvana"
+    },
+    {
+      "kind": "you",
+      "subject": "Sionai",
+      "rationale": " Femininās formas (קומי, אורך) vēršas pie Sionas\/Jerušalaimas kā pie 'tu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Celies, spīdi",
+      "rationale": "Divi imperatīvi aicina adresāti piecelties un iemirdzēties"
+    }
+  ],
+  "translation": "Celies, spīdi, jo atnācis ⟨ir⟩ tavs gaišums, un Jahves godība virs tevis uzlec.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/60\/1-4.1792523052319.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Celies"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "spīdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atnācis"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "tavs gaišums"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "un Jahves godība"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "virs tevis"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "uzlec"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:12.319580425Z",
+  "model": "glm-5.3"
+}

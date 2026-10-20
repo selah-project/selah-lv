@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "materiāls",
+      "rationale": "העבדה ir 'darbs', bet KJV\/JPS tulko 'stuff' — te atstāts darbs; מדי העבדה למלאכha ir 'vairāk, nekā darbs vajadzīgs darbam'."
+    }
+  ],
+  "translation": "Un viņi sacīja Mošem, sacīdami: Tauta nes daudz vairāk, nekā pietiek darba vajadzībai svētajam darbam, ko Jahve pavēlēja darīt ⟨את⟩ to.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "70e0a573d22175f2d62c4d148e418f6016907ff583f2ef00d4e4230758561f65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/36\/5-8.1792513536221.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "מרביד",
+      "gloss": "nes daudz vairāk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "nest"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "nekā pietiek"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "darba"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "darbam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    }
+  ],
+  "timestamp": "2026-10-20T16:25:36.221914891Z",
+  "model": "glm-5.3"
+}

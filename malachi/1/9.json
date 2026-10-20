@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 1:9",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mūs",
+      "rationale": "Sufikss -נו 'mūs' ir ebreju tekstā, bet latviski pievienots paskaidrojoši iekavās kā ⟨mūs⟩ skaidrībai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלו \/ ויחננו",
+      "rationale": "Sakņu atbalss: 'maigi lūdziet' un 'apžēlos' — abi no vienas maiguma lauka; latviski zudis."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פנים",
+      "rationale": "'Pacelt seju' = izrādīt labvēlību; latviski atstāts burtiski 'cels seju', lai saglabātu tēlu."
+    }
+  ],
+  "translation": "Un tagad maigi lūdziet El seju, un Viņš apžēlos ⟨mūs⟩ — no jūsu rokas tas ir bijis; vai Viņš cels no jums seju? saka Jahve Cevaot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/1\/9-12.1792526914160.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "maigi lūdziet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויחננו",
+      "gloss": "un Viņš apžēlos"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "no jūsu rokas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ir bijis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הישא",
+      "gloss": "vai Viņš cels"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jūs"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "seju"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:34.161033384Z",
+  "model": "glm-5.3"
+}

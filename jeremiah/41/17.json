@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 41:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Ebreju tekstā nav darbības vārda 'ir' — piezīme pievienota latviski kā ⟨ir⟩ tikai vajadzības gadījumā; šeit lokāms izvairīts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Geruta pie Kimhama",
+      "rationale": "בגרות כמוהם ir vietvārds 'Gerut Kimham' — patversme, ko Baruhs bija saņēmis no Davida; daudzi tulkotāji atstāj vietvārdu."
+    }
+  ],
+  "translation": "Un viņi aizgāja un apmetās Gerutā pie Kimhama, kas ir pie Betlehēmas, lai ietu un ienāktu Micraimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/41\/17-18.1792524185226.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "aizgāja"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "apmetās"
+    },
+    {
+      "surface": "בגרות",
+      "gloss": "Gerutā"
+    },
+    {
+      "surface": "כמוהם",
+      "gloss": "Kimhama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "בית לחם",
+      "gloss": "Betlehēmas"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lai ietu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ienāktu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:23:05.227402302Z",
+  "model": "glm-5.3"
+}

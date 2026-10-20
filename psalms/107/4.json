@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "דרך",
+      "rationale": "דרך var piesaistīt arī 'בישימון' (tuksnesī, ceļā izpostītajā) vai 'עיר' (ceļā uz pilsētu); izvēlēta brīvāka piesaiste."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מושב",
+      "rationale": "מושב ir 'mājoklis, apmešanās vieta' — latviski dots kā 'dzīvošanai', jo pieprasītais constructs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר \/ ישימון",
+      "rationale": "Divi tuksneša vārdi blakus — ganāmā vieta, kas kļuvusi par tuksnesi, un pilnīga postiene; latviski abi ar 'tuksnesis'."
+    }
+  ],
+  "translation": "Viņi klejoja tuksnesī, izpostītajā tuksnesī ceļā, apdzīvotu pilsētu dzīvošanai viņi neatrada.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6fc3c257c48ffebfe7d9a9660163a059d2b4f079df4439b8bd5af125dc084a69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/4-4.1792532800885.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "klejoja"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "izpostītajā tuksnesī"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "dzīvošanai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "atrada"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:40.885715368Z",
+  "model": "glm-5.3"
+}

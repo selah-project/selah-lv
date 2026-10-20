@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 44:9",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "priekšlocījums 'אל' izzūd saliktenī 'ienākt manā svētnīcā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לא יבוא",
+      "rationale": "burtiski 'neienāks'; latviski teikums veidots ar 'nav ļauts ienākt', lai glabātu nolieguma spēku"
+    },
+    {
+      "kind": "you",
+      "subject": "adresāts",
+      "rationale": "vēstījums caur pravieti Jisraēla dēlu vidū esošajiem svešiniekiem un tautai"
+    }
+  ],
+  "translation": "Tā saka Adonai Jahve: ikvienam svešinieka dēlam, nesagraizītam sirdī un nesagraizītam miesā, nav ļauts ienākt manā svētnīcā — ikvienam svešiniekam, kas ir Jisraēla dēlu vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/44\/9-12.1792525835963.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikvienam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svešinieka"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "nesagraizītam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "וערל",
+      "gloss": "un nesagraizītam"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ļauts ienākt"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "manā svētnīcā"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ikvienam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svešiniekam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:50:35.964161139Z",
+  "model": "glm-5.3"
+}

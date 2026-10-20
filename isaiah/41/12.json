@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מצתך",
+      "rationale": "מצות — 'ķilda' — sastopama tikai šeit Tanahā; tāpēc 'vīri, kas ar tevi ķildojas'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כאין\/וכאפס",
+      "rationale": "divkāršs nieks: 'kā ne-esošs un kā nulle (אפס)' — divi vārdi par vienu neesamību."
+    }
+  ],
+  "translation": "Tu tos meklēsi un neatradīsi — vīrus, kas ar tevi ķildojas; tie būs kā neesoši un kā nulle vīri, kas ar tevi karo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/41\/9-12.1792522655797.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "tu tos meklēsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "atradīsi tos"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīrus"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "tava ķilda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tie būs"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kā neesoši"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "un kā nulle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "tava kara"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:35.799015620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav viens vārds — žēlastība, uzticība, mīlestība; saglabāts transkribēts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizmoram",
+      "rationale": "מזמור ir instrumentālas mūzikas vārds; atstāts pēc skanējuma"
+    }
+  ],
+  "translation": "Davida mizmoram. Par hesed un tiesu es dziedāšu, tev, Jahve, es spēlēšu un dziedāšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/101\/1-4.1792528139843.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoram"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "un tiesu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "es dziedāšu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "es spēlēšu un dziedāšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:59.844156068Z",
+  "model": "glm-5.3"
+}

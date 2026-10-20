@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אילים",
+      "rationale": "איל ir 'briedis\/āps' — stiprs dzīvnieks; 'briedis' atbilst D4 tabulai, 'āuns' ir alternatīva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פר בן בקר",
+      "rationale": "'vērsis, liellopu dēls' — semitiskā izteiksme 'dēls' kā skaita\/apraksta forma."
+    }
+  ],
+  "translation": "Un šī ir lieta, ko tu darīsi viņiem, lai viņus iesvētītu par priesteriem man: ņem vienu jaunu vērsi, liellopu teļu, un divus breežus (āunus), bez vainas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/29\/1-4.1792513304780.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Un šī"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "lai iesvētītu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "par priesteriem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ņem"
+    },
+    {
+      "surface": "פר",
+      "gloss": "jaunu vērsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "teļu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopu"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "un breežus (āunus)"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divus"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "bez vainas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:44.780736025Z",
+  "model": "glm-5.3"
+}

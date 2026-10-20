@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav kopulas; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויגד לו",
+      "rationale": "Nepersonīgs paziņojums — darītājs nav nosaukts."
+    }
+  ],
+  "translation": "Un viņš sacīja: Ejiet un skatieties, kur viņš ⟨ir⟩, un es sūtīšu un viņu saņemšu. Un viņam tika paziņots, sacīdams: Lūk, Dotānā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/13-16.1792521241637.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ejiet"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "un skatieties"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš ⟨ir⟩"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "un es sūtīšu"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "un viņu saņemšu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "Un tika paziņots"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "Dotānā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:34:01.637601375Z",
+  "model": "glm-5.3"
+}

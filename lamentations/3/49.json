@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הפגגות",
+      "rationale": "הפגות 'atslābums, pārtraukums' — reti vārds, atspoguļo asaru nebeigšanos."
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Latviešu valodai vajadzīgs saistītājs, ebreju tekstā tuvība izteikta ar מאין vien."
+    }
+  ],
+  "translation": "Mana acs izlietā un neapklusīs, ⟨jo⟩ nav atvieglojuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/49-52.1792529814212.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mana acs"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "izlietā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "apklusīs"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "⟨jo⟩ nav"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "atvieglojuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:54.212574966Z",
+  "model": "glm-5.3"
+}

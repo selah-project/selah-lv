@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 50:34",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izpestītājs",
+      "rationale": "גואל nozīmē radinieku-izpirkēju pēc radniecības likuma, ne vienkārši 'izpestītāju'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב יריב \/ ריבם",
+      "rationale": "Saknes רי׬ atkārtojums — 'aizstāvēs viņu tiesu' — latviskajā atveidā zaudē spēli ar vārdiem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרגיע \/ הרגיז",
+      "rationale": "Pretstatīgie darbības vārdi: dot-mieru zemei pret sacelt-nemieru Bābelei — uzturēts atveidā"
+    }
+  ],
+  "translation": "Viņu izpestītājs ir stiprs, Jahve Cevaot ir Viņa vārds; Viņš pilnīgi aizstāvēs ⟨את⟩ viņu tiesu, lai dotu mieru zemei un saceltu nemieru Bābeles iedzīvotājiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "947d18e6784ac56f5d103f5fd2e8c66b02d1f1a62bb7d2efa262c8f3b3a3efee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/50\/33-36.1792524502428.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאלם",
+      "gloss": "viņu-izpestītājs"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "stiprs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņa-vārds"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tiesu-aizstāvēs"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "pilnīgi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu tiesu"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "viņu-tiesu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "הרגיע",
+      "gloss": "dotu-mieru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "והרגיז",
+      "gloss": "saceltu-nemieru"
+    },
+    {
+      "surface": "לישבי",
+      "gloss": "iedzīvotājiem"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    }
+  ],
+  "timestamp": "2026-10-20T19:28:22.429482447Z",
+  "model": "glm-5.3"
+}

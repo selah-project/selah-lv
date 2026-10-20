@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 31:34",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "un apklusu",
+      "rationale": "ואדם no דום 'būt klusam' — ne 'cilvēks' (ādams); koksāmuda atsevišķs vārds."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨es⟩",
+      "rationale": "Ivritā nav izteikts subjekts; latviešu valodai vajadzīgs vietniekvārds."
+    },
+    {
+      "kind": "crux",
+      "subject": "בוז משפחות",
+      "rationale": "Skaitlis un piederība neskaidra: 'dzimtu nicinājums (mani biedēja)' pret 'visnievājamākais no dzimtām (baidījās mani)' (Geneva)."
+    }
+  ],
+  "translation": "Jo es baidījos no liela pūļa, un dzimtu nicinājums mani šausmināja, un ⟨es⟩ apklusu, un pa durvīm neizgāju;",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d90c7d05fb5dcca40cc42a60937983bea6bb7ad1c33d316c1335f240472cd3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/31\/33-36.1792529460248.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אערוץ",
+      "gloss": "es baidījos"
+    },
+    {
+      "surface": "המון",
+      "gloss": "pūļa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liela"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "un nicinājums"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dzimtu"
+    },
+    {
+      "surface": "יחתני",
+      "gloss": "mani šausmināja"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "un apklusu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "izgāju"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa durvīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:00.249411397Z",
+  "model": "glm-5.3"
+}

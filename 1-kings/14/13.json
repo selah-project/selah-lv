@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר טוב",
+      "rationale": "'labs darbs\/lieta' — tulkotāji svārstās starp 'kaut kas labs' un 'labs darbs'; vārds דבר nozīmē gan vārdu, gan lietu, gan darbu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sēros",
+      "rationale": "ספד ir rituālā sērošana ar matu plūkšanu un krūšu sišanu, ne tikai raudāšana."
+    }
+  ],
+  "translation": "Un sēros par viņu viss Jisraēls un viņu apbedīs, jo šis vienīgais no Jarovāma nāks kapā, tāpēc ka viņā ir atrodams kāds labs darbs pret Jahvi, Jisraēla Elohim, Jarovāma namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/13-16.1792520766923.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "un sēros"
+    },
+    {
+      "surface": "לו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "un apbedīs"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vienīgais"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "no Jarovāma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kapā"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kaps"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ir atrodams"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovāma"
+    }
+  ],
+  "timestamp": "2026-10-20T18:26:06.923690211Z",
+  "model": "glm-5.3"
+}

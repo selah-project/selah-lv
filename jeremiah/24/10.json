@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Pirmā persona ietverta darbības vārda formā; latviski pievienots 'es'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "zobens, bads, mēris",
+      "rationale": "Trīs soģu triāde — atkārtota Jeremijas grāmatā kā atgriezenisks motīvs (Jer 21:7, 24:10, 29:18)"
+    }
+  ],
+  "translation": "Un es sūtīšu pret viņiem ⟨את⟩ zobenu, ⟨את⟩ badu un ⟨את⟩ mēri, līdz to galam no zemes, ko es devu viņiem un viņu tēviem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "39423e72be1bc6f30bf27c6a17fc37b0b660ba63dd70a1676c144f31a6753b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/24\/9-10.1792523799903.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "un es sūtīšu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pret viņiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zobenu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "zobenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badu"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "badu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "mēri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mēri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "galam"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virs"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "es devu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "un viņu tēviem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:16:39.903920179Z",
+  "model": "glm-5.3"
+}

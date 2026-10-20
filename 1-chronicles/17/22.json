@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "līdz mūžībai",
+      "rationale": "עד עולם burtiski 'līdz apslēptajam' — laika horizonta idiomātika, kas latviski kļūst par 'mūžību'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Davida lūgšana turpina tiešu uzrunu Jahvem."
+    }
+  ],
+  "translation": "Un tu esi devis ⟨את⟩ savu tautu Jisraēlu sev par tautu līdz mūžībai, un tu, Jahve, esi bijis viņiem par Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "795360cd02e06e560c7e7eb85f5784f0f9d670ae1bcb2b3e58a932560db1337b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/17\/21-24.1792531435785.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "un tu devi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tautu Jisraēlu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavu tautu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "un tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היית",
+      "gloss": "esi bijis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "par Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:55.786580162Z",
+  "model": "glm-5.3"
+}

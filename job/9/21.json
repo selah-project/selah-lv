@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele; saglabāts kā nefess"
+    },
+    {
+      "kind": "crux",
+      "subject": "pilnīgs",
+      "rationale": "תם: 'nevainīgs' pret 'pilnīgs\/vientiesīgs'; Joba pašraksturojums"
+    },
+    {
+      "kind": "mystery",
+      "subject": "nepazīstu savu nefesu",
+      "rationale": "Pieņemts, ka nozīmē 'man pašam vienalga' — tumša, atsedzama izteiksme"
+    }
+  ],
+  "translation": "Es esmu pilnīgs — savu nefesu es nepazīstu; savu dzīvību es nīstu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/9\/21-24.1792529052601.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "pilnīgs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "pazīstu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "nīstu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "savu dzīvību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:12.602468054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "zechariah 8:21",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pilsētas",
+      "rationale": "Ebreju tekstā 'viena... uz otru' — vārds pilsēta izlaists, bet pievienots latviski skaidrībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלוך",
+      "rationale": "Burtiski 'ejot, ejam' — KJV 'speedily' lasa kā steidzīgi; YLT 'diligently'; forma ir infinitivs absolūts uzsvaram."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nāləḵāh",
+      "rationale": "Aicinājums 'Iesim' lūgt Jahves vaigu — pūļa aicinājuma formula."
+    }
+  ],
+  "translation": "Un iedzīvotāji no vienas ⟨pilsētas⟩ ies pie otras ⟨pilsētas⟩, sacīdami: Iesim, ejot lūgt ⟨את⟩ Jahves vaigu un meklēt ⟨את⟩ Jahvi Cevaot — arī es iešu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4e35478e8b27d2b86e84d849df86f3efec8d738b93e77eead38e446bd4c86d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/8\/21-23.1792526788560.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ies"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotāji"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas ⟨pilsētas⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otras ⟨pilsētas⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "iesim"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ejot"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "lūgt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves vaigu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "un meklēt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "es iešu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:28.566210533Z",
+  "model": "glm-5.3"
+}

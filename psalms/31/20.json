@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju tam nav"
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנת",
+      "rationale": "labums ir 'paslēpts' — slēpta labvēlība"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ליראיך\/לחסים",
+      "rationale": "divi daļenieki — tie, kas bīstas, un tie, kas patveras; paralēlā struktūra"
+    }
+  ],
+  "translation": "Cik liels ir Tavs labums, ko Tu esi paslēpis tiem, kas Tevi bīstas, ko Tu esi darījis tiem, kas pie Tevis patveras — cilvēku bērnu priekšā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/31\/17-20.1792527285558.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liels"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "Tavs labums"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Tu esi paslēpis"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "tiem, kas Tevi bīstas"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Tu esi darījis"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "tiem, kas patveras"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pie Tevis"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:45.559841356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובעד השלח יפלו",
+      "rationale": "'krīt uz šķēpa' (KJV) pret 'izlaužas caur ieročiem' (JPS\/ASV); latviski turēts pie burtiskā 'krīt caur šķēpu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבצעו",
+      "rationale": "בצע 'nolauzt\/izlaupīt': 'netiks nogriezti' (no rindas) vai 'nepaliks laupījumā'; latviski 'netiks pārtraukti'"
+    },
+    {
+      "kind": "elision",
+      "subject": "גבר",
+      "rationale": "'vīrs' kā kolektīvs — tas pats pūlis, ne atsevišķa persona"
+    }
+  ],
+  "translation": "Un katrs savu brāli nesaspiedīs; vīrs savā celā ies; un tie <iekritīs<\/i> caur šķēpu un netiks pārtraukti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/2\/5-8.1792526192544.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "un katrs"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savu brāli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "saspiedīs"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "savā celā"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ies"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "un caur"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "šķēpu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "iekritīs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "tiks pārtraukti"
+    }
+  ],
+  "timestamp": "2026-10-20T19:56:32.545926822Z",
+  "model": "glm-5.3"
+}

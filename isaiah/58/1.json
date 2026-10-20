@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "pravieša aicinājums",
+      "rationale": "Klaušu imperatīvi — pravietis tiek sūtīts skaļi pasludināt tautai viņas grēkus."
+    },
+    {
+      "kind": "you",
+      "subject": "uz pravieti",
+      "rationale": "Vārds tiek dots adresātam, kas runās Jahves vārdā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rīkle",
+      "rationale": "גרון burtiski ir 'rīkle' — kliegšana nāk no pašas rīkles, nevis vienkārši 'skaļi'."
+    }
+  ],
+  "translation": "Kliec ar rīkli, neatturi, kā šofaru pacel savu balsi, un pasludini savai tautai viņu sacelšanos un Jaakova namam viņu grēkus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/58\/1-4.1792523042308.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Kliec"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "ar rīkli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "atturi"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "kā šofaru"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "pacel"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "savu balsi"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "un pasludini"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "savai tautai"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "viņu sacelšanos"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "un namam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "viņu grēkus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:02.309078415Z",
+  "model": "glm-5.3"
+}

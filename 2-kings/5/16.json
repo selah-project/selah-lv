@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Zvēresta formula 'dzīvs ir Jahve' — latviski pārkārtota par apustejumu 'Tāds ir dzīvs — Jahve'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם אקח",
+      "rationale": "Zvēresta noliegums ar 'אם': burtiski 'ja es ņemšu' = 'ka es neņemšu'; nolieguma 'ne' latviski jāpievieno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stipri uzstāja",
+      "rationale": "פצר burtiski 'knābt, spiest' — atainota stingra pieprasīšana."
+    }
+  ],
+  "translation": "Un viņš sacīja: Tāds ir dzīvs — Jahve, kura priekšā es stāvu —, ka es neņemšu. Un viņš stipri uzstāja, lai ņem, bet viņš atsacījās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d68f7b120adcb60107dd17bd4de0339554e4ce5d7a7c8e8e889dd7101faff6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/5\/13-16.1792521216714.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kura"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "es stāvu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "es neņemšu"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "un stipri uzstāja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "lai ņem"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "bet viņš atsacījās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:36.715884489Z",
+  "model": "glm-5.3"
+}

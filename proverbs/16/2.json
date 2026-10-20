@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa abās teikuma daļās"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוחות ir ruah daudzskaitlī — elpas\/gari\/noskaņojumi; latviski atstāts kā ruah pēc D2 noteikuma"
+    }
+  ],
+  "translation": "Visi cilvēka ceļi ⟨ir⟩ tīri viņa acīs, bet ruah svērtājs ⟨ir⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/1-4.1792528740407.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ceļi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tīri"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "viņa acīs"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "bet svērtājs"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:00.407997012Z",
+  "model": "glm-5.3"
+}

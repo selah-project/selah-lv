@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir atvērusies",
+      "rationale": "ebreju darbības vārds פתחו ir piedzīvots perfektu nozīmē; latviešu valodai vajadzīgs palīgdarbs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי...ופי",
+      "rationale": "atkārtotā 'mute' construē paralelismu — bezdievja mute un viltus mute; latviski saglabāts"
+    }
+  ],
+  "translation": "Jo bezdievja mute un viltus mute pret mani ir atvērusies; ar mani runāja ⟨את⟩ melu mēle.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/1-4.1792528251021.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mute"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezdievja"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "un mute"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "viltus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "atvērās"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mani"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mēle"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:51.022452400Z",
+  "model": "glm-5.3"
+}

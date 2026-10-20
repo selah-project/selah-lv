@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebr. trūkst saikļa 'un es runāšu ar tevi' — אתך šeit ir priekšrocības 'ar'"
+    },
+    {
+      "kind": "you",
+      "subject": "Cilvēka dēls",
+      "rationale": "tiešs uzrunas vēstījums Ezavielim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "stājies uz savām kājām",
+      "rationale": "pavēle, kas ceļ nokritušo pravieti kājās"
+    }
+  ],
+  "translation": "Un viņš sacīja man: Cilvēka dēls, stājies uz savām kājām, un es runāšu ⟨את⟩ tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/2\/1-4.1792524636715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stājies"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "savām kājām"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "un es runāšu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:30:36.715633344Z",
+  "model": "glm-5.3"
+}

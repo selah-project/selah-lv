@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramaic participle passive rendered with Latvian passive 'tika pārmeklēts'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית ספריא",
+      "rationale": "'grāmatu nams' — arhīvs; KJV 'house of the rolls', ASV 'archives'"
+    }
+  ],
+  "translation": "Tad ķēniņš Darjavs deva rīkojumu, un tika pārmeklēts grāmatu nams, kur ⟨biju⟩ noglabātas glabātavas Babilonā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/6\/1-4.1792530589199.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darjavs"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deva rīkojumu"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "rīkojumu"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "un tika pārmeklēts"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "grāmatu"
+    },
+    {
+      "surface": "די",
+      "gloss": "kur"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "glabātavas"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "noglabātas"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babilonā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:49.200421025Z",
+  "model": "glm-5.3"
+}

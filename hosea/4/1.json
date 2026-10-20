@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai trūkst saikļa 'strīds ir Jahvem'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד atstāts kā hesed — viens vārds, ne tikai 'žēlastība'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausiet",
+      "rationale": "Pants sākas ar imperatīvu 'שמעו' — aicinājums Israēla bērniem"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēla bērni",
+      "rationale": "Tieša uzruna Israēla dēliem"
+    }
+  ],
+  "translation": "Klausiet Jahves vārdu, Jisraēla bērni, jo Jahvem ⟨ir⟩ strīds ar zemes iedzīvotājiem, jo nav patiesības, nav hesed un nav Elohim atziņas zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/4\/1-4.1792525993677.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Klausiet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "strīds"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "iedzīvotāji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesības"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "atziņas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:13.678363667Z",
+  "model": "glm-5.3"
+}

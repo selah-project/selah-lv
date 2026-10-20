@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויך לב דוד אתו",
+      "rationale": "Burtiski 'sita sirds Davidu' — sirds kā pārspēks, kas sit pa sirdsapziņu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ievainoja",
+      "rationale": "נכה burtiski ir 'sist' — te sirds sit savu saimnieku"
+    }
+  ],
+  "translation": "Un notika pēc tam, ka Davida sirds ievainoja ⟨אתו⟩ par to, ka viņš bija nogriezis ⟨את⟩ stūri, kas bija Šaula apmetnim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/5-8.1792519404170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ievainoja"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "viņu (Davidu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, ka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "bija nogriezis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stūri"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "stūri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "bija Šaula apmetnim"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:24.170933401Z",
+  "model": "glm-5.3"
+}

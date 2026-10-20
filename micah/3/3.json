@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פצחו",
+      "rationale": "Burtiski 'izlauž' — parasti priecīgā skaņā; šeit par kaulu lauzīšanu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "katls \/ katla",
+      "rationale": "סיר un קלחת — divi trauki; latviski abi 'katls', zūd atšķirība"
+    }
+  ],
+  "translation": "Un tie, kas ēd mana ļaužu miesu un novelk viņu ādu no viņiem, un ⟨את⟩ viņu kaulus sadragā un sadala kā katlā un kā gaļu katla vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/3\/1-4.1792526445994.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Un tie, kas"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mana ļaužu"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "un viņu ādu"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "no viņiem"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "novelk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viņu kaulus"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "viņu kaulus"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "sadragā"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "un sadala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "katlā"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "un kā gaļu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "katla"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:46.002564422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "pieci",
+      "rationale": "teksts pats skaita dēlus — pieci kopā."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרי",
+      "rationale": "1. Laiku 2:6 piecos Zeraha dēlos daudzi redz psalmu virsrakstu dziedātājus Etanu un Hemanu (ps. 88; 89); vārds Zimri dažos tekstos lasīts kā Zohars (Jos. 7:1 Zabdī dēls — tēva vārds atšķiras)."
+    }
+  ],
+  "translation": "Un Zerahas dēli: Zimri un Etans un Hemans un Kalkols un Dara — visi kopā pieci.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e688587675671ac2e5b874c32f86514ec58f1e577af70816543a0e93e7d9028d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/2\/5-8.1792530895356.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerahas"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "un Etans"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "un Hemans"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "un Kalkols"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "un Dara"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi kopā"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pieci"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:55.357393286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 12:23",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tika⟩",
+      "rationale": "Palīgdarbības vārds, kuru ebreju partikips nesatur."
+    },
+    {
+      "kind": "idiom",
+      "subject": "divrei ha-jamim",
+      "rationale": "'Dienu vārdi' = hroniku grāmata; pieņemts nosaukums 'Dienu vārdu grāmata'."
+    }
+  ],
+  "translation": "Levītu dēli, tēvu namu galvas, ⟨tika⟩ ierakstīti Dienu grāmatas — Vārdu grāmatas — pantos, līdz pat Jochanana, Eļjašiba dēla, dienām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cc3f354f7477ca4fc8f704413aef9a6216d9219312c52c39dbdc42dfc03a820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/12\/21-24.1792530861635.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levīta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tēvu namu"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ierakstīti"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Vārdi —"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Dienas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz pat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienām"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eļjašiba"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:21.636073194Z",
+  "model": "glm-5.3"
+}

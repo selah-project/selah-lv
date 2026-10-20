@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי",
+      "rationale": "Burtiski 'uz … muti' — latviski 'pēc mutes', tas ir, pēc liecības vārdiem."
+    },
+    {
+      "kind": "measurement",
+      "subject": "divi vai trīs liecinieki",
+      "rationale": "Skaitliska prasība liecinieku skaitam vienā no nāvessoda."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומת … המת",
+      "rationale": "Viena sakne מות divreiz: 'lai tiek nogalināts tam nomirstamais' — vārdu atbalsība."
+    }
+  ],
+  "translation": "Pēc divu liecinieku vai trīs liecinieku mutes lai tiek nogalināts tas, kam jāmirst; viņš netiek nogalināts pēc viena liecinieka mutes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "342db6a9636315b17f1df2183553795089bb560514bad0935a591dda2e257299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/17\/5-8.1792516977789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mutes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "liecinieku"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "liecinieku"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "lai tiek nogalināts"
+    },
+    {
+      "surface": "המת",
+      "gloss": "tas, kam jāmirst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "netiek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nogalināts"
+    },
+    {
+      "surface": "על",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mutes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liecinieka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:57.791844352Z",
+  "model": "glm-5.3"
+}

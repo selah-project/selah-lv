@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 39:6",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sāls zeme",
+      "rationale": "מלחה ir 'sālīta zeme', neauglīga tuksneša zeme — viens vārds, latviski divi."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Jahves darbs",
+      "rationale": "Jahve pats runā pirmajā personā par to, ko vienīgi Viņš ir licis — atbilde uz 5. panta jautājumu."
+    }
+  ],
+  "translation": "Kuram es licu tuksnesi par māju un sāls zemi par mītnēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/39\/5-8.1792529566366.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kuram"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "es licu"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "tuksnesi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "par viņa māju"
+    },
+    {
+      "surface": "ומשכנותיו",
+      "gloss": "un par viņa mītnēm"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "sāls zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:46.367289213Z",
+  "model": "glm-5.3"
+}

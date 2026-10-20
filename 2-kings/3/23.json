@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajag saikli 'ir' teikumā 'Šīs ir asinis'; ebreju tekstā tas nav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החרב נחרבו",
+      "rationale": "Atkārtota sakne חרב — 'iznīcināti, pilnīgi iznīcināti' — pastiprinājums, kas atspoguļo ebreju infinitivus absolūtu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Moab",
+      "rationale": "Uzsaukums 'laupīt, Moab!' vēršas tieši pie Moaba — mudinājums doties uz laupīšanu."
+    }
+  ],
+  "translation": "Un viņi sacīja: Šīs ⟨ir⟩ asinis — ķēniņi pilnīgi iznīcināti, iznīcināti, un katvs sita ⟨את⟩ savu tuvinieku; un tagad — laupīt, Moab!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "988ab2402c976aeb615252d2c2c8843834bbd2e059948347b8f1cb8ededf308e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/3\/21-24.1792521107136.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šīs"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ir iznīcināti"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "pilnīgi iznīcināti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katvs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tuvinieku"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savu tuvinieku"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "laupīt"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:47.137819522Z",
+  "model": "glm-5.3"
+}

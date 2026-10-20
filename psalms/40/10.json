@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשרתי",
+      "rationale": "Sakne nozīmē 'nest vēstis' (prieka vēsti); 'sludināju' atstāj svešādaino 'pasludināju prieka vēsti' niansi."
+    },
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Latviešu valodā nepieciešams subjekts, ebreju valodā to izsaka izteiksmes forma."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Tieša uzruna Dievam: 'Jahve, Tu zini'."
+    }
+  ],
+  "translation": "Es sludināju cedek lielā saietā; redzi, savas lūpas es neaizturēju — Jahve, Tu zini.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13a4435080fcc83515ff9566b63af3558c78eaf87d36d67f28c2ff6bd4928c2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/10-11.1792532776469.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "es sludināju"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "saietā"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "savas lūpas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "aizturēju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zini"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:16.470322893Z",
+  "model": "glm-5.3"
+}

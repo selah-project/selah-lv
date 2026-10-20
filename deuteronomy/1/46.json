@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tur",
+      "rationale": "Ebreju teksts 'tur' nesatur — pievienots skaidrībai kā מוֹשַׁב telpai."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienas",
+      "rationale": "Uzturēšanās ilguma skaitīšana — 'kā dienas, kurās jūs bijāt'."
+    }
+  ],
+  "translation": "Un jūs palikāt Kadešā daudzas dienas, kā dienas, kurās jūs bijāt tur.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/1\/45-46.1792516532816.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "Un jūs palikāt"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Kadešā"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzas"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kā dienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurās"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "jūs bijāt"
+    }
+  ],
+  "timestamp": "2026-10-20T17:15:32.817061052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 25:8",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ja tomēr tu iesi",
+      "rationale": "כי אם burtiski 'jo ja': draudoša brīdinājuma atvērums — 'ja tu tomēr iesi' pret lasījumu 'ja ne, tad ej' (Geneva)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעזור \/ להכשיל",
+      "rationale": "Balansēts pretstats 'palīdzēt un sagāzt' — tā pati sakne כשל vārda 'paklust' atkārtojas teikuma sākumā un beigās."
+    },
+    {
+      "kind": "you",
+      "subject": "tu",
+      "rationale": "Brīdinājums tieši ķēniņam Amasijam otrajā personā."
+    }
+  ],
+  "translation": "Ja tomēr tu iesi, dari to, esi stiprs kaujai — Elohim tev liks paklust ienaidnieka priekšā, jo ir spēks Elohim, lai palīdzētu un lai sagāztu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/25\/5-8.1792532203335.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tomēr"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iesi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dari"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "esi stiprs"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kaujai"
+    },
+    {
+      "surface": "יכשילך",
+      "gloss": "tev liks paklust"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "lai palīdzētu"
+    },
+    {
+      "surface": "ולהכשיל",
+      "gloss": "un lai sagāztu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:36:43.336776522Z",
+  "model": "glm-5.3"
+}

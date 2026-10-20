@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Ivritā Izraelī trūkst piederības vietniekvārda pie 'auss', tas izriet no darbības vārda formām"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מורי\/למלמדי",
+      "rationale": "divi dažādi mācīšanas sakņu vārdi (ירה un למד) blakus, latviski zudis diferencējums"
+    }
+  ],
+  "translation": "un nesadzirdēju manonu skolotāju balsī, un saviem mācītājiem nenoliecu ⟨savu⟩ ausi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/13-16.1792528557228.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sadzirdēju"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsī"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "manu skolotāju"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "un saviem mācītājiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "nenoliecu"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ausi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:57.229366146Z",
+  "model": "glm-5.3"
+}

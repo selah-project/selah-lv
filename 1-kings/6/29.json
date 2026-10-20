@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תמרת",
+      "rationale": "arhitektonisks termins — pālmveida pilastra kolonna, atveidots kā 'palmas kolonnas'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פטורי צצים",
+      "rationale": "'atvērtie ziedi' pret 'ziedu pumpuri'; פטור no 'atvērt', ציץ — spīdošs zieds"
+    }
+  ],
+  "translation": "Un ⟨את⟩ visas nama sienas apkārt viņš izgreznoja ar izgriezumiem — izgrieztos kerubus, palmas kolonnas un atvērtos ziedus — iekšpusē un ārpusē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da6eafa4ad6c1b2b83f07e3d7d8b12efd0db58e82794e3d129c17b74f53b2516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/6\/29-32.1792520515257.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Un ⟨את⟩",
+      "marks": "visas nama sienas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "sienas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "izgreznoja ar izgriezumiem"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "izgriezumus"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "izgrieztos"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubus"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "palmas kolonnas"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "un atvērtos"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "ziedus"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "iekšpusē"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "un ārpusē"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:55.257794420Z",
+  "model": "glm-5.3"
+}

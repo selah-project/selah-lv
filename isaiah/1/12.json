@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "jūs",
+      "rationale": "Jautājums vērsts tieši pie tempļa apmeklētājiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פני",
+      "rationale": "'mano seju' — parādīties Dieva priekšā; latviski 'mani redzēt' ar iekavās pievienotu piederību."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minēt",
+      "rationale": "רמס — soļot, samīt; negatīva nokrāsa, ne vienkārši 'apmeklēt'."
+    }
+  ],
+  "translation": "Kad jūs nākat mani redzēt, kas to prasīja no jūsu rokām — minēt manus pagalmus?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/1\/9-12.1792521850903.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "jūs nākat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "redzēt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "prasīja"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "no jūsu rokām"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "minēt"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "manus pagalmus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:10.904742367Z",
+  "model": "glm-5.3"
+}

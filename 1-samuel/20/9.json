@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לך",
+      "rationale": "Burtiski 'parakstīta lieta tev' — atteikšanās izsauciens 'lai tas būtu tālu no tevis'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אותה",
+      "rationale": "אֹתָהּ šeit ir vietniekvārds 'to', nevis priekšmeta zīme את; konteksts prasa retorisku nolieguma jautājumu 'vai tad es nepateiktu?'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע אדע",
+      "rationale": "Saknes atkārtojums 'zināt es zinātu' — pastiprinājums, kas latviski izplūst."
+    }
+  ],
+  "translation": "Un Jonatāns sacīja: Lai tas būtu tālu no tevis! Jo ja es kaut cik zinātu, ka ļaunums ir izšķirts no mana tēva nākt pār tevi, vai tad es tev ⟨את⟩ to nepateiktu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/20\/9-12.1792519227066.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatāns"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "lai tas būtu tālu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zinātu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "es zinātu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ir izšķirts"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "vai tad ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to (ļaunumu)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "es pateiktu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:27.067160771Z",
+  "model": "glm-5.3"
+}

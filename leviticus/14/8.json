@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septiņas dienas",
+      "rationale": "Pagaidu posms ārpus telts — skaitlis septiņi kā pilnības mērs"
+    },
+    {
+      "kind": "addition",
+      "subject": "bet",
+      "rationale": "Ierindas savienojums pievienots latviešu teikuma plūsmai; ebreju tekstā vienkārši 'un'"
+    }
+  ],
+  "translation": "Un šķīstējamais izmazgās ⟨את⟩ savas drēbes, un nogriezīs ⟨את⟩ visus savus matus, un nomazgāsies ūdenī, un būs šķīsts; un pēc tam ieies nometnē, bet dzīvos ārpus savas telts septiņas dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/14\/5-8.1792513902868.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "izmazgās"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "šķīstējamais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas drēbes"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "drēbes"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "nogriezīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus savus matus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "matus"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nomazgāsies"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ūdenī"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "būs šķīsts"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "pēc tam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ieies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nometnē"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nometnē"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dzīvos"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ārpus"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "savas telts"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septiņas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:31:42.870826378Z",
+  "model": "glm-5.3"
+}

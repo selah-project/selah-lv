@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 5:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tiek negaidīti aizrauts",
+      "rationale": "נמהרה: 'aizrauts\/paceļts vējā' vs 'pasteidzināts'; KJV 'carried headlong'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפתלים",
+      "rationale": "No saknes פתל 'vijies, līks'; pašā vārdā ieausta līkuma bildes no Jobas vārda."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בערמם",
+      "rationale": "'to viltībā' — ebrejs saka 'viņu viltībā', tas ir, ar pašu viltību kā ar tīklu."
+    }
+  ],
+  "translation": "Ķer ⟨את⟩ gudros viņu pašu viltībā, un sagrozīto padoms tiek negaidīti aizrauts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/5\/13-16.1792529034814.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכד",
+      "gloss": "ķer"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "gudros"
+    },
+    {
+      "surface": "בערמם",
+      "gloss": "viņu pašu viltībā"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "un padoms"
+    },
+    {
+      "surface": "נפתלים",
+      "gloss": "sagrozīto"
+    },
+    {
+      "surface": "נמהרה",
+      "gloss": "tiek negaidīti aizrauts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:54.815353460Z",
+  "model": "glm-5.3"
+}

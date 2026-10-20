@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "saīsināta roka",
+      "rationale": "קצרה יד — ebreju idiomma 'spēka trūkums', latviski 'par īsu, lai glābtu'."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Israēlu",
+      "rationale": "Pants tieši vēršas pie Israēla ar 'redzi', pasludinot Jahves spēku."
+    }
+  ],
+  "translation": "Redzi, Jahves roka nav par īsu, lai nespētu glābt, un Viņa auss nav kļuvusi smaga, lai nespētu dzirdēt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/59\/1-4.1792523078134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "par īsu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "lai nespētu glābt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "kļuvusi smaga"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "auss"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "lai nespētu dzirdēt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:38.135325496Z",
+  "model": "glm-5.3"
+}

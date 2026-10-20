@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמחו\/וגילו\/שישו\/משוש",
+      "rationale": "četri dažādi prieka verbi no divām saknēm — atkārtojuma bagātība latvisku vienu vārdu 'priecāties' vietā"
+    },
+    {
+      "kind": "invitation",
+      "subject": "uz Israēlu",
+      "rationale": "pavēles daudzskaitlī: priecājieties, gavilējiet — aicinājums pielūdzējiem"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jerušalaimas mīļotājiem",
+      "rationale": "tiešs uzrunājums: 'visi, kas viņu mīlat', 'visi, kas par viņu sērojat'"
+    }
+  ],
+  "translation": "Priecājieties ⟨את⟩ Jerušalaimu un gavilējiet viņā, visi, kas viņu mīlat; dzeriet līksmi ⟨את⟩ ar viņu, visi, kas par viņu sērojat.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/66\/9-12.1792523169723.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "priecājieties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "un gavilējiet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "kas viņu mīlat"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "dzeriet līksmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ar viņu"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "jautrību"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "kas par viņu sērojat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "par viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:09.724373459Z",
+  "model": "glm-5.3"
+}

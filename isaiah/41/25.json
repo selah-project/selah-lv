@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאת",
+      "rationale": "Šeit ויאת ir darbības vārds 'atnāca' (c\/857), nevis aleph-tav rādītājs את (H853) — daudzi lasītāji to sajauc."
+    },
+    {
+      "kind": "substitution",
+      "subject": "viņš",
+      "rationale": "Ebreju teksts nesaka 'viens' — modinātais tiek pievērsts ar vīriešu darbības vārdu formu, persona netiek nosaukta (Kirus? Avrahams? strīds starp tulkiem)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר \/ יוצר \/ טיט",
+      "rationale": "Podnieka māla un dubu tēls: valdnieki kļūst par izejvielu, ko podnieks min kājām — dievu tēlu taisītāju (41:7) apgrieztība."
+    }
+  ],
+  "translation": "Es modināju no ziemeļiem, un viņš atnāca; no saules lēkta viņš aicina Manu vārdu, un viņš nāks pār pārvaldniekiem kā pa mālu, un kā podnieks viņš min dubas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/41\/25-28.1792522662504.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "Es modināju"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "no ziemeļiem"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "un viņš atnāca"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "no saules lēkta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saules"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "viņš aicina"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Manu vārdu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un viņš nāks"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "pārvaldniekiem"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "mālu"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "un kā"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "podnieks"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "viņš min"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "dubas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:42.504960260Z",
+  "model": "glm-5.3"
+}

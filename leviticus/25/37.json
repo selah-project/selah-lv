@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "augļošana",
+      "rationale": "נשך burtiski 'kodums' — augļošana kā parasts termins aizstāj vārda tēlu"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēla atvasei",
+      "rationale": "pavēle tieši vērsta uz klausītāju: nedodi savam nabaga brālim naudu uz augļiem"
+    }
+  ],
+  "translation": "⟨את⟩ savu sudrabu nedosi viņam par augļošanu, un ne par pieaugumu nedosi savu ēdamo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/37-40.1792515206573.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sudrabu"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "savu sudrabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedosi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedosi (dosi)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "par augļošanu"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "un ne par pieaugumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedosi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedosi (dosi)"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "savu ēdamo"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:26.575590657Z",
+  "model": "glm-5.3"
+}

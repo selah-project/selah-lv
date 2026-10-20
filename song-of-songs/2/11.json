@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "'sev\/pats par sevi' — refleksīvs partikuls bez latviešu atbilstības; 'aizgājis pats no sevis' = pilnīgi aizgājis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר\/חלף\/הלך",
+      "rationale": "trīs sinonīmi 'pagājis, pārgājis, aizgājis' pēc kārtas — kavalkādes efekts, saglabāts"
+    }
+  ],
+  "translation": "Jo lūk — ziema pagājusi, lietus pārgājis, ⟨tas⟩ aizgājis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/2\/9-12.1792529625209.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ziema"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pagājusi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "lietus"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "pārgājis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aizgājis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨tas⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:45.210648194Z",
+  "model": "glm-5.3"
+}

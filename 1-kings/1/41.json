@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa 'kas bija ar viņu' — pievienots ⟨bija⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הומה",
+      "rationale": "'trokšņo' — המה ir zemoša, dunēša skaņa kā bišu dūkoņa"
+    }
+  ],
+  "translation": "Un Adonijahs dzirdēja, un visi saucinātie, kas ar ⟨את⟩ viņu ⟨bija⟩, un tie jau bija beiguši ēst; un Joabs dzirdēja ⟨את⟩ šofara skaņu un sacīja: Kāpēc pilsētas balss trokšņo?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/41-44.1792520350390.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Un dzirdēja"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijahs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "saucinātie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ar ⟨את⟩ viņu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "un tie"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bija beiguši"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "un dzirdēja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šofara skaņu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "skaņu"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "no šofara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "trokšņo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:10.390674538Z",
+  "model": "glm-5.3"
+}

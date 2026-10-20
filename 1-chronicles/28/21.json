@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 28:21",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam nepieciešams ⟨ir⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "האלהים šeit kā vārds 'Dievnama' — saglabāts Elohim, nevis 'Dieva'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדיב",
+      "rationale": "'dāsnais\/brīvprātīgais' — KJV 'willing skilful man', YLT 'every willing one'; vārds nozīmē gan dāsnu cilvēku, augstmani"
+    }
+  ],
+  "translation": "Un lūk, priesteru un levītu nodaļas — visas Dievnama kalpošanas darbam, un ar tevi ⟨ir⟩ katrā darbā katrs dāsnais gudrībā, katrai kalpošanai; un firstaji un viss ļaudis — visiem taviem vārdiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee2206e15837ed60a85fecd72cb44cbf5a8bfbf065a765943f074a17a40f3a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/28\/21-21.1792531586255.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Un lūk"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "nodaļas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteru"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "un levītu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "kalpošanas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "un ar tevi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katrā"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbā"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "katram"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "dāsnais"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "gudrībā"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "katrai"
+    },
+    {
+      "surface": "עבודה",
+      "gloss": "kalpošanai"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "un firstaji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "taviem vārdiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:26:26.255599951Z",
+  "model": "glm-5.3"
+}

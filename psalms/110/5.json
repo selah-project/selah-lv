@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā nav subjekta vietniekvārda; darbības vārda forma sola nākotni — 'sadauzīs'"
+    },
+    {
+      "kind": "crux",
+      "subject": "על ימינך",
+      "rationale": "'pie tavas labās rokas' (Adonai ir pie ķēniņa labās rokas) pret 'pret tavu labo roku' (Adonai sit pret ienaidnieka labo pusi)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusmas",
+      "rationale": "אף burtiski ir 'deguns\/nāsis' — dusmu tēls no deguna elpošanas"
+    }
+  ],
+  "translation": "Adonai tavā labajā pusē — ⟨viņš⟩ sadauza ķēniņus savas dusmu dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/110\/5-7.1792528229530.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tavā labajā pusē"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "sadauza"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "savās dusmās"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:29.530844573Z",
+  "model": "glm-5.3"
+}

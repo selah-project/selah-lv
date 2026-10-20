@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 4:8",
+  "book": "jonah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks' nekā 'dvēsele'; 'vēlējās savu nefes lai mirst' burtiski: lūdza savu dzīvību nāvei"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרישית",
+      "rationale": "'karsais\/klusais austrumu vējš' — vārds Tanahā parādās tikai šeit"
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "'Labāk man mirt' — piederība izteikta ar datīvu, ebrejuss nav; 'man' pievienots latviešu skaidrībai"
+    }
+  ],
+  "translation": "Un notika, saulei lecot, ka Elohim sagatavoja karsu austrumu vēju, un saule sita uz Jonasa galvas, un viņš ģība, un vēlējās ⟨את⟩ savu dvēseli lai mirst, un sacīja: Labāk man mirt nekā dzīvot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e885026ef46f46e4231db1b89a3594b4d3d33fe362c6b588dd6e370fb65d332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jonah\/4\/5-8.1792526447491.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כזרח",
+      "gloss": "lecot"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saulei"
+    },
+    {
+      "surface": "וימן",
+      "gloss": "sagatavoja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vēju"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austrumu"
+    },
+    {
+      "surface": "חרישית",
+      "gloss": "karsu"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "sita"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saule"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonasa"
+    },
+    {
+      "surface": "ויתעלף",
+      "gloss": "ģība"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "vēlējās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dvēseli"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "למות",
+      "gloss": "lai mirst"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Labāk"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "man mirt"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "nekā dzīvot"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:47.499342837Z",
+  "model": "glm-5.3"
+}

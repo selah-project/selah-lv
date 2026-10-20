@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 6:23",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרה",
+      "rationale": "'כֵּרָה' — 'pircums\/mielasts': no כרה 'sagādāt'; KJV 'great provision', citi 'feast'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא יספו עוד",
+      "rationale": "'nebija vairs' — ebreju idiomātiskais 'nepievienoja vairs'; latviski 'vairs nepienāca'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכרה \/ כרה",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes כרה — 'sarīkoja rīkojumu'."
+    }
+  ],
+  "translation": "Un viņš sarīkoja tiem lielu mielastu, un tie ēda un dzēra; un viņš tos palaida prom, un tie aizgāja pie saviem kungiem. Un Arama iebrukuļu pulki vairs nepienāca Jisraēla zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/21-24.1792521227883.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרה",
+      "gloss": "Un viņš sarīkoja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "mielastu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un tie ēda"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "un dzēra"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "un viņš tos palaida prom"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "un tie aizgāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "saviem kungiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "vairs nepienāca"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "iebrukuļu pulki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ienākt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:47.885218608Z",
+  "model": "glm-5.3"
+}

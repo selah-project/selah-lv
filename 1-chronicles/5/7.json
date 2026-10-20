@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tā galvas bija⟩",
+      "rationale": "Ebreju valodā teikumā trūkst darbības vārda; galvas — burtiski"
+    }
+  ],
+  "translation": "Un viņa brāļi pēc viņu dzimtām, kad to paaudžu izcelsmi pierakstīja: ⟨tā galvas bija⟩ Jeiēls un Zeharjahu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/5\/5-8.1792531061705.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Un viņa brāļi"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "kad pierakstīja izcelsmi"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "to paaudžu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiēls"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "un Zeharjahu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:41.706692654Z",
+  "model": "glm-5.3"
+}

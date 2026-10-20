@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיל",
+      "rationale": "'spēks, vērtība, bagātība' par sievu — 'spēcīga', 'tikumīga' vai 'vērtīga'; viens vārds, vairākas nokrāsas."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saišļa 'ir' — latviešu valodai vajadzīgs."
+    }
+  ],
+  "translation": "Spēcīga sieva ir sava kunga kronis, bet kas viņu kaunina, ir kā trūde viņa kaulos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/1-4.1792528696013.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "sieva"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "spēcīga"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kronis"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sava kunga"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "bet kā trūde"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "viņa kaulos"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "kas viņu kaunina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:16.014457668Z",
+  "model": "glm-5.3"
+}

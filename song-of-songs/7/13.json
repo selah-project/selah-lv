@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "iesim agri ... lūkosimies",
+      "rationale": "kohortatīvi — aicinājums ceļties agri un iet lūkoties vīna dārzos"
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "runa vērsta pie mīļotā (dod), pie kā runātāja dos savu mīlestību"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ziedu pumpuri",
+      "rationale": "הסמדר ir vīna koka zieds; latviski viens vārds trūkst, tāpēc saliktenis"
+    }
+  ],
+  "translation": "Esim agri vīna dārzos, lūkosimies, vai zied vīna koks, vai atvērušies ziedu pumpuri, vai plaukuši granātkoki; tur es došu ⟨את⟩ savas mīlestības tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/7\/13-14.1792529720447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "esim agri"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "vīna dārzos"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "lūkosimies"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "zied"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "vīna koks"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atvērušies"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "ziedu pumpuri"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "plaukuši"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "granātkoki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "es došu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas mīlestības"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "savas mīlestības"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:20.448564995Z",
+  "model": "glm-5.3"
+}

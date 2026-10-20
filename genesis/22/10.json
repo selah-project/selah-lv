@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nazī",
+      "rationale": "המאכלת burtiski ir 'ēdamais rīks' — nazis, ar ko ēst gatavo."
+    },
+    {
+      "kind": "crux",
+      "subject": "mašiahs",
+      "rationale": "Darbība apstājas tieši pirms sitiena — teksts sniedz tikai nodomu ('lai nokautu'), ne izpildi."
+    }
+  ],
+  "translation": "Un Avrahams izstiepa ⟨את⟩ savu roku un paņēma ⟨את〕 nazī, lai nokautu ⟨את⟩ savu dēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/22\/9-12.1792511930219.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un izstiepa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazī"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nazī"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "lai nokautu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dēlu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savu dēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:58:50.221265500Z",
+  "model": "glm-5.3"
+}

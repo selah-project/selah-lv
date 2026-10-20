@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iekšā⟩",
+      "rationale": "virziens pēc jōd-he beigās nozīmē kustību uz pilsētu; latviešu locījums vien to nesniedz pilnīgi"
+    }
+  ],
+  "translation": "Un viņš sūtīja vēstnešus pie Ahaba, Jisraēla ķēniņa, ⟨iekšā⟩ pilsētā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/1-4.1792520939500.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un viņš sūtīja"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vēstnešus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "⟨iekšā⟩ pilsētā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:59.501743780Z",
+  "model": "glm-5.3"
+}

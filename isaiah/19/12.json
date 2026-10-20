@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tagad",
+      "rationale": "daļiņa נא ('lūdz\/tagad') izcelta un pārnesta — retorisks aicinājums."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Farao un Micraimas gudrajiem",
+      "rationale": "izaicinošs jautājums 'kur tad tavi gudrie?' — vērsts uz adresātu."
+    }
+  ],
+  "translation": "Kur tad tavi gudrie? Un lai tie ⟨tagad⟩ tev pasaka, un lai tie zina, ko Jahve Cevaot ir padomjis pret Micraimu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/9-12.1792522161303.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tad"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "tavi gudrie"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "un lai tie pasaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un lai tie zina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ir padomjis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:21.305655407Z",
+  "model": "glm-5.3"
+}

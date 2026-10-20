@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bet",
+      "rationale": "contrastive connector supplied; Hebrew asyndeton"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצאה",
+      "rationale": "literally 'excrement\/filth', rendered 'netīrumi'"
+    }
+  ],
+  "translation": "Paaudze — savās acīs tīra, bet no saviem netīrumiem nav nomazgāta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/9-12.1792528910771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "paaudze"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tīra"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "savās acīs"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "no saviem netīrumiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "nomazgāta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:50.772408777Z",
+  "model": "glm-5.3"
+}

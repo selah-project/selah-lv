@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "debesu pulks",
+      "rationale": "צבא השמים burtiski 'debesu karaspēks\/pulks'; turēts kā viens tēls"
+    },
+    {
+      "kind": "addition",
+      "subject": "abos",
+      "rationale": "Latviešu valodai vajadzīgs skaitļa un locījuma sakritības vārds diviem pagalmiem"
+    }
+  ],
+  "translation": "Un viņš uzcēla altārus visam debesu pulkam abos Jahves nama pagalmos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/5-8.1792532354630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "un viņš uzcēla"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altārus"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pulkam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesu"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "abos"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "pagalmos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T21:39:14.630627991Z",
+  "model": "glm-5.3"
+}

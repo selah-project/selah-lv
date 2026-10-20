@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכלב אפרתה",
+      "rationale": "Sarežģīts vietas izteikums: «pie Kaleba-Efratas» (nāves vieta) pret iespēju lasīt «Kalebs apprecēja Efratu» kādarās tradīcijās; šeit atstāts kā vietas nosaukums."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs darbības vārds «dzemdēja» teikumā, kur ivrita teksts tikai uzskaita vārdus."
+    }
+  ],
+  "translation": "Un pēc Hecrona nāves Kalebs-Efrata, un Hecrona sieva Abija dzemdēja viņam ⟨את⟩ Ašhuru, Tekoas tēvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/2\/21-24.1792530932966.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Un pēc"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāves"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hecrona"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "Kalebs"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "un sieva"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hecrona"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abija"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašhuru"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "Ašhuru"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tēvu"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:15:32.967778035Z",
+  "model": "glm-5.3"
+}

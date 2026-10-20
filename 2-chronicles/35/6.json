@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sacīja⟩",
+      "rationale": "ebreju tekstā tikai 'ar Mošes roku' — darbības vārds pievienots latviešu valodas labad."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "'ar Mošes roku' = caur Moši, Mozus starpniecībā."
+    },
+    {
+      "kind": "you",
+      "subject": "levītiem",
+      "rationale": "pavēles forma vērsta pie levītiem pirms pesaha."
+    }
+  ],
+  "translation": "Un nokaujiet pesahu, un svētieties, un sāgat ⟨to⟩ saviem brāļiem, lai tie dara pēc Jahves vārdiem, ko ⟨sacīja⟩ ar Mošes roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/35\/5-8.1792532436444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "Un nokaujiet"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "un svētieties"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "un sāgat"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "saviem brāļiem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "lai tie dara"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pēc vārdiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ar roku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:36.445119366Z",
+  "model": "glm-5.3"
+}

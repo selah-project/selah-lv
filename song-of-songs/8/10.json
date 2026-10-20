@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu\/ir",
+      "rationale": "Ebreju frāzes ir bez saikļa; pievienots latviski atzīmēts ar ⟨…⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמוצאת שלום",
+      "rationale": "'Kā tā, kas atrod mieru' pret KJV 'kas atrada labvēlību' — šaloms nozīmē mieru, labklājību"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כמגדלות",
+      "rationale": "Daudzskaitlis ar noteikto artikulu 'kā torņi (uz tās)' — varbūt zīmējas uz pilsētas mūra torņiem"
+    }
+  ],
+  "translation": "Es ⟨esmu⟩ siena, un manas krūtis ⟨ir⟩ kā torņi; tad es biju viņa acīs kā tā, kas atrod mieru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/9-12.1792529721254.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "siena"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "un manas krūtis"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "kā torņi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "es biju"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "viņa acīs"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "kā tā, kas atrod"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mieru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:21.255652836Z",
+  "model": "glm-5.3"
+}

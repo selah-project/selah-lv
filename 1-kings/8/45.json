@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viņu tiesu",
+      "rationale": "משפטם burtiski 'viņu spriedums\/tiesa'; 'aizstāvēt viņu lietu' ir loma, ne vārda forma"
+    }
+  ],
+  "translation": "Tu dzirdēsi debesīs ⟨את⟩ viņu lūgšanu un ⟨את⟩ viņu pielūgšanu, un tu darīsi viņu tiesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/45-48.1792520640500.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Tu dzirdēsi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu lūgšanu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "viņu lūgšanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viņu pielūgšanu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "viņu pielūgšanu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "un tu darīsi"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "viņu tiesu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:00.504283227Z",
+  "model": "glm-5.3"
+}

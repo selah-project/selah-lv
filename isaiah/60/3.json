@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ies",
+      "rationale": "הלכו ל: 'ies pie\/nē' (KJV 'nāks') pret JPS 'staigās pa' — latviski izvēlēts 'ies pie' kā literālākais"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אור\/נגה\/זרח",
+      "rationale": "Trīs gaismas vārdi paralēlā pārī: gaišums–mirdzums, turpinot 1. panta אור kaskādi"
+    }
+  ],
+  "translation": "Un tautas ies pie tava gaišuma, un ķēniņi pie tava uzlecošā mirdzuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/60\/1-4.1792523052319.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Un ... ies"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "pie tava gaišuma"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "un ķēniņi"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "pie mirdzuma"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "tava uzlecošā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:12.319927285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "agri ceļas",
+      "rationale": "שחר burtiski 'ausma' — kā darbības vārds 'meklēt agri no rīta'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבקש\/דרש",
+      "rationale": "Divi dažādi 'meklēšanas' darbības vārdi pretstatā labajam un ļaunajam"
+    }
+  ],
+  "translation": "Kas agri ceļas meklēt labu, iemanto labvēlību; bet kas pēta ļaunu, tas viņu piemeklēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/11\/25-28.1792528692198.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "kas-agri-ceļas-meklēt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "iemanto"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "labvēlību"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "bet-kas-pēta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "tas-viņu-piemeklēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:12.199014601Z",
+  "model": "glm-5.3"
+}

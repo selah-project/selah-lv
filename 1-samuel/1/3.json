@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 1:3",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "augšup",
+      "gloss": "עלה nozīmē 'kāpt', virziens ietverts darbības vārdā",
+      "rationale": ""
+    },
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "Idioma 'no dienām uz dienām' — gadu no gada, atstāts burtiski"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ivritam nav kopulas pie 'un tur divi dēli'"
+    }
+  ],
+  "translation": "Un kāpa tas vīrs no savas pilsētas augšup no dienām uz dienām pielūgt un upurēt Jahve Cevaot Šilo; un tur ⟨bija⟩ Eli divi dēli, Hofni un Pinehass, priesteri Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/1\/1-4.1792518755283.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "Un kāpa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vīrs"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "no savas pilsētas"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "no dienām"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "uz dienām"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "pielūgt"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "un upurēt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Šilo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un tur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "divi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofni"
+    },
+    {
+      "surface": "ופנחס",
+      "gloss": "un Pinehass"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:35.284981380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨cilvēki⟩",
+      "rationale": "darbības vārda וישבו daudzskaitļa subjects ebreju tekstā nav izteikts"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "herem: 'iznīcība\/pilnīga izplošana' (JPS) pret 'lāsts' (ASV); vārds nozīmē dievvārdībai paredzētu iznīcināšanu"
+    }
+  ],
+  "translation": "Un ⟨cilvēki⟩ tajā dzīvos, un herema vairs nebūs, un Jerušalaima dzīvos drošībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b16c60a47d99eed447d6c914e9247e71fc8f04194bf38f981db8c681a1e335b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/14\/9-12.1792526936569.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "un herema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "drošībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:56.572481178Z",
+  "model": "glm-5.3"
+}

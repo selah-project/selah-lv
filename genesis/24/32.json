@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפתח",
+      "gloss-note": null,
+      "rationale": "'atjūdza\/atvilka segas' — sakne פתח 'atvērt, atslēgt'; daži tulkotāji: 'izkravāja kamieļus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu palīgdarbības vārds, kura ebreju tekstā nav"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 prievārds 'ar viņu', saglabāts kā ⟨את⟩ zīme pēc projekta noteikuma"
+    }
+  ],
+  "translation": "Un vīrs nāca namā, un viņš atjūdza kamielos, un deva salmus un barību kamieļiem, un ūdeni mazgāt viņa kājas un vīru kājas, kas ⟨bija⟩ ⟨את⟩ ar viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8750803e87cbde1014221501264eaf8854a7f912168bfd59bd7528bc057f820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/24\/29-32.1792512080558.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un nāca"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "un atjūdza"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamieļus"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "un deva"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "salmus"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "un barību"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "kamieļiem"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "un ūdeni"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "mazgāt"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "viņa kājas"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "un kājas"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:01:20.559283153Z",
+  "model": "glm-5.3"
+}

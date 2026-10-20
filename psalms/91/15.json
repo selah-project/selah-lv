@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būšu⟩",
+      "rationale": "ebreju valodā nav kopulas; latviešu valoda to prasa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bēdās",
+      "rationale": "צרה burtiski 'šaustība, sažņaugtība' — ciešanas kā šaurā vietā"
+    }
+  ],
+  "translation": "Viņš Me saukt, un Es viņam atbildēšu; Es ⟨būšu⟩ ar viņu bēdās, Es viņu izraušu un viņu godināšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/91\/13-16.1792528060859.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "viņš Me saukt"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "un Es viņam atbildēšu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "bēdās"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Es viņu izraušu"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "un viņu godināšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:40.860317715Z",
+  "model": "glm-5.3"
+}

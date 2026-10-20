@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņi zinās",
+      "rationale": "Otrais 'iepazīs' ebreju tekstā izlaists — latviski teikumam vajag darbības vārdu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Es esmu Tas, kas runā",
+      "rationale": "אני הוא — slēpta dievišķā klātbūtne, 'lūk, Es' bez nosaukta satura"
+    }
+  ],
+  "translation": "Tāpēc Mana tauta iepazīs Manu vārdu, tāpēc tajā dienā ⟨viņi zinās⟩, ka Es esmu Tas, kas runā — lūk, Es.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/52\/5-8.1792522939745.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "iepazīs"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mana tauta"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Manu vārdu"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Tas"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kas runā"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lūk, Es"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:19.746066962Z",
+  "model": "glm-5.3"
+}

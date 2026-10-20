@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele filozofiskā nozīmē; šeit par dzīvnieku"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā trūkst darbības vārda; latviešu valodai vajadzīgs 'ir'"
+    }
+  ],
+  "translation": "Un visai zemes dzīvnieku dzīvībai un visiem debess putniem un visam, kas rāpo pa zemi, kurā ir dzīva dvēsele: ⟨את⟩ visu zaļo zāli par ēdienu; un tā notika.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "468bd5962ebf2312cbbedef2005981114ef009c288c0423ff3065380f4d5a4b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/1\/29-31.1792511464513.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "Un visai"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dzīvnieku dzīvībai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visiem"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "putniem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visam"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "kas rāpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dzīva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu zaļo zāli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zaļo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zāli"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "par ēdienu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:04.514518382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vara",
+      "rationale": "נחשת ir varš; 'bronza' un 'mis' ir vēlāki sakausējumi."
+    }
+  ],
+  "translation": "Un viņš izgatavoja tā ragus uz tā četriem stūriem — no tā paša tie bija tā ragi — un viņš apsedza ⟨את⟩ to ar varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/38\/1-4.1792513492577.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un viņš izgatavoja"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tā ragus"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četriem"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "tā stūriem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā paša"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tie bija"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tā ragi"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "un viņš apsedza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (altāri)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:52.578224897Z",
+  "model": "glm-5.3"
+}

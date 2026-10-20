@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נהרות",
+      "rationale": "'upēs' — lielas upes (Nīla, Eifrāts), ne parasti strauti"
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Vietniekvārds 'tie' (upes) pievienots latviešu teikuma skaidrībai"
+    }
+  ],
+  "translation": "Kad tu iesi caur ūdeņiem, ⟨את⟩ tev es; un upēs tie tevi nenoslīcinās; kad tu iesi caur uguni, tu nesadegsi, un liesma tevī neaizdegasies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/1-4.1792522702668.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "tu iesi caur"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ūdeņos"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi",
+      "marks": "pie tevis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "un upēs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "tie tevi nenoslīcinās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu iesi"
+    },
+    {
+      "surface": "במו",
+      "gloss": "caur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "tu nesadegsi"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "un liesma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "neaizdegasies"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tevī"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:22.669511374Z",
+  "model": "glm-5.3"
+}

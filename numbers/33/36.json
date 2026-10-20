@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 33:36",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ceļojumu posmu saraksts",
+      "rationale": "Maršruta saraksta noslēdzošā posmi pirms Hora kalna."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju קדש bez darbības vārda; latviešu valodai vajag saiti 'ir'."
+    }
+  ],
+  "translation": "Un viņi devās ceļā no Ecjon-Geberas un nometojās Cina tuksnesī — tā ⟨ir⟩ Kadeša.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b35674cb05e55d0734df8d1d5a4d753dbfebfe343d654e9ce3560d5a8c335e1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/33\/33-36.1792516430549.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Un viņi devās ceļā"
+    },
+    {
+      "surface": "מעציון",
+      "gloss": "no Ecjon-Geberas"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Ecjon-Geberas"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "un nometojās"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Cina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeša"
+    }
+  ],
+  "timestamp": "2026-10-20T17:13:50.554413333Z",
+  "model": "glm-5.3"
+}

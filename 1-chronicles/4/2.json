@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajag saikli 'ir' teikuma 'šīs ir dzimtas' vidū."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ciltsraksts",
+      "rationale": "Pēcnācēju uzskaitījums ar dzimtu nosaukumu."
+    }
+  ],
+  "translation": "Un Reaja, Šobala dēls, dzemdināja ⟨את⟩ Jahatu, un Jahats dzemdināja ⟨את⟩ Ahumaju un ⟨את⟩ Lahadu; šīs ⟨ir⟩ Cocoras dzimtas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/1-4.1792531078148.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Un Reaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Šobala"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahatu"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahatu"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "un Jahats"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumaju"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Lahadu"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dzimtas"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Cocoras"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:58.150127531Z",
+  "model": "glm-5.3"
+}

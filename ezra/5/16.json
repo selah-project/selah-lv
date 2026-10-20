@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 5:16",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Copula supplied for the relative clause 'that is in Jerusalem'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "no tā laika līdz šim laikam",
+      "rationale": "The verse measures elapsed construction time from the founding to the present"
+    }
+  ],
+  "translation": "Tad tas Šešbacars atnāca un izlika pamatus Elaha namam, kas ⟨ir⟩ Jerušalaimā, un no tā laika līdz šim laikam tas tiek celts un nav pabeigts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/5\/13-16.1792530570352.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Šešbacars"
+    },
+    {
+      "surface": "דך",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אתא",
+      "gloss": "atnāca"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "izlika"
+    },
+    {
+      "surface": "אשיא",
+      "gloss": "pamatus"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "tā laika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "כען",
+      "gloss": "šim laikam"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "tiek celts"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pabeigts"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:30.354034722Z",
+  "model": "glm-5.3"
+}

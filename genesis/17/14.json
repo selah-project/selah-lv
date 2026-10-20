@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele platōniskā nozīmē"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונכרתה",
+      "rationale": "Sakne כרת 'griezt nost' — tas pats, ar ko apgraizīšana מול 'nogriež'; sods atbilst darījumam"
+    },
+    {
+      "kind": "you",
+      "subject": "Avrahamam un viņa pēcnācējiem",
+      "rationale": "Bauslis par derības pārkāpēju vērsts derības kopienā"
+    }
+  ],
+  "translation": "Un neapgraizīts vīrietis, kas nav apgraizījis ⟨את⟩ savas priekšādas miesu, — tā dvēsele tiks iznīcināta no savas tautas: ⟨את⟩ manu derību viņš ir lauvis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/17\/13-16.1792511803575.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "un neapgraizīts"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vīrietis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "apgraizījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas priekšādas miesu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "savas priekšādas"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "tiks iznīcināta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "no savas tautas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu derību"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "manu derību"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ir lauvis"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:43.576008286Z",
+  "model": "glm-5.3"
+}

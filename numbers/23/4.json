@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Darītāja vietniekvārds (Bileāms) latviešu valodai nepieciešams; ebreju tekstā izriet no konteksta."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואעל",
+      "rationale": "Burtiski 'un es uzcēlu\/augšupnesu' — upurēšanas izteiksme; latviski 'esmu upurējis'."
+    }
+  ],
+  "translation": "Un Elohim sastapa Bileāmu, un ⟨viņš⟩ sacīja Viņam: ⟨את⟩ septiņus altārus es esmu kārtojis un esmu upurējis vērsi un aūnu uz altāra ⟨uz katra altāra⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/1-4.1792516138396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Un sastapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileāmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "septiņus altārus"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septiņus"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altārus"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "es esmu kārtojis"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "un esmu upurējis"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "un aūnu"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "uz altāra"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:58.398481673Z",
+  "model": "glm-5.3"
+}

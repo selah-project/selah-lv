@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחסם",
+      "rationale": "Burtiski 'neaizmuzzelēsi\/neaizsiķēsi' — latviski 'neaizbāzīsi muti' ir dabīgākā forma tam pašam attēlam."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בדישו",
+      "rationale": "Burtiski 'kuļot viņu' — 'viņa kulšanas laikā' atspoguļo darbības vārdu, nevis vietu (kūts)."
+    }
+  ],
+  "translation": "Neaizbāzīsi muti vērsim viņa kulšanas laikā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/25\/1-4.1792517214040.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "aizbāzīsi muti"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vērsim"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "viņa kulšanas laikā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:26:54.042584120Z",
+  "model": "glm-5.3"
+}

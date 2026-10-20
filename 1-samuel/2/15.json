@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvu",
+      "rationale": "חי burtiski 'dzīvs'; par gaļu nozīmē 'jēlu' — forma saglabāta kā 'dzīvu'."
+    },
+    {
+      "kind": "you",
+      "subject": "priestera jauneklis",
+      "rationale": "Tieša uzruna vīram, kas kāva upuri: 'Dod... no tevis neņems'."
+    }
+  ],
+  "translation": "Pat pirms tie sadedzināja ⟨את⟩ taukus, priestera jauneklis nāca un sacīja vīram, kas kāva upuri: Dod miesu priesterim cepšanai, jo viņš no tevis neņems vārītu miesu, bet gan dzīvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/13-16.1792518765663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Pat"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "tie sadedzināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taukus"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priestera"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "kas kāva upuri"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Dod"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "cepšanai"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "priesterim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ņems"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "vārītu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:45.664259512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 26:36",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרך",
+      "rationale": "'maigums' burtiski — tulkots kā 'bailīgums\/ļengana baiļu sajūta' (KJV 'faintness'); burtiski 'mīkstums sirdī'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "קול עלה נדף",
+      "rationale": "var lasīt arī 'aizpūstas lapas troksnis' — קול ir skaņa nevis avots; teikums ir atsevišķs: 'un dzīs to lapu skaņa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "latviešu valodai vajadzīgs 'ir' teikumam 'un nav, kas dzītu'."
+    }
+  ],
+  "translation": "Un pār atlikušajiem no jums Es ielieku bailīgumu viņu sirdīs ienaidnieku zemēs, un ⟨את⟩ viņus dzīs aizpūstas lapas čala, un viņi bēgs, kā bēgot no zobena, un kritīs, un ⟨ir⟩ neviens, kas dzītu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/33-36.1792515299054.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "un pār atlikušajiem"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "un Es ielieku"
+    },
+    {
+      "surface": "מרך",
+      "gloss": "bailīgumu"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "viņu sirdīs"
+    },
+    {
+      "surface": "בארצת",
+      "gloss": "zemēs"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "viņu ienaidnieku"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "un dzīs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "viņus dzīs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "čala"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lapas"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "aizpūstas"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "un viņi bēgs"
+    },
+    {
+      "surface": "מנסת",
+      "gloss": "kā bēgot"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "no zobena"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "un kritīs"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "kas dzītu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:59.059742796Z",
+  "model": "glm-5.3"
+}

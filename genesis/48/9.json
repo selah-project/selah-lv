@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 48:9",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Otrais ויאמר runātājs (Jisraēls) ebreju tekstā nav nosaukts, latviski pievienots vietas vietniekvārds"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Maiguma partikula 'lūdzu' atspoguļota vienā vārdā, tās pieklājības nokrāsu grūti nodot"
+    }
+  ],
+  "translation": "Un Jozefs sacīja savam tēvam: Tie ir mani dēli, kurus Elohim man ir devis šeit. Un ⟨viņš⟩ sacīja: Ved viņus, lūdzu, pie manis, un es viņus svētīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cba49df6cdaa1dfefdf706c7d7e090141baac61ce9eb298fb8c2c5035891f712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/48\/9-12.1792512553906.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mani dēli"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie ir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ir devis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ved viņus"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "ואברכם",
+      "gloss": "un es viņus svētīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:09:13.907122696Z",
+  "model": "glm-5.3"
+}

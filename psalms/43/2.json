@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "ebreju valodā nav saikļa; latviešu valodā vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skumju tumsā",
+      "rationale": "קדר nozīmē 'būt pelēkdam\/tumšam' — sēru izteiksme caur krāsu"
+    }
+  ],
+  "translation": "Jo Tu esi Elohim, mans cietoksnis; kāpēc Tu mani atstūmi? Kāpēc skumju tumsā es staigāju ienaidnieka apspiedējā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/43\/1-4.1792527508042.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mans cietoksnis"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "Tu mani atstūmi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "skumju tumsā"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "es staigāju"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "apspiedējā"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:28.043380589Z",
+  "model": "glm-5.3"
+}

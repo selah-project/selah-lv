@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā teikumā nav subjekta; latviešu valodai vajadzīgs"
+    }
+  ],
+  "translation": "Un Amasa aizgāja sasaukt ⟨את⟩ Jūdu, bet viņš nokavēja pāri noteiktajam laikam, ko viņam bija noteicis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37c375390d490137a261c74d7a2bf97bf67799cf8be37d213a59617bfbef0b3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/20\/5-8.1792520165316.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "aizgāja"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "sasaukt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jūdu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdu"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "nokavēja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "noteiktajam laikam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "viņam bija noteicis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:05.318069653Z",
+  "model": "glm-5.3"
+}

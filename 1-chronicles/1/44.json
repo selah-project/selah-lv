@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Un",
+      "rationale": "Latvian narrative flow supplies initial conjunction, though Hebrew vav already present in verb form"
+    }
+  ],
+  "translation": "Un Bela nomira, un viņa vietā sāka valdīt Jobabs, Zeraha dēls, no Bocras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f8bc117251654fe37e7267fe37e8a13563b90e405d5489420e4f02955bd28d55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/1\/41-44.1792530896865.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nomira"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sāka valdīt"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobabs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraha"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "no Bocras"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:56.867368130Z",
+  "model": "glm-5.3"
+}

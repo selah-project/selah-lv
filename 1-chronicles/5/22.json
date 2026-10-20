@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 5:22",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikļa; כי מהאלהים המלחמה burtiski: 'jo no Elohim kauja'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tā",
+      "rationale": "Ebreju artikuls ה tiek attēlots ar latviešu norādes vietniekvārdu iekavās"
+    },
+    {
+      "kind": "crux",
+      "subject": "izsūtība",
+      "rationale": "הגלה: 'izsūtība\/trimda' pret 'nošķīrums' (YLT 'removal') — kura trimda, tekstā nav teikts"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...כי",
+      "rationale": "Atkārtots 'jo...jo' rada cēloņa saiti, kas latviešu valodā saglabāta"
+    }
+  ],
+  "translation": "Jo daudzi nokautie krita, jo no Elohim ⟨bija⟩ ⟨tā⟩ kauja; un viņi dzīvoja to vietā līdz izsūtībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "add94503cc09c746db757cac98bd88ccf5ed14a3c5a0219726416868a187ba71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/5\/22-23.1792532953174.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "nokautie"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "krita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kauja"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "un viņi dzīvoja"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "to vietā"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "izsūtībai"
+    }
+  ],
+  "timestamp": "2026-10-20T21:49:13.174758377Z",
+  "model": "glm-5.3"
+}

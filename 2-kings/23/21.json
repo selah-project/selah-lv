@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "pavēle tautai",
+      "rationale": "Ķēniņa pavēle ar imperativu 'Sviniet pesahu' tieši vērsta uz visu tautu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesahs",
+      "rationale": "פסח netiek tulkots kā 'Lieldienas' — saglabāts ebreju vārds pesahs."
+    }
+  ],
+  "translation": "Un ķēniņš pavēlēja ⟨את⟩ visai tautai, sacīdams: Sviniet pesahu Jahvem, jūsu Elohim, kā rakstīts šajā derības grāmatā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dcc52fec3e30481b0c2731ddf6d4f0f55692e91947f5ae5056c1105481484ee9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/23\/21-24.1792521695793.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visai tautai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sviniet"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kā rakstīts"
+    },
+    {
+      "surface": "על",
+      "gloss": "šajā"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:41:35.794484346Z",
+  "model": "glm-5.3"
+}

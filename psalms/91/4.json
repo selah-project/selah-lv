@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav izteikta saikļa — 'vairogs un apkārtvairogs ⟨ir⟩ viņa patiesība'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צנה\/סחרה",
+      "rationale": "Divu vairogu veidu salikums — lielais ķīļvairogs un augstais apkārtvairogs; latviski abi sakļauti vienābildē, ritms daļēji zudis"
+    }
+  ],
+  "translation": "Ar savām spalvām viņš tevi apsegs, un zem viņa spārniem tu patversies; vairogs un apkārtvairogs ir viņa patiesība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/91\/1-4.1792528083327.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Ar savām spalvām"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "apsegs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tevi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "un zem"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "viņa spārniem"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "tu patversies"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "vairogs"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "un apkārtvairogs"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "viņa patiesība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:03.328522805Z",
+  "model": "glm-5.3"
+}

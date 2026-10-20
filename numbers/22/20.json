@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 22:20",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם (H854)",
+      "rationale": "Prievārds 'ar' + viņiem, ne DOM — atšķirams no את H853 pēc konteksta."
+    },
+    {
+      "kind": "you",
+      "subject": "Bileāms",
+      "rationale": "Elohim runā tieši pie Bileāma naktī — pavēles un ierobežojums 'tikai to vārdu tu izdarīsi'."
+    }
+  ],
+  "translation": "Un Elohim atnāca pie Bileāma naktī un sacīja viņam: ja vīri ir atnākuši tevi saukt, celies un ej ⟨את⟩ ar viņiem, tomēr tikai ⟨את⟩ vārdu, ko es runāšu tev, ⟨את⟩ to tu izdarīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/22\/17-20.1792516045794.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "un atnāca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileāma"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "tevi saukt"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "באו",
+      "gloss": "ir atnākuši"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "קום",
+      "gloss": "celies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ar viņiem"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "tomēr tikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "es runāšu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu izdarīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:07:25.796607508Z",
+  "model": "glm-5.3"
+}

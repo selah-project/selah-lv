@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nieres",
+      "rationale": "כליות irbju valodā ir iekšējās domas sēdeklis; latviešu 'nieres' saglabā burtisku formu."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Tiešā objekta marķieris pirms כליות atstāts kā ⟨את⟩."
+    }
+  ],
+  "translation": "Es, Jahve, izpētu sirdi, pārbaudu ⟨את⟩ nieres, lai dotu katram cilvēkam pēc viņa ceļiem, pēc viņa darbu augļiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5643c0f7ed2ba4da54c45967df842d8d082dce3aa166e735a0ec5641f2fbb04c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/17\/9-12.1792523557086.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "izpētu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "pārbaudu"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "nieres"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "lai dotu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "katram cilvēkam"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "pēc viņa ceļiem"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "pēc augļiem"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "viņa darbu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:12:37.086956982Z",
+  "model": "glm-5.3"
+}

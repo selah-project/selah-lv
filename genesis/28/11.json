@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 28:11",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kādā⟩",
+      "rationale": "Ebreju teksts saka vienkārši 'vietā' bez artikula; latviešu 'kādā' pievienots kā izteiksmes līdzeklis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Un nonāca",
+      "rationale": "ויפגע burtiski 'iecirtās\/uzskrēja' — 'iecirtās vietā' ar negaidījuma nokrāsu; izvēlēts neitrālais 'nonāca'"
+    }
+  ],
+  "translation": "Un viņš nonāca ⟨kādā⟩ vietā un palika tur nakšņot, jo bija norietējusi saule, un viņš ņēma no akmeņiem ⟨tās vietas⟩ un lika tos pie sava galvgala un gulēja tajā vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/28\/9-12.1792512163524.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפגע",
+      "gloss": "Un nonāca"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "un palika nakšņot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bija norietējusi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saule"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "un ņēma"
+    },
+    {
+      "surface": "מאבני",
+      "gloss": "no akmeņiem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tās vietas"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un lika"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "pie sava galvgala"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "un gulēja"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tajā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:43.525560970Z",
+  "model": "glm-5.3"
+}

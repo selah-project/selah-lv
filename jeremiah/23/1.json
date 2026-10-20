@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הוי",
+      "rationale": "'Vai' — sēru izsauciens, ne vienkārši izsauksme"
+    },
+    {
+      "kind": "you",
+      "subject": "gani",
+      "rationale": "Pants vēršas pie ganu — Israēla vadītāju — ar tiesas vārdiem"
+    }
+  ],
+  "translation": "Vai ganiem, kas iznīcina un izklīdina ⟨את⟩ avju ganāmpulku manā ganībā, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d2e90f6b9d8caa26d81b7ea4847707972dc7915f35fa0d89d5558ff0da9083d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/23\/1-4.1792523746194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ganiem"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "kas iznīcina"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "un izklīdina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avju ganāmpulku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avju ganāmpulku"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "manā ganībā"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:15:46.195326461Z",
+  "model": "glm-5.3"
+}

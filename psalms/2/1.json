@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יהגו",
+      "rationale": "הגה nozīmē gan 'murmināt', gan 'prātot' — 'murgo' saglabā pieskaņu 'tukšam', bet 'prāto' ir otrā lasījums."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kāpēc",
+      "rationale": "Pants sākas ar jautājumu, kas uzrunā lasītāju."
+    }
+  ],
+  "translation": "Kāpēc troksmina tautas, un ciltis murgo tukšu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/2\/1-4.1792527049057.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "troksmina"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "un ciltis"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "murgo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tukšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:49.059020272Z",
+  "model": "glm-5.3"
+}

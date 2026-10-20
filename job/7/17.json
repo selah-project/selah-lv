@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 7:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikles; jautājuma struktūra to prasa latviski"
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "Jobs vēršas tieši pie Jahves — retorisks jautājums Dievam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה אנוש",
+      "rationale": "Atbalss Ps 8:5 'mah enosh' — tas pats jautājums, bet šeit rūgtā ironijā"
+    }
+  ],
+  "translation": "Kas ⟨ir⟩ mirstīgais, ka tu viņu pārlieku lielini, un ka tu uz viņu vērš savu sirdi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bb4cbd637da7111dca8cc10548a5b466616822b235c37ec73482c177a1f2625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/17-20.1792529054925.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תגדלנו",
+      "gloss": "tu viņu pārlieku lielini"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "un ka"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "tu vērš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "savu sirdi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:14.926476071Z",
+  "model": "glm-5.3"
+}

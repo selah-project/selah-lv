@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 9:12",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩ · ⟨ir⟩",
+      "rationale": "Ebreju tekstā nav saikļu; latviešu valodai nepieciešami 'bija' un 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מושב — 'kas dzīvoja'",
+      "rationale": "Burtiski 'mītne\/sēdeklis' — apdzīvotāji kā vieta; latviski par cilvēkiem"
+    }
+  ],
+  "translation": "Un Mefibošetam ⟨bija⟩ mazs dēls, un viņa vārds ⟨ir⟩ Miha; un visi, kas dzīvoja Cīvas namā, ⟨ir⟩ kalpi Mefibošetam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "92e506908e76c7329a70c7b19ebbceca20b025681e4220f305d13049803c4805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/9\/9-12.1792519735411.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמפיבשת",
+      "gloss": "Un Mefibošetam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mazs"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "un viņa vārds"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Miha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "kas dzīvoja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Cīvas"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "למפיבשת",
+      "gloss": "Mefibošetam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:55.413097648Z",
+  "model": "glm-5.3"
+}

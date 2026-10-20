@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'būt'; latviešu valoda to prasa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusmība",
+      "rationale": "אפי burtiski 'mans deguns\/nāsis' — dusmu tēls, kas latviski zūd."
+    },
+    {
+      "kind": "alternative",
+      "subject": "no viņa",
+      "rationale": "Vienskaitlis 'viņa' pēc daudzskaitļa 'viņu' — tāpat KJV\/YSV; ebreju teksts pats maina skaitli."
+    }
+  ],
+  "translation": "Es dziedināšu viņu atkrišanu, brīvprātīgi mīlēšu tos, jo mana dusmība ⟨ir⟩ atgriezusies no viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/14\/5-8.1792526080667.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "Es dziedināšu"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "viņu atkrišanu"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "mīlēšu tos"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "brīvprātīgi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezusies"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mana dusmība"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:40.668257292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Darbības vārds ויתלו ir daudzskaitlī vīriešu kārtā bez skaidri norādīta veicēja; latviešu valodai vajadzīgs pievienotsVietniekvārds ⟨tie⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "gloss": "viņš",
+      "rationale": "Piedāvājums 'ko viņš bija sagatavojis' — 'viņš' (Hamans) pievienots skaidrībai, ebreju darbības vārdā tas ietverts"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dusmas norima",
+      "rationale": "שככה burtiski 'nogūlās \/ pierima' par dusmām — idioms par dusmu mieru"
+    }
+  ],
+  "translation": "Un ⟨tie⟩ pakāra ⟨את⟩ Hamanu uz koka, ko viņš bija sagatavojis Mordehajam, un ķēniņa dusmas norima.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/7\/9-10.1792530124146.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Un ⟨tie⟩ pakāra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamanu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "koka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bija sagatavojis"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehajam"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "un dusmas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "norima"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:04.147360734Z",
+  "model": "glm-5.3"
+}

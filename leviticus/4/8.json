@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החטאת",
+      "rationale": "hatāt — 'vainas upuris'; vārds nozīmē gan grēku, gan tā upuri, gan sodu."
+    },
+    {
+      "kind": "addition",
+      "subject": "upuris",
+      "rationale": "Latviešu valodai vajag vārdu 'upuris' līdzās 'vaina', lai teikums būtu saprotams."
+    }
+  ],
+  "translation": "Un ⟨את⟩ visu vērša vainas upura taukiem viņš nocels no tā: ⟨את⟩ taukus, kas klāj iekšas, un ⟨את⟩ visus taukus, kas ir uz iekšām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/4\/5-8.1792513680641.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu taukiem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taukiem"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vērša"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "vainas upura"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "nocels"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taukus, kas klāj iekšas"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "kas klāj"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iekšām"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus taukus uz iekšām"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iekšām"
+    }
+  ],
+  "timestamp": "2026-10-20T16:28:00.642886112Z",
+  "model": "glm-5.3"
+}

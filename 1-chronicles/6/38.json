@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "'viņa dēls' — ebreju valodā tikai 'בנו' (viņa dēls)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "raduraksti",
+      "rationale": "Priesteru līnijas turpinājums līdz Cadokam un Ahimaacam."
+    }
+  ],
+  "translation": "Cadoks, viņa dēls, Ahimaacs, viņa dēls.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c0d13b87970fda21185c76eebd634d94e8e4fa8ac7d5ca6363136b9ff3593d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/37-40.1792531236491.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoks"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaacs"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:36.492328355Z",
+  "model": "glm-5.3"
+}

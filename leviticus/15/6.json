@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הזב",
+      "rationale": "Participijs no זוב 'plūst' — 'tam, kam ir izplūdums'; tulkotāji sauc to par 'plūsmas cilvēku' (zav)."
+    },
+    {
+      "kind": "elision",
+      "subject": " priekšmeta",
+      "rationale": "Latviešu teikumam vajadzēja pārfrāzējuma; ebreju כלי ir 'priekšmets, trauks, mēbele' — vispārīgs vārds."
+    }
+  ],
+  "translation": "Un kas sēž uz priekšmeta, uz kura sēdēja tam, kam ir izplūdums, — tas mazgās savas drēbes un nomazgāsies ūdenī un būs nešķīsts līdz vakaram.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d12bb0bead991d16f94bfec2e964cdff1a8c8a91b6144ba54327d186d39ef82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/15\/6-9.1792514836893.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "Un kas sēž"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "priekšmeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kura"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sēdēja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "tam, kam ir izplūdums"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mazgās"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savas drēbes"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "un nomazgāsies"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ūdenī"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "un būs nešכīsts"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaram"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:16.895989080Z",
+  "model": "glm-5.3"
+}

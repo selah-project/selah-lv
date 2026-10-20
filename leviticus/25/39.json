@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kļūst nabags",
+      "rationale": "ימוך burtiski 'kļūst tievs' — nabadzība kā izdilums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדת עבד",
+      "rationale": "viens vārds divreiz: 'verga verga-darbs' — atkārtojums latviski mīkstināts"
+    }
+  ],
+  "translation": "Un, ja tavs brālis kļūst nabags pie tevis un tiek pārdots tev, tu neliksi viņu strādāt verga darbu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/37-40.1792515206573.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "un, ja"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "kļūst nabags"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavs brālis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "un tiek pārdots"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neliksi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "strādāt (liksi strādāt)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "verga"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:26.577504803Z",
+  "model": "glm-5.3"
+}

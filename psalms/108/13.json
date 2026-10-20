@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצר",
+      "rationale": "'cietums\/šaurs (apgabals)' — 'posta' vs 'ienaidnieka' (LXX 'no ienaidnieka') vs 'no ciešanām'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הבה",
+      "rationale": "'Dod!' — ebreju imperatīva parts, kas izsaka mudinājumu."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Lūgums vērsts pie Jahves pirmajā personā — 'mums'."
+    }
+  ],
+  "translation": "Dod mums palīdzību pret postu, jo veltīgs ir cilvēka glābiens.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/108\/13-14.1792528203864.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Dod"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "palīdzību"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "pret postu"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "jo veltīgs"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "glābiens"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:03.864948678Z",
+  "model": "glm-5.3"
+}

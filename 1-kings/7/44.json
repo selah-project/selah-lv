@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jūru",
+      "rationale": "הַיָּם ir 'jūra' — lielā izlietne nosaukta jūra; vārda forma saglabāta, netulkota par 'izlietni'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "divpadsmit",
+      "rationale": "Skaitlis kā ebreju tekstā: divpadsmit vērši"
+    }
+  ],
+  "translation": "Un ⟨את⟩ vienu jūru, un ⟨את⟩ vēršus divpadsmit zem jūras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/7\/41-44.1792520459190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "vienu jūru"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "vēršus"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "vēršus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "div-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    }
+  ],
+  "timestamp": "2026-10-20T18:20:59.191223937Z",
+  "model": "glm-5.3"
+}

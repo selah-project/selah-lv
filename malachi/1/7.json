@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 1:7",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maizi",
+      "rationale": "לחם šeit var nozīmēt upurmaizi vai vispār upuri — 'maize' pret 'upuris'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגאל \/ גאלנוך",
+      "rationale": "atbilde balstās uz tā paša darbības vārda atkārtojumu: apgānīto maizi pret apgānīto Jahvi"
+    }
+  ],
+  "translation": "Jūs piedāvājat uz mana altāra maizi, kas apgānīta, un jūs sakāt: ar ko mēs tevi esam apgānījuši? — ar to, ka sakāt: Jahves galds — tas ir nicināms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe8c92fbab1abc3dbc89175fe702c85e824f4554209e07f12b15320b3fd015ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/1\/6-7.1792532789458.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגישים",
+      "gloss": "jūs piedāvājat"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mana altāra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "kas apgānīta"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "un jūs sakāt"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ar ko"
+    },
+    {
+      "surface": "גאלנוך",
+      "gloss": "esam apgānījuši tevi"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "ar to, ka sakāt"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "galds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "nicināms"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:29.460247329Z",
+  "model": "glm-5.3"
+}

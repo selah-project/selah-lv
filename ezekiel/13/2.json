@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraēla praviešiem",
+      "rationale": " ADDRESS ā? no — tieša uzruna ar pavēli 'Klausieties' vērsta pie viltus praviešiem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נביאי\/הנבאים",
+      "rationale": "atbalss no vienas saknes — pravieto pravieši pravieto — atgriežas latviskajā 'pravieto pravieši', bet daļēji zudusi."
+    }
+  ],
+  "translation": "Cilvēka dēls, pravieto pret Jisraēla praviešiem, kas pravieto, un teic tiem, kas pravieto no savas sirds: Klausieties Jahves vārdu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc4bc92dc3c4c26b7c2c81c8fcd0343b449fb6c2be1e008d4b723b7f947d3cda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/13\/1-4.1792524920649.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "pravieto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "praviešiem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "kas pravieto"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "un teic"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "tiem, kas pravieto"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "no savas sirds"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Klausieties"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T19:35:20.650483198Z",
+  "model": "glm-5.3"
+}

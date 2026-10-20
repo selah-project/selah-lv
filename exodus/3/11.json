@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lai",
+      "rationale": "Latviešu subjunktīva palīgvārds 'lai' pievienots, lai atveidotu ebreju כ+irotāla nolūka jautājumu."
+    },
+    {
+      "kind": "you",
+      "subject": "pie Elohim",
+      "rationale": "Moše runā tieši ar Elohim — jautājums par savu niecību."
+    }
+  ],
+  "translation": "Un Moše sacīja Elohim: Kas es esmu, ka es lai ietu pie farao un ka es izvestu ⟨את⟩ Jisraēla dēlus no Micraimas?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/3\/9-12.1792512704790.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es esmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "es lai ietu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "un ka"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "es izvestu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:44.791051988Z",
+  "model": "glm-5.3"
+}

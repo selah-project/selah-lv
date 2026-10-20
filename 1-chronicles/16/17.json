@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mūžīgu",
+      "rationale": "עולם burtiski 'slēptais, izzūdošais punkts' — laiks ārpus atmiņas; 'mūžīgs' ir pieņemtais ekvivalents"
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "Ebreju valodā piederuma vietniekvārda priedēklis -הָ; latviski nepieciešams atsevišķs 'to'"
+    }
+  ],
+  "translation": "Un viņš to nostiprināja Jaakovam par likumu, Jisraēlam par mūžīgu derību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/17-20.1792531385689.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "un viņš to nostiprināja"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "par likumu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:05.690034626Z",
+  "model": "glm-5.3"
+}

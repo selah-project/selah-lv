@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 2:17",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "עד מאד",
+      "rationale": "Ebreju intensitātes savienojums 'tikpat cieti ļoti' saplūst vienā 'ļoti sīva'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינגף",
+      "rationale": "Burtiski 'tika sadurti\/nogāzti' — kaujas verbs no vērša dūriena; latviski 'tika sakauti'."
+    }
+  ],
+  "translation": "Un cīņa bija ļoti sīva tanī dienā, un Avneris un Jisraēla vīri tika sakauti priekšā Davida kalpiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/2\/17-20.1792519624896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "cīņa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sīva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(uzsvērumam)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "un tika sakauti"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneris"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpiem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:04.896883773Z",
+  "model": "glm-5.3"
+}

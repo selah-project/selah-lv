@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būtu⟩",
+      "rationale": "Ebreju teksts apodzi trūkst; latviski vajadzīgs verbs"
+    },
+    {
+      "kind": "crux",
+      "subject": "מספר",
+      "rationale": "Vai 'lai viņu vīri ir skaitā' (daudzi) vai 'lauz 'maz skaitā'? LXX un lielākā daļa tulkojumu lasa 'nebūtu maz'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgums par Rūbenu",
+      "rationale": "Svētības izteiksme — vēlējums cilts dzīvot"
+    }
+  ],
+  "translation": "Lai dzīvo Rūbens un nemirst, un lai viņa vīri ⟨būtu⟩ skaitā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/33\/5-8.1792517427777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Lai dzīvo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rūbens"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un lai ne"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "mirst"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un lai ir"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "viņa vīri"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaitā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:27.779789928Z",
+  "model": "glm-5.3"
+}

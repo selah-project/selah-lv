@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 28:35",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svētvieta",
+      "rationale": "הקדש burtiski 'svētais' — svētā telpa, ne 'svētnīca' kā ēka"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨no tās⟩",
+      "rationale": "ivrits saka tikai 'un iziešot'; latviešu valodai vajadzīgs paskaidrojums, no kurienes iziet"
+    }
+  ],
+  "translation": "Un tas būs uz Aharona kalpošanai, un tā skaņa tiks dzirdēta, kad viņš ieies svētvietā Jahves priekšā un kad izies ⟨no tās⟩, un viņš nemirs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fbaa46e73e4406a63c8eeeb6d4f9923f0bd149d7938ef6a549a7d5dc25fc7516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/28\/33-36.1792513249335.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un tas būs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kalpošanai"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "un tiks dzirdēta"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "tā skaņa"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "kad viņš ieies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ieies"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētvietā"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "un kad izies"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "viņš nemirs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:49.336324274Z",
+  "model": "glm-5.3"
+}

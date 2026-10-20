@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 6:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sārni",
+      "rationale": "סרני — pāļu valdnieku tituls, atstāts pēc skanējuma, nevis tulkots kā 'kungi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלכו הלך",
+      "rationale": "Darbības vārda atkārtojums 'gāja, ejot' uzsver nepārtraukto, taisno gājienu."
+    }
+  ],
+  "translation": "Un govis gāja taisni pa ceļu, uz ceļa uz Beit-Šemešu; pa vienu ceļa joslu tās gāja — ejot un maurodamas — un nenogriezās ne pa labi, ne pa kreisi; un filistiešu sārni gāja aiz tām līdz Beit-Šemešas robežai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f174bc3f3b0be042c2f56cccab0974255fb64a2fcc9344410ac8719b9c67f557",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/6\/9-12.1792518880906.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרנה",
+      "gloss": "Un govis gāja taisni"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "Un govis"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-Šemešu"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beit-Šemešu"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "pa ceļa joslu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tās gāja"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ejot"
+    },
+    {
+      "surface": "וגעו",
+      "gloss": "un maurodamas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nogriezās"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pa labi"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ne pa kreisi"
+    },
+    {
+      "surface": "וסרני",
+      "gloss": "un sārni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "aiz tām"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robežai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-Šemešas"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beit-Šemešas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:40.907629913Z",
+  "model": "glm-5.3"
+}

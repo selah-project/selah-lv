@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bez",
+      "rationale": "Ebreju מן burtiski 'no'; latviski 'palika bez', lai izskanētu zaudējums"
+    }
+  ],
+  "translation": "Un nomira arī viņi abi, Mahlons un Kiljons, un ⟨sievai⟩ sieva palika viena bez saviem diviem dēliem un bez sava vīra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96d818c4a90d7675d10449e787a930abd0f45a3d147bb49664c4a5b98527c478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/5-8.1792529728265.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "un nomira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "viņi abi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlons"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "un Kiljons"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "un palika"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sievai sieva"
+    },
+    {
+      "surface": "משני",
+      "gloss": "bez saviem diviem"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "un bez sava vīra"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:28.266555745Z",
+  "model": "glm-5.3"
+}

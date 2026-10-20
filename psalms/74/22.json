@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבך",
+      "rationale": "Darbības vārda un lietvārda atkārtojums no vienas saknes — 'aizstāv savu strīdu', zudis latviski.",
+      "kind_note": "also"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tieša uzruna Elohim kā adresāts."
+    }
+  ],
+  "translation": "Celies, Elohim, aizstāv ⟨את⟩ savu lietu; atceries ⟨את⟩ savu apsmieklu no neģēļa visu dienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/74\/21-23.1792527860748.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Celies"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "aizstāv"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "savu lietu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "atceries"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "savu apsmieklu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neģēļa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:20.749489376Z",
+  "model": "glm-5.3"
+}

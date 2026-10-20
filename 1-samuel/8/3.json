@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויטו ... ויטו",
+      "rationale": "Darbības vārds נטה ‘novērst\/noliekt’ atkārtojas divreiz — viņi nogriezās pēc peļņas un nolieca taisnību; latviski divi dažādi vārdi, atkārtojums zūd"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peļņa",
+      "rationale": "הבצע ir ‘laupījums\/netaisna ieguvuma gabals’, ne vienkārši nauda"
+    }
+  ],
+  "translation": "Un viņa dēli negāja viņa ceļos, bet nogāzās peļņas pēc, ņēma kukuli un sagroza tiesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/8\/1-4.1792518841698.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēli"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "viņa ceļos"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "nogāzās"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "peļņas"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ņēma"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kukuli"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "sagroza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:01.699699144Z",
+  "model": "glm-5.3"
+}

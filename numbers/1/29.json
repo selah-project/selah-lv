@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 1:29",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst saikļa; latviešu valoda pieprasa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaitlis",
+      "rationale": "Cilts karaspēka ieskaites tīrs skaitlis: 54 400"
+    }
+  ],
+  "translation": "Viņu ieskaitītie cilvēki ceturtajai ciltij, Jisacharam: četri un piecdesmit tūkstoši un četras simts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dcd183f9aadd9828ff5268ea4ca299cc0beda65074aa3b1e62aec81f53e4b3ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/29-32.1792515291564.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "viņu ieskaitītie"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ciltij"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisachars"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četri"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "un piecdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "un četras"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simts"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:51.564709513Z",
+  "model": "glm-5.3"
+}

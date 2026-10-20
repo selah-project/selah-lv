@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mēle staigā pa zemi",
+      "rationale": "Ivrita mēteles 'staigāšana' pār zemi — lepnā, visur sniedzošā runa; latviski paturēts tēls burtiski."
+    },
+    {
+      "kind": "crux",
+      "subject": "vērš mutu debesīs",
+      "rationale": "בשמים bez prievārda: 'liek mutu debesīs' (YLt\/ASV) pret 'pret debesīm' (KJV\/JPS) — uzbrukums vai ieņemšana."
+    }
+  ],
+  "translation": "Viņi vērš ⟨את⟩ savu mutu debesīs, un viņu mēle staigā pa zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/9-12.1792527823297.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "vērš"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "un viņu mēle"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:43.297819609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 4:1",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag ⟨esi⟩ divreiz."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנך יפה",
+      "rationale": "Atkārtots izsaukums „lūk, tu skaista” — refrens, kas balsta pantu."
+    },
+    {
+      "kind": "crux",
+      "subject": "גלשו",
+      "rationale": "„nolaižas\/plūst lejup” pret „parādās” — kazu bars, kas kāpj no kalna."
+    }
+  ],
+  "translation": "Lūk, tu ⟨esi⟩ skaista, mana mīļā, lūk, tu ⟨esi⟩ skaista; tavas acis — baloži — aiz tava plīvura, tavi mati kā kazu bars, kas nolaižas no Giladas kalna.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/4\/1-4.1792529670459.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skaista"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mana mīļā"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skaista"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavas acis"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "baloži"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "tava plīvura"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "tavi mati"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kā bars"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazu"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "nolaižas"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kalna"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:30.460401907Z",
+  "model": "glm-5.3"
+}

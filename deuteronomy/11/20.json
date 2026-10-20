@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tās⟩",
+      "rationale": "Ebrejā priekšmeta izteiksmes vietā latviešu valodai vajadzīgs vietas vietniekvārds uz 'vārdiem'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזוזות",
+      "rationale": "מזוזה durvju stabs — no šejienes vēlākā mezuza prakse"
+    }
+  ],
+  "translation": "Un tu uzrakstīsi ⟨tās⟩ uz sava nama durvju stabiem un uz saviem vārtiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/11\/17-20.1792516824510.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "un tu uzrakstīsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "durvju stabiem"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sava nama"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "un uz saviem vārtiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:24.514048497Z",
+  "model": "glm-5.3"
+}

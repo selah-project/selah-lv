@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rietumu pusē",
+      "rationale": "יָמָה burtiski 'jūras virzienā' (uz rietumiem); latviski 'rietumu pusē'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešus dēļus",
+      "rationale": "Miškana izmēru uzskaitījums turpinās: seši dēļi."
+    }
+  ],
+  "translation": "Un miškana aizmugurei, rietumu pusē, tu izdarīsi sešus dēļus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9adc01df8a0dc59b933c85a15f4d4d634222922ff17ba516ddd47f98782d39ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/26\/21-24.1792513159400.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "Un aizmugurei"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškana"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "rietumu pusē"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu izdarīsi"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sešus"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dēļus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:19:19.400833025Z",
+  "model": "glm-5.3"
+}

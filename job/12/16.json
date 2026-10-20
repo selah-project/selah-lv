@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 12:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שגג ומשגה",
+      "rationale": "KJV tulko 'pieviltais un pievīlis' (divas personas); bet forma שׁוֹגֵג ir darāmparteiciņa — 'tas, kas kļūdās', un מַשְׁגֶּה 'tas, kas maldina'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā saiklis nav; piederējums izteikts ar עמו un לו."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שגג\/משגה",
+      "rationale": "Vienas saknes atbalss — 'kļūdīties' un 'maldināt'; latviešu valodā saknes radniecība daļēji saglabāta."
+    }
+  ],
+  "translation": "Pie ⟨tā⟩ ⟨ir⟩ spēks un īstā gudrība; viņam pieder ⟨tāds⟩ pārpratums un tas, kas maldina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/13-16.1792529114386.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "pie ⟨tā⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "un īstā gudrība"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "pārpratums"
+    },
+    {
+      "surface": "ומשגה",
+      "gloss": "un tas, kas maldina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:14.387576633Z",
+  "model": "glm-5.3"
+}

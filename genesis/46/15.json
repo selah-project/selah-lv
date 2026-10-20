@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir 'elpa\/dzīvība', skaitļa kontekstā — 'personas', ne nemateriāla dvēsele."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit un trīs",
+      "rationale": "Leas pēcnācēju skaitīšana ceļojumam uz Micraimu."
+    }
+  ],
+  "translation": "Šie ir Leas dēli, kurus viņa dzemdēja Jaakovam Paddan-Aramā, un ⟨את⟩ Dina, viņa meita; visas dvēseles — viņa dēli un viņa meitas — trīsdesmit un trīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e719ea2bc3fb79024f1786a5a428969db43da06f7dd3aab4e296bf1cc46191b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/46\/13-16.1792512539951.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "viņa dzemdēja"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "Paddan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dinu"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "viņa meita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa dēli"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "un viņa meitas"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "un trīs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:59.954275537Z",
+  "model": "glm-5.3"
+}

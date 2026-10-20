@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apļojiet",
+      "rationale": "נקף nozīmē 'iet apkārt'; 'neapļojiet malu' — negriezt matus apaļi ap galvas malu"
+    }
+  ],
+  "translation": "Neapļojiet savas galvas malu un nesabojājiet ⟨את⟩ savas bārdas malu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b923a6a0e85dd7c13ae1791b61f01c69c87a5c81c749167ea9cc06eed57c9deb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/25-28.1792515054928.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "apļojiet"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "malu"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "jūsu galvas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "nesabojājiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bārdas malu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "malu"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "tavu bārdu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:50:54.931673985Z",
+  "model": "glm-5.3"
+}

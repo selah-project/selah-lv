@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izsmēļ",
+      "rationale": "דלה nozīmē 'laiž leipu, smeļ ūdeni' — attēls par ūdens smelšanu no dziļuma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים ... ידלנה",
+      "rationale": "dziļo ūdeņu un smelšanas attēls ietver visu pantu; latviešu 'izsmēļ' to saglabā daļēji"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir kā",
+      "rationale": "ebreju valodā nav salīdzinājuma saitiņa; teikuma ekvivalentei pievienots"
+    }
+  ],
+  "translation": "Padoms cilvēka sirdī ir kā dziļi ūdeņi, bet saprātīgs cilvēks to izsmēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/20\/5-8.1792528772256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "dziļi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "padoms"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "bet cilvēks"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "saprātīgs"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "to izsmēļ"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:32.257195088Z",
+  "model": "glm-5.3"
+}

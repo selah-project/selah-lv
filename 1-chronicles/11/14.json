@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויושע יהוה תשועה גדולה",
+      "rationale": "'Jahve darīja lielu izglābšanu' — daudzi tulki 'izglāba ar lielu uzvaru'; ebreju teikumam nav priekšnieka, burtiski 'un darīja izglābšanu Jahve — lielu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויושע \/ תשועה",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes ישע — atskaņa, kas latviski daļēji saglabāta (izglāba\/izglābšanu)."
+    }
+  ],
+  "translation": "un viņi nostājās lauka daļas vidū un to izglāba, un sita ⟨את⟩ filistiešus, un Jahve darīja lielu izglābšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/13-16.1792531301694.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "un viņi nostājās"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "lauka daļas"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "un to izglāba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "un sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistiešus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešus"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "un darīja izglābšanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "izglābšanu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lielu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:41.700083365Z",
+  "model": "glm-5.3"
+}

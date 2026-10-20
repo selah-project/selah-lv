@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל בעמיו",
+      "rationale": "Slavens strīdapunkts: 'vīrs\/virs savā tautā' (KJV) pret 'sievastēvs precēts radinieks' (BSB, no Baal = sievasradinieks) pret 'vadonis savā tautā' (Geneva)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lauzt",
+      "rationale": "חלל — 'izurbt\/profanēt'; svētuma laušana, ne vienkārši aptraipīšana"
+    }
+  ],
+  "translation": "Kā vīrs savā tautā viņš nekļūs nešķīsts, lai sevi nelauztu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/21\/1-4.1792515065826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kļūs nešķīsts"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kā vīrs"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "savā tautā"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "lai sevi nelauztu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:05.830475345Z",
+  "model": "glm-5.3"
+}

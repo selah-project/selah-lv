@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klēpis",
+      "rationale": "בטן ir 'vēders \/ miesa'; tēlaini — pēcnācēji."
+    },
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "Burtiski 'pieaugums \/ auglība'; iespējama atbalss Kanaānas dievietei Aštartei."
+    }
+  ],
+  "translation": "Lāsts ⟨būs⟩ tava klēpja auglis un tavas zemes auglis, tavu liellopu pieaugums un tavu aitu un kazu pēcnācēji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/28\/17-20.1792517328523.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lāsts"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "auglis"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tava klēpja"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "un ... auglis"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tavas zemes"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "pieaugums"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "tavu liellopu"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "un pēcnācēji"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "tavu aitu un kazu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:28:48.524609362Z",
+  "model": "glm-5.3"
+}

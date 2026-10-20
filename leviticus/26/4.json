@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "Pievienots saistītājs vārds, lai latviski savienotu nosacījuma teikumu ar seku daļu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתן atkārtojums",
+      "rationale": "Verbs 'dot' atkārtojas trīs reizes — Jahve dod lietu, zeme dod ražu, koki dod augli — trīskārša došanas kustība"
+    }
+  ],
+  "translation": "tad Es došu jūsu lietus savā laikā, un zeme dos savu ražu, un lauka koki dos savu augli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/1-4.1792515228511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "tad Es došu"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "jūsu lietus"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "savā laikā"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "savu ražu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "un lauka koki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "savu augli"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:48.514749087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בה",
+      "rationale": "Hebreju prievārds 'pa to' latviešu teikumā saplūst ar 'pa kuru' un netiek atkārtots"
+    }
+  ],
+  "translation": "Un viņš gāja pa citu ceļu, un negriezās atpakaļ pa ceļu, pa kuru viņš bija nācis uz Beit-Elu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/13\/9-12.1792520729418.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Un gāja"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "citu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "griezās atpakaļ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pa kuru"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bija nācis"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pa to"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:29.419038880Z",
+  "model": "glm-5.3"
+}

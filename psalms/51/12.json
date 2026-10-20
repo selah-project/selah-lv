@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכון",
+      "rationale": "'stipru, uzticamu, nelokāmu' — KJV 'right', JPS 'stedfast'; latviski izvēlēts 'nepārtrauktu' kā līdzsvars 'atjauno'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח saglabāts kā ruah pēc D2 — vējš\/elpa\/gars vienā vārdā; latvisks vienvārda ekvivalents nav."
+    }
+  ],
+  "translation": "Tīru sirdi radī man, Elohim, un nepārtrauktu ruah atjauno manī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/9-12.1792527610404.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tīru"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "radī"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "un ruah"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nepārtrauktu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "atjauno"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "manī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:10.405441963Z",
+  "model": "glm-5.3"
+}

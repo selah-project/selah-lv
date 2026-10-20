@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst kopulas 'בחר' priekšā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "trieciens",
+      "rationale": "נגע nozīmē 'trieciens, sitiens, plaga'; KJV 'stroke' — attēls saglabāts vārdā 'trieciens'."
+    },
+    {
+      "kind": "you",
+      "subject": "runātājs Israēlam",
+      "rationale": "Pants vērsts pie Israēla, aprakstot priesteru pienākumus."
+    }
+  ],
+  "translation": "Un priesteri, Levī dēli, tuvosies, jo viņos ir izvēlējies Jahve, tavs Elohim, lai tie Viņam kalpotu un svētītu Jahves vārdā, un pēc viņu mutēm būs katrs strīds un katrs trieciens.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/5-8.1792517043795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "tuvosies"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "viņos"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ir izvēlējies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "lai kalpotu Viņam"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "un svētītu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vārdā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "viņu mutēm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "strīds"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un katrs"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "trieciens"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:03.796572274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩ ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir' skaidrībai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nāk garām",
+      "rationale": "עבר עלינו burtiski 'pāriet pār mums' — parasta frāze par ceļotāju, kas regulāri iegriežas"
+    }
+  ],
+  "translation": "Un viņa sacīja savam vīram: Redzi, lūdzu, es zinu, ka ⟨tas⟩ ir svēts Elohim vīrs, kas nāk garām pie mums pastāvīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/4\/9-12.1792521171704.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savam"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svēts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨tas⟩ ir"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nāk garām"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pie mums"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:32:51.704955567Z",
+  "model": "glm-5.3"
+}

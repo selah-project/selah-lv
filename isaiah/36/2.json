@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 36:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ar lielu karaspēku",
+      "rationale": "חיל כבד burtiski 'smags karaspēks'; latviski 'liels' zaudē 'smaguma' gleznu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רבשקה",
+      "rationale": "Rabšake ir amata nosaukums, raksturots kā augsts Ašūras armijas virsnieks, nevis personvārds."
+    }
+  ],
+  "translation": "Un Ašūras ķēniņš sūtīja Rabšaki no Lakišas uz Jerušalaimu pie ķēniņa Hizkijahu ar lielu karaspēku; un viņš nostājās pie augšējā baseina ūdensvada, mazgātāja lauka ceļā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/36\/1-4.1792522579351.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un sūtīja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabšaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabšake"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Rabšake"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "no Lakišas"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "uz Jerušalaimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ar karaspēku"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "un nostājās"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "pie ūdensvada"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "baseina"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "augšējā"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "mazgātāja"
+    }
+  ],
+  "timestamp": "2026-10-20T18:56:19.352482649Z",
+  "model": "glm-5.3"
+}

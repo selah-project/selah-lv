@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Zibens apgalvojuma formula 'Kā dzīvs ir Jahve' — zvērests pie Dieva dzīvības"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'ja ne \/ vienīgi' — Bībeles tulki dalās: 'Jahve viņu sitīs' (KJV) pret 'ja vien Jahve viņu nesit' (YLT, JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונספה",
+      "rationale": "Literāri 'un tiks noskūts kopā' — attēls no pļaušanas, latviski 'aizslaucīts'"
+    }
+  ],
+  "translation": "Un Davids sacīja: Kā dzīvs ir Jahve — ja ne Jahve viņu triec, tad viņa diena nāks un viņš mirs, vai karā viņš nokāps un tiks aizslaucīts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/26\/9-12.1792519502782.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "vien viņu triec"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "viņa diena"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "un viņš mirs"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "karā"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "viņš nokāps"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "un tiks aizslaucīts"
+    }
+  ],
+  "timestamp": "2026-10-20T18:05:02.784075942Z",
+  "model": "glm-5.3"
+}

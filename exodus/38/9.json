@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩-līdzīgs piederējums aizkaru aprakstā"
+    },
+    {
+      "kind": "measurement",
+      "subject": "simts elkoņu",
+      "rationale": "Sētas malas mērs — skaitļu uzskaitījums Tabora celtniecības kontekstā"
+    }
+  ],
+  "translation": "Un viņš izdarīja ⟨את⟩ sētu dienvidu pusē, uz dienvidiem; sētas aizkari no balta viepleta pavediena, simts elkoņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/38\/9-12.1792513466396.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un viņš izdarīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sētu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sētu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pie malas"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "dienvidu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "uz dienvidiem"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "aizkari"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sētas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "balta linauduma"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "vieglets"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "simts"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "elkoņu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:26.397496314Z",
+  "model": "glm-5.3"
+}

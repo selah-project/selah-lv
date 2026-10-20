@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ביסדיהארץ konstrukts 'dibinādams zemi'",
+      "rationale": "būvniecības aina: pamatu likšana; latviski sadalīts divos vārdos"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums Ījabam",
+      "rationale": "Jahve aicina Ījabu atbildēt par radīšanas brīdi, ko neviens cilvēks nav redzējis"
+    },
+    {
+      "kind": "mystery",
+      "subject": "pirms-radības laiks",
+      "rationale": "jautājums norāda uz to, kas ir apzināti slēpts cilvēka zināšanai"
+    }
+  ],
+  "translation": "Kur tu biji, kad es dibināju ⟨את⟩ zemi? Paziņo, ja tu zini, ar sapratni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/1-4.1792529541256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu biji"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "kad es dibināju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "paziņo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zini"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ar sapratni"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:21.257554716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Palīgdarbības vārds teikuma otrajā pusē, kuru ebreju valoda iztrūkst"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומאספכם",
+      "rationale": "Burtiski 'jūsu savācējs\/aiz mugaras savācējs' — daudzi tulko 'pakaļsargs'; saglabāta vārda forma 'sapulcinātājs'"
+    }
+  ],
+  "translation": "Jo ne steidzīgi jūs izejat un ne bēgot jūs ejat, jo jūsu priekšā soļo Jahve, un jūsu sapulcinātājs ⟨ir⟩ Jisraēla Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/52\/9-12.1792522898022.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "steidzīgi"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "jūs izejat"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "un bēgot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "jūs ejat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "soļo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "un jūsu sapulcinātājs"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:38.023735789Z",
+  "model": "glm-5.3"
+}

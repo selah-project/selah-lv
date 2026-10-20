@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 6:7",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יגלו\/גלים",
+      "rationale": "Viena sakne גלה: 'aiziet gūstā' un 'gūstekņi' — atbalss zūd latviski."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וסר\/סרוחים",
+      "rationale": "סר 'novēršas' un סרוחים 'izstiepušies pāri mēram' — skaņu atbilstība."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרזח",
+      "rationale": "מִרְזַח 'izlutinātas dzīres\/maurs kūts' Tanahā tikai šeit (un Jer 16:5 pienākumu versija)."
+    }
+  ],
+  "translation": "Tāpēc tagad viņi dosies gūstā gūstekņu priekšgalā, un izstiepto dzīres tiks aizvāktas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3381093c1ceaf548d44767e213dae3210f3ec1af903b4402b0fec0ca647d6269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/6\/5-8.1792526314579.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "יגלו",
+      "gloss": "viņi dosies gūstā"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "priekšgalā"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "gūstekņu"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "un tiks aizvākts"
+    },
+    {
+      "surface": "מרזח",
+      "gloss": "dzīres"
+    },
+    {
+      "surface": "סרוחים",
+      "gloss": "izstiepto"
+    }
+  ],
+  "timestamp": "2026-10-20T19:58:34.581750579Z",
+  "model": "glm-5.3"
+}

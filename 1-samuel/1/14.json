@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Eli uzrunā Hanu",
+      "rationale": "tieša uzruna: jautājums un pavēle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכר\/תשתכרין",
+      "rationale": "saknes atkārtojums: 'piedzērušu' (13. p.) un 'piedzersies' — viena sakne šכר cauri ainai"
+    }
+  ],
+  "translation": "Un Eli sacīja viņai: Cik ilgi tu piedzersies? Novāc ⟨את⟩ savu vīnu no sevis!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/1\/13-16.1792518733323.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Cik ilgi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "tu piedzersies"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Novāc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu vīnu"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "savu vīnu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "no sevis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:13.324588466Z",
+  "model": "glm-5.3"
+}

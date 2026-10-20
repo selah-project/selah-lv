@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ieradās",
+      "rationale": "ebreju valodā teikumā 'tad karoja vārtos' nav darbības vārda 'nākt' — pievienots latviešu teikuma konstrukcijai"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבחר אלהים",
+      "rationale": "subjekts nenošķirts: 'viņi izvēlējās jaunus dievus' (par cilvēkiem) pret 'viņš izvēlējās' — subjekta nav tekstā"
+    },
+    {
+      "kind": "measurement",
+      "subject": "četrdesmit tūkstoši",
+      "rationale": "skaitliska norāde uz ieroču trūkumu Jisraēlā"
+    }
+  ],
+  "translation": "Izvēlējās jaunus dievus — tad karš ⟨ieradās⟩ vārtos; vai vairogš vai šķēps bija redzams starp četrdesmit tūkstošiem Jisraēlā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/5\/5-8.1792518249054.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "izvēlējās"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jaunus"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "karš"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "vairogs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bija redzams"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "un šķēps"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "četrdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstošiem"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:44:09.055220246Z",
+  "model": "glm-5.3"
+}

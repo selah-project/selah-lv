@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizhors",
+      "rationale": "מזמור apzīmē instrumentālai mūzikai pielāgotu dzejoli; saglabāts pēc skaņas, jo latviešu 'psalms' ir vēlāks aizguvums"
+    },
+    {
+      "kind": "measurement",
+      "subject": "virsraksts",
+      "rationale": "Dziesmas atribūcija — Koraha dēliem, temple svētkoru dziedātāju dzimtai"
+    }
+  ],
+  "translation": "Dziesma, mizhors, Koraha dēliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/48\/1-4.1792527616998.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dziesma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizhors"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:16.998635888Z",
+  "model": "glm-5.3"
+}

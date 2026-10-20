@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 43:23",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minhu",
+      "rationale": "מנחה atstāts pēc skanējuma — upurdāvana, labības upuris; viens vārds, nevis 'upuris' viens"
+    },
+    {
+      "kind": "substitution",
+      "subject": "libāns",
+      "rationale": "לבונה — smaržīgā kvēpe; ebreju vārds saglabāts tā formā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... לא ... לא ולא",
+      "rationale": "četri noliegumi rindā — retoriskā kārtība, kas apvieno tautas vainu un Jahve attaisnojumu"
+    }
+  ],
+  "translation": "Tu neatnesi man jēru savu dedzināmo upuru un ar saviem kausējamajiem upuriem tu mani negodāji; tu neesi man likusi kalpot ar minhu, un neesmu tevi nogurdinājis ar libāna kvēpiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/21-24.1792522700112.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הביאת",
+      "gloss": "tu atnesi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "savu dedzināmo upuru"
+    },
+    {
+      "surface": "וזבחיך",
+      "gloss": "un savus kausējamos upurus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כבדתני",
+      "gloss": "tu mani godāji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "העבדתיך",
+      "gloss": "es liku tev kalpot"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ar minhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "הוגעתיך",
+      "gloss": "es tevi nogurdināju"
+    },
+    {
+      "surface": "בלבונה",
+      "gloss": "ar libānu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:20.113941052Z",
+  "model": "glm-5.3"
+}

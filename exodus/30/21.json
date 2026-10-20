@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pēcnieki",
+      "rationale": "זרע ir 'sēkla' — pēcnācēju tēls; latviski 'sēkla' cilvēkiem neskan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "likums mūžībā",
+      "rationale": "priesterīgas mazgāšanās ordinācija visām paaudzēm"
+    }
+  ],
+  "translation": "Un viņi nomazgās savas rokas un savas kājas, un viņi nemirs; un tas viņiem būs likums mūžībā — viņam un viņa pēcniekiem viņu paaudzēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca7f449bb67ba31d4cd792cbf18ae969f174cf477e6c2dfd67966d4d55174123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/30\/21-24.1792513236930.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "un viņi nomazgās"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "savas rokas"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "un savas kājas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "viņi nemirs"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un tas būs"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "חק",
+      "gloss": "likums"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībā"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "un viņa pēcniekiem"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "viņu paaudzēs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:20:36.931456639Z",
+  "model": "glm-5.3"
+}

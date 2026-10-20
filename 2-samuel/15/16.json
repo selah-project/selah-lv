@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "Burtiski 'viņa kājās' — viss nams kājās aiz viņa, kājām ejot."
+    },
+    {
+      "kind": "measurement",
+      "subject": "desmit",
+      "rationale": "Skaitlis עשר norādīts precīzi — desmit blakussievas."
+    }
+  ],
+  "translation": "Un ķēniņš izgāja un viss viņa nams viņa kājās; un ķēniņš atstāja ⟨את⟩ desmit sievas, blakussievas, lai sargātu namu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/13-16.1792519955202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Un izgāja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "viņa nams"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "viņa kājās"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "un atstāja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desmit sievas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "blakussievas"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "lai sargātu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:35.203155439Z",
+  "model": "glm-5.3"
+}

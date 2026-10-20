@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tam \/ tas",
+      "rationale": "Ebrejs teikumu bez darbības vārda galvenajā daļā; latviski jāpievieno norāde uz personu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "klejo",
+      "rationale": "מתעה nozimē 'noklīst no ceļa' — pretstatā 'ceļam uz dzīvību'."
+    }
+  ],
+  "translation": "Ceļš uz dzīvību — tam, kas sargā pamācību; bet kas atstāj pārmetumu, tas klejo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/10\/17-20.1792528640696.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "uz dzīvību"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pamācību"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "bet kas atstāj"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pārmetumu"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "klejo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:20.697194562Z",
+  "model": "glm-5.3"
+}

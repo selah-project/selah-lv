@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda te neteiktu kopulu; latviešu teikumam tā vajadzīga"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרוע",
+      "rationale": "'Matiem atlaiztiem\/vaļīgiem' (JPS, ASV) pret 'galva atsegta' (KJV); פרע nozīmē atlaist, atraisīt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמא טמא",
+      "rationale": "Atkārtots vārds 'nešķīsts, nešķīsts' — sauciena atkārtojums latviešu valodā saglabāts"
+    }
+  ],
+  "translation": "Un mēslainais, kurā ⟨ir⟩ bojājums: viņa drēbes būs saplēstas un viņa galva būs ar atlaiztiem matiem, un pār augšlūpu viņš apsegos, un sauks: Nešķīsts, nešķīsts!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/13\/45-48.1792513907601.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "Un mēslainais"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bojājums"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "viņa drēbes"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "būs"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "saplēstas"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "un viņa galva"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "ar atlaiztiem matiem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "augšlūpu"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "apsegos"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "un nešķīsts"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešķīsts"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "saucs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:31:47.602649499Z",
+  "model": "glm-5.3"
+}

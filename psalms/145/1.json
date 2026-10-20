@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Ivritā pietiek ar vienskaitļa pirmās personas darbības vārda formu; latviešu valodai vajag vietniekvārdu"
+    },
+    {
+      "kind": "you",
+      "subject": "Dievam",
+      "rationale": "Dāvida tieša uzruna Eloah kā ķēniņu"
+    }
+  ],
+  "translation": "Teiksmas — no Davida. Es tevi celsu augstu, mans Eloah, ⟨tu⟩ ķēniņš, un es svētīšu tavu vārdu mūžīgi un uz mūžiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/1-4.1792528498884.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Teiksmas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "no Davida"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "es tevi celsu augstu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mans Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "un es svētīšu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavu vārdu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un uz mūžiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:58.885241831Z",
+  "model": "glm-5.3"
+}

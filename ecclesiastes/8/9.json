@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Latviešu valodai vajadzīgs piederības apzīmējums pie 'sirdi', ebreju valodā tas nav"
+    },
+    {
+      "kind": "alternative",
+      "subject": "laiku",
+      "rationale": "עת var nozīmēt arī 'kādu laiku' — 'kādu laiku cilvēks valda pār cilvēku'"
+    }
+  ],
+  "translation": "⟨את⟩ visu šo esmu redzējis, un devis ⟨את⟩ savu sirdi visam darbam, kas darīts zem saules: laiku, kad cilvēks valdīja pār cilvēku, viņam par ļaunu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/8\/9-12.1792529997099.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu šo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "esmu redzējis"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "un devis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sirdi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darīts"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saules"
+    },
+    {
+      "surface": "עת",
+      "gloss": "laiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "valdīja"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pār cilvēku"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "par ļaunu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:57.100500029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 23:16",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Saiklis 'ir' pievienots; ebreju tekstā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויסך",
+      "rationale": "Burtiski 'izlēja kā dzēriena upuri' — izsaukums 'par Augstā upuru' atspoguļo libācijas darbību bez vārda 'upuris', ko ebreju teksts nesatur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלשת הגברים",
+      "rationale": "Atgriežas 'trīs varoņi' no v.13 — skaitļa atbalsis, kas latviski saglabājas."
+    }
+  ],
+  "translation": "Un trīs varoņi izšķēla ⟨את⟩ peļistiešu nometni un smēla ūdeni no Beit-Lehemas akas, kas ⟨ir⟩ pie vārtiem, un to pacēla un atnesa pie Davida; bet viņš negribēja to dzert un izlēja ⟨את⟩ to par Augstā upuru Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9e64c49c5f3f3e0d565f343396199ca6f2b624bdf681ca9cba4147e459c03a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/23\/13-16.1792520258808.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקעו",
+      "gloss": "izšķēla"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "varoņi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nometni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peļistiešu"
+    },
+    {
+      "surface": "וישאבו",
+      "gloss": "smēla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeni"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "no akas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pie vārtiem"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "pacēla"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "atnesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet negribēja"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "to dzert"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "izlēja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ūdeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:38.809195471Z",
+  "model": "glm-5.3"
+}

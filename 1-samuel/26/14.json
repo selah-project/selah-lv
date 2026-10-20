@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 26:14",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā teikumā 'מי אתה' nav kopsaites; latviski pievienots ⟨esi⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Avneram",
+      "rationale": "Davida tieša uzruna Avneram ar jautājumu 'Vai tu neatbildēsi?'."
+    }
+  ],
+  "translation": "Un Davids uzsauca tautai un Avneram, Nēra dēlam, sacīdams: Vai tu neatbildēsi, Avner? Un Avners atbildēja un sacīja: Kas tu ⟨esi⟩, kas sauc pie ķēniņa?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/26\/13-16.1792519535351.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "uzsauca"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nēra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tu atbildēsi"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:05:35.352783085Z",
+  "model": "glm-5.3"
+}

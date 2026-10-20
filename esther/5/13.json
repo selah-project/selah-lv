@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajag ⟨ir⟩ nevertīgs."
+    },
+    {
+      "kind": "idiom",
+      "subject": "איננו שוה לי",
+      "rationale": "Burtiski 'nav man līdzvērts\/vērts' — 'man neko nedod', idiomatisks noliegums ar שוה 'līdzināties, būt vērtam'."
+    }
+  ],
+  "translation": "Bet viss tas man neko nelīdzinās ⟨ir⟩ nevertīgs, visu laiku, kad es redzu ⟨את⟩ Mordehaju, jūdu, sēžam ķēniņa vārtos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eee27b4b9ad40fa9f2e199d73a8efdbb5b1407c590146ee13d554d42ed10b06f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/5\/13-14.1792530027400.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bet viss"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "neir"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "līdzvērtīgs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "laiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "redzu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehaju"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaju"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "jūdu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sēžam"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:00:27.401270937Z",
+  "model": "glm-5.3"
+}

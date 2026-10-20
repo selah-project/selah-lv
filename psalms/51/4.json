@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nomazgā",
+      "rationale": "כבס nozīmē mazgāt ar kāju minamo — pilnīgi izmazgāt drēbi; bildes zudums latviešu 'mazgāt'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עון \/ חטאת",
+      "rationale": "Divu grēka vārdu pāris — 'vaina\/sagrozījums' un 'grēks\/kļūdīšanās' — atkārtojas arī 3. un 5. pantā kā piesātinājuma struktūra"
+    }
+  ],
+  "translation": "Pārpilnīgi nomazgā mani no manas vainas, un no mana grēka mani attīri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/1-4.1792527594506.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Pārpilnīgi"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "nomazgā mani"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "no manas vainas"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "un no mana grēka"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "mani attīri"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.507849036Z",
+  "model": "glm-5.3"
+}

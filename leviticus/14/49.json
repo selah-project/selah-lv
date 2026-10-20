@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šņī tolat — sarkanā tārpiņa krāsa",
+      "rationale": "שני תולעת ir karmazons krāsviela no tārpa 'kermes'; atstāts tuvu burtiski, nevis vienkārši 'sārtā diega'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "attīrīt — לחטא",
+      "rationale": "Burtiski 'grēkot\/nomazgot no grēka'; pielietots par rituālo attīrīšanu."
+    }
+  ],
+  "translation": "Un viņš ņems, lai attīrītu ⟨את⟩ namu, divus putnus un ciedrekoka koku, un sarkanu tārpiņu krāsu, un āzolu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/14\/49-52.1792513841619.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "un ņems"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "lai attīrītu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "divus"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "putnus"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "un koku"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ciedrekoka"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "un sarkano krāsu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tārpiņa"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "un āzolu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:30:41.619918060Z",
+  "model": "glm-5.3"
+}

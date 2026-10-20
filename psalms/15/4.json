@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sev",
+      "rationale": "להרע burtiski 'kaitēt' — latviski jāpievieno 'sev', lai skaidrots, kas zvērestu skar pats zvērētājs"
+    },
+    {
+      "kind": "crux",
+      "subject": "להרע ולא ימר",
+      "rationale": "'Zvēr ļaunu un nemaina' — tradicionāli 'zvēr savam postam un nepārkāpj'; nenoteikts, vai ļaunums skar viņu pašu vai citu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבזה \/ נמאס",
+      "rationale": "Divi sinonīmi nievāšanai vienā teikumā — intensitātes uzkrāšanās"
+    }
+  ],
+  "translation": "Kas nicināms viņa acīs ir atstumtais, bet ⟨את⟩ Jahves bijītājus viņš godā; kas zvēr ļaunu sev un nemaina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/15\/1-4.1792527126877.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "nicināms"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "viņa acīs"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ir atstumtais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves bijītājus"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bijītājus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "viņš godā"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "zvēr"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ļaunu sev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne-"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "maina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:06.882064181Z",
+  "model": "glm-5.3"
+}

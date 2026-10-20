@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vēstnešus",
+      "rationale": "וישלחו 'they sent' lacks a stated object in Hebrew; Latvian requires one"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא היה אחרי",
+      "rationale": "lit. 'there was none after the house of David' — following a king as allegiance"
+    }
+  ],
+  "translation": "Un notika, kad viss Jisraēls dzirdēja, ka Jērobeams atgriezies, viņi nosūtīja vēstnešus un piesauca ⟨את⟩ viņu uz sapulci, un iecēla ⟨את⟩ viņu par ķēniņu pār visu Jisraēlu; neviens nesekoja Davida namam, izņemot vienīgi Jehudas cilti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ebce0a2364cf3acde976d87e5d97a61fc1a27c9c85125086c5746248017ffc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/12\/17-20.1792520686196.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad dzirdēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jērobeams"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "nosūtīja vēstnešus"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Un piesauca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sapulci"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "Un iecēla par ķēniņu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kas sekotu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cilti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vienīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:46.197330377Z",
+  "model": "glm-5.3"
+}

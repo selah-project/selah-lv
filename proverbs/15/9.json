@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas, kas⟩",
+      "rationale": "Ebreju valodā partizipa darbības vārds bez subjekta; latviski vajadzīgs paskaidrojums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה kā 'cedek' — pēc D2 noteikuma viens vārds vienai saknei"
+    }
+  ],
+  "translation": "Negantība Jahves ir ļaunā ceļš, bet ⟨tas, kas⟩ dzenas pēc cedek, viņš mīl.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd3c3a8bf756aa82b3c35333be230c4b9ddceabda97912e5bb3cf5ccea08943b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/9-12.1792528709368.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "negantība"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "bet ⟨tas, kas⟩ dzenas pēc"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "viņš mīl"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:29.369039829Z",
+  "model": "glm-5.3"
+}

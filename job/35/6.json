@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ievadīts saiklis 'ir' pirms 'daudzi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפעל\/תעשה",
+      "rationale": "Divi 'darīt' darbības vārdi paralēlajos pantos — atkārtots jautājums par to pašu."
+    }
+  ],
+  "translation": "Ja tu esi grēkojis, ko tu ar viņu iespēsi? Un ja tavi pārkāpumi ir daudzi, ko tu viņam darīsi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/35\/5-8.1792529519226.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "esi grēkojis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "tu iespēsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ir daudzi"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "tavi pārkāpumi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:59.227427764Z",
+  "model": "glm-5.3"
+}

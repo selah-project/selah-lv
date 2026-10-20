@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nopūta",
+      "rationale": "הגה ir klusa murmināšana (domās, nopūstoties vai kā pērkons); 'nopūta' tuvākais latviskais attēls"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגה",
+      "rationale": "'meditācija' (YLT) pret 'stāsts, kas tiek stāstīts' (KJV\/JPS) pret 'nopūta' (ASV\/BSB)"
+    }
+  ],
+  "translation": "Jo visas mūsu dienas pagaisa Tavā kvēlē, mūsu gadi izsīka kā nopūta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/9-12.1792528036960.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mūsu dienas"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pagaisa"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "Tavā kvēlē"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "izsīka"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "mūsu gadi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "nopūta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:16.961339233Z",
+  "model": "glm-5.3"
+}

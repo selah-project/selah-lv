@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tiek norīta",
+      "rationale": "תתבלע burtiski 'tiek norīta' — KJV 'nezina, ko darīt' zaudē tēlu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "šūpojas",
+      "rationale": "יחוגו no חגג 'kustēties lokā' — arī 'svaidīties ratā'"
+    }
+  ],
+  "translation": "Tie šūpojas un svaidās kā dzērājs, un visa viņu gudrība tiek norīta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/25-28.1792528178446.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "Tie šūpojas"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "un svaidās"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kā dzērājs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visa"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "viņu gudrība"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "tiek norīta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:38.447262830Z",
+  "model": "glm-5.3"
+}

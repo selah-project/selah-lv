@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 33:15",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ķīla",
+      "rationale": "חבל ir ķīla (parāda nodrošinājums), ko aizdevējs bija noraidīts turēt; 'ķīla atdod' ir burtisks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיו יחיה לא ימות",
+      "rationale": "Infinitīva absolūta dubultošana: 'dzīvo tu dzīvosi' pret 'nāvē tu mirsi' 33:14 — dzīves un nāves atbalss pār pantiem."
+    }
+  ],
+  "translation": "ķīlu bezdievis atdod, aplaupījumu viņš atlīdzina, dzīvības likumos viņš staigā, nedarot ļaunu — dzīvo tu dzīvosi, viņš nemirs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f3124e925e16ada7521a48a60ac20ac6a340d299b6aa6ea87c9309fb8dfa0ac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/33\/13-16.1792525479610.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "ķīlu"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "atdod"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezdievis"
+    },
+    {
+      "surface": "גזלה",
+      "gloss": "aplaupījumu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlīdzina"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "likumos"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dzīvības"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "viņš staigā"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nedarot"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "dzīvo"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "tu dzīvosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "viņš mirs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:44:39.611536081Z",
+  "model": "glm-5.3"
+}

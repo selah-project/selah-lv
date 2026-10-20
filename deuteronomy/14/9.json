@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav kopulas; latviski pievienots ⟨ir⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šķīstuma kritēriji",
+      "rationale": "Pants uzskaita dzīvnieku šķīstuma mēra zīmes — spuras un zvīņas"
+    }
+  ],
+  "translation": "Šo ⟨את⟩ ēdiet no visa, kas ⟨ir⟩ ūdenīs: visu, kam ir spuras un zvīņas, ēdiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6187fec61030015f0fa3c88e192d2f4e35fcae7349ee8f645803271e029fdb03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/14\/9-12.1792516897532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ēdiet"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ūdenīs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ir"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "spuras"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "un zvīņas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ēdiet"
+    }
+  ],
+  "timestamp": "2026-10-20T17:21:37.534311492Z",
+  "model": "glm-5.3"
+}

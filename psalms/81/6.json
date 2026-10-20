@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי עדות ביהוסף שמו",
+      "rationale": "Kas izgāja — Dievs vai Jāzefs (tauta)? Lielākā daļa: Dievs izgāja pret Micraimas zemi; alternatīva: 'kad viņš (Jāzefs\/tauta) izgāja'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lūpu",
+      "rationale": "שפת ir 'lūpa' — pēc formas tulkota kā 'valoda'; ebreju vārda forma saglabāta"
+    }
+  ],
+  "translation": "Par liecību Jāzepam Viņš to noteica, kad Viņš izgāja pār Micraimas zemi: lūpu, ko es nepazinu, es dzirdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/81\/5-8.1792527954431.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "par liecību"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Jehosefam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņš noteica"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kad Viņš izgāja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lūpu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es pazinu"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "es dzirdu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:54.432334758Z",
+  "model": "glm-5.3"
+}

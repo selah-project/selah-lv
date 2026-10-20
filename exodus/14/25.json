@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Viņš⟩",
+      "rationale": "Ivritā darbības vārda subjekts izpaliek — tas ir Jahve no 24. panta"
+    },
+    {
+      "kind": "crux",
+      "subject": "אנוסה",
+      "rationale": "Kohortatīvs 'lai es bēgu' — 'Bēgsim' pret 'Es bēgšu'; daudzskaitļa subjekts 'Micraima' izkliedēts pāri teikumam"
+    }
+  ],
+  "translation": "Un ⟨Viņš⟩ noņēma ⟨את⟩ riteņus no viņu ratiem un dzina viņus ar grūtībām; un Micraima sacīja: Bēgsim no Jisraēla sejas, jo Jahve karo viņiem pret Micraimu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ac2b3fe7f019dbddc1aaaf7ee6be50b4ab62a4104c7e1167c559faaa6a0dca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/14\/25-28.1792512926610.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "un noņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riteņus"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ritenis"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "no viņu ratiem"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "un dzina viņus"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "ar grūtībām"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "bēgsim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "pret Micraimu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:26.611545853Z",
+  "model": "glm-5.3"
+}

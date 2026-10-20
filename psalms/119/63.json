@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tiem⟩",
+      "rationale": "Izteikums ולשמרי burtiski 'un sargātājiem'; latviešu valodai vajadzīgs paskaidrojošs 'tiem', kas pieder priekšā stāvošajam 'visiem'."
+    }
+  ],
+  "translation": "Es esmu biedrs visiem, kas Tevi bīstas, un ⟨tiem⟩, kas sargā Tavus priekšrakstus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/61-64.1792528294000.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "biedrs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "Tevi bīstas"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "un ⟨tiem⟩, kas sargā"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tavus priekšrakstus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:34.001087976Z",
+  "model": "glm-5.3"
+}

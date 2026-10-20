@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 9:1",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "ebr. כשמע 'kad dzirdēja' — objekta vietā latviski pievienots piederējuma vietnē '\\u0000to\\u0000' (par norādi uz iepriekšējiem notikumiem) pareizi jābūt: norāde uz iepriekšējiem notikumiem, kas tekstā izteikta ar כשמע"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעבר הירדן",
+      "rationale": "burtiski 'Jardenas otrā pusē' — skatpunkts ir rietumu pusē, tāpēc 'aiz Jardenas'"
+    }
+  ],
+  "translation": "Un notika, kad visi ķēniņi, kas bija aiz Jardenas, kalnos un zemienē un visā lielās jūras krastā pretī Lebanonam — hiti un emori, kenaani, perizi, hivi un jevusi — dzirdēja ⟨to⟩,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f002e5b21346f381ff071738c89fe75eaa95ca3e15bce7753dcf64d62e8d3344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/9\/1-4.1792517704286.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kad… dzirdēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenas"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnos"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "un zemienē"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un visā"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "krastā"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pretim"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanonam"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "un emori"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "un jevusi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:35:04.287206271Z",
+  "model": "glm-5.3"
+}

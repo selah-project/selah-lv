@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vairs nevienam",
+      "rationale": "לא יצלח לכל burtiski 'nederēja nevienam'; latviešu skaidrībai sadalīts divos vārdos."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרת",
+      "rationale": "Perat — upes nosaukums; daudzi tulko 'Eifrata', bet ebreju skanējums ir Perata."
+    }
+  ],
+  "translation": "Un es aizgāju uz Peratu un izraku un paņēmu ⟨את⟩ siksnu no vietas, kur es to tur biju noslēpis, un lūk, siksna bija sabojāta, tā vairs nevienam nederēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ebd9afbb29ec1125b7eaa7ce2c7ba197bd91eac5934587a4b93b8284ee5814b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/13\/5-8.1792523602904.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Un es aizgāju"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "uz Peratu"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "un izraku"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "un paņēmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siksnu"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "siksnu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "es to biju noslēpis"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "bija sabojāta"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "siksna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nevienam"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "nederēja"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vairs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:13:22.905489433Z",
+  "model": "glm-5.3"
+}

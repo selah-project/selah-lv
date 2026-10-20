@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 29:21",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ragu",
+      "rationale": "קרן ir rags kā spēka simbols; tulkots burtiski, nevis 'spēks'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "muti atvēršanu",
+      "rationale": "פתחון פה — 'mouth opening' — nozīmē runas brīvību, pravietiska balss atļaušanu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tā⟩",
+      "rationale": "Ebreju demonstratīvais pronoms ההוא apvienots ar 'dienā'; latviešu valodai vajadzīgs pilnais demonstratīvs"
+    }
+  ],
+  "translation": "Tanī dienā Es ļaušu uzdīgt ragu Jisraēla namam, un tev Es došu muti atvēršanu to vidū, un viņi zinās, ka Es esmu Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "87089beb71f1968a9670266d03cbe0bbb3bb93d8ceb5722157e4122b999f7a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/29\/21-21.1792525311866.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tā⟩"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "Es ļaušu uzdīgt"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ragu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "un tev"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Es došu"
+    },
+    {
+      "surface": "פתחון",
+      "gloss": "atvēršanu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muti"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "to vidū"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un viņi zinās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:41:51.866680013Z",
+  "model": "glm-5.3"
+}

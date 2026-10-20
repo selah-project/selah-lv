@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצודנו",
+      "rationale": "'medīs viņu' — priekšmets varbūt ir 'ļaunums' (KJV) vai Dievs (JPS 'tiks medīts ar grūdienu pēc grūdiena')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מדחפת",
+      "rationale": "vārds 'grūdiens\/postīšana' Tanahā tikai šeit"
+    }
+  ],
+  "translation": "Mēles cilvēks lai nepastāv uz zemes; varas cilvēku — ļaunums medīs uz iznīcināšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/9-12.1792528430336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mēles"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "pastāv"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "medīs viņu"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "uz iznīcināšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:50.337682756Z",
+  "model": "glm-5.3"
+}

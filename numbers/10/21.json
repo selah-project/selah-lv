@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "un uzcelia",
+      "rationale": "Kam ir והקימו subjekts — 'citi' (Geņeva, KJV) vai 'tie (Kehatieši)' tā, ka miškans tiktu uzcelts pirms viņu ierašanās (JPS); ebreju valoda nav izsaka to tieši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המקדש",
+      "rationale": "'svētums' parasti nozīmē svētos priekšmetus, ko kehatieši nesa; YLT lasa 'miškanu'."
+    }
+  ],
+  "translation": "Un devās ceļā kehatieši, svētuma nesēji, un ⟨citi⟩ uzcēla ⟨את⟩ miškanu, līdz ⟨viņu⟩ atnākšanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/10\/21-24.1792515609812.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "un devās ceļā"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "kehatieši"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nesēji"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "un uzcelia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškanu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "באם",
+      "gloss": "atnākšanai ⟨viņu⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T17:00:09.814047876Z",
+  "model": "glm-5.3"
+}

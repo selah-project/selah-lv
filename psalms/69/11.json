@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצום נפשי",
+      "rationale": "'Gavēnis manas nefes' — vai gavēnis par nefes (dvēseles labad, KJV) vai gavēnī ar visu nefes (JPS); latviski turēts vistuvāk tekstam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש nav 'dvēsele' platoniskā nozīmē — elpa, dzīvības spēks; atstāts kā 'nefes'."
+    }
+  ],
+  "translation": "Un es raudāju gavēnī, mana nefes, un tas kļuva par apsmiešanu man.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/69\/9-12.1792527798881.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Un es raudāju"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "gavēnī"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana nefes"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "un tas kļuva"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "par apsmiešanu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:18.882115077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 5:1",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir' pirms tautas nosaukuma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagānīdams",
+      "rationale": "חלל burtiski 'caurdur't, 'apgāna' — tēva gultas apgānīšana (1. Mozus 35:22)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "uzraksīts pēc pirmdzimtības",
+      "rationale": "Dzimtas uzskaites jautājums — pirmdzimtības kārtība"
+    }
+  ],
+  "translation": "Un Reubena bērni — Jisraēla pirmdzimtais, jo viņš ⟨ir⟩ pirmdzimtais, bet, sagānīdams sava tēva gultu, viņa pirmdzimtība tika dota Jozefa bērniem, Jisraēla dēlam, un viņš netiek uzraksīts pēc pirmdzimtības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0de4d91d30b0e44333e1b9a3b76f6d8455afb94af21e726227b509b76aeda7b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/5\/1-4.1792531066802.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... bērni"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubena"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmdzimtais"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pirmdzimtais"
+    },
+    {
+      "surface": "ובחללו",
+      "gloss": "sagānīdams"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "gultu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tika dota"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "pirmdzimtība"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "tiek uzraksīts"
+    },
+    {
+      "surface": "לבכרה",
+      "gloss": "pēc pirmdzimtības"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:46.803015613Z",
+  "model": "glm-5.3"
+}

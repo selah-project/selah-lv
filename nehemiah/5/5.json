@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saikle, kuras ebreju tekstā nav"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nav mūsu rokai spēka",
+      "rationale": "וְאֵין לְאֵל יָדֵנוּ — burtiski 'un nav mūsu rokai spēka', t.i., nav līdzekļu izpirkt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבשים\/נכבשות",
+      "rationale": "Tā pati sakne 'pakļaut' — 'mēs pakļaujam' un 'meitas pakļautas' — atbalss, kas latviski saglabāta ar vienu vārdu"
+    }
+  ],
+  "translation": "Un tagad — kā mūsu brāļu miesa, tāda ⟨ir⟩ mūsu miesa; kā viņu dēli, tādi mūsu dēli; un lūk, mēs pakļaujam ⟨את⟩ mūsu dēlus un ⟨את⟩ mūsu meitas par vergiem, un dažas no mūsu meitām ⟨ir⟩ jau pakļautas, un nav mūsu rokai spēka, jo mūsu lauki un mūsu vīna dārzi — citiem ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "861ef65af67eee8fb741fe85d07276a89add445b7728469ebd4992cf3a5f9f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/5\/5-8.1792530759010.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "kā miesa"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mūsu brāļu"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "mūsu miesa"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "kā viņu dēli"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "mūsu dēli"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "pakļaujam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu dēlus"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "mūsu dēlus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu meitas"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "mūsu meitas"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "par vergiem"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "un ir"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "no mūsu meitām"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "pakļautas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "spēka"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "mūsu rokai"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "un mūsu lauki"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "un mūsu vīna dārzi"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "citiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:12:39.011139321Z",
+  "model": "glm-5.3"
+}

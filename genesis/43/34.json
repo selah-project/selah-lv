@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "porcijas",
+      "rationale": "משאת — 'pacelšana, izsniegta deva'; 'porcija' ir loma, ne burtiskais vārda veidols."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישכרו",
+      "rationale": "'iedzērās' (iepilskās) pret 'dzēra līksmi' — tradicionālie tulkojumi mīkstina; sakne nozīmē apreibšanu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "piecas rokas",
+      "rationale": "חמש ידות — 'piecas rokas', pieckārtīga porcija kā skaitliska mēra norāde."
+    }
+  ],
+  "translation": "Un pacēla porcijas no ⟨את⟩ sejas viņam ⟨uz⟩ viņiem; un Benjamina porcija palielinājās no visu porcijām piecas rokas; un viņi dzēra un iedzērās kopā ar viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "01d6fa1745fece849ce750ffe78d7ec93126aace953cb752294d15420147a5a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/33-34.1792512454060.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "un pacēla"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "porcijas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sejas viņam — no viņa klātesmes"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sejas viņam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨uz⟩ viņiem"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "un palielinājās"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "porcija"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "no porcijām"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "piecas"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "rokas"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "un viņi dzēra"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "un iedzērās"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kopā ar viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:34.061432308Z",
+  "model": "glm-5.3"
+}

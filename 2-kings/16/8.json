@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "Vārds nozīmē arī 'kukuli'; YLT 'a bribe', lielākā daļa 'dāvana\/present' — Ahaza maksājuma daba (pakļaušanās) ir konteksta jautājums."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Izrunātais objekts 'to' pievienots, lai latviešu teikums saistītos; ebreju valodā tas izpaliek."
+    }
+  ],
+  "translation": "Un Ahazs paņēma ⟨את⟩ sudrabu un ⟨את⟩ zeltu, kas atradās Jahves namā un ķēniņa nama krātuvēs, un nosūtīja ⟨to⟩ Ašuras ķēniņam par dāvanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/16\/5-8.1792521605571.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Un paņēma"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zeltu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kas atradās"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "un krātuvēs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "un nosūtīja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašuras"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "par dāvanu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:40:05.572811292Z",
+  "model": "glm-5.3"
+}

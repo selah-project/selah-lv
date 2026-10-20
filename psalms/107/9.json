@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša, dzīva būtība — rīkle\/elpa\/dzīvība, ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקקה",
+      "rationale": "no šāviena kā plēsīg zvērs izsekošanas — 'tīkojoša, kārojoša' pret 'slāpējoša' (BSE: thirsty)"
+    }
+  ],
+  "translation": "Jo Viņš piesātināja ilgojošos dvēseli, un izsalkušo dvēseli piepildīja ar labumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/9-12.1792528165684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "piesātināja"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseli"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ilgojošos"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "un dvēseli"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "izsalkušo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "piepildīja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ar labumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:25.685253139Z",
+  "model": "glm-5.3"
+}

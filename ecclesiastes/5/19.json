@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne ... daudz neatceras",
+      "rationale": "לא הרבה יזכר: 'neatceras daudz' (KJV tradīcija) pret JPS 'lai atceras, ka tās nav daudzas' — vārdu kārtība ļauj abas lasījumus"
+    },
+    {
+      "kind": "crux",
+      "subject": "atbild",
+      "rationale": "מענה burtiski 'atbilde\/aizbildniecība' — ko nozīmē 'Elohim atbild priekā', apstrīdēts"
+    }
+  ],
+  "translation": "jo viņš nekad daudz neatceras ⟨את⟩ savas dzīves dienas, jo Elohim atbild viņa sirds priekā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca47015040a979ef0633485c7f6b60ff0b503d92726ffc0bd1e41d34d5e7e046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/5\/17-19.1792529951571.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daudz"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "atceras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas dzīves dienas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savas dzīves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "atbild"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "priekā"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:11.572405484Z",
+  "model": "glm-5.3"
+}

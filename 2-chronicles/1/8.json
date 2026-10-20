@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד saglabāts kā 'hesed', nevis 'žēlastība' vai 'laipnība' — viens vārds, kura dziļumu tulkojumi sadala"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Šlomo lūgšana tieši vērsta pie Elohim"
+    }
+  ],
+  "translation": "Un Šlomo sacīja Elohim: Tu darīji ar Davīdu, manu tēvu, lielu hesed, un esi mani iecēlis par ķēniņu viņa vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/1\/5-8.1792531643158.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "darīji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davīdu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tēvu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "esi mani iecēlis par ķēniņu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:27:23.159491883Z",
+  "model": "glm-5.3"
+}

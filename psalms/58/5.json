@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inde",
+      "rationale": "חמת burtiski 'karstums\/niknums'; čūskas kontekstā — inde, kā KJV 'poison'."
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Latviešu valodai vajadzīgs piederības vietniekvārds; ebreju valodā to izsaka galotne אזנו."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת ... חמת",
+      "rationale": "Atslēgvārda atkārtojums: vienu un to pašu vārdu lielā skaitā parāda, ka 'viņu inde' un 'čūskas inde' ir viena lieta."
+    }
+  ],
+  "translation": "Viņu inde ir kā čūskas inde, kā kurlā odze, kas aizver ⟨savu⟩ ausi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/5-8.1792527727066.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "inde"
+    },
+    {
+      "surface": "למו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kā"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "inde"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "čūskas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "odze"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kurlā"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "aizver"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ausi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:07.067180886Z",
+  "model": "glm-5.3"
+}

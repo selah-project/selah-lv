@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "vietu uzskaitījums",
+      "rationale": "Asīriešu virziena maršruts pa vietu vārdiem — Ajata, Migrona, Mikmaša"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nokārto",
+      "rationale": "פקד var nozīmēt arī 'uzrādīt uzraudzību pār' vai 'novietot' — 'nokārtot ierīces' kā apgādes noliktavu"
+    }
+  ],
+  "translation": "Viņš ienāk Ajatā, pārgājis Migronā, Mikmašā viņš nokārto savas ierīces.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/25-28.1792522034953.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Viņš ienāk"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ajatā"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pārgājis"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Migronā"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "Mikmašā"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "viņš nokārto"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "savas ierīces"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:14.954406845Z",
+  "model": "glm-5.3"
+}

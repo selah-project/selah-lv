@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Viņi⟩",
+      "rationale": "Darbības vārdam nav subjekta; 'viņi' — apspiedēji no Ijaba runas konteksta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיגו",
+      "rationale": "נשג 'sasniegt\/pārvietot': 'pārvieto robežas' (KJV) pret 'aizsniedz robežas' (YLT lasījums)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירעו",
+      "rationale": "Var lasīt arī 'ganās tajā' (transitīvi par nozagto ganāmpulku) vai 'dara ļaunu' (līdzīga sakne רעה)"
+    }
+  ],
+  "translation": "⟨Viņi⟩ pārvieto robežas, nolaupa ganāmpulku un ⟨ar to⟩ ganās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/24\/1-4.1792529349908.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "robežas"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "pārvieto"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "ganāmpulku"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "nolaupa"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "un ganās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:09.934050279Z",
+  "model": "glm-5.3"
+}

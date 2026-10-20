@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gūstam",
+      "rationale": "לשבי ir apzīmējums 'gūstā aizvestie' — par 'gūstu' kā vietu tas ir pārnesti, bet tā ir patiessa nozīme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ienaidnieka",
+      "rationale": "צר burtiski 'šaurs; apspiedējs' — tēls par cieši ienaidnieka satvertu rokā."
+    }
+  ],
+  "translation": "Un nodeva gūstam savu spēku un savu krāšņumu ienaidnieka rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/61-64.1792527918099.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Un nodeva"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "gūstam"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "savu spēku"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "un savu krāšņumu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ienaidnieka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:18.099637117Z",
+  "model": "glm-5.3"
+}

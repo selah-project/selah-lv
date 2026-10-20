@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 46:10",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav saikļa; latviešu valodai vajag ⟨ir⟩, lai izteiktu 'pieder' un 'ir upuris'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ir sagatavots upuris",
+      "rationale": "זבח הכין dažos tulkojumos; šeit tikai 'זבח לַאדֹנָי' — upuris Adonai, bez darbības vārda."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואכלה ושבעה ורותה",
+      "rationale": "Zobens personificēts: ēd, paēd, dzer — asinsdzērāja zobena aina."
+    }
+  ],
+  "translation": "Un ⟨ir⟩ tā Jahves, Adonai Cevaot, atriebības diena, lai atriebtos no saviem ienaidniekiem; un zobens ēdīs un paēdīs, un dzerīs no viņu asinīm; jo ⟨ir⟩ upuris Adonai Jahvem Cevaot ziemeļu zemē, pie Peratas upes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec76fb69bfdfe871043a684f6f5c82bbe4cffd08eaf04bf8f265916ebf1fcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/46\/9-12.1792524350994.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיום",
+      "gloss": "Un diena"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "atriebības"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "lai atriebtos"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "no saviem ienaidniekiem"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "un ēdīs"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "un paēdīs"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "un dzerīs"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "no viņu asinīm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuris"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai Jahvem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ziemeļu zemē"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "upes"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Peratas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:25:50.995676228Z",
+  "model": "glm-5.3"
+}

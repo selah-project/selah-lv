@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vīrietis\/sieviete",
+      "rationale": "Ebreju tekstā tikai dzimtes formas עקר\/עקרה 'neauglīgs (v.)\/neauglīga (s.)' — 'vīrietis' un 'sieviete' izsecināti no dzimtes"
+    },
+    {
+      "kind": "substitution",
+      "subject": "no visām tautām",
+      "rationale": "מכל העמים burtiski 'no visa tautu [kopuma]' — latviešu lokāšana prasa daudzskaitli"
+    }
+  ],
+  "translation": "Svētīts tu būsi no visām tautām; nebūs tev nedz neauglīga vīrieša, nedz neauglīgas sievietes, nedz tavos lopos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/13-16.1792516731233.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīts"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tu būsi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visām"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebūs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "neauglīga vīrieša"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "neauglīgas sievietes"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "nedz tavos lopos"
+    }
+  ],
+  "timestamp": "2026-10-20T17:18:51.236401713Z",
+  "model": "glm-5.3"
+}

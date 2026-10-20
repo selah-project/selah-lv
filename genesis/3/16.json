@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Darbības vārda subjekts (Elohim) netiek dots ebreju tekstā; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרבה ארבה",
+      "rationale": "Infinitivus absolutus — 'pavairošu pavairošu' — dubultošana, kas pastiprina; latviski saglabāta ar 'ļoti'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשוקתך",
+      "rationale": "'tev būs tieksme pie vīra' vs 'tavu tieksmi vīrs valdīs' (Geneva) — tas pats vārds 4. Mozus 3:16 par Kāinu"
+    },
+    {
+      "kind": "you",
+      "subject": "sievai",
+      "rationale": "Tieša runa sievai — spriedums pēc grēka"
+    }
+  ],
+  "translation": "Sievai ⟨viņš⟩ sacīja: Ļoti pavairošu tavas sāpes un tavu grūtniecību; ar sāpēm tu dzemdēsi dēlus, un pie sava vīra tev būs tieksme, un viņš valdīs pār tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/3\/13-16.1792511476391.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Sievai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Ļoti"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "pavairošu"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "tavas sāpes"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "un tavu grūtniecību"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "ar sāpēm"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "tu dzemdēsi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "sava vīra"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "tev būs tieksme"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "valdīs"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pār tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:16.392787932Z",
+  "model": "glm-5.3"
+}

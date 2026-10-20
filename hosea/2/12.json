@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "negods",
+      "rationale": "נבלותה burtiski sieviešu kaunuma daļa — 'negods' ir pieņemams, bet ķermeņa aina pazūd."
+    },
+    {
+      "kind": "alternative",
+      "subject": "neviens vīrs",
+      "rationale": "איש var nozīmēt 'vīrs' (viens no mīļākajiem) vai vispār 'neviens'."
+    }
+  ],
+  "translation": "Un tagad es atklāšu ⟨את⟩ viņas negodu viņas mīļāko acu priekšā, un neviens vīrs neizglābs viņu no manas rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/2\/9-12.1792525973185.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "es atklāšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņas negodu"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "viņas negodu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "acu priekšā"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "viņas mīļākajiem"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un neviens vīrs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "izglābs viņu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "no manas rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:52:53.187353956Z",
+  "model": "glm-5.3"
+}

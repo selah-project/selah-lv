@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Ivritam trūkst palīgdarbības vārda; latviešu valodai vajadzīgs 'tika'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דם ... דם",
+      "rationale": "Atkārtotais 'asinis' trīs reizes — asins uzkrāšanās, kas latviešu izklāstā saglabāta daļēji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "elkiem",
+      "rationale": "עצבי — elku tēli; 'velni' (kā dažos tulkojumos par 37. pantu) būtu pārāk spēcīga aizvietošana."
+    }
+  ],
+  "translation": "Un viņi izlēja nevainīgu asinis — asinis saviem dēliem un savām meitām, kurus tie upurēja Kenaanas elkiem, un zeme tika apgānīta ar asinīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee627bedbc1f5d35c2d4d05604d54dc3dc6bd2264d09a1065cfa6169b5f7d1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/38-39.1792532828601.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "un viņi izlēja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevainīgu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "saviem dēliem"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "un savām meitām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "tie upurēja"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "elkiem"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanas"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "un tika apgānīta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ar asinīm"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:08.602171313Z",
+  "model": "glm-5.3"
+}

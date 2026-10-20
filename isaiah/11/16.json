@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאר\/ישאר",
+      "rationale": "'atlikušajai' un 'paliks pāri' — viena sakne שאר, atkārtojums zūd latviski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ceļš",
+      "rationale": "מסלה — izcelts braucamais lielceļš, ne vienkāršs taka"
+    }
+  ],
+  "translation": "Un būs ceļš atlikušajai Viņa tautai, kas paliks pāri no Asīrijas, kā tas bija Jisraēlam dienā, kad tas uzkāpa no Micraimas zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/11\/13-16.1792522069851.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "atlikušajai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Viņa tautai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "paliks pāri"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "no Asīrijas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tas bija"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kad tas uzkāpa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no ... zemes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:49.852348252Z",
+  "model": "glm-5.3"
+}

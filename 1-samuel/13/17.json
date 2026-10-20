@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 13:17",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשים",
+      "rationale": "Burtiski 'galvas' — divskaitliska\/pārnesta nozīme 'vienības, nodaļas'; tulkots kā 'vienības', zaudēts 'galva' tēls."
+    },
+    {
+      "kind": "alternative",
+      "subject": "המשחחית",
+      "rationale": "Vienskaitlis 'izpostītājs' pret daudzskaitli; konteksts prasa vairākus laupītāju pulkus."
+    }
+  ],
+  "translation": "Un no filistīniešu nometnes izgāja izpostītāji — trīs vienības; viena vienība pagriezās uz Ofras ceļa, uz Šuala zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2df49bf26ebbae0f4dd2635862a4c6fc76d011fe6138fffef9c77ee458c8da8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/13\/17-20.1792518994819.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "izpostītāji"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "no nometnes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistīniešu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "vienības"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "viena vienība"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "pagriezās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļa"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Šuala"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:34.820492309Z",
+  "model": "glm-5.3"
+}

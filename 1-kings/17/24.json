@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 17:24",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajag 'ir'"
+    },
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "gloss": "—",
+      "rationale": "זה apzīmē 'ar to\/šeit' un latviski saplūst ar 'tagad es zinu'"
+    }
+  ],
+  "translation": "Un sieviete sacīja Elijam: Tagad es zinu, ka tu esi Elohim vīrs un Jahve vārds tavā mutē ⟨ir⟩ patiesība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbfafb97c33258db20bff1d23c6a40fd6da4d040e47351e0e128ca9a326cb74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/17\/21-24.1792520825695.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sieviete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijam"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Tagad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "tavā mutē"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesība"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:05.696483906Z",
+  "model": "glm-5.3"
+}

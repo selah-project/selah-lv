@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nekā⟩",
+      "rationale": "כי אם pēc jautājuma nozīmē 'neko citu kā' — latviski vajag pielikt 'nekā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברבות\/רבו",
+      "rationale": "tā pati sakne רבה divreiz — vairojoties labumam vairojas ēdāji"
+    }
+  ],
+  "translation": "Kad labums vairojas, tā ēdāji vairojas; un kāds ieguvums tā īpašniekam — ⟨nekā⟩, tikai ⟨tas⟩, ka viņa acis ⟨to⟩ redz.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/5\/9-12.1792529908097.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kad vairojas"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "labums"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vairojas"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "tā ēdāji"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un kāds"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ieguvums"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "tā īpašniekam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨nekā⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "redzēšana"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "viņa acīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:28.098652572Z",
+  "model": "glm-5.3"
+}

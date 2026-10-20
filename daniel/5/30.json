@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Aramaic passive participle קטיל requires Latvian auxiliary 'tika'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tanī pašā naktī",
+      "rationale": "Laika norāde akcentē tēziņas piepildījumu tajā pašā naktī"
+    }
+  ],
+  "translation": "Tanī pašā naktī tika nogalināts Belšacars, kasdiešu ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "110ea4dcbde72ebc08ce3487c0598190aa7bc1a4a0132feec0a95a4732d1d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/5\/29-30.1792530226672.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "Tanī pašā"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "tika nogalināts"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belšacars"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "kasdiešu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:03:46.672807083Z",
+  "model": "glm-5.3"
+}

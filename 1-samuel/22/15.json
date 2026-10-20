@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 22:15",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלילה",
+      "rationale": "Burtiski 'aptraipīta lieta' — kā interjektija: 'lai tas ir tālu no manis'; latviski bez šīs etimoloģijas."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעבדו... בכל בית אבי",
+      "rationale": "Sarežģīts priekšmets: 'neliek dēļ sava kalpa ne no visa mana tēva nama' — tulkotāji sašķeļ starp 'iebildumu pret kalpu' un 'dēļ kalpa (un visa nama)'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saulam",
+      "rationale": "Ahimelehs runā pats par sevi 'tavs kalps' — tieši vērsts pie ķēniņa."
+    }
+  ],
+  "translation": "Vai šodien es iesācu viņam vaicāt Elohim? Lai tas ⟨būtu⟩ tālu no manis! Lai ķēniņš neliek sava kalpa sūdzībā nekā visa mana tēva nama <dēļ>, jo tavs kalps nav zinājis nekā no visa šī — nekā maza vai liela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/22\/13-16.1792519378732.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "es iesācu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "vaicāt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Lai tas tālu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Lai ne"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "liek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בעבדו",
+      "gloss": "sava kalpa sūdzībā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zinājis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs kalps"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "maza"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liela"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:58.733519889Z",
+  "model": "glm-5.3"
+}

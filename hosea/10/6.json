@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירב",
+      "rationale": "'Ķēniņš Jarebs' — simbolisks vārds: 'strīdīgais' vai 'aizstāvis'; atstāts kā vārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "Šeit nodeva\/tribūts, ne upuris — tāpēc 'nodeva', ne 'minha'."
+    }
+  ],
+  "translation": "Arī ⟨את⟩ to aiznesīs uz Asīriju kā nodevu ķēniņam Jarebam; kauns piemeklēs Efraimu, un Jisraēls kaunosies par savu padomu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5be1c5f40aafa56264eebb268922b2cfe6bdf8d88c1d774a75c041c2bf2d8157",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/10\/5-8.1792526113239.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "to (ēzeļa teli)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "uz Asīriju"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "aiznesīs"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kā nodevu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarebam"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kauns"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "piemeklēs"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "un kaunosies"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "par savu padomu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:13.241025623Z",
+  "model": "glm-5.3"
+}

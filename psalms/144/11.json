@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lūgums Elohim",
+      "rationale": "Tiešs lūgums Dievam: 'Izrauj mani un izglāb mani'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימינם ימין שקר",
+      "rationale": "Atkārtota sakne: 'viņu labā roka ir labā roka meliem' — vārdu atkārtojums paliek, bet ebreju ritms daļēji zūd."
+    }
+  ],
+  "translation": "Izrauj mani un izglāb mani no svešo bērnu rokas, kuru mute runā veltīgu un kuru labā roka ir labā roka meliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/144\/9-12.1792528441363.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Izrauj mani"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "un izglāb mani"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svešiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mute"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "veltīgu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "un labā roka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "labā roka"
+    },
+    {
+      "surface": "ימין שקר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:01.364133750Z",
+  "model": "glm-5.3"
+}

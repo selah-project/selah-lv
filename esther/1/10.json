@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב לב ביין",
+      "rationale": "Idioma 'laba sirds ar vīnu' = labināts; turēts tuvu literālajam tēlam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "einuchs",
+      "rationale": "סריסים ir einuchi\/mpalgu kalpotāji; 'kamerkungu' ir vēsturisks aizstājējvārds."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septņi einuchi",
+      "rationale": "Skaitlis septņi tieši nosauts; septītā diena un septņi einuchi."
+    }
+  ],
+  "translation": "Septītajā dienā, kad ķēniņa sirds bija labināta ar vīnu, viņš sacīja Mehumanam, Biztam, Harbonam, Bigtam un Avagtam, Zetaram un Karkasam — septņiem einuchiem, kas kalpoja ⟨את⟩ sejai ķēniņa Ahašveroša.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe5a3fb65ca18f924811ba7cb1573bd07e27d81351854287fbf50aec3b545b39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/9-12.1792530059394.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dienei"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kad... labināta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ar vīnu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "viņš sacīja"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "Mehumanam"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "Biztam"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "Harbonam"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "Bigtam"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "un Avagtam"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "Zetaram"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "un Karkasam"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septņiem"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "einuchiem"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "kas kalpoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejai ķēniņa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sejai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    }
+  ],
+  "timestamp": "2026-10-20T21:00:59.395147078Z",
+  "model": "glm-5.3"
+}

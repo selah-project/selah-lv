@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "viņš gāja pie viņas",
+      "rationale": "ויבא אליה — eifēmisms laulības aktam, atstāts burtiski"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבא ... ויבא",
+      "rationale": "Atkārtots darbības vārds 'iet iekšā' — Lābans ieved Leu, Jaakovs ieiet pie viņas; viens vārds, divas darbības"
+    }
+  ],
+  "translation": "Un notika vakarā: viņš ņēma ⟨את⟩ Leu, savu meitu, un ieveda ⟨את⟩ ⟨viņu⟩ pie viņa, un viņš gāja pie viņas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5a2aa27e0d89c7f43645576a8d4c8ce305ac0b3f10cd92b13715a62c373f8607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/29\/21-24.1792512120940.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vakarā"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "viņš ņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leu"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savu meitu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un ieveda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un viņš gāja"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "pie viņas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:00.941524400Z",
+  "model": "glm-5.3"
+}

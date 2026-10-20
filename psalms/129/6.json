@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saikle, ebreju valodā tās nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו \/ יבש",
+      "rationale": "5. pantā 'kaunēties' un 6. pantā 'nokalt' ir viens un tas pats vārds יבש — apzināta spēle, latviski sadalās divos vārdos"
+    }
+  ],
+  "translation": "Lai tie ⟨ir⟩ kā zāle uz jumtiem, kas priekš izraušanas nokalst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/129\/5-8.1792528373634.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kā zāle"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "uz jumtiem"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "izraušanas"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "nokalst"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:53.634956463Z",
+  "model": "glm-5.3"
+}

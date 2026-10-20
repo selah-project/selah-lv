@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זרוע",
+      "rationale": "Burtiski 'roka' kā izstiepts cilvēka celis; 'izstiepto roku' saglabā metaforas formu, ne 'spēku'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויוסף",
+      "rationale": "'Un Jozefa dēlus' — vai Jozefs ir paralele Jaakovam (Efraima un Manases ciltis), vai pielikums."
+    }
+  ],
+  "translation": "Ar izstiepto roku Tu izpirki ⟨את⟩ savu tautu, Jaakova un Jozefa dēlus. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/77\/13-16.1792527873143.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Tu izpirki"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "Ar izstiepto roku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "savu tautu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "un Jozefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:33.144273763Z",
+  "model": "glm-5.3"
+}

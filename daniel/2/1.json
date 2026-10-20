@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 2:1",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā 'ruah' — gars, vējš, elpa vienā vārdā."
+    },
+    {
+      "kind": "crux",
+      "subject": "un viņa miegs kļuva viņam traucējošs",
+      "rationale": "ושנתו נהיתה עליו — burtiski 'miegs bija uz viņa'; KJV 'miegs aizgāja no viņa' pret YLT 'pret viņu'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sapņi",
+      "rationale": "Pants ievada noglabāto sapni, ko neviens nezina — slēpta zināšana, kas dzīs visu nodaļu."
+    }
+  ],
+  "translation": "Un Nebukadnecara valdīšanas otrajā gadā Nebukadnecars nosapņoja sapņus, un viņa ruah satricinājās, un viņa miegs ⟨kļuva⟩ viņam traucējošs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/1-4.1792530143059.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "un gadā"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "otrajā"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "valdīšanas"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nebukadnecara"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "nosapņoja"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nebukadnecars"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "sapņus"
+    },
+    {
+      "surface": "ותתפעם",
+      "gloss": "un satricinājās"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "viņa ruah"
+    },
+    {
+      "surface": "ושנתו",
+      "gloss": "un viņa miegs"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "kļuva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:23.059857492Z",
+  "model": "glm-5.3"
+}

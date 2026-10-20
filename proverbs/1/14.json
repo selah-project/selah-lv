@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maks",
+      "rationale": "כיס nozīmē gan naudas maisu, gan mēru — 'maks' saglabā maisa bildi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pie jaunekļa",
+      "rationale": "Grēcinieku aicinājums pievienoties; vārds 'met' ir imperatīvs."
+    }
+  ],
+  "translation": "Met savu lozi mūsu vidū, viena maks mums visiem būs!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/13-16.1792528515846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "savu lozi"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "Met"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "mūsu vidū"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "maks"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "mums visiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:15.846908242Z",
+  "model": "glm-5.3"
+}

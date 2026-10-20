@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju valodā teikumam nav darbības vārda; latviešu valodai vajag ⟨esmu⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעידה בך",
+      "rationale": "'Liecināšu pret tevi' vai 'liecināšu tev' — ב norāda gan virzienu, gan liecību par cilvēku."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Tieša uzruna: 'Klausi, mana tauta... Jisraēl' — Jahve runā ar savu tautu."
+    }
+  ],
+  "translation": "Klausi, mana tauta, un es runāšu, Jisraēl, un es liecināšu pret tevi: Elohim, tavs Elohim, ⟨esmu⟩ es.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/5-8.1792527572405.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Klausi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mana tauta"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "un es runāšu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēl"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "un es liecināšu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:32.406785125Z",
+  "model": "glm-5.3"
+}

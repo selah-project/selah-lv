@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas pilns",
+      "rationale": "ivetais saliktekvārds; ebreju tekstā tikai 'vīrs krāpšanas'"
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Elohim",
+      "rationale": "pants ir uzruna Dievam — lūgums par tiesu un glābšanu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבי",
+      "rationale": "darbības vārda un lietvārda viena sakne — 'ved manu strīdu' saglabā atbalss"
+    }
+  ],
+  "translation": "Izmanto tiesu man, Elohim, un ved manu strīdu pret tautu, kas nav dievbijīga; no vīra, kas pilns krāpšanas un netaisnības, Tu mani izglābsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/43\/1-4.1792527508042.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "izmanto tiesu man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "un ved"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "manu strīdu"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "pret tautu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "dievbijīga"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "no vīra"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "krāpšanas"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "un netaisnības"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "izglābsi mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:28.043131794Z",
+  "model": "glm-5.3"
+}

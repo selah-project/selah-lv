@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiesu spriedumi",
+      "rationale": "משפט דraudzētājs nozīmē 'tiesas spriedums, paraža, taisnība' — viena sakne, viens vārds ebrejiski."
+    },
+    {
+      "kind": "crux",
+      "subject": "הורתני",
+      "rationale": "יָרָה burtiski 'sviest, raidīt kā ūdeni' — 'mācīt' pret 'virzīt, pamācīt'; JPS 'instructed', YLT 'directed'."
+    }
+  ],
+  "translation": "No Taviem tiesu spriedumiem es novērsos, jo Tu mani mācīji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/101-104.1792528305275.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "no Taviem tiesu spriedumiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "es novērsos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "mani mācīji"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:45.275565904Z",
+  "model": "glm-5.3"
+}

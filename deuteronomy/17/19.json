@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 17:19",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bīties",
+      "rationale": "יראה apvieno 'bīties' un 'godāt' — viens ebreju vārds, latviešu izvēle atstāj godāšanas pusi malā."
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "עמו — 'ar viņu': grāmata būs kopā ar ķēniņu; prievārds 'ar' latviski pievienots locījumam."
+    }
+  ],
+  "translation": "Un tā būs ar viņu, un viņš to lasīs visas savas dzīves dienas, lai viņš iemācītos bīties ⟨את⟩ Jahvu, savu Elohim, saglabāt ⟨את⟩ visus šīs Toras vārdus un ⟨את⟩ šos likumus, tos darīdams.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/17\/17-20.1792517101575.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Un tā būs"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "un viņš lasīs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savas dzīves"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "viņš iemācītos"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "bīties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saglabāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus vārdus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "šīs Toras"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "šos likumus"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "likumus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šos"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "tos darīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T17:25:01.577757010Z",
+  "model": "glm-5.3"
+}

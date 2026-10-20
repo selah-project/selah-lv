@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 23:2",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "Šeit אתו ir prievārds 'ar viņu' (H854), nevis darbības vārda paskaidrojamais; ⟨את⟩ atzīme pēc Selah noteikuma, bet nozīme ir 'ar viņu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbības vārds 'tika atrasti'; ebreju valodā ir vienkāršs participijs הנמצא."
+    }
+  ],
+  "translation": "Un ķēniņš uzkāpa Jahves namā, un visi Jehudas vīri un visi Jerušalaimas iedzīvotāji ⟨את⟩ ar viņu, un priesteri, un pravieši, un visa tauta, no mazā līdz lielajam; un viņš nolasīja viņu ausīs ⟨את⟩ visus derības grāmatas vārdus, ⟨ד⟩ kas tika atrasti Jahves namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7921ae9ccd06a74b3fb2508331a18fb512dc07fafbf1eca7eea7c32a9636a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/23\/1-4.1792521757630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Un uzkāpa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotāji"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu",
+      "marks": "ar viņu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "un priesteri"
+    },
+    {
+      "surface": "והנביאים",
+      "gloss": "un pravieši"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "no mazā"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielajam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un nolasīja"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "viņu ausīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus vārdus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatas"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kas tika atrasts"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:42:37.631749737Z",
+  "model": "glm-5.3"
+}

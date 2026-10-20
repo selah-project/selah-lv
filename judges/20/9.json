@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; demonstratīvs זה הדבר pats veido teikumu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lozi",
+      "rationale": "בגורל — cīņas kārtība tiek noteikta ar lozēšanu, skaitīšanas\/metīšanas pieeja"
+    }
+  ],
+  "translation": "Un tagad šī ⟨ir⟩ lieta, ko darīsim Gibeaiai: pret to ar lozi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6c1a795b529e3e436f5e36a25338aa75eba2d54555e628d73a06ffb475692365",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/20\/9-12.1792518582835.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darīsim"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Gibeaiai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pret to"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ar lozi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:49:42.836398221Z",
+  "model": "glm-5.3"
+}

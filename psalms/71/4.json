@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יד\/כף",
+      "rationale": "'Roka' un 'plauksta\/ķepa' — atkārtota paralelā anatomija, latviski saglabāta ar 'roka\/ķepa'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חומץ",
+      "rationale": "'Rūgts\/skābs' pārnestā nozīmē par cietsirdīgu; tulkotāji dažādi: 'cruel', 'ruthless', 'violent'."
+    }
+  ],
+  "translation": "Mans Elohim, izra mani no ļaunā rokas, no netaisnā un cietsirdīgā ķepas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/71\/1-4.1792527813900.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "izra mani"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "no ķepas"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "netaisnā"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "un cietsirdīgā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:33.901176946Z",
+  "model": "glm-5.3"
+}

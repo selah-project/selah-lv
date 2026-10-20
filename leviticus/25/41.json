@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 25:41",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושב ... ישוב",
+      "rationale": "Saknes שׁוּב atkārtojums — 'atgriezīsies ... atgriezīsies' — latviski saglabāts ar diviem darbības vārdiem."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אֲחֻזָּה",
+      "rationale": "Termins par zemi, kas 'aizturēta' kā īpašums; latviskais 'mantojums' zaudē 'satveršanas' bildi."
+    }
+  ],
+  "translation": "Un viņš izies no tevis, viņš un viņa dēli ar viņu, un atgriezīsies pie savas dzimtas, un pie sava tēvu mantojuma viņš atgriezīsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/41-44.1792515177414.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "un viņš izies"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "un viņa dēli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "un atgriezīsies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "savas dzimtas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "mantojuma (aizturēta īpašuma)"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sava tēvu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "viņš atgriezīsies"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:57.415618776Z",
+  "model": "glm-5.3"
+}

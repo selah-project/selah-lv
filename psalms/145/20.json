@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Darbības vārdam pievienots subjekta vietniekvārds 'Viņš'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שומר\/ישמיד",
+      "rationale": "Chiasmuss: sargāt pret iznīcināt — divi pāri diviem את marķieriem"
+    }
+  ],
+  "translation": "Sarga Jahve ⟨את⟩ visus, kas Viņu mīl, un ⟨את⟩ visus ļaunos Viņš iznīcinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/17-20.1792528498831.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Sarga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus, kas Viņu mīl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kas Viņu mīl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus ļaunos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ļaunos"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "Viņš iznīcinās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:58.832546478Z",
+  "model": "glm-5.3"
+}

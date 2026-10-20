@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלעדי",
+      "rationale": "'papildus tam, ko redzu' — YLT literāri 'besides that which I see', citi tulko 'to, ko neredzu'"
+    },
+    {
+      "kind": "you",
+      "subject": "pret El",
+      "rationale": "turpinās iespējamais Joba lūgums: 'tu man parādi, iemāci'"
+    }
+  ],
+  "translation": "To, ko es neredzu, tu man parādi; ja esmu darījis netaisnību, es to vairs nedarīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/29-32.1792529538424.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "papildus tam, ko"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "neredzu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "mani iemāci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עול",
+      "gloss": "netaisnību"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "esmu darījis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "vairs nedarīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:18.425807470Z",
+  "model": "glm-5.3"
+}

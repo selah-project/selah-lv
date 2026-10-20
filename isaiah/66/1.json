@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir' — pievienots latviešu valodai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדם",
+      "rationale": "הדם ir kāju pamatsols; latviešu 'pamatsols' saglabā priekšmeta formu."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve runā pret templi celtoņiem",
+      "rationale": "Jautājums 'Kādu namu jūs celsiet man?' tieši vēršas pie adresāta."
+    }
+  ],
+  "translation": "Tā saka Jahve: debesis ⟨ir⟩ mans troņa sēdeklis, un zeme ⟨ir⟩ manas kājas pamatsols. Kāda ⟨ir⟩ tāda nama vieta, ko jūs celsiet man, un kāda ⟨ir⟩ tāda vietas vieta manai atdusai?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/66\/1-4.1792523225074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "mans troņa sēdekelis"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "un zeme"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pamatsols"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "manas kājas"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Kāda ⟨ir⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tāda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama vieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "jūs celsiet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "un kāda ⟨ir⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tāda"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietas vieta"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "manai atdusai"
+    }
+  ],
+  "timestamp": "2026-10-20T19:07:05.074856865Z",
+  "model": "glm-5.3"
+}

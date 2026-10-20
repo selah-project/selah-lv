@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaukums",
+      "rationale": "נעם ir 'patīkamība, žēlība, spozme' — viens latviešu vārds to nesedz pilnībā"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mums⟩ · ⟨to⟩",
+      "rationale": "ivritā עלינו un priedēklis -ה־ ir morfoloģijā; latviešu valodai vajadzēja atsevišķu vārdu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כוננה עלינו \/ כוננהו",
+      "rationale": "atkārtojums un skaņu līdzība (alenu\/kenenahu) — pantiņa noslēguma atbalss, latviski daļēji zudusi"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "lūgšana vērsta pie Adonai, mūsu Elohim"
+    }
+  ],
+  "translation": "Un lai Adonai, mūsu Elohim, jaukums ir pār mums, un mūsu roku darbus ⟨mums⟩ stipri pamato, un mūsu roku darbus ⟨to⟩ stipri pamato.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/17-17.1792528070260.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un lai ir"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "jaukums"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pār mums"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "un darbus"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mūsu roku"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "stipri pamato"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨mums⟩"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "un darbus"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mūsu roku"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "⟨to⟩ stipri pamato"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:50.261396Z",
+  "model": "glm-5.3"
+}

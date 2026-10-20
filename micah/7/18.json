@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "micah 7:18",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav izteikta darāmā vārda jautājumā 'Kas El kā Tu?'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשא עון",
+      "rationale": "'Nes vainu' — tēls 'pacelt un aiznest'; tulkots 'piedot\/vainas nesējs' zaudē nesamo bildi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיכה\/מי",
+      "rationale": "Grāmatas nosaukums Miha (מיכה) skan gandrīz kā jautājums 'Kas (מי) kā (כ) Tu (ך)?' — vārdu spēle, kas latviski izzūd."
+    }
+  ],
+  "translation": "Kas ⟨ir⟩ El kā Tu, kas nes vainu un paiet pāri pārkāpumam atlikušajam Savas mantojuma daļai? Viņš nepatur Savas dusmas mūžīgi, jo Viņam tīk hesed — Viņš ⟨ir tāds⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/7\/17-20.1792526552218.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kā Tu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vainu"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "un paiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pārkāpumam"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "atlikušajai"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "Savas mantojuma daļas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "Viņš nepatur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "Savas dusmas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Viņam tīk"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T20:02:32.219587128Z",
+  "model": "glm-5.3"
+}

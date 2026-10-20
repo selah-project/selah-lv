@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 15:17",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨esi⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulam",
+      "rationale": "Samuēls tieši uzrunā Šaulu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתה...אתה",
+      "rationale": "atkārtotais 'tu' ierāmē pretstatu: mazs pats savās acīs — galva ciltīm"
+    }
+  ],
+  "translation": "Un Samuēls sacīja: Vai ne — ja tu esi mazs savās acīs, tu ⟨esi⟩ galva Jisraēla ciltīm? Un Jahve svaidīja tevi par ķēniņu pār Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/17-20.1792519116307.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuēls"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mazs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "savās acīs"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ciltīm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וימשחך",
+      "gloss": "un svaidīja tevi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:36.308184107Z",
+  "model": "glm-5.3"
+}

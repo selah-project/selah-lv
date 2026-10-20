@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseli",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele platonic nozīmē."
+    },
+    {
+      "kind": "idiom",
+      "subject": "savās dusmās",
+      "rationale": "באפו burtiski 'savā degunā\/nāsī' — dusmu idiomātiskais izteikums."
+    },
+    {
+      "kind": "you",
+      "subject": "Bildads Ijabam",
+      "rationale": "retorisks jautājums: vai tavā dēļ tiks grozīta pasaules kārtība."
+    }
+  ],
+  "translation": "Tārdams savu dvēseli savās dusmās — vai tavā dēļ tiks pamesta zeme, un vai klints tiks pārvietota no savas vietas?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "db8e85e6a43743958d010dc4adfe357c206712898dfcd8c5c9e93238a2000701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/18\/1-4.1792529250753.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "tārdams"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "savās dusmās"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "tavā dēļ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tiks pamesta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "tiks pārvietota"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klints"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "no savas vietas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:30.754931890Z",
+  "model": "glm-5.3"
+}

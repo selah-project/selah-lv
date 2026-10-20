@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir (būs)",
+      "rationale": "Ebreju valodā teikumā par otro jostu nav darbības vārda; latviešu valodai vajag ‘būt’"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתניו\/חלציו",
+      "rationale": "Divi vārdi vienai ķermeņa daļai — gurni\/jostas vieta — paralelisms, latviski grūti atšķirt"
+    }
+  ],
+  "translation": "Un cedek būs josta viņa gurniem, un uzticība — josta viņa jostas vietai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/11\/5-8.1792522065130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "josta"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "viņa gurniem"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "un uzticība"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "josta"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "viņa jostas vietai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:45.131306135Z",
+  "model": "glm-5.3"
+}

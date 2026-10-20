@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 24:8",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראם",
+      "rationale": "savvaļas vērsis, ne vienradzis (D4) — KJV 'unicorn' ir vēsturiska kļūda"
+    },
+    {
+      "kind": "crux",
+      "subject": "תועפת",
+      "rationale": "'spēks' vai 'ragi' savvaļas vērsim — JPS lasa 'lofty horns', citi 'strength'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגרם",
+      "rationale": "no עצם 'kauls' atvasināts darbības vārds — 'izkaulot\/sasist kaulus', vārdu spēle zūd tulkojumā"
+    }
+  ],
+  "translation": "El, kas viņu izveda no Micraimas, — tam ir tādi ragi kā savvaļas vērsim; viņš aprīs tautas, savus ienaidniekus, un to kaulus sasitīs sīkos gabalos un ar savām bultām sašķeļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/24\/5-8.1792516111827.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוציאו",
+      "gloss": "kas viņu izveda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "כתועפת",
+      "gloss": "kā ragi"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "savvaļas vērsim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "viņš aprīs"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "savus ienaidniekus"
+    },
+    {
+      "surface": "ועצמתיהם",
+      "gloss": "un to kaulus"
+    },
+    {
+      "surface": "יגרם",
+      "gloss": "sasitīs sīkos gabalos"
+    },
+    {
+      "surface": "וחציו",
+      "gloss": "un ar savām bultām"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "sašķeļ"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:31.829490257Z",
+  "model": "glm-5.3"
+}

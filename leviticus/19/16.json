@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא תעמד על דם רעך",
+      "rationale": "'nestāvēsi uz sava tuvākā asinīm': vai nu 'nesēdēsi augstsirdīgi' (JPS) vai 'nestāsies pret viņa asinīm' (KJV) — ivrita frāze pieļauj abas lasījumus."
+    },
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ivritā trūkst saikļa 'esmu'; latviešu valodai tas vajadzīgs."
+    }
+  ],
+  "translation": "Nestaigāsi kā tenku izplatītājs savā tautā; nestāsies pret sava tuvākā asinīm — es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/13-16.1792514924103.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "nestaigāsi"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "kā tenku izplatītājs"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "savā tautā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "nestāsies"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinīm"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sava tuvākā"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:44.107279523Z",
+  "model": "glm-5.3"
+}

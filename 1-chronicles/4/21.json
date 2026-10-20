@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 4:21",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikļa; saraksta sākumam latviešu valoda to prasa"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית עבדת הבץ",
+      "rationale": "Tulkojumi dalās: 'balta auduma darba nama dzimtas' (KJV) pret 'linu audēju namam' — הבץ nozīmē kokvilnu vai smalku balto audumu"
+    }
+  ],
+  "translation": "Šēlas, Jehudas dēla, dēli ⟨bija⟩ Ērs, Lehas tēvs, un Laada, Marešas tēvs, un dzimtas no darba nama — balta auduma — Ašbeas namam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3afd695ed1f3e8df7e8a5839df6ff0d17f60059832bd683d33fae46cf0de8127",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/21-22.1792532955591.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šēlas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ērs"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tēvs"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Lehas"
+    },
+    {
+      "surface": "ולעדה",
+      "gloss": "un Laada"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tēvs"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marešas"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "un dzimtas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "darba"
+    },
+    {
+      "surface": "הבץ",
+      "gloss": "baltais audums"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "Ašbeas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:49:15.591874156Z",
+  "model": "glm-5.3"
+}

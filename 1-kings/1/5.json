@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ratniekus",
+      "rationale": "רכב ir kaujas rati ar vilcējzirgiem — aplumā 'ratnieki' tuvāk vārda formai nekā vienkārši 'rati'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Es kļūšu ķēniņš",
+      "rationale": "אני אמלך — arī 'Es valdīšu'; inceptīvs 'kāpt tronī'"
+    }
+  ],
+  "translation": "Un Adonija, Ĥagitas dēls, paaugstināja sevi, sacīdams: Es kļūšu ķēniņš. Un viņš padarīja sev ratniekus un jātniekus, un piecdesmit vīrus skrējējus savā priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/5-8.1792520232077.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Un Adonija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Ĥagitas"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "paaugstināja sevi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "kļūšu ķēniņš"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Un viņš padarīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ratniekus"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "un jātniekus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "un piecdesmit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrus"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "skrējējus"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "savā priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:12.078166809Z",
+  "model": "glm-5.3"
+}

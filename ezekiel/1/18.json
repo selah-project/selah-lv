@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 1:18",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumā nav darbības vārda 'būt'; latviešu valoda to prasa."
+    },
+    {
+      "kind": "crux",
+      "subject": "וגביהן",
+      "rationale": "גַּב nozīmē 'mugura, izliekums, mala, aplis' — tulki sadalās: 'riņķi' (KJV), 'apmales' (ASV), 'muguras'; izvēlēta 'apmales' kā riteņa daļa."
+    },
+    {
+      "kind": "mystery",
+      "subject": "acis uz apmalēm",
+      "rationale": "Pārdabīgs tēls — acīm pilnas apmales — apzināti noslēpumains vīzijas elements."
+    }
+  ],
+  "translation": "Un viņu riteņu apmales — un augstas tās ⟨bija⟩, un briesmīgas skatam tās ⟨bija⟩; un to apmales pilnas acīm apkārt — visām četrām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bfad28ead181742b8ddc879eac1c565a1153dc11044cc40319a507fa087a8eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/1\/17-20.1792524640839.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגביהן",
+      "gloss": "Un viņu apmales"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "un augstas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tās"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "un briesmīgas skatam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tās"
+    },
+    {
+      "surface": "וגבתם",
+      "gloss": "un to apmales"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "acīm"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "visām četrām"
+    }
+  ],
+  "timestamp": "2026-10-20T19:30:40.839809991Z",
+  "model": "glm-5.3"
+}

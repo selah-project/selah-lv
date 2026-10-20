@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Viņu⟩",
+      "rationale": "Ebreju darbības vārds pieņem objektu bez prievārda; latviski pievienots vietniekvārds, kas norāda uz Jahvi no iepriekšējā konteksta."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mēris",
+      "rationale": "מגפה var nozīmēt arī 'sakāve'; 'mēris' ņemts kā pamata nozīmi."
+    }
+  ],
+  "translation": "Un viņi sadusmoja ⟨Viņu⟩ ar saviem darbiem, un mēris izcēlās starp viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/29-32.1792528196348.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "sadusmoja"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "ar saviem darbiem"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "izcēlās"
+    },
+    {
+      "surface": "בם",
+      "gloss": "starp viņiem"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "mēris"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:56.349071944Z",
+  "model": "glm-5.3"
+}

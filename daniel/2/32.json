@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Aramaic lacks copula; verbs 'bija' pievienoti latviešu valodai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vēders",
+      "rationale": "מעוהי burtiski 'iekšas\/zarnas', atveidots kā 'vēders'."
+    },
+    {
+      "kind": "crux",
+      "subject": "varš",
+      "rationale": "נחש var nozīmēt varu vai bronzu; izvēlēts 'varš'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tēla materiāli",
+      "rationale": "Tēla daļu uzskaitījums pēc materiāliem — struktūrēts uzskaitījums no galvas līdz kājām."
+    }
+  ],
+  "translation": "Šī tēla galva ⟨bija⟩ no laba zelta, tā krūtis un tā rokas no sudraba, tā vēders un tā gurni no vara.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "95a1cdc34740d6669e823983b6e9714a9408ad9e4e4b3e1d80f8d9959800b811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/32-32.1792532867320.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "šī"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "tēla"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "galva"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨bija⟩ no"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "טב",
+      "gloss": "laba"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "krūtis"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "un rokas"
+    },
+    {
+      "surface": "די",
+      "gloss": "no"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "vēders"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "un gurni"
+    },
+    {
+      "surface": "די",
+      "gloss": "no"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "vara"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:47.320903874Z",
+  "model": "glm-5.3"
+}

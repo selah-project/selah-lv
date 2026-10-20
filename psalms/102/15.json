@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņas",
+      "rationale": "Ebreju valodā piederība izteikta sievišķā galotnē (-הָ) uz akmeņiem un putekļiem, latviski vajadzīgs vietniekvārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "labprāt iemīļo",
+      "rationale": "רָצוּ burtiski 'ir iepatikušies, labvēlīgi pret' — 'patīk' ir pārāk vājš, 'mīl' par stipru."
+    }
+  ],
+  "translation": "Jo Tavi kalpi labprāt iemīļo ⟨את⟩ viņas akmeņus un ⟨את⟩ viņas putekļus tie apžēlo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/13-16.1792528112020.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "labprāt"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Tavi kalpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņas akmeņus"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "viņas akmeņus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "viņas putekļus"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "viņas putekļus"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "apžēlo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:32.021634058Z",
+  "model": "glm-5.3"
+}

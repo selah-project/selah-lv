@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקרון\/תעקר",
+      "rationale": "Pilsētas vārds Ekron un darbības vārds עקר 'izraut ar sakni' — vārdu spēle: 'Ekrona tiks ekronota'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזה\/עזובה",
+      "rationale": "Aza un 'pamesta' (עזובה) — līdzskanu atbalss zūd latviski"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar sakni",
+      "rationale": "עקר nozīmē 'izraut ar saknēm'; pievienots 'ar sakni', lai saglabātu attēlu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בצהרים",
+      "rationale": "Duālis 'divējā gaisma' = pusdienlaiks — burtiski 'divu spīdekļu laikā'"
+    }
+  ],
+  "translation": "Jo Aza paliks pamesta, un Aškelona par postažu; Ašdodu pusdienas laikā viņi izdzīs, un Ekrona tiks izrauta ar sakni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "47ff6093355a1a8358908d1c7465b1cf6ab8b0dd6941715731b9376dd7561405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/2\/1-4.1792526674169.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "pamesta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "paliks"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "un Aškelona"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "par postažu"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ašdodu"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pusdienas laikā"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "viņi izdzīs"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "un Ekrona"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "tiks izrauta ar sakni"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:34.171454930Z",
+  "model": "glm-5.3"
+}

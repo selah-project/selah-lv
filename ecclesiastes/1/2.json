@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tvaiks",
+      "rationale": "הבל burtiski ir 'elpa, garaiņi' — parasti 'veltīgums'; turēts pie burtiskā attēla"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikla; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "Hebreju superlatīvs ar atkārtojumu un vārdu spēli 'tvaiks tvaiku' piecas reizes pantā"
+    }
+  ],
+  "translation": "Tvaiks tvaiku, saka Kohelets, tvaiks tvaiku — viss ⟨ir⟩ tvaiks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/1\/1-4.1792529899544.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "tvaiks"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tvaiku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelets"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tvaiks"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tvaiku"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tvaiks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:19.544757161Z",
+  "model": "glm-5.3"
+}

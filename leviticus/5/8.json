@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pārlauzīs",
+      "rationale": "מלק burtiski 'nolauzt locītavu' — putna kakla pārlauzīšana bez atdalīšanas; doti divi vārdi vienam darbības vārdam."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא יבדיל",
+      "rationale": "'Neatdalīs' — galva tiek pārlauzta, bet pilnībā nenoplēsta; daži tulki: 'nenoplūks vaļā', citi 'nesadalīs (pārī)'."
+    }
+  ],
+  "translation": "Un viņš atnesīs ⟨את⟩ tos pie priestera, un priesteris piesniegs ⟨את⟩ to, kas ⟨ir⟩ par grēka upuri, — pirmo, un pārlauzīs ⟨את⟩ tā galvu no pakauša priekšas, bet neatdalīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "353b9ad6baeef4a785dce2d4fb73ff8793908adc996272aa6b5098546726e5ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/5\/5-8.1792513671178.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Un viņš atnesīs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priestera"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "un piesniegs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, kas par grēka upuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, kas"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "par grēka upuri"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "pirmo"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "un pārlauzīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tā galvu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tā galvu"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "no priekšas"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "tā pakausi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "atdalīs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:27:51.180085240Z",
+  "model": "glm-5.3"
+}

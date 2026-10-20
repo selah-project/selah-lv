@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 22:16",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ļaunumu",
+      "rationale": "רעה ir vispārīgs 'ļaunums, posts, nelaime' — nav morāls ļaunums, ko Jahve dara, bet nelaimi, ko viņš ieved."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הנני מביא",
+      "rationale": "'Lūk, es ievedu' — ebreju pieejamības un tūlītējas darbības formula; latviski 'es ievedu' ar tagadnes formu."
+    }
+  ],
+  "translation": "Tā saka Jahve: Lūk, es ievedu ļaunumu pār šo vietu un pār tās iedzīvotājiem — ⟨את⟩ visus šīs grāmatas vārdus, ko izlasīja Jūdas ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/22\/13-16.1792521723526.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lūk, es"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ievedu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pār"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "šo vietu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "ישביו",
+      "gloss": "tās iedzīvotājiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus vārdus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "grāmatas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "izlasīja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:42:03.528219018Z",
+  "model": "glm-5.3"
+}

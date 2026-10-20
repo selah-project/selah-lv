@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרת עולם",
+      "rationale": "burtiski 'grūtniecība mūžības' — 'mūžīga grūtniecība' (YLt) pret 'vienmēr grūta' (KJV\/ASV) pret 'mūžīgi palielināta' (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מותתני",
+      "rationale": "poēla izteiksme ' likt mani mirt' — 'nonāvēja mani'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרחם \/ קברי \/ רחמה",
+      "rationale": "mātes miesa par kapu un miesa par mūžīgu grūtniecību — dzimšanas un kapa vienādojums, emocionāla intensitāte"
+    }
+  ],
+  "translation": "Kas nenonāvēja mani no mātes miesas, un mana māte kļuva man par manu kapu, un viņas miesa par grūtniecību ⟨mūžīgu⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5aee41d2bf5352fd03a176f25d6af4076a67b5337f999d1161051f94e52687bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/20\/17-18.1792523679586.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "nonāvēja mani"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "no mātes miesas"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "un kļuva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mana māte"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "par manu kapu"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "un viņas miesa"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "par grūtniecību"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:14:39.587196345Z",
+  "model": "glm-5.3"
+}

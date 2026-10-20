@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הושיעה המלך",
+      "rationale": "'Izglābj, un ķēniņš (Jahve) atbild' (JPS\/KJV) pret 'izglābj ķēniņu' (YLT\/BSB) — vai המלך ir uzruna Jahvem, vai izglābjamais objekts."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mūsu⟩",
+      "rationale": "Piedēklis -נו ('mums\/mūsu') latviešu valodā pieprasa atsevišķu vietniekvārdu."
+    }
+  ],
+  "translation": "Jahve, izglābj! Lai ķēniņš mums atbild mūsu aicinājuma dienā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/20\/9-10.1792527178821.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "izglābj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "mums atbild"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "aicinājuma mūsu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:58.822840432Z",
+  "model": "glm-5.3"
+}

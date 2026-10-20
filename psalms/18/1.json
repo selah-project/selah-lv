@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאול",
+      "rationale": "Šeit Šauls — ķēniņš, nevis šeols; saunas rakstība vienāda, norāda tikai konteksts."
+    },
+    {
+      "kind": "elision",
+      "subject": "כף",
+      "rationale": "'Plauksta' turota burtiski — do rokas dobums, no kā viņš izrauts."
+    },
+    {
+      "kind": "you",
+      "subject": "nosaukums",
+      "rationale": "Virsraksts adresē psalmu ķēniņa Davida balsī, lasītājam kā klausītājam."
+    }
+  ],
+  "translation": "Diriģentam. No Jahves kalpa, no Davida, kas runāja Jahvem ⟨את⟩ šīs dziesmas vārdus tanī dienā, kad Jahve izglāba ⟨את⟩ viņu no plaukstas visiem viņa ienaidniekiem un no Šaula rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/18\/1-4.1792527147699.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "no kalpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "no Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šīs dziesmas vārdus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dziesmas"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "izglāba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu (Davidu)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "no plaukstas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "viņa ienaidniekiem"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "un no rokas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:27.701259895Z",
+  "model": "glm-5.3"
+}

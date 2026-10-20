@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקצבי הרים",
+      "rationale": "'kalnu nogrieztie pamati' — 'kalnu saknes\/pamati' pret 'kalnu apakšas'; saglabāts 'pamati'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aizbīšiem",
+      "rationale": "בריח ir 'aizbītnis, stanga durvīm' — zeme kā cietums ar aizslēgtām durvīm."
+    },
+    {
+      "kind": "addition",
+      "subject": "Tu",
+      "rationale": "ד. ותעל ir sievišķa forma; darītājs ir Dievs — vietniekvārds pievienots latviski, ebreju tekstā nav."
+    }
+  ],
+  "translation": "Nonācu līdz kalnu pamatiem, zeme ar saviem aizbīšiem ⟨bija⟩ aiz manis uz mūžu, tomēr Tu cēli augšā no bedres manu dzīvību, Jahve, mans Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jonah\/2\/5-8.1792526428070.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "līdz pamatiem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "Nonācu (lejup)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "ar saviem aizbīšiem"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "aiz manis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžu"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "tomēr Tu cēli augšā"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "no bedres"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "manu dzīvību"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:28.076442645Z",
+  "model": "glm-5.3"
+}

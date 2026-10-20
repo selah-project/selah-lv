@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mīļotājs",
+      "rationale": "אהב היה — burtiski 'mīlētājs bija'; partizīpa forma 'mīļotājs' saglabā pastāvīgo attieksmi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל הימים",
+      "rationale": "Burtiski 'visas dienas' = 'visu laiku, vienmēr'"
+    }
+  ],
+  "translation": "Un Hirāms, Cīras ķēniņš, sūtīja ⟨את⟩ savus kalpus pie Šlomo, jo bija dzirdējis, ka ⟨את⟩ viņu ir svaidījuši par ķēniņu viņa tēva vietā, jo Hirāms visu dienu bija Dāvida mīļotājs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "091eae413b81795a8880bd1629e238b4cd8255c27c67c079ab4685478a08b2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/13-16.1792520525073.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirāms"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Cīras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus kalpus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savus kalpus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bija dzirdējis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu svaidīja par ķēniņu"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ir svaidījuši"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "viņa tēva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīļotājs"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirāms"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dāvida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:22:05.075035479Z",
+  "model": "glm-5.3"
+}

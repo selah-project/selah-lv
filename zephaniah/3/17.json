@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "crux",
+      "subject": "apklusīs",
+      "rationale": "יחריש: 'klusēs\/savaldīsies savā mīlestībā' pret 'klusinās tevi savā mīlestībā' — darbības vārda priekšmets neskaidrs"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Ciionu\/Jerušalaimu",
+      "rationale": "Vārds vērsts pie pilsētas sievišķā formā ('tavā vidū', 'par tevi')"
+    }
+  ],
+  "translation": "Jahve, tavi Elohim, ⟨ir⟩ tavā vidū, varonis, kas glābj; viņš priecāsies par tevi ar prieku, viņš apklusīs savā mīlestībā, viņš gavilēs par tevi ar dziesmu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/3\/17-20.1792526672252.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavi Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavā vidū"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "varonis"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "kas glābj"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "viņš priecāsies"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ar prieku"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "viņš apklusīs"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "savā mīlestībā"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "viņš gavilēs"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ar dziesmu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:32.252976775Z",
+  "model": "glm-5.3"
+}

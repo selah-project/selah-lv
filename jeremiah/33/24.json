@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 33:24",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jeremijam",
+      "rationale": "Jautājums tieši vērsts uz Jeremiju: 'Vai tu neredzi…'."
+    },
+    {
+      "kind": "crux",
+      "subject": "divas ģimenes",
+      "rationale": "Divas dzimtas — Israēla un Jūdas ķēniņvalstis — teksts tos nenosauc."
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "Noliegtas jautājuma daļiņas ceremoniāls svars ('vai tieši ne') latviski daļēji jāatveido aplinkus."
+    }
+  ],
+  "translation": "Vai tu neredzi, ko šī tauta runā, sacīdama: Divas ģimenes, kuras izvēlējās Jahve, un Viņš tās atmeta? Un ⟨את⟩ manu tautu viņi noniecina, ka tā vairs nav tauta viņu priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "43e02799ee645675ada8a734f6ffa7e50d29d8cfa9aceb6cbf44ef6c0a12be1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/33\/21-24.1792524096791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Vai tieši ne"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "tu redzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šī tauta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "runā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "Divas"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ģimenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izvēlējās"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tās"
+    },
+    {
+      "surface": "וימאסם",
+      "gloss": "un Viņš tās atmeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "manu tautu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manu tautu"
+    },
+    {
+      "surface": "ינאצון",
+      "gloss": "viņi noniecina"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ka nav"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "viņu priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:21:36.793145269Z",
+  "model": "glm-5.3"
+}

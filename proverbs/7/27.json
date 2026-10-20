@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju teikumā nav saikļa starp 'ceļi' un 'viņas nams'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeols",
+      "rationale": "šēols nav 'elle' ar sodu, bet paviršākākā nāves valstība; saglabāts kā šeols."
+    }
+  ],
+  "translation": "Šeola ceļi ir viņas nams — kāpjamie lejup uz nāves istabām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/7\/25-27.1792528604741.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ceļi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "viņas nams"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "kāpjamie lejup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "istabām"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāves"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:44.742076537Z",
+  "model": "glm-5.3"
+}

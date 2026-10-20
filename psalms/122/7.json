@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mūri",
+      "rationale": "חיל burtiski 'spēks\/nocietinājums' — te pilsētas aizsardmūri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ שלוה",
+      "rationale": "Divi vienas saknes vārdi — šaloms un šalva (miers\/apmierinātība) — paralēlisms."
+    }
+  ],
+  "translation": "Lai ir šaloms tavos mūros, kluss miers tavos cietokšņos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/122\/5-8.1792528347174.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Lai ir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloms"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "tavos mūros"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "kluss miers"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "tavos cietokšņos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:27.175351860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתונם נתונם",
+      "rationale": "Infinitivus absolutus atkārtojums — 'doti, doti' — pilnīgas nodošanas uzsvars, ko latviski atspoguļo atkārtojums."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    }
+  ],
+  "translation": "Un tu iedosi ⟨את⟩ levītus Aharonam un viņa dēliem — doti, doti tie ⟨ir⟩ viņam ⟨את⟩ no Jisraēla dēliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/9-12.1792515395791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Un tu iedosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levītus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levītus"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonam"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "un viņa dēliem"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "doti"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "doti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:35.791814542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "māca",
+      "rationale": "ייסר nozīmē gan 'pārmācīt ar sitieniem', gan 'mācīt'; latviski izvēlēts 'māca', jo konteksts ir tēvs un dēls"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Mozus runā tieši uz Israēlu tu formā"
+    }
+  ],
+  "translation": "Un tu zināsi ar savu sirdi, ka, kā cilvēks māca ⟨את⟩ savu dēlu, tā Jahve, tavs Elohim, tevi māca.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/8\/5-8.1792516849031.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "un tu zināsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "māca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dēlu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savu dēlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "tevi māca"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:49.032438250Z",
+  "model": "glm-5.3"
+}

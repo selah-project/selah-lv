@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lūgšanu",
+      "rationale": "אערך 'sakārtot' satur objektu tikai netieši; 'lūgšana' pievienota kā izpratnei nepieciešamais objekts."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקר … בקר",
+      "rationale": "Atkārtotais 'no rīta' rada pieaugošu ritmu; latviešu atkārtojums to saglabā."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Lūgšana vērsta tieši pie Jahves."
+    }
+  ],
+  "translation": "Jahve, no rīta Tu dzirdi manu balsi; no rīta es Tev sakārtošu ⟨lūgšanu⟩ un izraudzīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/5\/1-4.1792527056856.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Tu dzirdi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "manu balsi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "es sakārtošu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "un izraudzīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:56.860247527Z",
+  "model": "glm-5.3"
+}

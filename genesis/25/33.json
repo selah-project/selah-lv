@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Esavs",
+      "rationale": "Ebreju teksts saka tikai 'un viņš zvērēja viņam' — subjekts Esavs izriet no konteksta, latviski klāts ar pronominālu pakāpi"
+    },
+    {
+      "kind": "crux",
+      "subject": "כיום",
+      "rationale": "'kā diena' = 'šodien' (KJV) pret 'vispirms\/tagad' (LXX, JPS)"
+    }
+  ],
+  "translation": "Un Jaakovs sacīja: zvēri man šodien. Un ⟨viņš⟩ zvērēja ⟨viņam⟩, un pārdeva ⟨את⟩ savu pirmdzimtā tiesu Jaakovam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ef467dbea597f84a6a314c69b9d3035a8a08f5af3cc9f8a3e1e0fdca15b02bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/25\/33-34.1792512016848.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "zvēri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "un zvērēja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨viņam⟩"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "un pārdeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu pirmdzimtā tiesu"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "savu pirmdzimtā tiesu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:00:16.849251007Z",
+  "model": "glm-5.3"
+}

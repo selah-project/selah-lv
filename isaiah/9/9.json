@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sikomoras",
+      "rationale": "šikmā ir sikomora (vīģu koku suga), ne vienkārši 'vīģeskoks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלו\/נבנה · גדעו\/נחליף",
+      "rationale": "krīt\/celsim, cirstas\/nomainīsim — divi paralēli pretstati, lepnuma atbilde postījumam"
+    },
+    {
+      "kind": "you",
+      "subject": "Efraims un Samarijas iedzīvotāji",
+      "rationale": "pārdrošā tautas runa, ko pravietis citē — vēstījums Israēlam"
+    }
+  ],
+  "translation": "Ķieģeļi ir krituši — ar cirstu akmeni mēs celsim; sikomoras ir nocirstas — ciedrus mēs tiem ļausim ieaugt vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/9-12.1792521969190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "ķieģeļi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ir krituši"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "ar cirstu akmeni"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "mēs celsim"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikomoras"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "ir nocirstas"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "ciedrus"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "mēs tiem ļausim ieaugt vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:46:09.191389082Z",
+  "model": "glm-5.3"
+}

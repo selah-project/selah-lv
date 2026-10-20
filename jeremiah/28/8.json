@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "דבר šeit nozīmē 'mēris' (sērga), nevis 'vārds' — tas pats vārds kā Jeremijas grāmatas ievadā"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jau⟩",
+      "rationale": "latviešu skaidrībai pievienots 'jau' pie 'no senlaikiem'"
+    }
+  ],
+  "translation": "Pravieši, kas bija pirms manis un pirms tevis ⟨jau⟩ no senlaikiem, tie pravietoja pret daudzām zemēm un lielām ķēniņvalstīm — par karu, par ļaunumu un par mēri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10ce65feeb51422e51b7f8cc1c46b8c4030137e7ef1b240ef54707ca6ed6b6d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/28\/5-8.1792523945172.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "Pravieši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms manis"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "un pirms tevis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "senlaikiem"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "tie pravietoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "zemēm"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "daudzām"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ķēniņvalstīm"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lielām"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "par karu"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "par ļaunumu"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "par mēri"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:05.173884161Z",
+  "model": "glm-5.3"
+}

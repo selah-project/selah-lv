@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav darbības vārda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבים\/לרב",
+      "rationale": "Saknes רב atkārtojums — 'daudzi ... daudzumā' — latviski daļēi saglabāts"
+    }
+  ],
+  "translation": "Jehuda un Jisraēls ⟨bija⟩ daudzi kā smiltis, kas pie jūras, daudzumu ziņā — ēdot, dzerot un priecājoties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/4\/17-20.1792520337418.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēls"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzi"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kā smiltis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "daudzumu ziņā"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ēdot"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dzerot"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "un priecājoties"
+    }
+  ],
+  "timestamp": "2026-10-20T18:18:57.419787832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikla; latviešu valodai vajadzīgs 'ir darījis'."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשך",
+      "rationale": "'Kodums' — aizdevuma augļošana; latviski 'uz augļu' saglabā naudas augšanas tēlu."
+    }
+  ],
+  "translation": "Uz augļu viņš nav devis, un pieaugumu nav ņēmis, no ļaunuma savu roku atvilcis, īstenu tiesu ir darījis starp cilvēku un cilvēku,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a6bcda7248a0df85054c31e9b51858e608885f60c523058391ed70190c8642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/18\/5-8.1792525031639.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "Uz augļu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "devis"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "un pieaugumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ņēmis"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "no ļaunuma"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "atvilcis"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "īstenu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ir darījis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "un cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T19:37:11.640986302Z",
+  "model": "glm-5.3"
+}

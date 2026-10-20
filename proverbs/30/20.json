@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "און",
+      "rationale": "און ir 'niecība, posts, ļaunums' — atstāts kā 'ļaunu', zūd 'nenozīmīguma' nokrāsa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כן",
+      "rationale": "'Tāds ir' sasaista ar iepriekšējā panta četriem neatminamajiem 'ceļiem' — atbilde, kas slēpj tikpat daudz, cik atklāj"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sievai, kas pārkāpj laulību",
+      "rationale": "panti norāda uz nemanāmu ceļu, kas neatstāj pēdas — nemanāmības motīvs"
+    }
+  ],
+  "translation": "Tāds ir arī ceļš laulības pārkāpējas sievai: viņa apēd ⟨את⟩ un noslaucīja savu muti un sacīja: Es neesmu darījusi ļaunu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f7018ea4b0fe75f10f39299492deb08eda35ba68459e5cf3d96960d7682949a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/20-20.1792532841043.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tāds"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sievai"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "laulības pārkāpējas"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "apēd"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "un noslaucīja"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "esmu darījusi"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:21.043611128Z",
+  "model": "glm-5.3"
+}

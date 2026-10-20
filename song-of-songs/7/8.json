@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "vīna ķekariem",
+      "rationale": "אשכלות ir 'vīnogu ķekari' burtiski; 'vīna' pievienots konteksta dēļ, jo vārds pats tikai 'ķekars'"
+    }
+  ],
+  "translation": "Šis tavs augums līdzinās palmai, un tavas krūtis — vīna ķekariem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/7\/5-8.1792529651302.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "šis"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "tava augums"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "līdzinās"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "palmai"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "un tavas krūtis"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "ķekariem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:11.303860228Z",
+  "model": "glm-5.3"
+}

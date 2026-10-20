@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אכלתני",
+      "rationale": "Burtiski 'aprija mani' — kvēlums kā ēdošs spēks, latviski saglabāts 'aprijusi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביתך",
+      "rationale": "בית ir 'tava māja\/ģimene'; izvēlēts 'ģimenes' kā piederības kopiena, zūd 'mājas' tēls."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "Vienas saknes atkārtojums — noniecinājumi\/nošķīdētāji —, latviski atveidots ar atkārtotu sakni 'noniecināt'."
+    }
+  ],
+  "translation": "Jo tavas ģimenes degsme mani aprijusi, un tie, kas tevi noniecināja, viņu noniecinājumi gūlās pār mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/69\/9-12.1792527798881.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "degsme"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tavas ģimenes"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "mani aprijusi"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "un noniecinājumi"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "tevi noniecināja"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "gūlās"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pār mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:18.881945209Z",
+  "model": "glm-5.3"
+}

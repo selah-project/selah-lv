@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩",
+      "rationale": "Ebreju tekstā pieteiktais objekts nav izteikts — 'dotu rokā' bez objekta latviski prasa ⟨tos⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Edoma dievus",
+      "rationale": "אלהי אדום ar mazo burtu 'dievi' — tautu elki, nevis Elohim Vārds."
+    }
+  ],
+  "translation": "Bet Amacjahu neklausīja, jo tā bija no Elohim, lai ⟨tos⟩ dotu rokā, jo viņi bija vaicājuši ⟨את⟩ Edoma dievus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c73157d85abfb30c9da5ae49ebe9d8351a0879b6fb9600d18723f267b9f09d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/25\/17-20.1792532216402.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Bet neklausīja"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "neklausīja"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacjahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā bija"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "dotu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "bija vaicājuši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoma dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-20T21:36:56.404313818Z",
+  "model": "glm-5.3"
+}

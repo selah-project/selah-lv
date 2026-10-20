@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzītik vajā",
+      "rationale": "ידלק burtiski 'aizdegas\/uzliesmo' — liesmas attēls vajāšanā, latviski daļēji zudis"
+    },
+    {
+      "kind": "crux",
+      "subject": "lai viņi tiek notverti",
+      "rationale": "יתפשו kā vēlējuma izteiksme (lai notver) vai vienkārši notikums ('top notverti') — tulkotāji dalāti"
+    }
+  ],
+  "translation": "Āra lepnībā viņš dzītik vajā nabago; lai viņi tiek notverti ļaunajos nodomos, ko tie izdomājuši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/1-4.1792527146039.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "lepnībā"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "āra"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "dzītik vajā"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabago"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "tiek notverti"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "ļaunajos nodomos"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "izdomājuši"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:26.043033140Z",
+  "model": "glm-5.3"
+}

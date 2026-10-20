@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הכרית",
+      "rationale": "Burtiski 'nocirta' (kā koku); atstāstīts kā 'iznīdēja' — latviešu 'nocirst' par cilvēkiem nav dzīvs priekšstats."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešus mēnešus",
+      "rationale": "Laika mērs — seši mēneši Edomas iznīcināšanas kampaņai."
+    }
+  ],
+  "translation": "Jo sešus mēnešus Joabs un viss Jisraēls mita tur, līdz iznīdēja visu vīriešu dzimumu Edomā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/13-16.1792520693743.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sešus"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mēnešus"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "iznīdēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vīriešu"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:53.744405286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 4:10",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "barība",
+      "rationale": "לברות burtiski 'ganīt\/barot' — 'tie kļuva viņām par barību' saglabā šausmu skaidrību."
+    },
+    {
+      "kind": "idiom",
+      "subject": "meitas postā",
+      "rationale": "בת עמי 'mana ļaudī meita' — semītiskā pilsēttautas personifikācija, latviski arī 'meita'."
+    }
+  ],
+  "translation": "Saudzīgo sievu rokas savārīja ⟨את⟩ savus bērnus; tie kļuva viņām par barību mana ļaužu meitas postā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/9-12.1792529821905.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "rokas"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "רחמניות",
+      "gloss": "Saudzīgo"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "savārīja"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "savus bērnus"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kļuva"
+    },
+    {
+      "surface": "לברות",
+      "gloss": "par barību"
+    },
+    {
+      "surface": "למו",
+      "gloss": "viņām"
+    },
+    {
+      "surface": "בשבר",
+      "gloss": "postā"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mana ļaužu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:01.906705820Z",
+  "model": "glm-5.3"
+}

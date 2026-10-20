@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 34:18",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbs 'ir'; ebreju valodā to nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "nolasīja",
+      "rationale": "ויקרא būtu varētu nozīmēt arī 'aicināja', bet ar 'בו' — 'lasīja tajā'."
+    }
+  ],
+  "translation": "Un Šafans, rakstvedis, paziņoja ķēniņam un sacīja: man ir devis grāmatu Hilkijs, priesteris, un Šafans to nolasīja ķēniņa priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/17-20.1792532412462.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "un paziņoja"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafans"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "rakstvedis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ir devis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkijs"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un nolasīja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "to"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafans"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:12.463237646Z",
+  "model": "glm-5.3"
+}

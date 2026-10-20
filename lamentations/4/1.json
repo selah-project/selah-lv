@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יועם",
+      "rationale": "Sakne עומם nozīmē 'aptumšot\/darīt tumšu'; KJV 'dim', daži 'kļūt tumšs' — latviski 'aptumšots'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda izsaka pārsteigumu bez kopulas; latviešu pārsteiguma teikumam vajag 'ir'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הכתם",
+      "rationale": "ketem — 'kaltais\/tīrais zelts' tanahā reti; saglabāts kā 'tīrais zelts'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "Grāmatas nosaukums 'Eiha' atkārtojas kā katras nodaļas atvērums; latviski 'Kā!' zaudē šo saiti."
+    }
+  ],
+  "translation": "Kā ⟨ir⟩ aptumšots zelts, kā pārvērsts dārgais tīrais zelts! Izlietas ⟨ir⟩ svētuma akmeņi katras ielas galā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/1-4.1792529843767.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "aptumšots"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelts"
+    },
+    {
+      "surface": "יושנא",
+      "gloss": "pārvērsts"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "tīrais zelts"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dārgais"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "izlietas"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "akmeņi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "galā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katras"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ielas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:23.768264109Z",
+  "model": "glm-5.3"
+}

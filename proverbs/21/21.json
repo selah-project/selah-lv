@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "Ebreju darāmajā vārdā nav subjekta; partizipa subjekts pievienots latviski."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה…צדקה",
+      "rationale": "Vārds cedek parādās divreiz — dzenas pēc tā un to atrod; atkārtojums saglabāts."
+    }
+  ],
+  "translation": "Kas dzenas pēc cedek un hesed, atrod dzīvību, cedek un godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/21\/21-24.1792528772907.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "kas dzenas pēc"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "un hesed"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "atrod"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "un godu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:32.907964417Z",
+  "model": "glm-5.3"
+}

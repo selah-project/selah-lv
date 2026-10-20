@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש nav 'dvēsele' klasiskajā nozīmē — tuvāk rīkle\/dzīvības spēks; saglabāts kā nefes"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלצי מואב",
+      "rationale": "'Moaba bruņotie' (karavīri) pret 'Moaba karojošie jostas' — חלוץ no 'izraut\/bruņoties'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "'Uz tā' — burtiski 'uz šā pamata'; tulkots 'tāpēc'"
+    }
+  ],
+  "translation": "Un Hešbona iekliedzās un Elale, līdz Jahacam tiek dzirdēta to balss; tāpēc Moaba bruņotie sauc, viņa nefes viņā iekšēji vaid.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/15\/1-4.1792522088342.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "iekliedzās"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbona"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "un Elale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "Jahacam"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tiek dzirdēta"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "to balss"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "šā"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "bruņotie"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa nefes"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņā iekšēji"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:08.343924842Z",
+  "model": "glm-5.3"
+}

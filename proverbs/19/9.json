@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tas, kurš",
+      "rationale": "Hebrew uses the participle ויפיח 'un tas, kas izpūš'; latviešu valodai vajadzīgs saistītājs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקרים\/כזבים",
+      "rationale": "Divi dažādi vārdi 'meliem' vienā pantā — sinonīmu paralēlisms, latviski abi kā 'melus'"
+    }
+  ],
+  "translation": "Melīgs liecinieks netiks attaisnots, un tas, kurš izpūš melus, ies bojā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/19\/9-12.1792528788911.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "liecinieks"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "melīgs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "tiks attaisnots"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "un izpūš"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "melus"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ies bojā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:48.912636943Z",
+  "model": "glm-5.3"
+}

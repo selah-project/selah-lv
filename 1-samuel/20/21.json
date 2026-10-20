@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 20:21",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אמר אמר",
+      "rationale": "Infinitīva absolūta atkārtojums — 'ja skaidri teikšu', uzsvars uz izteikuma apņemšanos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "Burtiski 'un nav vārda (lietas)' — atstāts kā 'nav nekā ļauna' pēc konteksta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי יהוה",
+      "rationale": "Zvēresta formula 'dzīvs ir Jahve' — latviski uzturēta kā salikums bez 'kā'."
+    }
+  ],
+  "translation": "Un lūk, es sūtīšu ⟨את⟩ puisēnu: ej, atrodi ⟨את⟩ bultas. Ja es skaidri teikšu puisēnam: Lūk, bultas no tevis šurpu — ņem tās un nāc, jo tev ⟨ir⟩ šaloms un nav nekā ļauna — dzīvs ir Jahve!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/20\/21-24.1792519233744.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Un lūk"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "es sūtīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puisēnu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "puisēnu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "atrodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bultas"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "bultas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "teikšu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "skaidri teikšu"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "puisēnam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "bultas"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un šurpu"
+    },
+    {
+      "surface": "קחנו",
+      "gloss": "ņem tās"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "un nāc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloms"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nekā ļauna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:33.744962778Z",
+  "model": "glm-5.3"
+}

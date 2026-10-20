@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izredzētos",
+      "rationale": "בחור תurētā no bāḥar 'izvēlēties' — šeit daļējs vietniekvārds 'izvēlētie vīri'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit tūkstoš",
+      "rationale": "Skaitļa uzskaitījums — karaspēka\/imporu skaits."
+    }
+  ],
+  "translation": "Un vēlreiz Davids sapulcēja ⟨את⟩ visus izredzētos Jisraēlā, trīsdesmit tūkstoš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/6\/1-4.1792519783224.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "un vēlreiz sapulcēja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus izredzētos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "izredzētos"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoš"
+    }
+  ],
+  "timestamp": "2026-10-20T18:09:43.225171513Z",
+  "model": "glm-5.3"
+}

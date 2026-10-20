@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "latviešu valodai vajadzīga saite, ko ebreju teksts neizsaka."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pieci — pieci",
+      "rationale": "upuru skaits sasaistīts ar piecu filistiešu pilsētvaldnieku skaitu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עפלי",
+      "rationale": "טחורים\/עפל 'augonis' — rets vārds; daudzi tulkojumos to mīkstina par 'kaiti'."
+    },
+    {
+      "kind": "crux",
+      "subject": "סרני",
+      "rationale": "filistiešu pilsētu valdnieku īpašais tituls 'serens' — ne ķēniņš, ne firsts; latviski 'valdnieks' kā piekāpšanās."
+    }
+  ],
+  "translation": "Un viņi sacīja: Kāds ir vainas upuris, ko atmaksāsim viņam? Un viņi sacīja: Pēc filistiešu valdnieku skaita — pieci zelta augoņi un pieci zelta peles, jo viens mēris ⟨ir⟩ visiem un jūsu valdniekiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/6\/1-4.1792518895948.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kāds"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ir vainas upuris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "atmaksāsim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Pēc skaita"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "valdnieku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "zelta augoņi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "un pieci"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "zelta peles"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "mēris"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viens"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "un jūsu valdniekiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:55.949970471Z",
+  "model": "glm-5.3"
+}

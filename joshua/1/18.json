@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tavai mutei",
+      "rationale": "jamará et piká — burtiski 'rūgtinās tavu muti', t.i. 'pretojas tavai mutei = tavai pavēlei'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiek nogalināts",
+      "rationale": "jumát — puʿal 'lai tiek nogalināts' (KJV 'he shall be put to death')"
+    },
+    {
+      "kind": "you",
+      "subject": "Jozuam",
+      "rationale": "Cilts priekšnieki runā tieši ar Jozuu: 'tikai esi stiprs un drošsirdīgs' — atbalss 1:6,7,9"
+    }
+  ],
+  "translation": "Katrs vīrs, kas pretojas ⟨את⟩ tavai mutei un neklausa ⟨את⟩ tavus vārdus visā, ko tu viņam pavēlēsi, lai tas tiek nogalināts; tikai esi stiprs un drošsirdīgs!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/1\/17-18.1792517541681.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "pretojas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavai mutei"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavai mutei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "klausa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavus vārdus"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavus vārdus"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "tu viņam pavēlēsi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "lai tiek nogalināts"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "esi stiprs"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "un drošsirdīgs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:32:21.682502510Z",
+  "model": "glm-5.3"
+}

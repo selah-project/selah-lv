@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "grupas",
+      "rationale": "Ebreju 'todot' ir tikai 'pateicības'; grupas vārds pievienots skaidrībai latviešu valodā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעל לחומה",
+      "rationale": "Atkārtota frāze 'uz mūri' divreiz panti — gājiena struktūra uz sienas"
+    }
+  ],
+  "translation": "Un es uzcēlu ⟨את⟩ Jehudas firstus uz mūri un liku divas lielas pateicības ⟨grupas⟩ ar gājieniem pa labo pusi uz mūri, līdz Mēslu vārtiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/12\/29-32.1792530848418.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "un es uzcēlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudas firstus"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "firstus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "mūri"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "un liku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "divas"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "pateicības"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "lielas"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "ar gājieniem"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "pa labo pusi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "mūri"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "līdz vārtiem"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "Mēslu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:08.420020693Z",
+  "model": "glm-5.3"
+}

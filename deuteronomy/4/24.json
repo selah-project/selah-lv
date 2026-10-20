@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju tekstā nav saikles; latviešu valodai tā vajadzīga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עש אכלה",
+      "rationale": "burtiski 'uguns, kas ēd' — parasti 'degoša\/aprijoša uguns'; saglabāts burtiskais 'ēdoša'"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנא",
+      "rationale": "'greizsirdīgs\/skaudīgs Dievs' pret 'kvēli uzticīgs' — קנא apzīmē dedzīgu, ekskluzīvu piederību"
+    }
+  ],
+  "translation": "Jo Jahve, tavs Elohim, ⟨ir⟩ ēdoša uguns, Viņš ir El, kas skaudīgi mīl.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "607d27bfe5f5194818b9c4e2d4746637a218101a72ecdf3e26a10a3c58ca252f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/4\/21-24.1792516713661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ēdoša"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš ir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "kas skaudīgi mīl"
+    }
+  ],
+  "timestamp": "2026-10-20T17:18:33.664255323Z",
+  "model": "glm-5.3"
+}

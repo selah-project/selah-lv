@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 50:43",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נרפו ידיו",
+      "rationale": "Burtiski 'viņa rokas kļuva šļauganas' — idioms par drošsardzības zaudēšanu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ שמעם",
+      "rationale": "Saknes atkārtojums: ķēniņš 'dzirdēja' (שמע) 'viņu dzirdamo' (שמעם)"
+    }
+  ],
+  "translation": "Bābeles ķēniņš dzirdēja ⟨את⟩ viņu ziņu, un viņa rokas norea; ciešanas viņu sagrāba, dzemdību sāpes kā dzemdētājai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "22529a4aa78b625975bacc5724d3aaa47317826c49d3153e04d2392c9676087f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/50\/41-44.1792524565758.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu ziņu"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "viņu ziņu"
+    },
+    {
+      "surface": "ורפו",
+      "gloss": "un norea"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "viņa rokas"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ciešanas"
+    },
+    {
+      "surface": "החזיקתהו",
+      "gloss": "viņu sagrāba"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dzemdību sāpes"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kā dzemdētājai"
+    }
+  ],
+  "timestamp": "2026-10-20T19:29:25.759762849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "acīs",
+      "rationale": "בעיני 'kāda acīs' — ebreju idiomats 'kāda skatījumā', latviski atstāts burtiski 'acīs'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Ebreju darbības vārdam ומצא nav atsevišķa subjekta; latviski pievienots 'tu', lai sasaistītu ar 3:1 dēlu"
+    }
+  ],
+  "translation": "Tā tu atradīsi labvēlību un labu saprašanu Elohim un cilvēku acīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/1-4.1792528576609.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "un atradīsi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "labvēlība"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "un saprašana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "un cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:16.610735712Z",
+  "model": "glm-5.3"
+}

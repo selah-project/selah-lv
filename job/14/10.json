@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Ebreju 'un kur?' bez prievārda; latviešu valodai vajag piederību"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגוע",
+      "rationale": "'izlaida elpu' burtiski 'izelpoja' — nāves apraksts caur elpošanu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר \/ אדם",
+      "rationale": "Divi vārdi cilvēkam — 'spēcīgais vīrs' un 'mirstīgais' — vienā pantā, kontrasts zūd"
+    }
+  ],
+  "translation": "Bet cilvēks mirst un novājē; cilvēks izlaiž elpu — un kur ⟨viņš⟩ ir?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/14\/9-12.1792529097467.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "Bet cilvēks"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirst"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "novājē"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "izlaiž elpu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "un kur ⟨viņš⟩ ir"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:57.468697826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apciemoja",
+      "rationale": "פקד ir 'apciemot\/atcerēties ar uzmanību' — nav viena latviešu vārda, kas aptver gan svētību, gan pieminēšanu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs dēlus un divas meitas",
+      "rationale": "bērnu skaits uzskaitīts precīzi"
+    }
+  ],
+  "translation": "Un Jahve apciemoja ⟨את⟩ Hanu, un viņa ieņēma bērnu un dzemdēja trīs dēlus un divas meitas; un jauneklis Šemuēls auga kopā ar Jahvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/21-24.1792518721265.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "apciemoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanu"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "un viņa ieņēma bērnu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "un dzemdēja"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "un divas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "un auga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēls"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:01.266074274Z",
+  "model": "glm-5.3"
+}

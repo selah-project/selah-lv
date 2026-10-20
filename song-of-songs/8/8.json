@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "kad par viņu runās",
+      "rationale": "שידבר בה: 'kad par viņu runās' — līgavainis runās par līgavu, vai 'kad viņu bildinās'; tulkotāji dalās"
+    },
+    {
+      "kind": "you",
+      "subject": "brāļi",
+      "rationale": "Brāļu balsis vēršas viena pie otra par māsu — aplēta aplēse kāzas"
+    }
+  ],
+  "translation": "Māsa mums ⟨ir⟩ maziņa, un krūtis viņai nav; ko darīsim mūsu māsai dienā, kad par viņu runās?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9098b11e746638cbd26bb6a602a3dae4d1df9e7276c00bce57c015b926fc2689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/8-8.1792532844779.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "māsa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "maziņa"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "un krūtis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darīsim"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "mūsu māsai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "kad runās"
+    },
+    {
+      "surface": "בה",
+      "gloss": "par viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:24.779800474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהררי אלף (nākamajā pantā) — šeit ממכלאתיך",
+      "rationale": "mikla'ot: kūtis\/aploki; daži lasa 'no tavām aplokām'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve runā pret dievkalpotāju",
+      "rationale": "tieša uzruna otrajā personā"
+    }
+  ],
+  "translation": "Neņemšu no tavas mājas vērsi, no tavām kūtīm āžus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/9-12.1792527573736.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ņemšu"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "no tavas mājas"
+    },
+    {
+      "surface": "פר",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "no tavām kūtīm"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "āžus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:33.737025131Z",
+  "model": "glm-5.3"
+}

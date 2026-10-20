@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa pie חפצו"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Ebreju idiomatiskais pretstatu savienojums 'bet drīzāk'; tulkots kā viens 'Bet'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהגה",
+      "rationale": "הגה nozīmē klusi murmināt — skaitīt Tora skaņā, ne tikai domāt"
+    }
+  ],
+  "translation": "Bet viņa patika ⟨ir⟩ Jahves Torā, un par Viņa Toru viņš pārdomā dienu un nakti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/1\/1-4.1792527053821.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Torā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "viņa patika"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "par Viņa Toru"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "pārdomā"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un nakti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:53.824273634Z",
+  "model": "glm-5.3"
+}

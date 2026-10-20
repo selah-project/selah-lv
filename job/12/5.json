@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lāpa nicināta",
+      "rationale": "נכון למועדי רגל: 'gatava tiem, kuru pēda svārstās' — KJV\/pārskats 'kas gatavs slīdēt ar kājām' pret YLT 'sagatavota slīdošajiem'; īsais teikums bez darbības vārda padara subjektu nenoteiktu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iedomās",
+      "rationale": "עשתות — 'pārdomas, iekšējas domas'; latviski 'iedomas' tuvākais viens vārds."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עשתות",
+      "rationale": "Vārds Tanahā sastopams tikai šeit (un Job 37:19 formā)."
+    }
+  ],
+  "translation": "Lāpa — nicināta droši paļāvīgo iedomās, gatava tiem, kuru pēda svārstās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/5-8.1792529116568.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "lāpa"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "nicināta"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "iedomās"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "droši paļāvīgo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gatava"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "tiem, kas svārstās"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pēda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:16.569009601Z",
+  "model": "glm-5.3"
+}

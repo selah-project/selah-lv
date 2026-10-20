@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "varu",
+      "rationale": "נחשת ir varš; 'bronzs' vai 'varš' — tradicionāli 'brass' angļu tulkojumos ir neprecīzi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא...לא",
+      "rationale": "atkārtotais noliegums veido paralelismu: ne trūkumā, ne kā netrūks"
+    }
+  ],
+  "translation": "Zeme, kurā tu ēdīsi maizi bez trūkuma, netrūks tev tur ne kā; zeme, kuras akmeņi ir dzelzs, un no kuras kalniem tu izcirtīsi varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/8\/9-12.1792516784795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "trūkuma"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu ēdīsi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "netrūks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kā"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tev tur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "akmeņi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dzelzs"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "no kuras kalniem"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "izcirtīsi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:19:44.796491816Z",
+  "model": "glm-5.3"
+}

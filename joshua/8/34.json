@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izlasīja",
+      "rationale": "קרא šeit nozīmē 'lasīt skaļi \/ pasludināt' — tas pats vārds, kas 'saukt'; latviešu valodā viens darbības vārds jāizvēlas."
+    }
+  ],
+  "translation": "Un pēc tam viņš izlasīja ⟨את⟩ visus Toras vārdus, svētību un lāstu, pēc visa, kas rakstīts Toras grāmatā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/8\/33-35.1792517695131.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "izlasīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus Toras vārdus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "svētību"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "un lāstu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pēc visa"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "kas rakstīts"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toras"
+    }
+  ],
+  "timestamp": "2026-10-20T17:34:55.132032914Z",
+  "model": "glm-5.3"
+}

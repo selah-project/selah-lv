@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Darbības vārda darātājs ebrejiski izteikts galotnē jussīvā; latviski pievienots 'tie'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinors",
+      "rationale": "כנור ir īpašs ebreju stīgu instruments, paturēts pēc skanējuma kā 'kinors'"
+    }
+  ],
+  "translation": "Lai tie slavina viņa Vārdu dejā, ar bungām un kinoru lai viņam muzicē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/149\/1-4.1792528525315.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lai tie slavina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "viņa Vārdu"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "dejā"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ar bungām"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "un kinoru"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "lai muzicē"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:25.316402309Z",
+  "model": "glm-5.3"
+}

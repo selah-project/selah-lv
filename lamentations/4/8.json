@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "4:7 pret 4:8",
+      "rationale": "Pretstats: sniegs\/piens\/safīrs (4:7) pret kvēpu un koku — 'kļuva' (היה) atkārto pāreju no spožuma uz tumsu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaigs",
+      "rationale": "תאר ir 'izskats, stāvs' — visa seja; 'vaigs' tur latviešu metonīmiju"
+    }
+  ],
+  "translation": "Tumšāks par kvēpu kļuva viņu vaigs; uz ielām viņus vairs nepazīst; pie kauliem pielipusi viņu āda, izkaltuši — kļuvuši kā koks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5d9049c9d621b511ba8583cc2adb98ad3709e98fa36039fed1e438e3aa456605",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/5-8.1792529838346.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "tumšāks kļuva"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "par kvēpu"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "viņu vaigs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vairs ne"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "pazīst"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "uz ielām"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "pielipusi"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "viņu āda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "kauliem"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "izkaltuši"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kļuvuši"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kā koks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:18.348066079Z",
+  "model": "glm-5.3"
+}

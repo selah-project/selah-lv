@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלשן",
+      "rationale": "root 'to tongue' = slander\/accuse; KJV 'accuse', JPS 'slander'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "second-person prohibition and consequence, addressee unnamed"
+    }
+  ],
+  "translation": "Nesāc kalpu pie viņa kunga, lai viņš tevi nenolād un tu nekļūsti vainīgs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/9-12.1792528910771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "sāc"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kalpu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "viņa kunga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "nenolād tevi"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "nekļūsti vainīgs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:50.772120170Z",
+  "model": "glm-5.3"
+}

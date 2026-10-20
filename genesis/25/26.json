@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 25:26",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב \/ יעקב",
+      "rationale": "Jaakova vārds (ʿaqev — papēdis) būvēts no papēža tvēriena; zaudēts latviski"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija ... vecs",
+      "rationale": "'ben šišim šana' burtiski 'sešdesmit gadu dēls' — latviski pievienota kopula un 'vecs'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešdesmit gadu",
+      "rationale": "Jichaka vecums dzimšanas brīdī"
+    }
+  ],
+  "translation": "Un pēc tam iznāca viņa brālis, un viņa roka turēja Ēsava papēdi, un viņš nosauca viņa vārdu — Jaakovs; un Jichaks bija sešdesmit gadus vecs, kad viņa tos dzemdēja ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "237baeeeb3c46526a25851492aea4667fd342e45a33a581a82200cab0c2bc346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/25\/25-28.1792512059213.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iznāca"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "viņa brālis"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "un viņa roka"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "turēja"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "papēdi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ēsava"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un nosauca"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "viņa vārdu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "un Jichaks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sešdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "kad dzemdēja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tos (abu dvīņus)"
+    }
+  ],
+  "timestamp": "2026-10-20T16:00:59.214522697Z",
+  "model": "glm-5.3"
+}

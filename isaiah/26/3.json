@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "Atkārtotais 'miers, miers' — intensitātes dubultojums, latviski saglabāts ar atkārtojumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "nodoms",
+      "rationale": "יֵצֶר: 'nodoms\/iecelojums' pret 'doma\/padoms' — KJV 'mind', JPS 'mind stayed'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Vietniekvārds pievienots skaidrībai — ebreju valodā teikumā nav."
+    }
+  ],
+  "translation": "Pārliecinātu nodomu Tu sargā mierā, mierā, jo uz Tevi ⟨tas⟩ paļaujas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/1-4.1792522287507.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "nodomu"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "pārliecinātu — atbalstītu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Tu sargā"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mierā"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mierā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uz Tevi"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "paļaujas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:27.507950712Z",
+  "model": "glm-5.3"
+}

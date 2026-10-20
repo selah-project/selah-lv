@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בזיותיה",
+      "rationale": "Bizjotja — vietvārds, Tanahā sastopams tikai šeit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חצר שועל",
+      "rationale": "באר שבע — 'zvēresta aka' pret שבע 'septiņi'; nosaukuma divskaidrība zūd latviski."
+    }
+  ],
+  "translation": "un Hasaru-Šualu, un Beer-Ševu, un Bizjotjau —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8046b6b571d49df9b78b06538d641dbfdfd86b5c30c96199f6afc5270ff5098b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/15\/25-28.1792517887479.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "un Hasaru"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Šualu"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "un Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševu"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "un Bizjotjau"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:07.480840083Z",
+  "model": "glm-5.3"
+}

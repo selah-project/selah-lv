@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Burtiski 'ar zobena muti' — ebreju idiomā 'asmens mala'; saglabāts burtiskais attēls."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החרים",
+      "rationale": "חרם — 'padarīt par lērumu, veltīt iznīcināšanai'; latviski 'pilnīgi iznīcināt' zaudē kulta banīšanas jēgu."
+    },
+    {
+      "kind": "crux",
+      "subject": "Agags",
+      "rationale": "Vārds var būt amalekiešu ķēniņu tituls, nevis personvārds."
+    }
+  ],
+  "translation": "Un viņš sagūstīja ⟨את⟩ Agagu, Amaleka ķēniņu, dzīvu, un ⟨את⟩ visu tautu viņš pilnīgi iznīcināja ar zobena muti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/5-8.1792519079248.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Un sagūstīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagu"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu tautu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "pilnīgi iznīcināja (lerim)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ar muti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    }
+  ],
+  "timestamp": "2026-10-20T17:57:59.250256486Z",
+  "model": "glm-5.3"
+}

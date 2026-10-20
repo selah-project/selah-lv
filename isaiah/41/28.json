@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Ebreju וישיבו דבר burtiski 'un viņi atbildēja vārdu'; konteksts (nav neviena) prasa noliegumu ⟨ne⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישיבו דבר",
+      "rationale": "YLT lasa 'un viņi atgriež vārdu' kā apstiprinājumu; vairums tulku — 'nespēja atbildēt ne vārda'."
+    }
+  ],
+  "translation": "Un Es redzēju: nav neviena vīra, un starp šiem nav padomdevēja; un Es tos vaicāju, un viņi neatbildēja ⟨ne⟩ vārda.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/41\/25-28.1792522662504.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Un Es redzēju"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviena vīra"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "un starp šiem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "padomdevēja"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "un Es tos vaicāju"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "un viņi neatbildēja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:42.505456803Z",
+  "model": "glm-5.3"
+}

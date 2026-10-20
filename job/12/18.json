@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 12:18",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "važas",
+      "rationale": "מוסר var nozīmēt gan 'važas\/saites', gan 'mācība\/disciplīna'; šeit lielākā daļa tulkojumu izvēlas 'važas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar jostu",
+      "rationale": "דائر daudzskaitliska forma 'gurniem' latviski dots kā 'gurnos', josta pievienota no konteksta"
+    }
+  ],
+  "translation": "Viņš atver ķēniņu važas un apjož viņu gurnus ar jostu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/17-20.1792529096215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "važas"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atver"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "un apjož"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ar jostu"
+    },
+    {
+      "surface": "במתניהם",
+      "gloss": "viņu gurnos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:56.216781031Z",
+  "model": "glm-5.3"
+}

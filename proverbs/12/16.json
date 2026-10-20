@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kaunu",
+      "rationale": "קלון 'kauns\/apkaunojums': vai apdomīgais sedz savu kaunu, vai piedzīvoto apvainojumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערום",
+      "rationale": "Skan tāpat kā ערום 'kails' (1. Mozus 2:25) — 'viltīgais' un 'plikais' dalina vienus burtus; latviski zūd."
+    }
+  ],
+  "translation": "Muļķa dusmas tajā pašā dienā tiek atzītas, bet apdomīgais sedz kaunu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "568088875a3e3f67ab8b6df22578811a49054c1bbbfc42cb555f6085024591fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/13-16.1792528678849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Muļķa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā pašā dienā"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tiek atzītas"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "dusmas"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "bet ... sedz"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kaunu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "apdomīgais"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:58.850146331Z",
+  "model": "glm-5.3"
+}

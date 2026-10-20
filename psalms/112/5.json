@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; teikuma sākums ir bez darbības vārda."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפט",
+      "rationale": "'tiesa\/taisnība' pret 'apdomība' (KJV 'discretion') — ebreju vārds nozīmē tiesas spriedumu, taisnīgu kārtību."
+    }
+  ],
+  "translation": "Labs ⟨ir⟩ vīrs, kas žēlo un aizdod; savas lietas viņš uztur tiesā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/112\/5-8.1792528223511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "žēlo"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "un aizdod"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "uztur"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "savas lietas"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:23.511849909Z",
+  "model": "glm-5.3"
+}

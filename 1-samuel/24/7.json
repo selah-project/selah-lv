@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "Burtiski 'profanēta lieta man no Jahves' — zvēresta forma 'lai tas būtu tālu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītais",
+      "rationale": "משיח par ķēniņu — 'svaidītais', nevis 'Mašiahs' vai vēlākā nozīme"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebrejdarbības vārda nav; 'הוא' ir uzsvērums — 'viņš ir'"
+    },
+    {
+      "kind": "you",
+      "subject": "pret saviem vīriem",
+      "rationale": "Davida runa vērsta uz saviem vīriem, lai tos aizkavētu"
+    }
+  ],
+  "translation": "Un viņš sacīja saviem vīriem: Lai tas būtu tālu no manis no Jahves, ka es daru ⟨את⟩ šo lietu savam kungam, Jahves svaidītajam, — izstiept savu roku pret viņu, jo Jahves svaidītais ⟨ir⟩ viņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/5-8.1792519404170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "saviem vīriem"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Lai tas būtu tālu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "no Jahves"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "es daru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo lietu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lietu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "savam kungam"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "svaidītajam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "izstiept"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pret viņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "svaidītais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:24.171166340Z",
+  "model": "glm-5.3"
+}

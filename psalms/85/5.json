@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וְהָפֵר",
+      "rationale": "'lauzt, izjaukt' — te par dusmu atcelšanu; atveidots kā 'atcels'"
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Elohim",
+      "rationale": "Pants vērsts tieši pie Elohim ar pavēli 'Atgriez mūs'"
+    }
+  ],
+  "translation": "Atgriez mūs, mūsu glābiņa Elohim, un atcels savu niknumu pret mums!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/85\/5-8.1792527995083.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Atgriez mūs"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mūsu glābiņa"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "un atcels"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "savu niknumu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pret mums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:35.083989484Z",
+  "model": "glm-5.3"
+}

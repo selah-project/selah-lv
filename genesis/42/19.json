@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משמרכם",
+      "rationale": "'jūsu apcietinājums' — īpašnieka forma; atbalso 42:17 משמר"
+    },
+    {
+      "kind": "you",
+      "subject": "Jāzeps runā pret brāļiem",
+      "rationale": "nosacījuma teikums ar pavēlēm 'ejiet, atnesiet'"
+    }
+  ],
+  "translation": "Ja esat patiesi, tad viens no jūsu brāļiem lai tiek sasiets jūsu apcietinājuma namā, bet jūs ejiet, atnesiet labību badam jūsu namiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/42\/17-20.1792512481563.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "patiesi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "esat jūs"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsu brāļiem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "lai tiek sasiets"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "jūsu apcietinājuma"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "bet jūs"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ejiet"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "atnesiet"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "labību"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "badam"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "jūsu namim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:01.564619408Z",
+  "model": "glm-5.3"
+}

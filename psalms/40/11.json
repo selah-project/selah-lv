@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד tulkots kā 'hesed' pēc D2 noteikuma — 'žēlastība' vien būtu par šauru."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה patur saknes formu 'cedek', kas ietver taisnību un svētumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא כסיתי \/ לא כחדתי",
+      "rationale": "Divi nolieguma verbi ar līdzīgu skanējumu (k-s-t \/ k-h-d) veido paralēli, kas latviski daļēji saglabāta ar 'neslēpu' atkārtojumu."
+    }
+  ],
+  "translation": "Savu cedek es neslēpu sirds dziļumos; par Tavu uzticību un Tavu glābšanu es runāju, savu hesed un savu patiesību neslēpu lielajā saietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13a4435080fcc83515ff9566b63af3558c78eaf87d36d67f28c2ff6bd4928c2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/10-11.1792532776469.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Savu cedek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "slēpu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dziļumos"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "Tavu uzticību"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "un Tavu glābšanu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "es runāju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "neslēpu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "savu hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "un savu patiesību"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "saietā"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielajā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:16.470523774Z",
+  "model": "glm-5.3"
+}

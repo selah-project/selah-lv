@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtība — rīkle, elpa, dzīvības spēks, ne dvēsele Platona nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "pestīšana maniem vaibstiem",
+      "rationale": "ישועת פני burtiski 'mana vaiga pestīšana'; BSB 'mans Pestītājs', KJV 'mana vaiga veselība'"
+    },
+    {
+      "kind": "you",
+      "subject": "dvēseles uzruna",
+      "rationale": "Dzejnieks runā pats ar savu nefes — refreīns, kas atkārtojas 43:5"
+    }
+  ],
+  "translation": "Kāpēc esi nomākta, mana dvēsele, un kāpēc duc manī? Gaidi uz Elohim, jo vēl Viņu atzīšu — pestīšana maniem vaibstiem un mans Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/42\/9-12.1792527499365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "esi nomākta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un kāpēc"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "duc"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "gaidi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uz Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Viņu atzīšu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pestīšana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maniem vaibstiem"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "un mans Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:19.366309363Z",
+  "model": "glm-5.3"
+}

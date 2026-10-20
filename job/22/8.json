@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pieder⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda — 'vīram ar roku ir zeme' latviski prasa predikātu"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשוא פנים",
+      "rationale": "Burtiski 'pacelta seja' — tas, kam paceļ seju (godājamais, pieņemtais); Bībeles valodā tas parasti nozīmē 'piekāpības izrādītājs', bet šeit pretēji 'godātais'; daži lasa kā apsūdzību par vājo apspiešanu, citi kā Elifaza apgalvojumu 'spēcīgais valda zemi un neviens viņu neaizskar'"
+    }
+  ],
+  "translation": "Un vīram ar spēcīgu roku — viņam ⟨pieder⟩ zeme, un seju-celājs apdzīvo to.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/5-8.1792529308128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "un vīrs"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ar spēcīgu roku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "un celts"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "seju"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "apdzīvo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:28.129630624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Runas ievadījums `sakot` — ebreju piezīmes parasto runas marķieri."
+    }
+  ],
+  "translation": "Un Avrahams krita uz sava vaiga, un Elohim runāja ⟨ar⟩ ⟨את⟩ viņu, sakot:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/17\/1-4.1792511820053.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Un krita"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sava vaiga"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    }
+  ],
+  "timestamp": "2026-10-20T15:57:00.054462569Z",
+  "model": "glm-5.3"
+}

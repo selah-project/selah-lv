@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כמים",
+      "rationale": "מים ir 'ūdeņi' daudzskaitlī; latviski 'kā ūdeņi' saglabā pārpilnības bildi"
+    }
+  ],
+  "translation": "Apņēma mani kā ūdeņi visu dienu, ielenca mani kopā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/88\/17-19.1792527988444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "apņēma mani"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kā ūdeņi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "ielenca"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:28.445220593Z",
+  "model": "glm-5.3"
+}

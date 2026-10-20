@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "היו יראים",
+      "rationale": "būt + bīties: ‘bija bijuši baiļu pilni’, latviskoti ‘viņi bijās’."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר הגלו אתם",
+      "rationale": "‘kuras viņi (asīrieši) aizveda no turienes’ pret ‘kuras tika aizvestas no turienes’ — darājs nav norādīts."
+    }
+  ],
+  "translation": "⟨את⟩ Jahvi viņi bijās, un ⟨את⟩ saviem dieviem viņi kalpoja pēc tautu paražām, kuras tika aizvestas no turienes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/33-36.1792521560630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bijās"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "saviem dieviem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "saviem dieviem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kalpoja"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "pēc paražām"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "tika aizvestas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tautas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "no turienes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:20.631385396Z",
+  "model": "glm-5.3"
+}

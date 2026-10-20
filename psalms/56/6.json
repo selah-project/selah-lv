@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sagroza",
+      "rationale": "יעצבו no עצב 'kalt\/kalt dimantus': 'sagroza manus vārdus' (KJV) pret 'kaitē manus lietām' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי\/יעצבו",
+      "rationale": "atkārtota sakne דבר ar 56:5 'דברו — vārds' pret vārdiem, kas tiek grozīti; latviski atbalss daļēi zūd"
+    }
+  ],
+  "translation": "Visu dienu manus vārdus viņi sagroza, pret mani visi viņu nodomi — ļaunumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/56\/5-8.1792527718813.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "manus vārdus"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "viņi sagroza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "viņu nodomi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ļaunumam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:58.814072058Z",
+  "model": "glm-5.3"
+}

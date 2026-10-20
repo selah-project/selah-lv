@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרם \/ ויתנכר",
+      "rationale": "Abi darbības vārdi no vienas saknes נכר: 'pazina' pret 'izlikās svešs' — atpazīšanas spēle vienā saknē."
+    },
+    {
+      "kind": "you",
+      "subject": "Jozefa brāļi",
+      "rationale": "Jozefs tieši uzrunā brāļus ar jautājumu 'No kurienes jūs esat atnākuši?'."
+    }
+  ],
+  "translation": "Un Jozefs ieraudzīja ⟨את⟩ savus brāļus un pazina viņus, bet izlikās tiem svešs un runāja ar ⟨את⟩ viņiem stingri; un viņš sacīja tiem: No kurienes jūs esat atnākuši? Un viņi sacīja: No Kenaana zemes, pirkt pārtiku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/42\/5-8.1792512499847.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un ieraudzīja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus brāļus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savus brāļus"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "un pazina viņus"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "un izlikās svešs"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "stingri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "No kurienes"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "jūs esat atnākuši"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "No zemes"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pirkt"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pārtiku"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:19.848761206Z",
+  "model": "glm-5.3"
+}

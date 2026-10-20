@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apsēja to ar sāli",
+      "rationale": "sēšana ar sāli ir ceremoniāla mūžīgaspostas zīme, nevis reāla lauksaimniecība"
+    },
+    {
+      "kind": "elision",
+      "subject": "בה",
+      "rationale": "‘tanī’ — ebreja lokāmais prievārds apvienots ar pilsētas sievišķo dzimumu"
+    }
+  ],
+  "translation": "Un Avimelehs cīnījās pret pilsētu visu to dienu, un ieņēma ⟨את⟩ pilsētu un ⟨את⟩ ļaudis, kas tanī bija, nogalināja, un nogāza pilsētu un apsēja to ar sāli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b9b5598747c22d35b35a73be3d1eb0ea55eb6e528e71e9225809a711a7ad4243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/45-48.1792518417157.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Un Avimelehs"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "cīnījās"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pret pilsētu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "un ieņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "ļaudis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nogalināja"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "un nogāza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "un apsēja to"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ar sāli"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:57.158093029Z",
+  "model": "glm-5.3"
+}

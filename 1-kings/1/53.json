@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 1:53",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņam",
+      "rationale": "Hebrew pronominal לו exists; the bracketed ⟨viņam⟩ is doubled by the earlier לו — no addition needed; this note flags only the article-free rendering of the altāra scene"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonijah",
+      "rationale": "Šelomo directly addresses Adonijahu: 'Ej uz savu namu'"
+    }
+  ],
+  "translation": "Un ķēniņš Šelomo sūtīja, un tie viņu nokāpa no augšienes no altāra, un viņš nāca un pielūdza ķēniņu Šelomo, un Šelomo sacīja ⟨viņam⟩: Ej uz savu namu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96504099d3cba6241370241378d0cf4ba4e3533bbab6e9fb6dcfc901ea958af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/53-53.1792520316841.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "un tie viņu nokāpa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no augšienes no"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altāra"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "un pielūdza"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "uz savu namu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:18:36.841765587Z",
+  "model": "glm-5.3"
+}

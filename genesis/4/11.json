@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā pieturas teikums bez darbības vārda; latviski vajag ⟨esi⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמי asinis",
+      "rationale": "Daudzskaitļa forma 'asins' — ebreju דְּמֵי ir asiņu daudzskaitlis, nevis vienkārši 'asins'"
+    }
+  ],
+  "translation": "Un tagad lādēts tu ⟨esi⟩, no zemes, kas atvērusi ⟨את⟩ savu muti, lai ņemtu ⟨את⟩ tava brāļa asinis no tavas rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/4\/9-12.1792511433001.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "lādēts"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "atvērusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu muti"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "lai ņemtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tava brāļa asinis"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tava brāļa"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "no tavas rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T15:50:33.002799321Z",
+  "model": "glm-5.3"
+}

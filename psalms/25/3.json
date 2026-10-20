@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא יבשו... יבשו",
+      "rationale": "atkaldots darbības vārds: kas cer — nekaunos, nodevīgie — kaunos; hiasma, kas latviski jāatveido ar diviem teikumiem"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ריקם",
+      "rationale": "var lasīt arī 'bez iemesla' — nodevība bez cēloņa, ne tikai 'veltīgi'"
+    }
+  ],
+  "translation": "Arī visi, kas cer uz tevi, nekaunos; kauns piemeklēs nodevīgos — ⟨viņi⟩ velti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/1-4.1792527299995.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "kas cer uz tevi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nekaunos"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "kaunos"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "nodevīgie"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "velti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:59.996713941Z",
+  "model": "glm-5.3"
+}

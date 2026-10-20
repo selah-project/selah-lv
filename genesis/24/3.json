@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 24:3",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשביעך",
+      "rationale": "Sakne שבע 'septiņi\/zvērēt' — zvēresta saisība ar skaitli septiņi; latviski zudis."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Pirmais אשר (laiku dzīslu 'ka') izgaist latviešu teikuma struktūrā."
+    },
+    {
+      "kind": "you",
+      "subject": "kalps",
+      "rationale": "Avrahama runa vērsta tieši pie kalpa — pavēle ar zvērestu."
+    }
+  ],
+  "translation": "un likšu tev zvērēt pie Jahves, Debess Elohim un Zemes Elohim: tu neņemsi sievu manam dēlam no kenaaniešu meitām, starp kurām es dzīvoju viņu vidū —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/24\/1-4.1792511970318.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשביעך",
+      "gloss": "un likšu tev zvērēt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pie Jahves"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Debess"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "un Elohim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Zemes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ņemsi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "manam dēlam"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "no meitām"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "starp kurām"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dzīvoju"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "viņu vidū"
+    }
+  ],
+  "timestamp": "2026-10-20T15:59:30.319229058Z",
+  "model": "glm-5.3"
+}

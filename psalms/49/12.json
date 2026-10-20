@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iekšējā doma",
+      "rationale": "קרב burtiski ir 'iekšiene, iekšas' — doma kā vieta cilvēkā"
+    },
+    {
+      "kind": "crux",
+      "subject": "ar saviem vārdiem viņi sauca zemes",
+      "rationale": "קראו בשמותם עלי אדמות: zemes nosauktas viņu vārdos (KJV) vai zemes sauc viņu vārdus, t.i., atgādina viņus (BSV: 'lands were their namesakes')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav saikļa starp קרבם un teikuma daļu"
+    }
+  ],
+  "translation": "Viņu iekšējā doma ⟨ir⟩: viņu nami uz mūžību, viņu mājokļi paaudzei un paaudzei; ar saviem vārdiem viņi sauca zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/9-12.1792527594875.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "viņu iekšējā doma"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "viņu nami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "viņu mājokļi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "un paaudzei"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "viņi sauca"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "ar saviem vārdiem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pār"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "zemēm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.876631761Z",
+  "model": "glm-5.3"
+}

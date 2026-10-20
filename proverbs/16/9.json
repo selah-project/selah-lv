@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחשב\/יכין",
+      "rationale": "plāno pret stiprina — divi darbības vārdi vienā rindā, paralelisms zūd tulkojumā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirds",
+      "rationale": "לב ir jūtu, gribas un prāta centrs, ne tikai 'sirds' emocionālā nozīmē"
+    }
+  ],
+  "translation": "Cilvēka sirds izplāno ⟨את⟩ savu ceļu, bet Jahve stiprina viņa soļus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/9-12.1792528710529.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "izplāno"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "savu ceļu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "bet Jahve"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "stiprina"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "viņa soļus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:30.530091488Z",
+  "model": "glm-5.3"
+}

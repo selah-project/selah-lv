@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח vienmēr kā 'ruah' — elpa\/vējš\/gars vienā vārdā, nav sadalāms"
+    },
+    {
+      "kind": "idiom",
+      "subject": "deguns",
+      "rationale": "'אף' burtiski 'deguns\/nāsis', zīmē dusmu izelpu; latviski 'deguna ruah' glabā attēlu"
+    }
+  ],
+  "translation": "No Eloah elpas tie iet bojā, un no viña deguna ruah tie tiek iznīcināti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/4\/9-12.1792528973104.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "no elpas"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "tie iet bojā"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "un no ruah"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "viña deguna"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tie tiek iznīcināti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:53.105205489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Hebrejs saka tikai 'ko ēd'; 'var' atļaujas nianse pievienota kontekstā"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa"
+    },
+    {
+      "kind": "measurement",
+      "subject": " ēdamo dzīvnieku saraksts",
+      "rationale": "Saraksts sākas — skaitīšanas\/klasificēšanas struktūra"
+    }
+  ],
+  "translation": "Šie ir lopi, ko jūs varat ēst: liellops, jērs no avīm un jērs no kazām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/14\/1-4.1792516926977.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "šie"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lopi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jūs varat ēst"
+    },
+    {
+      "surface": "שור",
+      "gloss": "liellops"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "no avīm"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "un jērs"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "no kazām"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:06.980686846Z",
+  "model": "glm-5.3"
+}

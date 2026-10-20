@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodas teikumam אתה nav saites; latviešu valodai vajag \"esi\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "mans נפש",
+      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — latviski nav viena vārda, tāpēc saglabāts ebreju vārds"
+    },
+    {
+      "kind": "idiom",
+      "subject": "meklēju agri no rīta",
+      "rationale": "שחר nozīmē \"ausma\"; darbības vārds nozīmē \"rītausmā meklēt\", ne vienkārši \"meklēt\""
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Elohim",
+      "rationale": "Dāvids tieši pielūdz Elohim kā savu El"
+    }
+  ],
+  "translation": "Elohim, ⟨tu⟩ esi mans El, tevi es meklēju agri no rīta; mans נפש ilgojas pēc tevis kā izslāpis sausumā, mana miesa alkst pēc tevis sausā un nogurušā zemē, bez ūdens.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/63\/1-4.1792527773168.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mans El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "meklēju agri no rīta"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "slāp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pēc tevis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mans נפש"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ilgojas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pēc tevis"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mana miesa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sausā"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "un nogurušā"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:53.169260615Z",
+  "model": "glm-5.3"
+}

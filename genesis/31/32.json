@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tas lai nedzīvo",
+      "rationale": "Jaakovs nezinādams izsaka nāves sodu pār Rahelu, kas dievus patiešām bija nozagusi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'kas ir pie manis' — pievienots ⟨ir⟩ latviešu teikuma vajadzībām."
+    }
+  ],
+  "translation": "Pie kā tu atradīsi ⟨את⟩ savus dievus — tas lai nedzīvo! Mūsu brāļu priekšā apskaties pats, kas ⟨ir⟩ pie manis, un ņem sev! Un Jaakovs nezināja, ka tos bija nozagusi Rahela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/31\/29-32.1792512265413.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tu atradīsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus dievus"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savus dievus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "tas dzīvo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mūsu brāļu"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "apskaties"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pats⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "un ņem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "bija nozagusi tos"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:25.415033090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המשפט\/הרשע atkārtojums",
+      "rationale": "Hiasmveidīgā atkārtošanās: tiesa—ļaunums, cedek—ļaunums; vienāda ļaunuma dublējums abās vietās."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'būt'; שמה 'tur' nes visu smagumu."
+    }
+  ],
+  "translation": "Un vēl es redzēju zem saules: tiesas vietā ⟨tur⟩ ⟨ir⟩ ļaunums, un cedek vietā ⟨tur⟩ ⟨ir⟩ ļaunums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/3\/13-16.1792529908765.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Un vēl"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "es redzēju"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saules"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "tiesas"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨tur⟩"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "un vietā"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨tur⟩"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ļaunums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:28.766580007Z",
+  "model": "glm-5.3"
+}

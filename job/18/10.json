@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aukla",
+      "rationale": "חבל ir 'aukla\/mešļa aukla' — attēls ir paslēpta cilpa zem zemes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח\/מלכודת\/חבל\/צמים",
+      "rationale": "Bildas četrās pantos atkārtojas slazpu vārdi — lamatu kaskāde, kas latviski daļēji zaudē krāsu."
+    }
+  ],
+  "translation": "Paslēpta zemē viņa aukla, un viņa slazds — uz taciņas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1aa993d664ef691a79d27e2c9b04c6d796c207ea5fce3ce40a1e262548b38584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/18\/9-12.1792529216444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "paslēpta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "viņa aukla"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "un viņa slazds"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "taciņas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:56.444877413Z",
+  "model": "glm-5.3"
+}

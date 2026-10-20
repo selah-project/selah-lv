@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vīri",
+      "rationale": "אישׁ ישראל — burtiski 'Jisraēla vīrs', distributīvs: katrs no Jisraēla vīriem."
+    }
+  ],
+  "translation": "Un Avšaloms un viss ļaudis, Jisraēla vīri, ienāca Jerušalaimā, un Ahitofels ⟨את⟩ ar viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/16\/13-16.1792520003568.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Un Avšaloms"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ienāca"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "un Ahitofels"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu",
+      "marks": "ar viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:13:23.569324766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir \/ esmu",
+      "rationale": "Ebrejs pie šaha kontaktvārdiem izlaiž — latviešu valodai vajadzīgs."
+    },
+    {
+      "kind": "you",
+      "subject": "Šaūlam",
+      "rationale": "Davida pazemības runa tieši vērsta pie Šaūla."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mana dzīvība",
+      "rationale": "חיי var arī nozīmēt 'mans dzīves ceļš \/ mans stāvoklis' nevis vien dzīvība."
+    }
+  ],
+  "translation": "Un Davids sacīja Šaūlam: Kas es ⟨esmu⟩, un kas ⟨ir⟩ mana dzīvība, mana tēva ģimene Jisraēlā, ka es būtu ķēniņa znots?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/18\/17-20.1792519248337.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūlu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mana dzīvība"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ģimene"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "es būtu"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "znots"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:48.338737031Z",
+  "model": "glm-5.3"
+}

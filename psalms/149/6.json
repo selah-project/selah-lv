@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוממות אל",
+      "rationale": "'El izcelsmes' — daudzskaitlī 'augstās slavas'; šeit saistījums 'izcilas slavas par El', daudzi tulko 'Viņa mutes slavinājumi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rīkles",
+      "rationale": "גרון ir rīkle (norijusi saskrubusi), nevis 'mutes' kā tradicionālajos tulkojumos."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פיפיות",
+      "rationale": "Duālis — divas šķautnes vienā vārdā; 'divšķautņu' saglabā divskaitli."
+    }
+  ],
+  "translation": "Izcelsmes — El — viņu rīklēs, un divšķautņu zobens viņu rokās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ee8d5296e76b1e9801d2f41c109c28dfb8d3a88190615310b1fecb6e31dc545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/149\/6-7.1792532813973.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "izcelsmes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "viņu rīklēs"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "un zobens"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "divšķautņu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "viņu rokās"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:53.974320536Z",
+  "model": "glm-5.3"
+}

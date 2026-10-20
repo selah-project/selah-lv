@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התנשמת",
+      "rationale": "'Grūti elpojošais' — hameleons (ASV\/JPS) pret 'kurmis' (KJV) pret 'pūce'; vārds apzīmē divus radījumus"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכח",
+      "rationale": "'Spēks' — varāns\/monitora ķirzaka pret 'frets' (KJV); tulkojumi krasi atšķiras"
+    },
+    {
+      "kind": "hapax",
+      "subject": "והאנקה",
+      "rationale": "אנקה — no vaimanas atvasināts vārds, visticamāk gekons, atrodams tikai šeit un 11:30"
+    }
+  ],
+  "translation": "un gekons, un varāns, un ķirzaka, un smilšuķirzaka, un hameleons.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/29-32.1792513803427.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "un gekons"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "un varāns"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "un ķirzaka"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "un smilšuķirzaka"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "un hameleons"
+    }
+  ],
+  "timestamp": "2026-10-20T16:30:03.428076520Z",
+  "model": "glm-5.3"
+}

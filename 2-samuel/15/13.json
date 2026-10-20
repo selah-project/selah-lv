@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sirds",
+      "rationale": "לב vienskaitlis kolektīvi — 'Jisraēla vīru sirds', ne daudzskaitlis kā daudzos tulkojumos."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir kļuvusi",
+      "rationale": "היה js nav tukša saikļaDarbs — 'ir kļuvusi' atspoguļo notikuma pievilkšanos aiz Avšaloma."
+    }
+  ],
+  "translation": "Un paziņotājs atnāca pie Davida, sacīdams: Ir kļuvusi Jisraēla vīru sirds aiz Avšaloma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/13-16.1792519955202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un atnāca"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "paziņotājs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ir kļuvusi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:35.202534220Z",
+  "model": "glm-5.3"
+}

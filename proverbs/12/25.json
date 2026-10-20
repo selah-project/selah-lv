@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņu⟩",
+      "rationale": "Ebreju priedēkļu galotne -נה norāda objektu 'to', latviski vajadzīgs vietasvārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחנה \/ ישמחנה",
+      "rationale": "šah-enah \/ samah-enah — gandrīz vienāda skanējuma pāris 'noliek\/priecē', latviski zūd"
+    }
+  ],
+  "translation": "Bažas cilvēka sirdī noliec ⟨viņu⟩, bet labs vārds ⟨viņu⟩ priecē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/25-28.1792528685706.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "bažas"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "noliec-to"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "bet vārds"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "priecē-to"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:05.706888622Z",
+  "model": "glm-5.3"
+}

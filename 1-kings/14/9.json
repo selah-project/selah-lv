@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "aiz sava muguras",
+      "rationale": "אחרי גוך — metonīmija 'aiz muguras' = pilnīgi atmest; saglabāts burtiskais tēls"
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Ivriešu darbības vārdem nav subjekta; latviešu valodā pievienots 'tu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "אלהים אחרים par elkiem — mazais burts 'dievi', nevis Elohim"
+    }
+  ],
+  "translation": "Un tu ļāunīgi darīji vairāk par visiem, kas bija pirms tevis, un tu aizgāji un padarīji sev citus dievus un liejamos tēlus, mani sadusmojot, un ⟨את⟩ mani tu nometi aiz sava muguras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/9-12.1792520706264.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "Un tu ļāunīgi darīji"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīdams"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vairāk par visiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pirms tevis"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "un tu aizgāji"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "un padarīji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citus"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "un liejamos tēlus"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "mani sadusmojot"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "un ⟨את⟩ mani",
+      "marks": "mani — nomesti aiz muguras"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "tu nometi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "sava muguras"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:06.264969179Z",
+  "model": "glm-5.3"
+}

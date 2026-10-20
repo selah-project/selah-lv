@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלשתים ואת כפתרים",
+      "rationale": "Ambigvā piederība: vai filištieši nāk no kasluhiešiem (kā šeit) vai no kaftoriešiem (Amos 9:7, 1. Mozus 10:14 variants)."
+    }
+  ],
+  "translation": "un ⟨את⟩ patrusiešus un ⟨את⟩ kasluhiešus, no kuriem izgāja filištieši, un ⟨את⟩ kaftoriešus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/1\/9-12.1792530904003.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "patrusiešus"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusiešus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "kasluhiešus"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluhiešus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no kuriem"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "משם",
+      "gloss": "no turienes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filištieši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "kaftoriešus"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftoriešus"
+    }
+  ],
+  "timestamp": "2026-10-20T21:15:04.004454955Z",
+  "model": "glm-5.3"
+}

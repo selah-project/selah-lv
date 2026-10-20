@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sirds",
+      "rationale": "לב ir sirds kā prāta un gribas sēdeklis, ne tikai jūtu orgāns."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש — dzīvības spēks; 'postā savu nefesu' nozīmē bojā savu dzīvību."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא יעשנה",
+      "rationale": "Uzsvērtais 'pats to dara' — nun-sufikss ar paskaidrojošo הוא; latviski atdala 'pats'."
+    }
+  ],
+  "translation": "Laulību pārkāpj ar sievu tāds, kam trūkst sirds; viņš postā savu nefesu — pats to dara.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/6\/29-32.1792528593989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "Laulību pārkāpj"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ar sievu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kam trūkst"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "postā"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "to dara"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:33.990221819Z",
+  "model": "glm-5.3"
+}

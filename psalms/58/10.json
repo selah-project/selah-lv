@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירתיכם אטד",
+      "rationale": "'jūsu podi (sajūt) ērkšķus' — vai סיר nozīmē 'katls' un אטד degērkšķus zem tā, vai סיר ir 'ērkšķu ceri'; KJV un YLT dala tekstu dažādi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חי \/ חרון",
+      "rationale": "'svaigie\/degošie' — lai izvairītos no iepriekšējā konteksta ietekmes, tas apzīmē zaļos un jau degošos ērkšķus, ko viesulis aiznes vienlīdzādi"
+    },
+    {
+      "kind": "you",
+      "subject": "nedicīgo valdniekiem",
+      "rationale": "'jūsu podi' — vēstījums vērsts pie bezdievīgajiem soģiem no Ps 58:2"
+    }
+  ],
+  "translation": "Pirms jūsu podi paspēj sajust ērkšķus, Viņš tos aizpūtīs kā viesuli — gan svaigos, gan degošos ⟨savā karstumā⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/9-12.1792527695314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Pirms"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "sajust"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "jūsu podi"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "ērkšķus"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "חי",
+      "gloss": "svaigos"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "degošos"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "aizpūtīs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:35.315783021Z",
+  "model": "glm-5.3"
+}

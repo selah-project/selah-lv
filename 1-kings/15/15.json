@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sudrabs, zelts, trauki",
+      "rationale": "svētumu uzskaitījums — tempļa inventāra aprēķins"
+    }
+  ],
+  "translation": "Un viņš ienesa ⟨את⟩ sava tēva svētumus un savus svētumus Jahves namā: sudrabu, zeltu un traukus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f243442e953b28e3d7500bd4d4bb09beb7a4cfcab15ad555e3df56256aa445cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/15\/13-16.1792520821838.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "un viņš ienesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava tēva svētumus"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sava tēva svētumus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "un savus svētumus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "un traukus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:01.839258688Z",
+  "model": "glm-5.3"
+}

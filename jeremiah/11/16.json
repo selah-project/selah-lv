@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 11:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המולה",
+      "rationale": "'rūkoņa' — reti lietots vārds, tikai šeit un Jer 48:3"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs kopula 'ir' — ebreju tekstā tā nav (הצית ir vēstījuma pagātnē)"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "metafora adresēta Israēla namam — olīvkoks ar Jahves dotu vārdu"
+    }
+  ],
+  "translation": "Zaļu olīvkoku, skaistu, ar labu augli, ar skaistu veidolu Jahve nosauca tavu vārdu; pie lielas rūkoņas trokšņa Viņš iededzināja tajā uguni, un tā zari ir salauzti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bdac5e801bb1f575c2f497218be8354f3a51ad9294f89707edaf50c88a0fb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/11\/13-16.1792523474591.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זית",
+      "gloss": "olīvkoku"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zaļu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skaistu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "augli"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "veidolu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavu vārdu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pie trokšņa"
+    },
+    {
+      "surface": "המולה",
+      "gloss": "rūkoņas"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lielas"
+    },
+    {
+      "surface": "הצית",
+      "gloss": "iededzināja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguni"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ir salauzti"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "tā zari"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:14.592468726Z",
+  "model": "glm-5.3"
+}

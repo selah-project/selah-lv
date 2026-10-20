@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני... אם",
+      "rationale": "Zvēresta formula 'Es dzīvoju... ja' — apstiprinājuma zvērests ar nosacījuma daļiņu, nevis jautājums par nosacījumu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אם",
+      "rationale": "Nosacījuma 'ja' te ir zvēresta apzīmējums: 'ja Sodoma darījusi tā kā tu' nozīmē 'nemūžam viņa tā nav darījusi'"
+    }
+  ],
+  "translation": "Es dzīvoju, saka Adonai Jahve: ja Sodoma, tava māsa, darījusi — viņa un viņas meitas — to, ko esi darījusi tu un tavas meitas!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/16\/45-48.1792524995558.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "dzīvoju"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "darījusi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tava māsa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "un viņas meitas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "esi darījusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "un tavas meitas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:35.559972302Z",
+  "model": "glm-5.3"
+}

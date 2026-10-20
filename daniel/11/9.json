@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju tekstā nav subjekta; tas izriet no iepriekšējā panta (ziemeļu ķēniņš)."
+    }
+  ],
+  "translation": "Un viņš ieies dienvidu ķēniņa valstī un atgriezīsies savā zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/11\/9-12.1792530453267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Un viņš ieies"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "valstī"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "dienvidu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "un atgriezīsies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "savā zemē"
+    }
+  ],
+  "timestamp": "2026-10-20T21:07:33.267932317Z",
+  "model": "glm-5.3"
+}

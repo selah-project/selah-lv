@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 1:6",
+  "book": "haggai",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואין",
+      "rationale": "'un nav' — ebreju neatlaidības parts ir jāsaglabā visos trijos pāros."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משתכר \/ משתכר",
+      "rationale": "Darbības vārda atkārtojums ('kas algots strādā, algots strādā') — uzsvera bezjēdzīgo pūliņu."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכרה",
+      "rationale": "'līdz reibumam' (apreibšanai) pret 'līdz baudījumam' — sakne שכר saistīta ar vīnu."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Virziens 'uz\/iedošana' apvienots ar ⟨את⟩ objekta marķieri maisa teikumā."
+    }
+  ],
+  "translation": "Jūs sējāt daudz, bet ienācāt maz; jūs ēdat, un nav līdz pilnībai, dzerat, un nav līdz reibumam, ģērbjaties, un nav tam siltuma, un kas algots strādā, algots strādā ⟨את⟩ maiss ar caurumiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a117cda24dda4cd9967182714adf9e9f54a4909caf8218f851ab007c74519229",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/haggai\/1\/6-7.1792532769194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעתם",
+      "gloss": "jūs sējāt"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daudz"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "bet ienācāt"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "maz"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jūs ēdat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "līdz pilnībai"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "dzerat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "līdz reibumam"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ģērbjaties"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "siltuma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והמשתכר",
+      "gloss": "un kas algots strādā"
+    },
+    {
+      "surface": "משתכר",
+      "gloss": "algots strādā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "maiss ar caurumiem"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "maiss"
+    },
+    {
+      "surface": "נקוב",
+      "gloss": "ar caurumiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:09.194953618Z",
+  "model": "glm-5.3"
+}

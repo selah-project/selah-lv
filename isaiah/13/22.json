@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa 'ir'; latviešu teikuma struktūrai nepieciešams"
+    },
+    {
+      "kind": "crux",
+      "subject": "באלמנותיו",
+      "rationale": "burtiski 'viņa atraitnēs' — pamestie nami vai vientuļās celtnes; sal. KJV 'desolate houses'"
+    },
+    {
+      "kind": "crux",
+      "subject": "איים",
+      "rationale": "vienmuļīgais skuēklis 'iee' — savvaļas zvērs; tulki: 'vilki', 'hiēnas', 'šakāļi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "laiks un dienas",
+      "rationale": "panti nosaka Babilonas laika robežu: tuvs nākt, dienas netiks pagarinātas"
+    }
+  ],
+  "translation": "Un gaudoņi atbildēs viņa pamestajos namos, un šakāļi greznības pilīs; un tuvs ⟨ir⟩ viņas laiks nākt, un viņas dienas netiks vilktas garām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb013732315113d89423554f87b5d0597b87aafde74ed910973af6c4347cbf2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/13\/21-22.1792522021227.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "un atbildēs (gaudos)"
+    },
+    {
+      "surface": "איים",
+      "gloss": "gaudoņi"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "viņa pamestajos namos"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "un šakāļi"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "pilīs"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "greznības"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "un tuvs"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākt"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "viņas laiks"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "un viņas dienas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "tiks vilktas garām"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:01.228459621Z",
+  "model": "glm-5.3"
+}

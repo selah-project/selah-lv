@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מטתו שלשלמה",
+      "rationale": "מטה 'gulta\/migājamais' un 'šī Šlomo gulta' — vārdu spēle starp 'gultu' un 'valdnieka sedanu' diskutēta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gultas pavadone",
+      "rationale": "מטה burtiski 'gulta\/migājamais'; ASV\/JPS lasa 'sedans' — ceremoniāls nestuvis, ne guļamgulta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešdesmit",
+      "rationale": "Skaitliska precizitāte — sešdesmit varoņu ap gultu."
+    }
+  ],
+  "translation": "Lūk, Šlomo gultas pavadone; sešdesmit varoņu ap to, no Jisraēla varoņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/3\/5-8.1792529664100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "gultas pavadone"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sešdesmit"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "varoņu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ap"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "no varoņiem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:24.102457780Z",
+  "model": "glm-5.3"
+}

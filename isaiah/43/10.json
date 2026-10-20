@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esat⟩ · ⟨esmu⟩",
+      "rationale": "ivritā nav saikļa; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני הוא",
+      "rationale": "uzsvērta “es esmu viņš” — Vārda pašpaziņas formula, latviski jāsaglabā uzsvars"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "Jahve tieši vēršas pie Jisraēla kā saviem lieciniekiem"
+    }
+  ],
+  "translation": "Jūs ⟨esat⟩ mani liecinieki, saka Jahve, un mans kalps, kuru es izredzēju, lai jūs zinātu un man ticētu un saprastu, ka es ⟨viņš⟩ ⟨esmu⟩: pirms manis nebija veidota neviena El, un pēc manis neviena nebūs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/9-12.1792522680409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "esat mani liecinieki"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "un mans kalps"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "es izredzēju"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "jūs zinātu"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "un ticētu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "un saprastu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms manis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "veidota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc manis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neviena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nebūs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:00.410794146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pārmetumu",
+      "rationale": "מוסר ir audzināšana\/pārbaudījums ar ierobežošanu — burtiski 'saistījums'; 'pārmetums' ir šaurs"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כליתם",
+      "rationale": "Var lasīt arī kā Qal 'viņi ir galā\/pazuduši' ne tikai Piel 'Tu tos iznīcināji'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאנו... מאנו",
+      "rationale": "Atkārtots 'viņi atteicās' divreiz — apņemšanās noraidījuma atkārtojums, latviski saglabāts"
+    }
+  ],
+  "translation": "Jahve, ⟨vai⟩ Tavas acis ⟨nav⟩ ⟨vērstas⟩ uz uzticību? Tu sitās ⟨את⟩ viņiem, bet viņi nesāpēja; Tu tos iznīcināji — viņi atteicās ņemt pārmetumu; viņi darīja savas sejas cietākas par klinti, atteicās atgriezties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/1-4.1792523343944.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Tavas acis"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨vai...nav⟩"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "uz uzticību"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "Tu sitās"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "nesāpēja"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "Tus tos iznīcināji"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "viņi atteicās"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ņemt"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pārmetumu"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "viņi darīja cietākas"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "savas sejas"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "par klinti"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "atteicās"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "atgriezties"
+    }
+  ],
+  "timestamp": "2026-10-20T19:09:03.945807743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mans mirdzekli",
+      "rationale": "כבודי burtiski 'mans gods\/svars'; instrumentu izsaukums personificēts kā dvēseles godība"
+    },
+    {
+      "kind": "crux",
+      "subject": "es modināšu auroru",
+      "rationale": "אעירה שחר — 'agri modināšu' (adverbialis) pret 'modināšu auroru' (aurora kā objekts, JPS\/BSB)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עורה...עורה...אעירה",
+      "rationale": "trīskārša saknes עור atkārtojums — pamošanās intensitāte"
+    }
+  ],
+  "translation": "Mosties, mans mirdzekli, mosties, nevelis un arfa, es modināšu auroru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/57\/9-12.1792527687032.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mans mirdzekli"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevelis"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "un arfa"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "es modināšu"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "auroru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:27.032636997Z",
+  "model": "glm-5.3"
+}

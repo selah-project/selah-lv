@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 8:19",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האורב",
+      "rationale": "האורב is a singular collective ('the one lying in ambush') rendered as 'slēpņa vīri' (the ambushers), plural for Latvian sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כנטות ידו",
+      "rationale": "Literally 'at the stretching-out of his hand' — temporal infinitive; Latvian needs a clause 'tiklīdz viņa roka bija izstiepta'."
+    }
+  ],
+  "translation": "Un slēpņa vīri cēlās ātri no savas vietas un skrēja, tiklīdz viņa roka bija izstiepta, un nogāja pilsētā un ieņēma to un steidzās un aizdedzināja ⟨את⟩ pilsētu ar uguni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac7ba1f3ad8876ca04d4971885bd50643e623aa304954d83c9e494e830ea06c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/8\/17-20.1792517696330.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאורב",
+      "gloss": "Un slēpņa vīri"
+    },
+    {
+      "surface": "קם",
+      "gloss": "cēlās"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "no savas vietas"
+    },
+    {
+      "surface": "וירוצו",
+      "gloss": "un skrēja"
+    },
+    {
+      "surface": "כנטות",
+      "gloss": "tiklīdz izstiepta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un nogāja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "וילכדוה",
+      "gloss": "un ieņēma to"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "un steidzās"
+    },
+    {
+      "surface": "ויציתו",
+      "gloss": "un aizdedzināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ar uguni"
+    }
+  ],
+  "timestamp": "2026-10-20T17:34:56.331611428Z",
+  "model": "glm-5.3"
+}

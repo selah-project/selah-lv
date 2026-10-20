@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav vārda 'pilsēta'; pievienots, lai latviešu teikums būtu pilns."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨viņu⟩",
+      "rationale": "Izsauksis 'viņas kājas nēsā viņu' — vietniekvārds pievienots skaidrībai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדם\/קדמתה",
+      "rationale": "Saknes קדם atkārtojums — 'senums no senuma' — latviski daļēi saglabāts."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יבלוה רגליה",
+      "rationale": "Daži lasa 'viņas kājas nesa viņu' (pagātne) kā pieminētu goda ceļu; izvēlēts nākotnes lasījums."
+    }
+  ],
+  "translation": "Vai šī ⟨ir⟩ jūsu līksmā pilsēta, kuras senums no senām dienām? Savas kājas nesīs ⟨viņu⟩ tālu prom, lai dzīvotu kā svešiniece.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b030b627e81fb13577fe4686e57f275d962c51a2c9c6d0b292258da7b19b67b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/23\/5-8.1792522261958.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Vai šī"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jūsu"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "līksmā"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "no dienām"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "senām"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "ir viņas senums"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "nesīs"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "savas kājas"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "tālu prom"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "lai dzīvotu kā svešiniece"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:01.959861272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אולד בו",
+      "rationale": "Nederīgs darāmais: 'tika dzemdēts tajā' — ebrejiski 'es tiku dzemdēts tajā'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרה גבר",
+      "rationale": "'vīrietis ir ieņemts' — JPS 'ir dzemdēts' (נולד) pret KJV\/BSB 'ieņemts'; ebreju teksts saka הרה, ieņemts."
+    }
+  ],
+  "translation": "Lai iet bojā diena, kad es tiku dzemdēts, un nakts, kas sacīja: vīrietis ir ieņemts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/3\/1-4.1792528982337.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "lai iet bojā"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "kad es tiku dzemdēts"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tā"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "un nakts"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kas sacīja"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ir ieņemts"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vīrietis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:02.338559244Z",
+  "model": "glm-5.3"
+}

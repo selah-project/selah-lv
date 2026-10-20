@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Ebreju jiqtol (יהי) norāda priekšmetu tikai ar formu; vietniekvārds pievienots latviešu teikumam"
+    },
+    {
+      "kind": "you",
+      "subject": "Benajahas lūgšana",
+      "rationale": "Runa tieši vērsta uz ķēniņu Davidu kā ķēniņa atbildes turpinājums"
+    }
+  ],
+  "translation": "Kā Jahve bija ar manu kungu ķēniņu, tā lai ⟨Viņš⟩ ir ar Šelomo, un lai Viņš paaugstina ⟨את⟩ viņa troni pāri manas kunga ķēniņa Davida tronim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/37-40.1792520342630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "manu kungu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "lai ir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "un lai paaugstina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa troni"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "viņa troni"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "pāri tronim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "manas kunga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:02.631429323Z",
+  "model": "glm-5.3"
+}

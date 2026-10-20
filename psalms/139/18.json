@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikles; latviešu valodai tā nepieciešama."
+    },
+    {
+      "kind": "measurement",
+      "subject": "smiltis",
+      "rationale": "domojumu skaits salīdzināts ar smilšu daudzumu — skaitīšanas motifs."
+    },
+    {
+      "kind": "crux",
+      "subject": "es atmodos, un vēl arvien",
+      "rationale": "הֱקִיצֹתִי וְעוֹדִי: 'es atmodos un vēl esmu ar tevi' pret JPS 'ja nonāktu to galā, tomēr būtu ar tevi' — עוֹדī var lasīt kā 'līdz galam'."
+    }
+  ],
+  "translation": "Es tās skaitītu — vairāk nekā smiltis tās būtu; es atmodos, un es vēl arvien ⟨esmu⟩ ar tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/139\/17-20.1792528447199.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "es tās skaitītu"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "smiltis"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "vairāk būtu"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "es atmodos"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "un es vēl arvien"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:07.200493156Z",
+  "model": "glm-5.3"
+}

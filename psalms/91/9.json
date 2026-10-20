@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elijonam Tu esi licis Savu mājokli",
+      "rationale": "Divi lasījumi: 'Tu, Jahve, esi mans patvērums, Elijonam Tu liki Savu mājokli' (teksts vērsts pie Elijona) vai 'Tu esi darījis Jahvi, manu patvērumu, Elijonu, par Savu mājokli' (KKJ lasījums, pielāgojot vārdu secību)."
+    },
+    {
+      "kind": "you",
+      "subject": "Tu",
+      "rationale": "Vērsts pie dievbijīgā cilvēka otrajā personā."
+    }
+  ],
+  "translation": "Jo Tu, Jahve, esi mans patvērums; Elijonam Tu esi licis Savu mājokli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/91\/9-12.1792528048092.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mans patvērums"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijonam"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "Tu esi licis"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "Savu mājokli"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:28.092815793Z",
+  "model": "glm-5.3"
+}

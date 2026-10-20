@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 2:18",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Darbības izteicējs pievienots latviski; aramiešu infinitīvs karājas no iepriekšējā panta."
+    },
+    {
+      "kind": "secret",
+      "subject": "noslēpumu",
+      "rationale": "רז — apslēptā lieta, karaļa sapņa slēptība; lūgums vērsts tieši pie tās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elah",
+      "rationale": "Aramiešu אלה (ē) atbilst ebreju Eloah; saglabāts kā skanējums, nevis 'Dievs'."
+    }
+  ],
+  "translation": "un lai tie lūdz žēlastības no debesu Elah priekšā par šo noslēpumu, ka Daniēls un viņa biedri nepazūd kopā ar pārējiem Bābeles gudrajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/17-20.1792530155109.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחמין",
+      "gloss": "žēlastības"
+    },
+    {
+      "surface": "למבעא",
+      "gloss": "lūdz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "debešu"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "noslēpumu"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהבדון",
+      "gloss": "pazūd"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniēls"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "un viņa biedri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "pārējiem"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "gudrajiem"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:35.110079837Z",
+  "model": "glm-5.3"
+}

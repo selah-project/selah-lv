@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele modernā nozīmē; šeit — miris cilvēks"
+    }
+  ],
+  "translation": "Un pie nekādas mirušas dvēseles viņš neies; par savu tēvu un savu māti viņs sevi neaptraipīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/21\/9-12.1792515069344.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Un pie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nekādas"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirušas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ies"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "par savu tēvu"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "un savu māti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sevi aptraipīs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:09.348425788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 25:7",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אבה יבמי",
+      "rationale": "Beigu יבמי var būt darbības vārds ('veikt svaiņa pienākumu', KJV) vai lietvārds ('mans svainis', YLT); izvēlēts lietvārds pēc per-token datiem."
+    },
+    {
+      "kind": "you",
+      "subject": "sievas runa vecajiem",
+      "rationale": "Sievu runa vārtos ir tieši adresēta pilsētas vecajiem — publiska sūdzība."
+    }
+  ],
+  "translation": "Un ja vīram negribas ņemt ⟨את⟩ savu svaini, tad viņa svaine ies uz vārtiem pie vecajiem un teiks: Mans svainis atsakās celt savam brālim vārdu Jisraēlā; mans svainis nav ar mieru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d122cc579db97ba7d90f3fe89a70a8e39ca03246f860df52c2ed08939a079c28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/25\/5-8.1792517221957.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "negribas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ņemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu svaini"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "savu svaini"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ies"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "viņa svaine"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "uz vārtiem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vecajiem"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "un teiks"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "atsakās"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "Mans svainis"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "celt"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "savam brālim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nav ar mieru"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "mans svainis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:27:01.960719086Z",
+  "model": "glm-5.3"
+}

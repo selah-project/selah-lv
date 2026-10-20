@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'Es Jahve'; latviešu valodai tas nepieciešams"
+    },
+    {
+      "kind": "crux",
+      "subject": "pirmo derību",
+      "rationale": "ראשנים — 'pirmo derību': par senajiem senčiem (KJV) vai par pirmo derību ar iziešanas paaudzi"
+    }
+  ],
+  "translation": "Un Es atcerēšos par viņiem pirmo derību, kad Es izvedu ⟨את⟩ viņus no Micraimas zemes tautu acu priekšā, lai būtu viņiem par Elohim — Es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/45-46.1792515276919.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Un Es atcerēšos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "par viņiem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "pirmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Es izvedu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "acu priekšā"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "להית",
+      "gloss": "lai būtu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "par Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:36.920462602Z",
+  "model": "glm-5.3"
+}

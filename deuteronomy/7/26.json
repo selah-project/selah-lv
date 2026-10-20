@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 7:26",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hierēms",
+      "rationale": "חרם nozīmē 'pilnībā atdot\/iznīcinātājam velts lieta'; varianti: 'lāsts', 'iznīcināšanai nolemtais', 'upuris iznīcībai'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ תשקצנו \/ תעב תתעבנו",
+      "rationale": "Infinitivus absolutus divreiz pēc kārtas — 'riebumā riebini, pretīgumā nīsti'; ebreju intensitāte latviski saglabāta ar atkārtotu sakni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pretīgums",
+      "rationale": "תועבה — 'pretīguma lieta'; atgriežas no 25. panta, veidojot saiti starp abiem pantiem"
+    }
+  ],
+  "translation": "Un tu neievisi pretīgumu savā namā, lai tu nekļūsti par hierēmu kā tas; par riebumu to riebini un par pretīgumu to nīsti, jo tas ir hierēms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d8741166ba443037ad018c83a6005eb2d9f59605f16e5bf28d46d48dc07a4bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/25-26.1792516779909.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tu neievisi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "pretīgumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savā"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "namā"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "nekļūsi par"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "hierēmu"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kā tas"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "par riebumu"
+    },
+    {
+      "surface": "תשקצנו",
+      "gloss": "to riebini"
+    },
+    {
+      "surface": "ותעב",
+      "gloss": "un par pretīgumu"
+    },
+    {
+      "surface": "תתעבנו",
+      "gloss": "to nīsti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "hierēms"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:19:39.911351121Z",
+  "model": "glm-5.3"
+}

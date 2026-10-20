@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 48:31",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mana sirds⟩",
+      "rationale": "יהגה (čukst, vaid) subjekts ebreju tekstā nav izteikts; daudzi tulki pievieno 'sirdi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרש",
+      "rationale": "Kir-Heresa vārds satur heres (māla pods \/ sausa zeme) — vietvārds paliek netulkots."
+    }
+  ],
+  "translation": "Tāpēc par Moabu es vaimanāju, un par visu Moabu es saucu; par Kir-Heresas vīriem ⟨mana sirds⟩ čukstē vaidu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "61322d7e5d610fc1f7e15698ad821f4c743ce0a5e498de0aec4adaade724b9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/48\/29-32.1792524474880.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "איליל",
+      "gloss": "vaimanāju"
+    },
+    {
+      "surface": "ולמואב",
+      "gloss": "un par Moabu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīriem"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir-"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Heresas"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "čukstē vaidu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:27:54.881796426Z",
+  "model": "glm-5.3"
+}

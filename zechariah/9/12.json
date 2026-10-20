@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨es⟩",
+      "rationale": "מַגִּיד ir piedalnieks 'paziņodams'; latviski pievienots subjekts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cerībā",
+      "rationale": "תִּקְוָה burtiski 'aukla, saite' — attēls no nama auklas, pārnesti 'gaidas'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Atgriezieties cietoksnī",
+      "rationale": "Pavēle gūstekņiem atgriezties — uzruna ar imperativu."
+    }
+  ],
+  "translation": "Atgriezieties cietoksnī, gūstekņi, kas cerībā! Arī šodien ⟨es⟩ paziņoju: divkāršu es atdošu tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/9-12.1792526793190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Atgriezieties"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "cietoksnī"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "gūstekņi"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "kas cerībā"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "paziņoju"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "divkāršu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "es atdošu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:33.192832688Z",
+  "model": "glm-5.3"
+}

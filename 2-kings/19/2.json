@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'kas ir pār namu' — pievienots kā ⟨ir⟩"
+    }
+  ],
+  "translation": "Un viņš sūtīja ⟨את⟩ Eljakimu, kas ⟨ir⟩ pār namu, un rakstvedi Šebnu, un ⟨את⟩ priesteru vecajiem vīriem, apsegusies ar maisaudumu, pie pravieša Ješajahu, Amoca dēla.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/19\/1-4.1792521607367.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un viņš sūtīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "un rakstvedi Šebnu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "rakstvedis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "priesteru vecajiem vīriem"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vecajiem vīriem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteru"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "apsegusies"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ar maisaudumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoca"
+    }
+  ],
+  "timestamp": "2026-10-20T18:40:07.368710343Z",
+  "model": "glm-5.3"
+}

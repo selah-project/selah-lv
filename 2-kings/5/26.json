@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 5:26",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨līdzi⟩",
+      "rationale": "Ebreju 'vai mana sirds negāja' — latviešu valodai vajadzīgs 'līdzi', lai jautājums skaidrs."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבי הלך",
+      "rationale": "Burtiski 'mana sirds negāja' — daļa tulkojumu pievieno 'ar tevi' vai 'garā'; teksts to nesaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "olīvkoki",
+      "rationale": "הזיתים olīvas olīvdārza nozīmē — konteksts uzskaita īpašumu, ne augļus."
+    }
+  ],
+  "translation": "Un viņš sacīja viņam: Vai mana sirds negāja ⟨līdzi⟩, kad vīrs pagriezās no sava ratiem tev pretī? Vai tagad ir laiks ņemt ⟨את⟩ sudrabu un ņemt drēbes, un olīvkokus, un vīna dārzus, un avis un kazas, un liellopus, un kalpus un kalpones?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8edaa30a94dbf14b93d11841a4f61ec84cbf897279df5d741f932797871a9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/5\/25-27.1792521179373.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Vai ne"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "pagriezās"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "מרכבתו",
+      "gloss": "sava ratiem"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "tev pretī"
+    },
+    {
+      "surface": "העת",
+      "gloss": "Vai tagad ir laiks"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ņemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "un ņemt"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "drēbes"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "olīvkokus"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "vīna dārzus"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "avis un kazas"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "liellopus"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "kalpus"
+    },
+    {
+      "surface": "ושפחות",
+      "gloss": "kalpones"
+    }
+  ],
+  "timestamp": "2026-10-20T18:32:59.374457550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "Ebreju valodā nav piederības izteiksmes; latviešu teikumam vajadzīgs 'kas'."
+    }
+  ],
+  "translation": "kas stāvat Jahves namā, mūsu Elohim nama pagalmos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/135\/1-4.1792528386993.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "kas stāvat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "pagalmos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:06.994061854Z",
+  "model": "glm-5.3"
+}

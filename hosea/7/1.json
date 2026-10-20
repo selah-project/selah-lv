@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kad es dziedināju",
+      "rationale": "כרפאי var lasīt arī kā bezgalotnes darbības forma: 'ar to, ka es dziedināju' — dziedināšana pati atklāja noziegumu"
+    }
+  ],
+  "translation": "Kad es dziedināju Jisraēlu, atklājās Efraima noziegums un Šomeronas ļaunumi, jo viņi darīja viltu; un zaglis nāk iekšā, laupītāju pulks aplaupa ārā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/7\/1-4.1792526003657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "kad es dziedināju"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "un atklājās"
+    },
+    {
+      "surface": "עון",
+      "gloss": "noziegums"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "un ļaunumi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeronas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "viņi darīja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "viltu"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "un zaglis"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nāk iekšā"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "aplaupa"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "laupītāju pulks"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ārā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:23.657743259Z",
+  "model": "glm-5.3"
+}

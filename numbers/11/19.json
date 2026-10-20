@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dienu skaitīšana",
+      "rationale": "Pants skaita dienas kāpjošā virknē: viena, divas, piecas, desmit, divdesmit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומים",
+      "rationale": "Dualis 'divas dienas' — divskaitlis paliek divi, ne vispārināts daudzskaitlis."
+    }
+  ],
+  "translation": "Ne vienu dienu jūs to ēdīsiet, ne divas dienas, ne piecas dienas, ne desmit dienas, ne divdesmit dienas —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f6b5814ac3e3241e8a8dd0db04a7564fb544f5291eaf45198bd62097c2f5a9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/11\/17-20.1792515699689.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "jūs to ēdīsiet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "divas dienas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "piecas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:01:39.691395417Z",
+  "model": "glm-5.3"
+}

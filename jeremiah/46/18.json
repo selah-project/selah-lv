@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tikpat droši kā",
+      "rationale": "Ebrejiski burtiski 'Dzīvs es' — zvēresta formula, atveidota latviešu zvēresta locījumā"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis 'kura vārds ir' pievienots latviešu valodas gramatikas dēļ"
+    }
+  ],
+  "translation": "Tikpat droši kā ⟨es⟩ dzīvoju, saka ķēniņš, kura vārds ⟨ir⟩ Jahve Cevaot: kā Tabora starp kalniem un kā Karmela pie jūras, tā viņš atnāks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/46\/17-20.1792524375231.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "dzīvoju"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "kā Tabora"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "starp kalniem"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "un kā Karmela"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pie jūras"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "atnāks"
+    }
+  ],
+  "timestamp": "2026-10-20T19:26:15.232653221Z",
+  "model": "glm-5.3"
+}

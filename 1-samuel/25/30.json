@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 25:30",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vadonis",
+      "rationale": "nagid ir 'priekšā stāvošais, vadonis', ne 'ķēniņš' — Abigaija vēl nezina par ķēniņa titulu"
+    },
+    {
+      "kind": "you",
+      "subject": "Abigaija runā ar Davidu",
+      "rationale": "tieša uzruna: 'par tevi', 'iecels tevi'"
+    }
+  ],
+  "translation": "Un notiks, ka kad Jahve izdarīs savam kungam visu to labo, ko viņš runājis ⟨את⟩ par tevi, un iecels tevi par vadoni pār Jisraēlu,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c16585058096f9ade3cf6a0d22da2d8640ed86b5deb1b70a325eb552fd8aa9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/29-32.1792519418524.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "izdarīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "savam kungam"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runājis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to labo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "to labo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "un iecels tevi"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "par vadoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:38.525630072Z",
+  "model": "glm-5.3"
+}

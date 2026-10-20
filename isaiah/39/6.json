@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 39:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiks",
+      "rationale": "Hebreju passīva niphal\/nifal formas latviski prasa tiks ar darbības vārdu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "Šeit דבר nozīmē 'lieta\/nekas', nevis 'vārds'."
+    }
+  ],
+  "translation": "Lūk, nāk dienas, kad viss, kas tavā namā, un kas tavi tēvi ir krājuši līdz šai dienai, tiks aiznests uz Babeli; nekas netiks atstāts, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/39\/5-8.1792522547025.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "tiks aiznests"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "tavā namā"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "אצרו",
+      "gloss": "ir krājuši"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tavi tēvi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šai dienai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "netiks atstāts"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nekas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:47.026550680Z",
+  "model": "glm-5.3"
+}

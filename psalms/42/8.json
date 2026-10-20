@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום",
+      "rationale": "Atkārtots 'bezdibenis sauc bezdibenim' — atbalss figura, latviski saglabāta ar atkārtojumu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צנוריך",
+      "rationale": "צנור te ir vienīgā vai gandrīz vienīgā vieta Tanahā ar šādu nozīmi ('noteka, ūdenskritums') — tumšs vārds."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל",
+      "gloss": "Dalekā 'el' var būt arī prievārds 'pie\/līdz': 'bezdibenis pie bezdibeņa', ne tikai 'sauc uz'."
+    }
+  ],
+  "translation": "Bezdibenis sauc bezdibenim pie Tavu ūdenskritumu balss; visi Tavi bangas-lauzēji un Tavi viļņi pārgāja pār mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/42\/5-8.1792527521444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Bezdibenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bezdibenim"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pie balss"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "Tavu ūdenskritumu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "Tavi bangas-lauzēji"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "un Tavi viļņi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pār mani"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pārgāja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:41.446087527Z",
+  "model": "glm-5.3"
+}

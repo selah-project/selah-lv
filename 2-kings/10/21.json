@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 10:21",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ziņu⟩",
+      "rationale": "Ebreju teksts saka tikai 'izsūtīja pa visu Jisraēlu' — objekts pievienots skaidrībai."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פה לפה",
+      "rationale": "Burtiski 'mute pret muti' — idiomātiski 'no viena gala līdz otram'; latviski 'no mutes līdz mutei' saglabā bildi."
+    }
+  ],
+  "translation": "Un Jehu izsūtīja ⟨ziņu⟩ pa visu Jisraēlu, un nāca visi Bāla kalpi, un nepalika neviens vīrs, kas nebija nācis; un viņi ienāca Bāla namā, un Bāla nams piepildījās no mutes līdz mutei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b77bf39627a62b846abc68c2e46c22d0e36dc8c7b3811fd346deb0aa0eb1aba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/10\/21-24.1792521339704.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "izsūtīja"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Bāla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nepalika"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "←nepalika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviens vīrs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nācis"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un viņi ienāca"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Bāla"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "un piepildījās"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Bāla"
+    },
+    {
+      "surface": "פה",
+      "gloss": "no mutes"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "līdz mutei"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:39.705026805Z",
+  "model": "glm-5.3"
+}

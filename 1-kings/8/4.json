@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם — ⟨את⟩ tos",
+      "rationale": "אתם šeit ir aleph-tav + prievārds 'to' attieksmes vietā; glosā apvienots, jo marks lauks prasa vienu mērķi."
+    },
+    {
+      "kind": "elision",
+      "subject": "saietes telts",
+      "rationale": "אהל מועד — 'tikšanās telts' būtu brīvāks; 'saietes telts' saglabā vārda sakni, ko prasa disciplīnas dokuments."
+    }
+  ],
+  "translation": "Un tie uzcēla ⟨את⟩ Jahves šķirstu un ⟨את⟩ saietes telti un ⟨את⟩ visus svētos rīkus, kas bija teltī; un tie uzcēla ⟨את⟩ tos priesteri un levīti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/1-4.1792520515349.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Un tie uzcēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves šķirstu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirstu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saietes telti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "saietes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus svētos rīkus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "rīkus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltī"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "un tie uzcēla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tos",
+      "marks": "tos"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "un levīti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:55.350628350Z",
+  "model": "glm-5.3"
+}

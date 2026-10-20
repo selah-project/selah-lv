@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Es tevi apjozu",
+      "rationale": "אאזרך no אזר 'apjozt ar jostu' — arī 'Es tevi stiprināšu' kā kaujas aprīkojuma došana"
+    },
+    {
+      "kind": "you",
+      "subject": "Kiram",
+      "rationale": "Runa tieši vērsta uz Kiru (45:1), kaut viņš Jahvi nepazīst"
+    }
+  ],
+  "translation": "Es ⟨esmu⟩ Jahve, un nav cita; bez Manis nav Elohim; Es tevi apjozu, un tu Mani nepazīsti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/5-8.1792522814336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "cita"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "bez Manis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Es tevi apjozu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tu Mani pazīsti"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:14.337451918Z",
+  "model": "glm-5.3"
+}

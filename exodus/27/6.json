@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vara",
+      "rationale": "נחשת ir varš; tulkotāji mēdz likt 'bronza' vai 'misors'"
+    }
+  ],
+  "translation": "Un tu iztaisīsi nesamus altārim, nesamus no akācijas koka, un tu tos apklāsi ar varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/27\/5-8.1792513193991.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "un tu iztaisīsi"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "nesamus"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altārim"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "nesamus"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "koka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akācijas"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "un tu apklāsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tos (nesamus)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:19:53.992718461Z",
+  "model": "glm-5.3"
+}

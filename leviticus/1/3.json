@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajadzīga saikle, kuras ebreju tekstā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלה",
+      "rationale": "'augšupdedzinājums' atspoguļo burtisko 'kas paceļas' (dūmi ceļas augšup); 'holokausts' izlaists jaunākas slodzes dēļ."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרצנו",
+      "rationale": "'par labu sev \/ viņa labvēlībai' — KJV 'no savas brīvas gribas' pret ASV\/JPS 'lai tas tiktu pieņemts'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקריבנו\/יקריב",
+      "rationale": "Darbības vārds 'tuvot' atkārtojas divreiz vienā pantā."
+    }
+  ],
+  "translation": "Ja viņa upuris ⟨ir⟩ augšupdedzinājums no liellopiem, tēviņu bez vainas viņš to tuvinās; pie ieejas sapulkes teltī viņš to tuvinās ⟨את⟩ to par labu sev, Jahves priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/1\/1-4.1792513614892.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "augšupdedzinājums"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "viņa upuris"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tēviņu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "viņš to tuvinās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ieejas"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telts"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sapulces"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "viņš tuvinās"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "par labu sev"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:54.893222720Z",
+  "model": "glm-5.3"
+}

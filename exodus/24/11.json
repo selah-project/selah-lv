@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אצילי",
+      "rationale": "'Dižciltīgie\/namai' pret YLT 'tie, kas tuvu'; sakne nozīmē arī 'malas' (Jesaja 41:9)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלח ידו",
+      "rationale": "Idioma 'izstiept roku' — sodīt; latvisi saglabā burtisko bildi."
+    }
+  ],
+  "translation": "Un uz Jisraēla dēlu dižciltīgajiem Viņš neizstiepa savu roku; un viņi lūkojās ⟨את⟩ Elohim, un ēda un dzēra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/24\/9-12.1792513106368.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Un uz"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "dižciltīgajiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izstiepa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "un viņi lūkojās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un ēda"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "un dzēra"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:26.369394866Z",
+  "model": "glm-5.3"
+}

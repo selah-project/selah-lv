@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Atgriezenību saraksts ar skaitļiem."
+    },
+    {
+      "kind": "crux",
+      "subject": "קרית ערים",
+      "rationale": "Pilns vārds ir Kirjat-Jearima; šeit rakstīts ערים — iespējams rakstības variācija."
+    }
+  ],
+  "translation": "Kirjat-Arimas, Kefiras un Beerotas dēli — septiņi simti četrdesmit trīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0ece9f247fc9389dc70a2eafdf238c826ac8178609e7a8f081868a074b02842b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/2\/25-28.1792530456967.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Arimas"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Kefiras"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "un Beerotas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "četrdesmit"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "trīs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:07:36.967570695Z",
+  "model": "glm-5.3"
+}

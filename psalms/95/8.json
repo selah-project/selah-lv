@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Meribā · Masa",
+      "rationale": "Vietu vārdi no 2. Mozus 17 un 4. Mozus 20: מריבה 'strīds', מסה 'pārbaude' — abi zaudē tulkojumā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "apsaldējiet",
+      "rationale": "תקשו burtiski 'padariet cietu blīvu' — sirds kļūst cieta kā akmens"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Israēlu",
+      "rationale": "Tiešs aicinājums dievkalpojuma dalībniekiem nedzirdināt sirdi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Šodien, ja dzirdēsiet",
+      "rationale": "Pants turpina 7. panta aicinājumu ar brīdinājumu"
+    }
+  ],
+  "translation": "Neapsaldējiet savu sirdi kā Meribā, kā Masas dienā tuksnesī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/95\/5-8.1792528078815.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "apsaldējiet"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "kā Meribā"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā dienā"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masas"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:58.816740198Z",
+  "model": "glm-5.3"
+}

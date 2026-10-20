@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nāsis",
+      "rationale": "באפו burtiski 'viņa deguns\/nāsis' — dusmu tēls, ne vienmēr saglabāts tulkojumos"
+    },
+    {
+      "kind": "addition",
+      "subject": "tās",
+      "rationale": "ממנו 'no tā' — dzimtes atbilstībai latviešu valodā pievienota atsauce uz uguni"
+    }
+  ],
+  "translation": "Cēlās dūmi no viņa nāsīm, un uguns no viņa mutes aprija; ogles iedegās no tās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/9-12.1792520076676.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "cēlās"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "no viņa nāsīm"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "un uguns"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "no viņa mutes"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "aprija"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ogles"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "iedegās"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:36.676756218Z",
+  "model": "glm-5.3"
+}

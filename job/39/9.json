@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savvaļas vērsis",
+      "rationale": "רים ir savvaļas vērsis, nevis 'vienradzis' (KJV tradīcija)"
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "Jahve runā ar Jobu reto­risko jautājumu virknē"
+    }
+  ],
+  "translation": "Vai savvaļas vērsis labprāt strādās tev, vai tas paliks pie tavās siles?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5b76b5b81d8d2b096a7d2b06a160bff40d836b6936325fe53518e3aaf8bb93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/39\/9-12.1792529549972.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "Vai ... labprāt"
+    },
+    {
+      "surface": "רים",
+      "gloss": "savvaļas vērsis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "strādās tev"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "paliks"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "tavās siles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:29.973368446Z",
+  "model": "glm-5.3"
+}

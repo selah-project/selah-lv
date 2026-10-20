@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iemīלּोja",
+      "rationale": "חפץ ir 'vēlējās, juta patiku pret' — 'delighted in me'."
+    }
+  ],
+  "translation": "Un Viņš izveda mani ⟨את⟩ plašumā, Viņš izglāba mani, jo Viņš mani iemīļoja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "322f4695f62187937a5e88e2c99bd9a4b80b355dee0e0e3204e251d20701d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/17-20.1792520107433.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Un Viņš izveda"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "plašumā"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mani"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Viņš izglāba mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iemīļoja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:07.434345231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 20:32",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "עֹלָה עַל רוּחֲכֶם — kas 'paceļas jūsu ruah': prāts, nodoms; ruah saglabāts kā viens vārds."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēla namam",
+      "rationale": "Jahve runā pret tautas iedomu, citējot viņu vārdus 'kļūsim kā tautas'."
+    },
+    {
+      "kind": "elision",
+      "subject": "היו",
+      "rationale": "Priekšstāvja 'tas' paliek glosā, bet latviešu teikumā tas saplūst ar 'nenotiks'."
+    }
+  ],
+  "translation": "Un kas paceļas jūsu ruah, tas nenotiks: ka jūs sakāt: Kļūsim kā tautas, kā zemes ģintis, lai kalpotu kokam un akmenim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4f876e49c43cd8963e6d0fbcf07229d969476da9a96799563f99b61a057a0ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/20\/29-32.1792525159197.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Un kas paceļas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "jūsu ruah"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenotiks"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nebūs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sakāt"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "Kļūsim"
+    },
+    {
+      "surface": "כגוים",
+      "gloss": "kā tautas"
+    },
+    {
+      "surface": "כמשפחות",
+      "gloss": "kā ģintis"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kalpotu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kokam"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "un akmenim"
+    }
+  ],
+  "timestamp": "2026-10-20T19:39:19.198791155Z",
+  "model": "glm-5.3"
+}

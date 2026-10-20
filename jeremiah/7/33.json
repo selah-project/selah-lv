@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 7:33",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aizdzītu",
+      "rationale": "מחריד burtiski 'kas drebina\/biedē' — šausmu radītājs, ne tikai aizdzītājs"
+    },
+    {
+      "kind": "elision",
+      "subject": "tos",
+      "rationale": "ivrita priekšmets מחריד darbības vārdam netiek tulkots atsevišķi; latviešu valoda pieprasa objektu"
+    }
+  ],
+  "translation": "Un šīs tautas līķi būs par ēdienu debess putniem un zemes lopiem, un nav, kas tos aizdzītu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "55416a595f4571a6cd5d779bb101dc4ee2e892d05a4561914c931d93b153b53a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/7\/33-34.1792523404638.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "līķi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "par ēdienu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "putniem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "un lopiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kas aizdzītu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:04.638707300Z",
+  "model": "glm-5.3"
+}

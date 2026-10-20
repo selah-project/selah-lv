@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "et haYarden … et baYarden",
+      "rationale": "Pēdējais את בירדן tekstā dublē Jordānu (ketiv\/qere tradīcijas šeit atšķiras); atstāts burtiski"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ויעבר",
+      "rationale": "Hiphil forma 'pārveda' — Barzillajs pats pārved ķēniņu, ne vienkārši iet līdzi"
+    }
+  ],
+  "translation": "Un Barzillajs gileadietis nogāja no Rogelīmas un pārveda ⟨את⟩ ķēniņu pār Jordānu, lai viņu pavadītu ⟨את⟩ Jordānu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/29-32.1792520125880.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "un Barzillajs"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileadietis"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nogāja"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "no Rogelīmas"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "un pārveda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "pār Jordānu"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "lai pavadītu viņu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordānu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Jordānu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:25.882157937Z",
+  "model": "glm-5.3"
+}

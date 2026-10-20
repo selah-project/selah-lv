@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav kopulas; nodarbinājuma saraksta teikumos latviešu valodā tā vajadzīga."
+    },
+    {
+      "kind": "crux",
+      "subject": "priesteris un ķēniņa draugs",
+      "rationale": "KJV 'principal officer' pret ›ehelam 'priesteris, draugs'; ebreju vārds kohen šeit apzīmē arī augsta amatpersona."
+    }
+  ],
+  "translation": "un Azarjahu, Nātana dēls, ⟨bija⟩ pār ieceltajiem; un Zavuds, Nātana dēls, priesteris, ķēniņa draugs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/4\/5-8.1792520347194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "un Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nātana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ieceltajiem"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "un Zavuds"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nātana"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "draugs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:07.195028304Z",
+  "model": "glm-5.3"
+}

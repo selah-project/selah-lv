@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseli",
+      "rationale": "נפש ir tuvāk 'elpai\/dzīvības spēkam' nekā 'dvēselei' platona nozīmē."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "'Vai ne?' kā apgalvojums jautājuma formā (KJV, JPS) pret vienkāršu apgalvojumu 'un arī' (Geneva, BSB)."
+    },
+    {
+      "kind": "addition",
+      "subject": "arī",
+      "rationale": "'Vai ne' jau nes negāciju; latviešu plūstamībai pievienots 'arī'."
+    }
+  ],
+  "translation": "Jo Tu izglābi ⟨את⟩ manu dvēseli no nāves; vai ne arī ⟨את⟩ manu kāju no paklupšanas — staigāt Elohim priekšā dzīvo gaismā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/56\/13-14.1792527671844.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "Tu izglābi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ manu dvēseli"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "no nāves"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "⟨את⟩ manu kāju"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "no paklupšanas"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "staigāt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "gaismā"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dzīvo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:11.845157016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "astoņpadsmit tūkstoši",
+      "rationale": "Pilsētas apkārtmērs — 18 000, grāmatas noslēguma skaitlis."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨būs⟩ · ⟨ir⟩",
+      "rationale": "Ebreju teksta teikumā nav izteikuma darbības vārda; latviešu valodai vajadzīgs saiklis un 'būt'."
+    },
+    {
+      "kind": "crux",
+      "subject": "šama",
+      "rationale": "שמה 'tur\/šama' kā pilsētas vārds: 'Jahve ir tur' (KJV, JPS) pret 'Jahve šama' kā vienotu nosaukumu; vārds netiek tulkots, jo ir īpašvārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה שמה",
+      "rationale": "Nosaukumā skan 'šam' (tur) — atbalss Vārdam 'Jahve'; Ecehiēla grāmatas noslēgums, kur Jahve atgriežas pilsētā."
+    }
+  ],
+  "translation": "Apkārt — astoņpadsmit tūkstoši olekšu; un pilsētas vārds no tās dienas ⟨būs⟩: Jahve ⟨ir⟩ šama.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "90d8a5ab686b4ebccf4e4aee6e2009569ab63df3282078f1429c916d0b3f2c4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/48\/33-35.1792525938406.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Apkārt"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un vārds"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "no tās dienas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "šama"
+    }
+  ],
+  "timestamp": "2026-10-20T19:52:18.407041353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "KJV 'wings' (no צוץ?) pretēji 'zieds\/viotīte' un BSB 'sāls' (кетib\/readere); ņemtu 'spārnus' kā bēgšanas tēlu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצא \/ תצא",
+      "rationale": "Vienas saknes atkārtojums: 'aiziet, jā, aizies' — latviski zūd pastiprinājums."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נצא",
+      "rationale": "Šī forma Tanahā sastopama tikai šeit."
+    }
+  ],
+  "translation": "Dodiet spārnus Moābam, jo aiziedams viņš aizies, un viņa pilsētas par postu kļūs — ⟨nav⟩, kas tajās dzīvo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f3a5ab40ab346d0c021c9ab160e09c46afa17997617b2cc6a93bfe249ebe28f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/48\/9-12.1792524375711.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Dodiet"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "spārnus"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moābam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "aiziedams"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "aizies"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "un viņa pilsētas"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "par postu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "kļūs"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "⟨nav⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "tajās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:26:15.711996999Z",
+  "model": "glm-5.3"
+}

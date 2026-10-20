@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septiņas dienas",
+      "rationale": "Priekšnoteiktais septiņu dienu novērošanas termiņš — skaitīšana kā tiesas līdzeklis."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikles priestera izolācijas lēmuma priekšā; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izolēs",
+      "rationale": "הסגיר burtiski 'aizslēgs, ieslēgs'; 'izolēs' ir modernās valodas ekvivalents."
+    }
+  ],
+  "translation": "Bet ja priesteris to ieraudzīs un, lūk, baltajā plankumā nav balta mata un tas nav zemāks par ādu, bet ⟨ir⟩ pagaismājis, tad priesteris viņu izolēs septiņas dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce48cd17c972ce49c020954db71b2c8725d12196980d09e46eec2e6b2598c49a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/13\/26-28.1792514821972.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "bet ja"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "ieraudzīs"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "baltajā plankumā"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mata"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "balta"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "un zemāks"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "par"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ādu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "pagaismājis"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "izolēs viņu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septiņas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:01.975462409Z",
+  "model": "glm-5.3"
+}

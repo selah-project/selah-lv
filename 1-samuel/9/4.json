@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tur",
+      "rationale": "ebreju ואין ir tikai 'un nav' — latviešu valodai pievienots vietas apzīmējums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין",
+      "rationale": "'un to nav' — īss noliegums pēc Šaalimas nosaukuma, iespējama skaņu saite שעלים\/ואין"
+    }
+  ],
+  "translation": "Un viņš šķērsoja Efrajima kalnu zemi, un šķērsoja Šališas zemi, bet viņi neatrada; un viņi šķērsoja Šaalimas zemi — un ⟨tur⟩ ⟨nav⟩; un viņš šķērsoja Benjamina zemi, bet viņi neatrada.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/9\/1-4.1792518910764.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Un viņš šķērsoja"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnu zemē"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "un šķērsoja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Šališas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "atrada"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "un viņi šķērsoja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Šaalimas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un ⟨nav⟩"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "un viņš šķērsoja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "atrada"
+    }
+  ],
+  "timestamp": "2026-10-20T17:55:10.766135897Z",
+  "model": "glm-5.3"
+}

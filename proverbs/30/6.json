@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lasītājs",
+      "rationale": "Pants tieši uzrunā adresātu ar pavēli 'nepievieno'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pavēle",
+      "rationale": "Negatīva pavēle — aicinājums nelabot Vārdu."
+    }
+  ],
+  "translation": "Nepievieno neko viņa vārdiem, lai viņš tevi neapsudzētu un tu netiktu atzīts par meli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/5-8.1792528916100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "pievieno"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "viņa vārdiem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "apsudzētu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tevi"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "netiktu atzīts par meli"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:56.101348697Z",
+  "model": "glm-5.3"
+}

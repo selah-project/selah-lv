@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 42:21",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ne",
+      "rationale": "Negācija latviski izcelta ar ⟨ne⟩, jo ebreju ולא attiecas uz visu teikumu"
+    },
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Vietniekvārds piekodina שלחני subjektu — Jahve"
+    },
+    {
+      "kind": "you",
+      "subject": "pie atlikušajiem Jūdas ļaudīm",
+      "rationale": "Pravieša runa tieši vērsta uz tautu, kas prasīja vārdu no Jahves"
+    }
+  ],
+  "translation": "Un es paziņoju jums šodien, bet jūs neklausījāt balsij Jahves, jūsu Elohim, ⟨ne⟩ nevienam no tiem ⟨vārdiem⟩, ar kuriem Viņš sūtīja mani pie jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "59922d913c0474355f59827384d0411eb2d3e8430a8f223cc8899b9933e4c7f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/42\/21-22.1792524330871.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגד",
+      "gloss": "un es paziņoju"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "jūs klausījāt"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nevienam no visiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriem"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Viņš sūtīja mani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pie jums"
+    }
+  ],
+  "timestamp": "2026-10-20T19:25:30.871710792Z",
+  "model": "glm-5.3"
+}

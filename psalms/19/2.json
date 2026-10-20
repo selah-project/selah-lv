@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svētumu",
+      "rationale": "kavod — lit. 'svars, spožums'; 'godība\/slava' ir parasta, bet 'svētums' tur Tanaha reģistru."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "stāsta\/paziņo",
+      "rationale": "mesapērim\/maggid — divi dažādi 'ziņot' darbības vārdi paralēlā pārī."
+    }
+  ],
+  "translation": "Debesis stāsta El svētumu, un sacēlums paziņo viņa roku darbu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/19\/1-4.1792527226540.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Debesis"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "stāsta"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "svētumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "un darbu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "viņa roku"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "paziņo"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sacēlums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:46.541983969Z",
+  "model": "glm-5.3"
+}

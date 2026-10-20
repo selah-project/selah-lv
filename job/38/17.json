@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vai",
+      "rationale": "Ebreju jautājuma ה (הנגלו) apzīmē jautājumu; latviski jāpievieno 'vai'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות\/צלמות",
+      "rationale": "צלמות parasti ir צל (ēna) + מות (nāve) — vārdu spēle ar 'nāves vārtiem', latviski 'ēnaskāve'"
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovam",
+      "rationale": "Jahve tieši uzrunā Ijovu ar retoriskiem jautājumiem"
+    }
+  ],
+  "translation": "Vai tev ir atklāti nāves vārti, un vai tu esi redzējis ēnaskāves vārtus?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/17-20.1792529586200.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "vai ir atklāti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vārti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāves"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "un vai... vārti"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ēnaskāves"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu esi redzējis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:06.200703169Z",
+  "model": "glm-5.3"
+}

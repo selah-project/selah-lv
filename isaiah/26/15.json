@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יספת ... יספת",
+      "rationale": "Atkārtotais darbības vārds paralelismā — 'Tu pievienoji... Tu pievienoji' — latviski saglabāts atkārtojums."
+    },
+    {
+      "kind": "crux",
+      "subject": "izstiepi robežas",
+      "rationale": "רחקת כל קצוי ארץ: 'attālināji visas zemes malas' pret 'paplašināji visas zemes robežas' — izvēlēts paplašinājuma attēls."
+    }
+  ],
+  "translation": "Tu pievienoji tautai, Jahve, Tu pievienoji tautai, Tu esi cildināts, Tu izstiepi visas zemes robežas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/13-16.1792522290690.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "pievienoji"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "pievienoji"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "esi cildināts"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "izstiepi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "robežas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:30.691119972Z",
+  "model": "glm-5.3"
+}

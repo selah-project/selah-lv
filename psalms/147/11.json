@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav 'žēlastība' viena — lojalitāte, uzticamība, mīlestība; saglabāts transkribēti."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam nav izteiksmes vārda; latviešu valoda to pieprasa, ⟨ir⟩ atzīmēts."
+    }
+  ],
+  "translation": "Jahve ir pacienīts ar ⟨את⟩ saviem dievbijīgajiem, ar ⟨את⟩ tiem, kas gaida Viņa hesed.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/147\/9-12.1792528487996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "ir pacienīts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saviem dievbijīgajiem"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "saviem dievbijīgajiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiem, kas gaida Viņa hesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "tiem, kas gaida"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "Viņa hesed"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:47.997496317Z",
+  "model": "glm-5.3"
+}

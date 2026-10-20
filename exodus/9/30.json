@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני יהוה",
+      "rationale": "Burtiski 'no Jahves sejas' — ebreju izteiksme bīties no kāda vaiga; latviski 'no sejas' saglabā līdzīgi."
+    },
+    {
+      "kind": "you",
+      "subject": "farao",
+      "rationale": "Patiess vērsts farao un viņa kalpiem."
+    }
+  ],
+  "translation": "Bet tu un tavi kalpi — es zinu, ka jūs vēl nebīstaties no Jahves, Elohim, sejas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/29-32.1792512814626.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Bet tu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "un tavi kalpi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "vēl ne"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "jūs bīstaties"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:34.627011943Z",
+  "model": "glm-5.3"
+}

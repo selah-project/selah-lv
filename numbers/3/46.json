@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 3:46",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "273",
+      "rationale": "Skaitlis — pāri palikušo pirmdzimoto izpirkšanas uzskaitījums."
+    },
+    {
+      "kind": "addition",
+      "subject": "divi simti",
+      "rationale": "והמאתים burtiski 'un simts' — divkāršs skaitlis; latviski pilnais skaitlis 'divi simti'."
+    }
+  ],
+  "translation": "Un ⟨את⟩ izpirkto — divi simti septiņdesmit trīs — pārpalikušos pāri levītiem no Jisraēla dēlu pirmdzimotajiem",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd19ee9b43891fceb79caca58f17e6c3095e67e85bd80afa6d3076cad404b503",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/45-48.1792515394483.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "izpirkto"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "izpirkto"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "והשבעים",
+      "gloss": "septiņdesmit"
+    },
+    {
+      "surface": "והמאתים",
+      "gloss": "divi simti"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "pārpalikušos"
+    },
+    {
+      "surface": "על",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levītiem"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "pirmdzimotajiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:34.486251705Z",
+  "model": "glm-5.3"
+}

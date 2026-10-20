@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 9:5",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav pirms 'savu kārtu' tekstā iezīmēts ar ⟨את⟩, bet pirms 'savu mēteli' neturējās vienā plūsmā — abas prepozicionālās objektu struktūras."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minhā",
+      "rationale": "מנחת הערב ir vakara upuris; 'vakara minhā' saglabā vārda formu, ne tikai 'vakara upuris'."
+    }
+  ],
+  "translation": "Un vakara minhā laikā es piecēlos no sava gavēņa, un, kad biju saplēsis ⟨את⟩ savu kārtu un ⟨את⟩ savu mēteli, es nometos ceļos un izpletu savas plaukstas uz Jahves, sava Elohim, pusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "982049c84460a82ec6587972a55e0746ded68e5147e8be41b20185d7b0dc5df6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/9\/5-8.1792530674228.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנחת",
+      "gloss": "un vakara minhā laikā"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakara"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "es piecēlos"
+    },
+    {
+      "surface": "מתעניתי",
+      "gloss": "no sava gavēņa"
+    },
+    {
+      "surface": "ובקרעי",
+      "gloss": "un, kad biju saplēsis"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "savu kārtu"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "un savu mēteli"
+    },
+    {
+      "surface": "ואכרעה",
+      "gloss": "es nometos ceļos"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ceļiem"
+    },
+    {
+      "surface": "ואפרשה",
+      "gloss": "un izpletu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "savas plaukstas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sava Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:11:14.228948491Z",
+  "model": "glm-5.3"
+}

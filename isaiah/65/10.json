@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנוה צאן",
+      "gloss": "'ganāmpulka mājokli' — viens apzīmējums ganāmpulkam: avis un kazas (צאן)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכור",
+      "rationale": "Akoras ielejas vārds skan kā 'grēka traucējums' (עכר, Jozua 7) — šeit tas kļūst par svētības vietu, ironija latviešu valodā pazūd"
+    }
+  ],
+  "translation": "Un Šarona kļūs par ganāmpulka mājokli, un Akoras ieleja par liellopu guļvietu manai tautai, kas mani meklēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/9-12.1792523171641.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un kļūs"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Šarona"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "par mājokli"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ganāmpulkam"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "un ieleja"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akoras"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "par guļvietu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "manai tautai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "mani meklēja"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:11.642249825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 38:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sevi",
+      "rationale": "Iveta: שויתי darbības vārds priekšmets netiek teikts; ⟨sevi⟩ pievienots skaidrībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "שויתי",
+      "rationale": "No שוה 'līdzināt\/pielīdzināt': 'Es klusēju\/līdzināju sevi' (ASV 'composed myself') pret KJV 'reckoned' un JPS 'līdzinos kā lauva' — lauva var būt šī darbības vārda subjekts."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Hezrekja runa vērsta pie Jahves: 'Tu dari man galu'."
+    }
+  ],
+  "translation": "Es līdzināju ⟨sevi⟩ līdz rītam; kā lauva, tā viņš satriec visus manus kaulus; no dienas līdz naktij Tu dari man galu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/13-16.1792522535858.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Es līdzināju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rītam"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kā lauva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "viņš satriec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "manus kaulus"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "no dienas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktij"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "Tu dari man galu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:35.859328346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 16:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šemuēls",
+      "rationale": "Jahve runā tieši ar Šemuēlu, jautājums un pavēle vērsta pie viņa."
+    },
+    {
+      "kind": "secret",
+      "subject": "ļēniņa ievēlēšana",
+      "rationale": "Jahve saka tikai, ka starp Jišaja dēliem ir redzējis sev ķēniņu — vārds vēl nav atklāts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרן",
+      "rationale": "קֶרֶן ir 'rags' — eļļas trauks no raga, nevis vienkārši 'trauks'."
+    }
+  ],
+  "translation": "Un Jahve sacīja Šemuēlam: Cik ilgi tu sēros pēc Šaula, bet es viņu atraidīju, lai nekāro pār Jisraēlu? Piepildi savu ragu ar eļļu un ej, es tevi sūtīšu pie Jišaja, Betlehemas iedzīvotāja, jo es savā starpā viņa dēlos esmu ieraudzījis sev ķēniņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/16\/1-4.1792519155923.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "sēro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "מאסתיו",
+      "gloss": "viņu atraidīju"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "nekārot"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Piepildi"
+    },
+    {
+      "surface": "קרנך",
+      "gloss": "savu ragu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ar eļļu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "un ej"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "es tevi sūtīšu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betlemes"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "iedzīvotāja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "esmu ieraudzījis"
+    },
+    {
+      "surface": "בבניו",
+      "gloss": "viņa dēlos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sev"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:59:15.924039599Z",
+  "model": "glm-5.3"
+}

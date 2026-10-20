@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 27:21",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahve Cevaot",
+      "rationale": "צבאות ar Vārdu — nekā starp vārdiem; latviski 'Cevaot' pēc skanējuma, ne 'umu spēki'."
+    },
+    {
+      "kind": "addition",
+      "subject": "vēl",
+      "rationale": "הנותרים — 'atlikušie'; 'vēl atrodas' atklāj partizipu no יתר pēc aizvešanas konteksta."
+    }
+  ],
+  "translation": "Jo tā saka Jahve Cevaot, Jisraēla Elohim, par traukiem, kas vēl atrodas Jahves namā, un Jūdas ķēniņa namā, un Jerušalaimā:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/21-22.1792523792920.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "traukiem"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kas vēl atrodas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un namā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "un Jerušalaimā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:16:32.921444225Z",
+  "model": "glm-5.3"
+}

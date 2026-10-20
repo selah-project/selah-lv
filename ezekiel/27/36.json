@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 27:36",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vairs",
+      "rationale": "pastiprinājums latviešu teksta skaidrībai; ebrejiski tikai 'un tevis nav līdz mūžībai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svilpo",
+      "rationale": "שרקו — svilpt nicinājumā vai signālam; 'svilpo pēc tevis' saglabā skaņas zīmi"
+    }
+  ],
+  "translation": "Tirgotāji tautu vidū svilpo pēc tevis; tu kļuvi par šausmām un tevis ⟨nav⟩ vairs mūžīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4aa4de6490ad417fc154b3dc7cb75e7219225fd168ea7086a92ca3ded150d5bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/27\/33-36.1792525336921.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סחרים",
+      "gloss": "tirgotāji"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tautu vidū"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "svilpo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pēc tevis"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "par šausmām"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu kļuvi"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "un tevis nav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:16.922256203Z",
+  "model": "glm-5.3"
+}

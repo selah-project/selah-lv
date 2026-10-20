@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה pēc D2 netiek vienā vārdā par 'taisnību'; saglabāts cedek"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוררי",
+      "rationale": "aktīvais partikips no 'būt naidīgam': 'manus pretiniekus' (KJV) pret 'kas mani vēro' (YLT no שור)"
+    }
+  ],
+  "translation": "Jahve, vedi mani savā cedekā manu pretinieku dēļ; iztaisno savu ceļu mana priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/5\/9-12.1792527019087.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "vedi mani"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "savā cedekā"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "manus pretiniekus"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "iztaisno"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "savu ceļu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:19.091275618Z",
+  "model": "glm-5.3"
+}

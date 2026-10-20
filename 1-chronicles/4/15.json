@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Pietekstam latviešu valodā vajag saikli vai kolu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלב",
+      "rationale": "Kaleba vārds izskatās kā 'sunītis' (kelev), bet tas ir personvārds un netiek tulkots"
+    }
+  ],
+  "translation": "Un Kaleba, Jefunnē dēla, dēli: Iru, Ela un Naams; un Elas dēli — Kenazs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb9a4193e0ceee4874a34128b6701b8af7f67b1f898ca60193e5de42ed5f2bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/13-16.1792531078015.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un dēli"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnē"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "un Naams"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un dēli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elas"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenazs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:58.017337306Z",
+  "model": "glm-5.3"
+}

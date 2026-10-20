@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "darbības vārda 'וימיתהו' (un Viņš viņu nokāva) izteiktais subjekts — latviešu valodā nepieciešams, bet ebreju valodā netiek minēts"
+    },
+    {
+      "kind": "crux",
+      "subject": "וימיתהו",
+      "rationale": "Darbības vārda subjekts: vai Jahve (kā Lielā hronikas 10:14 lielākā daļa tulkojumu) vai (retāk) Šaula pašnāvība no 10:4–5 — konteksts atbalsta Jahvi kā subjektu"
+    }
+  ],
+  "translation": "Un nevaicāja Jahvi, un Viņš viņu nokāva, un pārcēla ⟨את⟩ karalisti Davida dēlam Isaja dēlam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/10\/13-14.1792531288914.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "vaicāja"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "un Viņš viņu nokāva"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "un pārcēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalisti"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karalisti"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davida dēlam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isaja"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:28.915672782Z",
+  "model": "glm-5.3"
+}

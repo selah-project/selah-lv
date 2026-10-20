@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 1:27",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשמל (hašmals)",
+      "rationale": "vārds parādās tikai Ecegiēla grāmatā (1:4, 1:27, 8:2); spīdošs metāls vai dzintaram līdzīgs mirdzums — precīza nozīme nenoskaidrota, tāpēc saglabāts pēc skanējuma"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית לה — 'tās iekšiene'",
+      "rationale": "'iekšpuse' (JPS 'enclosing it') pret 'māja tajā' burtiski; KJV 'within it'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "latviešu valodai vajadzīgs saiklis, ebreju valodā teikumā nav darbības vārda"
+    }
+  ],
+  "translation": "Un es redzēju kā hašmala izskatu, kā uguns izskatu — tās iekšiene ⟨bija⟩ visapkārt; no viņa gurnu izskata un uz augšu, un no viņa gurnu izskata un uz leju es redzēju kā uguns izskatu, un spožums tam visapkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/1\/25-28.1792524662532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Un es redzēju"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "kā … izskatu"
+    },
+    {
+      "surface": "חשמל",
+      "gloss": "hašmala"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kā … izskatu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iekšiene"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tās"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visapkārt"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "no … izskata"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "viņa gurnu"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "un uz augšu"
+    },
+    {
+      "surface": "וממראה",
+      "gloss": "un no … izskata"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "viņa gurnu"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "un uz leju"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "es redzēju"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kā … izskatu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "un spožums"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visapkārt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:31:02.533268976Z",
+  "model": "glm-5.3"
+}

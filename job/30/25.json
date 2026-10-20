@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvesele",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne tikai 'dvesele' dvēseles teoloģiskā nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "tam, kura diena ir smaga",
+      "rationale": "lqšh jwm: 'tam, kura diena ir grūta' (YLT) pret 'tam, kas posts' (KJV\/JPS); קשה var attiekties uz dienu vai uz cilvēku"
+    }
+  ],
+  "translation": "Vai es neraudāju tam, kura diena ir smaga? Noskumusi bija mana dvesele nabagam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/30\/25-28.1792529470587.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "es raudāju"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "smaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "noskumusi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvesele"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "nabagam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:10.587988315Z",
+  "model": "glm-5.3"
+}

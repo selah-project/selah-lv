@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאת",
+      "rationale": "Burtiski 'pacelšanās\/pacelšana': vai tas nozīmē sejas pacelšanu (pieņemšana), vai arī tev pašam jāpaceltas; tulkotāji dalās."
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "Grēks kā pieguļošs zvērs pie sliekšņa — vai 'grēka upuris' (kā YLT), vai personificēts grēks; izvēlēts 'grēks' kā dzīvnieka tēls (רבץ — guļ četrrāpus)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תמשל בו",
+      "rationale": "Divdomīgs: vēstījums 'tu varēsi valdīt' vai pavēle 'valdi pār viņu'; latviešu nākotnes forma atstāj abas iespējas."
+    }
+  ],
+  "translation": "Vai nav: ja tu dari labu — pacelšanās, un ja tu nedari labu, pie sliekšņa guļ grēks, un uz tevi ir viņa iekāre, un tu valdīsi pār viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/4\/5-8.1792511445076.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Vai nav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "tu dari labu"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pacelšanās"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "dari labu"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pie sliekšņa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēks"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "guļ"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "un uz tevi"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "viņa iekāre"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "un tu"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "valdīsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pār viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:50:45.077418169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "— tie",
+      "rationale": "המה 'tie' beigās it kā predikāts: 'tie nav no Jisraēla dēliem' — latviskā teikuma kārtība to pārvieto"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tautu saraksts",
+      "rationale": "piecu kanaāniešu tautu uzskaitījums — kanoniskais saraksts no 2.Mozus 3:8"
+    }
+  ],
+  "translation": "Viss ļaužu paliekas no emoriešiem, hitiešiem, periziešiem, hiviešiem un jebusiešiem — tie nebija no Jisraēla dēliem,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/9\/17-20.1792520570381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaužu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "paliekas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešiem"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitiešiem"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "periziešiem"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviešiem"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "un jebusiešiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "no … dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    }
+  ],
+  "timestamp": "2026-10-20T18:22:50.382440198Z",
+  "model": "glm-5.3"
+}

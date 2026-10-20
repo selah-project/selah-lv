@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sarmu",
+      "rationale": "כפור burtiski 'pārklājums' — salas radīta sarmas kārta."
+    }
+  ],
+  "translation": "kas sniegu dod kā vilnu, sarmu kā pelnus izkaisa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/147\/13-16.1792528503593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "kas dod"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sniegu"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "kā vilnu"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "sarmu"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kā pelnus"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "izkaisa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:03.594747199Z",
+  "model": "glm-5.3"
+}

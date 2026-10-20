@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lai",
+      "rationale": "Ebreju juzīvs bez juzīva vārda; latviski vajadzīgs lai-forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pestīšana",
+      "rationale": "יְשׁוּעָה ir 'glābšana, izglābšana'; 'pestīšana' ir tuvākais Tanahs reģistra vārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישישו\/ישמחו",
+      "rationale": "Saknes שׂוּשׂ un שׂמח dubultojas — gavilēt un priecāties, ebreju paralelisms"
+    }
+  ],
+  "translation": "Lai gavilē un priecājas par tevi visi, kas tevi meklē, un lai saka vienmēr: lai Elohim top liels, tie, kas mīl tavu pestīšanu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/70\/5-6.1792527790079.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "gavilē"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "un priecājas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kas tevi meklē"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un lai saka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vienmēr"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "lai top liels"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "tie, kas mīl"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tavu pestīšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:10.079602606Z",
+  "model": "glm-5.3"
+}

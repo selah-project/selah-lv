@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vecajo sanāksmē",
+      "rationale": "זקנים ir 'vecajie' kā amatpersona — vecajo padome, ne tikai vecums"
+    }
+  ],
+  "translation": "un Viņu paaugstina tautas saietā, un vecajo sanāksmē Viņu slavē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/29-32.1792528190989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "un Viņu paaugstina"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "saietā"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "un sanāksmē"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vecajo"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "Viņu slavē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:50.990627170Z",
+  "model": "glm-5.3"
+}

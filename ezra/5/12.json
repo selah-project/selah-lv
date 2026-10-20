@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 5:12",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "latviešu valodai vajadzīgs piederības rādāms liktājs pie 'debesu Elah'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סתרה",
+      "rationale": "burtiski 'paslēpa\/nojauca' — šeit 'iznīcināja, nojauca' templi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הגלי",
+      "rationale": "'aizveda trimdā' — burtiski 'atklāja\/aizveda'; konteksts skaidri par izraidīšanu"
+    }
+  ],
+  "translation": "Bet tāpēc, ka mūsu tēvi sadusmoja ⟨to⟩ debesu Elah, viņš nodeva viņus Nebukadnecara, Bābeles ķēniņa, kaldejieša, rokā; un šo namu tas nojauca un tautu aizveda trimdā uz Bābeli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/5\/9-12.1792530546771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להן",
+      "gloss": "Bet tāpēc"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "די",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרגזו",
+      "gloss": "sadusmoja"
+    },
+    {
+      "surface": "אבהתנא",
+      "gloss": "mūsu tēvi"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "debesu"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "nodeva"
+    },
+    {
+      "surface": "המו",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnecara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "כסדיא",
+      "gloss": "kaldejieša"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "namu"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "סתרה",
+      "gloss": "nojauca"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "aizveda trimdā"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "uz Bābeli"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:06.772946976Z",
+  "model": "glm-5.3"
+}

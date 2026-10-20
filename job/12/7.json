@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 12:7",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ijovs runā pret saviem draugiem",
+      "rationale": "Pavēles forma 'vaicā tagad' tieši uzrunā sarunu biedrus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דוals 'debess'",
+      "rationale": "השמים ir duālis; latviešu 'debesis' nešķir viņskaitli no duāļa."
+    }
+  ],
+  "translation": "Bet vaicā tagad lopiem, un tie tevi mācīs, un debess putniem, un tie tev pastāstīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/5-8.1792529116568.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "bet"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vaicā"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "lopiem"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "un tie tevi mācīs"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "un"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess putniem"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "un tie tev pastāstīs"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:16.569437833Z",
+  "model": "glm-5.3"
+}

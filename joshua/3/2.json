@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Un notika",
+      "rationale": "ויהי — narrative wayyiqtol, pievienots kā stāsta ievads, jo latviešu teikums to prasa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "soģi",
+      "rationale": "השטרים — rakstveži\/uzraugi, amats, ne tīrs 'virsnieki'"
+    }
+  ],
+  "translation": "Un pēc trīs dienu beigām soģi gāja cauri ⟨את⟩ nometnes vidum.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cce9b773b381af077f53e7130cbcfae9687f2db17e30ab355a252c7a78b36263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/3\/2-3.1792532536966.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "beigās"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "gāja cauri"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "soģi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nometne"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:16.966481850Z",
+  "model": "glm-5.3"
+}

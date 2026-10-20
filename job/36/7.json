@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת מלכים",
+      "rationale": "Šeit את ir priekšvārds H854 'ar\/kopā': 'kopā ar ķēniņiem' (KJV) pret 'ķēniņus' kā objektu; saglabāts ⟨את⟩ ar objekta lasījumu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא יגרע מצדיק עיניו",
+      "rationale": "Burtiski 'neatņem no taisnā savas acis'; iespējams arī 'taisnais neatrauj savas acis' — izvēlēts Dieva kā subjekta lasījums pēc konteksta."
+    }
+  ],
+  "translation": "No taisnā viņš nenovērš savas acis, un ⟨את⟩ ķēniņus uz troņa viņš apsēdina tos uz mūžību, un tie tiek paaugstināti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/36\/5-8.1792529510778.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "viņš nenovērš"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "no taisnā"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "savas acis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "ķēniņus uz troņa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņus"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "uz troņa"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "viņš apsēdina tos"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "un tie tiek paaugstināti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:50.779376148Z",
+  "model": "glm-5.3"
+}

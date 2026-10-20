@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "izlīgšu",
+      "rationale": "אכפר no כפר 'segot, izlīdzināt': 'samaksāt izpirkumu' vs 'atvainoties' — latviešu 'izlīgt' tuvāk seguma bildē"
+    },
+    {
+      "kind": "you",
+      "subject": "gibeoniešiem",
+      "rationale": "Davids tieši vēršas pie gibeoniešiem ar jautājumu"
+    }
+  ],
+  "translation": "Un Davids sacīja gibeoniešiem: Ko es darīšu jums, un ar ko es izlīgšu, lai jūs svētītu ⟨את⟩ Jahves mantojumu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/21\/1-4.1792520171274.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeoniešiem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "un ar ko"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "es izlīgšu"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "lai jūs svētītu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves mantojumu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mantojumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:11.276184077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ar melīgām lūpām",
+      "rationale": "שפתי שקר var būt apstāklis ('ar melīgam lūpām') vai piedēklis ('ir no melīgām lūpām', kā ASV\/JPS); KJV lasa pirmo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis teikuma galvenajā daļā."
+    }
+  ],
+  "translation": "Sedz naidu ar melīgām lūpām, un kas izplata apmelu, tas ir muļķis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/10\/17-20.1792528640696.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "sedz"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "naidu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ar lūpām"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melīgām"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "un kas izplata"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "apmelu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ir muļķis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:20.697354930Z",
+  "model": "glm-5.3"
+}

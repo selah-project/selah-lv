@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nečer",
+      "rationale": "נצר ir 'dzinums, atvase' — sakne, no kuras aug, nevis vienkārši 'zars'"
+    },
+    {
+      "kind": "crux",
+      "subject": "lai par to lepojas",
+      "rationale": "להתפאר var būt 'lai Es lepojos' (Jahve par sava darba augli) vai 'lai tas izdaiļojas\/lepojas'; subjekts ebreju tekstā nav izteikts"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Ebreju valodā nav izteikts subjekts priekš להתפאר; latviski pievienots"
+    }
+  ],
+  "translation": "Un tava tauta — visi cedeķi, mūžam tie mantos zemi; nečer no Manis stādītā, Manu roku darbs, lai ⟨tas⟩ par to lepojas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/60\/21-22.1792523019197.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "un tava tauta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedeķi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžam"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "tie mantos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "nečer"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "no Manis stādītā"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Manu roku"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "lai par to lepojas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:39.197527030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "savu dienu vidū",
+      "rationale": "בדמי no דומם 'klusums\/pārtraukums': KJV 'noraušanā' pret ASV\/JPS 'pusdienlaikā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "es esmu atņemts",
+      "rationale": "פקדתי burtiski 'es tiku apmeklēts\/izsaukts' — nāves apmeklējums, latviski doti dots 'atņemts'"
+    }
+  ],
+  "translation": "Es teicu: savu dienu vidū man jāiet šeola vārtos, es esmu atņemts atlikušajiem saviem gadiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/9-12.1792522524922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "es teicu"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "savu dienu vidū"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "manām dienām"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "man jāiet"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "vārtos"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "es esmu atņemts"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "atlikušajiem"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "saviem gadiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:24.923572859Z",
+  "model": "glm-5.3"
+}

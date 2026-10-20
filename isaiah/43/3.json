@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Saiklis, kura ebreju valodā nav"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפרך",
+      "rationale": "'izpirkšanas maksa' — arī 'izpirkšana, segums'; daži lasa 'tavs segums\/piedzēšana'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מושיעך",
+      "rationale": "'pestītājs' no jāša — 'tas, kas dara drošu\/atbrīvo'"
+    }
+  ],
+  "translation": "Jo es ⟨esmu⟩ Jahve, tavs Elohim, Jisraēla Svētais, tavs pestītājs; es devu Micraimu par tavu izpirkšanas maksu, Kušu un Sevu tevis vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/43\/1-4.1792522702668.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svētais"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "tavs pestītājs"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "es devu"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "par tavu izpirkšanas maksu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "un Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "tevis vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:22.669679356Z",
+  "model": "glm-5.3"
+}

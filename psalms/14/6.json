@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviski vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבישו",
+      "rationale": "'Kaunināt' pret YLT 'likt smirdēt' — būšan nozīmē gan kaunu, gan nelabumu"
+    }
+  ],
+  "translation": "Nabadzīgo padomu jūs liekat kaunā, jo Jahve ⟨ir⟩ viņa patvērums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/14\/5-7.1792527100480.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "padomu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabadzīgo"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "jūs liekat kaunā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "viņa patvērums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:40.483672951Z",
+  "model": "glm-5.3"
+}

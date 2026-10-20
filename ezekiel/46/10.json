@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir (domuzīme)",
+      "rationale": "Ebreju teikumā nav izteikta saikļa starp vadoni un atrašanos vidū; latviešu punktuācijā tas jāiezīmē."
+    },
+    {
+      "kind": "alternative",
+      "subject": "vārda kārtība",
+      "rationale": "YLT uztur burtismu 'viņu vidū viņu ienākšanā viņš ienāk'; latviešu teikuma plūsma prasa pārkārtojumu."
+    }
+  ],
+  "translation": "Un vadonis — viņu vidū: kad tie ienāk, viņš ienāks, un kad tie iziet, viņš izies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/46\/9-12.1792525860455.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Un vadonis"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "viņu vidū"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kad tie ienāk"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "viņš ienāks"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "un kad tie iziet"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "viņš izies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:51:00.456605972Z",
+  "model": "glm-5.3"
+}

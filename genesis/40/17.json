@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ובסל העליון",
+      "rationale": "Nepilnais teikums bez izsaukuma darbības vārda; latviski pievienota domuzīme, ne darbības vārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעשה אפה",
+      "rationale": "Burtiski 'maiznieka darbs' — celtniecīgas konstrukcijas compounds, kas latviski sadalīti divos vārdos."
+    }
+  ],
+  "translation": "un augšējā grozā — visa veida ēdiena Farao, maiznieka darbs; un putni ēda ⟨את⟩ tos no groza, no virs manas galvas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4bdccd1b815fd3fda6a6b5d16a0ff9789c7365e7bf37fae9208d00f75c53e176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/40\/17-20.1792512405917.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "un grozā"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "augšējā"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "visa veida"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ēdiena"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "maiznieka"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "un putni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "groza"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virs"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "manas galvas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:45.918085581Z",
+  "model": "glm-5.3"
+}

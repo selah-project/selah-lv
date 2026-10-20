@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "segums",
+      "rationale": "מסך ir 'pārklājs, aizsegs'; BSB to dara par 'aizsardzību' — forma paliek segals."
+    },
+    {
+      "kind": "crux",
+      "subject": "Meža nama ieroči",
+      "rationale": "בית היער ir Salamana ieroču glabātava (1. Ķēn. 10:17); 'Meža nams' pret 'nama mežā' (ASV)."
+    }
+  ],
+  "translation": "Un tas atsedza ⟨את⟩ Jehudas segumu, un tu tajā dienā lūkojies uz ieročiem Meža nama.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd4403dc6e365b1c1918c676b8b43c2ee28a318c4ab369df650b6e64109f0ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/22\/8-8.1792532653496.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Un tas atsedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudas segumu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "segumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "un tu lūkojies"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ieročiem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Meža"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:13.497302911Z",
+  "model": "glm-5.3"
+}

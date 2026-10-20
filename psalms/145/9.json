@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai pietrukst saiklis starp 'žēlsirdības' un 'pār'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žēlsirdības",
+      "rationale": "רחמים ir daudzskaitlī 'dzemdes-žēlsirdības'; latviski daudzskaitlis saglabāts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "labs",
+      "rationale": "טוב stāv teikuma sākumā kā priekšstāsta — 'Labs ir Jahve' saglabā vārda kārtību"
+    }
+  ],
+  "translation": "Labs ir Jahve pret visiem, un Viņa žēlsirdības ⟨ir⟩ pār visiem Viņa darbiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/9-12.1792528489305.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pret visiem"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "un Viņa žēlsirdības"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Viņa darbiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:49.305776050Z",
+  "model": "glm-5.3"
+}

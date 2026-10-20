@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "KJV 'tikai īsu laiku' pret JPS 'gandrīz izdzina' — divas pretējas lasījuma tradīcijas."
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "Ivritā objekts (zeme\/svētā vieta) tikpat kā izlaists; latviešu valodai vajadzēja vietniekvārdu."
+    }
+  ],
+  "translation": "Īsu laiku to ieņēma Tavs svētais ļaudis; mūsu apspiedēji sabradāja Tavu svētnīcu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/63\/17-19.1792523032280.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "Īsu laiku"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ieņēma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Tavs svētais"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "mūsu apspiedēji"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "sabradāja"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "Tavu svētnīcu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:52.281188790Z",
+  "model": "glm-5.3"
+}

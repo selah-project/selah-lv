@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 10:3",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "ivritā nav saikļa; latviešu valodai vajag ⟨bija⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "otrais",
+      "rationale": "משנה burtiski 'atkārtojums, dubults' — otrā amata pozīcija aiz ķēniņa"
+    },
+    {
+      "kind": "crux",
+      "subject": "dzimumam",
+      "rationale": "זרעו: 'viņa dzimums\/pēcnācēji' pret 'visai tautai' — kā Mordohaja pēcteči vai visa jūdu ciltstēvs"
+    }
+  ],
+  "translation": "Jo Mordohajs, jūds, ⟨bija⟩ otrais aiz ķēniņa Ahašveroša un liels starp jūdiem un patikams savu brāļu daudzajiem, meklēdams labu savai tautai un runādams svētu mieru visam viņa dzimumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/10\/1-3.1792530122350.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordohajs"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "jūds"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "otrais"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aiz ķēniņa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "un liels"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "starp jūdiem"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "un patikams"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "daudzajiem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savu brāļu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "meklēdams"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "savai tautai"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un runādams"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "svētu mieru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "viņa dzimumam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:02.351916515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 18:14",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Priedēklis אל latviešu lokatīvā 'saviem brāļiem' saplūst, atsevišķs vārds nav vajadzīgs"
+    },
+    {
+      "kind": "addition",
+      "subject": "izkaltais\/lietais",
+      "rationale": "פסל un מסכה ir tikai 'tēls' un 'lējums\/liejamais tēls'; 'izkaltais' pievienots, lai atšķirtu abus tēlus"
+    },
+    {
+      "kind": "you",
+      "subject": "pieci izlūki runā pieciem simtiem",
+      "rationale": "Brāļu tieša uzruna: 'Vai jūs zināt… ziniet, ko darīsit' — aicinājums rīkoties"
+    }
+  ],
+  "translation": "Tad atsaucās pieci vīri, kas bija gājuši izlūkot ⟨את⟩ zemi — Laišu, un sacīja saviem brāļiem: Vai jūs zināt, ka šajos namos ir efods un terafimi, izkaltais tēls un lietais tēls? Un tagad ziniet, ko jūs darīsit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f056fcc5844fb8a4c9c4930eeeb174a7c17cc49fd6855c45b1de90c4cd1b0a98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/18\/13-16.1792518631645.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Tad atsaucās"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kas bija gājuši"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "izlūkot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Laišu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "saviem brāļiem"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Vai jūs zināt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "šajos namos"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šajos"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efods"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "un terafimi"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "izkaltais tēls"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "un lietais tēls"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "ziniet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "jūs darīsit"
+    }
+  ],
+  "timestamp": "2026-10-20T17:50:31.646257755Z",
+  "model": "glm-5.3"
+}

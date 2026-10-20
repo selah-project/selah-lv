@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atmaksa atgriezīsies uz tavu galvu",
+      "rationale": "Ebreju idiomats 'גמול ישוב בראשך' — darbs atgriežas galvā; latviski pieņemts 'atgriezties uz galvas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgā saiklis, ebreju valodā tā nav."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Jahves diena",
+      "rationale": "Laika rādītājs — 'tuvu ir diena', norādīts nākamās tiesas dienas laiks."
+    }
+  ],
+  "translation": "Jo tuvu ir Jahves diena pār visām tautām; kā tu darīji, tā tev tiks darīts; tava atmaksa atgriezīsies uz tavu galvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d57030e1d0da87ec8e30231ff60e1c74c6490beda45873ea389893a9fa41a09e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/obadiah\/1\/13-16.1792526341817.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tuvu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu darīji"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tiks darīts"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "tava atmaksa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "uz tavu galvu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:01.821795227Z",
+  "model": "glm-5.3"
+}

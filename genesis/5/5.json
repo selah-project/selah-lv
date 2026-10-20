@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajadzīgs ⟨bija⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "930 gadi",
+      "rationale": "Ada mūža garuma uzskaitījums paaudžu hronoloģijā"
+    },
+    {
+      "kind": "you",
+      "subject": "—",
+      "rationale": null
+    }
+  ],
+  "translation": "Un visi Ada dieni, kurus viņš dzīvoja, ⟨bija⟩ deviņi simti trīsdesmit gadu, un viņš nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/5\/5-8.1792511476935.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Un visi... bija"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dieni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "deviņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "un viņš nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:16.936152549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; jautājuma struktūra to prasa latviski."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ko vīna koks dod vairāk par visu koku",
+      "rationale": "מה יהיה var lasīt arī kā retorisku jautājumu par pārākumu, nevis identitāti."
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums",
+      "rationale": "Retorisks jautājums lasītājam\/adjūdzējam par vīna koka vērtību."
+    }
+  ],
+  "translation": "Cilvēka dēls, kas ⟨ir⟩ vīna koks starp visiem kokiem, zars, kas bija starp meža kokiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "431404168a6fc5531a8264f614ad17ac92735cce91bbe9433ee30c0c7329c797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/15\/1-4.1792525013756.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koks"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "vīna koks"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "starp visiem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kokiem"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "zars"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "starp kokiem"
+    },
+    {
+      "surface": "היער",
+      "gloss": "meža"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:53.757693529Z",
+  "model": "glm-5.3"
+}

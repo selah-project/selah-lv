@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jāzeps",
+      "rationale": "Faraons vēršas tieši pie Jāzepa ar paziņojumu par savu sapni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום\/חלמתי",
+      "rationale": "Saknes h-l-m atkārtošanās: 'sapni es sapņoju' — ebreju skaņas spēle, latviski daļēi saglabāta."
+    }
+  ],
+  "translation": "Un faraons sacīja Jāzepam: Sapni es sapņoju, un nav, kas ⟨את⟩ to izskaidro; un es par tevi dzirdēju, sakot: tu dzirdēsi sapni, lai to izskaidro.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/13-16.1792512441261.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jāzepa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sapni"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "es sapņoju"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "un izskaidrot"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "es dzirdēju"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tu dzirdēsi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sapni"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "lai izskaidro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:21.262351203Z",
+  "model": "glm-5.3"
+}

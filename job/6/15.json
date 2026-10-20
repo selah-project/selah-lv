@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nodevīgi",
+      "rationale": "בגד burtiski 'apseglot, rīkoties slēpti' — 'nodevīgi' attēlo nodevības nozīmi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחל \/ נחלים",
+      "rationale": "Atkārtota sakne 'strauts\/upju gultnes' veido salīdzinājuma struktūru: brāļi kā izžūstoši pavasara strauti."
+    }
+  ],
+  "translation": "Mani brāļi rīkojās nodevīgi kā strauts, kā upju gultnes, kas aiztek.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/6\/13-16.1792529067795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mani brāļi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "rīkojās nodevīgi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "strauts"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "kā upju gultnes"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "upju"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "aiztek"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:27.796107977Z",
+  "model": "glm-5.3"
+}

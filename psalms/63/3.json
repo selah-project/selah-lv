@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svētnīcā",
+      "rationale": "קדש ir \"svētums\/svētā vieta\" — konkretizēts kā svētnīca"
+    }
+  ],
+  "translation": "Tā svētnīcā es redzēju tevi, lai skatītu tavu spēku un tavu godību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/63\/1-4.1792527773168.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "svētnīcā"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "es redzēju tevi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai skatītu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tavu spēku"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "un tavu godību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:53.169392137Z",
+  "model": "glm-5.3"
+}

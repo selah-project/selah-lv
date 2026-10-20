@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uzbruka",
+      "rationale": "ויבא ir 'ienāca'; 'uzbruka' ir konteksta lasījums, kā vecajos tulkojumos 'fell upon them'"
+    }
+  ],
+  "translation": "Un Jehošua pēkšņi uzbruka viņiem; visu nakti viņš kāpa augšup no Gilgalas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c741e3fc4a09238b1d666fe19129aa6ca4422efa9a885629d9a0c5800d9f4c85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/10\/9-12.1792517725819.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "uzbruka (ienāca)"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pēkšņi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kāpa augšup"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:35:25.820632213Z",
+  "model": "glm-5.3"
+}

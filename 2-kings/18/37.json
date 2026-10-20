@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 18:37",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'who was' — pievienots priekš latviešu teikuma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רב שקה",
+      "rationale": "Raššake ir amata tituls, nevis personvārds; 'רב שקה' tulkojums kā vārds saglabā ebreju skanējumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המזכיר",
+      "rationale": "'atminētājs' — no saknes 'atcerēties'; citur tulkots kā 'hronists'."
+    }
+  ],
+  "translation": "Un atnāca Eljakims, Hilkiijas dēls, kas ⟨bija⟩ pār namu, un Šebna, rakstvedis, un Joahs, Asafa dēls, atminētājs, pie Hizkijahu ar saplēstiem drēbju gabaliem, un pastāstīja viņam Raššakes vārdus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "63dc32c057d6c0f91b018284bc58cb48912c052f0ac354be088b6e5dc3215102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/37-37.1792521526217.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un atnāca"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakims"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiijas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "un Šebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "rakstvedis"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "un Joahs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "atminētājs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "קרועי",
+      "gloss": "ar saplēstiem"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "drēbju gabaliem"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "un pastāstīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Raššakes"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Raššakes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:38:46.217717018Z",
+  "model": "glm-5.3"
+}

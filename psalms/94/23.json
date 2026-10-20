@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם יצמיתם",
+      "rationale": "darbības vārda atkārtojums — iznīdēšana pasludināta divreiz; latviskā atkārtošana saglabā ritmu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "netikumu",
+      "rationale": "און burtiski 'tukšums, veltīgums, nieks' — arī 'elks'; latviski dots kā 'netikums'"
+    }
+  ],
+  "translation": "Un atgriezīs uz viņiem ⟨את⟩ viņu netikumu, un viņu ļaunumā tos iznīdēs; tos iznīdēs Jahve, mūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/94\/21-23.1792528036255.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un atgriezīs"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "uz viņiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu netikumu"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "viņu netikumu"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "un viņu ļaunumā"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "tos iznīdēs"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "tos iznīdēs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:16.256414955Z",
+  "model": "glm-5.3"
+}

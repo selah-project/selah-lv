@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 22:51",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nogulēja ar saviem tēviem",
+      "rationale": "ebreju eifēmisms 'gulēt ar saviem tēviem' = nomirt; latviski paturēts gandrīz burtiski."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם אבתיו",
+      "rationale": "atkārtojums 'ar saviem tēviem' divreiz pēc kārtas — ebreju ritms, kas latviski saglabāts."
+    }
+  ],
+  "translation": "Un Jehošafats nogulēja ar saviem tēviem un tika aprakts ar saviem tēviem sava tēva Davida pilsētā, un viņa dēls Jehorams sāka valdīt viņa vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/49-52.1792521056783.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nogulēja"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafats"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "saviem tēviem"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "un tika aprakts"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "saviem tēviem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "un sāka valdīt"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehorams"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:30:56.784542557Z",
+  "model": "glm-5.3"
+}

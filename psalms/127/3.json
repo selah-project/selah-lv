@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ir",
+      "rationale": "ivritā nav saikļa; latviešu valodā pievienots nebraķēts saiklis strukturālas skaidrības dēļ"
+    }
+  ],
+  "translation": "Redzi, dēli ir Jahves mantojums, unde — augļa alga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/127\/1-4.1792528393682.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mantojums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "alga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "augļa"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "undē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:13.683864446Z",
+  "model": "glm-5.3"
+}

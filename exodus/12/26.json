@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Jautājuma teikumam latviski vajadzīgs saiklis, ebreju valodā tā nav"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bērnu jautājums",
+      "rationale": "Ieaicinātā bērnu jautājuma forma — peseha stāstīšanas pamatteksts"
+    }
+  ],
+  "translation": "Un notiks, kad jūsu dēli jums teiks: Kāda ⟨ir⟩ šī kalpošana jums?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/12\/25-28.1792512931773.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "teiks"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsu dēli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kāda"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "šī kalpošana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:31.774476139Z",
+  "model": "glm-5.3"
+}

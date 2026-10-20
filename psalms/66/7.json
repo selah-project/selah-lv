@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Subjekts nav izteikts ebreju valodā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neaugstsirdīgie",
+      "rationale": "הסוררים ir 'tie, kas pretojas\/griežas prom' — atturības vārds, ne 'augstsirdība'"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Dalīgais='-vietā' daļiņa bez tīra latviešu atbilstīga vārda, daļēji iekļauta"
+    },
+    {
+      "kind": "you",
+      "subject": "lūgums tautām",
+      "rationale": "V3 nepārprotami vēršas pie Dieva tautas ar imperatīvu"
+    }
+  ],
+  "translation": "Viņš valda ar savu spēku mūžīgi, Viņa acis tautās vēro; lai neaugstsirdīgie necēlas ⟨augstāk⟩. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/66\/5-8.1792527761634.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "valda"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "ar savu spēku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "Viņa acis"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tautās"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "vēro"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "neaugstsirdīgie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nelai"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "necēlas"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨sev⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:41.635486254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jūs esat tauta",
+      "rationale": "Sarkasms: 'ak, jūs esat (vienīgā) tauta' — ar gudrību nomirs līdz ar jums"
+    },
+    {
+      "kind": "you",
+      "subject": "draugiem",
+      "rationale": "Tiešs uzrunas ziņojums Ījaba trim draugiem"
+    }
+  ],
+  "translation": "Patiešām, jūs esat ⟨tauta⟩, un līdz ar jums mirst gudrība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/1-4.1792529146767.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "patiešām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "līdz ar jums"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mirst"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:46.767959519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גזית",
+      "rationale": "Cirsti akmeņi pretēji netīriem; daži tulko 'apstrādātus ar darbarīku', jo חרb apzīmē jebkuru griezšanas rīku, ne tikai zobenu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבך",
+      "rationale": "Burtiski 'tavs zobens'; ebreju vārds aptver jebkuru griezšanas rīku, tāpēc 'darbarīks' ir plašāks tulkojums."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valoda pieprasa palīgdarbības vārdu nolieguma konstrukcijā, ebreju valodā tā nav."
+    }
+  ],
+  "translation": "Un ja akmeni altāri tu darīsi man, ar cirstiem akmeņiem tu to nedrīksti būvēt: ⟨את⟩ cirstos akmeņus — jo ja savu zobenu tu pacelsi pār to, tu to apgānīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/25-26.1792513062552.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altāri"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "akmeni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darīsi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedrīksti"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tu būvēt"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "cirstos akmeņus"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "cirstiem akmeņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "savu zobenu"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "tu pacelsi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pār to"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "tu to apgānīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:42.552990744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 1:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "jūru upuru",
+      "rationale": "Dieva runa vērsta pie upura nesējiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אילים",
+      "rationale": "D4 tabula: איל → briedis, lai gan šeit nozīmē 'auns' — dzīvnieku tabulas forma pārvalda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "esmu sātis",
+      "rationale": "שבעתי — 'esmu pieēdies līdz atraidīšanai', ne vienkārši 'pilns'."
+    }
+  ],
+  "translation": "Kāpēc man jūru upuru pārpilnība? saka Jahve. Esmu sātis dedzināmo upuru ar briežiem un nobaroto teļu taukiem, un vēršu un jēru un āžu asinis es negribēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/1\/9-12.1792521850903.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pārpilnība"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "jūru upuru"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבעתי",
+      "gloss": "esmu sātis"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dedzināmo upuru"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ar briežiem"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "un taukiem"
+    },
+    {
+      "surface": "מריאים",
+      "gloss": "nobaroto teļu"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "un asinis"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "vēršu"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "un jēru"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "un āžu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "es negribēju"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:10.904574385Z",
+  "model": "glm-5.3"
+}

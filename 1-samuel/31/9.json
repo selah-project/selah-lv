@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priecīgo vēsti",
+      "rationale": "לבשר nozīmē 'pasludināt labo vēsti'; vienkārši 'pasludināt' zaudē prieka sakni"
+    },
+    {
+      "kind": "addition",
+      "subject": "ziņu",
+      "rationale": "ivritam piemīt tikai 'izsūtīja'; objekts pievienots latviešu skaidrības labad"
+    },
+    {
+      "kind": "crux",
+      "subject": "כליו",
+      "rationale": "ieroci vai viņa piederumus\/imanti — 'ieroči' konkurē ar 'traipi\/kārba'"
+    }
+  ],
+  "translation": "Un viņi nocirta ⟨את⟩ viņa galvu un novilka ⟨את⟩ viņa ieročus, un izsūtīja ⟨ziņu⟩ pa filistiešu zemi visapkārt, lai pasludinātu priecīgo vēsti viņu elku namā un ⟨את⟩ tautai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/31\/9-12.1792519474760.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "un viņi nocirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa galvu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "viņa galvu"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "un novilka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa ieročus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "viņa ieročus"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "un izsūtīja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa zemi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visapkārt"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "lai pasludinātu priecīgo vēsti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "viņu elku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:34.761426224Z",
+  "model": "glm-5.3"
+}

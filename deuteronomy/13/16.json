@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ar zobena muti",
+      "rationale": "literāri לפי חרב 'pēc zobena mutes' — ebreja metonīmija, saglabāta burtiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ieņem banā",
+      "rationale": "החרם nozīmē pilnīgu iznīcināšanu kā banu — vārds 'herem' ir tehnisks Tanaha termins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sitdams sitīsi",
+      "rationale": "ebreju infinitivus absolutus הכה תכה — intensitātes atkārtojums, latviski ar divdabja atkārtojumu."
+    }
+  ],
+  "translation": "Sitdams sitīsi ⟨את⟩ tās pilsētas iedzīvotājus ar zobena muti; ieņem to banā ⟨את⟩ to un ⟨את⟩ visu, kas tanī, un ⟨את⟩ tās lopus — ar zobena muti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/13\/13-16.1792516952174.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sitdams"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "sitīsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās pilsētas iedzīvotājus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotājus"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tās"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ar muti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ieņem banā"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu, kas tanī"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tās lopus"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "lopus"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ar muti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobeda"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:32.177880549Z",
+  "model": "glm-5.3"
+}

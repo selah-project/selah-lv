@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "rationale": "נבל ir 'muļķis, bezdievis' — ne vienkārši 'togā', bet tas, kas sevī atmet dievbijību."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav izteikta darbības vārda 'būt'; latviešu valoda to prasa."
+    }
+  ],
+  "translation": "Nelga sacīja savā sirdī: Nav Elohim. Viņi ir samaitājuši un darījuši pretīgu netaisnību; nav neviena, kas dara labu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/53\/1-4.1792527705581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nelga"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "savā sirdī"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ir samaitājuši"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "darījuši pretīgu"
+    },
+    {
+      "surface": "עול",
+      "gloss": "netaisnību"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:45.581958383Z",
+  "model": "glm-5.3"
+}

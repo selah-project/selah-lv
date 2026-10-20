@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "piecdesmit dienas",
+      "rationale": "Galu skaitīšana — piecdesmit dienas līdz jaunās minhas dienai."
+    },
+    {
+      "kind": "crux",
+      "subject": "jaunu minhu",
+      "rationale": "מנחה חדשה — 'jaunāmina': vai 'jauna veida minha' (raugi, 23:17) vai 'no jaunās ražas'; tradīcijas dalītas."
+    }
+  ],
+  "translation": "Līdz nākamajai dienai pēc septītā šabata jūs skaitīsiet piecdesmit dienas; un jūs atnesīsiet jaunu minhu Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/23\/13-16.1792515123150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nākamajai dienai"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "septītā"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "jūs skaitīsiet"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "piecdesmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "un jūs atnesīsiet"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "jaunu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:03.152264308Z",
+  "model": "glm-5.3"
+}

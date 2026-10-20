@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדקה pēc D2 netiek vienots par 'taisnību'; sakne cedek saglabāta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ķēniņa spēks",
+      "rationale": "ועז מלך: 'ķēniņa spēks' (ģenitīvs) pret JPS 'spēks ķēniņa, kas mīl tiesu' — vārdsecība ir neviennozīmīga"
+    },
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Perfekts ar palīgdarbības vārdu, kura ebreju valodā nav"
+    }
+  ],
+  "translation": "Un ķēniņa spēks — tiesu tu mīli; tu esi izkārtojis taisnīgumu, tiesu un cedeku Jaakovā tu esi darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/99\/1-4.1792528122632.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Un spēks"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tu mīli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "esi izkārtojis"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "taisnīgumu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "un cedeku"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakovā"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "esi darījis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:42.633475214Z",
+  "model": "glm-5.3"
+}

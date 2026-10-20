@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכלי\/אכלו",
+      "rationale": "'ēdāji... ēd' — atkārtota sakne, latviski daļēi saglabāta ar 'ēd' divreiz"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Elohim viņi nav piesaukuši",
+      "rationale": "Šis pants atkārto 53:4 saturu (Ps 14:4), Mozus teksts ar Elohim"
+    }
+  ],
+  "translation": "Vai nezina ļaunuma darītāji, kas ēd manu tautu kā maizi, — Elohim viņi nav piesaukuši?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/53\/5-7.1792527698923.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vai nezina"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nezina"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "darītāji"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunuma"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "kas ēd"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manu tautu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kā maizi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "piesaukuši"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:38.924036601Z",
+  "model": "glm-5.3"
+}

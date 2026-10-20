@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 6:39",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saikle, kuras ebreju valodā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "loze",
+      "rationale": "הגורל burtīgi 'ociņš, ollitis' — zīlēšanas akmentiņi; 'loze' zaudē redzamo priekšstatu."
+    },
+    {
+      "kind": "crux",
+      "subject": "לטירותם",
+      "rationale": "'טירה' var nozīmēt gan 'nocietinājums, cietoksns', gan 'apmetne, mājokļu grupa' — JPS 'encampments'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "loze",
+      "rationale": "Zemes sadale priesteriem ar lozi — skaitīšanas un sadalīšanas akts."
+    }
+  ],
+  "translation": "Un šīs ir viņu mitekļu vietas pēc viņu nocietinājumiem to robežās — Aharona dēliem, no kehatiešu dzimtas, jo viņiem bija ⟨את⟩ loze.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c0d13b87970fda21185c76eebd634d94e8e4fa8ac7d5ca6363136b9ff3593d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/37-40.1792531236491.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Un šīs"
+    },
+    {
+      "surface": "מושבותם",
+      "gloss": "ir viņu mitekļu vietas"
+    },
+    {
+      "surface": "לטירותם",
+      "gloss": "pēc viņu nocietinājumiem"
+    },
+    {
+      "surface": "בגבולם",
+      "gloss": "to robežās"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "— Aharona dēliem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "no ... dzimtas"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "kehatiešu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "loze"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:36.492749881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועליה",
+      "rationale": "Sieviešu dzimtes vienskaitlis 'pār to' — var attiekties uz pulku (tad 'pār to') vai uz Jahvi; izvēlējos 'pār tiem' pēc KJV\/jps skaidrojuma."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨lai⟩",
+      "rationale": "Latviešu valodai vajadzīga lai-konstrukcija izteiksmes atveidošanai; ivritā tas ir vienkāršs participiāls apgalvojums."
+    }
+  ],
+  "translation": "Un ļaužu pulki lai tevi apjož, un pār tiem augstumā atgriezies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/7\/5-8.1792527047851.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "un pulks"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ļaužu"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "lai tevi apjož"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "un pār tiem"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "augstumā"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "atgriezies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:47.854502774Z",
+  "model": "glm-5.3"
+}

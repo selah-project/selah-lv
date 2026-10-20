@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 57:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעטוף",
+      "rationale": "'aizseglos\/apklāsies' (JPS: ruah, kas apņemas, no manis) pret 'norims, izsīks' (KJV\/BSB); ņemts literals 'aizsegt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elpas",
+      "rationale": "נשמות ir 'elpas\/dvēseles elpa', nevis 'dvēseles' kā atsevišķa būtība"
+    }
+  ],
+  "translation": "Jo ne uz mūžību es ķildosities, un ne uz nemīžu es dusmošos, jo ruah no manis sejas aizseglos, un elpas es esmu radījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/13-16.1792522906811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "es ķildosities"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "uz nemīžu"
+    },
+    {
+      "surface": "אקצוף",
+      "gloss": "es dusmošos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "no manis sejas"
+    },
+    {
+      "surface": "יעטוף",
+      "gloss": "aizseglos"
+    },
+    {
+      "surface": "ונשמות",
+      "gloss": "elpas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "esmu radījis"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:46.812862734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מיחף",
+      "rationale": "Reti vārds — 'nesandalots', ar kailu kāju; tulkotos kā 'kailums'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גרון",
+      "rationale": "Burtiski 'rīkle'; slāpes pēc elkiem — metafora, kas latviski saglabāta ar 'rīkle' un 'slāpes'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Vēstījums tieši adresēts otrā personā sievišķā (sava kāja, tu sacīji)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נואש",
+      "rationale": "'Izmisums \/ nav cerības' vs 'neparko nedarīšu' (Viklifa lasījums); ņemts par izteiksmi 'bez cerības'."
+    }
+  ],
+  "translation": "Atturi savu kāju no kailuma un savu rīkli no slāpēm! Bet tu sacīji: Izmisums ⟨ir⟩; nē, jo es mīlēju svešos, un viņiem pakaļ es iešu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/25-28.1792523204159.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "atturi"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "savu kāju"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "no kailuma"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "un savu rīkli"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "no slāpēm"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "un tu sacīji"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "izmisums"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "es mīlēju"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svešos"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "un viņiem pakaļ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "es iešu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:44.160480379Z",
+  "model": "glm-5.3"
+}

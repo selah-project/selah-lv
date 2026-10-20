@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקצובות",
+      "rationale": "„cirptās\/aizgrieztās” — KJV „even shorn” pret JPS „all shaped alike”; sakne קצב nozīmē griezt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bārenes",
+      "rationale": "šכולה burtiski „apbēdinātā\/ Kas zaudējusi bērnu” — bildē par zobiem, kam neviena netrūkst."
+    }
+  ],
+  "translation": "Tavi zobi kā cirptā barams, kas kāpj augšā no mazgājamās vietas; visas tās dvīņu pāros, un bārenes nav starp tām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/4\/1-4.1792529670459.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "tavi zobi"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kā barams"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "cirptā"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "kas kāpj augšā"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "mazgājamās vietas"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "visas"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "dvīņu pāros"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "un bārenes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "starp tām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:30.460655521Z",
+  "model": "glm-5.3"
+}

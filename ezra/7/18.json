@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Aramaic relative particle folded into the free relative 'ko ... šķitīs labi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prāts",
+      "rationale": "כרעות is 'vēlēšanās, labpatika' — 'griba\/prāts' pēc konteksta."
+    }
+  ],
+  "translation": "Un ko tev un taviem brāļiem šķitīs labi darīt ar atlikušo sudrabu un zeltu, dariet pēc jūsu Eloah prāta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/7\/17-20.1792530580111.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "un ko"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "taviem brāļiem"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "šķitīs labi"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "ar atlikušo"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "un zeltu"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "pēc prāta"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "jūsu Eloah"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "dariet"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:40.112367933Z",
+  "model": "glm-5.3"
+}

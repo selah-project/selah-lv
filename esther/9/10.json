@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח את יד",
+      "rationale": "burtiski 'izsūtīt roku pār' — latviski 'likt roku uz' laupījumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר היהודים",
+      "rationale": "iepriekšējos pantos atkārtotais apzīmējums 'jūdu ienaidnieks' — atkārtojums uzsver ienaidnieka pilnu identitāti."
+    }
+  ],
+  "translation": "desmit Hāmana dēlus, Hammedatas dēlu, jūdu ienaidnieku, tie nogalināja; bet laupījumu viņi neaizskāra — roku ⟨את⟩ viņi uz to nelika.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5caa1af612d20e88fca42557e7ff78938d0d743e3d7f7c3eda2fde417bc56bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/9-12.1792530119579.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hāmana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nogalināja"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "laupījumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nelika (roku)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu roku"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "viņu roku"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:59.580532913Z",
+  "model": "glm-5.3"
+}

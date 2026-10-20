@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוא \/ און",
+      "rationale": "'viltība' un 'tukšā nekrietnība' stāv pretī viena otrai — abu vārdu niecīguma nozīme latviski tik daļēji dzirdama"
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "'to' nav ebreju tekstā — beigu darbības vārda objekts pievienots"
+    }
+  ],
+  "translation": "Un ja viņš nāk redzēt, viltu viņš runā; viņa sirds sakopo sev ļaunumu; izgājis ārā, viņš to izstāsta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/41\/5-8.1792527477460.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viņš nāk"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "redzēt"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "viltu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "viņš runā"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirds"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "sakopo"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgājis"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "viņš izstāsta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:57.461970823Z",
+  "model": "glm-5.3"
+}

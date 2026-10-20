@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "haggai 2:19",
+  "book": "haggai",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "klētī",
+      "rationale": "מגורה nozīmē gan 'klēts', gan 'šausmas' — te 'klēts' pēc konteksta, bet vārda divdomība paliek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "devis",
+      "rationale": "נשא burtiski 'pacelt\/nest' — augļu 'paceļšana' kā ziedēšana; latviski 'devis augļus'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jautājums un solījums",
+      "rationale": "Tukšā klēts un neziedošie koki pret 'no šīs dienas Es svētīšu' — asa pretpare, ko latviešu locījumi mīkstina."
+    }
+  ],
+  "translation": "Vai sēkla vēl ir klētī? Un vēl līdz šim vīnogulājs un vīģeskoks un granātkoks un olīvkoks nav devis ⟨augļus⟩ — no šīs dienas Es svētīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/haggai\/2\/17-20.1792526686090.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העוד",
+      "gloss": "Vai vēl"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sēkla"
+    },
+    {
+      "surface": "במגורה",
+      "gloss": "klētī"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "Un vēl līdz šim"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "vīnogulājs"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "un vīģeskoks"
+    },
+    {
+      "surface": "והרמון",
+      "gloss": "un granātkoks"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "un koks"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "olīvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "devis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šīs dienas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Es svētīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:46.091728997Z",
+  "model": "glm-5.3"
+}

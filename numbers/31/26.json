@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ראש מלקוח",
+      "rationale": " pavēle saskaitīt kara laupījumu — skaitīšanas akts."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨no⟩",
+      "gloss-note": "",
+      "rationale": "latviešu valodai vajadzīgs prievārds, ko ebreju konstrukta saite izsaka bez vārda"
+    }
+  ],
+  "translation": "Pacel ⟨את⟩ galvu ⟨no⟩ kara laupījuma, ⟨no⟩ gūstekņiem, cilvēkos un lopos — tu, un priesteris Elazars, un draudzes ciltstēvu galvas:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/31\/25-28.1792516363246.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "Pacel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galvu (laupījuma skaitu)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvu"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "kara laupījuma"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "gūstekņiem"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "cilvēkos"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "un lopos"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "un Elazars"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "un galvas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ciltstēvu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "draudzes"
+    }
+  ],
+  "timestamp": "2026-10-20T17:12:43.248392833Z",
+  "model": "glm-5.3"
+}

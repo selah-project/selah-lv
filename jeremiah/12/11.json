@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 12:11",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שממה\/שמה\/נשמה",
+      "rationale": "Saknes שׁמם atkārtošanās četras reizes — posts, izpostīts, pamests; latviski zudis.",
+      "wordplay": true
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Izteikuma objekts pievienots latviešu valodai saprotamībai."
+    }
+  ],
+  "translation": "Viņi to ir padarījuši par postu, un tas sēro par mani — posts; visa zeme ir izpostīta, jo nav neviena, kas ⟨ko⟩ liek uz sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1569b722d48746dd5808517ab5af8bee91e20db1beed9eeb2356b376e1a815e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/9-12.1792523473422.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ir padarījuši"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "par postu"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "sēro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "par mani"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "posts"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ir izpostīta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "liek"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:13.423086047Z",
+  "model": "glm-5.3"
+}

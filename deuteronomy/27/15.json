@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 27:15",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פסל",
+      "rationale": "'pielikums' — izgrebtā elka attēls; latviski trūkst viena vārda, salikums no 'pie' + 'likt'."
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "את vietā pievienots pronoms 'to', lai teikums latviski strādātu."
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתר",
+      "rationale": "Elks paslēpts slepenībā — slēptās lietas motīvs."
+    },
+    {
+      "kind": "invitation",
+      "subject": "visa tauta",
+      "rationale": "Tauta aicināta atbildēt 'Amen' — līdzdalības formulas aicinājums."
+    }
+  ],
+  "translation": "Lāsts vīram, kas dara pielikumu un lietu attēlu — Jahves negantību, amatnieka roku darbu — un paslēpj ⟨את⟩ to slēptuvē; un visa tauta atbildēs un teiks: Amen.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4c233c4c013576e76af9071abf92bc824ce09ead03034f6cb428cd0eef44eac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/27\/13-16.1792517191282.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lāsts"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dara"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "pielikumu"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "un lietu attēlu"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "negantību"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rokām"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "amatnieka"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un paslēpj"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "slēptuvē"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "atbildēs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "un teiks"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-20T17:26:31.300864002Z",
+  "model": "glm-5.3"
+}

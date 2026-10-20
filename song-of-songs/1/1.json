@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שיר השירים",
+      "rationale": "Ebreju superlatīvs — 'dziesma dziesmām' kā 'debesu debesis'; latviski saglabāts literāli, nevis 'visgreznākā dziesma'."
+    }
+  ],
+  "translation": "Dziesma dziesmām, kas ⟨ir⟩ Šlomo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/1\/1-4.1792529631747.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dziesma"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "dziesmām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šlomo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:51.747739685Z",
+  "model": "glm-5.3"
+}

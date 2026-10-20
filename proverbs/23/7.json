@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "Slavenā grūtība: 'vārtu sargs \/ novērtētājs \/ rēķinātājs' — KJV 'kā viņš domā sirdī', JPS 'kā izrēķinājis sevī'; izvēlēts 'rēķinātājs' kā tuvākais saknes 'svērt, vērtēt' nozīmēm."
+    },
+    {
+      "kind": "alternative",
+      "subject": "savā dvēselē",
+      "rationale": "נפש tuvāk 'elpa, dzīvības spēks' nekā 'dvēsele' modernā nozīmē."
+    }
+  ],
+  "translation": "Jo kā rēķinātājs savā dvēselē, tāds viņš ir: «Ēd un dzer,» viņš tev saka, bet viņa sirds nav ar tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/5-8.1792528857730.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rēķinātājs"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "savā dvēselē"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "un dzer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "viņš saka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "bet viņa sirds"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nemaz nav"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:57.731500349Z",
+  "model": "glm-5.3"
+}

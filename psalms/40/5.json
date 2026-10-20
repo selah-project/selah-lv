@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir'; latviešu valoda to pieprasa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "augstprātīgie",
+      "rationale": "רהבים burtiski 'nekaunīgie\/lelwējie' — īpašs vārds 'pārdrošie'."
+    },
+    {
+      "kind": "you",
+      "subject": "cilvēks",
+      "rationale": "Svētības paziņojums nosaka klausītāju — laimes formulā izsaukuma raksturs."
+    }
+  ],
+  "translation": "Cik laimīgs ⟨ir⟩ cilvēks, kas par savu patvērumu ir licis Jahvi, un nav vērsies pie augstprātīgajiem un pie tiem, kas nogrimst melos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/5-8.1792527507202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Cik laimīgs"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ir licis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "par savu patvērumu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vērsies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "augstprātīgajiem"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "un pie tiem, kas nogrimst"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:27.203397601Z",
+  "model": "glm-5.3"
+}

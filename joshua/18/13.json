@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 18:13",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'tā ir Bet-El' — pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "atrodas",
+      "rationale": "Darbības vārds pietiekamībai latviešu teikumā pie 'kas dienvidos'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "robežas apraksts",
+      "rationale": "Benjamina zemes robežu uzmērīšana ar virziena un orientieru uzskaitījumu."
+    }
+  ],
+  "translation": "Un robeža gāja pāri no turienes Lūzas pusē, līdz Lūzas plecam dienvidpusē — tā ⟨ir⟩ Bet-El; un robeža nokāja pie Atarot-Adaras, uz kalna, kas ⟨atrodas⟩ dienvidos no apakšējās Bet-Horonas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e55e02be3472b0c6dd4faa87c2edab964613bb0cdc32b6e9ed884d90383acdf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/18\/13-16.1792517922978.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "un gāja pāri"
+    },
+    {
+      "surface": "משם",
+      "gloss": "no turienes"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "robeža"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "Lūzas pusē"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "plecu"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "Lūzas"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "dienvidpusē"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "un nokāja"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "robeža"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Atarot-"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "-Adara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "dienvidos"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "no Bet-"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "-Horonas"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "apakšējās"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:42.979392369Z",
+  "model": "glm-5.3"
+}

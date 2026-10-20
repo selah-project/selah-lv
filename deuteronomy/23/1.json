@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atsegt drānas malu",
+      "rationale": "יִגְלֶה כְּנַף — 'atsegt spārnu\/malu' ir ebreju eifēmisms par dzimumaktu; malu atstāj, lai redzama būtu bilde"
+    },
+    {
+      "kind": "elision",
+      "subject": "sievas īpašumlocījums",
+      "rationale": "ebreju ģenitīvs אֵשֶׁת אָבִיו latviešu valodā prasa 'sava tēva sievu' ar īpašumvārdu, kas ebrejiski nav"
+    }
+  ],
+  "translation": "Vīrs nedrīkst ņemt ⟨את⟩ sava tēva sievu un nedrīkst atsegt sava tēva drānas malu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/23\/1-4.1792517200128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nedrīkst"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ņemt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava tēva sievu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nedrīkst"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "atsegt"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "drānas malu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T17:26:40.129654504Z",
+  "model": "glm-5.3"
+}

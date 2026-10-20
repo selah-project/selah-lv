@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ zināms ⟨ir⟩",
+      "rationale": "Ebreju infinitīvs לדעת 'lai zināt' — latviskai plūsmai pievienots izteiksmes darbinieks"
+    }
+  ],
+  "translation": "Lai ⟨ir⟩ zināms ⟨ir⟩ uz zemes Tavs ceļš, starp visām tautām Tava pestīšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/67\/1-4.1792527757568.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Lai ⟨ir⟩ zināms"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Tavs ceļš"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "starp visām"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "Tava pestīšana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:37.570003666Z",
+  "model": "glm-5.3"
+}

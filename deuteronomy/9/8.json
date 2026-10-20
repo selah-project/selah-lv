@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתאנף",
+      "rationale": "Burtiski 'sāka smagi elpot (no dusmām)' — deguna nāsis; latviski 'iedegās dusmās'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקצפתם \/ ויתאנף",
+      "rationale": "Divi dažādi dusmu darbības vārdi vienā pantā — 'sakaitināt' un 'elpot dusmās'."
+    }
+  ],
+  "translation": "Un Horebā jūs sakaitinājāt ⟨את⟩ Jahvi, un Jahve iedegās dusmās uz jums, lai iznīcinātu ⟨את⟩ jūs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "46863c6bc441592994da4fdf1f864742047b0fcf977a2fe33a4cb8209087dc3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/9\/5-8.1792516831604.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Un Horebā"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "jūs sakaitinājāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "un iedegās dusmās"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "uz jums"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "lai iznīcinātu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:31.608015853Z",
+  "model": "glm-5.3"
+}

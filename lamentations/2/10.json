@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 2:10",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עפר",
+      "rationale": "'Pelnus' KJV ietekmē; burtiski 'zepes' — smilšu putekļi, ko kaisa uz galvas sērās."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לארץ...לארץ",
+      "rationale": "Verš ietvars: sēd 'uz zemes' sākumā, galvas 'līdz zemei' beigās."
+    }
+  ],
+  "translation": "Sēž uz zemes un klusē Cionas meitas vecaji; tie cēluši pelnus virs savām galvām, apjozuši rudu maisus; Jerušalaimas jaunavas nākušas līdz zemei ar savām galvām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/2\/9-12.1792529848358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "Sēž"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "klusē"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vecaji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionas"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "cēluši"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pelnus"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "savām galvām"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "apjozuši"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "rudu maisus"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "nākušas līdz"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "ראשן",
+      "gloss": "savām galvām"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "jaunavas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:28.359219382Z",
+  "model": "glm-5.3"
+}

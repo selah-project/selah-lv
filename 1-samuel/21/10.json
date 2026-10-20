@@ -1,0 +1,164 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 21:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav darbības vārda 'ir' — 'tā ir ietīta', pievienots iekavās"
+    },
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "Ela ieleja — 'ela' nozīmē arī 'terebinta', tāpēc 'Terebintas ieleja' pret 'Elas ieleja' kā vietvārds"
+    },
+    {
+      "kind": "elision",
+      "subject": "בזה",
+      "rationale": "'Šeit' iekavās — punktuācija nenoteikta, 'bāzeh' var nozīmēt 'pie tā' vai 'šeit'"
+    }
+  ],
+  "translation": "Un priesteris sacīja: zobens Goljata, pelištieša, ko tu siti Ela ielejā, — redzi, tas ⟨ir⟩ ietīts drānā aiz efoda; ja ⟨את⟩ to ņemsi sev, ņem, jo citas bez tās ⟨šeit⟩ nav. Un Davids sacīja: nav ⟨tādas⟩ kā tā — dod to man!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6efd213180c175abf468ca10b49c8143be695c213b911d0096cf7044a8c8acaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/21\/9-12.1792519354694.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goljata"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelištieša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tu siti"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "לוטה",
+      "gloss": "ietīts"
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": "drānā"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to ņemsi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tu ņemsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ņem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "citas"
+    },
+    {
+      "surface": "זולתה",
+      "gloss": "bez tās"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "⟨šeit⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "kā tā"
+    },
+    {
+      "surface": "תננה",
+      "gloss": "dod to"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:34.695155059Z",
+  "model": "glm-5.3"
+}

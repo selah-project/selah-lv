@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lai",
+      "rationale": "Ivritam trūkst jussīva palīgverba, latviešu valodai vajadzīgs 'lai'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pantu",
+      "rationale": "Pavēle skolēnam: acīm skatīties taisni priekšā."
+    }
+  ],
+  "translation": "Tavas acis lai skatās taisni priekšā, un tavi plakstiņi lai iztaisnojas pretī tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/4\/25-27.1792528541674.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "tavas acis"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "taisni priekšā"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "lai skatās"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "un tavi plakstiņi"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "lai iztaisnojas"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pretī tev"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:41.675127608Z",
+  "model": "glm-5.3"
+}

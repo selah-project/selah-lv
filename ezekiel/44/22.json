@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 44:22",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'תהיה' kā kopulas ar nozīmi 'ir' — pievienots latviešu valodas 'ir' iekavās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šķirto",
+      "rationale": "גרושה — no גרש 'padzīt, šķirt'; šķirtā (atlaistā) sieva."
+    }
+  ],
+  "translation": "Atraitni un šķirto sievu viņi neņems sev par sievām, bet tikai jaunavu no Jisraēla nama sēklas, un atraitni, kas ⟨ir⟩ kāda priestera atraitne, viņi ņems.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/44\/21-24.1792525875618.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "Atraitni"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "un šķirto sievu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ņems"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "par sievām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "jaunavu"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "no sēklas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "un atraitni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "atraitne"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "no priestera"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "viņi ņems"
+    }
+  ],
+  "timestamp": "2026-10-20T19:51:15.619033504Z",
+  "model": "glm-5.3"
+}

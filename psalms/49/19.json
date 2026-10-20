@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa, dzīvības spēks, ēstgriba' — 'dvēsele' ir tradīcijas pēc pieņemts aizstājējs."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְיוֹדֻךָ",
+      "rationale": "Skan 'un tie tevi slavēs' — daudzskaitlis 'cilvēki' pievienots; daži lasa kā jautājumu 'vai tie tevi slavēs?'."
+    },
+    {
+      "kind": "addition",
+      "subject": "cilvēki",
+      "rationale": "Ebreju darbības vārda forma ir 3. personas daudzskaitlis bez subjekta; latviski subjekts pievienots."
+    }
+  ],
+  "translation": "Jo savā mūžā viņš svētī ⟨savu⟩ dvēseli, un cilvēki tevi slavēs, kad tu sev labu dari.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/17-20.1792527605028.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa dvēsele"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "savā mūžā"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "svētī"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "un tevi slavēs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "labu dari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:05.029769013Z",
+  "model": "glm-5.3"
+}

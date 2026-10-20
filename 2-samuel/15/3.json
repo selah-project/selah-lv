@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Kopula pievienota latviešu valodas vajadzībām."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת המלך",
+      "rationale": "Burtiski 'no karaļa' — daži tulko 'karaļa iecelts vīrs' (KJV 'deputed of the king'); šeit paturēts prievārds 'no' ar ⟨את⟩ zīmi."
+    },
+    {
+      "kind": "you",
+      "subject": "Avšaloms runā vīram",
+      "rationale": "Pretendentiskā valgaruna: 'Redzi, tavi vārdi...' — tieša uzruna."
+    }
+  ],
+  "translation": "Un Avšaloms sacīja viņam: Redzi, tavi vārdi ⟨ir⟩ labi un pareizi, bet nav, kas tevi uzklausītu no ⟨את⟩ karaļa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/1-4.1792519979267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloms"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavi vārdi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "labi"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "un pareizi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "bet uzklausīt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "no karaļa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaļa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:59.268638338Z",
+  "model": "glm-5.3"
+}

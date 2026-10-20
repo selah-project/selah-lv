@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבי — 'sēdies' vai 'sēdies tronī'",
+      "rationale": "יָשַׁב בְּ verbn nozīmē vienkārši 'apsēsties'; ASV\/BSB pievieno 'savā tronī' no konteksta — ebreju tekstā troņa vārda nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסרי",
+      "rationale": "Burtiski 'mācības\/saites' — sakne nozīmē gan disciplīnu, gan pavadu; latviski 'važas' saglabā piesaistes ainu."
+    },
+    {
+      "kind": "crux",
+      "subject": "התפתחו — vīriešu dzimtes forma sievišķā uzrunā",
+      "rationale": "Darbības forma ir vīriešu dzimtes daudzskaitlis (hitpa'el: 'atbrīvojieties'), kaut uzrunātā ir sievišķa — zināma gramatiska grūtība."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jerušalaimai",
+      "rationale": "Pavēļu virkne — celies, sēdies, atrais — aicina gūstā esošo Jerušalaimu piecelties."
+    }
+  ],
+  "translation": "Iekuļies no putekļiem, celies, sēdies, Jerušalaima, atrais važas no sava kakla, gūstā nomātā, Ciona meita.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "efd199685355b7bbaf5f176ed09e53c74a324a6f30ef3117ec35ba405d807224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/52\/1-2.1792532675726.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "iekuļies"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "no putekļiem"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "celies"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "sēdies"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "atrais"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "važas"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "no sava kakla"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "gūstā nomātā"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:35.727246673Z",
+  "model": "glm-5.3"
+}

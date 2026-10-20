@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Turpināts tiešs lūgums."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקרב \/ תבוא",
+      "rationale": "169–170 pantu paralēlisms: divi darbības vārdi par piekļūšanu Viņa vaiga priekšai."
+    }
+  ],
+  "translation": "Lai mana lūgšana nāk Tavā vaiga priekšā; pēc Tava teikuma izrauj mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4bde22fbd19dac0a7ab8e8cf603b0923a5a602e1046e230f27de7ea05fe86548",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/169-172.1792528312471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mana lūgšana"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Tavā vaiga priekšā"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "pēc Tava teikuma"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izrauj mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:52.472457248Z",
+  "model": "glm-5.3"
+}

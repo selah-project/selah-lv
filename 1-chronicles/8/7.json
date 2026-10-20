@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוא הגלם",
+      "rationale": "Nav skaidrs, kas aizveda trimdā: JPS lasa 'tie (Naamans, Ahija, Gerā) bija tie, kas aizveda', KJV\/BSB — 'viņš (Ehuds\/Gerā) aizveda tos'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzemdināja",
+      "rationale": "הוליד — radīja\/baudīja pēcnācējus; latviski 'dzemdināja' kā vīrieša darbību."
+    }
+  ],
+  "translation": "un Naamans, un Ahija, un Gerā — viņš tos aizveda trimdā un dzemdināja ⟨את⟩ Uzu un ⟨את⟩ Ahihudu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/8\/5-8.1792531254219.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "un Naamans"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "un Ahija"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "un Gerā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "tos aizveda trimdā"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "un dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahihudu"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihudu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:54.221112382Z",
+  "model": "glm-5.3"
+}

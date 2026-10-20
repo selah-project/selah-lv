@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ašera",
+      "rationale": "האשרה ir dievības\/vietnes vārds, nevis 'birzs' (KJV)"
+    },
+    {
+      "kind": "crux",
+      "subject": "parastā ļaužu",
+      "rationale": "בני העם burtiski 'ļaužu dēli' — 'parastie ļaudis' pret burtisku lasījumu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "אֹתָהּ ir vietniekvārds 'to', nevis aleph-tav atzīme"
+    }
+  ],
+  "translation": "Un viņš iznesa ⟨את⟩ Ašeru no Jahves nama, ārā no Jerušalaimas, uz Kidronas strautu, un sadedzināja to Kidronas strautā, un sasmalcināja to putekļos, un izbēra tās putekļus pār parastā ļaužu dēlu kapiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/23\/5-8.1792521741572.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "iznesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašeru"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ašeru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ārā no"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "strautu"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronas"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "sadedzināja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ to"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "strautā"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronas"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "sasmalcināja"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "putekļos"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "izbēra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās putekļus"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "tās putekļus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kapiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "parastā ļaužu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:42:21.573579622Z",
+  "model": "glm-5.3"
+}

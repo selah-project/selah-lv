@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "būtu",
+      "rationale": "Perfekta forma nozīmē neīstenotu iespēju: 'Es būtu varējis sist... un tu būtu izzudis' — tā KJV\/ASV pretī YLT lasījumam 'Es sitīšu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mēris",
+      "rationale": "דבר — mēris, postība; viens vārds ar 'runāt' sakni, latviski atsevišķs vārds."
+    }
+  ],
+  "translation": "Jo jau tagad Es būtu izstiepis ⟨את⟩ savu roku un būtu ⟨את⟩ tevi sitis, un ⟨את⟩ tavu tautu ar mēri, un tu būtu iznīcināts no zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/13-16.1792512804221.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Es būtu izstiepis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "un būtu sitis"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tevi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tavu tautu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavu tautu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ar mēri"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "un tu būtu iznīcināts"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:24.222779785Z",
+  "model": "glm-5.3"
+}

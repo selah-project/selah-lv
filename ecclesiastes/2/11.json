@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 2:11",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל burtiski 'tvaika elpa'; atstāts kā hevel, nevis 'tuksimums' vai 'veltīgums'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah tvēršana",
+      "rationale": "רעות רוח burtiski 'ruah ganīšana\/tvēršana' — vēja ķeršana, ne 'garas kaitināšana'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju teikumā nav saites; latviešu valodai vajadzīgs 'ir'"
+    }
+  ],
+  "translation": "Un es pagriezos, es, visos savos darbos, ko bija darījušas manas rokas, un pūlā, kurā biju pūlējies darīt; un lūk, viss ⟨ir⟩ hevel un ruah tvēršana, un nav nekāda ieguvuma zem saules.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/2\/9-12.1792529905599.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Un es pagriezos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "savos darbos"
+    },
+    {
+      "surface": "שעשו",
+      "gloss": "ko darījušas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manas rokas"
+    },
+    {
+      "surface": "ובעמל",
+      "gloss": "un pūlā"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "kurā biju pūlējies"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "un tvēršana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ieguvuma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saules"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:25.600168180Z",
+  "model": "glm-5.3"
+}

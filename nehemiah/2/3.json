@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 2:3",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apriesti ar uguni",
+      "rationale": "אכלו burtiski 'apēst' — uguns 'ēd' vārtus; attēls saglabāts"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā trūkst saikļa pie חרבה"
+    }
+  ],
+  "translation": "Un es sacīju ķēniņam: Lai ķēniņš dzīvo mūžīgi! Kāpēc lai mana seja nebūtu drūma, ja pilsēta, manu tēvu kapu nams, ir izpostīta un tā vārti apriesti ar uguni?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/2\/1-4.1792530662780.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Un es sacīju"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lai dzīvo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "būtu drūma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mana seja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "kapu"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "manu tēvu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ir izpostīta"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "un tā vārti"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "apriesti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ar uguni"
+    }
+  ],
+  "timestamp": "2026-10-20T21:11:02.781886069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "Burtiski 'ja ne' — ebreju apgalvojuma stiprinājums: 'noteirti, tā'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמיתי",
+      "rationale": "דָמָה ir 'salīdzināt\/iepriekš iedomāties'; 'apdomāju' dod jēgu, burtāk 'biju iedomājies to sev priekšā'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קום",
+      "rationale": "Darbības vārds 'celties\/pastāvēt' — nodoms 'stāvēs un noturēsies', latviski 'pieaugs stāv' glabā celsanos."
+    }
+  ],
+  "translation": "Jahve Cevaot ir zvērējis, sacīdams: Ja ne — kā es apdomāju, tā ⟨ir⟩ noticis, un kā es apņēmos, tā ⟨notiks⟩: tā pieaugs stāv.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d306ceecf31b7514353374ef436f3933f2e85237973d0f9e87c16a735df2633b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/24-24.1792532653670.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ir zvērējis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "es apdomāju"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ir noticis"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "un kā"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "es apņēmos"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "pieaugs stāv"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:13.670977456Z",
+  "model": "glm-5.3"
+}

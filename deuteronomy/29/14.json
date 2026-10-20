@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Teksts tieši uzrunā klātesošo Israēlu Moaba līdzenumā."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kas nav šeit šodien",
+      "rationale": "Tas, 'kas nav šeit', apzināti nesauc vārdā — nākamās paaudzes un neklātesošie derībā ietverti neteikti."
+    },
+    {
+      "kind": "addition",
+      "subject": "ar to",
+      "rationale": "Ebrejiski nav prievārda 'ar' — כי אשר straume pārnests kā 'ar to, kas', lai latviski izskanētu derības objekts."
+    }
+  ],
+  "translation": "Nevis ⟨את⟩ ar to, kas ⟨ir⟩ šeit ar mums, kas stāv šodien Jahves, mūsu Elohim, priekšā, un ⟨את⟩ ar to, kas šeit ar mums šodien ⟨nav⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/29\/13-16.1792517327519.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, kas ir šeit ar mums"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ir"
+    },
+    {
+      "surface": "פה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stāv"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "to, kas nav šeit ar mums"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nav"
+    },
+    {
+      "surface": "פה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    }
+  ],
+  "timestamp": "2026-10-20T17:28:47.521220428Z",
+  "model": "glm-5.3"
+}

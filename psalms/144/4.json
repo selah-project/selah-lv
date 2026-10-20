@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elpa-hevel",
+      "rationale": "הבל ir 'tvaika elpa, izplēnība' — 'vājība' vai 'nievība' viena par šauru"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis, kura ebreju valodā nav"
+    }
+  ],
+  "translation": "Cilvēks ir līdzīgs elpai-hevel, viņa dienas ⟨ir⟩ kā ēna, kas pāriet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/144\/1-4.1792528451432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Cilvēks"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "elpai-hevel"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ir līdzīgs"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "viņa dienas"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kā ēna"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "kas pāriet"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:11.433751108Z",
+  "model": "glm-5.3"
+}

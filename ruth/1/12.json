@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 1:12",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Noamas meitas",
+      "rationale": "Turpināta tieša uzruna ar divkāršu pavēli 'griezieties atpakaļ... ejiet'."
+    },
+    {
+      "kind": "crux",
+      "subject": "גם הייתי הלילה לאיש",
+      "rationale": "Burtiski 'arī biju šonakt vīram' — hipotētisks nodoms: 'ja pat šonakt apprecētos'; pārsvarā lasīts kā pieņēmums, ne atskaite."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cerība",
+      "rationale": "תקוה burtiski ir 'aukla, diegs' — attiecībā 'gaidas, cerība'."
+    }
+  ],
+  "translation": "Griezieties atpakaļ, manas meitas, ejiet, jo esmu pārāk veca, lai būtu vīram; jo es teicu sev: man ir cerība — arī šonakt būtu vīram, un arī dzemdētu dēlus:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/9-12.1792529723606.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבנה",
+      "gloss": "griezieties atpakaļ"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "manas meitas"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ejiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "esmu pārāk veca"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "lai būtu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "es teicu sev"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "cerība"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "es būtu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "šonakt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "es dzemdētu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēlus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:23.607344594Z",
+  "model": "glm-5.3"
+}

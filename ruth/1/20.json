@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעמי \/ מרא",
+      "rationale": "Vārdu spēle: Noemi ('jaukā, saldā') pret Mara ('rūgtā') no saknes מרר 'būt rūgtam' — המרר atbalso vārdu Mara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Šadai",
+      "rationale": "שדי atstāts pēc skanējuma 'Šadai' saskaņā ar D1, nevis tulkots kā 'Visuvarenais'."
+    }
+  ],
+  "translation": "Un viņa sacīja ⟨uz viņām⟩: Nesauciet mani par Noemi, sauciet mani par Mara, jo Šadai ir darījis man ļoti rūgti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/17-20.1792529756187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "un viņa sacīja"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "⟨uz viņām⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "sauciet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "par Noemi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "sauciet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "par Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ir darījis rūgti"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:56.188968909Z",
+  "model": "glm-5.3"
+}

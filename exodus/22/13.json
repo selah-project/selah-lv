@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלם ישלם",
+      "rationale": "Infinitivus absolutus — 'pilnīgi atlīdzinās'; dublēšana uzsver pilnīgu atlīdzību."
+    },
+    {
+      "kind": "crux",
+      "subject": "טריפה (plēsts)",
+      "rationale": "KJV seko versijai par 'plēstu gabalu kā liecinieku' (13. p. turpin. ebreju skaitīšanā); JPS šeit lasa aizņēmuma likumu — ישאל kā 'aizņemas', nevis 'plēsts'."
+    }
+  ],
+  "translation": "Un ja vīrs ko aizņemas no sava tuvākā, un tas tiek savainots vai mirst — saimniekam ⟨nav⟩ klāt, pilnīgi viņš atlīdzinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/13-16.1792513075661.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "aizņemas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "no"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sava tuvākā"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "un tiek savainots"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirst"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "saimniekam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "klāt"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pilnīgi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlīdzinās"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:55.661716486Z",
+  "model": "glm-5.3"
+}

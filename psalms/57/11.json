@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir liels",
+      "rationale": "עד priekšlaikus priekš גדל predikāts latviski novietots pēc apstākļa vārda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד paliek transliterēts pēc D2 — 'žēlastība' vien par šauru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uzticamība",
+      "rationale": "אמת burtiski 'stabilitāte, patiesums' — attieksmē uz Dievu 'uzticamība'"
+    }
+  ],
+  "translation": "Jo līdz ⟨pat⟩ debess augstumiem sniedzas tavs hesed, un līdz mākoņiem tava uzticamība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/57\/9-12.1792527687032.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "sniedzas ⟨ir liels⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debess augstumiem"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavs hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mākoņiem"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tava uzticamība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:27.032990983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju teikumā nav saikļa 'es esmu Jahve'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינקת \/ תינקי",
+      "rationale": "Divas vienas saknes ינק formas veido paralelismu 'zīdīsi… zīdīsi', kas saglabāts."
+    }
+  ],
+  "translation": "Un tu zīdīsi tautu pienu un ķēniņu krūti tu zīdīsi, un tu zināsi, ka es ⟨esmu⟩ Jahve, tavs pestītājs un tavs izpestītājs, Jaakoba Varenais.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/60\/13-16.1792523074845.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "un tu zīdīsi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pienu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "un krūti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "tu zīdīsi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "un tu zināsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "tavs pestītājs"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "un tavs izpestītājs"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Varenais"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:34.846413664Z",
+  "model": "glm-5.3"
+}

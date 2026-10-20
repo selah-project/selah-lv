@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 27:21",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החרם",
+      "rationale": "hērem: 'iznīcināšanai atdotais' pret 'atstātais' — šeit 'lauks, kas neatgriežas'; tulkots kā 'atdots par ārsts'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jobels",
+      "rationale": "יובל no ragu skaņas — saglabāts transkripcijā, nevis 'atbrīvošanas gads'"
+    }
+  ],
+  "translation": "Un lauks, kad tas iziet jobela gadā, būs svēts Jahvem kā laiks, kas atdots par ārsts — priesterim tas kļūs par viņa īpašumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d2a7744f7a7aad6ab64b2a4443a3d3542b17a2064e1230df7ea9fe619bf7998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/27\/21-24.1792515347715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un būs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauks"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kad tas iziet"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "jobela gadā"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēts"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "כשדה",
+      "gloss": "kā laiks"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "kas atdots par ārsts"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "priesterim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tas kļūs par"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "viņa īpašumu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:55:47.717362705Z",
+  "model": "glm-5.3"
+}

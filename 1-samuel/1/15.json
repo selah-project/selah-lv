@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "nefeš ir 'elpa, dzīvības spēks', ne 'dvēsele' — atstāts kā nefesa, lai saglabātu vārda formu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "izlijināju savu nefesu",
+      "rationale": "ebreju idiomā 'izliet savu nefesu' nozīmē izklāstīt visu savu iekšējo lūgšanā; atstāts burtiski"
+    },
+    {
+      "kind": "you",
+      "subject": "Hanna uzrunā Eli",
+      "rationale": "tieša atbilde: 'Nē, mans kungs' — אדני šeit par cilvēku"
+    }
+  ],
+  "translation": "Un Hanna atbildēja un sacīja: Nē, mans kungs! Es esmu sieviete ar cietu ruah, un vīnu un stipro dzērienu es neesmu dzērusi, bet es izlijināju ⟨את⟩ savu nefesu Jahves priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/1\/13-16.1792518733323.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "Un atbildēja"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nē"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sieviete"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ar cietu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es esmu"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "un vīnu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "un stipro dzērienu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neesmu"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "dzērusi"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "bet es izlijināju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu nefesu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:13.324787181Z",
+  "model": "glm-5.3"
+}

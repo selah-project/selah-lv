@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'רצח הוא' — 'slepkava viņš'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Infinitīva absolūta atkārtojums — 'nāvē tiks nogalināts' zaudē dubulto darbības vārda skanējumu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רצח ... הרצח",
+      "rationale": "Saknes רצח atkārtojums divreiz pantā uztur juridisko formulu"
+    }
+  ],
+  "translation": "Un ja ar akmeni rokā, ar kuru var nomirt, viņš viņu sita un viņš nomira — slepkava viņš ⟨ir⟩: nāvē tiks nogalināts slepkava.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7586cc054bbc5446ac83ba04e306b024ba0ed143a00ce0567eb54937f1eb3b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/35\/17-20.1792516485327.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ar akmeni"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ar kuru"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "var nomirt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ar to"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "viņš viņu sita"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "un nomira"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "slepkava"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvē"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tiks nogalināts"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "slepkava"
+    }
+  ],
+  "timestamp": "2026-10-20T17:14:45.328221495Z",
+  "model": "glm-5.3"
+}

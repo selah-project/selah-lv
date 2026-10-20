@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יעלעו",
+      "rationale": "עלע 'sūkāt, dzert malkām' parādās Tanahā tikai šeit"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajadzīgs saiklis; ebreju tekstā vienkārši 'tur viņa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nogalinātie",
+      "rationale": "חללים burtiski 'caurdurtie' — kritušie kaujas laukā"
+    }
+  ],
+  "translation": "Un viņas mazuļi dzer asinis, un kur nogalinātie — tur viņa ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe33652b2fcc3c36789ae5a217160e910ee9c6cc4decc1345fc127f39b3a5241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/39\/29-30.1792529561411.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "un viņas mazuļi"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "dzer"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "un kur"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "nogalinātie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:41.412383067Z",
+  "model": "glm-5.3"
+}

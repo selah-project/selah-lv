@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 28:19",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואינך עד עולם",
+      "rationale": "burtiski 'un tu neesi līdz mūžībai' — idiomatisks 'nekad vairs nebūt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "vairs",
+      "rationale": "pievienots, lai latviski skan negācijas iznākums"
+    }
+  ],
+  "translation": "Visi, kas tevi pazīst tautu vidū, izbrīnīsies par tevi; par šausmām tu esi kļuvis un ⟨vairs neesi⟩ mūžīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e36b86411f545442e1ff0f40b8427c552162faf9db8f0192e472e526dacd34bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/28\/17-20.1792525385971.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "יודעיך",
+      "gloss": "kas tevi pazīst"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tautu vidū"
+    },
+    {
+      "surface": "שממו",
+      "gloss": "izbrīnīsies"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "par šausmām"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu esi kļuvis"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "un ⟨vairs neesi⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T19:43:05.972020388Z",
+  "model": "glm-5.3"
+}

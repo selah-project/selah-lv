@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים ... בנים",
+      "rationale": "Atkārtotais 'bērni' veido paralēlismu, kas saglabāts"
+    }
+  ],
+  "translation": "jo tā ir dumpīga tauta, melīgi bērni, bērni, kas negrib klausīt Jahves Toru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/30\/9-12.1792522399336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "dumpīga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "melīgi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "negrib"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "klausīt"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:19.337417588Z",
+  "model": "glm-5.3"
+}

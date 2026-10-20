@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 52:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikla 'cik skaistas ... ⟨ir⟩'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום nav tikai 'miers' — veselums, labklājība, veselība vienā vārdā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבשר\/משמיע",
+      "rationale": "Divkāršs pāris 'vēstnes\/izskanētājs' trīsreiz — ritma epitrohs, latviski daļēi zudusi"
+    }
+  ],
+  "translation": "Cik skaistas uz kalniem ⟨ir⟩ vēsteņa kājas, kas izskan šalomu, labā vēstnes, kas izskan pestīšanu, kas saka Cionam: Tavs Elohim ir kļuvis ķēniņš!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/52\/5-8.1792522939745.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cik"
+    },
+    {
+      "surface": "נאוו",
+      "gloss": "skaistas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kājas"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "vēsteņa"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "izskan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomu"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "vēstnes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labā"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "izskan"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "pestīšanu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Cionam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ir kļuvis ķēniņš"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Tavs Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:19.746252127Z",
+  "model": "glm-5.3"
+}

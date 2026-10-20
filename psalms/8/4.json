@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כי — 'kad'",
+      "rationale": "Var lasīt arī 'jo' (nākamā panta 'jo' — brīnums, ka Tu atceries cilvēku); 'kad\/es redzu' seko vairumam tulkotāju."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mēnesi un zvaigznes",
+      "rationale": "Radījuma izkārtojuma vērošana — debesis kā Dieva pirkstu darbs, ieved 5. panta mērogu."
+    }
+  ],
+  "translation": "Kad es redzu Tavas debesis, Tavu pirkstu darbus — mēnesi un zvaigznes, kuras Tu esi stingri nostādījis —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/8\/1-4.1792527039464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "es redzu"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "Tavas debesis"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "darbus"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "Tavu pirkstu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mēnesi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "un zvaigznes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "esi stingri nostādījis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:39.467187836Z",
+  "model": "glm-5.3"
+}

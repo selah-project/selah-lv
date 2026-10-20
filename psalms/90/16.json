@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda otrajā pusē; latviešu pieturzīme to aizstāj"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "'Pie\/uz' pārnestā nozīmē 'redzēt uz kādu' — latviski pievienots ⟨uz⟩"
+    }
+  ],
+  "translation": "Lai tavi kalpi redz tavu darbu, un tavs spožums — viņu bērniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/13-16.1792528032181.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Lai redz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨uz⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavi kalpi"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "tavu darbu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "un tavs spožums"
+    },
+    {
+      "surface": "על",
+      "gloss": "— viņu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bērniem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:12.182758898Z",
+  "model": "glm-5.3"
+}

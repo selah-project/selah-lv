@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreu valodas nav saikļa, latviešu prasa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cedek",
+      "rationale": "vārdu atbilde: 19. pantā 'cedek vārti', 20. pantā 'cedek-ie ienāks'"
+    }
+  ],
+  "translation": "Šie ⟨ir⟩ Jahves vārti; cedek-ie ienāks tajos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/17-20.1792528271339.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vārti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedek-ie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ienāks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:11.340089129Z",
+  "model": "glm-5.3"
+}

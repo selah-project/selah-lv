@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן תתן",
+      "rationale": "Nepārtrauktais infinitīvs — 'dot, Tu dosi', latviski 'patiešām dosi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "והחרמתי",
+      "rationale": "חרם — 'veltīt pilnīgai iznīcināšanai (herem)'; 'pilnīgi iznīcināšu' zaudē herema jēdzienu."
+    }
+  ],
+  "translation": "Un Jisraēls deva solījumu Jahvem un sacīja: Ja Tu patiešām dosi ⟨את⟩ šo tautu manā rokā, tad es pilnīgi iznīcināšu ⟨את⟩ viņu pilsētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/21\/1-4.1792515998699.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "un deva solījumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "solījumu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "patiešām dosi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šo tautu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "manā rokā"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "tad es pilnīgi iznīcināšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu pilsētas"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "viņu pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:38.701290600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 22:15",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מְתַחֲרֶה בָאָרֶז",
+      "rationale": "'sacenties ar ciedru' — arī 'apņemas ar ciedru' (KJV); izvēlēta sacensības sakne"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstā nav saikļa 'tad labi viņam'; pievienots laika izteiksmei"
+    },
+    {
+      "kind": "you",
+      "subject": "uz ķēniņu Jehojakimu",
+      "rationale": "Tiešs jautājums ķēniņam par viņa varas pamatojumu"
+    }
+  ],
+  "translation": "Vai tu kļūsi par ķēniņu, jo tu sacenties ar ciedru? Tavs tēvs — vai viņš neēda un nedzēra? Un viņš darīja tiesu un cedek, tad ⟨bija⟩ viņam labi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/22\/13-16.1792523709182.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התמלך",
+      "gloss": "vai tu kļūsi par ķēniņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מתחרה",
+      "gloss": "sacenties"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ar ciedru"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavs tēvs"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēda"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "un dzēra"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "un cedek"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T19:15:09.183408197Z",
+  "model": "glm-5.3"
+}

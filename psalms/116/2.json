@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju tekstā nav subjecta vietniekvārda; no verb formas redzams 3. pers."
+    },
+    {
+      "kind": "idiom",
+      "subject": "pielieca ausi",
+      "rationale": "נטה אזן — ebreju idiomā 'uzklausīt', burtiski 'noliekot ausi tuvāk'"
+    }
+  ],
+  "translation": "Jo ⟨viņš⟩ pieliecis ir savu ausi man, un visu savu dienu laikā es Viņu saukšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/116\/1-4.1792528276310.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "pieliecis ir"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "savu ausi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "manu dienu laikā"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saukšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:16.311272732Z",
+  "model": "glm-5.3"
+}

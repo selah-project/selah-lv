@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק paturēts kā 'cedek' pēc D2 — viena sakne, ne tikai 'taisnība'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכים ימלכו",
+      "rationale": "Darāmo vārdu atkārtojums: 'ķēniņi ķēniņo' — saknes מלך spēle saglabāta latviski."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחקקו",
+      "rationale": "Burtiski 'iekalt\/izgriezt' (likumu akmenī): 'izkauj' pret 'dekrēē'\/'nosaka'."
+    }
+  ],
+  "translation": "Caur mani ķēniņi ķēniņo, un valdnieki izkauj cedeku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "415f0bac339e596f4272bda182ee1cbf057676458c022cc5a1b08155218d3228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/8\/14-15.1792532848872.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "caur mani"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "ķēniņo"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "un valdnieki"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "izkauj"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeku"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:28.872947981Z",
+  "model": "glm-5.3"
+}

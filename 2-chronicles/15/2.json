@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Klausaities mani",
+      "rationale": "Praviešaaicinājums ar imperatīvu 'שמעו' vērsts pie Asas, Jūdas un Benjamina."
+    },
+    {
+      "kind": "you",
+      "subject": "Asam, Jūdai un Benjamina",
+      "rationale": "Tieša uzruna ķēniņam un abām ciltīm."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזב\/עזב",
+      "rationale": "Atbilstības spēle: 'ja jūs Viņu atstāsit, Viņš jūs atstās' — darbības vārds atkārtots abās pusēs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Viņš jums ļaus Sevi atrast",
+      "rationale": "ימצא לכם burtiski 'Viņš tiks atrasts jums'; izvēlēta aktīvā lasījuma forma."
+    }
+  ],
+  "translation": "Un viņš izgāja Asas priekšā un sacīja ⟨viņam⟩: Klausaities mani, Asa un viss Jūda un Benjamins! Jahve ir ar jums, kad jūs esat ar Viņu; un ja jūs Viņu meklēsit, Viņš jums ļaus Sevi atrast; un ja jūs Viņu atstāsit, Viņš atstās ⟨את⟩ jūs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/15\/1-4.1792531974085.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Un viņš izgāja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨viņam⟩"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Klausaities mani"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "un Benjamins"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ir ar jums"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "kad jūs esat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ar Viņu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "jūs Viņu meklēsit"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "Viņš ļaus Sevi atrast"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "jūs Viņu atstāsit"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "Viņš atstās"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:54.086736550Z",
+  "model": "glm-5.3"
+}

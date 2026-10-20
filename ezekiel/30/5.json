@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "'jauktie ļaudis' (jaukta tauta) pret 'atlikušais pūlis' (Wycliffe) — sakne ערב nozīmē maisījumu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כוב",
+      "rationale": "Kub — tauta, kas Tanahā parādās tikai šeit."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בני ארץ הברית",
+      "rationale": "Var lasīt arī 'derības zemes dēli' kā apzīmējums Jisraēlam vai Ēģiptes sabiedrotajiem."
+    }
+  ],
+  "translation": "Kušs, un Puta, un Luda, un viss jauktie ļaudis, un Kuba, un derības zemes dēli — ⟨ar viņiem⟩ no zobena kritīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/30\/5-8.1792525369242.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kušs"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "un Puta"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "un Luda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jauktie ļaudis"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "un Kuba"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un dēli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņiem"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "no zobena"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kritīs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:49.243323855Z",
+  "model": "glm-5.3"
+}

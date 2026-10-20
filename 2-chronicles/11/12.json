@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā ויהי לו nav saiklis — 'un bija viņam' nozīmē 'piederēja viņam'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויהי לו",
+      "rationale": "Burtiski 'un notika viņam' — ebreju piederības idiomātika, latviskota kā 'bija viņam'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר ועיר",
+      "rationale": "Atkārtotais 'pilsētā un pilsētā' — ebreju izplatītais izplatījuma atkārtojums 'katrā atsevišķā pilsētā'."
+    }
+  ],
+  "translation": "un katrā pilsētā un pilsētā ⟨bija⟩ vairogi un šķēpi, un viņš tos padarīja ļoti stiprus; un Jūda un Benjamīns bija viņam",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d61eac73f0d9b36e15d62a28afb734e7e8c733e2a90a1038c8e538cb18acf4f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/11\/9-12.1792531838882.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "katrā"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "vairogi"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "šķēpi"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "padarīja stiprus"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ārkārtīgi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benjamīns"
+    }
+  ],
+  "timestamp": "2026-10-20T21:30:38.883505484Z",
+  "model": "glm-5.3"
+}

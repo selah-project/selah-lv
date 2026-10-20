@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tuvāko",
+      "rationale": "re‘ehu ir ‘draugs, pavadonis’ plašā nozīmē — ‘tuvākais’ ir tradicionāls, bet ne vienīgais lasījums"
+    }
+  ],
+  "translation": "Lāsts tam, kas slepeni sit savu tuvāko; un viss ļaudis sacīs: Āmen.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f0b9ed73f2e24eecdc97b062386948405a9fea757f1763f843b2dd64430dbd7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/27\/21-24.1792517152424.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "lāsts"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sit"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savu tuvāko"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "slepeni"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Āmen"
+    }
+  ],
+  "timestamp": "2026-10-20T17:25:52.426420125Z",
+  "model": "glm-5.3"
+}

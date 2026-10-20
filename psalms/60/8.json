@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sadalīšu \/ izmērīšu",
+      "rationale": "Zemes sadalīšana un mērīšana — Šķēma un Sukotas ieleja kā mērāma daļa."
+    },
+    {
+      "kind": "you",
+      "subject": "runā Elohim",
+      "rationale": "Elohim runā Savā svētumā; runātājs ir Dievs, bet 'es lēkšu priekā' ir ķēniņa atbilde."
+    }
+  ],
+  "translation": "Elohim runāja Savā svētumā: es lēkšu priekā, es sadalīšu Šķēmu un izmērīšu Sukotas ieleju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/60\/5-8.1792527757793.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "Savā svētumā"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "es lēkšu priekā"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "es sadalīšu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šķēmu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "un ... ieleju"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotas"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "izmērīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:37.794413771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 29:9",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikļa vietai 'es esmu Jahve'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Nīla",
+      "rationale": "יאר ir kanāla\/Upes vārds — Jeors — īpaši Nīla; tulkots ar 'Nīla'"
+    },
+    {
+      "kind": "you",
+      "subject": "Micraima",
+      "rationale": "Pazinojums par Micraimu kā Dieva tiesas objektu"
+    }
+  ],
+  "translation": "Un Micraimas zeme būs par tukšu postu un izpostītu tuksnesi, un viņi zinās, ka es ⟨esmu⟩ Jahve, tāpēc ka viņš sacīja: Nīla ir mana, un es to esmu darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c7e917edcc9ea5d57bcf9e71d449a338057c93761eff4feb2aef44d203cd167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/29\/9-12.1792525390473.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "un būs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "par postu"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "un izpostītu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un viņi zinās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "viņš sacīja"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "Nīla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ir mana"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "es to esmu darījis"
+    }
+  ],
+  "timestamp": "2026-10-20T19:43:10.474196385Z",
+  "model": "glm-5.3"
+}

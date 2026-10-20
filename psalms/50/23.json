@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "un kas sakārto ceļu",
+      "rationale": "ושם דרך — 'kas ceļu liek pareizi' (KJV 'ordereth his conversation') pret YLT 'kas ceļu dara'; darbības vārda tēls ir ceļa iekārtošana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pateicība",
+      "rationale": "תודה burtiski 'rokas izstiepšana' — atzīšanas un pateicības upuris, ne vien vārdi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨savu⟩",
+      "rationale": "Ebreju celma דרך piederētājs izriet no konteksta; latviski pievienots 'savu'."
+    }
+  ],
+  "translation": "Kas upurē pateicību, tas godina Mani; un tas, kas sakārto ⟨savu⟩ ceļu, tam Es parādīšu Elohim glābšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/21-23.1792527594029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Kas upurē"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pateicību"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "tas godina Mani"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un tas, kas sakārto"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "tam Es parādīšu"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "glābšanu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.030105452Z",
+  "model": "glm-5.3"
+}

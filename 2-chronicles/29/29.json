@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 29:29",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar viņu",
+      "rationale": "אתו šeit ir priekšvārds 'ar', nevis pieturzīmes objekts; latviski nepieciešams 'ar viņu'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "beigta augšupnesšana",
+      "rationale": "כלות להעלות burtiski 'pabeigt celt augšup' — par upurēšanas pabeigšanu"
+    }
+  ],
+  "translation": "Un, kad bija beigta augšupnesšana, nometās ceļos ķēniņš un visi, kas bija ⟨אתו⟩ atrasti ar viņu, un pielūdza.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "69abf1dc7e1f4639869cf5ed4aa7214240b5a18246e4d872bbec3f5559bd70a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/29\/29-32.1792532236088.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "un, kad bija beigta"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "augšupnesšana"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "nometās ceļos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "atrastie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ ar viņu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "un pielūdza"
+    }
+  ],
+  "timestamp": "2026-10-20T21:37:16.089304262Z",
+  "model": "glm-5.3"
+}

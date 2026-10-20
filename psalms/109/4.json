@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "ebreju teikumā nav saikļa — 'bet es — lūgšana'; latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lūgšana",
+      "rationale": "פסalmā 109:4 'ואני תפלה' burtiski 'bet es — lūgšana'; tulkotāji pievieno 'esmu cilvēks, kas lūdz' — burtiskā forma saglabāta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרמה\/שנאה\/שטנה",
+      "rationale": "vergu šķautne: verbi שטן (apsūdzēt) šeit un Ps 38:20 vien — paralelisms 'mīlestība pret apsūdzību' kā pretstats 109:5 'ļaunums par labo'"
+    }
+  ],
+  "translation": "Pret manu mīlestību tie mani apsūdzēja; bet es ⟨esmu⟩ lūgšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/1-4.1792528251021.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "pret"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "manu mīlestību"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "tie mani apsūdzēja"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "bet es"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lūgšana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:51.022705806Z",
+  "model": "glm-5.3"
+}

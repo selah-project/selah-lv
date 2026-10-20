@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 22:8",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atklāt ⟨את⟩ manu ausi",
+      "rationale": "`גלה את אזן` — burtiski 'atseg_ mana ausu'; idiomātiski 'pateikt man noslēpumu', latvisk_ saglabāta burtiskā aina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלה ... גלה",
+      "rationale": "`גלה` atkārtots divreiz — `neviens neatklāj': atkārtojums uzsver Šaūla aizvainojumu, latvisk_ saglabāts darbības vārda atkārtojums."
+    },
+    {
+      "kind": "addition",
+      "subject": "man uzglūnēt",
+      "rationale": "`לארב` — infinitivs 'gu_lēt slēpn_'; latvisk_ pievienots norādījums uz mērķi (`man`), ko ebreju izsaka ar `עלי`."
+    },
+    {
+      "kind": "you",
+      "subject": "Šaūla kalpi",
+      "rationale": "Turpinājums runai tieši pret kalpiem — apsūdzība viņiem."
+    }
+  ],
+  "translation": "ka jūs visi esat sazvērējušies pret mani un neviens neatklāj ⟨את⟩ manu ausi, ka mans dēls noslēdzis derību ar Isaja dēlu; un nevienam no jums nav žēl mani un neviens neatklāj ⟨את⟩ manu ausi, ka mans dēls ir sacēlis ⟨את⟩ manu kalpu pret mani man uzglūnēt, kā šodien.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e0fee5931212b15d3fb5287ce4c971cb5fd1920ac7c121dd59b767f30c56b54c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/22\/5-8.1792519378904.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קשרתם",
+      "gloss": "jūs esat sazvērējušies"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "jūs visi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atklāj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu ausi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "manu ausi"
+    },
+    {
+      "surface": "בכרת",
+      "gloss": "noslēdzis derību"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isaja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "kam žēl"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "un atklāj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu ausi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "manu ausi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ir sacēlis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu kalpu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "manu kalpu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "לארב",
+      "gloss": "man uzglūnēt"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā šodien"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:58.905730706Z",
+  "model": "glm-5.3"
+}

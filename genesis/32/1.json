@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "no rīta",
+      "rationale": "שכם nozīmē 'celties agri', latviski vajadzīgs papildu 'no rīta'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "agri no rīta",
+      "rationale": "laika norāde — izšķirošais skats ģimenes atvadām"
+    }
+  ],
+  "translation": "Un Labans cēlās agri no rīta un noskūpstīja ⟨את⟩ savus dēlus un savas meitas, un svētīja ⟨את⟩ viņus; un viņš aizgāja, un Labans atgriezās savā vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "593863dba75e144f05b7cff6f0d2862998a89cf2ca64430d0587032be7b8f1c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/1-4.1792512246300.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "cēlās agri"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "noskūpstīja"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "savus dēlus"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "un savas meitas"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "svētīja"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus (dēlus un meitas)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "aizgāja"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labans"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "savā vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:06.301117623Z",
+  "model": "glm-5.3"
+}

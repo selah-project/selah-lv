@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 7:28",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikles; latviešu valodai tā vajadzīga, ielikta ⟨⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meitas-pilsētas",
+      "rationale": "בנות burtiski 'meitas' par pilsētu apkaimēm; latviski 'meitas-pilsētas' saglabā radniecības bildi."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיה",
+      "rationale": "Rakstīts עיה 'Aja', bet vairāki tulkojumi lasa עזה 'Gaza' (KJV); turēties pie teksta: Aja."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נערן",
+      "rationale": "Naarana — vienīgā vietā Tanahā."
+    }
+  ],
+  "translation": "Un viņu īpašumi un mītnes ⟨bija⟩ Beitela un tās meitas-pilsētas, un uz austrumiem Naarana, un uz rietumiem Gezera un tās meitas-pilsētas, un Šekema un tās meitas-pilsētas, līdz Ajai un tās meitas-pilsētām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cbe2c3f9916d540bab2e2e4d3f6e34836528a155057f86e53cbce3411d267f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/7\/25-28.1792531257042.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזתם",
+      "gloss": "Un viņu īpašumi"
+    },
+    {
+      "surface": "ומשבותם",
+      "gloss": "un mītnes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "un tās meitas-pilsētas"
+    },
+    {
+      "surface": "ולמזרח",
+      "gloss": "un uz austrumiem"
+    },
+    {
+      "surface": "נערן",
+      "gloss": "Naarana"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "un uz rietumiem"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezera"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "un tās meitas-pilsētas"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "un Šekema"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "un tās meitas-pilsētas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עיה",
+      "gloss": "Ajai"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "un tās meitas-pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:57.046837313Z",
+  "model": "glm-5.3"
+}

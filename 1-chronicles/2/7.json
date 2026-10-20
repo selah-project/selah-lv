@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עכר \/ עוכר",
+      "rationale": "vārds Akars (עכר) un 'apgrūtinātājs' (עוכר) ir viena sakne — vārds spēlē ar dēla vārdu; latviski atskaņa daļēji zūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "חרם ir iznīcināšanai nolemtā, veltaītā lieta (Joz. 7), nevis 'lāsts' vien — atstāts aprakstoši."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to, kas bija⟩",
+      "rationale": "latviešu valodai vajadzīgs apzīmējums, ebreju tekstā חרם stāv viens."
+    },
+    {
+      "kind": "crux",
+      "subject": "Ahar\/Akans",
+      "rationale": "Jozua 7:1 sauc viņu par Akanu (עכן), 1. Laiku 2:7 par Akaru (עכר) — viena persona, divas rakstības."
+    }
+  ],
+  "translation": "Un Karmi dēli: Akars, Jisraēla apgrūtinātājs, kas sagādāja nodevību ar ⟨to, kas bija⟩ iznīcināšanai veltam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e688587675671ac2e5b874c32f86514ec58f1e577af70816543a0e93e7d9028d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/2\/5-8.1792530895356.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akars"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "apgrūtinātājs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sagādāja nodevību"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ar iznīcināšanai veltto"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:55.357608763Z",
+  "model": "glm-5.3"
+}

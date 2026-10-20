@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ganies",
+      "rationale": "imperative addressed to the prophet as shepherd"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kaujamās avis",
+      "rationale": "'avis, kas turētas kaušanai' vs simpler 'kaujamās avis' — ha-haregah is a passive participle of slaughter"
+    }
+  ],
+  "translation": "Tā saka Jahve, mans Elohim: Ganies ⟨את⟩ avis, kas turētas kaušanai!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/11\/1-4.1792526896648.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ganies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avis, kas turētas kaušanai"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "kas turētas kaušanai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:16.649510869Z",
+  "model": "glm-5.3"
+}

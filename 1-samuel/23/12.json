@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Vai",
+      "rationale": "Latviešu valodai vajadzīgs jautājuma vārds; ebreju valodā to norāda pats piezīmes tonis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעלי קעילה",
+      "rationale": "Burtiski 'Keilas valdītāji\/īpašnieki' (baʿalē), KJV tulko 'vīri' — forma ir 'īpašnieki'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יסגירו",
+      "rationale": "YLT lasa burtiski 'ieslēgs' (s-g-r: aizvērt); vairums tulko 'nodos' — pārnestā nozīme par nodošanu."
+    }
+  ],
+  "translation": "Un Davids sacīja: Vai Keilas īpašnieki nodos ⟨את⟩ mani un ⟨את⟩ manus vīrus Šaula rokā? Un Jahve sacīja: Nodod.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc2986ad4b131ef9a36cc03de55c70d3068c54940c2887098ebccd34dde69135",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/23\/12-12.1792532564769.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Vai nodos"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "īpašnieki"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "manus vīrus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "manus vīrus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Nodod"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:44.769857988Z",
+  "model": "glm-5.3"
+}

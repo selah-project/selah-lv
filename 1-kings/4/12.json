@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 4:12",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Relatīvais teikums prasa kopulu, kuras ebreju tekstā nav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעבר ליקמעם",
+      "rationale": "'Pāreja pretim Jokmeam' — ģeogrāfisks apzīmējums, latviski 'vieta aiz Jokmeamas'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "apgabala robežas",
+      "rationale": "Pants novilkts pārvaldnieka apgabala robežas: no… līdz… — telpas mērīšana"
+    }
+  ],
+  "translation": "Baana, Aĥiluda dēls, Taanakā un Megido, un visā Bēt-Šeanā, kas ⟨ir⟩ pie Caretanas, zem Jizreēlas, no Bēt-Šeanas līdz Āvel-Meĥolai, līdz vietai aiz Jokmeamas;",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/4\/9-12.1792520336802.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Aĥiluda"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakā"
+    },
+    {
+      "surface": "ומגדו",
+      "gloss": "un Megido"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visā"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bēt-Šeanā"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Bēt-Šeanā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "צרתנה",
+      "gloss": "Caretanas"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "ליזרעאל",
+      "gloss": "Jizreēlas"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no Bēt-Šeanas"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "no Bēt-Šeanas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Āvel-Meĥolai"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Āvel-Meĥolai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "vietai aiz"
+    },
+    {
+      "surface": "ליקמעם",
+      "gloss": "Jokmeamas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:18:56.803213237Z",
+  "model": "glm-5.3"
+}

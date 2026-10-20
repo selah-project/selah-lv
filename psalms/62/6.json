@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodā tas nepieciešams"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtība, dzīvības spēks, nevis dvēsele plurālistiskā nozīmē"
+    },
+    {
+      "kind": "alternative",
+      "subject": "gaidi",
+      "rationale": "דומי var būt arī 'gaidi klusumā' (KJV 'wait in silence')"
+    }
+  ],
+  "translation": "Tikai pie Elohim klusē, mana dvēsele, jo no Viņa ⟨ir⟩ mana cerība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/5-8.1792527744636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pie Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "klusē"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no Viņa"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mana cerība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:24.636651816Z",
+  "model": "glm-5.3"
+}

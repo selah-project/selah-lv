@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המנחה",
+      "rationale": "Šeit parastā dāvana\/veltījums, ne upuris — 'minha' šeit netiek lietots, jo tas ir materiāls sveiciena dāvans (sal. D2)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישתחוו ארצה",
+      "rationale": "Brāļi pieceļas Jozefa sapņa piepildījumu — noliecas līdz zemei, kā 1. Mozus 37:7,10."
+    }
+  ],
+  "translation": "Un Jozefs ienāca mājā, un tie atnesa viņam ⟨את⟩ dāvanu, kas bija viņu rokā, mājā, un pakļāvās viņam līdz zemei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ad29b0b4bfc4f385cc47d98ed429914c61c3ad3df6785ab88731280f0a18042",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/26-28.1792514837341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un ienāca"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefs"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mājā"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "un tie atnesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dāvanu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dāvanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "viņu rokā"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mājā"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "un pakļāvās"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "līdz zemei"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:17.342612686Z",
+  "model": "glm-5.3"
+}

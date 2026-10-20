@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "degums",
+      "rationale": "אף burtiski ‘deguns\/nāsis’ — dusmas kā degums nāsīs; parasti tulkots ‘naids’."
+    },
+    {
+      "kind": "idiom",
+      "subject": "no zemes virsas",
+      "rationale": "פני האדמה burtiski ‘zemes seja’ — idiomātiski ‘no zemes virsas’."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju teikumā nav kopulas; latviešu valodai tā vajadzīga."
+    }
+  ],
+  "translation": "Jo El, kas ir greizsirdīgs, ⟨ir⟩ Jahve, tavs Elohim, tavā vidū — lai nesadedzinasies Jahves, tava Elohim, degums pret tevi un lai tevi neiznīcina no virsas ⟨no⟩ zemes virsas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/6\/13-16.1792516658269.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "greizsirdīgs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavā vidū"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "sadedzinasies"
+    },
+    {
+      "surface": "אף",
+      "gloss": "degums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "un lai tevi neiznīcina"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virsas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zemess virsas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:38.271143601Z",
+  "model": "glm-5.3"
+}

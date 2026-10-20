@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨esmu⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Jahve runā tieši ar Israēla tautu kā ar 'jūs'"
+    }
+  ],
+  "translation": "Es ⟨esmu⟩ Jahve, jūsu Elohim, kas izvedu ⟨את⟩ jūs no Micraimas zemes, lai dotu jums ⟨את⟩ Kenaana zemi, lai būtu jums par Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/37-40.1792515206573.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "izvedu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "lai dotu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaana zemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "lai būtu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "par Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:26.576681591Z",
+  "model": "glm-5.3"
+}

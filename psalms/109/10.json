@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונוע ינועו",
+      "rationale": "Saknes נוע atkārtojums — infinitivs absolūts + finite forma — uzsver pastāvīgo klejošanu; latviski divi darbības vārdi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחרבותיהם",
+      "rationale": "'Postās noniekušās vietas \/ drupas' pret 'izžuvušām vietām'; sakne nozīmē sausumu un postaumu"
+    }
+  ],
+  "translation": "Un lai viņa bērni klejo un izklīst, un lūdz maizi, un meklē ⟨את⟩ to no savām posts vietām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/9-12.1792528217155.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "un lai klejo"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "izklīst"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa bērni"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "un lūdz"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "un meklē ⟨את⟩"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "no savām posts vietām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:17.156209179Z",
+  "model": "glm-5.3"
+}

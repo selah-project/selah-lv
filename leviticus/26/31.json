@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "neostīšu",
+      "rationale": "Ebreju 'es neostīšu' nozīmē 'nepieņemšu' upuri — taustāmā idiomā saglabāta burtiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saldo smaržu",
+      "rationale": "נִיחֹחַ burtiski 'miers, atpūta' — 'miera smarža', tulkota kā 'patīkama smarža'."
+    }
+  ],
+  "translation": "Un es likšu ⟨את⟩ jūsu pilsētas posta, un izpostīšu ⟨את⟩ jūsu svētnīcas, un es neostīšu jūsu saldo smaržu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/29-32.1792515308683.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Un es likšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu pilsētas"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jūsu pilsētas"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "posta"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "un izpostīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu svētnīcas"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "jūsu svētnīcas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "es ostīšu"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "smaržu"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "jūsu saldo"
+    }
+  ],
+  "timestamp": "2026-10-20T16:55:08.685677972Z",
+  "model": "glm-5.3"
+}

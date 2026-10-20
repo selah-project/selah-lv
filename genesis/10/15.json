@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Piederības vietniekvārds pie 'pirmdzimto' pievienots latviešu skaidrības labad; ebrejā tas ir מִשְׁפַּחְתּוֹ kontekstā בְּכֹרו֢."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pirmdzimtais",
+      "rationale": "Dzimšanas kārtības atzīmēšana — pirmdzimtais dēls Sidons."
+    }
+  ],
+  "translation": "Un Kenaans dzemdināja ⟨את⟩ Sidonu, savu pirmdzimto, un ⟨את⟩ Hetu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/10\/13-16.1792511629272.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Un Kenaans"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidonu"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidonu"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "savu pirmdzimto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Hetu"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:53:49.273917420Z",
+  "model": "glm-5.3"
+}

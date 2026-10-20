@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרבות לו",
+      "rationale": "Kam 'pavairot' — apspiedējam pašam (KJV) vai nabagajam (JPS lasījums); konteksts labvēlīgs pirmajam."
+    },
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "Latviešu pakārtotā teikuma struktūrai pievienots attieksmes vārds 'kas'."
+    }
+  ],
+  "translation": "Kas apspiež nabago, lai sev pavairotu, kas bagātam dāvā — tikai trūkumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/22\/13-16.1792528811399.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "apspiež"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nabago"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "pavairotu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dāvā"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "bagātajam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "trūkumam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:11.400172947Z",
+  "model": "glm-5.3"
+}

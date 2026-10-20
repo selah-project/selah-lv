@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר",
+      "rationale": "Sakne שבר atgriežas kā 'labība' (השבר) un 'pirkt labību' (שברו) — viens vārds, divas lomas, latviski jāšķir."
+    },
+    {
+      "kind": "you",
+      "subject": "dēliem",
+      "rationale": "Tēvs (Jaakovs) tieši uzrunā savus dēlus ar pavēlēm 'Atgriezieties... pērciet'."
+    }
+  ],
+  "translation": "Un notika, kad tie bija beiguši ēst ⟨את⟩ labību, ko tie bija atnesuši no Micraimas, ka viņu tēvs sacīja viņiem: Atgriezieties un pērciet mums mazliet ēdamā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/1-4.1792512505808.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tie bija beiguši"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labību"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "labību"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "tie bija atnesuši"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "viņu tēvs"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Atgriezieties"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "pērciet labību"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mazliet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēdamā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:25.808795829Z",
+  "model": "glm-5.3"
+}

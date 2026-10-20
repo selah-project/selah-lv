@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 32:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Burtiski 'iedegās deguns\/nāsis' — dusmu idiomām latviski izteikts ar 'iedegās deguns', forma saglabāta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש atstāts kā nefess — rīkle\/dzīvības spēks, ne 'dvēsele' viena."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקו נפשו מאלהים",
+      "rationale": "'attaisnoja savu nefesu vairāk nekā Elohim' — arī iespējams 'pret Elohim'; vairums lasa salīdzinājumu."
+    }
+  ],
+  "translation": "Un iedegās deguns Elihuam, Barahela dēlam, buzietim no Ramas dzimtas, pret Ijovu — iedegās viņa deguns, tāpēc ka viņš attaisnoja ⟨את⟩ savu nefesu vairāk nekā Elohim ⟨attaisnoja⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/32\/1-4.1792529476661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Un iedegās"
+    },
+    {
+      "surface": "אף",
+      "gloss": "deguns"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihuam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "ברכאל",
+      "gloss": "Barahela"
+    },
+    {
+      "surface": "הבוזי",
+      "gloss": "buzietim"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "no ... dzimtas"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramas"
+    },
+    {
+      "surface": "באיוב",
+      "gloss": "pret Ijovu"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "iedegās"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "viņa deguns"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc ka \/ par"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "attaisnoja"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "vairāk nekā Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:16.662154549Z",
+  "model": "glm-5.3"
+}

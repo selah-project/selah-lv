@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņa⟩",
+      "rationale": "ivrita piederības sufikss -יו latviešu prasa paskaidrojošu vietniekvārdu ar iekavām"
+    }
+  ],
+  "translation": "Samīdīt zem ⟨viņa⟩ kājām visus zemes cietumniekus —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5047c71056e8c3eaa159ad36b996425ee09a8f74987f72255ae9a475137d3617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/33-36.1792529820950.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "samīdīt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "viņa kājām"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "cietumniekus"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:00.951594434Z",
+  "model": "glm-5.3"
+}

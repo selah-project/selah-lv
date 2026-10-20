@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "'bet\/tikai' — divi ebreju vārdi, kas latviski saplūst vienā pielāgā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "Šeit 'paraža, ieradums' — D2 atļauj 'paraža' tur, kur teksts to saka."
+    }
+  ],
+  "translation": "Un viņi neklausīja, ⟨bet⟩ rīkojās pēc sava pirmā paražu tiesas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/37-40.1792521539417.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "viņi klausīja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨bet⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨tikai⟩"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "pēc sava paražu tiesas"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmā"
+    },
+    {
+      "surface": "הם",
+      "gloss": "viņi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "rīkojās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:38:59.418981341Z",
+  "model": "glm-5.3"
+}

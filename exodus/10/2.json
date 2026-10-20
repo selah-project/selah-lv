@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā nav saikļa 'es esmu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעללתי",
+      "rationale": "'Es izrīkojos \/ darīju' — no saknes עלל; 'spēlējos ar' pret 'aukstasināju' varianti."
+    },
+    {
+      "kind": "invitation",
+      "subject": "stāstīšana",
+      "rationale": "Pavēle stāstīt bērniem un mazbērniem — nākamo paaudžu iesaiste."
+    }
+  ],
+  "translation": "Un lai tu stāstītu sava dēla un sava dēla dēla ausīs ⟨את⟩ to, ko es darīju Micraimā, un ⟨את⟩ savas zīmes, ko es liku viņos, un jūs zināsiet, ka es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/10\/1-4.1792512852142.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Un lai"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "tu stāstītu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausīs"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sava dēla"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "un dēla"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tava dēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko es darīju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "es darīju"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savas zīmes"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "savas zīmes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "es liku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "viņos"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:12.142964542Z",
+  "model": "glm-5.3"
+}

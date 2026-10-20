@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Ebreju locekļu pāris nozīmē 'ja vien ne'; latviski dots kā viens nosacījums 'ja… ne'."
+    },
+    {
+      "kind": "you",
+      "subject": "Atlaid mani",
+      "rationale": "Vīrs runā tieši ar Jaakovu; Jaakobs atbild ar pretprasību."
+    }
+  ],
+  "translation": "Un viņš sacīja: Atlaid mani, jo rītausma jau uzlējusi. Bet viņš sacīja: Neatlaidīšu tevi, ja tu mani nesvētīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c84fd83bbbb3f69393152ff3289cc39303f19c2cc85fd490b68ccc3080d2d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/25-28.1792512198105.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "atlaid mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uzlējusi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "rītausma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "atlaidīšu tevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "−"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "tu mani nesvētīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:03:18.106975445Z",
+  "model": "glm-5.3"
+}

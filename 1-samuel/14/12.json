@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 14:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savam",
+      "rationale": "Piederības apzīmējums pieklājībai — ebreju tekstā tikai 'נֹשֵׂא כֵלָיו'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אֶל נֹשֵׂא כֵלָיו",
+      "rationale": "'אֶל' te funkcionē kā datīva marķieris, latviski iekļauts locījumā, atsevišķs vārds nav vajadzīgs."
+    },
+    {
+      "kind": "you",
+      "subject": "Jōnatāna ieročnesējs",
+      "rationale": "Pavēle 'kāp augšup man pakaļ' — tieša uzruna konkrētam adresātam."
+    }
+  ],
+  "translation": "Un posteņa vīri atbildēja Jōnatānam un viņa ieročnesējam, un sacīja: Kāpiet augšup pie mums, un mēs jums darīsim zināmu ⟨את⟩ lietu. Un Jōnatāns sacīja savam ieročnesējam: Kāp augšup man pakaļ, jo Jahve tos nodevis Jisraēla rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10018b4478227d75f97b3a7f3bb705d85c3f89b6fcba2a78850440bfa3f2ce0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/9-12.1792519005565.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "un atbildēja"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "posteņa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jōnatānu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jōnatānam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ieročnesēju"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nesējam"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "viņa ieroču"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "kāpiet augšup"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "pie mums"
+    },
+    {
+      "surface": "ונודיעה",
+      "gloss": "un mēs darīsim zināmu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jums ⟨את⟩",
+      "marks": "lietu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lietu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jōnatāns"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nesējam"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "viņa ieroču"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kāp augšup"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "man pakaļ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "tos nodevis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:45.567264531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "pie dēla \/ skolnieka",
+      "rationale": "Tieša uzruna 'mans dēls' — pamācības runas ieramats."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Prievārds 'ar' ebreju tekstā vienā vārdā; latviski vajadzīgs atsevišķs vārds."
+    }
+  ],
+  "translation": "Mans dēls, neej viņu ceļā ⟨ar⟩ ⟨את⟩ viņiem, atturi savu kāju no viņu takām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/13-16.1792528515846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mans dēls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "neej"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "viņu ceļā"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ar viņiem",
+      "marks": "ar viņiem"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "atturi"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "savu kāju"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "no viņu takām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:15.847074058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Batsheba to Solomon",
+      "rationale": "Batsheba runā, adresējot ķēniņam; 'tavam brālim' ir vērsts pie Šelomo."
+    }
+  ],
+  "translation": "Un viņa sacīja: Lai ⟨את⟩ Abišagu, šunamieti, dod Adonijam, tavam brālim, par sievu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/21-24.1792520364538.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lai dod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abišagu"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abišagu"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "šunamieti"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijam"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavam brālim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "par sievu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:24.538604870Z",
+  "model": "glm-5.3"
+}

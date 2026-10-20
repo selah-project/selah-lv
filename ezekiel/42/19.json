@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jūras ruah",
+      "rationale": "'jūras puse' = rietumi ebreju ģeogrāfijā; saglabāts burtiski"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pieci simti niedru",
+      "rationale": "Rietumu puses mērījums"
+    }
+  ],
+  "translation": "Viņš apgriezās uz jūras ruah un mērīja: pieci simti niedru ar mērīšanas niedri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa69aa4cfc290ef219dcc6bb46fdca672ab4013daa867e8ec3afe885d5fdd510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/42\/17-20.1792525730845.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "apgriezās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "mērīja"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "niedru"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ar niedri"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mērīšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:48:50.845868188Z",
+  "model": "glm-5.3"
+}

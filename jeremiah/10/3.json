@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tukšums",
+      "rationale": "הבל ir 'elki untumi\/tukšums' — tāds pats vārds kā Ecclesiastes 'hevel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebraiskās teikuma ekvivalences kopula latviski pievienota"
+    }
+  ],
+  "translation": "Jo tautu paražas ir tukšums, tas ⟨ir⟩ koks no meža: to nocirta, amatnieka roku darbs, ar cirvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/10\/1-4.1792523460628.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "paražas"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tukšums"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koks"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "no meža"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "to nocirta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "roku"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "amatnieka"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "ar cirvi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:00.629351088Z",
+  "model": "glm-5.3"
+}

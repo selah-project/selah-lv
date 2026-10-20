@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "vīri un cilvēku bērni",
+      "rationale": "Tiešs uzrunājums — gudrība runā visiem cilvēkiem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "es saucu",
+      "rationale": "Gudrības personificētais aicinājums kļūst par runu, kas turpinās nākamajos pantos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני אדם",
+      "rationale": "Burtiski 'ādama dēli' — cilvēku bērni; saglabāts burtiski, lai noturētu semītisko izteiksmi."
+    }
+  ],
+  "translation": "Jums, vīri, es saucu, un mana balss — cilvēku bērniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/8\/1-4.1792528624116.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Jums"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "un mana balss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bērniem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:04.118500204Z",
+  "model": "glm-5.3"
+}

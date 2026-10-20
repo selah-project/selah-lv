@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "zīlēšanas",
+      "rationale": "עננה no ענן 'mākonis' — nomaļa, apslēpta darbība, maģija; 'zīlēšana' ir tuvākais Tanaha jēdziens."
+    },
+    {
+      "kind": "you",
+      "subject": "Jūdājas ļaunajai daļai",
+      "rationale": "Vēstījums piedzīvo tiešu uzrunu: 'jūs, nāciet šurp'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nāciet šurp",
+      "rationale": "Ironisks aicinājums — soda tiesas saukšana pie prāva."
+    }
+  ],
+  "translation": "Bet jūs, nāciet šurp, zīlēšanas dēli, laulības pārkāpēja sēkla, un ⟨viņa⟩ netiklo!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/1-4.1792522952040.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "bet jūs"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nāciet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "šurp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "zīlēšanas"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sēkla"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "laulības pārkāpēja"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "un ⟨viņa⟩ netiklo"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:32.041155510Z",
+  "model": "glm-5.3"
+}

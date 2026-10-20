@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 20:1",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Israel",
+      "rationale ": null,
+      "rationale": "Pants vēršas pie Jisraēla kā karavīru kopienas — tiešs uzrunājums"
+    }
+  ],
+  "translation": "Kad tu iziesi karā pret saviem ienaidniekiem un redzēsi zirgus un kaujas ratus — tautu, kas lielāka par tevi —, nebīsties no viņiem, jo Jahve, tavs Elohim, ⟨ir⟩ ar tevi, kas tevi izveda augšup no Micraimas zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/20\/1-4.1792517084955.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tu iziesi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "karā"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "saviem ienaidniekiem"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "un redzēsi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "zirgus"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "un kaujas ratus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielāka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bīsties"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "no viņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kas tevi izveda augšup"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:44.957730333Z",
+  "model": "glm-5.3"
+}

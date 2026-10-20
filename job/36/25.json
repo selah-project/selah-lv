@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mirstīgais",
+      "rationale": "אנוש nozīmē mirstīgo cilvēku pretstatā אדם — abi vārdi vienā pantā apzīmē cilvēku"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Darbi no tālienes",
+      "rationale": "Dieva darbus var redzēt, bet tikai no tālienes — pieejamība ir ierobežota"
+    }
+  ],
+  "translation": "Ikviens cilvēks ir viņu redzējis; mirstīgais skatās no tālienes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d0e647d59e2a844a09e99bb31d08222085fe8af42eb0c519d346a2c21dfc3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/36\/25-28.1792529524832.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ir redzējis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgais"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "skatās"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "no tālienes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:04.832690451Z",
+  "model": "glm-5.3"
+}

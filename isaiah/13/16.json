@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תשגלנה",
+      "rationale": "שגל ir tehnisks vārds dzimumaktam; 'apgānītas' saglabā vardarbības faktu bez eifēmismiem"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רטש",
+      "rationale": "רטש 'sadauzīt' Tanahā sastopams tikai reti, bieži tieši par zīdaiņu sadauzīšanu iekarojuma kontekstā"
+    }
+  ],
+  "translation": "Un viņu zīdaiņi tiks sadauzīti viņu acu priekšā, viņu nami tiks izlaupīti, un viņu sievas tiks apgānītas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/13\/13-16.1792522050338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "un viņu zīdaiņi"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "tiks sadauzīti"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "viņu acu priekšā"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "tiks izlaupīti"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "viņu nami"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "un viņu sievas"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "tiks apgānītas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:30.339971881Z",
+  "model": "glm-5.3"
+}

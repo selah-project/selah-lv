@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Saiklis, kura ebreju tekstā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהים paliek Elohim — nevis 'Dievs'."
+    }
+  ],
+  "translation": "Un es ņemšu jūs sev par tautu, un es būšu jums par Elohim, un jūs zināsiet, ka es ⟨esmu⟩ Jahve, jūsu Elohim, kas izved ⟨את⟩ jūs no Micraima nastām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/6\/5-8.1792512785609.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Un es ņemšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs sev par tautu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sev"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "un es būšu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "par Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "kas izved"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs no Micraima nastām"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "no zem"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "nastām"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:05.610278756Z",
+  "model": "glm-5.3"
+}

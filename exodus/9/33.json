@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "vairāk netika",
+      "rationale": "לא נתך — burtiski 'netika gāzts', vārds vairāk pievienots latviski plūdamam tekstam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקלות",
+      "rationale": "burtiski 'balsis' — pērkons kā Dieva balss, latviski zaudē šo saiti"
+    }
+  ],
+  "translation": "Un Moše izgāja no Para`o, no ⟨את⟩ pilsētas, un izpleta savas plaukstas pret Jahvi, un pērkoņgrANDi un krusa mitējās, un lietus vairs netika gāzts uz zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fdd47e6b7d4b94fd9974ecef5b7588f7a4c4048e0b5a6cf81bec5b7982bef6ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/33-35.1792512795044.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "no"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para`o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "izpleta"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "savas plaukstas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "mitējās"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "pērkoņgrANDi"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "krusa"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "lietus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vairs netika"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "gāzts"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "uz zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:15.044726243Z",
+  "model": "glm-5.3"
+}

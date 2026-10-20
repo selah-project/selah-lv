@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאל",
+      "rationale": "Sakne š-ʾ-l: 'lūgums' un 'jautāt' — tas pats vārds, kas vēlāk Šemuēla vārdā 1:20."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ar⟩",
+      "rationale": "Latviešu valodai vajadzīgs prievārds; ebreju לשלום ir tikai 'mieram'."
+    }
+  ],
+  "translation": "Un Eili atbildēja un sacīja: Ej ⟨ar⟩ mieru, un Jisraēla Elohim lai dod ⟨את⟩ tavu lūgumu, ko tu lūdzi no viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/1\/17-20.1792518754861.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "un atbildēja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eili"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ej"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ar mieru"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "un Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lai dod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu lūgumu"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "tavu lūgumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "tu lūdzi"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "no viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:34.862311341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקם",
+      "rationale": "Burtiski 'un piecēlās' — juridiska apstiprināšana, tika apstiprināts."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת (H854 'no') ar iekļautu את saglabāts kā ⟨את⟩; tulkojumā pietiek ar 'no'."
+    }
+  ],
+  "translation": "Un lauks un ala, kas tajā ⟨ir⟩, tika apstiprināti Avrahamam par kapa īpašumu no Hetas dēliem ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/23\/17-20.1792511949292.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Un tika apstiprināti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauks"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "un ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamam"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "par īpašumu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetas"
+    }
+  ],
+  "timestamp": "2026-10-20T15:59:09.293864258Z",
+  "model": "glm-5.3"
+}

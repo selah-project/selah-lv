@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדק atstāts kā 'cedek' — tiesu taisnīgums, viena sakne."
+    },
+    {
+      "kind": "you",
+      "subject": "uz tiesnešiem",
+      "rationale": "Moše vēršas pie tiesnešiem ar pavēli klausīt un tiesāt."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausieties",
+      "rationale": "Pavēles 'שמע' — aicinājums uz uzmanīgu uzklausīšanu."
+    }
+  ],
+  "translation": "Un tajā laikā es pavēlēju ⟨את⟩ jūsu tiesnešiem, sacīdams: Klausieties strīdus starp jūsu brāļiem un tiesājiet cedeku — starp vīru un starp viņa brāli un starp viņa ienācēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/1\/13-16.1792516597200.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Un es pavēlēju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu tiesnešiem"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "jūsu tiesnešiem"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tajā laikā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Klausieties"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsu brāļiem"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "un tiesājiet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "viņa brāli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "viņa ienācēju"
+    }
+  ],
+  "timestamp": "2026-10-20T17:16:37.203647014Z",
+  "model": "glm-5.3"
+}

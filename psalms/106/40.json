@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deguns",
+      "rationale": "אף ir 'deguns\/nāsis' — dusmu tēls, kas latviski saglabāts burtiski, nevis ' dusmas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "Ivrita constructs בעמו jau satur piederības suffiksu; latviešu prievārds pievieno skaidrību"
+    }
+  ],
+  "translation": "Un iedegās Jahves deguns pret ⟨viņa⟩ tautu, un viņš ienīda ⟨את⟩ savu mantojumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28777dd7aaa622df23699bf72894fd1527cf4773570cf0445bb7f77d49e108bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/40-40.1792532799884.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "iedegās"
+    },
+    {
+      "surface": "אף",
+      "gloss": "deguns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "pret viņa tautu"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "un viņš ienīda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu mantojumu"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "savu mantojumu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:39.884787385Z",
+  "model": "glm-5.3"
+}

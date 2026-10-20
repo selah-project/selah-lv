@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedekā",
+      "rationale": "צדקה 'cedek' netiek tulkota kā 'taisnība' viena — saglabāts pēc ebreju skanējuma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהיה",
+      "rationale": "'Es būšu' — tas pats darbības vārds kā izdegšanas krūmā, 2. Mozus 3:14"
+    }
+  ],
+  "translation": "Un Es atvedīšu ⟨את⟩ viņus, un tie mitināsies Jerušalaimas vidū, un tie būs Man par tautu, un Es būšu viņiem par Elohim patiesībā un cedekā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/8\/5-8.1792526815742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "atvedīšu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "viņus — Savu tautu"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "un tie mitināsies"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "un tie būs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un Es"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "būšu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "par Elohim"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesībā"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "un cedekā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:55.746077608Z",
+  "model": "glm-5.3"
+}

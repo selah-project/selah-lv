@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דברי אחריך",
+      "rationale": "'Manus vārdus aiz sevis mest' — ebreju idiomā 'noniecināt, ignorēt'; saglabāts burtiski."
+    },
+    {
+      "kind": "you",
+      "subject": "bezdievim",
+      "rationale": "Jahve runā tieši pret bezdievi no 50:16; vēstījums ir apsūdzība."
+    }
+  ],
+  "translation": "Un tu ienīdi mācību un nomeši manus vārdus aiz ⟨sevis⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/17-20.1792527608237.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Un tu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ienīdi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mācību"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "un nomeši"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "manus vārdus"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aiz ⟨sevis⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:08.237752285Z",
+  "model": "glm-5.3"
+}

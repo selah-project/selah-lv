@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי ברית",
+      "rationale": "Burtiski 'es nocirtu derību' (asinssoli griežot); latviski 'noslēgt derību'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienas nāk",
+      "rationale": "Laika norāde par nākamo derību — nākotnes skaitīšana."
+    }
+  ],
+  "translation": "Lūk, dienas nāk, saka Jahve, kad es noslēgšu ⟨את⟩ Jisraēla namam un ⟨את⟩ Jehudas namam jaunu derību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/31\/29-32.1792523967188.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "kad es noslēgšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla namam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jehudas namam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "jaunu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:27.189864718Z",
+  "model": "glm-5.3"
+}

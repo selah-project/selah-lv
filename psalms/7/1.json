@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שגיון",
+      "rationale": "Šigaions — neskaidrs žanra apzīmējums, parasti 'klejojoša\/ekstātiska dziesma'; atstāts transliterēts."
+    },
+    {
+      "kind": "crux",
+      "subject": "בן ימיני",
+      "rationale": "'Jemīni dēls' = benjamīnietis; daži lasa Kūšu kā aizmetni ķēniņam Šaulam, nevis personīgu vārdu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "benjamīnieša",
+      "rationale": "būtībā 'Benjamīna (labās rokas) dēls' — ciltspriedējs izteikts kā apzīmējums."
+    }
+  ],
+  "translation": "Šigaions Davida, ko viņš dziedāja Jahvem, par Kūša, benjamīnieša, vārdiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/7\/1-4.1792527056680.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Šigaions"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שר",
+      "gloss": "viņš dziedāja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdiem"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kūša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "benjamīnieša"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:56.682264831Z",
+  "model": "glm-5.3"
+}

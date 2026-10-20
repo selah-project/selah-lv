@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 4:2",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa zvēresta formulā 'חי יהוה'"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתברכו בו",
+      "rationale": "Hitpael 'svētīt sev' (tautas viņā svētīs pašas sevi, viņa vārdā) pretī 'tiks svētītas caur viņu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedekā",
+      "rationale": "צדקה atstāts kā cedek, nevis viens vārds 'taisnība'"
+    }
+  ],
+  "translation": "un tu zvērēsi: Tik dzīvs ir ⟨Jahve⟩, patiesībā, tiesā un cedekā, un tautas viņā svētīs ⟨sev⟩, un viņā viņi leposies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3ee85e9fcb237b2e5899eb3140c27fdc1d574df9a1067e91b3a41ab6d2a19d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/4\/1-4.1792523319618.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשבעת",
+      "gloss": "un tu zvērēsi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesībā"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "un cedekā"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "un svētīs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "un viņā"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "viņi leposies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:39.618898058Z",
+  "model": "glm-5.3"
+}

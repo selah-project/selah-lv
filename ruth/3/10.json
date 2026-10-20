@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד nav viens vārds — uzticības-laipnības saistība; atstāts kā hesed, nevis 'žēlastība'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבלתי לכת",
+      "rationale": "Negatīvais infinitīvs ar לכת — 'neejot pakaļ' — asprātīgi sasaista Rutnes izvēli ar iešanas\/sekvošanas tēmu visā grāmatā"
+    }
+  ],
+  "translation": "Un viņš sacīja: Svētīta ⟨את⟩ tu no Jahves, mana meita — tu esi parādījusi vēlīgāku hesed nekā pirmo reizi, jo neej pakaļ jaunekļiem, vai nu nabagiem, vai bagātiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/3\/9-12.1792529729762.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "Svētīta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "no Jahves"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mana meita"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "esi parādījusi vēlīgāku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "vēlīgāko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmo reizi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "jo ne"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ej"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pakaļ"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "jaunekļiem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nabagiem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bagātiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:29.763165121Z",
+  "model": "glm-5.3"
+}

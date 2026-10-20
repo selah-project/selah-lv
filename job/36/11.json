@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 36:11",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "klausās un kalpo ⟨Viņam⟩",
+      "rationale": "Hebrew darbības bez izteikta objekta; kalpošanas adreśats (Elohs) no konteksta — objekts izlaists, darbības pilnīgas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pabeigs",
+      "rationale": "יכלו no כלה 'pabeigt, nonākt pie gala' — 'pavada' (KJV 'spend') zaudē beigu nozīmi"
+    }
+  ],
+  "translation": "Ja tie klausās un kalpo, tie pabeigs savas dienas labumā un savus gadus patīkamībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/36\/9-12.1792529495280.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "tie klausās"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "un kalpo"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tie pabeigs"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "savas dienas"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "labumā"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "un savus gadus"
+    },
+    {
+      "surface": "בנעימים",
+      "gloss": "patīkamībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:35.281494215Z",
+  "model": "glm-5.3"
+}

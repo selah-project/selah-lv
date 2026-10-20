@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septiņi simti un trīs simti",
+      "rationale": "Precīzs sievu un mīļāko skaits — mērīšanas motīvs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mīļākās",
+      "rationale": "פלגשים — sānu sievas\/mīļākās, nav pilntiesīgas sievas"
+    }
+  ],
+  "translation": "Un viņam bija sievas — firstu sievas septiņi simti, un mīļākās trīs simti; un viņa sievas novērsa ⟨את⟩ viņa sirdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/1-4.1792520663148.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "firstu sievas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "un mīļākās"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "un novērsa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "viņa sievas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa sirdi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirdi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:23.149381811Z",
+  "model": "glm-5.3"
+}

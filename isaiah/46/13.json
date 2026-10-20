@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה pēc D2 paliek 'cedek', nevis 'taisnība' viena"
+    },
+    {
+      "kind": "addition",
+      "subject": "Es",
+      "rationale": "Ebreju valodā pirmā persona izteikta darbības vārdā, latviešu valodai vajadzīgs vietniekvārds"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפארתי",
+      "rationale": "'mans gods' (KJV\/JPS) pret BSB 'rotāšu ar savu godu' — ebreju vārds ir lieta, ne darbība"
+    }
+  ],
+  "translation": "Es tuvināju savu cedek — tas nebūs tālu, un mana pestīšana neaizkavēsies; un Cionā došu pestīšanu, Jisraēlam — savu godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/46\/13-13.1792522749739.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "Es tuvināju"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "savu cedek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tas nebūs tālu"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "un mana pestīšana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "neaizkavēsies"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "un došu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cionā"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pestīšanu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "savu godu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:09.739903582Z",
+  "model": "glm-5.3"
+}

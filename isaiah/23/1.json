@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Raudājiet, Taršisas kuģi",
+      "rationale": "pants sākas ar vārdiem, kas uzrunā kuģus — līks izsaukums, pievērš uzmanību"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבית מבוא",
+      "rationale": "'izpostīts no mājas, no ienākšanas' — atsevišķi 'bez ostas' (BSB 'harbor') pret 'bez ienākšanas' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "COR",
+      "gloss": "נגלה למו — 'tika atklāts viņiem' — kurš tiek atklāts: COR vai tā postījums"
+    }
+  ],
+  "translation": "Nesa par COR. Raudājiet, Taršisas kuģi, jo COR ir izpostīts — bez mājas, bez ienākšanas; no Kitimas zemes tas tika atklāts viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/23\/1-4.1792522290562.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "nesa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "par COR"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Raudājiet"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kuģi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršisas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ir izpostīts"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "bez mājas"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bez ienākšanas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitimas"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "tika atklāts"
+    },
+    {
+      "surface": "למו",
+      "gloss": "viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:30.563315761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "ezra 2:70",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨daļa⟩",
+      "rationale": "'Un no tautas' — pievienota 'daļa', lai skaidri izrietu, ka runa ir par daļu tautas, nevis visu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "netīnie",
+      "gloss_note": "",
+      "rationale": "הנתינים — tempļa kalpi, 'dotie' darbam; transliterēts kā 'netīnie', zaudējot 'dotie' jēgu."
+    },
+    {
+      "kind": "elision",
+      "subject": "וישבו",
+      "rationale": "'Un apmetās \/ dzīvoja' — yšv nozīmē arī 'apsēdās, mita'; viens vārds vienai darbībai."
+    }
+  ],
+  "translation": "Un apmetās priesteri, levīti un ⟨daļa⟩ no tautas, un dziedātāji, un vārtu sargi, un netīnie viņu pilsētās; un viss Jisraēls savās pilsētās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/2\/69-70.1792530518307.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "un apmetās"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "un levīti"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un ⟨daļa⟩ no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "un dziedātāji"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "un vārtu sargi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "un netīnie"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "viņu pilsētās"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "savās pilsētās"
+    }
+  ],
+  "timestamp": "2026-10-20T21:08:38.308376276Z",
+  "model": "glm-5.3"
+}

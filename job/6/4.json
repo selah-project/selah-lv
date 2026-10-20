@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 6:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמתם שתה רוחי",
+      "rationale": "'to inde dzer manu ruah' pret 'mana ruah dzer to indi' (KJV\/JPS): subjekts un objekts apmainīti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמתם",
+      "rationale": "חמה burtīgi 'karstums\/dusmas', šeit indes metonīmija"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בעותים",
+      "rationale": "bēdu\/šausmu vārds, Tanahā tikai vienā vietā"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יערכוני",
+      "rationale": "'sakārtojas manā priekšā (kā karaspēks)' — kara apspēle"
+    }
+  ],
+  "translation": "Jo Šadai bultas ir ar mani, kuru inde mans ruah dzer, Eloaus šausmas man pretī izkārtojas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44b7843de4c716c309f2ab5718dd17e7424319d2ab823c76e2ca82a48c8823b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/6\/1-4.1792529080864.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "bultas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ir ar mani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "חמתם",
+      "gloss": "inde"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "dzer"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mans ruah"
+    },
+    {
+      "surface": "בעותי",
+      "gloss": "šausmas"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloaus"
+    },
+    {
+      "surface": "יערכוני",
+      "gloss": "man pretī izkārtojas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:40.865546371Z",
+  "model": "glm-5.3"
+}

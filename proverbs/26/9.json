@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; salīdzinājuma otrā puse stāv bez darbības vārda"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלה ביד",
+      "rationale": "Ērkšķis 'uzkāpj rokā' — vai dzērājs to pasniedz un dūras, vai nezināmo iegrūž; visi tulkojumi mīkstina"
+    }
+  ],
+  "translation": "Ērkšķis, kas iekļūst piedzērušā rokā, — tāds ⟨ir⟩ sakāmvārds muļķu mutē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/26\/9-12.1792528833802.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "ērkšķis"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kas iekļūst"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "piedzērušā"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "tāds sakāmvārds"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mutē"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "muļķu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:33.803231836Z",
+  "model": "glm-5.3"
+}

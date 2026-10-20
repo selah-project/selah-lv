@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ivritā nav darbības vārda; latviešu teikumam vajadzīgs saiklis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בבטנה",
+      "rationale": "'vēders\/miega' — latviski 'miesā' kā dzemdes apzīmējums"
+    }
+  ],
+  "translation": "Un notika, kad bija viņas dzemdību laiks, — un lūk, dvīņi ⟨bija⟩ viņas miesā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f8855b193fdbbab680198e55c770e2862880b339aa9207e467660fedd14adcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/38\/25-28.1792512365326.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "kad bija laiks"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "viņas dzemdību"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "dvīņi"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "viņas miesā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:05.327130406Z",
+  "model": "glm-5.3"
+}

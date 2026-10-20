@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 12:15",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Latviešu valodai vajag saiti vārdu teikumā par kariem"
+    },
+    {
+      "kind": "crux",
+      "subject": "לְהִתְיַחֵשׂ",
+      "rationale": "'Pēc izcelsmes \/ genealoģiju hronikās' pret 'midrashu stilā' — vēsturisks strīda punkts"
+    },
+    {
+      "kind": "mystery",
+      "subject": "avota norāde",
+      "rationale": "Rakstītās hronikas minētas kā slēgts avots, ko lasītājs nezina"
+    }
+  ],
+  "translation": "Un Rehabeama darbi, pirmie un pēdējie, — vai tie nav rakstīti Šemajas pravieša un redzētāja Ido hronikās pēc izcelsmi? Un Rehabeama un Jarobeama kari ⟨bija⟩ visās dienās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f943684c4f40f8e79827f36089846c61561d8981b571467a054b0626acd25f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/12\/13-16.1792531871645.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pirmie"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "pēdējie"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai... nav"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "rakstīti"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "hronikās"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemajas"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "ועדו",
+      "gloss": "Ido"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "redzētāja"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "pēc izcelsmes"
+    },
+    {
+      "surface": "ומלחמות",
+      "gloss": "kari"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Jarobeama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienās"
+    }
+  ],
+  "timestamp": "2026-10-20T21:31:11.647190148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עצביה",
+      "rationale": "`עַצַבִּים` burtiski `sāpju radījumi \/ tēli`; atstāts par `eli`, lai saglabātu valdnieka nievājuma toni."
+    }
+  ],
+  "translation": "Vai ne tā, kā es darīju Šomeronam un tā eliem, tā es darīšu Jerušalaimai un tā elkiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/9-12.1792522028034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "es darīju"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Šomeronam"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "un tā eliem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimai"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "un tā elkiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:08.034889674Z",
+  "model": "glm-5.3"
+}

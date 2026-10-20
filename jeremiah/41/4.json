@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "Latviešu valodai vajadzīgs palīgvārds pie 'nezināja', ebreju valodā tas nav"
+    }
+  ],
+  "translation": "Un notika otrajā dienā pēc Gedaljahu nonāvēšanas — ⟨את⟩ Gedaljahu — un neviens cilvēks ⟨to⟩ nezināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/41\/1-4.1792524219535.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "השני",
+      "gloss": "otrajā"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "nonāvēt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un neviens cilvēks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    }
+  ],
+  "timestamp": "2026-10-20T19:23:39.536791703Z",
+  "model": "glm-5.3"
+}

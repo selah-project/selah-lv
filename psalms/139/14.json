@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפליתי\/נפלאים",
+      "rationale": "tā pati sakne פלא — 'izcelts' un 'brīnumains', latviski zudis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne tikai dvēsele"
+    },
+    {
+      "kind": "crux",
+      "subject": "נוראות נפליתי",
+      "rationale": "'baismīgi izcels' (KJV) pret 'apbrīnojami izšķirts' (YLT no פלה)"
+    }
+  ],
+  "translation": "Es Tev pateikšos, jo ar apbrīnu baudāms esmu veidots; brīnumaini ir Tavi darbi, un mana dvēsele to zina ļoti labi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/139\/13-16.1792528436554.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Es Tev pateikšos"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ar apbrīnu baudāms"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "esmu veidots"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "brīnumaini"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Tavi darbi"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "un mana dvēsele"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti labi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:56.555179788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "burtiski ‘ar zobena muti’; latviski ‘ar zobena asmeni’."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne dvēsele atsevišķā nozīmē."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא יחוס \/ ולא יחמל \/ ולא ירחם",
+      "rationale": "trīskāršs noliegums — žēlastības pilnīga atraišana; uzsvars zūd, ja saīsina."
+    }
+  ],
+  "translation": "Un pēc tam, saka Jahve, es atdošu ⟨את⟩ Cidkijahu, Jūdas ķēniņu, un ⟨את⟩ viņa kalpus, un ⟨את⟩ tautu, un ⟨את⟩ atlikušos šajā pilsētā no mēra, no zobena un no bada — Nebukadnecara, Bābeles ķēniņa, rokā, un viņu ienaidnieku rokā, un to, kas meklē viņu dzīvību, rokā; un viņš tos trieks ar zobena asmeni; viņš nesaudzēs viņus, neapžēlos un nenožēlos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/21\/5-8.1792523724744.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "es atdošu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "viņa kalpus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "atlikušos"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "atlikušos"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šajā"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mēra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "un no"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bada"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnecara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un rokā"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "viņu ienaidnieku"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un rokā"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tie, kas meklē"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu dzīvību"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "un viņš tos trieks"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ar asmeni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nesaudzēs"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "viņš nesaudzēs"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "neapžēlos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "nenožēlos"
+    }
+  ],
+  "timestamp": "2026-10-20T19:15:24.746014503Z",
+  "model": "glm-5.3"
+}

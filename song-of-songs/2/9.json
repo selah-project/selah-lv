@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mūsu",
+      "rationale": "Hebrajas כתלנuo jau ir 'mūsu siena', piederība iekļauta sufiksā — atkārtota skaidrības labad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mציץ",
+      "rationale": "citz cēlā no 'mirgot\/mirdzēt' — te 'lūrēt spraugās'; ziedēšanas nozīme (ziedonis) zūd"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עפר האילים",
+      "rationale": "'briedēnu briežiem' — burtiski 'putekļaino briežu' (pēc krāsas), t.i. jaunie brieži"
+    }
+  ],
+  "translation": "Mans mīļotais līdzinās gazelei vai briedēnam — lūk, viņš stāv aiz ⟨mūsu⟩ sienas, lūkojas pa logiem, izskatās pakšķu spraugās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/2\/9-12.1792529625209.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "līdzinās"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mans mīļotais"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "gazelei"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "briedēnam"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "briežiem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stāv"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "mūsu sienas"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "lūkojas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "logiem"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "izskatās"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pakšķu spraugās ⟨no⟩"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "pakšķu spraugām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:45.210275141Z",
+  "model": "glm-5.3"
+}

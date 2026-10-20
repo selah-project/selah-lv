@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav saikļa: 'šis ⟨ir⟩ tas gadījums'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sava tēva",
+      "rationale": "Ebrejiski nepārprotami עיר דוד אביו — 'Davida, viņa tēva, pilsēta'; 'sava' pievienots latviešu skaidrībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "Milo",
+      "rationale": "המלוא — 'pildījums, valnis': Davida pilsētas terases nocietinājums; atstāts pēc skaņas kā īpašvārds."
+    }
+  ],
+  "translation": "Un šis ⟨ir⟩ tas gadījums, ka viņš pacēla roku pret ķēniņu Šlimo: Šlimo uzcēla ⟨את⟩ Milo un aizvēra ⟨את⟩ pārrāvumu Davida, sava tēva, pilsētā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6b6dce135f400d74b9da0bcaa9bb74b7f7ec68c332b1709759be70bd11b30545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/26-27.1792532646317.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Un šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gadījums"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pacēla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roku"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "pret ķēniņu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlimo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "aizvēra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pārrāvumu"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pārrāvumu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:06.318676004Z",
+  "model": "glm-5.3"
+}

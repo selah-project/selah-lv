@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sūtnis",
+      "rationale": "מלאך ir 'vēstnes\/sūtnis'; 'eņģelis' ievestu vēlāku priekšstatu"
+    }
+  ],
+  "translation": "Un es sūtīšu tev pa priekšu sūtni, un es izdzīšu ⟨את⟩ kenaaniešus, emoriešus, hetiešus, periziešus, hiviešus un jebusiešus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/33\/1-4.1792513411900.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "un es sūtīšu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev pa priekšu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sūtni"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "un es izdzīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaaniešus"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešus"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešus"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "un hetiešus"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "un periziešus"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviešus"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "un jebusiešus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:23:31.901049853Z",
+  "model": "glm-5.3"
+}

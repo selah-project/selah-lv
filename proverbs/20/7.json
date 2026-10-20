@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sava⟩",
+      "rationale": "possesīvs izteikts lokatīva formā בתמו; latviešu valodai vajadzīgs īpašības vārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי",
+      "rationale": "laimīgo izsaucienu forma (priekšstatu 'cik laimīgi!') atgriežas Sālsdziesmās; te kā paziņojums"
+    }
+  ],
+  "translation": "Taisnais staigā ⟨sava⟩ nevainībā — laimi piedzīvo viņa bērni pēc viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/20\/5-8.1792528772256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "nevainībā"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnais"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "laimi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "viņa bērni"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pēc viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:32.257561923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שסע",
+      "rationale": "Darbības vārds 'sašķelt' Tanahā parādās tikai šeit — metafora: vārdi šķeļ vīru dusmas kā zemi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ar vārdiem",
+      "rationale": "Burtiski 'šķēla ar vārdiem' — runa kā šķēle, kas aptur uzbrukumu"
+    }
+  ],
+  "translation": "Un Davids ar vārdiem sašķēla ⟨את⟩ savus vīrus un nedeva tiem celties pret Šaulu; un Šauls piecēlās no alas un gāja savu ceļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/5-8.1792519404170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Un sašķēla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus vīrus"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "savus vīrus"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ar vārdiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nedeva"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "celties"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "un Šauls"
+    },
+    {
+      "surface": "קם",
+      "gloss": "piecēlās"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "no alas"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "savu ceļu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:24.171356324Z",
+  "model": "glm-5.3"
+}

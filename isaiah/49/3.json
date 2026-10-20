@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tu⟩ esi",
+      "rationale": "Ebreju tekstā nav izteikta kopulas; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "crux",
+      "subject": "Jisraēl",
+      "rationale": "Vai 'Jisraēls' ir uzruna kalpam, vai paskaidrojums, kas kalps ir — kalps kā tauta vai kā viena persona."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēl",
+      "rationale": "Jahve tieši uzrunā kalpu Jisraēlu."
+    }
+  ],
+  "translation": "Un viņš man sacīja: mans kalps ⟨tu⟩ esi, Jisraēl, ar ko es rotāšos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/49\/1-4.1792522829524.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mans kalps"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩ esi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ar ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tevi"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "es rotāšos"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:29.525492427Z",
+  "model": "glm-5.3"
+}

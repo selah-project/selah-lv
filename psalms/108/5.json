@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "patiesība",
+      "rationale": "אמת ir 'stabilitāte, uzticamība'; 'patiesība' ir tikai viena no nozīmēm"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa vārda 'ir' teikuma sākumā"
+    }
+  ],
+  "translation": "Jo liels virs debess ⟨ir⟩ tavs heseds, un līdz mākoņiem tava patiesība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/108\/5-8.1792528220915.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liels"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "virs"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesīm"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavs heseds"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mākoņiem"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tava patiesība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:20.915499844Z",
+  "model": "glm-5.3"
+}

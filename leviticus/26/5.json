@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sējas laiks",
+      "rationale": "זרע šeit nozīmē sējas laiku, ne sēklu — ražas cikla noslēgums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דיש\/בציר\/זרע",
+      "rationale": "Ebreju turpinājuma cikls: kulšana → vīnogas → sēja; atkārtotais ישיג sasaista abus posmus"
+    }
+  ],
+  "translation": "Un jūsu kulšana aizsniegs ⟨את⟩ vīnogu ražu, un vīnogu raža aizsniegs ⟨את⟩ sējas laiku; un jūs ēdīsit savu maizi līdz pilnībai un dzīvosit drošībā savā zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/5-8.1792515216738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "aizsniegs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jūsu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kulšana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vīnogu ražu"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vīnogu ražu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "un vīnogu raža"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "aizsniegs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sējas laiku"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sējas laiku"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "un jūs ēdīsit"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "savu maizi"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "līdz pilnībai"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "un dzīvosit"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "drošībā"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "savā zemē"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:36.739974806Z",
+  "model": "glm-5.3"
+}

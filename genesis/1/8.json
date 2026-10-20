@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Debess",
+      "rationale": "שמים ir duālis — 'debesis' divskaitlī; latviešu 'Debess' daudzskaitļa nozīmi zaudē."
+    },
+    {
+      "kind": "measurement",
+      "subject": "diena otrā",
+      "rationale": "Radīšanas dienu skaitīšana — otrā diena."
+    }
+  ],
+  "translation": "Un Elohim sauca izplet ni Debess, un bija vakars, un bija rīts — diena otrā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/1\/5-8.1792511472661.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Un sauca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "izplet ni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Debess"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vakars"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rīts"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "שני",
+      "gloss": "otrā"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:12.662605160Z",
+  "model": "glm-5.3"
+}

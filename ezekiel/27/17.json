@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 27:17",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; teikumā 'tie ir tavi tirgotāji' saiklis pievienots latviski"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פנג",
+      "rationale": "Pannag — vārds sastopams tikai šeit Tanahā; nozīme nenoteikta (iespējams konditorejas izstrādājums vai vietvārds)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tirdzniecības saraksts",
+      "rationale": "Pants uzskaita preces un tirdzniecības partnerus — Tīras tirgus kataloga daļa"
+    }
+  ],
+  "translation": "Jehuda un Jisraēla zeme — tie ⟨ir⟩ tavi tirgotāji; kviešus no Minitas un pannagu, medu un eļļu un balzamu tie deva par tavu preci.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "332b4a14755d7a8a9173d6a2d9ada812b92fa8c05fd028dcc0117ee378e2b6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/27\/17-20.1792525365843.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "un zeme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "tavi tirgotāji"
+    },
+    {
+      "surface": "בחטי",
+      "gloss": "kviešus"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "no Minitas"
+    },
+    {
+      "surface": "ופנג",
+      "gloss": "un pannagu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "un medu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "un eļļu"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "un balzamu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "deva"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "par tavu preci"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:45.843939469Z",
+  "model": "glm-5.3"
+}

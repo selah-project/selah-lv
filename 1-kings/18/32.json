@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "divas sā sēklas",
+      "rationale": "Izmērs dots ar graudu mēru: grāvis, kurā ietilpst divas sā sēklas."
+    },
+    {
+      "kind": "crux",
+      "subject": "תעלה",
+      "rationale": "'Kanāls' vai 'grāvis' — burtiski ūdens novadgrāvis; tradicionāli 'grāvis', bet vārds nozīmē arī apglabāšanas\/iecirkņa kanālu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבית סאתים",
+      "rationale": "Burtiski 'kā divu sā māja' — laukuma mērs 'māja' (telpa) latviski kļūst par 'tik lielu kā'."
+    }
+  ],
+  "translation": "Un viņš uzcēla ar ⟨את⟩ akmeņiem altāri Jahves vārdā, un viņš izdarīja grāvi, tik lielu kā divas sā sēklas, ap altāri apkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/29-32.1792520991802.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Un viņš uzcēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akmeņiem"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ar akmeņiem"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altāri"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vārdā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "un izdarīja"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "grāvi"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kā"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "divas sā"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sēklas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ap altāri"
+    }
+  ],
+  "timestamp": "2026-10-20T18:29:51.804083476Z",
+  "model": "glm-5.3"
+}

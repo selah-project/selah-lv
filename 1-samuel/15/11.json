@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחמתי",
+      "rationale": "naham: 'man žēl \/ es nožēloju' — vai Dievs maina prātu, vai izsaka nožēlu par notikušo; latviski 'Nožēloju'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחר",
+      "rationale": "vayihar: dusmas (asv 'wroth') vai skumjas\/bēdas (kjv 'grieved') — 'kvēloja' saglabā burtisko siltuma\/aizmiglojuma ainu."
+    },
+    {
+      "kind": "addition",
+      "subject": "sirdī",
+      "rationale": "Ebreju tekstā tikai 'un Šemuēlam kvēloja'; latviski pievienots 'tas...sirdī', lai teikums būtu pilns."
+    }
+  ],
+  "translation": "Nožēloju, ka es iecēlu ⟨את⟩ Šaulu par ķēniņu, jo viņš atgriezās no manis un manus ⟨את⟩ vārdus nav piepildījis. Un Šemuēlam tas kvēloja sirdī, un viņš kliedza pie Jahves visu nakti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba43f99a3c7cdd72ae973bb7ae84440742d3dadf7ce155d8a1c59e1d7240c6b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/9-12.1792519096757.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Nožēloju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "iecēlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vārdus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "piepildījis"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kvēloja"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Šemuēlam"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "kliedza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:16.758839044Z",
+  "model": "glm-5.3"
+}

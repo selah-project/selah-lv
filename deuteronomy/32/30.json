@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Klintnīks",
+      "rationale": "צור ir 'klinšu klints'; šeit par Elohim — saglabāts litenēles tēls, nevis 'Dievs'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא כי",
+      "rationale": "Burtiski 'ja ne... ka'; tulkots kā retorisks jautājums 'Vai ne tāpēc, ka'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viens\/tūkstoti\/divi\/desmit tūkstoši",
+      "rationale": "Skaitļu proporcija 1:1000 un 2:10000 kā Israēla uzvaras mērs"
+    }
+  ],
+  "translation": "Kā viens dzinis pūs tūkstoti un divi bēga desmit tūkstošus? Vai ne tāpēc, ka viņu Klintnīks pārdeva ⟨את⟩ viņus un Jahve nodeva ⟨את⟩ viņus?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/32\/29-32.1792517459194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kā"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "dzinis pūs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoti"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "un divi"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "bēga desmit tūkstošus"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "desmit tūkstoši"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "viņu Klintnīks"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "pārdeva"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "un Jahve"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "nodeva ⟨את⟩ viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:59.195432885Z",
+  "model": "glm-5.3"
+}

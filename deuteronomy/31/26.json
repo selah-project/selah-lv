@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לעד",
+      "rationale": "Lemma norāda 'liecinieks'; tulkots kā 'uz mūžību', jo בך jau nes 'pret tevi' no 31:26 konteksta (liecība) — tekstā nav atsevišķa vārda 'liecinieks'."
+    },
+    {
+      "kind": "you",
+      "subject": "levītiem",
+      "rationale": "Pavēle adresēta levītiem — otrā persona daudzskaitlī."
+    }
+  ],
+  "translation": "Ņemiet šo Toras ⟨את⟩ grāmatu un lieciet ⟨את⟩ to pie sāniem jūsu Elohim Jahves derības šķirstam, un lai tā ⟨ir⟩ tur par liecinieku pret jums uz mūžību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/25-28.1792517472660.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Ņemiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toras grāmatu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "lieciet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ to"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "pie sāniem"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirstam"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lai tā ir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pret jums"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "uz mūžību"
+    }
+  ],
+  "timestamp": "2026-10-20T17:31:12.662889757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tie⟩",
+      "rationale": "Ebreju sieviešu dzimtes daudzskaitlis darbības vārdam תגלנה prasa subjektu, kas latviski izteikts ar vietniekvārdu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "satriecis",
+      "rationale": "דכית burtiski 'samalcis\/sabradājis' — kauli samalti drupatās; 'satriecis' ir maigāks."
+    }
+  ],
+  "translation": "Liec man dzirdēt prieku un līksmību; lai gavilē ⟨tie⟩ kauli, ko Tu esi satriecis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/9-12.1792527610404.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "liec man dzirdēt"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "prieku"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "un līksmību"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "laidu gavilē ⟨tie⟩"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kauli"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ko Tu esi satriecis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:10.405124228Z",
+  "model": "glm-5.3"
+}

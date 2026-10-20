@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זריתנו",
+      "rationale": "verb is winnowing (grain tossed in the wind); rendered 'izkaisi' — the agricultural picture survives weakly"
+    },
+    {
+      "kind": "addition",
+      "subject": "mūs",
+      "rationale": "Hebrew suffix -נו carries 'us'; Latvian needs the accusative stated"
+    }
+  ],
+  "translation": "Tu atdod ⟨mūs⟩ kā avis un kazas, ko ēd, un starp tautām Tu mūs izkaisi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/44\/9-12.1792527468212.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Tu atdod"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kā avis un kazas"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ko ēd"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "un starp tautām"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Tu mūs izkaisi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:48.213130312Z",
+  "model": "glm-5.3"
+}

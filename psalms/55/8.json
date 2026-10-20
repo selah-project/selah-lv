@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "Darbības vārda persona latviski prasa subjektu, ebreju valodā tas ir darbības vārdā."
+    }
+  ],
+  "translation": "Lūk, es aiziešu tālu projām, klejošu un pārguļu tuksnesī. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/5-8.1792527671829.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "aiziešu tālu projām"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "klejošu"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "pārguļu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:11.830211953Z",
+  "model": "glm-5.3"
+}

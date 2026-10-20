@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פצו עלי פיהם",
+      "rationale": "Burtiski 'ravas atplēsa pār mani' — parādā apdraudējuma žests, ne tikai atvēršana."
+    }
+  ],
+  "translation": "Pret mani to mute atplēstas — lauva, kas plēš un rūc.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/13-16.1792527218905.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "atplēstas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "to mute"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lauva"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "plēš"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "un rūc"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:38.906176876Z",
+  "model": "glm-5.3"
+}

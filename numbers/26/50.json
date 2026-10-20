@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa starp tēmu un skaitli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izšķirotie",
+      "rationale": "פקוד ir 'apmeklēt\/ierakstīt\/ieskaitīt' — tālumā no 'izšķirt', bet skaitīšanas kontekstā nozīmē 'ieskaitītie'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "45 400",
+      "rationale": "Cilts tautas skaitīšanas rezultāts"
+    }
+  ],
+  "translation": "Šie ir Naftali dzimtas pēc viņu dzimtām, un to izšķirotie ⟨ir⟩ piecdesmit tūkstoši un četrsimti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5107e8be24b0743784dcd8c15bc0d5183ea09e66075b45bd4853408045c02b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/26\/50-51.1792532480852.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dzimtas"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "un to izšķirotie"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "un četrdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "un četri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:20.852600524Z",
+  "model": "glm-5.3"
+}

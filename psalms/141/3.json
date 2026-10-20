@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרה\/נצרה",
+      "rationale": "Divi dažādi sargāšanas verbi vienā panta — sardze un sargāšana kā paralēls dvīnis, latviskā atkāpe to mīkstina."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pie manas mutes",
+      "rationale": "Ivritā לפי — 'lai manai mutei' (datīvs bez prievārda); prievārds 'pie' pievienots latviešu skaidrībai."
+    }
+  ],
+  "translation": "Uzstādi, Jahve, sargposteni pie manas mutes, sargi durvis pie manām lūpām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c412d9845e3bab6d75a24d29ffb4d0fea488ddc6591f8d65b14e2ac992d266eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/141\/3-4.1792532826232.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "uzstādi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "sargposteni"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pie manas mutes"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דל",
+      "gloss": "durvis"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "manām lūpām"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:06.232707133Z",
+  "model": "glm-5.3"
+}

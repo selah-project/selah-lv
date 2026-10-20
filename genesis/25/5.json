@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "piederēja",
+      "rationale": "Ebreju valodā nav darbības vārda — pievienots 'piederēja', lai latviešu valodā būtu pilna teikuma struktūra."
+    }
+  ],
+  "translation": "Un Avrahams deva ⟨את⟩ visu, kas viņam piederēja, Jichakam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e12dea066e8fe59b0bde57fe9ee3c476792aea9d9a32cff1812983ed5dc937de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/25\/5-8.1792512047456.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "un deva"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu, kas viņam piederēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam piederēja"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jichakam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:00:47.456974537Z",
+  "model": "glm-5.3"
+}

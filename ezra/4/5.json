@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 4:5",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "laiks",
+      "rationale": "Laika posms precīzi iezīmēts: visas Koreša dienas līdz Darejava valdīšanai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סכרים",
+      "rationale": "Darbības vārds 'algot' latviešu valodā pārcelts uz 'algodami' ar diviem vārdiem vienam ebreju vārdam."
+    }
+  ],
+  "translation": "un algodami pret viņiem padomdevējus, lai izjauktu viņu padomu, visas Koreša, Parasas ķēniņa, dienas un līdz Darejava, Parasas ķēniņa, valdīšanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/4\/5-8.1792530540581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכרים",
+      "gloss": "un algodami"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pret viņiem"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "padomdevējus"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "lai izjauktu"
+    },
+    {
+      "surface": "עצתם",
+      "gloss": "viņu padomu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Korešs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "valdīšanai"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darejava"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:00.582015070Z",
+  "model": "glm-5.3"
+}

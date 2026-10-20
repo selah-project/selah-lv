@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לרבעה",
+      "rationale": "Sēduma darbības vārds, laukumā 'izstiepties, gulties' — apzīmē dzimumaktu ar lopu, latviskots kā 'guļu dotu'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומתו",
+      "rationale": "Infinitiva-absolūta pastiprinājums: 'nāvē tiks nogalināti'."
+    },
+    {
+      "kind": "you",
+      "subject": "izraēļiešu kopiena",
+      "rationale": "'Tu nogalināsi' — vienskaitļa pavēle kopienai kā tiesību normai."
+    }
+  ],
+  "translation": "Un sieva, kas pieiet pie kāda lopa, lai ar to guļu dotu ⟨את⟩ tai, — tu nogalināsi ⟨את⟩ sievu un ⟨את⟩ lopu, nāvē tie tiks nogalināti, viņu asinis ir uz viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/20\/13-16.1792515092006.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Un sieva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "pieiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kāda"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lopa"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "lai guļu dotu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tai"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "tu nogalināsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sievu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "lopu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lopu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvē"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "tiks nogalināti"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "viņu asinis"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ir uz viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:32.011906757Z",
+  "model": "glm-5.3"
+}

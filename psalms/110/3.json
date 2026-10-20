@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "panta sintakse",
+      "rationale": "Slavenākais krustpunkts psalmā: pantes locekļu piederība un locījumi neskaidri — 'tava tauta [ir] brīvprātīgas dāvanas' pret 'brīvprātīgi nāks'; 'no rīta dzemdes' — rasa piedzimst no rīta, vai jaunība no dzemdes."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משחר",
+      "rationale": "'rītausma' — vārds Tanahā tikai šeit."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דברתי (nākamā pantā, radniecīgs)",
+      "rationale": "Sakne דברה 'kārtība, veids' — arī gandrīz vai tikai šeit un Ps 110:4."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tēli",
+      "rationale": "Dzemde, rītausma, rasa, jaunība — apzināti tumšs, simbolu pilns pantiņš bez skaidra priekšmeta."
+    }
+  ],
+  "translation": "Tauta — brīvprātīgas dāvanas tavā kara spēka dienā, svētā krāšņumā; no rīta dzemdes tev pieder rasa tavas jaunības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/110\/1-4.1792528243285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "brīvprātīgas dāvanas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tava kara spēka"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "krāšņumā"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētā"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "no dzemdes"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "rīta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tavas jaunības"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:43.286799490Z",
+  "model": "glm-5.3"
+}

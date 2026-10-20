@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאון\/גאים",
+      "rationale": "'Lepnība' 16:18 un 'lepnie' 16:19 ir viena sakne — pantu saite, kas latviski saglabājas tikai pa pusei"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zemja ruah",
+      "rationale": "שפל רוח burtiski 'zema ruah' — pretstats 'augstai ruah' iepriekšējā pantā"
+    }
+  ],
+  "translation": "Labāk zemja ruah ar ⟨את⟩ nabagiem nekā dalīt laupījumu ar ⟨את⟩ lepnajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/17-20.1792528745464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Labāk"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "zemja"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabagiem"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "nabagiem"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "dalīt"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "laupījumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lepnajiem"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "lepnajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:05.465856772Z",
+  "model": "glm-5.3"
+}

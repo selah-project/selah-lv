@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 9:21",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ביעף",
+      "rationale": "Vārds parādās tikai šeit Tanahā — nogurums no lidojuma; lielākā daļa tulkojumu to mīkstina par 'ātri lidodams'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעף ביעף",
+      "rationale": "Vienādas saknes paronomāzija — 'noguris nogurumā-lidojumā'; latviski saglabāta kā divi vārdi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨un⟩",
+      "rationale": "Latviešu valodai vajag saikli pirms 'vīrs Gabriēls', ebreju valodā tas ir Narrative-stils bez saikļa."
+    },
+    {
+      "kind": "mystery",
+      "subject": "redzējums",
+      "rationale": "Gabriēls nāk no redzējuma pasaules pie Daniels — textā ir pāreja no slēpta uz atklātu."
+    }
+  ],
+  "translation": "Un vēl man runājot lūgšanā, ⟨un⟩ vīrs Gabriēls, kuru es biju redzējis redzējumā sākumā, noguris lidojumā pieskārās man ap vakara minhas laiku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "480f413a5bc54cf15da4997bfc374aa14b7a7a13035116b8615cccfe7d8dce2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/9\/21-24.1792530389199.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Un vēl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "runājot"
+    },
+    {
+      "surface": "בתפלה",
+      "gloss": "lūgšanā"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "un vīrs"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabriēls"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "es biju redzējis"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "redzējumā"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "מעף",
+      "gloss": "noguris"
+    },
+    {
+      "surface": "ביעף",
+      "gloss": "lidojumā"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "pieskārās"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ap laiku"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhas"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vakara"
+    }
+  ],
+  "timestamp": "2026-10-20T21:06:29.200426723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 10:29",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "vārdu saraksts",
+      "rationale": "Saraksts vīriem, kas bija ņēmuši ārzemju sievas — uzskaites pants."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירמות",
+      "rationale": "KJV 'Ramoth' pret ASV\/JPS 'Jeremoth' — pats zilbes sākums trūkst tekstā."
+    }
+  ],
+  "translation": "Un no Banija dēliem: Mešulams, Malluhs un Adaja, Jašubs un Šeals, un Jerimots.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08de94e2792c8e24d91c386fe74df5cdaeef59e59518dc26c892745a58b8fd1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/10\/29-32.1792530602334.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "un no ... dēliem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Mešulams"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Malluhs"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "un Adaja"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "Jašubs"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "un Šeals"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Jerimots"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:02.335248309Z",
+  "model": "glm-5.3"
+}

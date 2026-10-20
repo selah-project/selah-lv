@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāta kā 'ruah' — vējš\/gars\/elpa vienā vārdā"
+    },
+    {
+      "kind": "alternative",
+      "subject": "uzcēla",
+      "rationale": "ויעמד burtiski 'izstādīja\/nostādināja' vētru — 'uzcēla' ir izplatītākā lasījums"
+    }
+  ],
+  "translation": "Un Viņš sacīja, un uzcēla vētras ruah, un tā pacēla tās viļņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/25-28.1792528178446.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "vētras"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "un pacēla"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "tās viļņus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:38.446908635Z",
+  "model": "glm-5.3"
+}

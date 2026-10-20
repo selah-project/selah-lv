@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodai trūkst kopulas; latviešu svētības formula to prasa."
+    },
+    {
+      "kind": "elision",
+      "subject": "מלא objekts",
+      "rationale": "'Piepildīja' objekts (solas vārdi) ebrejiski izlaists; latviski pievienots 'to'."
+    }
+  ],
+  "translation": "Un viņš sacīja: Lai ⟨ir⟩ svētīts Jahve, Jisraēla Elohim, kas ar savu muti runāja ⟨את⟩ ⟨ar⟩ Davidu, manu tēvu, un ar savu roku to piepildīja, sacīdams:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/13-16.1792520585043.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "svētīts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ar savu muti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ar⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "manu tēvu"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "un ar savu roku"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "piepildīja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:05.044397469Z",
+  "model": "glm-5.3"
+}

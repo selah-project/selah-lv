@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל תשחת",
+      "rationale": "„Neiznīcini” — populāras dziesmas iesākuma vārdi kā psalma virsraksta daļa."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "„miktams” — nozīme neskaidra: iegravējums, uzraksts vai zelta dārgums; atstāts pēc skanējuma."
+    },
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "Latviešu teikumam vajag laika saikli, ebreju virsrakstā tā nav."
+    }
+  ],
+  "translation": "Diriģentam; Neiznīcini; Davida miktams, kad Šaūls sūtīja, un viņi novēroja ⟨את⟩ namu, lai viņu nonāvētu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/59\/1-4.1792527702985.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "iznīcini"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktams"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kad sūtīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūls"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "un viņi novēroja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "lai viņu nonāvētu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:42.986311021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omeru skaitīšana",
+      "rationale": "Skaitīšanas pavēle — septiņi šabati līdz piecdesmitajai dienai."
+    },
+    {
+      "kind": "crux",
+      "subject": "šabati",
+      "rationale": "שבתות burtiski 'šabati'; JPS tulko 'nedēļas' — fermeru skaitīšanas konteksts, bet ebreju vārds ir 'šabati'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבתות",
+      "rationale": "Šabata vārds atkārtojas: no šabata dienas skaita septiņus šabatus — atbalss, kas latviski daļēji pazūd."
+    }
+  ],
+  "translation": "Un jūs skaitīsiet sev no nākamās dienas pēc šabata, no dienas, kad jūs atnesāt ⟨את⟩ pacelšanas omeru: septiņi šabati — pilnīgi tie būs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/23\/13-16.1792515123150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "un jūs skaitīsiet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nākamā diena"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "pēc šabata"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "no dienas"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "jūs atnesāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeru"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omeru"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "pacelšanas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "šabati"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "pilnīgi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "tie būs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:03.151904738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום satur veselumu, labklājību un mieru vienā vārdā; atstāts pēc skanējuma, lai vārds nepazustu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ar viņa svītrumiem",
+      "rationale": "חבורה burtiski 'pārsista vieta, zilums' — vienā vārdā gan trieciens, gan tā pēda."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav darbības vārda 'būt'; latviešu valodai vajag ⟨ir⟩."
+    }
+  ],
+  "translation": "Un viņš tika caurdurts mūsu pārkāpumu dēļ, satriekts mūsu noziegumu dēļ; pārmācība mūsu šalomam ⟨bija⟩ uz viņu, un ar viņa svītrumiem mums ⟨ir⟩ dziedināšana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/53\/5-8.1792522972507.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "caurdurts"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "mūsu pārkāpumu dēļ"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "satriekts"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "mūsu noziegumu dēļ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pārmācība"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "mūsu šaloms"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "un ar viņa svītrumiem"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "tika dziedināti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:52.507936644Z",
+  "model": "glm-5.3"
+}

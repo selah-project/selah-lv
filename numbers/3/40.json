@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "'vizitēt\/apskatīt' sakne šeit nozīmē 'registrēt skaitā'; latviski 'skaiti' zaudē apmeklējuma nozīmi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Pants pavēl uzskaitīt pirmdzimtos un pacelt vārdu skaitu — tīra mērīšanas struktūra."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moše",
+      "rationale": "Jahve tieši uzrunā Moši ar pavēli."
+    }
+  ],
+  "translation": "Un Jahve sacīja Mošem: Skaiti visu pirmdzimto vīriešu kārtu no Jisraēla dēliem, no viena mēneša vecuma un uz augšu, un paceļ ⟨את⟩ viņu vārdu skaitu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "51898747591805f48b01f73f55454974376081a4915af7a73c34464de8dfdd3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/40-40.1792532475014.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Skaiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "pirmdzimto"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vīriešu kārtu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "no ... dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "no viena ... vecuma"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un uz augšu"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "un paceļ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu vārdu skaitu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaitu"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "viņu vārdu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:15.015484043Z",
+  "model": "glm-5.3"
+}

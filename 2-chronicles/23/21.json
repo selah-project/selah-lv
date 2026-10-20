@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodai trūkst kopulas; latviešu valodai tā nepieciešama pie 'pilsēta klusa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Darbības vārda 'nogalināja' subjekts (zemes ļaudis) pievienots kā izsauksvārds."
+    }
+  ],
+  "translation": "Un priecājās viss zemes ļaudis, un pilsēta bija klusa, un ⟨את⟩ Ataliju viņi nogalināja ar zobenu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "78a4ff86b5c7dc98624820c943fa7cd012159e44bb0c511d1be0b044dfd7b605",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/23\/21-21.1792532045505.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Un priecājās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "un pilsēta"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bija klusa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataliju"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliju"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "viņi nogalināja"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ar zobenu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:34:05.505936158Z",
+  "model": "glm-5.3"
+}

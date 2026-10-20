@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 1:19",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks — ne 'dvēsele' plašākā nozīmē"
+    },
+    {
+      "kind": "idiom",
+      "subject": "atgrieztu savu dzīvību",
+      "rationale": "השיב נפש burtiski 'atgriezt elpu' = atjaunot spēkus, atgriezt dzīvību"
+    }
+  ],
+  "translation": "Es saucu savus mīļotos, viņi mani pievīla; mani priesteri un mani vecajie pilsētā izdvesa elpu, jo meklēja sev ēdienu, lai atgrieztu ⟨atpakaļ⟩ ⟨את⟩ savu dzīvību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/1\/17-20.1792529860617.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Es saucu"
+    },
+    {
+      "surface": "למאהבי",
+      "gloss": "savus mīļotos"
+    },
+    {
+      "surface": "המה",
+      "gloss": "viņi"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "pievīla mani"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mani priesteri"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "un mani vecajie"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "גועו",
+      "gloss": "izdvesa elpu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "meklēja"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēdienu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "lai atgrieztu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dzīvību"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "savu dzīvību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:40.618405629Z",
+  "model": "glm-5.3"
+}

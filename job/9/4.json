@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš ir",
+      "rationale": "Ebreju valodā teikumā nav subjekta un saikļa; latviešu valodai tie vajadzīgi"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישלם",
+      "rationale": "'un palika vesels \/ izdzīvoja \/ bija nesodīts' — šalam sakne; tulkotāji dalīti starp 'izdzīvoja' un 'izdevās'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכם לבב \/ אמיץ כח",
+      "rationale": "Divi līdzsvaroti pāri 'gudrs-sirdī \/ stiprs-spēkā' — parallēlisms, latviski saglabāts"
+    }
+  ],
+  "translation": "⟨Viņš ir⟩ gudrs sirdī un stiprs spēkā — kas apcietinājis sevi pret Viņu un izdzīvoja?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1b6947af0ba77d61bd1e76f710097f58aaf19fe477d4e464aba186aa4332638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/9\/1-4.1792529072918.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "gudrs"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "un stiprs"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēkā"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "apcietinājis sevi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pret Viņu"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "un izdzīvoja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:32.919946330Z",
+  "model": "glm-5.3"
+}

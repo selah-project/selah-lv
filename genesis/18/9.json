@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir \/ viņa ir",
+      "rationale": "Ebreju valodā nav izteikta darbības vārda — pievienots ⟨ir⟩ un ⟨viņa ir⟩ kā pilns teikums."
+    },
+    {
+      "kind": "crux",
+      "subject": "Sāra",
+      "rationale": "שרה — Sāra (nevis ‘Saraija’); vārds nozīmē ‘firstenione’, bet paliek kā properums."
+    }
+  ],
+  "translation": "Un viņi sacīja viņam: Kur ⟨ir⟩ Sāra, tava sieva? Un viņš sacīja: Lūk, ⟨viņa ir⟩ teltī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/18\/9-12.1792511765235.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sāra"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tava sieva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltī"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:05.235873314Z",
+  "model": "glm-5.3"
+}

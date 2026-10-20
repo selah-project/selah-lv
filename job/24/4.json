@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 24:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Otrajā pusē teikumam trūkst saikles; 'ir' pievienots latviešu teikuma struktūrai"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חבאו",
+      "rationale": "'paslēpušies' (nabagie slēpjas, KJV\/JPS) pret 'tiek paslēpti\/spiesti slēpties' (BSB piespiedu lasījums)"
+    }
+  ],
+  "translation": "Viņi atstumj trūcīgos no ceļa, kopā paslēpušies ⟨ir⟩ zemes nabagie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/24\/1-4.1792529349908.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יטו",
+      "gloss": "Viņi atstumj"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "trūcīgos"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "no ceļa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "חבאו",
+      "gloss": "paslēpušies"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nabagie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:09.934398676Z",
+  "model": "glm-5.3"
+}

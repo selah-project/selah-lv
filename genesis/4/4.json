@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ieradīja skatienu",
+      "rationale": "וישע no ša'ah — burtiski 'lūkojās, vērsās ar skatienu'; bieži tulkots kā 'pieņēma labvēlīgi', kas ir sekas, ne darbība."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל \/ הביא",
+      "rationale": "Habela vārds un darbības vārds הביא ('atnesa') sasaucas — hevel hevi."
+    }
+  ],
+  "translation": "Un Habels atnesa arī viņš — no savu avju un kažu pirmajiem dzimumiem un no to treknuma; un Jahve ieradīja skatienu uz Habelu un uz viņa minhu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae71745516a81d20b0c22d9ff1bcaa877084e125fc4f421a4d4ba208bda0dd9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/4\/1-4.1792511497758.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "Un Habels"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "atnesa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "no pirmajiem dzimumiem"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "savu avis un kazas"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "un no to treknuma"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "un ieradīja skatienu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habelu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "viņa minhu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:37.760365157Z",
+  "model": "glm-5.3"
+}

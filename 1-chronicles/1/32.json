@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pašķira",
+      "rationale": "פילגש ir blakussieva\/pašķira, ne precēta sieva"
+    },
+    {
+      "kind": "elision",
+      "subject": "saiklis",
+      "rationale": "Otrajā teikumā ebreju tekstā nav darbības vārda — tikai 'un Jokšana dēli: Šeba un Dedans'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ciltsraksts",
+      "rationale": "Keturas pēcnācēju uzskaitījums"
+    }
+  ],
+  "translation": "Un Keturas, Avrahama pašķiras, dēli: viņa dzemdēja ⟨את⟩ Zimranu, un Jokšanu, un Medanu, un Midjanu, un Jišbaku, un Šuahu. Un Jokšana dēli: Šeba un Dedans.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ef063860bd0ae2c89f9246b26ecddb61eb79fca4786ed9d54676e5916d804d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/1\/29-32.1792530898639.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturas"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pašķira"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimranu"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimranu"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "un Jokšanu"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "un Medanu"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "un Midjanu"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "un Jišbaku"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "un Šuahu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokšana"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "un Dedans"
+    }
+  ],
+  "timestamp": "2026-10-20T21:14:58.640681688Z",
+  "model": "glm-5.3"
+}

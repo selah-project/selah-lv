@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tukšība",
+      "rationale": "תהו ir radīšanas 'bezformība' no 1. Mozus 1:2 — šeit morālā postatā; 'tukšība' saglabā abas nozīmes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרו עמל והוליד און",
+      "rationale": "Iedomātās grūtniecības-metafora: 'ieņem pūles, dzemdē ļaunumu' — paralele ar 59:5 olām; latviski metafora saglabāta."
+    },
+    {
+      "kind": "mystery",
+      "subject": "נשפט",
+      "rationale": "Retā nifal-forma 'tiek tiesāts \/ tiesā ar uzticību' — tulki dalās starp 'plesdams patiesību' un 'kāds tiesā'."
+    }
+  ],
+  "translation": "Neviens nesauc cedekā, un neviens netiesā uzticībā; paļaujas uz tukšību un runā veltīgi; ieņem pūles un dzemdē ļaunumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/59\/1-4.1792523078134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Neviens"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nesauc"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cedekā"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un neviens"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "netiesā"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "uzticībā"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "paļaujas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tukšību"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "un runā"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "veltīgi"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "ieņem"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pūles"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "un dzemdē"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunumu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:38.135847044Z",
+  "model": "glm-5.3"
+}

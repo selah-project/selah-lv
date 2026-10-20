@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "latviešu valodai vajadzīgs prievārds pie 'varu'"
+    }
+  ],
+  "translation": "Un viņš izdarīja ⟨את⟩ stanges no akācijas koka un apklāja ⟨את⟩ tās ar varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/38\/5-8.1792513472146.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "izdarīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stanges"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stanges"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "koka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akācijas"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "apklāja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tās"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:32.147182489Z",
+  "model": "glm-5.3"
+}

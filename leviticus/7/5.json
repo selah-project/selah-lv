@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; nelokāms Tas ir atstāts kā izteiksmes `הוא`"
+    }
+  ],
+  "translation": "Un priesteris sadedzinās ⟨את⟩ tos uz altāra kā uguns upuri Jahvem — tā ⟨ir⟩ vainas upuris.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/7\/5-8.1792513651395.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "sadedzinās"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tos",
+      "marks": "tie (nieru tauki)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "uz altāra"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "uguns upuris"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vainas upuris"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ⟨ir⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:27:31.396189583Z",
+  "model": "glm-5.3"
+}

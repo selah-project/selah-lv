@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרמתם",
+      "rationale": "'Tu tos aizplūdināji (kā plūdu viļņi)' pret 'Tu tos noslīcināji miegā'; verbs זרם nozīmē 'plūst kā ūdens'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחלף",
+      "rationale": "Burtiski 'paiet garām \/ ātri izzūd'; KJV 'izaug' seko kalambūram ar יציץ v.6."
+    }
+  ],
+  "translation": "Tu tos aizplūdināji; tie ir kā miegs; no rīta tie ir kā zāle, kas izaug.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/5-8.1792528037130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "aizplūdināji"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miegs"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "no rīta"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kā zāle"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "izaug"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:17.130623235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "domas",
+      "rationale": "שרעפים ir satrauktas, trauksmainas domas — jps 'rūpes', ne mierīgas pārdomas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעשעו",
+      "gloss": "šņācošā\/daudzinošā intensīva forma no שׁוע — maigi glāstīt, atkārtota darbība zudusi"
+    }
+  ],
+  "translation": "Kad manu domu pārpilnība manī, Tavi mierinājumi iepriecina manu dvēseli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cc28e4c47c64080aef18a956129cbdd10e3b0989220dd5dc66fac0218a1dff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/94\/17-20.1792528045745.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "pārpilnībā"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "manu domu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "Tavi mierinājumi"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "iepriecina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "manu dvēseli"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:25.746536131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; īss teikums bez predikāta"
+    }
+  ],
+  "translation": "Paaudzei pēc paaudzes ⟨ir⟩ Tava uzticamība; Tu esi cēlis ⟨את⟩ zemi, un tā pastāv.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/89-92.1792528317249.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pēc paaudzes"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "Tava uzticamība"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "esi cēlis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "un tā pastāv"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:57.250229751Z",
+  "model": "glm-5.3"
+}

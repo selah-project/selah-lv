@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוּחַ atstāts kā ruah: elpa\/gars\/vējš vienā vārdā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהרו\/תלדו",
+      "rationale": "Iedomātā grūtniecība ar salmiem — tēls par tukšu, destruktīvu augli"
+    }
+  ],
+  "translation": "Jūs tapsat grūtas ar sausu zāli, dzemdēsiet salmus; jūsu ruah — uguns, tā jūs aprīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/33\/9-12.1792522374231.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "jūs tapsat grūtas"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "ar sausu zāli"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "dzemdēsiet"
+    },
+    {
+      "surface": "קש",
+      "gloss": "salmus"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "jūsu ruah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "jūs aprīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:52:54.232349584Z",
+  "model": "glm-5.3"
+}

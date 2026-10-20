@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks, ne tikai 'dvēsele'; šeit skaitļo personas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septiņas",
+      "rationale": "cilts uzskaites summējums — Bilhas pēcnācēju skaits"
+    }
+  ],
+  "translation": "Šie ir Bilhas dēli, kurus Lavans deva Rahēlei, savai meitai, un viņa dzemdēja ⟨את⟩ šos Jaakovam; visas dvēseles — septiņas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/46\/25-28.1792512557810.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deva"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavans"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahēlei"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savai meitai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "un viņa dzemdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šos"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septiņas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:09:17.810669707Z",
+  "model": "glm-5.3"
+}

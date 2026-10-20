@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "mans mīļotais ... tev",
+      "rationale": "tieša uzruna mīļotajam (dod) par viņam glabāto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "labumi",
+      "rationale": "מגדים ir 'izcilas lietas, augļi'; 'labumi' tuvākais latviešu vārds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח \/ הדודאים",
+      "rationale": "dod (mīļotais) un dudaim (mandragoras) — skanējuma līdzība, kas latviski iespējama tikai caur 'mīļotais'\/'mandragoras' zaudēta"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ko⟩",
+      "rationale": "latviešu teikumam vajadzīgs priekšmets paslēptajam; ebreju tekstā tas izlaists"
+    }
+  ],
+  "translation": "Mandragoras dod smaržu, un pie mūsu durvīm visi labumi, jaunie arī vecie; mans mīļotais, ⟨ko⟩ esmu paslēpusi tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/7\/13-14.1792529720447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "mandragoras"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dod"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smaržu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "mūsu durvīm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "labumi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "jaunie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "יושנים",
+      "gloss": "vecie"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mans mīļotais"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "esmu paslēpusi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:20.448874627Z",
+  "model": "glm-5.3"
+}

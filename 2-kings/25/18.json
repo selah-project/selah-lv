@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "Burtiski 'kaujamo pavēlnieks' (bendu priekšnieks); tradicionāli 'sardzes priekšnieks' — amats, ne burtiskais tēls."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הסף",
+      "rationale": "Burtiski 'slieksnis' (templis priekšnams), ne vienkārši 'durvis'."
+    }
+  ],
+  "translation": "Un bendu pavēlnieks paņēma ⟨את⟩ Serajahu, priesteri galveno, un ⟨את⟩ Cefanjahu, priesteri otro, un ⟨את⟩ trīs sliekšņa sargus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/17-20.1792521863240.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pavēlnieks"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "bendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajahu"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galveno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Cefanjahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Cefanjahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "otro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "trīs sliekšņa sargus"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "sargus"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "sliekšņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:23.241216415Z",
+  "model": "glm-5.3"
+}

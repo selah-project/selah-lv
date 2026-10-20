@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 10:13",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pirms 'lietus laiks'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הרבינו לפשע",
+      "rationale": "Burtiski 'mēs esam pavairojuši pārkāpšanu' — pastiprinājums ar 'daudzot'"
+    }
+  ],
+  "translation": "Bet tauta ir daudz, un ⟨ir⟩ lietus laiks, un nav spēka stāvēt ārā, un darbs nav vienas dienas un nav divu dienu, jo mēs esam ļoti daudz pārkāpuši šajā lietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00f0f8be483186596c8b6b42b46081a425c0b6d89b2d7dd01e78358860369cbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/10\/13-16.1792530637305.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ir daudz"
+    },
+    {
+      "surface": "והעת",
+      "gloss": "un laiks"
+    },
+    {
+      "surface": "גשמים",
+      "gloss": "lietus"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēka"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "stāvēt"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "והמלאכה",
+      "gloss": "un darbs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vienas dienas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "divu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הרבינו",
+      "gloss": "esam ļoti daudz"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "pārkāpuši"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "šajā lietā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:37.305983734Z",
+  "model": "glm-5.3"
+}

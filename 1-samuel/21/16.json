@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "manā priekšā",
+      "rationale": "עלי burtiski 'uz mani\/virs manis' — 'manā priekšā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁגע",
+      "rationale": "saknes שׁגע atkārtošanās: משגעים — להשתגע, trako vārds trīsreiz šajā runā"
+    }
+  ],
+  "translation": "Vai trūkst man trako, ka jūs atvedāt ⟨את⟩ šo, lai viņš trako manā priekšā? Vai šis lai nāk manā namā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc1b27828201017ca6ac03a4aaffd8c28de1cdbaadc29d9854a75bf5d26798cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/21\/13-16.1792519336090.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Vai trūkst"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "trako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "jūs atvedāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "lai trako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manā priekšā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lai nāk"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "manā namā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:16.091759997Z",
+  "model": "glm-5.3"
+}

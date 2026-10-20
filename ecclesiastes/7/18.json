@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jātsē et kulām",
+      "rationale": "'izies ar\/arpus tiem visiem': KJV 'come forth of them all', JPS 'discharge himself of them all' — abas abstinences pārnesīs cauri"
+    },
+    {
+      "kind": "elision",
+      "subject": "טוב",
+      "rationale": "'Lab ir' — ebreju teikumā trūkst izsauksmes darbības vārda 'ir'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "padoms: turēt abus galus un nebaidīties"
+    }
+  ],
+  "translation": "Lab ir turot pie šā un arī no šā nelaiz ⟨את⟩ savu roku vaļā, jo tas, kas baidās no Elohim, izies ⟨את⟩ cauri visam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/7\/17-20.1792529988390.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "turot"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "pie šā"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "no šā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "laiz vaļā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "baidās"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "cauri visam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:48.391658404Z",
+  "model": "glm-5.3"
+}

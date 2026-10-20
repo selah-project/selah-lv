@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tek",
+      "rationale": "ירדו burtiski 'nolaižas \/ plūst lejup'; attēls par asarām, kas plūst vaigiem lejup."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Darbības vārda subjekts (tie, kas nesargā) ivritā izlaists; latviešu valodai pievienots."
+    }
+  ],
+  "translation": "Strauti ūdens tek no manām acīm, tāpēc ka ⟨viņi⟩ nesargā Tavu Toru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/133-136.1792528333130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Strauti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "tek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "no manām acīm"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tavu Toru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:13.132186184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מטה\/מטות",
+      "rationale": "Viens vārds matte nozīmē gan 'zizlis', gan 'ciltstēvs'; atkārtojas piecas reizes pantā, latviski zudis."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav saikļa — 'ciltstēvi Jisraēla dēli' ir bez kopulas, latviski pievienots ⟨ir⟩ netulkots kā '—'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mantojuma robežas",
+      "rationale": "Pants fiksē zemes īpašuma pārneses kārtību starp ciltstēviem."
+    }
+  ],
+  "translation": "Un lai mantojums neapgriežas no ciltstēva uz citu ciltstēvu, jo ikviens pie sava mantojuma pielīp — ciltstēvi, Jisraēla dēli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1fbff272b38d71923a3e8688c6b80c9b507958617c6ee2ffbb5839b30fe4fde3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/36\/9-12.1792516452010.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un lai ne"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "apgriežas"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mantojums"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "no ciltstēva"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "uz ciltstēvu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "citu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "pie sava mantojuma"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "pielīp"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ciltstēvi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:14:12.011611926Z",
+  "model": "glm-5.3"
+}

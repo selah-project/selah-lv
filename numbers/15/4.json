@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 15:4",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mēri",
+      "rationale": "Pants nosaka precīzus upura mērus: desmitā daļa (עשרון) un hina ceturtdaļa eļļas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה šeit ir upuris no miltiem — pēc D2 noteikuma saglabāts vārds 'minha', nevis viens tulkojums 'dāvana'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Ebreja tiešais objekta marķieris את šajā pantā nav redzams avota tekstā, bet tiešais objekts 'savu upuri' un 'minhu' ir izcelti ar ⟨את⟩ — tomēr avotā nav את; ⟨את⟩ noņemams."
+    }
+  ],
+  "translation": "Un tas, kas tuvina ⟨את⟩ savu upuri Jahvem, tuvina ⟨את⟩ minhu — solets miltu, vienu omeru ceturtdaļu sajauc ar efas ceturtdaļu eļļas —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "230a3ef42aff0da54e89ae1004798c3f0aeacf35c4ea9b33ed794ef003caff94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/15\/4-4.1792532472354.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Un tas, kas tuvina"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "kas tuvina"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "savu upuri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solets miltu"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "vienu omeru ceturtdaļu"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "sajauc ar"
+    },
+    {
+      "surface": "ברבעית",
+      "gloss": "efas ceturtdaļu"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "efa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "eļļas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:12.355236938Z",
+  "model": "glm-5.3"
+}

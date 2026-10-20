@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "relative pronoun supplied; Hebrew juxtaposes 'generation — curses its father'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל \/ לא יברך",
+      "rationale": "antithesis curse\/bless frames the four 'generation' sayings beginning here"
+    }
+  ],
+  "translation": "Paaudze, kas lād savu tēvu, un ⟨את⟩ ⟨savu⟩ māti nesvētī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/9-12.1792528910771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "paaudze"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savu tēvu"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "lād"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savu māti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "māti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "svētī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:50.772287662Z",
+  "model": "glm-5.3"
+}

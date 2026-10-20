@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וגיש",
+      "rationale": "Vārds parādās tikai šeit Tanahā; nozīme 'zemes pika \/ grumba' ir spriešana pēc saknes."
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'Raustīties, plaisāt' pret 'saspringt un pārplīst' — KJV 'broken', ASV 'closeth up and breaketh out afresh'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa darbības vārdam וימאס."
+    }
+  ],
+  "translation": "Apsedz manu miesu tārpi un zemes pikas; mana āda plaisā un ⟨ir⟩ atmesta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/5-8.1792529052589.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "apsedz"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "manu miesu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "tārpi"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "un zemes pikas"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mana āda"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "plaisā"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "un ⟨ir⟩ atmesta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:12.589931505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "latviešu valodai vajadzīgs prievārds, ebreju valodā את only atzīmē objektu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יריבך\/אריב",
+      "rationale": "sarkanms: tas pats darbības vārds ריב atkārtots — 'tavu cīnītāju Es cīnīšos', latviski daļēi saglabāts"
+    }
+  ],
+  "translation": "Jo tā saka Jahve: pat varoņa gūstekni atņems, un nežēlīgā laupījumu atbrīvos; un ⟨ar⟩ to, kas ar tevi cīnās, Es cīnīšos, un tavus dēlus Es izglābšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/49\/25-26.1792522766407.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pat"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "gūstekni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "varoņa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atņems"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "un laupījumu"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "nežēlīgā"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "atbrīvos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to, kas ar tevi cīnās"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "tavu cīņas pretinieku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "cīnīšos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavus dēlus"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavus dēlus"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "izglābšu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:26.407894801Z",
+  "model": "glm-5.3"
+}

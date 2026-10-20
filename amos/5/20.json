@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/אור — אפל\/נגה",
+      "rationale": "Divi pretstatu pāri: tumsa\/gaisma un pilnīga tumsma\/mirdzums — pastiprinājuma pakāpiene no 5:18."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dziļa melna tumsa",
+      "rationale": "'אפל' ir viens vārds — 'bieza, aptumšota tumsa'; latviski vajadzīgi vairāki vārdi."
+    }
+  ],
+  "translation": "Vai tad ne tumsa Jahves diena, nevis gaisma, un dziļa melna tumsa, nevis spīdējums tanī?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a9b1b2a4069811705000e4c8194f693f3e310dce5f78e7dbcc9f58135d53fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/5\/17-20.1792526288593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Vai tad ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tumsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaisma"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "dziļa melna tumsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "spīdējums"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tanī"
+    }
+  ],
+  "timestamp": "2026-10-20T19:58:08.594690883Z",
+  "model": "glm-5.3"
+}

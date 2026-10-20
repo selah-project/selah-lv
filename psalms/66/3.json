@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivritā nav saikles, latviešu valodai tā vajadzīga ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "kijah ašū: ‘melos Tev \/ izlikusies pakļauties’ (YL T) pret ‘pakļausies’ (K JV) vai ‘izgaisīs’ (JPS) — sakne nozīmē būt ned patiesam"
+    }
+  ],
+  "translation": "Sakiet Elohim: cik Baismīgi ir Tavi darbi! Tavas spēka daudzumā Tavi ienaidnieki Tev melīgi pakļausies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/66\/1-4.1792527752624.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sakiet"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cik"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "Baismīgi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ir Tavi darbi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "daudzumā"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "Tavas spēka"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "melīgi pakļausies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "Tavi ienaidnieki"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:32.625429867Z",
+  "model": "glm-5.3"
+}

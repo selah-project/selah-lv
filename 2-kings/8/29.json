@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 8:29",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sirieši",
+      "rationale": "ארמים ir aramieši; latviešu tradīcijā ‘sirieši’, bet pamatteksts saka Arama tautu."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav saikļa ‘כי חלה הוא’ — pievienots ⟨bija⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apciemotu",
+      "rationale": "לראום ir burtiski ‘redzēt’ — Ahazjahu nonāca Joramu ‘redzēt’, tas ir, apciemot slimnieku."
+    }
+  ],
+  "translation": "Un karalis Jorams atgriezās Jizreēlā, lai dziedinātos no brūcēm, ko viņam sirieši bija ievainojuši Rāmā, cīnoties ar ⟨את⟩ Hazaelu, Arama ķēniņu; un Ahazjahu, Jehorama dēls, Jūdas ķēniņš, nonāca, lai apciemotu ⟨את⟩ Joramu, Ahaba dēlu, Jizreēlā, jo viņš ⟨bija⟩ slims.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e940a3ff112fce9a5988db444281640ae3d7ea6df343227ba21296913aafa038",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/8\/29-29.1792521291934.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jorams"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalis"
+    },
+    {
+      "surface": "להתרפא",
+      "gloss": "lai dziedinātos"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreēlā"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "brūcēm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יכהו",
+      "gloss": "viņam ievainojuši"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "sirieši"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Rāmā"
+    },
+    {
+      "surface": "בהלחמו",
+      "gloss": "cīnoties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaelu"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaelu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "un Ahazjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehorama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nonāca"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai apciemotu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joramu"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreēlā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "slims"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T18:34:51.935670662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju salīdzinājumā nav darbības vārda; latviski pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ķēniņu sirds",
+      "rationale": "Ķēniņa sirds noslēpums — neatklājama kā debesis un zeme."
+    }
+  ],
+  "translation": "Debesis ⟨ir⟩ augstumā un zeme ⟨ir⟩ dziļumā, un ķēniņu sirds nav izpētājama.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/25\/1-4.1792528871024.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Debesis"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "augstumā"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "un zeme"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "dziļumā"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "un sirds"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "izpētājama"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:11.025740240Z",
+  "model": "glm-5.3"
+}

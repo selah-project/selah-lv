@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק translated as 'cedek' — 'taisnība' vien par šauru; vārds saglabāts pēc D2."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pateikšos",
+      "rationale": "ידה burtiski 'mest, sviept' — attīstījās 'atzīt, pielūgt'."
+    }
+  ],
+  "translation": "Es Tev pateikšos ar taisnu sirdi, mācoties Tavas cedeka tiesas spriedumus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/5-8.1792528272785.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Es Tev pateikšos"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ar taisnu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "mācoties"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tiesas spriedumus"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Tavas cedeka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:12.786213529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלליך\/חללי",
+      "rationale": "Atkārtota sakne חלל — 'caurdurtie nav caurdurti', spēle latviešu valodā saglabāta daļēji"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "חרב nozīmē gan 'zobens', gan 'sausums'; ņemts 'zobens' pēc konteksta"
+    }
+  ],
+  "translation": "Troksņiem pilna, kūsājoša pilsēta, līksma pilsēta — tavi caurdurtie nav caurdurti ar zobenu un nav kara kritušie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/22\/1-4.1792522203384.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "troksņiem"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "kūsājoša"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "līksma"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "tavi caurdurtie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "caurdurtie"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ar zobenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kritušie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kara"
+    }
+  ],
+  "timestamp": "2026-10-20T18:50:03.385416276Z",
+  "model": "glm-5.3"
+}

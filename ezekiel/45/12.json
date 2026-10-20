@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šekelis, gerah, maneh",
+      "rationale": "Svaru sistēmas noteikšana: 1 šekelis = 20 geri."
+    },
+    {
+      "kind": "crux",
+      "subject": "maneh = 20 + 25 + 15",
+      "rationale": "Summa ir 60 šekeli, parasti maneh ir 50 — slavena pārvaldes nenoteiktība; daži skaita 20+25+15=60, citi meklē cits skaidrojums."
+    }
+  ],
+  "translation": "Un šekelis — divdesmit geri; divdesmit šekeli, pieci un divdesmit šekeli, desmit un pieci šekeli — maneh lai ir jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/45\/9-12.1792525839375.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "Un šekelis"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šekeli"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šekeli"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "un pieci"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekeli"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lai ir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T19:50:39.376615467Z",
+  "model": "glm-5.3"
+}

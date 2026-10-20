@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אַפְּךָ",
+      "rationale": "אַף ir 'deguns\/nāsis' un no tā 'niknums'; latviski saglabāts abējāds attēlojums"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תִּמְשֹׁךְ",
+      "rationale": "'vilkt, stiept' — dusmu 'izstiepšana' paaudžu garumā; idioms atveidots burtiski"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אָנַף \/ אַף",
+      "rationale": "Sakne 'snaukt, elpot smagi' un 'deguns\/niknums' skan vienādi — ebreju lasītājs dzird saiti, kas latviski daļēji zudīga"
+    }
+  ],
+  "translation": "Vai uz mūžu Tu būsi niknums pret mums, vai Tu stiepsi savu degunu—niknumu no paaudzes paaudzē?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/85\/5-8.1792527995083.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Vai uz mūžu"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Tu būsi niknums"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pret mums"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "vai Tu stiepsi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "savu degunu—niknumu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "no paaudzes"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "paaudzē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:35.084237232Z",
+  "model": "glm-5.3"
+}

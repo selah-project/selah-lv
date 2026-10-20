@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 20:6",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'būt'; הוא uzsver 'Tu esi tas'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošafata lūgšana Jahvem",
+      "rationale": "Tieša uzruna Dievam — 'Tu, Tavā rokā'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "להתיצב",
+      "rationale": "Burtiski 'nostāties pretī' — 'pretoties, izturēties pret'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הלא … ואין",
+      "rationale": "Ritoriskais jautājums ar negāciju — latviski pārvērsts apgalvojumā ar 'vai'"
+    }
+  ],
+  "translation": "Un viņš sacīja: Jahve, mūsu tēvu Elohim, vai Tu ⟨neesi⟩ Elohim debesīs? Un Tu valdi pār visām tautu valstīm, un Tavā rokā ir spēks un varenība, un nav neviena, kas spētu Tev pretoties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "06bd90bc00b8a4a8bbbd799c1959ea96f561c3fc8209ba2dd3129a3be4cec0a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/20\/5-8.1792532064846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mūsu tēvu Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "mūsu tēvu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai neesi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Un Tu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "valdi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pār visām"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "valstīm"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "un Tavā rokā"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ir spēks"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "un varenība"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "neviena pie Tevis"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "kas spētu pretoties"
+    }
+  ],
+  "timestamp": "2026-10-20T21:34:24.847630809Z",
+  "model": "glm-5.3"
+}

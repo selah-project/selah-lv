@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Kas man dotu dzert",
+      "rationale": "Davida vēlēšanās retoriskā jautājuma formā, kas aizicina trīs varoņus uz darbību."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ivritā nav saikļa 'kas ir pie vārtiem' — kārtas tikai pievienota latviešu valodai."
+    }
+  ],
+  "translation": "Un Davids ilgojās un sacīja: Kas man dotu dzert ūdeni no bedres Beit-Lehemas, kas ⟨ir⟩ pie vārtiem!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/17-20.1792531342285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ilgojās"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "man dotu dzert"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeni"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "no bedres"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehemas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pie vārtiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:22.288057158Z",
+  "model": "glm-5.3"
+}

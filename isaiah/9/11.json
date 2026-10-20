@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dusmas",
+      "rationale": "'af — deguns\/nāsis, dusmu tēls; latviski 'dusmas' zaudē ķermeņa ainu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs palīgdarbības vārds, ebreju teksta partizips to nesatur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refrēns",
+      "rationale": "'neatgriezās viņa dusmas, un vēl viņa roka izstiepta' atkārtojas 9:11,17,21 un 10:4 — Isajaā refrēns"
+    }
+  ],
+  "translation": "Aramieši no priekšas un pelistieši no aizmugures, un tie aprija ⟨את⟩ Jisraēlu ar visu muti. Par visu to viņa dusmas neatgriezās, un vēl viņa roka ⟨ir⟩ izstiepta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/9-12.1792521969190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramieši"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "no priekšas"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "un pelistieši"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "no aizmugures"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un tie aprija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "par visu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "viņa dusmas"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "un vēl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "izstiepta"
+    }
+  ],
+  "timestamp": "2026-10-20T18:46:09.191778898Z",
+  "model": "glm-5.3"
+}

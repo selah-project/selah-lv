@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עריך",
+      "rationale": "KJV\/lasījumi sadala: 'tavi ienaidnieki' (JPS) pret 'tavas pilsētas' (KJV\/ASV); ebreju 'ir' nozīmē pilsētu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ašeras stabi",
+      "rationale": "אשרה ir gan dieviete Ašera, gan viņas koka stabs vai tēls; 'birztalas' (KJV 'groves') ir aplams."
+    }
+  ],
+  "translation": "Un es izraušu tavus Ašeras stabus no tavas vidus, un iznīcināšu tavas pilsētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/5\/13-14.1792526387791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "un es izraušu"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "tavus Ašeras stabus"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "no tavas vidus"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "un iznīcināšu"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tavas pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:47.791946130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "vienreiz... divreiz",
+      "rationale": "Ebreju idioma 'viens... divi' nozīmē 'atkal un atkal, apzīmēdama apstiprinājumu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu saikle, ko ebreju valoda izlaiž"
+    },
+    {
+      "kind": "you",
+      "subject": "dzirdētājs",
+      "rationale": "Runātājs (Davids) liecina par dzirdēto dievišķo vārdu"
+    }
+  ],
+  "translation": "Vienreiz Elohim ir runājis, divreiz ⟨to⟩ esmu dzirdējis: ka spēks pieder Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/9-12.1792527746760.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Vienreiz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ir runājis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "divreiz"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "esmu dzirdējis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pieder Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:26.760948592Z",
+  "model": "glm-5.3"
+}

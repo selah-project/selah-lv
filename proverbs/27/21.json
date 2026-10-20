@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pēc viņa slavinājuma",
+      "rationale": "לפי מהללו burtīgi 'pēc viņa mutes slavinājuma' — tas, kas par viņu tiek teikts, pārbauda viņu kā pūpelis sudrabu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "pārdomas zīme pievienota, jo ivritam nav darāmā vārda šajā salīdzinājumā"
+    },
+    {
+      "kind": "alternative",
+      "subject": "pēc viņa slavas",
+      "rationale": "KJV\/ASV 'tried by his praise' lasa pārbaudes nozīmi; ivrita teksts saka tikai 'cilvēks pēc viņa slavinājuma'"
+    }
+  ],
+  "translation": "Tīrīšanas trauks sudrabam un kušanas krāsns zeltam, un cilvēks — pēc viņa slavinājuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/21-24.1792528922181.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "tīrīšanas trauks"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "sudrabam"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "un kušanas krāsns"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "zeltam"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un cilvēks"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "viņa slavinājuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:02.182305933Z",
+  "model": "glm-5.3"
+}

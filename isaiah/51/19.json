@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 51:19",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "divas lietas — četri vārdi",
+      "rationale": "Teksts saka 'divas', bet uzskaita četras nelaimes; tradicionāli skaidrots kā divi pāri (postījums+laušana, bads+zobens)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שוד\/שבר",
+      "rationale": "Burtiski 'laupīšana un lūzums' — izvēlēts 'postījums un laušana', saglabājot divu vārdu pāri."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaima",
+      "rationale": "Turpinās tieša uzruna pilsētai."
+    }
+  ],
+  "translation": "Divas ⟨ir⟩ tās, kas tevi sasniegušas — kas par tevi šūpos? Postījums un laušana, un bads, un zobens — kas tevi mierinās?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7112d8e37592ff0d5cf08248a135edffdeb875e39a2c2ef37784d1f4181ff15a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/51\/17-20.1792522957810.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "divas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tās"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kas tevi sasniegušas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "par tevi šūpos"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tevi"
+    },
+    {
+      "surface": "השד",
+      "gloss": "postījums"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "un laušana"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "un bads"
+    },
+    {
+      "surface": "והחרב",
+      "gloss": "un zobens"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אנחמך",
+      "gloss": "tevi mierinās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:37.811859994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מקץ ימים",
+      "rationale": "Burtiski 'no dienu galas' — 'pēc dažām dienām'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרית \/ וייבש",
+      "rationale": "Strauts 'Nogriezums' (Krīta) pats tiek 'nogriezts' — izžūst; vārdu spēle latviski nesasniedzama."
+    }
+  ],
+  "translation": "Un pēc dažām dienām strauts izžuva, jo nebija lietus zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8697c149f4fde41c136e61a559f3a8a872e1b2b817c84d3321f39d04ffb2eb17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/17\/5-8.1792520805333.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pēc beigām"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "un izžuva"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "strauts"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "lietus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    }
+  ],
+  "timestamp": "2026-10-20T18:26:45.334496686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 2:1",
+  "book": "nahum",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajadzīgs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Belials",
+      "rationale": "בליעל — 'bezvērtīgais'; atstāts pēc skanējuma kā vārds-shape, nevis 'ļaunais'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "svini svētkus, Jūda",
+      "rationale": "Pavēles vērstas Jūdai — tieša uzruna."
+    },
+    {
+      "kind": "you",
+      "subject": "Jūda",
+      "rationale": "Pants uzrunā Jūdu otrajā personā sieviešu dzimtē."
+    }
+  ],
+  "translation": "Redzi, uz kalniem ⟨ir⟩ soļi tas, kas vēsti nes, kas pasludina šalomu; svini savus svētkus, Jūda, izpildi savus solījumus, jo vairs Belials tev nepāries pāri — nogriezts viņš pavisam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nahum\/2\/1-4.1792526590670.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "soļi"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "tas, kas vēsti nes"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "pasludina"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomu"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "svini svētkus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūda"
+    },
+    {
+      "surface": "חגיך",
+      "gloss": "savus svētkus"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "izpildi"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "savus solījumus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vairs ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nepāries"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "pāri iet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belials"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pavisam"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "nogriezts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:03:10.670978508Z",
+  "model": "glm-5.3"
+}

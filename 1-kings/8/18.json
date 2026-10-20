@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 8:18",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל · אשר",
+      "rationale": "Prievārdam 'אל' latviešu datīvs un apzīmējuma teikuma 'אשר' uzbūvei nav atsevišķa vārda; tie ietverti locījumā 'Dāvidam' un saiklē 'ka'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם לבבך ... עם לבבך",
+      "rationale": "Atkārtotā frāze 'ar tavu sirdi' ietver panti apbalvojošo atkāpi — saglabāts burtiski"
+    }
+  ],
+  "translation": "Un Jahve sacīja Dāvidam, manam tēvam: tāpēc ka bija ar tavu sirdi celt namu manam Vārdam, tu darīji labi, ka tas bija ar tavu sirdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/17-20.1792520599264.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāvidam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "manam tēvam"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavu sirdi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "celt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "manam Vārdam"
+    },
+    {
+      "surface": "הטיבת",
+      "gloss": "tu darīji labi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavu sirdi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:19.265575459Z",
+  "model": "glm-5.3"
+}

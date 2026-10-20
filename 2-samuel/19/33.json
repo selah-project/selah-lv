@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 19:33",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrew lacks a copula in 'Barzillai was old'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "astoņdesmit gadu vecs",
+      "rationale": "būtībā 'astoņdesmit gadu dēls' — semītiskā skaitļa izteiksme"
+    },
+    {
+      "kind": "measurement",
+      "subject": "astoņdesmit gadu",
+      "rationale": "Barzillai vecums tiek precīzi uzskaitīts"
+    }
+  ],
+  "translation": "Un Barzillajs bija ļoti vecs, astoņdesmit gadu vecs, un viņš uzturēja ⟨את⟩ ķēniņu viņa uzturēšanās laikā Mahanaimā, jo viņš ir ļoti liels vīrs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/33-36.1792520140285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Un Barzillajs"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bija vecs"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "astoņdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "כלכל",
+      "gloss": "uzturēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "בשיבתו",
+      "gloss": "viņa uzturēšanās laikā"
+    },
+    {
+      "surface": "במחנים",
+      "gloss": "Mahanaimā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "liels"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:40.286528946Z",
+  "model": "glm-5.3"
+}

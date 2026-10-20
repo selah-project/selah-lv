@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tikai",
+      "rationale": "'na' izteikts kā 'lai tikai', lai saglabātu lūguma toni"
+    },
+    {
+      "kind": "you",
+      "subject": "trīs vīri",
+      "rationale": "Avrahama viesmīlības lūgums vērsts pie trim vīriem"
+    }
+  ],
+  "translation": "Lai tikai ņemts mazliet ūdens, un nomazgājiet savas kājas, un atpūties zem koka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c449e661237bdd973ef7c67a5493355b5b4ba3345e42a77f90e1e80dda79c588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/18\/1-4.1792511817506.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "lai tikai ņemts"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mazliet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "un nomazgājiet"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "savas kājas"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "un atpūties"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "koka"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:57.507817682Z",
+  "model": "glm-5.3"
+}

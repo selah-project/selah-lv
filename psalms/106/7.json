@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pret ⟨viņu⟩",
+      "rationale": "Ebreju darbības vārdam nav izteikta objekta; latviski pievienots vietas apzīmējums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ים ... בים סוף",
+      "rationale": "Atkārtots 'jūra' — 'pie jūras, pie Sūfa jūras' — ebreju dublējums saglabāts burtiski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד atstāts kā hesed, nevis 'žēlastība' — viens vārds, viena sakne"
+    }
+  ],
+  "translation": "Mūsu tēvi Micraimā nesaprata tavus brīnumus, neatcerējās ⟨את⟩ tavu hesed pārpilnību un sacēlās pret ⟨viņu⟩ pie jūras, pie Sūfa jūras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/5-8.1792528182862.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Mūsu tēvi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nesaprata"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tavus brīnumus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "atcerējās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu hesed pārpilnību"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pārpilnību"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tavu hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "un sacēlās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ים",
+      "gloss": "pie jūras"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pie jūras"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sūfa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:42.863992069Z",
+  "model": "glm-5.3"
+}

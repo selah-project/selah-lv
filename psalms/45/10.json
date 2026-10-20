@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sievām⟩",
+      "rationale": "Latviešu valodai vajadzīgs paskaidrojošs vārds; ebreju teksts saka tikai 'tavās dārgajās'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שגל",
+      "rationale": "Vārds no saknes 'gulēt ar' — ķēniņa galvenā sieva, ne vienkārši 'ķēniņiene'; daži tulkojumi saka 'mīļākā'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Ofīras zelts",
+      "rationale": "Ofīras tīrais zelts kā augstākā zelta mēra atzīme."
+    }
+  ],
+  "translation": "Ķēniņu meitas ir starp tavām dārgajām ⟨sievām⟩; ķēniņiene stāv pie tavas labās rokas, rotāta ar Ofīras tīru zeltu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/9-12.1792527577035.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "tavām dārgajām"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "stāv"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ķēniņiene"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "pie tavas labās rokas"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ar tīru zeltu"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofīras"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:37.036028328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju tekstā nav"
+    },
+    {
+      "kind": "measurement",
+      "subject": "666 kikari zelta",
+      "rationale": "Precīzs gada ienākumu svars kalpošanai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kikari",
+      "rationale": "ככר ir svara vienība (talants), atstāta pēc skanējuma"
+    }
+  ],
+  "translation": "Un svērtais zelta svars, kas nāca pie Šelomo vienā gadā, bija seši simti sešdesmit sešas zelta kikari.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/9\/13-16.1792531851408.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "svars"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "pie Šelomo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vienā gadā"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "un sešdesmit"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "un sešas"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "kikari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    }
+  ],
+  "timestamp": "2026-10-20T21:30:51.408887525Z",
+  "model": "glm-5.3"
+}

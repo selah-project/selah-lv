@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 7:27",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav darbības vārda otrajā דתא pusē; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "svētība Jahve",
+      "rationale": "Ezras slavinājums — runa vērsta uz Dievu un lasītāju pēc aramiešu vēstules"
+    }
+  ],
+  "translation": "Svētīgs lai ir Jahve, mūsu tēvu Elohim, kas ielicis tādu lietu ķēniņa sirdī, lai izdaiļotu ⟨את⟩ Jahves namu, kas ⟨ir⟩ Jerušalaimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "492f4c1c60e03f7c005741de2bc0cb6f2acfd022abf8a536516f3c292992435a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/7\/25-28.1792530612799.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīgs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "mūsu tēvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ielicis"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "tādu lietu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "lai izdaiļotu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:12.800632556Z",
+  "model": "glm-5.3"
+}

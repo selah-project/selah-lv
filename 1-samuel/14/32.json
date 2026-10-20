@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעש אל שלל",
+      "rationale": "Burtiski 'un darīja uz laupījumu' — t.i. metās virsū laupījumam; latviski darbības vārds jāpiegādā"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨uz⟩, ⟨pie⟩",
+      "rationale": "ארצה ir virziens 'uz zemi', על הדם 'uz\/virs asinīm' — latviešu locījumam vajadzīgi prievārdi"
+    },
+    {
+      "kind": "crux",
+      "subject": "על הדם",
+      "rationale": "'Ēda uz asinīm' — gaļu ar asinīm iekšā, pret Toras aizliegumu (3. Mozus 17); šeit pamats nākamajam pantam"
+    }
+  ],
+  "translation": "Un tauta metās virsū laupījumam, un ņēma avis un kazas, liellopus un teļus, un kāva ⟨uz⟩ zemes, un tauta ēda ⟨pie⟩ asinīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/14\/29-32.1792519098958.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "metās"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "virsū"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "laupījumam"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "un ņēma"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis un kazas"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "liellopus"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un teļus"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "no liellopiem"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "un kāva"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨uz⟩ zemes"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "un ēda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pie⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "asinīm"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:18.959582780Z",
+  "model": "glm-5.3"
+}

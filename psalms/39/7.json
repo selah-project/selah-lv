@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלם",
+      "rationale": "'ēnas tēls \/ fantoms' — KJV 'vain shew', JPS 'mere semblance'; tselam nozīmē iluzoru līdzību."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך ... אך",
+      "rationale": "Atkārtotais 'tikai' veido paralēlismu, latviski saglabāts."
+    },
+    {
+      "kind": "addition",
+      "subject": "veltīgi",
+      "gloss": "",
+      "rationale": "הבל te apzīmē veidu ('veltīgi'), nevis lietu — gramatiskais pielāgojums."
+    }
+  ],
+  "translation": "Tikai kā ēnas tēls staigā cilvēks; tikai veltīgi viņi satraucas; viņš krāj, un nezina, kas to savāks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/39\/5-8.1792527510852.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kā ēnas tēls"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "veltīgi"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "viņi satraucas"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "viņš krāj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nezina ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nezina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "to savāks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:30.853847703Z",
+  "model": "glm-5.3"
+}

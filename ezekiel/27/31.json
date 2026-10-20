@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 27:31",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nepešā",
+      "rationale": "נפש nav 'dvēsele' abstraktā nozīmē — tuvāk 'rīkle\/dzīvības spēks'; sēru kontekstā 'rūgtā elpā\/dzīvībā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dūņu kailums",
+      "rationale": "קרחה — kailums, ko radījusi matu izraušana; latviešu sēru tradīcijā 'dūņu kailums'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מר … מר",
+      "rationale": "'rūgtā nepešā — rūgts sērs': atkārtotā sakne מר rada skanējuma atbalsi, kas latviski saglabāta ar 'rūgt-' atkārtojumu"
+    }
+  ],
+  "translation": "Un viņi izplēsīs tev dūņu kailumu un apjozīsies ar maisaudekļiem, un viņi raudās pār tevi rūgtā nepešā — rūgts sēru dziesmu dziedādami.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd2e5fb9c88a96974654e9c810a61fb5282c483b7d32b46c819af27677a7c213",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/27\/30-31.1792532710396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריחו",
+      "gloss": "izplēsīs dūņu kailumu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "dūņu kailumu"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "apjozīsies"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ar maisaudekļiem"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "raudās"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "במר",
+      "gloss": "rūgtā"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nepešā"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "sēru dziesmu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "rūgts"
+    }
+  ],
+  "timestamp": "2026-10-20T21:45:10.398250965Z",
+  "model": "glm-5.3"
+}

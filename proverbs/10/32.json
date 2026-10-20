@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "runā",
+      "rationale": "Ebreju teikumā otrajā pusē nav darbības vārda; latviešu valodai vajag 'runā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי\/שפתי",
+      "rationale": "10:31–32 atkārto mute\/lūpas pāri; תהפכות atgriežas abos pantos kā ļaunuma atslēgas vārds"
+    }
+  ],
+  "translation": "Taisnā lūpas zina tīkamo, bet ļauno mute ⟨runā⟩ sagrozītību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca03a8feeef7ae496d86cc0c3560d14f4e5ecd8d2455c1a7a8145c7eaf011ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/10\/29-32.1792528648827.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "lūpas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnā"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "zina"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "tīkamo"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "bet mute"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļauno"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "sagrozītību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:28.828368409Z",
+  "model": "glm-5.3"
+}

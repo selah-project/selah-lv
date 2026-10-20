@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אַתְּ",
+      "rationale": "Te את ir vietniekvārds 'tu' (אַתָּh), nevis tiešais objekta marķieris H853 — 'arī tevi asins derības dēļ'."
+    },
+    {
+      "kind": "crux",
+      "subject": "asins derības",
+      "rationale": "בְּדַם בְּרִיתֵךְ: 'ar asins derības' (instrumentāls) pret 'derības asins dēļ' — sasaiste ar 2. Mozus 24:8."
+    }
+  ],
+  "translation": "Arī ⟨את⟩ tevi — asins derības dēļ — es izsūtīju tavus gūstekņus no bedres, kurā nav ūdens.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/9-12.1792526793190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevi"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "asins"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "derības dēļ tavas derības"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "es izsūtīju"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "tavus gūstekņus"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "no bedres"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:33.192618605Z",
+  "model": "glm-5.3"
+}

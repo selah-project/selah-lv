@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikles; trīskāršais 'viens...' prasa latviski 'bija'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "desmit pamati",
+      "rationale": "Viena liešana, viens mērs, viena forma — skaitīšanas un mērījumu formula"
+    }
+  ],
+  "translation": "Tādā veidā viņš izdarīja ⟨את⟩ visus desmit pamatus: viena liešana, viens mērs, viena forma ⟨bija⟩ visām tām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1b42e5afc864992891f3f61858859ee32bf635e63f20f1b62bdf4ad0497e95bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/7\/37-40.1792520488150.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "Tādā veidā"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš izdarīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus desmit pamatus"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pamatus"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "liešana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mērs"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viens"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "forma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "visām tām"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:28.151431191Z",
+  "model": "glm-5.3"
+}

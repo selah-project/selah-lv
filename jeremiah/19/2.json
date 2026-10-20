@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 19:2",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החרסות",
+      "rationale": "Vārtu vārds: 'šerdu\/keramikas vārti' (BSB, YLT) pret 'austrumu vārti' (KJV, Genevas) — sakne חרס nozīmē lausku, ne austrumus."
+    },
+    {
+      "kind": "addition",
+      "subject": "iziedams",
+      "rationale": "Latviešu divdabis pievienots parentheticā celma הלוך turpinājumam no 1. panta."
+    }
+  ],
+  "translation": "un iziedams Ben-Hinnomas ielejā, kas pie šerdu vārtu ieejas, un tur pasludini ⟨את⟩ vārdus, kurus Es runāšu ar tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0bd1d2dd261149eddb6b17ccb915a36653cd9c456d447239f40227fc5e5cf90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/19\/1-4.1792523774943.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאת",
+      "gloss": "un iziedams"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ieleju"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnomas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ieeja"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "החרסות",
+      "gloss": "šerdu"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "un pasludini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Es runāšu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:16:14.944380092Z",
+  "model": "glm-5.3"
+}

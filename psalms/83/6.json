@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "noslēgs",
+      "rationale": "יכרתו burtiski 'griezīs' derību — derību 'griežot' caur upura gabaliem (1. Mozus 15); latviski 'noslēgt derību'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Darāmā vārda formas subjekts pievienots, ebreju valodā tas izteikts formā"
+    }
+  ],
+  "translation": "Jo kopā ar sirdi tie apspriedās, pret Tevi derību tie noslēgs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/83\/5-8.1792527951241.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "tie apspriedās"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ar sirdi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pret Tevi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "tie noslēgs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:51.242231922Z",
+  "model": "glm-5.3"
+}

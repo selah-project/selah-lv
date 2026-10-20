@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מרפה",
+      "rationale": "'Dziedināšana' — מרפא ir ārstniecības līdzeklis\/veselēšana; 'laiku dziedināšanai' būtu vēl tuvāk konstrukta formai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרפה \/ בעתה",
+      "rationale": "Gaidītā dziedināšana pret ienākošo šausmu — antitēze, kas latviski saglabāta."
+    }
+  ],
+  "translation": "Gaidījām mieru, un nav labuma, gaidījām dziedināšanas laiku, un lūk, šausmas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e19a54080b3db9253b4e2bfd8ff910e202404d625d7911012b33081568bad122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/8\/13-16.1792523493885.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Gaidījām"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mieru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labuma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "laiku"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "dziedināšanas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "šausmas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:33.886629969Z",
+  "model": "glm-5.3"
+}

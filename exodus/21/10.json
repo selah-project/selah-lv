@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šēer",
+      "rationale": "שאר nozīmē 'miesu\/īsteni'; šeit plašāk — uzturs, ēdiens"
+    },
+    {
+      "kind": "substitution",
+      "subject": "onatah",
+      "rationale": "ענתה — kopība\/miegs; 'kopības tiesa' turpina םšpaṭ vārdsa saistību"
+    }
+  ],
+  "translation": "Ja citu viņš ņem sev, viņas ēdienu, viņas apģērbu un viņas kopības tiesu viņš nemazinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/21\/9-12.1792513060773.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "citu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "viņš ņem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "viņas ēdienu"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "viņas apģērbu"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "un viņas kopības tiesu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "viņš samazinās"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:40.774401465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebreju valodā nav saikļa; latviešu valodai vajadzīgs 'ir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שר הבירה",
+      "rationale": "'cietoksņa pavēlnieks' pret 'pils pārvaldnieks' — הבירה nozīmē cietoksni vai pili"
+    }
+  ],
+  "translation": "Un es pavēlēju ⟨את⟩ Hanani, savam brālim, un ⟨את⟩ Hananiju, cietoksņa pavēlnieku, pār Jerušalaimu, jo viņš ⟨ir⟩ kā patiesības vīrs un bīlas ⟨את⟩ no Elohim vairāk nekā daudzi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/7\/1-4.1792530737697.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Un es pavēlēju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "savam brālim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Hananiju"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananiju"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pavēlnieku"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cietoksņa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kā vīrs"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesības"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un bīlas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "vairāk nekā daudzi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:12:17.698784778Z",
+  "model": "glm-5.3"
+}

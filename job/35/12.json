@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Eloah⟩",
+      "rationale": "Darbības vārda יענה subjekts nav izteikts; pievienots no konteksta (Elihu runa par Eloah)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "augstprātība",
+      "rationale": "גאון burtiski 'lepnums, majestāte'; šeit negatīvā nozīmē — 'iegozība, augstprātība'."
+    }
+  ],
+  "translation": "Tur viņi kliedz, bet ⟨Eloah⟩ neatbild ļauno augstprātības dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/35\/9-12.1792529494167.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "viņi kliedz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atbild"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "augstprātības"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ļauno"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:34.168710588Z",
+  "model": "glm-5.3"
+}

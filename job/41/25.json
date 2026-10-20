@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלו",
+      "rationale": "'viņa līdzinieka \/ viņam līdzīgs valdnieks' — KJV rāda 'kad viņš ceļas, varenie bīstas' no cita teksta tradīcijas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חת",
+      "rationale": "חת ir gan 'saberztis', gan 'bailes\/šausmas'; šeit 'bez bailēm' kā 'bīstamais (dzīvnieks)' jeb bezbailīgs"
+    }
+  ],
+  "translation": "Uz putekļiem nav viņa līdzinieka; viņš ir radīts bez bailēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bbf8b7a157562680df971e1e30c7020c85d3f678a813e5c3f4b2f3224e25f878",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/41\/25-26.1792529549826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekļiem"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "viņa līdzinieka"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "ir radīts"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "חת",
+      "gloss": "bailēm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:29.827182406Z",
+  "model": "glm-5.3"
+}

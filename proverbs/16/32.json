@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lēns dusmās",
+      "rationale": "ארך אפים burtiski 'garšdeguns' — dusmu idiomātiskais izteikums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah ir 'vējš, elpa, gars' — viens vārds vairākām lietām; 'gars' viens tiktu sašaurināts"
+    }
+  ],
+  "translation": "Labāk lēns dusmās nekā varonis, un tas, kas valda pār savu ruah, nekā tas, kas ieņem pilsētu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/29-32.1792528749817.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Labāk"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lēns"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "dusmās"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "nekā varonis"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "un valda"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "pār savu ruah"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "nekā ieņem"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:09.818128720Z",
+  "model": "glm-5.3"
+}

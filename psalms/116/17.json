@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pateicības upuris",
+      "rationale": "תודה burtiski ir 'izstiepta roka' — atzīšanās un pateicības žests, latviski 'pateicības upuris'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזבח זבח",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes — 'upurēšu upuri', atkārtojums saglabāts."
+    }
+  ],
+  "translation": "Tev upurēšu pateicības upuri un Jahves vārdā saukšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7a3a4f1a8d8db24521d7447c46690e18552aedf57499aac071f3d047980d5eda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/116\/17-19.1792528261026.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "upurēšu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuri"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pateicības"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "un vārdā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "saukšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:01.027114699Z",
+  "model": "glm-5.3"
+}

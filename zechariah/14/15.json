@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 14:15",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mēris",
+      "gloss": "מגפה 14:12 ir 'sitiens, mēris' — te tas pats vārds attiecināts uz lopiem."
+    },
+    {
+      "kind": "addition",
+      "subject": "tanī",
+      "rationale": "Latviešu valodai vajadzīgs vietniekvārds 'to nometņu' vietas skaidrībai; ebreju ההמā jau to nes."
+    }
+  ],
+  "translation": "Un tāda pati būs mēris zirgam, mūlim, kamielim un ēzelim un visiem lopiem, kas būs to nometņu tanī — kā šis mēris.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "427228b76b5b2bfeed3b9c3b1fe05a581b699faaff7fb17266b903d5282336a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/14\/13-16.1792526921621.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Un tāda pati"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "מגפת",
+      "gloss": "mēris"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "zirgam"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "mūlim"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamielim"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "un ēzelim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visiem"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lopiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "במחנות",
+      "gloss": "nometņu"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כמגפה",
+      "gloss": "kā mēris"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:41.622588005Z",
+  "model": "glm-5.3"
+}

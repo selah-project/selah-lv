@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Divreiz pievienots saiklis, ko ebreju valoda izlaiž"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elohim atkārtojums",
+      "rationale": "Elohim stāv panta sākumā un beigās — ietvars, kas pasvītro uzticēšanos"
+    }
+  ],
+  "translation": "Uz Elohim ⟨ir⟩ mana pestīšana un mans gods; klints mana spēka, mana patversme ⟨ir⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/5-8.1792527744636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mana pestīšana"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "un mans gods"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klints"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mana spēka"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mana patversme"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:24.636916258Z",
+  "model": "glm-5.3"
+}

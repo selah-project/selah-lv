@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškans",
+      "rationale": "משכן atstāts kā miškans, nevis 'mājoklis' viens vārds"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rietumu pusē",
+      "rationale": "ימה burtiski 'jūras virzienā' — rietumi"
+    }
+  ],
+  "translation": "Geršoniešu dzimtas nometnes aiz miškana, rietumu pusē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ba9646a191e6c6099aea73bad64e58ffc1438e9a0842484b8c18bbcf505d138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/21-24.1792515387069.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "dzimtas"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Geršoniešu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškana"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "nometnes"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "rietumu pusē"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:27.073465270Z",
+  "model": "glm-5.3"
+}

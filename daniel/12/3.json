@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזהרו \/ זהר",
+      "gloss": "darbības vārds un tā salīdzinājuma lietvārds no vienas saknes — 'spīdēs kā mirdzums' saglabā radniecību."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשכלים",
+      "rationale": "'gudrie' par sakni, kas nozīmē 'izpratīgi, apdomīgi' — ne tikai 'mācītie'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "mūžīgi un vienmēr",
+      "rationale": "לעולם ועד — divkāršs laika termins aiz redzamā, apzīmē pilnīgu, neizsmeļamu ilgumu."
+    }
+  ],
+  "translation": "Un gudrie spīdēs kā debess juma mirdzums, un tie, kas dara taisnus ⟨את⟩ daudzos, — kā zvaigznes, mūžīgi un vienmēr.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2d09745fe39e4de9254481c1d6962834018700fa625010f33dfaab4fedff2b93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/12\/2-3.1792532894109.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "un gudrie"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "spīdēs"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "kā mirdzums"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "debess juma"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "un tie, kas dara taisnus"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "daudzos"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "kā zvaigznes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un vienmēr"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:14.109983765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 25:2",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום atstāts kā šaloms — pilnība, labklājība, ne tikai 'miers'."
+    }
+  ],
+  "translation": "Valdīšana un bailes ⟨ir⟩ pie viņa; viņš dara ⟨ir⟩ šalomu savos augstumos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8f260ba0ec891d3793fd906ea11b87cccd76145fc50e5631fd3fb2fa2693f95b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/25\/1-4.1792529388108.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשל",
+      "gloss": "valdīšana"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "un bailes"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš dara"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomu"
+    },
+    {
+      "surface": "במרומיו",
+      "gloss": "savos augstumos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:48.109476591Z",
+  "model": "glm-5.3"
+}

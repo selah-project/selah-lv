@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sevi⟩",
+      "rationale": "ivritā darbības vārds לבש 'apvilkt' tieši nepiemin objektu; latviešu valodai vajag paskaidrotāju."
+    },
+    {
+      "kind": "idiom",
+      "subject": "apvelc augstprātību",
+      "rationale": "iepašņošanās metafora: Dievs aicina Jobu uzvilkt Viņa godības tērpu, it kā tā būtu drāna."
+    }
+  ],
+  "translation": "Apvelc ⟨tagad⟩ augstprātību un lepnību, un godu un krāšņumu apseglo ⟨sevi⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/40\/9-12.1792529568077.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "apvelc"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨tagad⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "augstprātību"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "un lepnību"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "un godu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "un krāšņumu"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "apseglo ⟨sevi⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:48.078245002Z",
+  "model": "glm-5.3"
+}

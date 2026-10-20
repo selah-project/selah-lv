@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני שחץ",
+      "rationale": "'lepnuma dēli' (patmīlīgie, spēcīgie dzīvnieki) pret 'lauvas mazuļi' (šaḥal kā lauva) — KJV pret YLT."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izslāpis ļaunums — lauva",
+      "rationale": "Latviski atstāts vienkārši 'lauva'; שחל ir lauva pēc savas rūkoņas."
+    },
+    {
+      "kind": "secret",
+      "subject": "nepiespiestā taka",
+      "rationale": "Pat lepnie zvēri nav spēruši kāju gudrības ceļā — tas paliek noslēpts."
+    }
+  ],
+  "translation": "To nav mīdījuši lepnuma dēli, pār to nav soļojis izslāpis ļaunums — lauva.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/5-8.1792529389532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "mīdījuši to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "lepnuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "soļojis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār to"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lauva"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:49.533223069Z",
+  "model": "glm-5.3"
+}

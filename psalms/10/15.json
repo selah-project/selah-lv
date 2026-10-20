@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע \/ ורע \/ רשעו",
+      "rationale": "saknes רשע un רע trīskārša atbalss — 'ļaunais, ļaunums, viņa ļaunums'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "'vairs netiks atrasts' — ļaunums izzudīs pilnīgi, nevis 'tu neatradīsi'"
+    }
+  ],
+  "translation": "Lauz roku ļaunajam un ļaunumam; meklē viņa ļaunumu — ⟨un⟩ vairs neatradīsi ⟨neko⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/13-16.1792527108945.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "lauz"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunajam"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "un ļaunumam"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "meklē"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "viņa ļaunumu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "vairs ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "atradīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:48.950532498Z",
+  "model": "glm-5.3"
+}

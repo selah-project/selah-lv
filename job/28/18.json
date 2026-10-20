@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 28:18",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשך",
+      "rationale": "'Iegūšana' vs 'Vērtība' vs 'Vilkšana\/izcelšana' — no saknes משך 'vilkt'; lielākā daļa: 'ieguvums\/gūmums'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראמות",
+      "rationale": "'Koraļļi' vs 'savvaļas vērši augstie' — neskaidrs dārgakmens; tradicionāli koraļļi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai nepieciešamspredikāts 'ir' salīdzinājumam, ebreju valodā tas netiek izteikts."
+    }
+  ],
+  "translation": "Koraļļi un ledus kristāls netiek pieminēti, un gudrības iegūšana ir augstāka par pērlēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/17-20.1792529388152.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "koraļļi"
+    },
+    {
+      "surface": "וגביש",
+      "gloss": "un ledus kristāls"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "tiek pieminēti"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "un iegūšana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrības"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "par pērlēm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:48.153323395Z",
+  "model": "glm-5.3"
+}

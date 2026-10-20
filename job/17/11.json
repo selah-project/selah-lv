@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 17:11",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumos nav saikļa 'ir'; latviešu valodā nepieciešams"
+    },
+    {
+      "kind": "crux",
+      "subject": "מורשי לבבי",
+      "rationale": "מורש tieši ir 'mantojums'; tradīcijas lasa 'mana sirds iekāres\/domas' — daži tulko 'mantojums manai sirdij'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "manas dienas",
+      "rationale": "Dienu skaitīšana: dzīves laiks izmērīts un pagājis"
+    }
+  ],
+  "translation": "Manas dienas ir pagājušas, mani nodomi ir norauti, mana sirds iekāres.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/17\/9-12.1792529195992.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "manas dienas"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ir pagājušas"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mani nodomi"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "ir norauti"
+    },
+    {
+      "surface": "מורשי",
+      "gloss": "iekāres"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mana sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:35.993624075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir\/nav",
+      "rationale": "Ebreju valoda iztrūkst saikli; latviešu valodai vajag 'nav'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/נשברה",
+      "rationale": "sargāt\/salauzt pretstats vienā panti — latviski saglabāts"
+    }
+  ],
+  "translation": "Viņš sargā visas viņa kaules; ne viena no tām nav salauzta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/34\/21-23.1792527363751.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "viņa kaules"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ne viena"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "no tām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "salauzta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:03.751851797Z",
+  "model": "glm-5.3"
+}

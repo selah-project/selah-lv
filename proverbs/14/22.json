@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būs",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda; latviešu valodai vajag ⟨būs⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרשי…חרשי",
+      "rationale": "Atslēgvārds 'tie, kas ar (izdomā)' atkārtots abās pusēs — hiāza parallels, latviski saglabāts ar atkārtotu 'izdoma'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרשי",
+      "rationale": "Sakne nozīmē 'rakt\/ara': 'tie, kas ar ļaunu' pret 'sagatavot labu' — tulkotāji šķiras starp 'izdomāt' un 'plūt\/ar'."
+    }
+  ],
+  "translation": "Vai neklīst malā tie, kas izdoma ļaunu? Bet tiem, kas izdoma labu, ⟨būs⟩ hesed un patiesība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/21-24.1792528659749.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "klīst malā"
+    },
+    {
+      "surface": "חורשי רע",
+      "gloss": "tie, kas izdoma ļaunu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "un hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "un patiesība"
+    },
+    {
+      "surface": "חרשי טוב",
+      "gloss": "tiem, kas izdoma labu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:39.750566589Z",
+  "model": "glm-5.3"
+}

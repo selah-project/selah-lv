@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa — latviešu valodā nepieciešams"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dzelzs kausējamā krāsns",
+      "rationale": "כור הברזל ir tēlainais apzīmējums Micraimas verdzībai (5. Mozus 4:20)"
+    }
+  ],
+  "translation": "jo tie ⟨ir⟩ Tava tauta un Tavs mantojums, ko Tu izvedi no Micraimas, no dzelzs kausējamās krāsns vidus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/49-52.1792520585213.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Tava tauta"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "un Tavs mantojums"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "Tu izvedi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "כור",
+      "gloss": "kausējamās krāsns"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dzelzs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:05.214474107Z",
+  "model": "glm-5.3"
+}

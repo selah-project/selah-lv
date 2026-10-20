@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izraudi",
+      "rationale": "נצל ir 'nolaupīt, izraut' no briesmām, ne tikai 'pestīt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'jo labs ir Tavs hesed'"
+    }
+  ],
+  "translation": "Bet Tu, Jahve Adonai, rīkojies ⟨ar mani⟩ sava Vārda dēļ, jo labs ir Tavs hesed — izraudi mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/21-24.1792528204666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Bet Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rīkojies"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ar mani"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sava Vārda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Tavs hesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "izraudi mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:04.666928541Z",
+  "model": "glm-5.3"
+}

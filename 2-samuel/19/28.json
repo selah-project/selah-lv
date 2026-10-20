@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וירגל",
+      "rationale": "Burtiski 'izspiegoja\/ziņoja aprunājot' — רגל sakne no 'kāja, staigāt apkārt'; tulkots kā 'apmeloja' pēc konteksta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלאך",
+      "rationale": "'vēstnesis' — burtisks vārda nozīmējums, nevis vēlākā 'eņģelis' kā birojs"
+    }
+  ],
+  "translation": "Un viņš apmeloja tavu kalpu mana kunga, ķēniņa, priekšā; bet mans kungs, ķēniņš, ir kā Elohim vēstnesis — tad dari to, kas labs tavās acīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/25-28.1792520094273.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "viņš apmeloja"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "tavu kalpu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mana kunga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "kā vēstnesis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "tad dari"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "to, kas labs"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavās acīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:54.275237786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩",
+      "rationale": "Izsaucums bez izteikta objekta; latviski nepieciešams paskaidrojošs vietniekvārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה",
+      "rationale": "Atkārtotais 'pārēdini, pārēdini' — intensitātes atkārtojums, saglabāts."
+    }
+  ],
+  "translation": "Pārēdini ⟨tos⟩ dusmās, pārēdini, lai viņu vairs nav; un lai viņi zina, ka Elohim valda Jaakovā, līdz zemes galiem. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/59\/13-16.1792527693666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "pārēdini"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "dusmās"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pārēdini"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "lai viņu vairs nav"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un lai viņi zina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "valda"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakovā"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "līdz galiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:33.667774282Z",
+  "model": "glm-5.3"
+}

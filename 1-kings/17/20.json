@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Elija lūgums ar jautājumu tieši Jahvem"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרעות",
+      "rationale": "'esi darījis ļaunu' — jautājums par Jahves taisnīgumu, ne vienkārši 'sodīji'"
+    }
+  ],
+  "translation": "Un viņš sauca pie Jahves un sacīja: Jahve, mans Elohim, vai arī atraitni, pie kuras es dzīvoju kā viesis, tu esi piemeklējis ar ļaunu, nogalināt ⟨את⟩ viņas dēlu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/17\/17-20.1792520843319.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Un viņš sauca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "vai arī"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "atraitni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "dzīvoju kā viesis"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pie viņas"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "esi piemeklējis ar ļaunu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "nogalināt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņas dēlu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "viņas dēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:23.320663677Z",
+  "model": "glm-5.3"
+}

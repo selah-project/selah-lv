@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשוקים",
+      "rationale": "שוק burti 'tirgus iela'; latviski dot vienkārši 'ielās'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Darbības vārda personu formas latviski pieprasa palīgdarbības vārdus, kurus ebreju valoda neizmanto."
+    }
+  ],
+  "translation": "Celšos tagad un apstaigāšu pilsētu, ielās un laukumos es meklēšu ⟨את⟩ to, kuru mīl mana nefes; es meklēju ⟨viņu⟩, bet neatradu ⟨viņu⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/3\/1-4.1792529661261.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "Celšos"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "un apstaigāšu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "ielās"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "un laukumos"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "es meklēšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, kuru mīl mana nefes"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kuru mīl"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana nefes"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "es meklēju ⟨viņu⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "atradu ⟨viņu⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:21.261924411Z",
+  "model": "glm-5.3"
+}

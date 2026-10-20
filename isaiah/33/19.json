@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נועז",
+      "rationale": "יעז 'būt drošsirdīgam\/iekaunīgam' Tanahā tikai šeit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mēli",
+      "rationale": "שפה ir 'lūpa' kā robeža un valoda; latviski otra puse dota ar לשון 'mēle'"
+    },
+    {
+      "kind": "addition",
+      "subject": "vairs",
+      "rationale": "pielikts, lai rādītu pagātnes teroru beigas; ebreju tekstā tikai 'nē' un 'redzēsi'"
+    }
+  ],
+  "translation": "⟨את⟩ drošsirdīgo tautu tu vairs neredzēsi: tautu ar dziļām lūpām, ko nav iespējams saprast, smīkojošu mēli, kam nav saprašanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/33\/17-20.1792522392480.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drošsirdīgo tautu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "drošsirdīgo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "redzēsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "dziļām"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lūpām"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ko nav iespējams saprast"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "smīkojošu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mēli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "saprašanas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:12.481630003Z",
+  "model": "glm-5.3"
+}

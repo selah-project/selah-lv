@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šelomo",
+      "rationale": "Jahves vārds tieši vērsts pie Šelomo ar nosacījuma teikumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiesas spriedumus",
+      "rationale": "משפטי ir 'tiesa' Saknes nozīmē — D3 nosaka 'tiesa', ne 'tiesas spriedumi'; saglabāts tiesas jēdziens."
+    },
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "Ebreju valodā nosacījuma 'ja...tad' teikumā 'tad' ir izlaists; latviešu valodai pievienots kā loģiskais savienojums."
+    }
+  ],
+  "translation": "Šis nams, ko tu cel: ja tu staigāsi manos likumos un darīsi ⟨את⟩ manus tiesas spriedumus, un sargāsi ⟨את⟩ visus manus baušļus, staigāt pa tiem, tad es piepildīšu ⟨את⟩ savu vārdu ⟨את⟩ ⟨ar⟩ tevi — to, ko es runāju pie Davida, tava tēva.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/6\/9-12.1792520497831.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "cel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu staigāsi"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "manos likumos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manus tiesas spriedumus"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "manus tiesas spriedumus"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "un darīsi"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "un sargāsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus manus baušļus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "manus baušļus"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "staigāt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pa tiem"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "tad es piepildīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu vārdu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "savu vārdu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨ar⟩ tevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "es runāju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tava tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:37.833045147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אשד",
+      "rationale": "vārds 'nogāze\/izplūdums' parādās tikai šeit Tanahā."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשבת ער",
+      "rationale": "'Ar mājoklis' pret 'Ar apdzīvota vieta' — Ar ir Moabas pilsēta."
+    }
+  ],
+  "translation": "un straumju nogāzes, kas noliecas uz Ar mājokli un balstās uz Moabas robežas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "79ce5c8d28b2a5a5d43d2f0c435c8fd6f748e5ec8dfee043521c0e0fcce0e526",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/21\/13-16.1792515982136.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "un nogāzes"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "straumju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "noliecas"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "uz mājokli"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "un balstās"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "uz robežas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:22.138637799Z",
+  "model": "glm-5.3"
+}

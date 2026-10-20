@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 12:5",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir'; tas pievienots latviski ⟨ir⟩ nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "firstenieši",
+      "rationale": "אלוף: 'firstenieši\/valdnieki' pret 'cilts vecākie' (BSB 'klani')"
+    }
+  ],
+  "translation": "Un teiks Jehudas firstenieši savā sirdī: spēks man ir Jerušalaimas iedzīvotāji Jahvē Cevaot, savā Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9fc7e8b277b894d38155f3df1df5fa574214d5e163035269080d4f4705c3c727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/12\/5-8.1792526959273.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Un teiks"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "firstenieši"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "savā sirdī"
+    },
+    {
+      "surface": "אמצה",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man ir"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotāji"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvē"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savā Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:19.276970756Z",
+  "model": "glm-5.3"
+}

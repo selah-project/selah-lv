@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאון הירדן",
+      "rationale": "Jordānas 'lepnums': tieks (KJV 'swelling'), biezokņuaudzis meža audze (JPS 'thickets') vai straumes augstums; izvēlēts biezoknis kā slavenākā lasījuma attēls."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'zemē, kurā miers'; latviski pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "pravietim Jeremijam",
+      "rationale": "Jahve tieši uzrunā Jeremiju ar jautājumiem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorisks jautājums",
+      "rationale": "Divi 'kā tu...' jautājumi pievilina lasītāju Jeremija pārbaudes tēmai."
+    }
+  ],
+  "translation": "Ja tu esi skrejis ⟨את⟩ kājniekiem un tie tevi nogurdinājuši, kā tu sacensties ⟨את⟩ zirgiem? Un zemē, kurā ⟨ir⟩ miers, tu jūties drošs — kā tu rīkosies Jordānas lepnajā biezoknī?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/5-8.1792523502861.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kājniekiem"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kājniekiem"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "esi skrejis"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "un tie tevi nogurdinājuši"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kā"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "tu sacensties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zirgiem"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "zirgiem"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "un zemē"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kurā ⟨ir⟩ miers"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "jūties drošs"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kā"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu rīkosies"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "lepnajā biezoknī"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:42.862594653Z",
+  "model": "glm-5.3"
+}

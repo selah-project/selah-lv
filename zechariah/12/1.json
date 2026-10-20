@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "messā",
+      "rationale": "משא — 'nasta\/orākulis'; par praviešu grāmatu virsrakstu tas apzīmē smagu vēstījumu, ko nes"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח nav tulkots kā 'gars' — viens vārds, kas apzīmē elpu, vēju un ruah"
+    }
+  ],
+  "translation": "Messā — vārds no Jahves pār Jisraēlu, saka Jahve, kas izpleš debesis un dibina zemi un veido cilvēka ruah viņa iekšienē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/12\/1-4.1792526940990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "messā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "izpleš"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "un dibina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "un veido"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "viņa iekšienē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:00.994222825Z",
+  "model": "glm-5.3"
+}

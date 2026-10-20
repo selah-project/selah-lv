@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju teikumam trūkst saikļa; latviešu valodā tas jāpievieno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toras",
+      "rationale": "תורה daudzskaitlī — 'Toras', ne 'likumi'; viena sakne, viens vārds"
+    }
+  ],
+  "translation": "Šie ⟨ir⟩ likumi un tiesas un Toras, ko Jahve devis starp Sevi un starp Jisraēla dēliem Sinaja kalnā, caur Mošes roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/45-46.1792515276919.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "likumi"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "un tiesas"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "un Toras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "starp Sevi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "caur roku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:36.920861217Z",
+  "model": "glm-5.3"
+}

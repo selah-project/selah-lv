@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "zīmes",
+      "rationale": "אוֹתֹתֵינו֥ 'mūsu zīmes' — vai ārējas zīmes\/obe, vai tempļa svētki (JPS 'our signs'); izvēlēta burtiskā nozīme."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "gloss": "",
+      "rationale": "אֶתָּנוּ šeit ir prievārds 'ar mums', nevis H853 akuzatīva marķieris; tomēr pēc Selah konvencijas saglabāts ⟨את⟩ ar norādi 'mūsu vidū'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "cik ilgi",
+      "rationale": "jautājums 'עַד מָה' paliek neatbildēts — ciešanu ilgums ir slēpts."
+    }
+  ],
+  "translation": "Mūsu zīmes mēs neesam redzējuši, nav vairs pravieša, un ⟨את⟩ mūsu ⟨vidū⟩ nav tāda, kas zina, cik ilgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/74\/9-12.1792527856133.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "mūsu zīmes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "esam redzējuši"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu vidū"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ilgi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:16.133799033Z",
+  "model": "glm-5.3"
+}

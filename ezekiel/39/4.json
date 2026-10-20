@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 39:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saiklis 'būt'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אגפיך \/ כנף",
+      "rationale": "Vārds 'spārni' (אגף) karaspēka pulkiem un כנף putnu spārniem — viens tēls divreiz, latviski daļēi saglabāts."
+    }
+  ],
+  "translation": "Uz Jisraēla kalniem tu krīti, tu un visi tavi pulki un tautas, kas ⟨את⟩ ir ar tevi; plēsīgajiem putniem, visiem spārniem, un lauka zvēriem es tevi dodu par ēdienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/39\/1-4.1792525596167.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Uz"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "tu krīti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "tavi pulki"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "un tautas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ir ar tevi",
+      "marks": "tautas, kas ir ar tevi"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "plēsīgajiem putniem"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "putniem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "spārniem"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "un zvēriem"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "es tevi dodu"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "par ēdienu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:46:36.168342484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; pilsētas aproborācija pieprasa 'ir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "pestīšana celts sienas",
+      "rationale": "JPS lasa pretēji — sienas un vaļņi tiek celti pestīšanai; ebreju vārdu secība ļauj abus."
+    }
+  ],
+  "translation": "Tanajā dienā Jūdas zemē tiks dziedāta šī dziesma: stipra pilsēta ⟨ir⟩ mums, pestīšana celts sienas un vaļņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/1-4.1792522287507.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tanajā dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanajā"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "tiks dziedāta"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "dziesma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "pestīšana"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "celts"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "sienas"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "un vaļņus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:27.507653932Z",
+  "model": "glm-5.3"
+}

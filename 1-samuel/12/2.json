@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ivritā nav saikļa 'mani dēli ir ar jums'; latviešu valodai vajag 'ir'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jisraēls",
+      "rationale": "Šemuēls turpina uzrunu visas tautas priekšā."
+    }
+  ],
+  "translation": "Un tagad — lūk, ķēniņš staigā ⟨⟨jūsu⟩⟩ priekšā, un es esmu kļuvis vecs un sirms, un mani dēli — lūk, ⟨viņi ir⟩ ⟨את⟩ ar jums; un es staigāju jūsu priekšā no savas jaunības līdz šai dienai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/12\/1-4.1792519006550.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "esmu kļuvis vecs"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "un sirms"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un mani dēli"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ar jums"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "staigāju"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "no savas jaunības"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šai dienai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:46.551327606Z",
+  "model": "glm-5.3"
+}

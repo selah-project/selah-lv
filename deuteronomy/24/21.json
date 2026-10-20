@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju יהיה nav saite, bet pilna nozīme 'tas būs\/piederēs'; latviski pievienots ⟨ir⟩"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תבצר",
+      "rationale": "כי תבצר burtiski 'kad tu ievāc'; konteksts — vīnogu lasīšana"
+    }
+  ],
+  "translation": "Kad tu vāc ⟨את⟩ savas vīna dārza vīnogas, neaiztiec pāri palikušo aiz sevis — tam tas ⟨ir⟩: svešiniekam, bārenim un atraitnei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54f27ec52a52efc26e7dbccea8931f2ea49373bd2da1bf30f54911b64667de07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/24\/21-22.1792517150779.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "tu vāc vīnogas"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "savas vīna dārza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "aiztiec pāri palikušo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aiz sevis"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "svešiniekam"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "bārenim"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "un atraitnei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tam tas ir"
+    }
+  ],
+  "timestamp": "2026-10-20T17:25:50.780617343Z",
+  "model": "glm-5.3"
+}

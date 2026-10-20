@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa, dzīvības spēks, nevis nemirstīga dvēsele platoniskā nozīmē"
+    }
+  ],
+  "translation": "Jahvī lepojas mana dvēsele; dzirdēs pazemīgie un priecāsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/34\/1-4.1792527392971.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvī"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "lepojas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dzirdēs"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pazemīgie"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "priecāsies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:32.972694513Z",
+  "model": "glm-5.3"
+}

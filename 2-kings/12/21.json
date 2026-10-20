@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקשרו קשר",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes — 'sazvērēja sazvērestību', atkārtojums saglabāts."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סלא",
+      "rationale": "Sila — vietavārds, Tanahā sastopams tikai šeit."
+    },
+    {
+      "kind": "alternative",
+      "subject": "היורד",
+      "rationale": "'kas lejup iet' — ceļa apraksts, tulkots kā 'lejup-ejā'."
+    }
+  ],
+  "translation": "Un viņa kalpi cēlās un sazvērēja sazvērestību un nogalināja ⟨את⟩ Joašu Beta-Milo lejup-ejā uz Silu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/12\/21-22.1792521424071.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "un cēlās"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpi"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "un sazvērēja"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sazvērestību"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "un nogalināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joašu"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beta-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "lejup-ejā"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:37:04.072372654Z",
+  "model": "glm-5.3"
+}

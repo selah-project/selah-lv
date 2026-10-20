@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 6:5",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרהיבני",
+      "rationale": "no רהב: 'tās mani padarījušas drosmīgu\/pārņēmušas' — arī 'uzdrīkstina', 'pārņem'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שגלשו",
+      "rationale": "no גלש: 'nolaižas\/rit' — atveidojums: kā viļņi vai kā kazu bars, kas plūst lejup no Gilāda kalniem."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir'."
+    }
+  ],
+  "translation": "Novērs savas acis no manis, jo tās mani pārņēmušas. Tavi mati ir kā kazu bars, kas plūst lejup no Gilāda.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/6\/5-8.1792529649837.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסבי",
+      "gloss": "novērs"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "savas acis"
+    },
+    {
+      "surface": "מנגדי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "jo tās"
+    },
+    {
+      "surface": "הרהיבני",
+      "gloss": "mani pārņēmušas"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "tavi mati"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kā bars"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazu"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "plūst lejup"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilāda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:09.837916958Z",
+  "model": "glm-5.3"
+}

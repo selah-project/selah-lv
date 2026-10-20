@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ijovam",
+      "rationale": "Cofars tieši pievēršas Ijovam ar jautājumu ‘vai tu zini’."
+    },
+    {
+      "kind": "crux",
+      "subject": "מני עד",
+      "rationale": "‘no ... līdz\/ kopš’ — ‘no senatnes’ (KJV) pret jautājuma formu ‘vai tu to zini no mūžības’ (JPS)."
+    }
+  ],
+  "translation": "Vai ⟨to⟩ tu zini no ⟨seniem laikiem⟩, kopš cilvēks tika uzlikts uz zemes?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "50095f45bec52eb3b23d729625fbb0aa98ce81112b054f66b5b82fa6bd957b70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/20\/1-4.1792529333097.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zini"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨seniem laikiem⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kopš"
+    },
+    {
+      "surface": "שים",
+      "gloss": "tika uzlikts"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:53.099034703Z",
+  "model": "glm-5.3"
+}

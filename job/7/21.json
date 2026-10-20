@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vairs⟩",
+      "rationale": "Latviešu valodai vajadzīgs piederums, lai ואישנני 'un es nav' skanētu dabiski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "agri meklēsi",
+      "rationale": "šahar nozīmē 'ausma, agri celties darbā' — 'agri meklēt' ir tuvu burtiskajam 'agrā rītausmā meklēt'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשא",
+      "rationale": "nesa = 'nest, pacelt': 'piedot' (kā KJV) pret burtisko 'necelt manu pārkāpumu', t.i., to neņem prom"
+    }
+  ],
+  "translation": "Un kāpēc tu necel ⟨את⟩ manu sacelšanos un nepārvada ⟨את⟩ manu vainu? Jo tagad es gulēšu putekļos, un tu mani agri meklēsi, bet mani ⟨vairs⟩ nav.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "229a8f79207f463e03495fdfde791c55c65d023fdeaa083af382fa18be1ab479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/21-21.1792529023700.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "un kāpēc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "cel"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "manu sacelšanos"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "nepārvada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu vainu"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "manu vainu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "putekļos"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "es gulēšu"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "tu mani agri meklēsi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "bet mani nav"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:43.700624070Z",
+  "model": "glm-5.3"
+}

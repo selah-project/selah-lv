@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יעדה",
+      "rationale": "יעד 'nozīmēt, iecelt, norīkot' — 'nolicis' tur, kur ebreju vārdam ir līguma un tikšanās pieskaņa: zobens ir iecelts tur ar nolūku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשקטי",
+      "rationale": "atkārtojas no 47:6 — atbilde uz aicinājumu klusēt: tas nav iespējams, jo Jahve pats ir runājis"
+    }
+  ],
+  "translation": "Kā tu varēsi klusēt, kad Jahve tam ir pavēlējis — pret Aškelonu un pret jūras krastu, tur Viņš to ir nolicis!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/47\/5-7.1792524347591.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "tu varēsi klusēt"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kad Jahve"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ir pavēlējis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelonu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "jūras krastu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "Viņš to ir nolicis"
+    }
+  ],
+  "timestamp": "2026-10-20T19:25:47.592042547Z",
+  "model": "glm-5.3"
+}

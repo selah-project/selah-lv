@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילבט",
+      "rationale": "Rare word לבט: 'tikt nogāzts \/ krist' (KJV) pret 'tikt sistam' (Geneva, no lbd 'sist'); izvēlēta nozīme 'nogāzts'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": "לבט parādās Tanahā tikai šeit un Sak. 10:10 — īsts tulkošanas mezgls"
+    }
+  ],
+  "translation": "Gudrs ar sirdi pieņem baušļus, bet muļķis ar lūpām tiks nogāzts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/10\/5-8.1792528639928.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Gudrs"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ar sirdi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pieņem"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "baušļus"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "bet muļķis"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ar lūpām"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "tiks nogāzts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:19.929600016Z",
+  "model": "glm-5.3"
+}

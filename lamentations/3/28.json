@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נטל",
+      "rationale": "נטל var būt 'viņš (Dievs) to uzlika' vai pasīvs 'tas tika uzlikts' — darītājs netiek nosaukts"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jussīvs",
+      "rationale": "ישב\/וידם kā pavēles ('lai sēž un klusē', ASV\/JPS) pret izteiksmē kā apgalvojumu (KJV)"
+    }
+  ],
+  "translation": "Lai viņš sēž viens un klusē, ⟨jo⟩ tas ir uzlikts uz viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/25-28.1792529816587.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sēž"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "klusē"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jo⟩"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "uzlikts"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:56.588911392Z",
+  "model": "glm-5.3"
+}

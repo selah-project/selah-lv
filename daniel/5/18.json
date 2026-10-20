@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 5:18",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "<ir>",
+      "rationale": "Aramaic fronting of אלהא עליא before the verb needs no copula; Latvian keeps verb 'deva' present in text."
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņš",
+      "rationale": "Tieša vēršanās pie ķēniņa ar 'tu, ķēniņ'."
+    }
+  ],
+  "translation": "Tu, ķēniņ, Visaugstais Elohim deva ķēniņvalsti, un varenību, un godu, un spožumu Nebukadnecaram, tavam tēvam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "100dfabf8688868b53ab38822e002b75bf89c27d26895b3dc2bbbe5968fdff06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/5\/17-20.1792530277782.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "Visaugstais"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ķēniņvalsti"
+    },
+    {
+      "surface": "ורבותא",
+      "gloss": "un varenību"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un godu"
+    },
+    {
+      "surface": "והדרה",
+      "gloss": "un spožumu"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "deva"
+    },
+    {
+      "surface": "לנבכדנצר",
+      "gloss": "Nebukadnecaram"
+    },
+    {
+      "surface": "אבוך",
+      "gloss": "tavam tēvam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:04:37.783503113Z",
+  "model": "glm-5.3"
+}

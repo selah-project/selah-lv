@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ēd savu miesu",
+      "rationale": "Ebreju izteiksme 'sava miesa' = pats sevi grauj sava slinkuma dēļ; latviski turēts burtiski, jo bilde ir pati doma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apsauj",
+      "rationale": "חבק ir 'apkampj\/apskauj' — par rokam latviski dabiskāk 'sakļauj', bet 'apsauj' saglabā rokas apņemšanas žestu."
+    }
+  ],
+  "translation": "Muļķis apskauj ⟨את⟩ savas rokas un ēd ⟨את⟩ savu miesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/4\/5-8.1792529944640.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Muļķis"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "apsauj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas rokas"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "savas rokas"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "un ēd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu miesu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "savu miesu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:04.641620767Z",
+  "model": "glm-5.3"
+}

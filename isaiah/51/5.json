@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valoda pieprasa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק paliek 'cedek' — viens vārds visur, ne tikai 'taisnība'."
+    }
+  ],
+  "translation": "Tuvu ⟨ir⟩ mans cedek, izgāja mana pestīšana, un mana roka tautas tiesās; salas pie manis gaida, un uz manu roku tās cer.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/51\/5-8.1792522943977.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Tuvu"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mans cedek"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mana pestīšana"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "un mana roka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "tiesās"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "איים",
+      "gloss": "salas"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "gaida"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "manu roku"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "tās cer"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:23.978143712Z",
+  "model": "glm-5.3"
+}

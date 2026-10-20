@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eņģelis",
+      "rationale": "מלאך ir vēstnesis; eņģelis ir pastāvīgā latviešu dievniecības vēstneša nozīme"
+    },
+    {
+      "kind": "mystery",
+      "subject": "redzējums",
+      "rationale": "pravietis tiek modināts no miega — ieeja redzējumā, kas tūlīt tiks jautāts un paskaidrots"
+    }
+  ],
+  "translation": "Un atgriezās eņģelis, kas runāja manī, un modināja mani, kā cilvēku, kas tiek modināts no sava miega.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "473363f6ae792910ffcf036fbdb3b456cc4bcfc23ccfa694a13bc9afa6ea03c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/4\/1-4.1792526794118.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un atgriezās"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "eņģelis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kas runāja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "un modināja mani"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kā cilvēku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "tiek modināts"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "no sava miega"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:34.119738551Z",
+  "model": "glm-5.3"
+}

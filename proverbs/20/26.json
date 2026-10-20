@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izkaisa kā graudus no spalu",
+      "rationale": "זרה ir kuļšanas tēls — graudu izšūpošana vējā; latviešu vienkāršais 'izkaisa' zaudētu ainu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kulšanas ritenis",
+      "rationale": "אופן ir vienkārši 'ritenis', bet konteksts norāda uz kulšanas riteni, ar kāju mīdītu graudus."
+    }
+  ],
+  "translation": "Gudrs ķēniņš izkaisa ļaunos kā graudus no spalu, un pār viņiem atgriež ⟨ir⟩ kulšanas riteni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/20\/25-28.1792528781665.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "izkaisa kā graudus no spalu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaunos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gudrs"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un atgriež"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "kulšanas riteni"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:41.666584983Z",
+  "model": "glm-5.3"
+}

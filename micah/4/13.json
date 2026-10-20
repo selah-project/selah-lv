@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 4:13",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדון šeit ir dievišķs tituls — Adonai, nevis cilvēku kungs; latviski pievienots 'kungam' kā skaidrojums 'visas zemes Adonai'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בצעם",
+      "rationale": "בצע var nozīmēt 'netaisni ieguvumu' vai 'laupījumu'; izvēlēts 'laupījumu' kontekstā par tautu mantu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "daudzas tautas",
+      "rationale": "pants skaita tautas kā airēšanas vietu uz gumda — daudzums kā drauda mērs."
+    }
+  ],
+  "translation": "Celies un airē, Cionas meita, jo tavus ragus es darīšu no dzelzs un tavus pakaļējos nagus es darīšu no vara, un tu sasmalcināsi daudzas tautas, un es nodošu Jahvem viņu laupījumu un viņu bagātību Adonai, visas zemes kungam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "181294b48406ccd871fd31bf0f5c2e9d7efbdf61cd0e7df609d25ac0cebd21ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/4\/13-14.1792526400586.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Celies"
+    },
+    {
+      "surface": "ודושי",
+      "gloss": "un airē"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קרנך",
+      "gloss": "tavus ragus"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "no dzelzs"
+    },
+    {
+      "surface": "ופרסתיך",
+      "gloss": "un tavus pakaļējos nagus"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "no vara"
+    },
+    {
+      "surface": "והדקות",
+      "gloss": "un tu sasmalcināsi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzas"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "un es nodošu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "בצעם",
+      "gloss": "viņu laupījumu"
+    },
+    {
+      "surface": "וחילם",
+      "gloss": "un viņu bagātību"
+    },
+    {
+      "surface": "לאדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:00.587358948Z",
+  "model": "glm-5.3"
+}

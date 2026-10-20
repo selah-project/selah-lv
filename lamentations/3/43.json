@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סכותה באף",
+      "rationale": "Burtiski 'aizsedzi ar nāsīm\/dusmām' — vai Tu aizsedz Sevi dusmās (kā v44), vai aizsedz mūs dusmās; izvēlēts 'aizsegts ar dusmām'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dusmām",
+      "rationale": "אף burtiski ir 'nāsis', no kurienes 'deguns deg dusmās' — latviski 'dusmas' zaudē ķermeņa bildi."
+    },
+    {
+      "kind": "you",
+      "subject": "Tu",
+      "rationale": "Turpināts vērsums pie Jahves par sodīšanu."
+    }
+  ],
+  "translation": "Aizsegts ar dusmām, Tu vajāji mūs; Tu nogalināji, Tu nesaudzēji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/41-44.1792529805426.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "Aizsegts"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ar dusmām"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "vajāji mūs"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "nogalināji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "saudzēji"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:45.427282977Z",
+  "model": "glm-5.3"
+}

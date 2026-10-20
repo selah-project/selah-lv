@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pulks",
+      "rationale": "צבאם — 'viņu pulks\/ords'; parasti tulkots 'spēks', bet vārds ir karaspēka\/pulka vārds"
+    },
+    {
+      "kind": "addition",
+      "subject": "tika",
+      "rationale": "Latviešu valodai vajadzīgs darbības vārda palīgforma, ebreju valodā tās nav"
+    }
+  ],
+  "translation": "Un tika pabeigti debesis un zeme un viss viņu pulks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/2\/1-4.1792511489778.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "un tika pabeigti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "un zeme"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "viņu pulks"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:29.779040296Z",
+  "model": "glm-5.3"
+}

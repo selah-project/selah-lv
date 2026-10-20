@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זה פעמים",
+      "rationale": "'šo divas reizes' — ebreju izteiksme 'otro reizi', latviski dots ar skaitļa vārdu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kad",
+      "gloss": ""
+    }
+  ],
+  "translation": "Jo, ja mēs nebūtu vilcinājušies, tad jau tagad būtu atgriezušies ⟨otro reizi⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a796b3950205bbb30a1eb477fa235c07c0a35b40e685a0a64b8863d039aeecf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/9-12.1792512504162.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "ja ne-"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "būtu vilcinājušies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tad"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "būtu atgriezušies"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨otro reizi⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "reizes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:24.164253391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל \/ ואל",
+      "rationale": "Tiešrunas prievārdi 'pie' izteikti latviešu akuzatīvā (debesis, zemi), tāpēc tukša glosa."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Atzīmes את pirms 'viņa tautu' nav atsevišķs tokens šajā skaitā, bet tikusi iekļauta ⟨את⟩ tulkojumā pēc עמו konstrukcijas."
+    },
+    {
+      "kind": "invitation",
+      "subject": "debesis un zemi",
+      "rationale": "Verss ir gala aicinājums — debesis un zeme tiek sauktas par lieciniekiem tiesai pār tautu."
+    }
+  ],
+  "translation": "Viņš aicinās debesis no augšas un zemi, lai tiesātu ⟨את⟩ viņa tautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/1-4.1792527611796.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "aicinās"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no augšas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "lai tiesātu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa tautu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:11.797742976Z",
+  "model": "glm-5.3"
+}

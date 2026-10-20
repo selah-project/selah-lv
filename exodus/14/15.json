@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve uz Moši",
+      "rationale": "Tieša uzruna Mošem ar jautājumu un pavēli."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה תצעק",
+      "rationale": "'Kāpēc tu kliedz' vs 'Ko tu kliedz'; tekstā Moše nemāca klusi lūgt — jautājums var būt aizrādījums nevis jautājums."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Runā... un lai tie dodas ceļā",
+      "rationale": "Pavēle ar kustības aicinājumu — pāreja no stāvēšanas uz gājienu."
+    }
+  ],
+  "translation": "Un Jahve sacīja uz Moši: Kāpēc tu kliedz uz Mani? Runā uz Jisraēla dēliem, un lai tie dodas ceļā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/14\/13-16.1792512912323.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moši"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "tu kliedz"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "uz Mani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "un lai tie dodas ceļā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:12.324957203Z",
+  "model": "glm-5.3"
+}

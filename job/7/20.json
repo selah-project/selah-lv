@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 7:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלי",
+      "rationale": "'alai' — 'sev pašam' (KJV: man pašam par nastu) pret BSB 'tev par nastu'; pats sev labāk atbilst kontekstam"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאתי",
+      "rationale": "Indikatīvs 'es esmu grēkojis' pret JPS\/ASV kondicionālis 'ja es būtu grēkojis'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mērķi",
+      "rationale": "מפגע burtiski 'trieciena mērķis' — tas, pret ko triecas"
+    }
+  ],
+  "translation": "Es esmu grēkojis — ko es varu darīt tev, cilvēku sargātāj? Kāpēc tu mani esi licis sev par mērķi, ka es pats sev esmu par nastu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bb4cbd637da7111dca8cc10548a5b466616822b235c37ec73482c177a1f2625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/7\/17-20.1792529054925.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "es esmu grēkojis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "es varu darīt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "sargātāj"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "tu mani esi licis"
+    },
+    {
+      "surface": "למפגע",
+      "gloss": "par mērķi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ka es esmu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pats sev"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "par nastu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:14.927234329Z",
+  "model": "glm-5.3"
+}

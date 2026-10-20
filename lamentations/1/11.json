@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 1:11",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "'נפש' ir dzīvības spēks\/elpa, ne dvēsele — 'atgrieztu dzīvību'."
+    },
+    {
+      "kind": "crux",
+      "subject": "זוללה",
+      "rationale": "Sakne זלל: 'izšķērdēta\/novārtā pamesta\/nicināta'; tulkotāji svārstās starp šiem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחמדיהם \/ מחמדיה",
+      "rationale": "Atkārtota sakne ar 1:10 'מחמדיה' — dārgumi, ko ienaidnieks ķēra, tagad doti par maizi."
+    }
+  ],
+  "translation": "Viss viņas ļaudis vaid, meklējot maizi; tie devuši savus dārgumus par ēdienu, lai atgrieztu dzīvību. Skaties, Jahve, un lūkojies, jo esmu kļuvusi nicināta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/1\/9-12.1792529769922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "viņas ļaudis"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "meklējot"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "devuši"
+    },
+    {
+      "surface": "מחמודיהם",
+      "gloss": "savus dārgumus"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "par ēdienu"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "lai atgrieztu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "skaties"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "un lūkojies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "esmu kļuvusi"
+    },
+    {
+      "surface": "זוללה",
+      "gloss": "nicināta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:09.924941237Z",
+  "model": "glm-5.3"
+}

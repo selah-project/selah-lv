@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvību",
+      "rationale": "nefeš ir elpa\/dzīvības spēks, ne 'dvēsele' kā atsevišķa būtība."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אור",
+      "rationale": "ūr šeit nozīmē 'uguns\/flame' (plandoša gaisma), nevis parastais 'gaismas' vārds."
+    }
+  ],
+  "translation": "Redzi, tie kļūs kā salmi — uguns tos sadedzinās; tie nespēs izglābt ⟨את⟩ savu dzīvību no liesmas rokas; nav ogles, ar ko sildīties, nedz uguns, pie kuras sēdēt tai pretī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/47\/13-15.1792522772496.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kļūs"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kā salmi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "tos sadedzinās"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "spēs izglābt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dzīvību"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "savu dzīvību"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "liesmas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "ogles"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ar ko sildīties"
+    },
+    {
+      "surface": "אור",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pie kuras sēdēt"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "tai pretī"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:32.497373121Z",
+  "model": "glm-5.3"
+}

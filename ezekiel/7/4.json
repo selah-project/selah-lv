@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 7:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikļa 'Es esmu Jahve'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "dusma un negantības",
+      "rationale": "Vārdu atbalsis ar 7:3 — 'ceļi' un 'negantības' atkārtotas kā soda spogulis."
+    }
+  ],
+  "translation": "Un Mana acs tevi neskatsīs ar līdzjūtību, un Es neiešu garām, jo tavus ceļus došu pār tevi, un tavas negantības būs tavā vidū, un jūs zināsiet, ka Es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3f93cb63e11e37f7d7419fa7d2616817fe54506fcf6ca6782464e241ad0688a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/7\/1-4.1792524784698.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "neskatsīs ar līdzjūtību"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Mana acs"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "neiešu garām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tavus ceļus"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "došu"
+    },
+    {
+      "surface": "ותועבותיך",
+      "gloss": "un tavas negantības"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "tavā vidū"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "būs"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:33:04.699773460Z",
+  "model": "glm-5.3"
+}

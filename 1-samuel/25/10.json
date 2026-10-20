@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tie-kas-izlaužas-ārā",
+      "rationale": "המתפרצים no פרץ — 'tie, kas izlaužas\/caurplēš robežu', ar metāforu par dumpinga izkliedi, kā ūdens, kas izlaužas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "no sava kunga sejas",
+      "rationale": "מפני אדניו burtiski 'no sava kunga sejas' — ebreju idiomāts 'no klātbūtnes', paturēts burtisks"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Jautājumos latviešu valodai nepieciešams saiklis 'ir'"
+    }
+  ],
+  "translation": "Un Nabals atbildēja ⟨את⟩ Davida kalpiem un sacīja: Kas ir Davids, un kas ir Jišaja dēls? Mūsdienās daudz vairojas kalpi, tie-kas-izlaužas-ārā, katrs no sava kunga sejas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/9-12.1792519344601.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabals"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida kalpiem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpiem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ir Davids"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mūsdienās"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vairojas"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "tie-kas-izlaužas-ārā"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sava kunga"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:24.602583853Z",
+  "model": "glm-5.3"
+}

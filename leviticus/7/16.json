@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju teikumam trūkst saikļa 'ir'; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienā… nākamās dienas",
+      "rationale": "Upura gaļas ēšanas laika noteikšana — diena, kad upuris tuvināts, un nākamā diena"
+    }
+  ],
+  "translation": "Bet ja par solījumu vai brīvprātīgu dāvanu ⟨ir⟩ upuris viņa korbana, dienā, kad viņš tuvina ⟨את⟩ savu upuri, tas tiks ēsts; un no nākamās dienas, un kas palicis pāri no tā, tiks ēsts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/7\/13-16.1792513652904.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "bet ja"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "par solījumu"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "brīvprātīgu dāvanu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuris"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "viņa korbana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "viņš tuvina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu upuri"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "savu upuri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tiks ēsts"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "un no nākamās dienas"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "un kas palicis pāri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tiks ēsts"
+    }
+  ],
+  "timestamp": "2026-10-20T16:27:32.905543196Z",
+  "model": "glm-5.3"
+}

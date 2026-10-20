@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nodos",
+      "rationale": "lit. 'dos viņus' — נתן ar nozīmi 'nodot ienaidnieku rokā'"
+    }
+  ],
+  "translation": "Un Jahve tos nodos jūsu priekšā, un jūs darīsiet tiem visu pēc pavēles, kādu es pavēlēju ⟨את⟩ jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/5-8.1792517340118.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Un…dos viņus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "un jūs darīsiet"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pēc visa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pavēles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kādu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "es pavēlēju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums",
+      "marks": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:29:00.119589905Z",
+  "model": "glm-5.3"
+}

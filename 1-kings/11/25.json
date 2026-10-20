@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā nav subjekta; tas ir Recons no iepriekšējā panta."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקץ",
+      "rationale": "KJV 'viņam riebās' pret YLT 'viņš nogrieza'; sakne nozīmē riebumu\/garlaicību, ne nogriešanu."
+    }
+  ],
+  "translation": "Un ⟨viņš⟩ bija pretinieks Jisraēlam visas Šlomo dienas, papildus ⟨את⟩ ļaunumam, ko darīja Hadads; un viņš iekarsa riebumā pret Jisraēlu un valdīja pār Aramu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/25-28.1792520769670.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "pretinieks"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ļaunumam"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ļaunumam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadads"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "iekarsa riebumā"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pret Jisraēlu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "un valdīja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:26:09.670556407Z",
+  "model": "glm-5.3"
+}

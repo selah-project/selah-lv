@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 37:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nolādēja",
+      "rationale": "גדפו ir 'lamāt ar vārdiem, nolādēt'; daudzi tulkojumi liek 'zaimoja' — saglabāta lādēšanas nozīme."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "אותי šeit ir pirmās personas suffiksots objekta marķieris; saglabāts kā ⟨את⟩ pirms 'mani'."
+    }
+  ],
+  "translation": "Un Jesaja viņiem sacīja: Tā sakiet savam kungam: Tā saka Jahve: Nebīsties no vārdiem, ko tu dzirdēji, ar kuriem Asīrijas ķēniņa jaunekļi ⟨את⟩ mani nolādēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/37\/5-8.1792522558375.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "sakiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savam"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "kungam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bīsties"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "vārdiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu dzirdēji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ar kuriem"
+    },
+    {
+      "surface": "גדפו",
+      "gloss": "nolādēja"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jaunekļi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asīrijas"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mani",
+      "marks": "mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:58.376569038Z",
+  "model": "glm-5.3"
+}

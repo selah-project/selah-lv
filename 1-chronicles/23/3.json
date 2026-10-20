@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pēc galvām",
+      "rationale": "לגלגלתם — 'by their skulls', literally head-counting; rendered 'pēc galvām' preserving the head-image."
+    },
+    {
+      "kind": "measurement",
+      "subject": "measurement",
+      "rationale": "Census of Levites aged thirty and upward: 38,000 counted."
+    },
+    {
+      "kind": "crux",
+      "subject": "trīsdesmit",
+      "rationale": "Chronicles says thirty; Torah census age is thirty (Num 4) but elsewhere in Chronicles (chs. 24–26) twenty; translators note the discrepancy."
+    }
+  ],
+  "translation": "Un levīti tika saskaitīti no trīsdesmit gadu vecuma un augšup, un to skaits pēc galvām, vīrus kopā, ⟨bija⟩ trīsdesmit astoņi tūkstoši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/23\/1-4.1792531528779.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "Un tika saskaitīti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levīti"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "no vecuma"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un augšup"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un ⟨bija⟩"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "to skaits"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "pēc galvām"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "vīrus kopā"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:28.779901918Z",
+  "model": "glm-5.3"
+}

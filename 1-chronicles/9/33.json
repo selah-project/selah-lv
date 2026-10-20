@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 9:33",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פטירים",
+      "rationale": "Reti vārds: 'brīvi (no cita pienākuma)' (KJV, JPS) pret 'palaisti vaļā, bez pienākuma' (YPā); burtiski 'atvērti, nenoslogoti'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פטירים",
+      "rationale": "Šī forma Tanahā sastopama tikai šeit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עליהם במלאכה",
+      "rationale": "Burtiski 'uz viņiem bija darbs' — latviski 'viņiem bija darbs'."
+    }
+  ],
+  "translation": "Un šie ⟨ir⟩ dziedātāji, Leviešu tēvu saimes galvas, kas ⟨dzīvoja⟩ istabās, brīvi, jo viņiem dienu un nakti ⟨bija⟩ tas darbs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "42f47319ffce1efa4d7d7b26fcbf97182090cc2706108f1562e0a23f797b0dcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/9\/33-36.1792531315341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "un šie"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "dziedātāji"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tēvu saimes"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Leviešu"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "istabās"
+    },
+    {
+      "surface": "פטירים",
+      "gloss": "brīvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un nakti"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "tas darbs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:55.346907795Z",
+  "model": "glm-5.3"
+}

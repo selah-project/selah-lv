@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 3:22",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seši",
+      "rationale": "Skaitlis noslēdz sarakstu: pieci dēli un pats Šemaja kopā seši."
+    },
+    {
+      "kind": "crux",
+      "subject": "seši",
+      "rationale": "Pieci vārdi, bet 'seši' — vai Šemaja tiek ieskaitīts (BSB), vai teksts korumpēts."
+    }
+  ],
+  "translation": "Un Šekanjas dēli: Šemaja; un Šemajas dēli: Hatušs, Jigals, Barihs, Nearja un Šafats — seši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "377767404bc40d0b3db67cd963cf2af66f4d3566914a284fadd34d5ec9f67325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/3\/21-24.1792531051525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Šekanjas"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemaja"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un ... dēli"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemajas"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Hatušs"
+    },
+    {
+      "surface": "ויגאל",
+      "gloss": "Jigals"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "Barihs"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "Nearja"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "un Šafats"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "seši"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:31.526664495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mans",
+      "rationale": "Latviešu valodai vajadzīgs piederības vietniekvārds; ebreju celms ישועתי jau to satur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glābējs",
+      "rationale": "יְשׁוּעָה ir 'glābšana, izglābšana' — abstrakts lietvārds, atveidots kā lietvārds 'mans glābējs'."
+    }
+  ],
+  "translation": "Jahve, Elohim mans glābējs, dienā es kliedzu, naktī ⟨pirms⟩ Tevis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/88\/1-4.1792528000351.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mans glābējs"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "es kliedzu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨pirms⟩ Tevis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:40.352128555Z",
+  "model": "glm-5.3"
+}

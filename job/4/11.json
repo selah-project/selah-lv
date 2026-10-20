@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vecails",
+      "rationale": "'ליש' ir tikai vēl viens lauvu vārds, nevis 'vecums'; 'vecails lauva' pievieno nozīmi, ko ebreju vārds pats nesatur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "laivu vārdu virkne",
+      "rationale": "trešais no pieciem lauvu vārdiem pēc kārtas 4:10–11; latviski atkārtojums ar 'lauva' daļēji glabā efektu"
+    }
+  ],
+  "translation": "Vecais lauva iet bojā bez laupījuma, un lauvenes mazuļi izklīst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/4\/9-12.1792528973104.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "vecails lauva"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "iet bojā"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "laupījuma"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un mazuļi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "lauvenes"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "izklīst"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:53.105588250Z",
+  "model": "glm-5.3"
+}

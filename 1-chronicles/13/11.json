@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרץ \/ פרץ \/ פרץ־עזא",
+      "rationale": "Darbības vārds, lietvārds un vietvārds no vienas saknes — trijas 'lauz' formas vienā pantā, latviski daļēi saglabāts."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחר לדויד",
+      "rationale": "'Davids noskaitās' pret 'Davids apbēdinājās' — 1. Mozus 23 paralēltekstā cits darbības vārds (bāl\/piepūlējās)."
+    }
+  ],
+  "translation": "Un Davids noskaitās, ka Jahve bija izlauzis laužanu Uzam; un viņš nosauca to vietu Peres-Uza — līdz šai dienai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/13\/9-12.1792531405567.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "noskaitās"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "bija izlauzis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "laužanu"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "Uzam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "to vietu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres-"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienei"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:25.569073892Z",
+  "model": "glm-5.3"
+}

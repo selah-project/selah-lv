@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמדי",
+      "rationale": "'ir pie manis \/ ir mani' — burtiski 'kopā ar mani'; KJV 'are Mine' pret ylt 'is with Me'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זיז",
+      "rationale": "retais vārds 'kustīgā radība \/ krūšu pilnība' — atveidots kā 'zvēri'"
+    }
+  ],
+  "translation": "Es pazīstu visus kalnu putnus, un lauka zvēri ir pie manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/9-12.1792527573736.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "pazīstu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "putnus"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "un zvēri"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pie manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:33.737385752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klētis",
+      "rationale": "מזוינו ir graudu noliktāva; 'klēts' tuvākais latviešu vārds"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mזן אל זן",
+      "rationale": "'no sugas uz sugu' — daži lasa 'katru veidu mantas', citi 'paaudzi pēc paaudzes'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tūkstošos, desmit tūkstošos",
+      "rationale": "paaugstināti skaitsļi ganāmpulka vairošanai"
+    }
+  ],
+  "translation": "Mūsu klētis pilnas, no vienas sugas uz otru dod ⟨את⟩ pārtiku; mūsu avis un kazas aug tūkstošos, desmit tūkstošos mūsu ārpusēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/144\/13-15.1792528436194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "mūsu klētis"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "dod"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "no vienas sugas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "זן",
+      "gloss": "otru"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "mūsu avis un kazas"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "aug tūkstošos"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "desmit tūkstošos"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "mūsu ārpusēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:56.194634307Z",
+  "model": "glm-5.3"
+}

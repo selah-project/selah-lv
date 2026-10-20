@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הניס",
+      "rationale": "Hifil no נוס 'bēgt' — 'likt bēgt\/dzīt bēgļus'; likts 'saveda bēgšus', saglabājot kustības bildi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעבדי פרעה",
+      "rationale": "'Paraoh kalpi' — galminieki un amatpersonas, ne tikai vergi."
+    }
+  ],
+  "translation": "Tas no Paraoh kalpiem, kas bijās Jahves ⟨את⟩ vārdu, saveda bēgšus ⟨את⟩ savus kalpus un ⟨את⟩ savu lopus iekšā mājās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/9\/17-20.1792512823118.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "kas bijās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves vārdu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "no kalpiem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "saveda bēgšus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus kalpus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savus kalpus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savu lopus"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "savu lopus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iekšā"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mājās"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:43.119625827Z",
+  "model": "glm-5.3"
+}

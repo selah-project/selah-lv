@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 4:6",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨darba⟩",
+      "rationale": "מכהן לי burtiski 'priesteris man'; latviešu valodai vajadzīgs paskaidrojums."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאסת\/אמאסאך · תשכח\/אשכח",
+      "rationale": "Spoguļstruktūra: kā tu man, tā es tev — atmešana un aizmirkšana atbild viena otrai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atziņa",
+      "rationale": "דעת ir dzīva atzīšana un pazīšana, ne tikai zināšanas."
+    }
+  ],
+  "translation": "Iznīka mana tauta bez atziņas, jo tu atmet ⟨את⟩ atziņu, un es atmetīšu tevi no priestera ⟨darba⟩ man, un tu aizmirsi Toru sava Elohima — es aizmirsīšu arī tavus dēlus, arī es.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/4\/5-8.1792525997157.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדמו",
+      "gloss": "iznīka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mana tauta"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "atziņas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "⟨את⟩ atziņu"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "atmet"
+    },
+    {
+      "surface": "ואמאסאך",
+      "gloss": "un es atmetīšu tevi"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "no priestera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "un tu aizmirsi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sava Elohima"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "es aizmirsīšu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavus dēlus"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:17.158302706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא יבוא \/ הלוך ילך",
+      "rationale": "infinitīva absolūta atkārtojums — 'ejot iet', 'nākdams nāks' — apņēmības pastiprinājums"
+    },
+    {
+      "kind": "crux",
+      "subject": "משך הזרע",
+      "rationale": "'sējas mēru sēkla' — KJV 'dārgā sēkla' pret YLT 'sēklas grozs'; משך no saknes 'vilkt\/izstiept' = mērs"
+    }
+  ],
+  "translation": "Ejot viņš iet un raudādams nes sējas mēru sēklu; nākdams viņš noteikti nāks ar saucienu, nesdams savas kūlītes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/126\/5-6.1792528369017.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הָל֥וֹךְ",
+      "gloss": "ejot"
+    },
+    {
+      "surface": "יֵלֵ֨ךְ",
+      "gloss": "viņš iet"
+    },
+    {
+      "surface": "וּבָכֹ֥ה֮",
+      "gloss": "raudādams"
+    },
+    {
+      "surface": "נֹשֵׂ֪א",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מֶ֫שֶׁךְ",
+      "gloss": "sējas mēru"
+    },
+    {
+      "surface": "הַ֫זָּ֥רַע",
+      "gloss": "sēklu"
+    },
+    {
+      "surface": "בֹּ֥א",
+      "gloss": "nākdams"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "viņš noteikti nāks"
+    },
+    {
+      "surface": "בְּרִנָּ֑ה",
+      "gloss": "ar saucienu"
+    },
+    {
+      "surface": "נֹשֵׂ֥א",
+      "gloss": "nesdams"
+    },
+    {
+      "surface": "אֲלֻמֹּתָֽיו",
+      "gloss": "savas kūlītes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:49.018637568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Ebreju teksts ir viņskaitlīa (ויעש), bet kontekstā darbu darītāji ir daudzskaitlī."
+    }
+  ],
+  "translation": "Un viņi izgatavoja ⟨את】 efoda apmetni, audēja darbu, pilnīgi zilvioletu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3f98826d88843aecb50152138af33c27e1c3f201549df9f04888ed1ed70d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/39\/21-24.1792513556861.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un viņš izgatavoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apmetni"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "apmetni"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "audēja"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "pilnīgi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "zilvioletu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:25:56.862754934Z",
+  "model": "glm-5.3"
+}

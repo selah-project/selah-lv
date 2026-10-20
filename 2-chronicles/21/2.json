@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav darbības vārda; latviešu valodai nepieciešama saite 'bija'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Jisraēla ķēniņš",
+      "rationale": "Teksts saka 'Jisraēla ķēniņš', kaut Jehošafats valdīja Jūdā; daudzi tulki labo uz 'Jūdas', bet ebreju burts paliek 'Jisraēls'."
+    }
+  ],
+  "translation": "Un viņam bija brāļi, Jehošafata dēli: Azarja, Jihiēls, Zaharja, Azarja, Mihaēls un Šefatja — visi šie bija Jehošafata, Jisraēla ķēniņa, dēli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/21\/1-4.1792532115081.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Un viņam"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brāļi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafata"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "Jihiēls"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "Zaharja"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "Mihaēls"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "Šefatja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T21:35:15.082000930Z",
+  "model": "glm-5.3"
+}

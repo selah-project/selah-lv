@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 37:30",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda 'ir'; latviešu teikumam tas vajadzīgs."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שחיס",
+      "rationale": "Vārds 'pēcaugums' Tanahā parādās tikai šeit (un 2. ķēniņu 19:29 paralēlē)."
+    },
+    {
+      "kind": "mystery",
+      "subject": "zīme",
+      "rationale": "Jahve sola zīmi, kas atklāsies tikai laika gaitā — trīs gadu augļošanas secība."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs gadi",
+      "rationale": "Pants skaita gadus: pirmais, otrais, trešais — precīza laika uzmērīšana."
+    }
+  ],
+  "translation": "Un ⟨ir⟩ tev zīme: ēd šajā gadā pašas uzaugušo, bet otrajā gadā pēcaugumu, bet trešajā gadā sējiet un pļaujiet un stādiet vīna dārzus un ēdiet to augļus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "608aaf89750c5e3692d7f497aee8dca6b1182c859fa3268a9fe2f0d8b14059d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/37\/29-32.1792522530545.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Un ⟨ir⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "האות",
+      "gloss": "zīme"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "šajā gadā"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "pašas uzaugušo"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "bet otrajā gadā"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "otrajā"
+    },
+    {
+      "surface": "שחיס",
+      "gloss": "pēcaugumu"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "bet trešajā gadā"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sējiet"
+    },
+    {
+      "surface": "וקצרו",
+      "gloss": "un pļaujiet"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "un stādiet"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vīna dārzus"
+    },
+    {
+      "surface": "ואכול",
+      "gloss": "un ēdiet"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "to augļus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:30.546169057Z",
+  "model": "glm-5.3"
+}

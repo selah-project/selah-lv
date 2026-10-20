@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gūstu gūstā",
+      "rationale": "שָׁבִית שֶׁבִי — burtiski 'nolaupīji laupījumu', ebreju idiomām par pilnīgu uzvaru pār gūstekņiem."
+    },
+    {
+      "kind": "crux",
+      "subject": "dāvanas",
+      "rationale": "לקחת מתנות: 'ņēmi dāvanas (citiem)' (KJV, svētniecisks) pret 'saņēmi cilvēkus kā dāvanu' (JPS, uz 'cilvēku dēliem' lasījums)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבית שבי",
+      "rationale": "Vienas saknes atkārtojums darbības vārdā un lietvārdā — skaņas spēle, kas latviski saglabāta ar 'gūstu gūstā'."
+    }
+  ],
+  "translation": "Tu uzkāpi augstumā, tu aizvadīji ⟨את⟩ gūstu gūstā, tu ņēmi dāvanas cilvēku vidū — pat no nepaklausīgajiem — lai tur dzīvotu Jah, Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/68\/17-20.1792527803639.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "uzkāpi"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "augstumā"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "aizvadīji"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "gūstu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ņēmi"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "dāvanas"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "cilvēku vidū"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "pat"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "no nepaklausīgajiem"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "lai dzīvotu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:23.640228778Z",
+  "model": "glm-5.3"
+}

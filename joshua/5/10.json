@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Pesaha datums — mēneša četrpadsmitā diena vakarā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בערב\/בערבות",
+      "rationale": "'vakarā' (erev) un 'stepēs' (aravot) — līdzīga skaņa, zudusi tulkojumā."
+    }
+  ],
+  "translation": "Un Jisraēla dēli apmetās Gilgalā un svinēja ⟨את⟩ pesahu četrpadsmitajā mēneša dienā, vakarā, Jeriho stepēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/5\/9-12.1792517563951.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "apmetās"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalā"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "un svinēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesahu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "četrpadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—padsmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vakarā"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "stepēs"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriho"
+    }
+  ],
+  "timestamp": "2026-10-20T17:32:43.952607321Z",
+  "model": "glm-5.3"
+}

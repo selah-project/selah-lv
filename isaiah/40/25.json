@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "Hebrew lacks the emphatic particle; Latvian question needs it for force"
+    },
+    {
+      "kind": "you",
+      "subject": "Jūs\/Israēla",
+      "rationale": "Dievs vēršas tieši pie tautas ar retorisku jautājumu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "retoriskais jautājums",
+      "rationale": "Verss izaicina lasītāju meklēt pielīdzinājumu"
+    }
+  ],
+  "translation": "Un ar ko tad jūs Mani pielīdzināsiet, ar ko Es būšu līdzīgs? saka Svētais.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ed5a8a75c1138f24818ae728454db3d6ffed338b7444420449e6176c4be466c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/40\/25-28.1792522652656.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Un ar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "jūs Mani pielīdzināsiet"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ar ko Es būšu līdzīgs"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svētais"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:32.656853841Z",
+  "model": "glm-5.3"
+}

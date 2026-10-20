@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vēstnesis",
+      "rationale": "מלאך burtiski 'vēstnesis'; 'eņģelis' ievieš vēlāku jēdzienu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא...יצא",
+      "rationale": "Atkārtots darbības vārds 'izgāja' diviem vēstnešiem — paralelisms."
+    }
+  ],
+  "translation": "Un lūk, vēstnesis, kas runāja ar mani, izgāja, un cits vēstnesis izgāja viņam pretī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/2\/5-8.1792526776058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Un lūk"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "vēstnesis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kas runāja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "un vēstnesis"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "cits"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "viņam pretī"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:16.065830349Z",
+  "model": "glm-5.3"
+}

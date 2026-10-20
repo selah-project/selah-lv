@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 34:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "acu miedzeni",
+      "rationale": "רגע burtiski 'acu mirkšķinājums' — ļoti īss laiks."
+    },
+    {
+      "kind": "crux",
+      "subject": "אביר",
+      "rationale": "'varonis\/varenais' — arī 'vērsis, eņģelis'; konteksts: varonīgais tiek aizrauts bez cilvēka rokas (sal. Dan 2:34)."
+    }
+  ],
+  "translation": "Acu miedzeni viņi mirst, un pusnakts vidū tauta tiek satricināta un aiziet, un varoni aizrauj — ne ar roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/17-20.1792529533379.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "acu miedzeni"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "viņi mirst"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "un vidū"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pusnakts"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "tiek satricināta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "un aiziet"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "un aizrauj"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "varoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ar roku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:13.381244547Z",
+  "model": "glm-5.3"
+}

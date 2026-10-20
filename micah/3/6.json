@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 3:6",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bez",
+      "rationale": "ebreju tekstā tikai lietvārdi 'nakts... redzējums'; 'bez' pievienots, lai izteiktu atņemšanu, ko norāda konteksts"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחזון\/מקסם",
+      "rationale": "redzējums un zīlēšana — īstais un viltus pareģojums — nolikti paralēli kā spriedums"
+    }
+  ],
+  "translation": "Tāpēc jums būs nakts bez redzējuma un tumsa bez zīlēšanas; un saule ies norietēt pār praviešiem, un diena kļūs tumša pār viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/3\/5-8.1792526453501.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakts"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "מחזון",
+      "gloss": "bez redzējuma"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "un tumsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "מקסם",
+      "gloss": "bez zīlēšanas"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "un ies"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saule"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "praviešiem"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "un kļūs tumša"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diena"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:53.503037714Z",
+  "model": "glm-5.3"
+}

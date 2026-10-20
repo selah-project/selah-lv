@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "par lieciniekiem",
+      "rationale": "Latviešu valodai vajadzīgs prievārds; ebreju עדים ir tikai 'lieciniekus'."
+    }
+  ],
+  "translation": "Un es liku sev par lieciniekiem uzticamus lieciniekus: ⟨את⟩ Uriju, priesteri, un ⟨את⟩ Zekarjahu, Jeberekjahu dēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/8\/1-4.1792521952970.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Un es liku liecināt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sev"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "par lieciniekiem"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "uzticamus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Zekarjahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekjahu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:52.971327563Z",
+  "model": "glm-5.3"
+}

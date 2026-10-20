@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'rīkle\/elpa\/dzīvības spēks', nevis dvēsele"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אחלק",
+      "rationale": "sakne חלק nozīmē arī 'būt gludam \/ mest lozi' — 'es mērošu lozi par laupījumu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "piecas pēc kārtas runājošās darbības vārsmas",
+      "rationale": "ienaidnieka lepnā runa ar vienotu_first-person kohortatīvu virkni — latviski zudis ritms"
+    }
+  ],
+  "translation": "Ienaidnieks sacīja: Es dzīšos, es panākšu, es dalīšu laupījumu, mana dvēsele no viņiem tiks piepildīta, es izvilksmu savu zobenu, mana roka tos iznīcinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/15\/9-12.1792512872383.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "es dzīšos"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "es panākšu"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "es dalīšu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "laupījumu"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "tiks piepildīta no viņiem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "es izvilksmu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "savu zobenu"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "tos iznīcinās"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mana roka"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:32.383826658Z",
+  "model": "glm-5.3"
+}

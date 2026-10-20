@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "svešs El \/ citas zemes Els",
+      "rationale": "זר un נכר — abi 'svešs\/ārzemju', daudzi tulki atkārto 'svešs'; atstāti atšķirīgi, lai redzētu divus vārdus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nenoslīpēsi",
+      "rationale": "שחה burtiski 'noliekties pie zemes' godināšanā."
+    }
+  ],
+  "translation": "Lai tev nav svešs El, un tu nenoslīpēsi sev citam Elam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/81\/9-12.1792527932870.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Lai nav"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nenoslīpēsi"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "nenoslīpēsi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "citas zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:32.870686308Z",
+  "model": "glm-5.3"
+}

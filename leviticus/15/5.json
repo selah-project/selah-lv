@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Apzīmējuma teikumam latviešu valodā vajag saikli ⟨ir⟩; ebreju tekstā tā nav."
+    }
+  ],
+  "translation": "Un katrs cilvēks, kas pieskaras viņa gultai, mazgā savas drēbes un mazgājas ūdenī, un ⟨ir⟩ nešķīsts līdz vakaram.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "897a65eac56eea85198141e63bf391cd6a49a45010dd35e6b5e997722671caf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/15\/2-5.1792514817481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Un katrs cilvēks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "pieskaras"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "viņa gultai"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mazgā"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savas drēbes"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "un mazgājas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ūdenī"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nešķīsts"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaram"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:57.487613911Z",
+  "model": "glm-5.3"
+}

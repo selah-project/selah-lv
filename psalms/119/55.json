@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "es",
+      "rationale": "darbības vārda formas nozīmē 'un tad es sargāju' — atgriezeniskums saglabāts ar vietniekvārdu"
+    }
+  ],
+  "translation": "Naktī es atcerējos tavu Vārdu, Jahve, un es sargāju tavu Toru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/53-56.1792528297668.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "es atcerējos"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "naktī"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavu Vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "un es sargāju"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tavu Toru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:37.668876481Z",
+  "model": "glm-5.3"
+}

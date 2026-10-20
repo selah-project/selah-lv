@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir (netiek pievienots — teikums bez kopulas)",
+      "rationale": "Ebreju teikumam nav kopulas; latviešu tulkojums to arī iztiek bez ⟨ir⟩, jo vārdu kārtība to nes."
+    }
+  ],
+  "translation": "Veltīgi es situ ⟨את⟩ jūsu dēlus — mācību tie nepieņēma; jūsu zobens aprija jūsu praviešus kā iznīcinošs lauva.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "682a3bce84006cc457d5550898c4cb8d713bcfe03b0235b67f1c64347c5601c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/29-32.1792523203044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Veltīgi"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "es situ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu dēlus"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsu dēlus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mācību"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nepieņēma (negācija: ne)"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tie pieņēma"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "aprija"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "jūsu zobens"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "jūsu praviešus"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kā lauva"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "iznīcinošs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:43.045520268Z",
+  "model": "glm-5.3"
+}

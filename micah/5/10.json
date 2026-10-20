@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pilsētas",
+      "rationale": "KJV šeit seko ebreju pantu sadalījumam ar zirgiem; ebreju ערי 'pilsētas' paliek pilsētas"
+    }
+  ],
+  "translation": "Un es iznīcināšu pilsētas tavā zemē un nogāzīšu visus tavus cietokšņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "061f9eb75352d907fb4f3b7870342027448b4e79d5f0d882d110e2b5204329a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/5\/9-12.1792526405426.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "Un es iznīcināšu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tavā zemē"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "un nogāzīšu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "tavus cietokšņus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:05.427135945Z",
+  "model": "glm-5.3"
+}

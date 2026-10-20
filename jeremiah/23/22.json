@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סוד",
+      "rationale": "sod — padome, tuvā aprinde; «manā padomē» glabā nozīmi, bet jāatzīmē, ka tas ir tuvības, ne vien pieņēmuma, apliecinājums."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨viņus⟩",
+      "rationale": "Darbības vārda וישבום sufikss -ם («viņus») latviski atsevišķā formā."
+    },
+    {
+      "kind": "secret",
+      "subject": "בסודי",
+      "rationale": "Atsauce uz סוד — Jahves padomi, slēpto tuvību, ko īstie pravieši redz."
+    }
+  ],
+  "translation": "Ja viņi būtu stāvējuši manā padomē un darījuši dzirdamus manus vārdus ⟨את⟩ manai tautai, tad viņi būtu atgriezuši ⟨viņus⟩ no viņu ļaunā ceļa un no ļaunuma viņu darbu ⟨dēļ⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "587e3668655334fcb3a7f25a2129870534bc33b5d96cadde832d5ad94681bf44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/23\/21-24.1792523821969.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "viņi būtu stāvējuši"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "manā padomē"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "un darījuši dzirdamus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "manus vārdus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manai tautai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manai tautai"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "tad viņi būtu atgriezuši viņus"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "no viņu ceļa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļaunā"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "un no ļaunuma"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "viņu darbiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:17:01.970482008Z",
+  "model": "glm-5.3"
+}

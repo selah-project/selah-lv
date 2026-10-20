@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 30:15",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pesahu",
+      "rationale": "הפסח transliterēts, nevis tulkots kā 'Lieldienas' vai 'jērs'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכלמו",
+      "rationale": "'kaunējās' — tradicionālais lasījums; alternatīvi no כלם 'tika steidzīgi gatavi'"
+    }
+  ],
+  "translation": "Un tie nokāva pesahu ceturtajā [dieneā] otrajā mēnesī, un priesteri un levīti kaunējās un svētījās, un atnesa dedzināmos upurus Jahves namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/30\/13-16.1792532307023.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "nokāva"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ceturtajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmitajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "השני",
+      "gloss": "otrajā"
+    },
+    {
+      "surface": "ווהכהנים",
+      "gloss": "un priesteri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "un levīti"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "kaunējās"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "svētījās"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "atnesa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dedzināmos upurus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:27.024457506Z",
+  "model": "glm-5.3"
+}

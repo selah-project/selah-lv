@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esat",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'būt' otrajai daļai; latviešu valodai vajag ⟨esat⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kauli un miesa",
+      "rationale": "עצמי ובשרי — radniecības idiomā 'kauli un miesa', ne vienmēr jātulko burtiski"
+    },
+    {
+      "kind": "you",
+      "subject": "Jūdas vīriem",
+      "rationale": "Davids tieši uzrunā Jūdas vīrus ar 'jūs'"
+    }
+  ],
+  "translation": "Mani brāļi — jūs, mani kauli un mana miesa — jūs ⟨esat⟩; un kāpēc jūs būsit pēdējie, lai atgrieztu ⟨את⟩ ķēniņu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/13-16.1792520105120.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mani brāļi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mani kauli"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "un mana miesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "un kāpēc"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "jūs būsit"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "pēdējie"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "lai atgrieztu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:05.121085674Z",
+  "model": "glm-5.3"
+}

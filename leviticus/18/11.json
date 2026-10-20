@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tā ir",
+      "rationale": "הוא ir uzsvinga partikula 'viņa [ir]', latviski dots kā kopula 'tā ir'"
+    }
+  ],
+  "translation": "Tēva sievas meitas kailumu — no tēva dzimušas, tā ir tava māsa — viņas kailumu neatsegłi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/18\/9-12.1792514943722.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kailumu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tēva"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "dzimušas"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "no tēva"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tava māsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā ir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atsegłi"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "viņas kailumu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:03.725044387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 24:14",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa 'šaurs man ļoti' — latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "Viņa",
+      "rationale": "רחמו ir celskaita forma ar piederības suffiksu 'Viņa', latviski jāpievieno atsevišķs vārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלה \/ אפלה",
+      "rationale": "Tā pati sakne נפל divreiz — 'kritīsim... nekrītu' — atbilde uz 'krist' trīs svētīgo izvēļu priekšā."
+    },
+    {
+      "kind": "you",
+      "subject": "Davids runā ar Gadu",
+      "rationale": "Tieša uzruna pravietim Gam par izvēli starp trim sodiem."
+    }
+  ],
+  "translation": "Un Davids sacīja Gadam: Šaurs man ⟨ir⟩ ļoti; kritīsim ⟨lūdzu⟩ Jahves rokā, jo daudzas ⟨ir⟩ Viņa apžēlošanas; bet cilvēka rokā lai es nekrītu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4dc4f592912c53e1881ec3d72860531abac9f83d0de598f9899be03310f820eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/14-15.1792532629801.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Gadam"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadam"
+    },
+    {
+      "surface": "צר",
+      "gloss": "šaurs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "kritīsim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨lūdzu⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzas"
+    },
+    {
+      "surface": "רחמו",
+      "gloss": "Viņa apžēlošanas"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "bet rokā"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "es krītu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:49.801702118Z",
+  "model": "glm-5.3"
+}

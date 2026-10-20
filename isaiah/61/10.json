@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוש אשיש",
+      "rationale": "Saknes atkārtojums — intensitāte, kas latviski uztverama kā divkāršs 'gavilēšu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש tuvāk 'elpai\/dzīvības spēkam', nevis dvēselei"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכהן פאר",
+      "rationale": "KJV 'greznojas rotas' pret JPS 'priesterīga diadēma' — darbības vārds no 'priesteris' (כהן)"
+    }
+  ],
+  "translation": "Gavilēšu, gavilēšu Jahvē, priecāsies mana dvēsele manā Elohim, jo Viņš mani apģērba pestīšanas tērpā, cedekas mēteli mani apvilka, kā līgavainis, kas kā priesteris sien galvas greznojumu, un kā līgava, kas rotājas saviem dārgliemeņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7a104d5c86237462b6d74ce6ed7915e89258ee8965e91513f8557b004896dea1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/61\/9-11.1792523099100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gloss": "gavilēšu"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "gavilēšu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvē"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "priecāsies"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "manā Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "Viņš mani apģērba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tērpā"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pestīšanas"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mēteli"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedekas"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "man apvilka"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kā līgavainis"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "kā priesteris"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "galvas greznojumu"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "un kā līgava"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "rotājas"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "saviem dārgliemeņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:59.101029503Z",
+  "model": "glm-5.3"
+}

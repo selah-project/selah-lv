@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "Atkārtots svētības sauciens — ebreju retoriskā dubultošana, kas uzsver ķēniņienes apbrīnu."
+    }
+  ],
+  "translation": "Svētīgi tavi vīri, svētīgi tie tavi kalpi, kas pastāvīgi stāv tavā priekšā, kas dzird ⟨את⟩ tavu gudrību!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/10\/5-8.1792520620160.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Svētīgi"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "tavi vīri"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "svētīgi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavi kalpi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kas stāv"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tavā priekšā"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "kas dzird"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu gudrību"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tavu gudrību"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:40.162051400Z",
+  "model": "glm-5.3"
+}

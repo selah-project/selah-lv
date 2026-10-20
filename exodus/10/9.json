@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נלך … נלך",
+      "rationale": "Atkārtotais \"iesim\" ietver visu tautu — Moše atbild uz Farao jautājumu \"kas ies?\" ar divkāršu apgalvojumu."
+    }
+  ],
+  "translation": "Un Moše sacīja: Ar saviem jaunajiem un ar saviem vecajiem iesim, ar saviem dēliem un ar savām meitām, ar savu ganāmpulku un ar saviem liellopiem iesim, jo mums ⟨ir⟩ svētki Jahve ⟨pestīti⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/10\/9-12.1792512849304.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "ar saviem jaunajiem"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "un ar saviem vecajiem"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "iesim"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "ar saviem dēliem"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "un ar savām meitām"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "ar savu ganāmpulku"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "un ar saviem liellopiem"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "iesim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svētki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:09.305211986Z",
+  "model": "glm-5.3"
+}

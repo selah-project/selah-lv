@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Demonstratīvajam teikumam latviešu valodā vajadzīgs saiklis, ebreju valodā tā nav"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקדים",
+      "rationale": "'Drupačas\/sausi plācenīši (ar caurdurtiņiem)' — KJV 'mouldy' (pelējums) pret YLT\/JPS 'crumbs' (drupačas)"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošua",
+      "rationale": "Gibeonieši turpina runu tieši pie Jehošuas un izraēliešiem"
+    }
+  ],
+  "translation": "šis ir mūsu maize — karstu mēs to paņēmām ⟨את⟩ no savām mājām iziešanas dienā, lai dotos pie jums; un tagad — lūk, tā ir izkaltusi un kļuvusi drupačaina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08236b928cd720f70629bdb690d9f9a3bd4b6a9b8d1ffcd1a05f88906a240676",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/9\/9-12.1792517676215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "mūsu maize"
+    },
+    {
+      "surface": "חם",
+      "gloss": "karstu"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "mēs paņēmām"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (maizi)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "no savām mājām"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "iziešanas"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lai dotos"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pie jums"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "izkaltusi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "un kļuvusi"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "drupačaina"
+    }
+  ],
+  "timestamp": "2026-10-20T17:34:36.217282567Z",
+  "model": "glm-5.3"
+}

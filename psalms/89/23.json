@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nespiedīs",
+      "rationale": "ישא: 'prasīt parādu' (KJV 'exact'), 'apmānīt' vai 'spiest' — pats saknes skaidrojums svārstās"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובן עולה",
+      "rationale": "'netaisnības dēls' — ebreju apzīmējums, kas zaudēts, ja tulkots kā vienkārši 'ļaundaris'"
+    }
+  ],
+  "translation": "Ienaidnieks viņu nespiedīs, un netaisnības dēls viņu nemocīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/21-24.1792527984791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nespiedīs"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "un dēls"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "netaisnības"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "viņu nemocīs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:24.792811074Z",
+  "model": "glm-5.3"
+}

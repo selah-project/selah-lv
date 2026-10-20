@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 23:9",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'kas ir namā'; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "השלטים",
+      "rationale": "Reti vārds, visticamāk 'liels vairogs' pret mazo vairogu מגן; tulkotāji dažādi šķiro abus vārdus"
+    }
+  ],
+  "translation": "Un Jehojada priesteris deva simtu pavēlniekiem ⟨את⟩ šķēpus, ⟨את⟩ vairogus un ⟨את⟩ lielos vairogus, kas bija ķēniņa Davida, kas ⟨ir⟩ Elohim namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "47749a7c379c154603747ff8eec52c3c12bf3dc3f3c8cd627077cd0e11fc2abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/23\/9-12.1792532093632.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "deva"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "pavēlniekiem"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "simtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šķēpus"
+    },
+    {
+      "surface": "החניתים",
+      "gloss": "šķēpus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vairogus"
+    },
+    {
+      "surface": "המגנות",
+      "gloss": "vairogus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lielos vairogus"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "lielos vairogus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:34:53.633416372Z",
+  "model": "glm-5.3"
+}

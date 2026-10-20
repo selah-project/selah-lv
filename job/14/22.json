@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvesele",
+      "rationale": "נפש tuvāk 'elpa\/dzīvības spēks', ne dvēsele platoniskā nozīmē."
+    },
+    {
+      "kind": "crux",
+      "subject": "uz viņa \/ par viņu",
+      "rationale": "עליו — 'virzī uz viņa miesu' (KJV 'upon him') vai 'viņa dēļ' (par viņu); paralelisms atstāj abus vaļā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליו ... עליו",
+      "rationale": "atkārtotā daļiņa divos pusbantiņos veido paralēlo struktūru miesa\/dvesele."
+    }
+  ],
+  "translation": "Tikai viņa miesa uz viņa sāp, un viņa dvesele par viņu sēro.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/14\/21-22.1792529093968.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "viņa miesa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz viņa"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "sāp"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "un viņa dvesele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "par viņu"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "sēro"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:53.969046612Z",
+  "model": "glm-5.3"
+}

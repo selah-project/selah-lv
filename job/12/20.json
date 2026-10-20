@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lūpas",
+      "rationale": "שׂפה burtiski 'lūpa' kā robs, pārnesti 'runa\/valoda'; latviski 'runa' zaudē lūpas attēlu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpratni",
+      "rationale": "טעם burtiski 'garša', pārnesti 'sajūta\/izpratne'"
+    }
+  ],
+  "translation": "Viņš atņem lūpas uzticamajiem, un vecajiem izpratni Viņš aizved.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/17-20.1792529096215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "atņem"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lūpas"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "uzticamajiem"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "un izpratni"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vecajiem"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "aizved"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:56.217243069Z",
+  "model": "glm-5.3"
+}

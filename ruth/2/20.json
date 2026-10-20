@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 2:20",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד paturēts kā hesed — uzticīga labvēlība vienā vārdā, latviski nav viena vārda."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגאלנו",
+      "rationale": "goēls — radinieks-atpestītājs: 'mūsu atpestītājs' \/ 'mūsu atbildētājs' \/ 'mūsu radinieks'; tiešs radniecības un atpirkuma likums."
+    },
+    {
+      "kind": "alternative",
+      "subject": "atbildētājiem",
+      "rationale": "otrs lasījums: 'atpestītājiem' — גאל nozīmē atpestēt, izpirkt."
+    }
+  ],
+  "translation": "Un Naomi sacīja savai vedeklai: Lai viņš ir svētīts pie Jahves, kas nav atstājis savu hesed ⟨pie⟩ ⟨את⟩ dzīvajiem un ⟨pie⟩ ⟨את⟩ mirušajiem. Un Naomi sacīja viņai: Cilvēks ir tuvs mums — no mūsu atbildētājiem viņš ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7f6e387fdfe8bb7a2475c8421fc280134abead4062292e0df9e104497882e44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/2\/17-20.1792529764988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "לכלתה",
+      "gloss": "savai vedeklai"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "svētīts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pie Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "atstājis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "savu hesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzīvajiem"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dzīvajiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mirušajiem"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tuvs"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "מגאלנו",
+      "gloss": "no mūsu atbildētājiem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:04.992935051Z",
+  "model": "glm-5.3"
+}

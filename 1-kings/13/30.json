@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sacīdami",
+      "rationale": "Ebreju valodā pēc raudāšanas seko tieši sacītais vārds; latviešu valodai vajadzēja ievadīt vārdu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raudāja",
+      "rationale": "ויספדו burtiski nozīmē plūkt matus un sist sev krūtīs — austrumu sēru rituāls, ne tikai asaru liešana."
+    }
+  ],
+  "translation": "Un viņš noguldīja ⟨את⟩ viņa līķi savā kapā, un viņi raudāja pār viņu, ⟨sacīdami⟩: Ak, mans brāli!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6a94e4cb9545b19426b30f96c5f1d523079897aab76e10af171cd036864cc556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/13\/30-31.1792532623471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "un viņš noguldīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa līķi"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "viņa līķi"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "savā kapā"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "un viņi raudāja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār viņu"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mans brāli"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:43.472187790Z",
+  "model": "glm-5.3"
+}

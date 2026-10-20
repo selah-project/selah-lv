@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "skaidrojošais savienojums atstāts bez atveidojuma"
+    }
+  ],
+  "translation": "Jahve uzklausa nabagos un ⟨את⟩ Viņa gūstekņus neapnicina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4a1fcc1a26e80e6d0d6aebf86c37e871c5fc58cf0cfb0cef3a7c04632bdae8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/69\/33-36.1792527811326.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzklausa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nabagos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Viņa gūstekņus"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "Viņa gūstekņus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "apnicina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:31.327394361Z",
+  "model": "glm-5.3"
+}

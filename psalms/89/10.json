@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "apklusini",
+      "rationale": "תשבחם no שבח 'skaļi runāt\/pacelt balsi': vai 'Tu tos apklusini' (KJV, tradīcija), vai 'Tu tos ar augstu balsi apbāz' — sakne nozīmē celt balsi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "augstprātību",
+      "rationale": "גאות ir 'lepnums, augstums, trakais viļņojums' — viens vārds, vairākas nozīmes."
+    }
+  ],
+  "translation": "Tu valdi pār jūras augstprātību; kad tās viļņi ceļas, Tu tos apklusini.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/9-12.1792528008544.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "valdi"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "pār augstprātību"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "kad ceļas"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "tās viļņi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "tos apklusini"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:48.544897567Z",
+  "model": "glm-5.3"
+}

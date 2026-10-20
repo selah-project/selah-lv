@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa\/dzīvības spēks', ne dvēsele."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצדיק צדיק",
+      "rationale": "Vārdu kārtība ļauj 'mans taisnais kalps attaisnos' vai 'attaisnos manu taisno kalpu' (JPS lasījums)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצדיק\/צדיק",
+      "rationale": "Darbības vārds un īpašības vārds no tās pašas saknes צדק — atskaņa latviski daļēji saglabāta ar 'attaisnos taisnais'."
+    }
+  ],
+  "translation": "No savas dvēseles pūlēm viņš redzēs, viņš tiks remdināts; ar savu atziņu mans taisnais kalps attaisnos daudzus, un viņu pārkāpumus viņš nesīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/53\/9-12.1792522928121.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "No pūlēm"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savas dvēseles"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "viņš redzēs"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "viņš tiks remdināts"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "ar savu atziņu"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "attaisnos"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnais"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mans kalps"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "daudzus"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "un viņu pārkāpumus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "nesīs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:08.123062378Z",
+  "model": "glm-5.3"
+}

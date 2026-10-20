@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתעטף",
+      "rationale": "'apseglos\/apvalkās' pret 'noplok': עטף nozīmē apsegt, apvilkt — šeit par slāpju nomāktu nefes"
+    }
+  ],
+  "translation": "Izsalkuši, arī slāpuši, to dvēsele ⟨sevī⟩ noplok.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/5-8.1792528191367.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "izsalkuši"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "slāpuši"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "to dvēsele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sevī"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "noplok"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:51.368293188Z",
+  "model": "glm-5.3"
+}

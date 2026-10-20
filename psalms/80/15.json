@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lūgums",
+      "rationale": "Pants ir tiešs lūgums Elohim Cevaot ar četriem imperatīviem — atgriezies, lūkojies, redzi, apciemo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופקד",
+      "rationale": "פקד var nozīmēt gan 'apciemot ar labvēlību', gan 'ciest pār'; šeit izvēlēts labvēlīgais, bet abas ir iespējamas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vīnogulājs",
+      "rationale": "גפן ir Israēla tēls kā vīnogulājs no Ēģiptes atvests (Ps 80:9); latviski vārds pats par sevi tēlu nes."
+    }
+  ],
+  "translation": "Elohim Cevaot, atgriezies ⟨tomēr⟩, lūkojies no debesīm un redzi, un apciemo ⟨את⟩ šo vīnogulāju!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/80\/13-16.1792527953922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨tomēr⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "lūkojies"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "no debesīm"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "un redzi"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "un apciemo"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vīnogulāju"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:53.923500240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "no kuriem izgāja filistieši",
+      "rationale": "Sintaktiski neviennozīmīgs: filistieši iznāca no Kasluhiešiem (šeit) vai no Kaftoriešiem (sal. Am 9:7, Dt 2:23)."
+    },
+    {
+      "kind": "elision",
+      "subject": "משם",
+      "rationale": "'No turienes' saplūst ar 'izgāja no' vienā latviešu izteiksmē."
+    }
+  ],
+  "translation": "Un ⟨את⟩ patrusiešus, un ⟨את⟩ kasluhiešus, no kuriem izgāja filistieši, un ⟨את⟩ kaftoriešus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/10\/13-16.1792511629272.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Un ⟨את⟩",
+      "marks": "patrusiešus"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusiešus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "kasluhiešus"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluhiešus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no kuriem"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "משם",
+      "gloss": "no turienes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistieši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "kaftoriešus"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftoriešus"
+    }
+  ],
+  "timestamp": "2026-10-20T15:53:49.273724643Z",
+  "model": "glm-5.3"
+}

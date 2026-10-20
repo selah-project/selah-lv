@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והתחולל",
+      "rationale": "Burtiski 'griezties\/apvienoties' — 'griezies Viņam' pret 'gaidi pacietīgi'; ņemta nozīmē 'gaidīt, stāvot mierā'."
+    },
+    {
+      "kind": "addition",
+      "subject": "priekšā",
+      "rationale": "Ebreju ל jeb 'Jahvem' apzīmē virzienu; latviešu locījumam vajadzīgs 'priekšā'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתחר",
+      "rationale": "Darbības vārds no 'degt, iekvēlot' — dusmu tēls, kas atgriežas 37:8 kā atbalsis."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pacietības aicinājums",
+      "rationale": "Nepārtrauktas pavēles vēršanās pie lasītāja: klusē, gaidi, neaizkaitinies."
+    }
+  ],
+  "translation": "Esi kluss Jahves priekšā un gaidi pacietīgi uz Viņu; neaizkaitinies pret to, kam veicas viņa ceļā, pret vīru, kas dara ļaunus iecerējumus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/37\/5-8.1792527424529.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Esi kluss"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves priekšā"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "un gaidi pacietīgi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uz Viņu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "aizkaitinies"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "pret to, kam veicas"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "viņa ceļā"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "pret vīru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kas dara"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ļaunus iecerējumus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:04.531325236Z",
+  "model": "glm-5.3"
+}

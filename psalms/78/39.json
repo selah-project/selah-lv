@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, kur ebreju valodā teikums ir bez darbības vārda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir gan vējš, gan elpa, gan gars — saglabāts kā 'ruah', jo viens vārds, vairākas nozīmes."
+    }
+  ],
+  "translation": "Un Viņš atcerējās, ka tie ⟨ir⟩ miesa, ruah, kas aiziet un neatgriežas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/37-40.1792527898542.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Un Viņš atcerējās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kas aiziet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atgriežas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:58.543530988Z",
+  "model": "glm-5.3"
+}

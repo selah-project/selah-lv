@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ķēniņam",
+      "rationale": " pavēle vērsta pie ķēniņa-varoņa."
+    },
+    {
+      "kind": "crux",
+      "subject": "tavs spožums un tavs diženums",
+      "rationale": "הודך והדרך var būt 1) aprakstošs izsauciens par ķēniņu, 2) uzruna ('varonīgais, tu spožums un diženum'), vai 3) sekojošā panta priekšmets ('tavs diženums lai panāk tevi uzvaras')."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pavēle",
+      "rationale": "Pavēlējoša forma 'apsien' — pantā pieaicinājums varonim."
+    }
+  ],
+  "translation": "Apsien savu zobenu pie sava gurna, varonīgais — tavs spožums un tavs diženums!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/1-4.1792527593537.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Apsien"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "savu zobenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gurna"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "varonīgais"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "tavs spožums"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "un tavs diženums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:53.538145867Z",
+  "model": "glm-5.3"
+}

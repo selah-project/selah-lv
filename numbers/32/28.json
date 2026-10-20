@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "deva pavēli",
+      "rationale": "ויצו בהם burtiski 'pavēlēja viņiem' — latviskā plūsma 'deva viņiem pavēli par viņiem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciltstēvu galvas",
+      "rationale": "ראשי אבות המטות burtiski 'tēvu-galvas ciltīm' — dzimtu galvas."
+    }
+  ],
+  "translation": "Un Moše deva viņiem pavēli ⟨את⟩ Elcaram priesteri un ⟨את⟩ Jehošuu, Nuna dēlu, un ⟨את⟩ ciltstēvu galvas Jisraēla ciltīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e0327c31290de92fa8009542ecd96dac604d3abf2cf1960973566cae418e2584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/32\/25-28.1792516351255.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Un deva pavēli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elcaram priesteri"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elcars"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuu, Nuna dēlu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciltstēvu galvas"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ciltstēviem"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "ciltīm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:12:31.257195720Z",
+  "model": "glm-5.3"
+}

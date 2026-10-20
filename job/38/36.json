@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iekšās",
+      "rationale": "בטחות burtiski ir 'nieres' — iekšējās dzīļu vieta; latviski 'iekšās'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שכוי",
+      "rationale": "Slavens strīda punkts: 'gailis' (rīta modrība, Vulgāta) pret 'prāts\/redzīgais' (targums, lielākā daļa tulkotāju); te turēts pie burtiskās skanējuma nozīmes 'skaidri redzošais'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "gudrības avots",
+      "rationale": "Jautājums norāda uz apslēpto zināšanu avotu, kas pārsniedz cilvēku"
+    }
+  ],
+  "translation": "Kas ir licis gudrību iekšās, vai kas ir devis saprašanu ⟨tam, kas skaidri redz⟩?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ffc7a8c2bb3a4ce7777be19ed9ca54c8d2f36715c7280adce13a2c2db8b13f3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/33-36.1792529589593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ir licis"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "iekšās"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ir devis"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "⟨tam, kas skaidri redz⟩"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "saprašanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:09.594558613Z",
+  "model": "glm-5.3"
+}

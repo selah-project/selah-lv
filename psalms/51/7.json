@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חוללתי",
+      "rationale": "חוּל nozīmē 'griezties, vīties' — dzemdības vai veidošanās; 'es tiku dzemdēts\/veidots' pret 'es tiku sagrozīts'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יחמתני",
+      "rationale": "יָחַם 'ieņemt' šeit retā forma ar priedēkli, dzīvaina retināta lietojuma."
+    }
+  ],
+  "translation": "Redzi,_avotā es tiku veidots, un grēkā mana māte mani ieņēma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/5-8.1792527609128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "avotā"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "es tiku veidots"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "un grēkā"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "mani ieņēma"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mana māte"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:09.129523974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 34:29",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir tas pats",
+      "rationale": "יחד 'vienlīdz' bešā darbības vārda latviski prasa predikātu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירשע",
+      "rationale": "'pasludināt par vainīgu' pret 'darīt netaisnību' — KJV 'make trouble' pret JPS 'condemn'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישורנו",
+      "rationale": "שור var nozīmēt arī 'uzmanīt, gādāt' — BSB lasa 'He watches over'"
+    }
+  ],
+  "translation": "Un kad viņš dod klusumu, kas tad var pasludināt par vainīgu? Un kad viņš slēpj seju, kas tad var to saskatīt? Vienlīdz pār tautu un pār cilvēku ⟨ir tas pats⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/29-32.1792529538424.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "dod klusumu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "ירשע",
+      "gloss": "var pasludināt par vainīgu"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "un slēpj"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "seju"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "ישורנו",
+      "gloss": "var to saskatīt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vienlīdz"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:18.425089443Z",
+  "model": "glm-5.3"
+}

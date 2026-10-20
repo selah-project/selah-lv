@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "ebraju valodā teikuma subjekts netiek minēts — no 25. panta 'taisais'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svētībai",
+      "rationale": "לברכה burtiski 'svētībai' — par svētību, ne vienkārši 'ir svētīta'"
+    }
+  ],
+  "translation": "Visu dienu ⟨viņš⟩ žēlo un aizdod, un viņa sēkla ⟨ir⟩ svētībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/37\/25-28.1792527409465.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "žēlo"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "un aizdod"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "un viņa sēkla"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "svētībai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:49.465837728Z",
+  "model": "glm-5.3"
+}

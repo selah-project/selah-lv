@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mans draugs",
+      "rationale": "אישׁ שׁלומי burtiski 'mana miera vīrs'; 'mans draugs' pievienots skaidrojumam."
+    },
+    {
+      "kind": "idiom",
+      "subject": "pacēla papēdi",
+      "rationale": "הגדיל עקב 'palielināja papēdi' — nodevības žests; saglabāts burtiskais tēls."
+    }
+  ],
+  "translation": "Pat mans draugs, mans miera vīrs, kurā es paļāvos, kas ēda manu maizi, pacēla papēdi pret mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/41\/9-12.1792527477999.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mans miera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "es paļāvos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mano maizi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "pacēla lielu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "papēdi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:58.000506141Z",
+  "model": "glm-5.3"
+}

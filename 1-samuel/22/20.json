@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumam 'un viņa vārds Abjatārs' trūkst saikļa."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viens dēls",
+      "rationale": "Izglābās viens — skaitlis uzsvērts: no visa priestera nama palika viens."
+    }
+  ],
+  "translation": "Un izglābās viens dēls Ahimeleham, dēlam Ahitubam, un viņa vārds ⟨ir⟩ Abjatārs; un viņš aizbēga pēc Davida.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a88e22ee49b01bfaf3b67b69832ef9ac8093a231cd1f13f2a15cfb8bbe669778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/22\/17-20.1792519390547.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "Un izglābās"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimeleham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitubam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "un viņa vārds"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abjatārs"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "un aizbēga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:10.549057788Z",
+  "model": "glm-5.3"
+}

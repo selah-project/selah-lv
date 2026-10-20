@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'ir'; latviešu valodai tas vajadzīgs, brāķēts"
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausieties",
+      "rationale": "Vēstījums vērsts tieši Jerušalaimas valdniekiem — izsmējējiem — ar pavēli klausīties"
+    },
+    {
+      "kind": "you",
+      "subject": "izsmējēļi",
+      "rationale": "Tiešs uzrunas vērsums Jerušalaimas valdošajiem vīriem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצון",
+      "rationale": "לצון 'izsmiekls' skan gandrīz kā לצו no 28:13 pants — nievājuma vārds atbalso mācības parodiju"
+    }
+  ],
+  "translation": "Tāpēc klausieties Jahves vārdu, jūs, izsmējēļi, šīs tautas valdnieki, kas ⟨ir⟩ Jerušalaimā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a3d843adeac8e2ed79abcfc8b3baafd026a84d4ee51fd1f5bc18dfaa019fcaed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/13-16.1792522330603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausieties"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "izsmējēļi"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "valdnieki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:52:10.604683590Z",
+  "model": "glm-5.3"
+}

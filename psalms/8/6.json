@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "מאלהים: 'mazāks par Elohim' vs Septuagintas un KJV 'mazāks par eņģeļiem'; arī iespējams 'mazliet zemāks par dieviem' daudzskaitlī"
+    },
+    {
+      "kind": "literal-shape",
+      "subject": "viegli mazāks par Elohim",
+      "rationale": "חסר burtiski 'trūkt, atņemt' — turēts tuvu burtiskajam 'liec viņam trūkt mazliet'"
+    }
+  ],
+  "translation": "Tu liec viņam mazliet trūkt līdz Elohim, un ar godu un spožumu tu viņu vainago.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/8\/5-8.1792527019557.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "un tu liec viņam trūkt"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mazliet"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "līdz Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "un ar godu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "un spožumu"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "tu viņu vainago"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:19.559490621Z",
+  "model": "glm-5.3"
+}

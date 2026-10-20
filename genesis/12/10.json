@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'bija'; latviešu valodai vajag kopulu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבד",
+      "rationale": "Burtiski 'smags' — bada smagums; 'smags bads' saglabā tēlu."
+    }
+  ],
+  "translation": "Un ⟨bija⟩ bads ⟨zemē⟩, un Avrahams nogāja uz Micraimu, tur uzturoties, jo bads ⟨bija⟩ smags ⟨zemē⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/12\/9-12.1792511647703.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "bads"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨zemē⟩"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "un nogāja"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "uz Micraimu"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "uzturoties"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "smags"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bads"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨zemē⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:07.704672756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 8:5",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir \/ šķiet",
+      "rationale": "Latviešu valodai vajadzīgs saiklis un predikāts, ebreju tekstā trūkst"
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņam",
+      "rationale": "Estere runā tieši pie ķēniņa Ahašveroša, pieklājības forma ar četrkāršu 'ja'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iecerētos",
+      "rationale": "מחשבת ir 'doma, iecerējums, izdomājums' — appozīcija rakstiem, kas paliek brīvā atkāpē"
+    }
+  ],
+  "translation": "Un viņa sacīja: Ja ķēniņam ⟨ir⟩ labi, un ja esmu atradusi žēlastību viņa priekšā, un ja lieta ⟨šķiet⟩ derīga ķēniņa priekšā un esmu laba viņa acīs, lai tiek uzrakstīts atsaukt ⟨את⟩ rakstus — Hamana, Medatas dēla, agagieša, iecerētos — ko viņš uzrakstījis, lai iznīcinātu ⟨את⟩ jūdus, kas ⟨ir⟩ visās ķēniņa valstīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "133dd0839d4065e557d272c5b4d3654d7eabc871c7c4fd88cf9411641a2400f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/8\/5-8.1792530202462.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "esmu atradusi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "žēlastību"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    },
+    {
+      "surface": "וכשר",
+      "gloss": "un ja derīga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lieta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "un laba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "viņa acīs"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "lai tiek uzrakstīts"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "atsaukt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakstus"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "rakstus"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "iecerētos"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medatas"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagieša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "viņš uzrakstījis"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "lai iznīcinātu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūdus"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "valstīs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:03:22.463378942Z",
+  "model": "glm-5.3"
+}

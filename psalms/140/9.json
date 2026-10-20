@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירומו",
+      "rationale": "indikatīvs 'tie paaugstinās' (YLT) pret konsekutīvu 'lai tie nepaaugstinās' (KJV\/JPS) — ebreju forma pieļauj abas lasījuma"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "posesīvie vietniekvārdi pie 'iegribas' un 'nodomu' ebreju teksta izsaka ar konstrukciju"
+    }
+  ],
+  "translation": "Nedod, Jahve, ļaundarim ⟨viņa⟩ iegribas, ⟨viņa⟩ ļauno nodomu neīsteno, lai tie nepaaugstinās. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/9-12.1792528430336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "iegribas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaundaris"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "viņa nodomu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "īsteno"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "lai tie paaugstinās"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:50.337161840Z",
+  "model": "glm-5.3"
+}

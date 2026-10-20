@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 18:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וקץ \/ תחרף",
+      "rationale": "Ebreju darbības vārdi burtiski 'pavasarot' un 'pārziemot' — par upuriem paliek putnu un zvēru barība visu gadu."
+    },
+    {
+      "kind": "elision",
+      "subject": "יעזבו",
+      "rationale": "Darbības vārds subjektu norāda bez paskaidrojuma — 'tie' attiecas uz iepriekšējā panta nocirstajiem zariem (tautu)."
+    }
+  ],
+  "translation": "Tie tiks atstāti kopā kalnu plēsīgajiem putniem un zemes lopiem; plēsīgais putns pār tiem pārsēdēs visu vasaru, un visi zemes lopi pār tiem pārsēdēs ziemu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "845e90fd0fe0e4ca67aaf26c4b5f4ee3c0f2494cc19f87e6d6ed1e5703721f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/18\/5-7.1792522184341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעזבו",
+      "gloss": "tiks atstāti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "plēsīgajiem putniem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "un lopiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "וקץ",
+      "gloss": "vasaru pārsēdēs"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār tiem"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "plēsīgais putns"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "lopi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār tiem"
+    },
+    {
+      "surface": "תחרף",
+      "gloss": "pārsēdēs ziemu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:44.343879743Z",
+  "model": "glm-5.3"
+}

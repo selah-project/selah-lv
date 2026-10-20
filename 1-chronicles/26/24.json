@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav darbības vārda; latviešu valoda prasa saikli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "valdnieks",
+      "rationale": "נגיד — 'priekšgalā stāvošais, pārvaldnieks', nav pilnīgi 'kungs'."
+    }
+  ],
+  "translation": "Un Šebuēls, Geršoma dēls, Mošes dēls, ⟨bijа⟩ valdnieks pār glabātavām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/26\/21-24.1792531506302.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "Un Šebuēls"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Geršoma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "valdnieks"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "glabātavām"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:06.303685440Z",
+  "model": "glm-5.3"
+}

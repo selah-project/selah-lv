@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום atstāts pēc skanējuma — 'miers' viens vārds zaudē veselības un labklājības nozīmi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Burtiski 'no sejas' — ebreju locījums 'dēļ, pcauses', atstāts tuvu burtam."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתם\/שלום",
+      "rationale": "Divi paralēli noliegumi — 'nav veseluma miesā \/ nav šaloma kaulos' — hiasmveida atkārtojums ar מפנī atbildes pozīcijā."
+    }
+  ],
+  "translation": "Nav veseluma manā miesā no Tavas dusmu sejas, nav šaloma manos kaulos no mana grēka sejas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a228875aeeafce0044c490ef34847079411600d65be5ec6a0c2566b2a4110b10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/4-4.1792532753557.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "veseluma"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "manā miesā"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "Tavu dusmu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloma"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "manos kaulos"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no sejas"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mana grēka"
+    }
+  ],
+  "timestamp": "2026-10-20T21:45:53.557690577Z",
+  "model": "glm-5.3"
+}

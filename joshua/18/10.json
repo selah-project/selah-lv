@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laimi",
+      "rationale": "גורל ir īstenībā oļis, ar ko meta laimi; latviskā 'laimes metšana' saglabā paražu, zaudējot akmeņa ainu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "zemes sadalīšana",
+      "rationale": "Sadalījums pēc laimes metiena un ciltīm — mērīšanas un iedalījuma darbība."
+    }
+  ],
+  "translation": "Un Jozua meta viņiem laimi Šilo, Jahves priekšā; un tur Jozua sadalīja ⟨את⟩ zemi Jisraēla dēliem pēc to iedalījumiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c493f1256becf9b47b1bac5392b48829ee90e32e90b20f353b802aba993a2c54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/18\/9-12.1792517913650.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "un meta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "laimi"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Šilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "un sadalīja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "pēc to iedalījumiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:33.651649152Z",
+  "model": "glm-5.3"
+}

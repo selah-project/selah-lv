@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; piederību izsaka piekārtais apzīmējums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nocietinātas pilsētas",
+      "rationale": "מצרות burtiski 'vaļņi\/nocietinājumi' — attēls saglabāts ar vienu vārdu."
+    }
+  ],
+  "translation": "un ⟨את⟩ Coru un ⟨את⟩ Ajalonu un ⟨את⟩ Hevronu, kas ⟨ir⟩ Jūdā un Benjamīnā, nocietinātas pilsētas",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d61eac73f0d9b36e15d62a28afb734e7e8c733e2a90a1038c8e538cb18acf4f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/11\/9-12.1792531838882.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Coru"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Coru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalonu"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jūdā"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "Benjamīnā"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "nocietinātas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:30:38.883184607Z",
+  "model": "glm-5.3"
+}

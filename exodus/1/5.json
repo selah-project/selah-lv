@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks — 'dvēsele' tikai daļēji sedz"
+    },
+    {
+      "kind": "crux",
+      "subject": "septiņdesmit",
+      "rationale": "MT saka septiņdesmit; LXX un Genevas tradīcija septiņdesmit pieci (1. Mozus 46:27 skaita atšķiras)"
+    }
+  ],
+  "translation": "Un kļuva visas dvēseles, kas izgāja no Jaakova gurniem, septiņdesmit dvēseles; un Jozefs jau bija Micraimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/1\/5-8.1792512623228.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un kļuva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "kas izgāja"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gurniem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septiņdesmit"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "un Jozefs"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraimā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:23.229496201Z",
+  "model": "glm-5.3"
+}

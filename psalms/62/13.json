@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saiklis; hesed piederība Adonai ir izteikta ar priekšvārdu ל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד viens vārds — uzticība, žēlsirdība, lojalitāte; latviski atstāts kā hesed pēc D2"
+    }
+  ],
+  "translation": "Un tev, Adonai, ⟨ir⟩ hesed, jo tu atmaksā katram vīram pēc viņa darba.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/13-13.1792527716511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "un tev"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "atmaksā"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "katram vīram"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "pēc viņa darba"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:56.511648737Z",
+  "model": "glm-5.3"
+}

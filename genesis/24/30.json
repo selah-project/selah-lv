@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 24:30",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju valodā teikumā והנה עמד nav darbījas izpildītāja; latviešu valodai vajadzīgs ⟨viņš⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "avots",
+      "rationale": "העין burtiski ir 'acs', bet no saknes עין tas nozīmē arī avotu (avots kā zemes acs)."
+    },
+    {
+      "kind": "addition",
+      "subject": "Lābans",
+      "rationale": "Darbības vārda subjekts (Lābans, no 24:29 konteksta) latviešu teikumā pievienots."
+    }
+  ],
+  "translation": "Un notika, kad Lābans ieraudzīja ⟨את⟩ deguna gredzenu un ⟨את⟩ rokassprādzes uz savas māsas rokām un izdzirdēja ⟨את⟩ Rivkas, savas māsas, vārdus, sacījot: Tā runāja man ⟨את⟩ tas vīrs, — viņš gāja pie tā vīra, un lūk, ⟨viņš⟩ stāvēja pie kamieliem pie ⟨avotas⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "558f65faa918667f037a19a8221387a1cff9572b27fe00e0d6575de8809dc867",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/24\/30-30.1792514802513.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "kad ieraudzīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deguna gredzenu"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "deguna gredzenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "rokassprādzes"
+    },
+    {
+      "surface": "הצמדים",
+      "gloss": "rokassprādzes"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rokām"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "savas māsas"
+    },
+    {
+      "surface": "וכשמעו",
+      "gloss": "un izdzirdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkas"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "savas māsas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacījot"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vīrs"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "viņš gāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tā vīra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stāvēja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamieliem"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "העין",
+      "gloss": "⟨avots⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:42.522264384Z",
+  "model": "glm-5.3"
+}

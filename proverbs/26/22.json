@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמתלהמים",
+      "rationale": "KJV 'kā brūces' pret JPS\/BSB 'kā gardumi, kumosi' — sakne nozīmē 'ieslēgties, rūgtot'; izvēlēts 'kārīgi kumosi' pēc konteksta (vārdi nonāk iekšā)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בטן",
+      "gloss": "iekšķu dziļumi vietā 'vēders' — metafora par iekšējo cilvēku."
+    }
+  ],
+  "translation": "Tenkātāja vārdi ir kā kārīgi kumosi, un tie nonāk iekšķu dziļumos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/26\/21-24.1792528842755.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "tenkātāja"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "kā kārīgi kumosi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "un tie"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nonāk"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "dziļumos"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "iekšķu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:42.756533390Z",
+  "model": "glm-5.3"
+}

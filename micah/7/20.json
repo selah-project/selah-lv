@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמת",
+      "rationale": "Literāri 'stabilitāte, uzticamība' — 'patiesība' ir šaurs ekvivalents; domāts Dieva solījuma noturīgums."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ליעקב\/לאברהם",
+      "rationale": "Hiāzs: patiesība tēvam-cīnītājam, hesed tēvam-daudzinātājam — derības struktūra no Senajām dienām."
+    }
+  ],
+  "translation": "Tu dosi patiesību Jaakovam, hesed Avrahamam, ko Tu zvērēji mūsu tēviem no senajām dienām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/7\/17-20.1792526552218.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Tu dosi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesību"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Tu zvērēji"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "mūsu tēviem"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "no dienām"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "senajām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:02:32.219987355Z",
+  "model": "glm-5.3"
+}

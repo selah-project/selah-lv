@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Divreiz pievienots saiklis, ko ebreju valoda izsaka ar infinitivu absolutu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה התרעעה \/ פור התפוררה \/ מוט התמוטטה",
+      "rationale": "Trīskārša infinitiva absoluta atkārtošanās — tas pats darbības vārds divreiz pēc kārtas; latviski atveidots ar divējādu formu (lauztā lauzta, drupās sadrupusi, šūpodamās šūpojas)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "zeme",
+      "rationale": "Zeme minēta trīsreiz — trīskārša uzskaite, kas pastiprina bojāejas pakāpi"
+    }
+  ],
+  "translation": "Lauztā lauzta ⟨ir⟩ zeme, drupās sadrupusi ⟨ir⟩ zeme, šūpodamās šūpojas zeme.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/24\/17-20.1792522291954.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Lauztā"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "lauzta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "פור",
+      "gloss": "drupās"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "sadrupusi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "šūpodamās"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "šūpojas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:31.956038516Z",
+  "model": "glm-5.3"
+}

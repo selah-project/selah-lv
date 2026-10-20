@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumā tas nepieciešams divreiz."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדשים",
+      "rationale": "Daudzskaitlis 'svēto' — tradicionāli lasa kā godābas daudzskaitli Vienam ('Svētā'); tekstā stāv daudzskaitlis."
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "Pants pasludina gudrības avotu kā slēgtu izejas punktu — bijāšana ir tās 'iesākums', kas pārsniedz pašu gudrību."
+    }
+  ],
+  "translation": "Gudrības iesākums ⟨ir⟩ Jahves bijāšana, un svēto pazīšana ⟨ir⟩ saprašana.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/9\/9-12.1792528594179.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "iesākums"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrības"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bijāšana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "un pazīšana"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svēto"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "saprašana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:34.179648611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikles; teikuma kārtis ' mana slava' prasa 'ir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאתך",
+      "rationale": "את ar priekšēdzi מ — 'no tevis' (avots) pret 'pie tevis'; izvēlēts 'no tevis' pēc lielākās tradīcijas."
+    }
+  ],
+  "translation": "No ⟨את⟩ tevis ⟨ir⟩ mana slava lielajā pulkā; savus solījumus izpildīšu to priekšā, kas viņu bīstas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/25-28.1792527221266.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "no ⟨את⟩ tevis",
+      "marks": "No ⟨את⟩ tevis"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mana slava"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "pulkā"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielajā"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "savus solījumus"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "izpildīšu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kas viņu bīstas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:41.268009280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sveiciet",
+      "rationale": "ברך burtiski nozīmē 'ceļot ceļus'; latviski dots kā sveiciena izsaukums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Viņa labpatiku",
+      "rationale": "רצון ir 'labvēlība, patika', ne tikai 'griba'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "pulki un kalpi",
+      "rationale": "Pants aicina visa radījuma daļas slavēt Jahvi"
+    }
+  ],
+  "translation": "Sveiciet Jahvi, visi Viņa pulki, Viņa kalpi, kas dara Viņa labpatiku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/21-22.1792528097683.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Sveiciet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "Viņa pulki"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "Viņa kalpi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kas dara"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Viņa labpatiku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:17.683810737Z",
+  "model": "glm-5.3"
+}

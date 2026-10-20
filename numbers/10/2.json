@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošem",
+      "rationale": "Pavēle vērsta tieši pie Moše — imperatīvs 'Izgatavo sev'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaltu darbu",
+      "rationale": "מקשה apzīmē izkaltu, ar āmuru kaltu veidojumu — viens vārds, latviski divi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מועד \/ עדה",
+      "rationale": "Sakne יעד savieno sapulci (עדה) ar norunāto laiku (מועד) — v.3 'satikšanās telts'."
+    }
+  ],
+  "translation": "Izgatavo sev divas taures no sudraba, kaltu darbu tās izgatavo ⟨את⟩ tās, un tās būs tev sapulces sasaukšanai un nometņu aiziešanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aa4ad569df740f4be5648d71f76dc95996a1da6fe226327e06765312d08b48d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/10\/2-3.1792532504966.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Izgatavo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "divas"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "taures"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kaltu darbu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "izgatavo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tās (divas taures)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "un tās būs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "sasaukšanai"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sapulces"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "un aiziešanai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nometnes"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "nometnes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:44.966722085Z",
+  "model": "glm-5.3"
+}

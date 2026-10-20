@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvība",
+      "rationale": "נפש ir elpojoša būtība, rīkle\/elpa\/dzīvības spēks — 'dvēsele' būtu pārāk platonisks"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Punkta iztrūkums: latviešu attieksmes teikumam vajadzīgs saistības darbības vārds"
+    },
+    {
+      "kind": "you",
+      "subject": "Davids",
+      "rationale": "Joabs runā tieši ar ķēniņu — asa, apsūdzoša uzruna"
+    }
+  ],
+  "translation": "Un Joabs ienāca pie ķēniņa namā un sacīja: Tu esi apkaunojis šodien ⟨את⟩ visu tavu kalpu sejas — tie, kas izglāba šodien ⟨את⟩ tavu dzīvību, un ⟨את⟩ dzīvību tavu dēlu un tavu meitu, un dzīvību tavu sievu un dzīvību tavu pielikteņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/5-8.1792520181358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un ienāca"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "esi apkaunojis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu tavu kalpu sejas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sejas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavu kalpu"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "tie, kas izglāba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu dzīvību"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavu dzīvību"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "dzīvību tavu dēlu un tavu meitu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dzīvību"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavu dēlu"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "un tavu meitu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "un dzīvību"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "tavu sievu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "un dzīvību"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "tavu pielikteņu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:21.359923302Z",
+  "model": "glm-5.3"
+}

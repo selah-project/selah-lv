@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "obadiah 1:20",
+  "book": "obadiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנענים",
+      "rationale": "Slavenais strīda punkts: 'starp kanaāniešiem' (KJV), 'kanaāniešu zemi' (BSB) vai pat 'tirgoņi' (kenaani nozīmē); izvēlēts 'pie kanaāniešiem'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ספרד",
+      "rationale": "Sefarad — vienīgā vietā Tanahā; vieta nav droši identificēta (Sardes? Hispānija?)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis 'ir', kura ebreju tekstā nav."
+    },
+    {
+      "kind": "measurement",
+      "subject": "teritoriju sadalījums",
+      "rationale": "Pants uzskaita ģeogrāfiskās robežas un iemantojamo zemu sarakstu."
+    }
+  ],
+  "translation": "Un šī karaspēka trimda — Israēla dēli, kas ⟨ir⟩ pie kanaāniešiem līdz Carefatai, — un Jerušalaimas trimda, kas Sefaradā, iemantos ⟨את⟩ dienvidu pilsētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a5f4f887ba967b26c1bd44adcde380c4937493ecf94d78ffb00ecb06cc7af6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/obadiah\/1\/17-20.1792526347097.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגלת",
+      "gloss": "Un trimda"
+    },
+    {
+      "surface": "החל",
+      "gloss": "šī karaspēka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "pie kanaāniešiem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "צרפת",
+      "gloss": "Carefatai"
+    },
+    {
+      "surface": "וגלת",
+      "gloss": "un trimda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בספרד",
+      "gloss": "Sefaradā"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "iemantos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dienvidu pilsētas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "dienvidu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:07.099273636Z",
+  "model": "glm-5.3"
+}

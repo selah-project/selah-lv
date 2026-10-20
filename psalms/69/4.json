@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rīkle",
+      "rationale": "גרון burtiski 'rikle — no rīšanas noraupināta'; tajā pašā ķermenī kā נפש panta 2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרון\/נפש",
+      "rationale": "Ūdeņi panto 2 sniedzas līdz נפש, sauciens panto 4 izkaltē גרון — pretstats: pārplūde un slāpes vienā elpu."
+    }
+  ],
+  "translation": "Es esmu noguris no sava sauciena, mana rīkle ir izkaltusi, manas acis nodilst, gaidot uz manu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/69\/1-4.1792527830933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Es esmu noguris"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "no sava sauciena"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ir izkaltusi"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mana rīkle"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nodiļ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "manas acis"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "gaidot"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "uz manu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:50.934364709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 8:31",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blēdulības sieva",
+      "rationale": "פילגש ir īpašs statuss — otršķirīga sieva; latviešu tradīcijā 'blēdulības sieva' no 17. gs. Bībeles"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩ · ⟨viņa⟩",
+      "rationale": "ebreju tekstā nav darbības vārda 'bija' un vietniekvārda 'viņa' šajās vietās; היא ir uzsvars ('viņa pati')"
+    }
+  ],
+  "translation": "Un viņa blēdulības sieva, kas ⟨bija⟩ Šķemā, dzemdēja viņam arī ⟨viņa⟩ dēlu, un viņš lika ⟨את⟩ viņa vārdu Avimelehs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0139d5c9cc4c23b57bf3fc392488cc79c3e758a7fd1b1bd645c5aa3def62af55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/8\/29-32.1792518349487.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Un viņa blēdulības sieva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Šķemā"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un viņš lika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa vārdu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "viņa vārdu"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:45:49.488845411Z",
+  "model": "glm-5.3"
+}

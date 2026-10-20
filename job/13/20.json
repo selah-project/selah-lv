@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך שתים אל תעש",
+      "rationale": "Burtiski 'tikai divas — nedarīt ar mani' (KJV, ASV: 'nedari man divas lietas') pret 'dari man tikai divas lietas' (YL T pamatojums: אל apzīmē lūgumu, ne aizliegumu)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניך",
+      "gloss": "'No Tava vaiga' — burtisks 'no Tavām sejām'; panīm daudzskaitlis, latviski viens vārds 'vaigs'."
+    },
+    {
+      "kind": "you",
+      "subject": "pret Dievu",
+      "rationale": "Jovs runā tieši ar Elohim — lūgums izrādīt divas žēlastības."
+    }
+  ],
+  "translation": "Tikai divas lietas dariet ⟨tās⟩ ar mani ⟨būtu⟩ nerunājot, lai es no Tavas vaiga neslēptos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/13\/17-20.1792529126797.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "divas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nerunājot"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "dariet"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "no Tavas vaiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "slēptos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:26.798712595Z",
+  "model": "glm-5.3"
+}

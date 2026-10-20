@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש nav 'dvēsele' viena — elpojoša būtība, dzīvības spēks; saglabāts kā nefesh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vārošie",
+      "rationale": "הזידונים no זיד 'vārīties\/uzmutēt' — tulkojumi saka 'lepnie'; turēts pie burbuļojošā ūdens attēla."
+    },
+    {
+      "kind": "addition",
+      "subject": "būtu",
+      "rationale": "Iespējas izteiksme, ko ebreju tekstā nes labsirdīgi nenosauc (turpinājums 4. pantā)."
+    }
+  ],
+  "translation": "Tad pār mūsu nefesh būtu pārgājuši ūdeņi, vārošie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/124\/5-8.1792528386919.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "būtu pārgājuši"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mūsu nefesh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "vārošie"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:06.919535729Z",
+  "model": "glm-5.3"
+}

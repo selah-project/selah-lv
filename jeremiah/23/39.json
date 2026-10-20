@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונשיתי \/ נשא",
+      "rationale": "Gandrīz vienādas saknes nšh un nšs — skan gandrīz vienādi; latviski zūd šī skaņu spēle."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשיתי",
+      "rationale": "No נשה: 'pilnīgi aizņemt\/aizmirst' (KJV) vs 'pacelt prom' (JPS 'tear out') — izvēlēta noņemšanas nozīme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaiga",
+      "rationale": "מעל פני burtiski 'no sejas virsas' — 'no savas vaiga' kā ebreju locījums par dievišķo klātbūtni."
+    }
+  ],
+  "translation": "tāpēc, lūk, es jūs pilnīgi aiznesīšu un atmetīšu jūs ⟨את⟩ un ⟨את⟩ pilsētu, ko es devu jums un jūsu tēviem, no savas vaiga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b1953ae5e5b461c25149f3fb84f090c833c3186fc98f33f5586d2bb99316c304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/23\/37-40.1792523806314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lūk, es"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "un es aiznesīšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pilnīgi prom"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "un atmetīšu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "pilsētu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "es devu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "un jūsu tēviem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "פני",
+      "gloss": "savas vaiga"
+    }
+  ],
+  "timestamp": "2026-10-20T19:16:46.315859240Z",
+  "model": "glm-5.3"
+}

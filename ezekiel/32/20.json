@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב",
+      "rationale": "Zobens minēts divreiz vienā pantā — caurdurto zobens un dots zobens — atkārtojums pastiprina soda neatgroāmo"
+    },
+    {
+      "kind": "crux",
+      "subject": "משכו אותה",
+      "rationale": "'Velciet viņu' — daži lasa 'velciet to (bēru gaitā)' par Micraimu, citi par zobenu; saturiski drīzāk Micraima"
+    }
+  ],
+  "translation": "Zobena caurdurto vidū viņi krīt; viņa ir dota zobenam — velciet ⟨את⟩ viņu un visu viņas pūli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/32\/17-20.1792525489789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "caurdurto"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "viņi krīt"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ir dota"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "velciet"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "viņu ⟨את⟩",
+      "marks": "viņa un viss viņas pūlis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "viņas pūli"
+    }
+  ],
+  "timestamp": "2026-10-20T19:44:49.790442782Z",
+  "model": "glm-5.3"
+}

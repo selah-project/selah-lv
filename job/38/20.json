@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 38:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תקחנו",
+      "rationale": "'Tu ņemtu to' — לקח nozīmē 'ņemt'; 'aizvestu' ir kontekstuāls attēlojums gaismas\/tumsības aizvešanai"
+    },
+    {
+      "kind": "mystery",
+      "subject": "turpinājums 38:19",
+      "rationale": "Pants pabeidz noslēpuma jautājumu — neviens nezina gaismas ceļu uz tās māju"
+    }
+  ],
+  "translation": "ka tu to aizvestu līdz tās robežai, un ka tu izprastu ceļus uz tās māju?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/17-20.1792529586200.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "tu to aizvestu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "tās robežai"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "un ka"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "tu izprastu"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ceļus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uz tās māju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:06.201121622Z",
+  "model": "glm-5.3"
+}

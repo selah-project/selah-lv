@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Dzirdiet, debesis",
+      "rationale": "Pants sākas ar pavēli klausīties — tiesas aicinājums debesis un zemi par lieciniekiem."
+    },
+    {
+      "kind": "you",
+      "subject": "debesis un zeme",
+      "rationale": "Tieša uzruna debijām un zemei kā soda lietas lieciniekām."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשעו",
+      "rationale": "Darbības vārds nozīmē 'atrupt no likumīgas varas' — valstisks dumpis, ne vienkārši 'grēkot'."
+    }
+  ],
+  "translation": "Dzirdiet, debesis, un ieklausies, zeme, jo Jahve runāja: dēlus esmu audzinājis un paaugstinājis, bet viņi sacēlās pret mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/1\/1-4.1792521866327.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dzirdiet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "un ieklausies"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "esmu audzinājis"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "un paaugstinājis"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bet viņi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "sacēlās"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pret mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:26.328292554Z",
+  "model": "glm-5.3"
+}

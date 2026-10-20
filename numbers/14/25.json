@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 14:25",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Niedru jūra",
+      "rationale": "ים סוף burtiski 'niedru jūra' (סוף = niedre), nevis tradicionālais 'Sārūstā jūra'"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jisraēlu",
+      "rationale": "pavēles 'pagriezieties un dodieties' vērstas uz tautu tuksnesī"
+    }
+  ],
+  "translation": "Un amalekietis un kenaanietis dzīvo ielejā — rīt pagriezieties un dodieties jums tuksnesī, ceļā uz Niedru jūru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "63853ad889d58cd1b006407b2c0d3440c1f8e403f268963f91ac34da895fd698",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/14\/25-28.1792515741362.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמלקי",
+      "gloss": "Un amalekietis"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "un kenaanietis"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dzīvo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rīt"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pagriezieties"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "un dodieties"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Niedru"
+    }
+  ],
+  "timestamp": "2026-10-20T17:02:21.363077618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Ebreju idiom 'ienācis dienās' — iedzīvots dienu pilnībā; tulkots burtiski."
+    },
+    {
+      "kind": "addition",
+      "subject": "bijā",
+      "rationale": "Latviešu valodai vajadzīgas saikles 'bija', kur ebreju parata stāvokļa teikumos tās trūkst."
+    }
+  ],
+  "translation": "Un Avrahams bija sirmā vecumā, bija ienācis dienās, un Jahve bija svētījis ⟨את⟩ Avrahamu visā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/24\/1-4.1792511970318.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Un Avrahams"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bija sirmā vecumā"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bija ienācis"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "un Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bija svētījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    }
+  ],
+  "timestamp": "2026-10-20T15:59:30.318818288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 2:4",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav saikles 'un labs vārds ķēniņa acīs' — latviešu valodai vajag 'bija'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיטב\/וייטב",
+      "rationale": "Tā pati sakne 'labs' divreiz — 'kas ķēniņam patīk' un 'vārds patika' — atbalss, kas latviski saglabāta vārdā 'labs'"
+    }
+  ],
+  "translation": "Un jaunava, kas laba ķēniņa acīs, lai ķēniskojas Vašti vietā. Un šis vārds bija labs ķēniņa acīs, un viņš tā darīja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bdd3d203ce627ff1a40a7847651526a09c59a571ec214639253a16270c51805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/1-4.1792530078669.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "un jaunava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תיטב",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "lai ķēniskojas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "un bija labs"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "šis vārds"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "un viņš darīja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:18.670843895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "את ... את ... אתנו",
+      "rationale": "Divi את priekšrocības marķieri un prievārds אתנו 'ar mums' — vienādi skan, veidojot vārdu spēli, kas latviski daļēji izzūd."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esam⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda 'būt'; latviešu valodai vajadzīgs saiklis."
+    }
+  ],
+  "translation": "Ne ar ⟨את⟩ saviem tēviem Jahve noslēdza ⟨את⟩ šo derību, bet ar mums — ⟨את⟩ mēs ⟨esam⟩ šeit, šodien, visi mēs dzīvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/5\/1-4.1792516695165.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ar⟩",
+      "marks": "saviem tēviem"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "saviem tēviem"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "noslēdza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo derību"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "šo derību"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ar mums"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "פה",
+      "gloss": "šeit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "visi mēs"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:18:15.167214772Z",
+  "model": "glm-5.3"
+}

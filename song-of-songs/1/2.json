@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mīlestība",
+      "rationale": "דוד daudzskaitlī nozīmē mīlestību, mīļoto un mīlas dāvanas; viens ebreju vārds vairākām nokrāsām."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Lai viņš skūpstā",
+      "rationale": "III pers. formu var lasīt arī kā lūgumu 'skūpsti mani' (II pers.), atkarībā no patskaņu lasījuma."
+    }
+  ],
+  "translation": "Lai viņš mani skūpstā ar skūpstiem no savas mutes, jo tava mīlestība ⟨ir⟩ labāka par vīnu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/1\/1-4.1792529631747.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "skūpstā mani"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ar skūpstiem"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "no savas mutes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "labāka"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tava mīlestība"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "par vīnu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:51.747913255Z",
+  "model": "glm-5.3"
+}

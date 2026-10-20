@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izgrieza",
+      "rationale": "פתח burtiski 'atvēra plašu'; šeit — izgreba reljefu sienās"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Latviešu instrumentālis prasa prievārdu 'ar' ebreju celma vieta"
+    }
+  ],
+  "translation": "Un viņš apklāja ⟨את⟩ namu — spāres, sliekšņus, tā sienas un tā durvis — ar zeltu, un izgrieza kerubus uz ⟨sienām⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/3\/5-8.1792531740044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "apklāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "spāres"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "sliekšņus"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "tā sienas"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "tā durvis"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ar zeltu"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "izgrieza"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubus"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "sienām"
+    }
+  ],
+  "timestamp": "2026-10-20T21:29:00.045523972Z",
+  "model": "glm-5.3"
+}

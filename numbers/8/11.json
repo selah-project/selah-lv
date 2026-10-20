@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "šis את ir prievārds 'no', ne tiešais objekts; saglabāts kā 'no ⟨את⟩'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תנופה",
+      "rationale": "'pacēluma upuri' ( waving-offering) pret 'svētīšanas kustība' — džests, ko Aharons dara ar levītiem kā ar upurdāvanu."
+    }
+  ],
+  "translation": "Un Aharons pacels ⟨את⟩ levītus par pacēluma upuri Jahves priekšā, no ⟨את⟩ Jisraēla dēliem, un tie būs kalpot Jahves kalpošanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4a97a43cdd00fe534410a6ebd3d64555d6e2ad71b243f07290e3eb9d1ee9b105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/8\/9-12.1792515618338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Un ... pacels"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levītus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levītus"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "par pacēluma upuri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "un tie būs"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kalpot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalpošanu"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "kalpošanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T17:00:18.340554299Z",
+  "model": "glm-5.3"
+}

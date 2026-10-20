@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaunie lauvas",
+      "rationale": "הכפירים tiek lasīts kā 'jaunie lauvas' (no כפר seguma izcelšanās), lai gan vārda pamatnozīme nav viennozīmīga."
+    },
+    {
+      "kind": "addition",
+      "subject": "sava",
+      "rationale": "Possessīva vietniekvārds pie 'ēdienu', ebreju valodā tikai galotne -ām."
+    }
+  ],
+  "translation": "Jaunie lauvas rūc pēc laupījuma un meklē no El sava ēdienu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/21-24.1792528108487.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "jaunie lauvas"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "rūc"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "pēc laupījuma"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "un meklē"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "no El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "sava ēdienu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:28.488323486Z",
+  "model": "glm-5.3"
+}

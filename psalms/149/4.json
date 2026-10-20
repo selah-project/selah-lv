@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pazemīgos",
+      "rationale": "ענוים nozīmē gan pazemīgos, gan nabadzīgos\/apspiestos — tulkotāji dalās starp 'pazemīgajiem' un 'nabagajiem'"
+    },
+    {
+      "kind": "crux",
+      "subject": "glābšana",
+      "rationale": "ישועה šeit var būt 'glābšana', 'uzvara' vai 'labklājība' — konteksts nenozīmē vienu"
+    }
+  ],
+  "translation": "Jo Jahve tīk savā tautā, viņš izdaiļo pazemīgos ar glābšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/149\/1-4.1792528525315.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "tīk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "savā tautā"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "izdaiļo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pazemīgos"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ar glābšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:25.316545425Z",
+  "model": "glm-5.3"
+}

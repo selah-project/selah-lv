@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 1:12",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ļaudīm",
+      "rationale": "בני אדם — 'Ādama dēli' = cilvēki; tulkots kā 'ļaudis', burtiskais tēls zūd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוביש\/יבשו",
+      "rationale": "Viena sakne jvbš gan 'kauties', gan 'kalt': kokiem izkalt, priekam izkalt — ebreju dubultnozīme latviski sasaistāma vien vārdā 'izkalt'"
+    },
+    {
+      "kind": "elision",
+      "subject": "תפוח",
+      "gloss": "tappuaḥ — iespējams aprikoze vai citrons, nevis ābele; skanējums paturēts"
+    }
+  ],
+  "translation": "Vīna kokam izkaltusi, un vīģes koks novītis; granāts, arī palma un ābele — visi lauka koki izkaluši, jo prieks izkaltis no ļaudīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/1\/9-12.1792526066826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגפן",
+      "gloss": "vīna kokam"
+    },
+    {
+      "surface": "הובישה",
+      "gloss": "izkaltusi"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "un vīģes koks"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "novītis"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "granāts"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "palma"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "un ābele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "koki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "izkaluši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "izkaltis"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "prieks"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ļaudīm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ἀدامa"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:26.828206300Z",
+  "model": "glm-5.3"
+}

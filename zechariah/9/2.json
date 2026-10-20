@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kaut gan gudras",
+      "rationale": "כי חכמה מאד: 'jo ļoti gudras' (ASV) pret ironisku 'kaut gan ļoti gudras' (KJV\/BSB) — konteksts (soda pravietojums) liec ironiju."
+    },
+    {
+      "kind": "addition",
+      "subject": "tās ir",
+      "rationale": "Ebrejs teikumam nav subjekta darbības vārda; latviski jāpievieno ⟨tās⟩ ⟨ir⟩."
+    }
+  ],
+  "translation": "Un arī Hamata tai tiks pierobežota; Cira un Cidona — kaut gan ⟨tās⟩ ⟨ir⟩ ļoti gudras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/1-4.1792526819642.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Un arī"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "tiks pierobežota"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cira"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "un Cidona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaut gan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudras"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:59.644165414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Pants tieši vēršas pie Jahves ar lūgumu 'atceries mani'."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדני",
+      "rationale": "'Visit\/visitēt' ar abpusēju nozīmi — draudzīga apciemošana vai uzskaitīšana; šeit pestīšanas konteksts liek draudzīgu nozīmi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨savai⟩",
+      "rationale": "Piedēklis 'ך' latviešu valodā atsevišķā vietā prasa īpašības vārdu 'savai'."
+    }
+  ],
+  "translation": "Atceries mani, Jahve, kad tu izrādi labvēlību ⟨savai⟩ tautai, apciemo mani ar savu pestīšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/1-4.1792528192094.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Atceries mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ar labvēlību"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "savai tautai"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "apciemo mani"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ar savu pestīšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:52.095505952Z",
+  "model": "glm-5.3"
+}

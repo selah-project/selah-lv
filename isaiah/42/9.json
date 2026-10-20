@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pirms 'atnākušas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tās",
+      "rationale": "Ivritā תצמחנה priekšmets ir izlaists; latviešu valodai vajadzīgs vietasvārds"
+    },
+    {
+      "kind": "mystery",
+      "subject": "jaunas lietas",
+      "rationale": "Teksts apgalvo pirms-laika pasludināšanu — apzināti atklāj nākotni pirms tās 'izaug'"
+    }
+  ],
+  "translation": "Pirmās lietas — lūk, tās ⟨ir⟩ atnākušas, un jaunas lietas es pasludinu; pirms tās izdīgst, es ⟨את⟩ jums tās daru dzirdamas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/42\/9-12.1792522656409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "pirmās lietas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atnākušas"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "jaunas lietas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "pasludinu"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "izdīgst"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "daru dzirdamas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:36.409966839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "'Pacelt vaigu' — ebreju idiom par personīgo pieķeršanos; atstāts burtiski, jo aina redzama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכנה",
+      "rationale": "כנה nozīmē 'dot pielikumvārdu, slavēt'; pieglaimīgi tituli — tuvāk burtiskajam nekā viens vārds 'pieglaimot'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש \/ אדם",
+      "rationale": "Divi vārdi 'cilvēks' paralēlismā — latviešu abi vienādi, ebreju nianse zūd."
+    }
+  ],
+  "translation": "Lai es, lūdzu, nepaceļu ⟨את⟩ vaigu nevienam cilvēkam un cilvēkam nedošu pieglaimīgus titulus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/32\/21-22.1792529422955.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lai ne-"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "paceļu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaigu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedošu"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "pieglaimīgus titulus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:22.956351206Z",
+  "model": "glm-5.3"
+}

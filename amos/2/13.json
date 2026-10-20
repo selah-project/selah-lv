@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav izteikta saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעיק",
+      "rationale": "םוּק parādās tikai šeit un 2:14 kontekstā: 'spiest\/čīkstēt zem smaguma' — JPS 'čīkstēt', KJV 'spiest'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עמיר",
+      "rationale": "'kūlītis, labības sija' — reti vārds, saglabāts burtiski"
+    }
+  ],
+  "translation": "Lūk, es smagi spiežu zem jums, kā spiež vezums, kas pilns ⟨ir⟩ ar kūlīšiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/2\/13-16.1792526181028.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "smagi spiežu"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "zem jums"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "spiež"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vezums"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "kas pilns"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "ar kūlīšiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:56:21.029337258Z",
+  "model": "glm-5.3"
+}

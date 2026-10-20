@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "priekšlocījums",
+      "rationale": "Ebreju ב- ietilpst vietvārda tulkojumā 'Beer-Ševa'; atsevišķs latviešu locījums to aizstāj."
+    }
+  ],
+  "translation": "Un tie dzīvoja Beer-Ševa, Molada un Hacar-Šualā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a531f04bcba08ecae7fa274290c57b28c13506c04e4f3e41cb0e25c33a75000f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/4\/25-28.1792531055553.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Un tie dzīvoja"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "un Molada"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "un Hacar-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Šualā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:35.554340382Z",
+  "model": "glm-5.3"
+}

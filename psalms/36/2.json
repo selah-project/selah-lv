@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Nozieguma izteikums bezdievim",
+      "rationale": "נאם פשע לרשע: 'nozieguma orākuls bezdievim' (noziegums runā), daži lasa 'par bezdieva noziegumu' — pārvietoti panti maina runātāju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bailes",
+      "rationale": "פחד ir pēkšņas šausbas, nevis pastāvīgas dievbijības bailes."
+    }
+  ],
+  "translation": "Nozieguma izteikums bezdievim manas sirds vidū: nav baiļu no Elohima viņa acu priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/36\/1-4.1792527402016.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "izteikums"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "nozieguma"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bezdievim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "manas sirds"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "baiļu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "viņa acu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:42.016701579Z",
+  "model": "glm-5.3"
+}

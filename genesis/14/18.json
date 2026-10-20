@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valoda to pieprasa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכי צדק",
+      "rationale": "Vārds nozīmē 'mans ķēniņš ⟨ir⟩ cedek\/tiaisnība'; latviešu transliterācijā vārda spēle zūd."
+    },
+    {
+      "kind": "alternative",
+      "subject": "שלם",
+      "rationale": "Šalema bieži saprasta kā agrīns Jerušalaimas nosaukums, bet teksts to nesaka."
+    }
+  ],
+  "translation": "Un Malki-Cedeks, Šalemas ķēniņš, iznesa maizi un vīnu, un viņš ⟨ir⟩ El Elijona priesteris.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/14\/17-20.1792511697645.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "Un Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Cedeks"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šalemas"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "iznesa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "un vīnu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijona"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:57.646464958Z",
+  "model": "glm-5.3"
+}

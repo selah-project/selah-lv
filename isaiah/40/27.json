@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 40:27",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מיהוה priekšā",
+      "rationale": "Hebreju מן — 'no Jahves'; latviešu locījums prasa 'priekšā'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiesas spriedums",
+      "rationale": "משפטי — 'mana tiesa\/manas tiesības'; šeit taisnuma prasība, ko Dievs it kā ignorē"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakov\/Jisraēl",
+      "rationale": "Tieša uzruna tautai ar abiem vārdiem"
+    }
+  ],
+  "translation": "Kāpēc tu saki, Jaakov, un runā, Jisraēl: Slēpta mana ceļa Jahve priekšā, un mans tiesas spriedums no Elohim manos vārdos paiet garām?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ed5a8a75c1138f24818ae728454db3d6ffed338b7444420449e6176c4be466c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/40\/25-28.1792522652656.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu saki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "un runā"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēl"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "Slēpta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mana ceļa"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve priekšā"
+    },
+    {
+      "surface": "ומאלהי",
+      "gloss": "un no Elohim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mans tiesas spriedums"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "paiet garām"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:32.657283400Z",
+  "model": "glm-5.3"
+}

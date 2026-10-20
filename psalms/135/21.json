@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kas⟩",
+      "rationale": "Latviešu valodai vajadzīgs relatīvais vietniekvārds; ebreju tekstā tas nav"
+    },
+    {
+      "kind": "crux",
+      "subject": "מציון",
+      "rationale": "'no Cionas' (svētības avots) pret 'Cionā' — svētība iziet no Cionas, nevis notiek tur"
+    },
+    {
+      "kind": "you",
+      "subject": "Slaviniet Jahu",
+      "rationale": "Pieaicinājums pielūdzējiem — haleluja kā pavēle"
+    }
+  ],
+  "translation": "Svētīts lai ir Jahve no Cionas, ⟨kas⟩ mājo Jerušalaimā. Slaviniet ⟨את⟩ Jahu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/135\/21-21.1792528351963.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "no Cionas"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mājo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Slaviniet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:31.963550569Z",
+  "model": "glm-5.3"
+}

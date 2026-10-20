@@ -1,0 +1,186 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 20:13",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכתה",
+      "rationale": "Reti vārds — 'dārgumi' vai 'smaržvielas'; tulkotāji svārstās starp 'dārgumu nams' un 'smaržvielu nams'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית כליו",
+      "rationale": "'Trauku nams' — tradīcija lasa 'ieroču nams' (Kaldejā מְלֶאכֶת), bet burtiski 'visi viņa trauki\/piederumi'."
+    },
+    {
+      "kind": "you",
+      "subject": "Hizkijahs",
+      "rationale": "Vēstījums par Hizkijaha rīcību attiecībā pret Babilonas sūtņiem."
+    }
+  ],
+  "translation": "Un Hizkijahs viņus uzklausīja un parādīja viņiem ⟨את⟩ visu sava dārgumu namu: ⟨את⟩ sudrabu un ⟨את⟩ zeltu, un ⟨את⟩ smaržvielas, un ⟨את⟩ labo eļļu, un ⟨את⟩ savu trauku namu, un ⟨את⟩ visu, kas atradās viņa glabātavās; nebija lietas, ko Hizkijahs viņiem nebūtu parādījis savā namā un visā savā valdījumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/20\/13-16.1792521689638.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uzklausīja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahs"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "parādīja viņiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu dārgumu namu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "dārgumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "zeltu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "smaržvielas"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "smaržvielas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "labo eļļu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "eļļu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "labo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "trauku namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "savu trauku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "visu, kas atradās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "atradās"
+    },
+    {
+      "surface": "באוצרתיו",
+      "gloss": "viņa glabātavās"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "parādīja viņiem"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahs"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un visā"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "savā valdījumā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:41:29.638841974Z",
+  "model": "glm-5.3"
+}

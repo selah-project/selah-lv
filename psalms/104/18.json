@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "damans",
+      "rationale": "שפן nav trusis, kā daudzās tradīcijās, bet kalnu zaķis — damans"
+    },
+    {
+      "kind": "measurement",
+      "subject": "daba",
+      "rationale": "Pants uzskaita dzīvnieku dzīvotnes pēc augstuma: kalni un klintis"
+    }
+  ],
+  "translation": "Augstie kalni āžiem; klintis patvērumu damaniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/17-20.1792528110781.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "kalni"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "augstie"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "āžiem"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "klintis"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "patvērums"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "damaniem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:30.782338427Z",
+  "model": "glm-5.3"
+}

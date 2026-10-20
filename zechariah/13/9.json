@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 13:9",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'Tas ir Mana tauta' — pievienots latviešu valodas copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יקרא בשמי",
+      "rationale": "Burtiski 'sauks Manā vārdā' — 'sauc Manus vārdā' saglabā tuvāku formu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trešā daļa",
+      "rationale": "Panta skaitļošana: trešā daļa tiek skaitīta un mērīta kā sudrabs un zelts."
+    }
+  ],
+  "translation": "Un Es vedīšu ⟨את⟩ trešo daļu ugunī, un Es tos kausēšu, kā kausē ⟨את⟩ sudrabu, un Es tos pārbaudīšu, kā pārbauda ⟨את⟩ zeltu. Tas sauks Manus vārdā, un Es atbildēšu ⟨את⟩ viņam; Es teikšu: Tas ir Mana tauta, un tas teiks: Jahve ir mans Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/13\/9-9.1792526872508.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Un Es vedīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trešo daļu"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "trešo daļu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "וצרפתים",
+      "gloss": "un Es tos kausēšu"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "kā kausē"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "un Es tos pārbaudīšu"
+    },
+    {
+      "surface": "כבחן",
+      "gloss": "kā pārbauda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeltu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Tas"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sauks"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Manus vārdā"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un Es"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "atbildēšu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņam",
+      "marks": "viņam"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Es teikšu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mana tauta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Tas ir"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "teiks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:07:52.509016646Z",
+  "model": "glm-5.3"
+}

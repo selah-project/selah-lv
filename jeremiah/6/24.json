@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "Genitīva sakars 'tās vēsts' latviešu valodā prasa piederības vietniekvārdu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמענו\/שמעו",
+      "rationale": "Atkārtota sakne šāma‘ — 'dzirdējām' un 'ziņa' no vienas saknes; latviešu tulkojumā šī atbalss izzūd."
+    }
+  ],
+  "translation": "Dzirdējām ⟨את⟩ viņa vēsti; atslāba mūsu rokas; bēda satvēra mūs, sāpes kā dzemdētājai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e04aebcc356776479d08399c6aafc1d8c60a1f973df09cb07ba9077930984eeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/6\/21-24.1792523317634.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Dzirdējām"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa vēsti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vēsti"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "atslāba"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mūsu rokas"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bēda"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "satvēra mūs"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sāpes"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kā dzemdētājai"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:37.635791770Z",
+  "model": "glm-5.3"
+}

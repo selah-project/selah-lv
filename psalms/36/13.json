@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אָוֶן",
+      "rationale": "אָוֶן burtiski ir 'niezība\/tukšums'; 'ļaunums' ir viena no tā nozīmēm"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst kopulas; latviešu valodai tā vajadzīga (daļēji iekavās netiek rakstīta, jo darbības vārds 'krist' nes nozīmi)"
+    }
+  ],
+  "translation": "Tur ir krituši tie, kas dara ļaunu, tie ir nogāzti un nespēs celties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/36\/13-13.1792527353376.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "ir krituši"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "tie, kas dara"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "nogāzti"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "un nespēs"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "nespēs"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "celties"
+    }
+  ],
+  "timestamp": "2026-10-20T20:15:53.376783843Z",
+  "model": "glm-5.3"
+}

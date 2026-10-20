@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Otrais הוא atkārto priekšmetu bez darbības vārda; latviski vajag ⟨ir⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Amacjam saka Amosam",
+      "rationale": "Amacijas aizliegums Amosam Beith-Elā"
+    }
+  ],
+  "translation": "Bet Beith-Elā vairs nepiepildi pravietojumu, jo tas ir ķēniņa svētums un ķēniņvalsts nams ⟨tas ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/amos\/7\/13-16.1792526303018.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Bet Beith-Elā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beith-El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "vairs nepiepildi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "pravietojumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svētums"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un nams"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ķēniņvalsts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ⟨ir⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T19:58:23.019044533Z",
+  "model": "glm-5.3"
+}

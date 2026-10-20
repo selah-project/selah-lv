@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda 'bija'; latviešu valodai nepieciešams saiklis."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רצפים",
+      "rationale": "'Karstie akmeņi\/ogles' — sarežģīts rets vārds; daudzi tulkojumi saka 'ogles', burtiski 'izdedžu akmeņi'."
+    }
+  ],
+  "translation": "Un viņš paskatījās, un lūk, pie viņa galvguļa ⟨bija⟩ cepums uz karstiem akmeņiem un ūdens trauks; un viņš paēda un padzēra, un griezās atpakaļ un nogūlās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/19\/5-8.1792520971754.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "un viņš paskatījās"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "pie viņa galvguļa"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "cepums"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "uz karstiem akmeņiem"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "un trauks"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "un viņš paēda"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "un padzēra"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un griezās atpakaļ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "un nogūlās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:29:31.755654203Z",
+  "model": "glm-5.3"
+}

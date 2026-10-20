@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pāri visam Tavam vārdam Tavu teikumu",
+      "rationale": "ebreju vārdu kārtība neviena skaidra: KJV 'Tavu vārdu virs visa Tava vārda', Geneva 'Tavu Vārdu virs visa ar Tavu vārdu'; es turu burtu kārtību"
+    },
+    {
+      "kind": "substitution",
+      "subject": "patiesība",
+      "rationale": "אמת ir 'stabilitāte, uzticamība', ne tikai patiesība"
+    }
+  ],
+  "translation": "Noliekšos uz Tava svētā tempļa pusi un pateikšos ⟨את⟩ Tavam vārdam par Tavu hesed un par Tavu patiesību, jo Tu esi darījis lielu pāri visam Tavam vārdam Tavu teikumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/138\/1-4.1792528473742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Noliekšos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempļa"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Tava svētā"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "un pateikšos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavam vārdam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tavam vārdam"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Tavu hesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un par"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Tavu patiesību"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "esi darījis lielu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tavam vārdam"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Tavu teikumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:33.743078285Z",
+  "model": "glm-5.3"
+}

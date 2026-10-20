@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצב מלך",
+      "rationale": "'Iecelts [pārvaldnieks] [ir] ķēniņš' — tulki: 'pārvaldnieks bija ķēniņš' pret 'viņš iecēla ķēniņu' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨iecelts⟩ ⟨stāvēja kā⟩",
+      "rationale": "נצב — pieņemamais darāmās kārtas piedalījils 'stāvošais\/ieceltais'; latviski pievienoti vārdi skaidrībai."
+    }
+  ],
+  "translation": "Un ķēniņa Edomā nebija; ⟨iecelts⟩ pārvaldnieks ⟨stāvēja kā⟩ ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "571090c7f3045816ff85fc24c4d338719eca3e7bc704a8b102c1acf557d6cff3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/45-48.1792521085034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "un ķēniņa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomā"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨iecelts⟩ ⟨stāvēja kā⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:25.035407047Z",
+  "model": "glm-5.3"
+}

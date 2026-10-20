@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Vai⟩",
+      "rationale": "Ebreju valodā jautājuma daļiņa nav; latviešu valodai tā vajadzīga jautājumam."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרגיז \/ מרעיש",
+      "rationale": "Divi līdzīgi drebēšanas darbības vārdi paralelismā — satricināja\/nodrebēja."
+    },
+    {
+      "kind": "elision",
+      "subject": "ישגיחו",
+      "gloss": "šāgaḥ nozīmē 'ieurbj skatienu, blenj asi' — parasti vāji tulkots kā vienkārši 'skatās'."
+    }
+  ],
+  "translation": "Tie, kas tevi redz, tev blenj asi, tev par tevi domā: ⟨Vai⟩ šis ir tas vīrs, kas satricināja ⟨את⟩ zemi, kas nodrebēja ķēniņvalstis?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37ec605289a8b576560cb875bf41d65805458cd56b6071e901f7939d87225f2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/16-16.1792532653393.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "tie, kas tevi redz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "blenj asi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "par tevi domā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vīrs"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "satricināja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nodrebēja"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ķēniņvalstis"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:13.394126705Z",
+  "model": "glm-5.3"
+}

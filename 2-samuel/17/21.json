@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 17:21",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "vayehi",
+      "rationale": "ויהי uzsvara daļiņa atstāta kā 'Un notika', lai saglabātu ebreju vārda formu."
+    },
+    {
+      "kind": "you",
+      "subject": "Davids",
+      "rationale": "Ahimaazs un Jonatāns tieši uzrunā Davidu: 'Celieties un pārejiet' — daudzskaitļa imperatīvs."
+    }
+  ],
+  "translation": "Un notika, kad viņi bija aizgājuši, ka viņi uzkāpa no ⟨את⟩ akas un gāja un paziņoja ķēniņam Davidam, un sacīja Davidam: Celieties un pārejiet ātri ⟨את⟩ ūdeņus, jo tā ir padomājis Ahitofels pret jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd78dd941aee8e9b18007a0e4478097a51e90b12a7da3c9da8d90259ae0bff87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/17\/21-22.1792532641267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "לכתם",
+      "gloss": "viņu aiziešanas"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "uzkāpa"
+    },
+    {
+      "surface": "מהבאר",
+      "gloss": "no akas"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "un paziņoja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Celieties"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "un pārejiet"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ūdeņus"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ir padomājis"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pret jums"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofels"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:01.267617160Z",
+  "model": "glm-5.3"
+}

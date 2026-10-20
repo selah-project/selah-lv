@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 10:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esat",
+      "rationale": "Ebreju valoda izlaiž saikli 'ja jūs mani esat'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septiņdesmit vīri",
+      "rationale": "Ķēniņa dēlu skaits precīzi norādīts"
+    },
+    {
+      "kind": "crux",
+      "subject": "את גדלי העיר",
+      "rationale": "Šeit את ir prievārds 'ar' (līdzās), nevis tiešā objekta marķieris ⟨את⟩"
+    }
+  ],
+  "translation": "Un viņš uzrakstīja viņiem vēstuli otro reizi, sacīdams: Ja jūs ⟨esat⟩ mani un manai balsij klausāt, ņemiet ⟨את⟩ galvas no vīriem — jūsu kunga dēliem — un nāciet pie manis šai pašā laikā rīt Jizreēlā. Un ķēniņa dēli, septiņdesmit vīri, ⟨bija⟩ pie pilsētas ⟨את⟩ lielajiem, kas ⟨את⟩ viņus audzināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be1a8a770bff10a9c15a04819da693d976c4ea2f28d5c234a34a1968f393f857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/10\/5-8.1792521366680.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "uzrakstīja"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "vēstuli"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "otro reizi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ולקלי",
+      "gloss": "un manai balsij"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "klausāt"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ņemiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galvas"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīriem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "jūsu kunga"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "un nāciet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "šai laikā"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rīt"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Jizreēlā"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un dēli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septiņdesmit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ar",
+      "marks": "lielajiem"
+    },
+    {
+      "surface": "גדלי",
+      "gloss": "lielajiem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "audzināja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:36:06.681736254Z",
+  "model": "glm-5.3"
+}

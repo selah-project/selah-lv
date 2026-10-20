@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodā tas nepieciešams"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neatslābinās",
+      "rationale": "ירפך — lit. 'neslābinās tevi', atslābt\/atlaist"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Esiet stipri un drošiem",
+      "rationale": "Impulss uz Israēlu pirms ieiešanas zemē"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Moše runā tieši uz Israēlu"
+    }
+  ],
+  "translation": "Esiet stipri un drošiem, nebīstieties un neiztrūkstieties no viņiem, jo Jahve, jūsu Elohim, ⟨ir⟩ tas, kas iet ar jums; viņš jūs neatslābinās un jūs neatstās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/31\/5-8.1792517340118.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Esiet stipri"
+    },
+    {
+      "surface": "ו אמצו",
+      "gloss": "un drošiem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bīstieties"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "iztrūkstieties"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "no viņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩ tas"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kas iet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar jums"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "jūs neatslābinās"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "jūs neatstās"
+    }
+  ],
+  "timestamp": "2026-10-20T17:29:00.121349002Z",
+  "model": "glm-5.3"
+}

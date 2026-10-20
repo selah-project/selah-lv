@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 17:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "astoņi dēli",
+      "rationale": "dēlu skaits — astoņi — skaitlis paliek"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בא באנשים",
+      "rationale": "burtiski 'ticis starp vīriem' — novecis salīdzinājumā ar citiem; idiomātisks vecuma apzīmējums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirmums starp vīriem",
+      "rationale": "בא באנשים burtiski 'ienācis vīru vidū'; atveidots kā vecuma pakāpe"
+    }
+  ],
+  "translation": "Un Davids bija šī efratieša dēls no Betlehēmas Jehudas — viņa vārds bija Jišajs — un tam bija astoņi dēli; un vīrs Šaula dienās bija novecis, ticis sirmums starp vīriem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/17\/9-12.1792519139522.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Un Davids"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "efratietis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no Betlehēmas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlehēmas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "un viņa vārds"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajs"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "un tam"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "un vīrs"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "novecis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ticis"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "sirmums starp vīriem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:59.523373855Z",
+  "model": "glm-5.3"
+}

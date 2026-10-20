@@ -1,0 +1,213 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 4:11",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחת דתו",
+      "rationale": "Burtiski 'viens ir viņa likums' — pastāvīgs ķēniņa dekrēts; atveidots kā 'viņa likums ir viens: nogalināt'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא \/ נקראתי",
+      "rationale": "Darbības vārda קרא 'aicināt' atkārtojums — vispārīgais likums un Esteres personīgā situācija stāv vienā saknē."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit dienas",
+      "rationale": "Laika skaitlis nosaka Esteres atrumu un risku."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivrita teikumā nav saikļa; latviešu valodai vajag 'ir' un pārfrāzētu uzbūvi."
+    }
+  ],
+  "translation": "Visi ķēniņa kalpi un ķēniņa provinču ļaudis zina, ka katram vīram un sievai, kas ienāks pie ķēniņa iekšējā pagalmā, kamēr ⟨tas⟩ nav aicināts, — viņa likums ir viens: nogalināt, izņemot to, kam ķēniņš pastieps ⟨viņam⟩ zelta ⟨את⟩ scepteri, un ⟨tas⟩ dzīvos. Bet mani nav aicinājuši ienākt pie ķēniņa jau trīsdesmit dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ea9f7a86df9b259b2af1776847ad18471e6b59a4a80a272e3b651a4d9e49d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/10-11.1792532887348.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un ļaudis"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provinču"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "zināt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katram"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīram"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "un sievai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ienāks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iekšā"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pagalmā"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "iekšējā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "aicināts"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viens"
+    },
+    {
+      "surface": "דתו",
+      "gloss": "viņa likums"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "nogalināt"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "to, kam"
+    },
+    {
+      "surface": "יושיט",
+      "gloss": "pastieps"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zelta scepteri"
+    },
+    {
+      "surface": "שרביט",
+      "gloss": "scepteri"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "un dzīvos"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Bet mani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נקראתי",
+      "gloss": "aicinājuši"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ienākt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jau ⟨šos⟩"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:07.349638736Z",
+  "model": "glm-5.3"
+}

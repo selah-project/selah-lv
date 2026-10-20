@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "ם ar prepozīciju 'ar\/pie' + viņiem; saglabāts kā ⟨את⟩ viņiem"
+    }
+  ],
+  "translation": "Neapskaudi ļaunos vīrus un nevēlies būt ⟨את⟩ viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/24\/1-4.1792528857657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "apskauži"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ļaunos vīrus"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunuma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "vēlies"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "būt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņiem",
+      "marks": "viņiem — pie ļaunajiem vīriem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:57.657886343Z",
+  "model": "glm-5.3"
+}

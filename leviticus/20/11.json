@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kailumu atsedz",
+      "rationale": "׳ערות גלה׳ — pastāvīga Toras eifēmija miesiskam sakaram; atstāta burtiski, jo tā ir pati likuma valoda"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Ebreju ישכב את ņem ⟨את⟩ kā tiešo objektu; latviešu valodai vajadzīgs prievārds 'ar'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saikle, ko ebreju teikums iztiek bez"
+    }
+  ],
+  "translation": "Un vīrs, kas guļ ar ⟨את⟩ sava tēva sievu, — sava tēva kailumu viņš atsedz, — nāvē tiks nomirstināti abi: viņu asinis ⟨ir⟩ uz viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/20\/9-12.1792515085485.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "un vīrs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "guļ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava tēva sievu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kailumu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atsedz"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvē"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "tiks nomirstināti"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abi"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "viņu asinis"
+    },
+    {
+      "surface": "בם",
+      "gloss": "uz viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:25.487671430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פה להם",
+      "rationale": "Burtiski 'mute viņiem' — ebreju piederības konstrukcija bez 'ir'"
+    }
+  ],
+  "translation": "Mute ⟨viņiem ir⟩, bet tie nerunā; acis ⟨viņiem ir⟩, bet tie neredz.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/135\/13-16.1792528365557.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Mute"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem ir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet tie ne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "runā"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "acis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem ir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet tie ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "redz"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:45.558428811Z",
+  "model": "glm-5.3"
+}

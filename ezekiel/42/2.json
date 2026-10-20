@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "simts × piecdesmit elkoņu",
+      "rationale": "celtnes izmēri: garums simts elkoņu, platums piecdesmit elkoņu"
+    },
+    {
+      "kind": "addition",
+      "subject": "biju",
+      "rationale": "latviešu valodai vajadzīgs saiklis, ebreju tekstā tā nav"
+    }
+  ],
+  "translation": "Pretī garumam simts elkoņu bija ziemeļu ieeja, un platums — piecdesmit elkoņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/42\/1-4.1792525733734.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "פני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "garumam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "elkoņu"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "simts"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ieeja"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "un platums"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "piecdesmit"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "elkoņu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:48:53.735356201Z",
+  "model": "glm-5.3"
+}

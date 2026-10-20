@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 5:28",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "maijas",
+      "rationale": "Laika skaitīšana: desmittūkstoš vīru mēnesī, viens mēnesis Levanonā, divi mājās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "savā namā",
+      "rationale": "בביתו — 'viņa namā'; nams kā māja\/uzturēšanās vieta, ne ēka vien."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumā nav darbības vārda pie 'Adonirams pār nodevu'."
+    }
+  ],
+  "translation": "Un viņš sūtīja tos uz Levanonu desmittūkstoš mēnesī maiņās; vienu mēnesi tie bija Levanonā un divus mēnešus savā namā; un Adonirams ⟨bija⟩ pār nodevu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7e039adb22d3db5d4e3eae9ecd00326a75e1522c8af2778ba74f93a58dddee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/25-28.1792520459553.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחם",
+      "gloss": "Un viņš sūtīja tos"
+    },
+    {
+      "surface": "לבנונה",
+      "gloss": "uz Levanonu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstoš"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "maijās"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tie bija"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Levanonā"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divus"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mēnešus"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "un Adonirams"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "המס",
+      "gloss": "nodevu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:20:59.554251176Z",
+  "model": "glm-5.3"
+}

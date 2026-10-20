@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "cietoksis",
+      "rationale": "מעוז ir 'nocietināta vieta, patvērums'; iespējams arī 'mans patvērums' vai 'mana stiprā pils'."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Darbības vārda טמנu formā ir 3. personas daudzskaitlis, bet latviešu valodai vajadzīgs subjekts 'viņi'."
+    }
+  ],
+  "translation": "Izved mani ārā no tīkla šī, ko viņi man slepeni licis, jo tu esi mans cietoksis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ff9dc4268573c85f4c9f321e00766a695a4058bfe8e90fe07a7b8cb0140ad30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/31\/5-6.1792532790396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Izved mani ārā"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "no tīkla"
+    },
+    {
+      "surface": "זו",
+      "gloss": "šī"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ko viņi slepeni licis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "esi mans cietoksis"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:30.397280667Z",
+  "model": "glm-5.3"
+}

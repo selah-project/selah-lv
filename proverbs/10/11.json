@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יכסה חמס",
+      "rationale": "'Apsedz vardarbību' — subjekts var būt arī 'vardarbība apsedz muti' (KJV lasījums); ivrita teikums pieļauj abus."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ivrits izsaka ekvivalenci bez kopulas — 'dzīvības avots = taisnā mute'; latviešu valodai vajag 'ir'."
+    }
+  ],
+  "translation": "Dzīvības avots ir taisnā mute, bet bezdievju mute apsedz vardarbību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/10\/9-12.1792528617491.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "avots"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvības"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mute"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "taisnā"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "bet mute"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezdievju"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "apsedz"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vardarbību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:57.492806027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "iziet un iet iekšā",
+      "rationale": "Ebreju idiom par vadīt un rīkoties tautas priekšā, atstāts burtisks"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgums",
+      "rationale": "Šlomo prasa gudrību — tiešs lūgums ar jautājumu 'kas spēs tiesāt?'"
+    }
+  ],
+  "translation": "Tagad gudrību un zināšanas dod man, un es iziešu šīs tautas priekšā un iešu iekšā, jo kas spēs tiesāt ⟨את⟩ šo tavu tautu, tik lielu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f2ee98428f53a399ea6517003e525ca424e37bc6cd70d65cd54d3196f258497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/1\/9-12.1792531644655.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Tagad"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "un zināšanas"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "un es iziešu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šīs tautas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "un iešu iekšā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "spēs tiesāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo tavu tautu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavu tautu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tik lielu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:27:24.655839100Z",
+  "model": "glm-5.3"
+}

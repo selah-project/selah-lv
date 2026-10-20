@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar ko",
+      "rationale": "latviešu valodai vajadzīgs līdzeklis; ebreju tekstā tikai 'ja nav tev samaksāt'"
+    }
+  ],
+  "translation": "Ja tev nav ar ko samaksāt, kāpēc viņš ņems tavu gultu ⟨no tevis⟩ apakšā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eeb858bd8873113fca526c01d0ce901be0135af792281a3d5b8ca643a451a5f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/22\/25-28.1792528824863.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "samaksāt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ņems"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "tavu gultu"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "no apakšas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:24.864809841Z",
+  "model": "glm-5.3"
+}

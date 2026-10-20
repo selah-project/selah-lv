@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā iztrūkst saiklis — teikuma struktūra bez darbības vārda nosaukuma teikums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stiprā pils",
+      "rationale": "מעוז ir nocietinājums, cietoksnis — ne vispārīgs 'spēks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אירא\/אפחד",
+      "rationale": "Divi dažādi baiļu darbības vārdi paralēlismā; latviski 'baidos\/šausminos' saglabā atšķirību"
+    }
+  ],
+  "translation": "Dāvida ⟨psalms⟩. Jahve ⟨ir⟩ mana gaisma un mana glābšana — no kā lai baidos? Jahve ⟨ir⟩ mana dzīves stiprā pils — no kā lai šausminos?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/27\/1-4.1792527319984.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dāvida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mana gaisma"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "un mana glābšana"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "no kā"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "lai baidos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "stiprā pils"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mana dzīves"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "no kā"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "lai šausminos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:15:19.984975940Z",
+  "model": "glm-5.3"
+}

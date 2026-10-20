@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת šeit ir prievārds 'no' ar iekļautu את; latviski saglabāts kā 'no ⟨את⟩'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תלום",
+      "rationale": "'Pakāruši' — תלה var nozīmēt arī 'iestiprināja sienā'; 1. Samuela 31:10 saka, ka ķermenis tika piestiprināts Beth-Šeanas mūrī."
+    }
+  ],
+  "translation": "Un Davids aizgāja un paņēma ⟨את⟩ Šaula kaulus un ⟨את⟩ kaulus Jehonatana, viņa dēla, no ⟨את⟩ Jabesas-Gileādas vīriem, kas bija nozaguši tos no Beth-Šeanas laukuma, kur filistieši tos bija pakāruši tajā dienā, kad filistieši nogalināja ⟨את⟩ Šaulu pie Gilboas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f0eb2fe791d1a5ee79377e2610ae0b9cb0c6c31662826dd53a3ed5ca8383fb6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/21\/9-12.1792520142020.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "un aizgāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula kaulus"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kaulus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaulus"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kaulus"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēla"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "vīriem"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabesas"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileādas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "bija nozaguši"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tos",
+      "marks": "kaulus"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "no laukuma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Šeanas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "bija pakāruši"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistieši"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā dienā"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kad nogalināja"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistieši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "pie Gilboas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:42.021763530Z",
+  "model": "glm-5.3"
+}

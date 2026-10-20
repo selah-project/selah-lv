@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 31:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikums to prasa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איד",
+      "rationale": "Burtiski 'apspiešana, posts' — 'postīgs liktenis' saliek abus nozīmes pavedienus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונכר",
+      "rationale": "Burtiski 'svešaina lieta' — negaidīta nelaime, kas 'nepieder' pie parastā."
+    }
+  ],
+  "translation": "Vai ne postīgs liktenis ⟨ir⟩ netaisnajam, un negaidīta nelaime ļaunuma darītājiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/31\/1-4.1792529460036.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Vai ne"
+    },
+    {
+      "surface": "איד",
+      "gloss": "postīgs liktenis"
+    },
+    {
+      "surface": "לעול",
+      "gloss": "netaisnajam"
+    },
+    {
+      "surface": "ונכר",
+      "gloss": "un negaidīta nelaime"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "darītājiem"
+    },
+    {
+      "surface": "און",
+      "gloss": "ļaunuma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:00.037242791Z",
+  "model": "glm-5.3"
+}

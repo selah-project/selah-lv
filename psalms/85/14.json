@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדרך פעמיו",
+      "rationale": "Burtiski „un liks viņa soļus ceļam”: KJV „mūs ceļā uz viņa soļiem”, YLT „viņa soļus par ceļu”; izvēlēts „pārvērtīs soļus par ceļu”."
+    },
+    {
+      "kind": "substitution",
+      "subject": "soļi",
+      "rationale": "פעם ir sitiens\/solis; latviski „soļi” tuvākais ekvivalents."
+    }
+  ],
+  "translation": "Cedeks ies viņa priekšā un pārvērtīs viņa soļus par ceļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/85\/13-14.1792527974000.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cedeks"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ies"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un pārvērtīs"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "par ceļu"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "viņa soļus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:14.001583983Z",
+  "model": "glm-5.3"
+}

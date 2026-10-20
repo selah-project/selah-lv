@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "piecdesmit gadu",
+      "rationale": "Augšējā vecuma robeža levītu kalpošanai — skaitļa noteikšana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "atgriezīsies",
+      "rationale": "ישוב burtiski 'atgriezīsies'; daudzi tulkojumi mīkstina kā 'mitēsies', bet vārda nozīme ir atgriešanās."
+    }
+  ],
+  "translation": "Un no piecdesmit gadu vecuma viņš atgriezīsies no kalpošanas dienesta un vairs nekalgos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/8\/25-26.1792515606105.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "un no ... vecuma"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "piecdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "no dienesta"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kalpošanas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "nekalgos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:00:06.105900282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 4:10",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajag saikli, ebreju valodā nav"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעיניו",
+      "rationale": "'Viņa acīs' — ebreju idiona 'viņa paša vērtējumā'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר לתתי לו בשרה",
+      "rationale": "'Domādams, ka es došu viņam' (JPS) pret 'tā bija alga, ko es viņam devu' (KJV\/ASV)"
+    }
+  ],
+  "translation": "kad viens, kas man ziņoja, sacīdams: Lūk, miris ⟨ir⟩ Šauls, — un viņš savās acīs bija kā labo ziņu nesējs, — tad es satvēru viņu un nogalināju viņu Ciklāgā, tā vietā, lai dotu viņam atalgojumu par vēsti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/4\/9-12.1792519672233.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ziņoja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miris"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un viņš"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "כמבשר",
+      "gloss": "kā vēstnesis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "savās acīs"
+    },
+    {
+      "surface": "ואחזה",
+      "gloss": "un es satvēru"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "un nogalināju viņu"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Ciklāgā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לתתי",
+      "gloss": "es došu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "atalgojumu par vēsti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:52.234163357Z",
+  "model": "glm-5.3"
+}

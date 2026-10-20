@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deguns",
+      "rationale": "אף burtiski ir 'degunšņi' — dusmu metafora ebreju valodā; latviešu 'deguns iekaisīs' saglabā bildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי ... אחרים",
+      "rationale": "'citi dievi' (אחרים) pret 'no Manis' (מאחרי) — tā pati sakne אחר, zudis latviski"
+    }
+  ],
+  "translation": "jo viņš novērsīs ⟨את⟩ tavu dēlu no Manis, un tie kalpos citiem dieviem, un Jahves deguns iekaisīs pret jums un ātri tevi iznīcinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/1-4.1792516678717.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "novērsīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu dēlu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavu dēlu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "no Manis"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "un tie kalpos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "citiem dieviem"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citiem"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "un iekaisīs"
+    },
+    {
+      "surface": "אף",
+      "gloss": "degunu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pret jums"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "un iznīcinās tevi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ātri"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:58.720273941Z",
+  "model": "glm-5.3"
+}

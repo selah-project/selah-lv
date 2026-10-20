@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את הרפאים kā paskaidrojums",
+      "rationale": "צוה את...את — otrais את ievieš precizējumu 'ārstiem', latvisi dots ar domuzīmi"
+    }
+  ],
+  "translation": "Un Jozefs pavēlēja ⟨את⟩ saviem kalpiem — ⟨את⟩ ārstiem — apbalsamēt ⟨את⟩ savu tēvu, un ārsti apbalsamēja ⟨את⟩ Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6de483df7cd332d2c50869e4162bdf6560f779e247c4efab0d2b67198531b620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/50\/1-4.1792512633634.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "un pavēlēja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saviem kalpiem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "saviem kalpiem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ārstiem"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ārstiem"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "apbalsamēt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tēvu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savu tēvu"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "un apbalsamēja"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ārsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:33.634954434Z",
+  "model": "glm-5.3"
+}

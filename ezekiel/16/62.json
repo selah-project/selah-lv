@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa 'ir'; celšanas infinitīvs ir uzsvērumam un latviešu valodā prasa saikli."
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruzalemei",
+      "rationale": "Vēstījums vērsts pie Jeruzalemes kā sievas tēla."
+    }
+  ],
+  "translation": "Un Es celšu celšanu ⟨ir⟩ — Es apstiprināšu ⟨את⟩ Savu derību ⟨ar tevi⟩, un tu zināsi, ka Es esmu Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2060adbec9291fb9ef3c8b60eef53e2ffd9974608992951854dd0e54dd9517e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/16\/61-63.1792524993602.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "un Es celšu celšanu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savu derību"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Savu derību"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "un tu zināsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:33.603532567Z",
+  "model": "glm-5.3"
+}

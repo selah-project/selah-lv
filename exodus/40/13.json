@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš būs",
+      "rationale": "Ebreju valodā nav kopulas darbības vārda וכהן"
+    },
+    {
+      "kind": "substitution",
+      "subject": "par priesteri",
+      "rationale": "וכהן ir darbības vārds 'kalpot par priesteri', latviski nepieciešams lietvārds"
+    }
+  ],
+  "translation": "Un tu apģērbs ⟨את⟩ Aharonu svētajos tērpos, un tu svaidīsi viņu, un tu svētdarīsi viņu, un viņš būs man par priesteri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/40\/13-16.1792513583584.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "un tu apģērbs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svētajos tērpos"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tērpos"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētajos"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "un tu svaidīsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "un tu svētdarīsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "un viņš būs par priesteri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:23.584694467Z",
+  "model": "glm-5.3"
+}

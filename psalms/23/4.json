@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju tekstā nav darbības vārda 'būt'; latviešu valodā tas vajadzīgs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלמות",
+      "rationale": "Šis vārds, iespējams, ir צל 'ēna' + מות 'nāve', bet tā poētiskā forma nozīmē 'dzijākā tumsa'; latviski 'nāves ēna' saglabā abas daļas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם כי ... כי",
+      "rationale": "Atkārtotais כי veido slidu 'arī, ja ... jo' — latviešu divi dažādi saistītāji zaudē atkārtojumu"
+    },
+    {
+      "kind": "you",
+      "subject": "Runātājs griežas pie Jahves",
+      "rationale": "Vārds 'Tu' ievieš tiešu uzrunu otrajā pusē"
+    }
+  ],
+  "translation": "Arī, ja iešu nāves ēnu ielejā, nebīstos ļaunuma, jo Tu ⟨esi⟩ ar mani; Tava rīkste un Tavs balsts — tās mani mierina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/23\/1-4.1792527215603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "iešu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "nāves ēnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bīstos"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "Tava rīkste"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "un Tavs balsts"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tās"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "mani mierina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:35.608526843Z",
+  "model": "glm-5.3"
+}

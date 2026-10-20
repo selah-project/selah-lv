@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 12:9",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņam bija",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'bija'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit dēli un trīsdesmit meitas",
+      "rationale": "Skaitļu uzskaitījums — trīsdesmit un trīsdesmit, septiņi gadi"
+    }
+  ],
+  "translation": "Un viņam bija trīsdesmit dēli un trīsdesmit meitas; trīsdesmit meitas viņš izsūtīja ārā, un trīsdesmit meitas ieveda saviem dēliem no ārienes. Un viņš tiesāja ⟨את⟩ Jisraēlu septiņus gadus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "390e0e866fa2330430cbbe6ea86daa0bd30d64931aeefe742b6463b778cf585f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/12\/9-12.1792518446550.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izsūtīja"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ieveda"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "saviem dēliem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ārienes"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "Un viņš tiesāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:47:26.551029912Z",
+  "model": "glm-5.3"
+}

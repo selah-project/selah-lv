@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראמים",
+      "rationale": "ראם ir savvaļas vērsis, ne 'vienradzis' (KJV tradīcija)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וירקידם",
+      "rationale": "Hifila 'raķad' — 'liek tiem dejot\/lēkāt'; pāreja no v.5 darāmajiem laikiem uz stāstījuma perfektu."
+    }
+  ],
+  "translation": "Un tas liek tiem lēkāt kā teļam — Libāna un Sirjons kā savvaļas vēršu mazulis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/29\/5-8.1792527289486.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "un liek tiem lēkāt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "teļam"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libāna"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "un Sirjons"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mazulis"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "savvaļas vēršu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:49.487960207Z",
+  "model": "glm-5.3"
+}

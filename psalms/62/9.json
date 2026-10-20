@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikles; latviešu valoda to prasa"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muzikāla pauze — atstāta kā Sela bez tulkojuma"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tauta",
+      "rationale": "Pants uzrunā tautu ar pavēlēm: paļaujieties, izlejiet"
+    }
+  ],
+  "translation": "Paļaujieties uz viņu katrā laikā, tauta, izlejiet viņa priekšā savu sirdi; Elohim ir patvērums mums. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/62\/9-12.1792527746760.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Paļaujieties"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katrā"
+    },
+    {
+      "surface": "עת",
+      "gloss": "laikā"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "izlejiet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "patvērums"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:26.760494515Z",
+  "model": "glm-5.3"
+}

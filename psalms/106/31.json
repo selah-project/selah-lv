@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה turēta kā 'cedek' pēc D2 disciplīnas — burtiski 'taisnība\/tiesiskums', ko ebreju valoda saka vienā vārdā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "Atkārtotā sakne 'paaudzei un paaudzei' — ebreju ritms, latviski saglabāts ar atkārtojumu."
+    }
+  ],
+  "translation": "Un tas tika viņam ieskaitīts par cedek, paaudzei un paaudzei, līdz mūžībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/29-32.1792528196348.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "tika ieskaitīts"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "par cedek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:56.349679544Z",
+  "model": "glm-5.3"
+}

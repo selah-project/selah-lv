@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 36:1",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Latviešu valodai vajadzīgs saistītājs vārds, ebreju valodā tā nav"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Nenoteiktā forma 'sacīt' atstāta kā peldošs datīvs 'sacīt'"
+    }
+  ],
+  "translation": "Un notika ceturtajā gadā Jehojakimam, Jeašijahu dēlam, Jehudas ķēniņam, ka šis vārds bija pie Jirmejahu no ⟨את⟩ Jahves, sacīt:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "614351924e0852f19d0085a7b9d3dc9450a34dae8f3116b891d915c8d107eaa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/36\/1-4.1792524117314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ceturtajā gadā"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "ceturtajā"
+    },
+    {
+      "surface": "ליהויקים",
+      "gloss": "Jehojakimam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jeašijahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīt"
+    }
+  ],
+  "timestamp": "2026-10-20T19:21:57.315559510Z",
+  "model": "glm-5.3"
+}

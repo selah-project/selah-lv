@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "saiklis 'ir' piebilstots vietai, kur ebreju valoda to izsaka ar יש vai izlauc"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulam un jauneklim",
+      "rationale": "meitas tieši uzrunā jautātājus: 'tev priekšā, steidzies tagad'"
+    }
+  ],
+  "translation": "Un viņas atbildēja ⟨את⟩ viņiem un sacīja: Viņš ⟨ir⟩; lūk, ⟨viņš ir⟩ tev priekšā; steidzies tagad, jo šodien viņš atnācis pilsētā, jo šodien tautai ⟨ir⟩ upuris augstienē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/9\/9-12.1792518890447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Un viņas atbildēja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "viņiem"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Viņš ir"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev priekšā"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "steidzies"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atenācis"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuris"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "augstienē"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:50.449310747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "gloss": "האיש 'vīrs' saplūst ar 'nabagu' latviešu valodā, atsevišķs vārds izzūd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר",
+      "rationale": "'atcerējās' šeit pretēji 109:14 'lai piemin' — tas, kurš neatceras, zaudē piemiņu (15)"
+    }
+  ],
+  "translation": "Tāpēc, ka viņš neatcerējās darīt hesed, bet vajāja nabagu un trūcīgo un sirdssāpju nomākto — nonāvēt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/13-16.1792528237292.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "atcerējās"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "bet vajāja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "viru"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabagu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "un trūcīgo"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "un nomākto"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "nonāvēt"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:37.293887617Z",
+  "model": "glm-5.3"
+}

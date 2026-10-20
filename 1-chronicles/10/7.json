@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 10:7",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju מקart teikums 'kas ielejā' bez darbības vārda; latviešu valodai vajag 'bija'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינסו ... נסו",
+      "rationale": "Bēgšanas vārds (נוס) atkārtojas rindkopā: 'ka tie bēg ... un bēga' — panika dublējas."
+    }
+  ],
+  "translation": "Un ieraudzīja visi Jisraēla vīri, kas ⟨bija⟩ ielejā, ka tie bēg un ka nomiruši ⟨ir⟩ Šauls un viņa dēli; un tie pameta savas pilsētas un bēga, un atnāca filistīnieši un apmetās tajās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/10\/5-8.1792531343132.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "un ieraudzīja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "bēg"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "un ka"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "nomiruši"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "un viņa dēli"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "un pameta"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "savas pilsētas"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "un bēga"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un atnāca"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistīnieši"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "un apmetās"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tajās"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:23.133142354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 19:34",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju tekstā nav kopulas latviešu teikumam vajadzīgajā formā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר \/ גרים",
+      "rationale": "Saknes atkārtojums: ieredzis tagad, iebraucēji bijāt Micraimā — arguments balstās uz tā paša vārda spēli."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Mīlestības pavēle kā trešā personas 'tu': tu mīlēsi viņu kā sevi pašu."
+    }
+  ],
+  "translation": "Kā no jums dzimis lai ⟨ir⟩ jums ieredzis, kas dzīvo ⟨את⟩ jums, un tu mīlēsi viņu kā sevi pašu, jo iebraucēji jūs bijāt Micraimas zemē; es ⟨esmu⟩ Jahve, jūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/33-36.1792515122025.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאזרח",
+      "gloss": "Kā no jums dzimis"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lai ⟨ir⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ieredzis"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "un tu mīlēsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kā sevi pašu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "iebrieniecēji"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jūs bijāt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:02.027196636Z",
+  "model": "glm-5.3"
+}

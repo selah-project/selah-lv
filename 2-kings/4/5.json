@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאתו",
+      "rationale": "Prepozīcija 'no viņa' ar iekšējo את; ⟨את⟩ saglabāts kā zīme, nevis tulkojums."
+    },
+    {
+      "kind": "elision",
+      "subject": "מגשים אליה",
+      "rationale": "Ebreju teksts nesaka 'traukus' — tie pienesa (viņai); priekšmets izpalicis iepriekšējā panta trauku dēļ."
+    }
+  ],
+  "translation": "Un viņa aizgāja no ⟨את⟩ viņa un aizslēdza durvis sev un saviem dēliem; tie pienesa viņai, un viņa lēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/4\/5-8.1792521218487.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Un viņa aizgāja"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "no ⟨את⟩ viņa"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "un aizslēdza"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "durvis"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "un aiz"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "saviem dēliem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "pienesa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "un viņa"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "lēja"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:38.488311540Z",
+  "model": "glm-5.3"
+}

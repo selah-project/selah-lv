@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 6:6",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושכלה",
+      "rationale": "no שכל: 'apbēdināta \/ kas zaudējusi' — arī 'neauglīga'; latviski 'kas palikusi viena' saglabā versiju attaisnojumu."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir'."
+    }
+  ],
+  "translation": "Tavi zobi ir kā aitu bars, kas kāpj augšā no mazgāšanās; visas tās ir pa pāriem, un nav nevienas, kas palikusi viena.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/6\/5-8.1792529649837.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "tavi zobi"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kā bars"
+    },
+    {
+      "surface": "הרחלים",
+      "gloss": "aitu"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "kāpj augšā"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "mazgāšanās"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "visas"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "pa pāriem"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "kas palikusi viena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nevienas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:09.838195508Z",
+  "model": "glm-5.3"
+}

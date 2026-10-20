@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balsis",
+      "rationale": "קולת burtiski 'balsis\/skaņas'; tradicionāli 'pērkona grāvieni' — tekstā vārds ir 'balss', tas pats, ko šofara 'balss'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju teikumā 'kas nometnē' kopula nav; latviešu valodā vajadzīgs 'bija'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כָּבֵד עָנָן",
+      "rationale": "'Smags mākonis' burtiski; bieži tulkots 'biezs mākonis' — ebreju smagums ir tēlainis blīvums."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trešajā dienā",
+      "rationale": "Notikums piesaistīts aprēķinātai dienai no 19:15 pavēles."
+    }
+  ],
+  "translation": "Un notika trešajā dienā, kad ausa rīts: bija balsis un zibeņi, un smags mākonis pār kalnu, un ļoti stipra šofara balss; un drebēja visa tauta, kas ⟨bija⟩ nometnē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/19\/13-16.1792513010276.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "kad bija"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rīts"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "balsis"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "un zibeņi"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "un mākonis"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "smags"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "un balss"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "un drebēja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nometnē"
+    }
+  ],
+  "timestamp": "2026-10-20T16:16:50.278013766Z",
+  "model": "glm-5.3"
+}

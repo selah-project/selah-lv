@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumam trūkst darbības vārda; latviešu valoda pieprasa saikli 'bija'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה",
+      "rationale": "Ebreju atkārtojums 'novadā un novadā' apzīmē visurīgu izplatību; saglabāts burtiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "likums",
+      "rationale": "דת ir persiešu aizguvums 'data' — ķēniņa edikts, ne vispārīgs likums."
+    }
+  ],
+  "translation": "Un katrā novadā un novadā, vietā, kurā nonāca ķēniņa vārds un viņa likums, lielas sēras bija jūdiem, un gavēnis, un raudāšana, un vaimanas; soma un pelni tika klāti daudziem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "65fdc843a6b826eac1506bc2bf4c248cd5d349dbf98987e8d8b2fd7d3c4f5de4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/2-3.1792532903073.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "un katrā"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "novadā"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "un novadā"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "un viņa likums"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "nonāca"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sēras"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielas"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "jūdiem"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "un gavēnis"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "un raudāšana"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "un vaimanas"
+    },
+    {
+      "surface": "שק",
+      "gloss": "soma"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "un pelni"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "tika klāti"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "daudziem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:23.074595791Z",
+  "model": "glm-5.3"
+}

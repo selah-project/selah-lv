@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 2:15",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "šeit את ir vietniekvārds 'tu' (H859), nevis aleph-tav rādītājs (H853)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lika savas sejas",
+      "rationale": "Idioma 'lika uz mani savas sejas' – pievērsās man, gaidīja mani; saglabāts burtiski"
+    }
+  ],
+  "translation": "Un viņš sacīja: Tu zini, ka man bija ķēniņvalsts, un uz mani viss Jisraēls lika savas sejas, lai es ķēniņotu; bet ķēniņvalsts pagriezās un kļuva mana brāļa, jo no Jahves tā bija viņam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/13-16.1792520361654.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "viņš sacīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ķēniņvalsts"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "un uz mani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "savas sejas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lai ķēniņotu"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "pagriezās"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ķēniņvalsts"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kļuva"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "mana brāļa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "no Jahves"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:21.654993719Z",
+  "model": "glm-5.3"
+}

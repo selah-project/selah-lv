@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 18:9",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai pietiek ar izteikuma kārtu bez kopulas; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חיה יחיה",
+      "rationale": "Infinitivus absolutus — 'dzīvodams viņš dzīvos', pastiprināta nākotne."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חקות\/משפטים",
+      "rationale": "Likumu un tiesu spriedumu pāris — paraugu atkārtojums visā nodaļā."
+    }
+  ],
+  "translation": "Manos likumos viņš staigā un manus tiesu spriedumus sargā, lai darītu patiesību; cedek — taisnais viņš ⟨ir⟩, dzīvodams viņš dzīvos, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/18\/9-12.1792524972129.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחקותי",
+      "gloss": "manos likumos"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "un manus tiesu spriedumus"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "sargā"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "lai darītu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesību"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek — taisnais"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dzīvodams"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "viņš dzīvos"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:12.129965403Z",
+  "model": "glm-5.3"
+}

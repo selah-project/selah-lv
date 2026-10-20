@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 12:11",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tos",
+      "rationale": "Ivritā piepraustas galotnes -ם norāda objektu; latviski pievienots vietniekvārds"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תא",
+      "rationale": "תָּא 'istaba' Tanahā sastopams tikai šeit un 1. Laiku 18:8 — retums"
+    }
+  ],
+  "translation": "Un notika, cik reižu ķēniņš nāca Jahves namā, skrējēji nāca un pacēla tos un atnesa tos atpakaļ skrējēju istabā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/12\/9-12.1792531858581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "cik reižu"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "skrējēji"
+    },
+    {
+      "surface": "ונשאום",
+      "gloss": "un pacēla tos"
+    },
+    {
+      "surface": "והשבום",
+      "gloss": "un atnesa tos atpakaļ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תא",
+      "gloss": "istabā"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "skrējēju"
+    }
+  ],
+  "timestamp": "2026-10-20T21:30:58.583046516Z",
+  "model": "glm-5.3"
+}

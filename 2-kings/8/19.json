@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ניר",
+      "rationale": "ניר ir 'lukturis\/degunspēks' — dzimtas pastāvēšanas tēls, nav tulkots kā 'gaismeklis' reliģiozā nozīmē"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל הימים",
+      "rationale": "'Visās dienās' — ebreju hronikas stils; latviski 'mūžīgi' būtu pievienojums, kas teksts nesaka"
+    }
+  ],
+  "translation": "Un Jahve negribēja iznīcināt ⟨את⟩ Juhdu sava kalpa Davida dēļ, kā Viņš tam bija teicis, dot viņam lukturu viņa dēliem visās dienās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "423f077560e5a6e1592bb1ba9f7c0e8cd12cfc075ee8f7ecf9a5d7657958ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/8\/17-20.1792521307092.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "iznīcināt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juhdu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juhdu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sava kalpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bija teicis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lukturu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "viņa dēliem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:07.093086817Z",
+  "model": "glm-5.3"
+}

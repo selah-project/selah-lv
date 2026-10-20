@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספרו",
+      "rationale": "'stāsta\/skaita': daudzi tulki lasa 'runā izplūst' (KJV 'which they speak'), YLT burtiski ' recount'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu interpunkcija pieprasa domuzīmi."
+    }
+  ],
+  "translation": "Grēks viņu mutes, vārds viņu lūpām — lai viņi tiek notverti savā lepnībā, un no lāsta un meliem tie stāsta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/59\/13-16.1792527693666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "grēks"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "viņu mutes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "viņu lūpām"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "lai viņi tiek notverti"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "savā lepnībā"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "no lāsta"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "un meliem"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "tie stāsta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:33.667487070Z",
+  "model": "glm-5.3"
+}

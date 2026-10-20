@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "galvenais bendē",
+      "rationale": "רב טבחים burtiski „bendēju priekšnieks” — miesassargu pavēlnieks, kas izpilda nāvessodus."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ievadā pievienots darbības vārds, ko ebreju konstrukcija iztiek bez."
+    }
+  ],
+  "translation": "Un ⟨את⟩ Jerušalaimas mūrus apkārt nojauca viss kaldeju karaspēks, kas ⟨bija⟩ pie galvenā bendē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/9-12.1792521798526.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jerušalaimas mūrus"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mūrus"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "nojauca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "karaspēks"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldeju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "galvenais"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "bendē"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:18.527639900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "Aštarte (dievība) vai Ashtarota (pilsēta Transjordānijā) — lielākoties dievības lasījums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "piesita",
+      "rationale": "תקעו burtiski 'iedzina\/piestiprināja'; daži tulkojumos 'pakāra'"
+    }
+  ],
+  "translation": "Un viņi lika ⟨את⟩ viņa ieročus Aštartes namā, bet ⟨את⟩ viņa miesu piesita Beit Šanas mūrī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/31\/9-12.1792519474760.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "un viņi lika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa ieročus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "viņa ieročus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aštartes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bet ⟨את⟩",
+      "marks": "viņa miesu"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "viņa miesu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "piesita"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mūrī"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Šanas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:34.761670339Z",
+  "model": "glm-5.3"
+}

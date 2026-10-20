@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "deva savu balsi raudāšanā",
+      "rationale": "Ebreju idioms 'dot savu balsi raudās' — latviski saglabāts burtiski ar 'deva'."
+    }
+  ],
+  "translation": "Un viņš deva ⟨את⟩ savu balsi raudāšanā, un Micraima dzirdēja, un Paro nams dzirdēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/45\/1-4.1792512590932.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "un viņš deva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu balsi"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "savu balsi"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "raudāšanā"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "un dzirdēja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "un dzirdēja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-20T16:09:50.932906762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 31:1",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "ebreju valodā nav pārejas daļiņas; latviešu teikumam vajag saikli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "precīzs datums: vienpadsmitais gads, trešais mēnesis, pirmā diena"
+    }
+  ],
+  "translation": "Un notika vienpadsmitajā gadā, trešajā mēnesī, pirmajā mēneša dienā, ka Jahves vārds bija pie manis, sacīdams:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "147d0a3e5bfa848bd890fb61c1fb846a5a606227ee4aa0c3966a02036f4d8999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/31\/1-4.1792525395633.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "vienpadsmitajā"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "{vienpadsmit}"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "בשלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pirmajā dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T19:43:15.634270148Z",
+  "model": "glm-5.3"
+}

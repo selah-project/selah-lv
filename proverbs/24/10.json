@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרה\/צר",
+      "rationale": "Bēdu diena (metafora no 'šaurums') un 'šaurs' spēks — sakaru zaudē latviešu 'bēdas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "cik",
+      "rationale": "Hebrejs ir apgalvojums 'šaurs ir tavs spēks'; izsauksme pievienota pēc nozīmes."
+    }
+  ],
+  "translation": "Ja tu kļūsti mīksts ⟨tāds⟩ bēdu dienā — cik šaurs ir tavs spēks!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b21460712d161e9e89f8a281b5510a3f7f667341911f77897cee5f8080547c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/24\/9-12.1792528826284.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "kļūsti mīksts"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bēdu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "šaurs"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "tavs spēks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:26.285152208Z",
+  "model": "glm-5.3"
+}

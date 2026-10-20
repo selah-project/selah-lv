@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תמך",
+      "rationale": "Stāvokļa forma: 'soļi turējušies' (JPS\/ASV) pret imperatīvu 'turi manus soļus' (KJV\/Ženēva)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa, latviešu valodā nepieciešams."
+    }
+  ],
+  "translation": "Mani soļi ir stingri turējušies Tavos ceļos, manas pēdas nav paslīdējušas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/17\/5-8.1792527109358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ir stingri turējušies"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mani soļi"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "Tavos ceļos"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "paslīdējušas"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "manas pēdas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:49.360955358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 9:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svaidīju",
+      "rationale": "משח — svaidīt ar eļļu; tāpēc 'svaidītais ķēniņš', ne 'iecelts'."
+    },
+    {
+      "kind": "addition",
+      "subject": "celtnes 'Jisraēla Elohim'",
+      "rationale": "Latviešu valoda pieprasa ģenitīva saiti 'Jisraēla Elohim'; ebreju constructs šo saiti satur pats."
+    }
+  ],
+  "translation": "Un viņš piecēlās un iegāja namā, un viņš izlēja eļļu uz viņa galvas un sacīja viņam: Tā saka Jahve, Jisraēla Elohim: Es tevi svaidīju par ķēniņu pār Jahves tautu, pār Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/9\/5-8.1792521302739.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "piecēlās"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "iegāja"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "namā"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "izlēja"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "eļļu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "viņa galvas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "svaidīju tevi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pār"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:02.740707133Z",
+  "model": "glm-5.3"
+}

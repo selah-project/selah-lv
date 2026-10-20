@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילות",
+      "rationale": "briezenes (kalvēt) vai 'ozolkalni' (ylt no אילות kā אלון daudzskaitlis); dzīvnieku lasījums balstās uz חולל 'vārpot\/sāpēs dzemdēt'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחולל \/ ויחשף",
+      "rationale": "saknes חולל un חשף skan gandrīz vienādi — skaņu spēle, kas latviski zūd"
+    },
+    {
+      "kind": "alternative",
+      "subject": "viss saka",
+      "rationale": "כלו אמר var arī būt 'katrs ⟨no viņa⟩ saka' — 'templī viss' vai 'katrs dievinātājs'"
+    }
+  ],
+  "translation": "Jahves balss liek briezenēm kalvēt un kailina mežus, un savā templī viss saka: Slava!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/29\/9-11.1792527280111.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "liek kalvēt"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "briezenēm"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "un kailina"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "mežus"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "un savā templī"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "viss"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Slava"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:40.111973945Z",
+  "model": "glm-5.3"
+}

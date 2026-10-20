@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā 'trīs grozi — trīs dienas tie' nav saikļa; latviski nepieciešams ⟨ir⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs grozi — trīs dienas",
+      "rationale": "Skaitliska atbilstība: trīs grozi = trīs dienas, sapņa simetrijas kodols."
+    }
+  ],
+  "translation": "Un Jāzeps atbildēja un sacīja: Šis ⟨ir⟩ tā skaidrojuma nozīme: trīs grozi — trīs dienas tie ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4bdccd1b815fd3fda6a6b5d16a0ff9789c7365e7bf37fae9208d00f75c53e176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/40\/17-20.1792512405917.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Un atbildēja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jāzeps"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "tā skaidrojuma nozīme"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "grozi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie ⟨ir⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:45.918376149Z",
+  "model": "glm-5.3"
+}

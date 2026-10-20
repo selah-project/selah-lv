@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; הם ir vienigi 'tie'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השרץ השרץ",
+      "rationale": "Dažādu sakņu atkārtojums (rāpulis\/rāpo), visos trīs pantos"
+    }
+  ],
+  "translation": "Viss, kas iet uz vēdera, un viss, kas iet uz četrām, līdz pat katram, kas daudzina kājas, — visam rāpulim, kas rāpo pa zemi: neēdiet tos, jo tie ⟨ir⟩ rietums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "665455bad97117ce7444df3a9a13f75806bef688f7488e9d7309474102c8251f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/11\/42-44.1792514816353.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kas iet"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "vēdera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kas iet"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četrām"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz pat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katram"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "kas daudzina"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kājas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "rāpulim"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kas rāpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "ēdiet tos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "rietums"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    }
+  ],
+  "timestamp": "2026-10-20T16:46:56.354817170Z",
+  "model": "glm-5.3"
+}

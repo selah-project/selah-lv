@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 4:6",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Kopula pie 'šis ir Jahves vārds' ebreju tekstā nav."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Divdaļīgais niecīgais savienojums 'ki im' saplūst vienā latviešu 'bet'."
+    },
+    {
+      "kind": "you",
+      "subject": "Zerubābelam",
+      "rationale": "Jahves vārds tieši adresēts Zerubābelam."
+    }
+  ],
+  "translation": "Un viņš atbildēja un sacīja man, teikdams: Šis ⟨ir⟩ Jahves vārds Zerubābelam, teikdams: Ne ar karaspēku un ne ar varu, bet ar manu ruah, saka Jahve Cevaot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/4\/5-8.1792526804824.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "un viņš atbildēja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "teikdams"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubābelam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "teikdams"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ar karaspēku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ar varu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ברוחי",
+      "gloss": "ar manu ruah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:44.826087602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mana acs uz tevi",
+      "rationale": "איעצה עליך עיני: acs ir pavadones līdzekļa vai vērotāja loma; KJV\/Mīlestības vārdi atšķiras."
+    },
+    {
+      "kind": "addition",
+      "subject": "būšot",
+      "rationale": "Ebreju valodā nav darbības vārda; latviešu valodai vajag palīgverbu."
+    }
+  ],
+  "translation": "Darīšu tevi gudru un apgaismošu tevi ceļā, pa kuru tu iesi; es došu padomu, mana acs ⟨būšot⟩ uz tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/32\/5-8.1792527380772.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Darīšu tevi gudru"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "un apgaismošu tevi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "זו",
+      "gloss": "pa kuru"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu iesi"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "došu padomu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mana acs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:20.774378736Z",
+  "model": "glm-5.3"
+}

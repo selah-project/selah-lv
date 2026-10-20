@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יוכיח \/ מוסר \/ תוכחת",
+      "rationale": "Sakne יכח un מוסר\/תוכחת veido vārdu saistījumu starp 3:11 un 3:12 — pamācība un pārbaudījums ir viena saite"
+    },
+    {
+      "kind": "substitution",
+      "subject": "un kā tēvs",
+      "rationale": "כאב burtīgi 'kā tēvs viņu' — salīdzinājuma daļa bez darbības vārda atkārtojuma"
+    }
+  ],
+  "translation": "Jo ⟨את⟩ to, ko Jahvs mīl, viņš pamāca, un kā tēvs ⟨את⟩ dēlu, ar ko viņš ir apmierināts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/9-12.1792528538929.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko Jahvs mīl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "mīl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvs"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "viņš pamāca"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "un kā tēvs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dēlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ar ko viņš ir apmierināts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:38.931083805Z",
+  "model": "glm-5.3"
+}

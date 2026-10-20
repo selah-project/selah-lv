@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחק\/הרחיק",
+      "rationale": "atbalss: 'tālu' un 'attālinājis' — viena sakne divreiz, latviski daļēji saglabāta (tālu\/attālinājis)."
+    }
+  ],
+  "translation": "Kā tālu austrums no rietumiem, tālu viņš attālinājis no mums ⟨את⟩ mūsu pārkāpumus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/9-12.1792528098103.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "kā tālu"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "austrums"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "no rietumiem"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "viņš attālinājis"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no mums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu pārkāpumus"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mūsu pārkāpumus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:18.105742272Z",
+  "model": "glm-5.3"
+}

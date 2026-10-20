@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mirstīgais cilvēks",
+      "rationale": "אנוש nozīmē mirstīgais — cilvēks kā trausla būtne; parasti 'cilvēks' zaudē šo nokrāsu."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Eloah",
+      "rationale": "Turpinās tieša uzruna Dievam ar retorisku jautājumu par Viņa redzējumu."
+    }
+  ],
+  "translation": "Vai tev ir miesas acis, vai Tu redzi, kā redz mirstīgais cilvēks?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/10\/1-4.1792529148447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "vai acis"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev ir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kā redz"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirstīgais cilvēks"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "Tu redzi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:48.448270282Z",
+  "model": "glm-5.3"
+}

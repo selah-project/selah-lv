@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש tuvāk ‘elpai\/dzīvības spēkam’ nekā ‘dvēselei’"
+    },
+    {
+      "kind": "elision",
+      "subject": "ēd",
+      "rationale": "Otrajā pusversā darbības vārds ‘ēd’ netiek atkārtots — latviski elipse ar domu zīmi"
+    }
+  ],
+  "translation": "No mutes augļa cilvēks ēd labu, bet nodevīgo dvēsele — varmību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/13\/1-4.1792528704911.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "no-augļa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mutes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "bet-dvēsele"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "nodevīgo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varmību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:24.912265901Z",
+  "model": "glm-5.3"
+}

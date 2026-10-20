@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד בש",
+      "rationale": "Pie kā kaunējas — Eliša (viņš turēja skatienu, līdz Hazaels apjuka) vai pats Eliša; tulkotāji dalīti."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Hazael⟩",
+      "rationale": "Ebrejiskā subjekta vārds nav tekstā; pievienots, lai skaidrs, kurš kaunējas."
+    },
+    {
+      "kind": "secret",
+      "subject": "Elišas skatiens un raudas",
+      "rationale": "Pravietis redz to, kas vēl nav atklāts (Hazaela nākotne), un aprauj pirms izteikšanas — aizturēta atklāsme."
+    }
+  ],
+  "translation": "Un viņš nostādīja ⟨את⟩ savu seju un turēja to, līdz ⟨Hazael⟩ kaunējās, un Elohim vīrs raudāja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/8\/9-12.1792521325937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Un nostādīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu seju"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un turēja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "בש",
+      "gloss": "kaunējās"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "un raudāja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:25.938922476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "'Kas tev dotu' — ebreju vēlēšanās idiomātika 'kas dotu, ka tu būtu', latviski atstāta kā jautājuma forma"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir · vairs",
+      "rationale": "Latviešu valodai vajadzīgā saikle un laika precizējums, ebreju tekstā nav"
+    },
+    {
+      "kind": "invitation",
+      "subject": "glosemāruna",
+      "rationale": "Runātāja gaidu izsaukums vērsts uz mīļoto — tiešs personīgs uzrunas sākums"
+    }
+  ],
+  "translation": "Kas tev dotu ⟨ir⟩ kā brālis man, kas zīzija mana mātes krūtis! Es tevi atrastu ārā, es tevi skūpstītu, un mani ⟨vairs⟩ nenievātu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/1-4.1792529746320.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "tev dotu"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kā brālis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "kas zīzija"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "krūtis"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mana mātes"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "Es tevi atrastu"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "es tevi skūpstītu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "nienātu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:46.321495687Z",
+  "model": "glm-5.3"
+}

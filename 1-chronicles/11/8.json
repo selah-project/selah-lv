@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "gloss": " Hebrew ויבפ nav subjekta; pievienots 'viņš' (Davids)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atjaunoja",
+      "rationale": "יחיה no חיה 'dzīvot' — kavz. 'uzdzīvināja, atjaunoja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Milo",
+      "rationale": "המלוא — 'uzpildījums, valnis'; dažs tulko 'valni' vai 'terasi', paturēts īpašvārds Milo"
+    }
+  ],
+  "translation": "Un viņš uzcēla ⟨את⟩ pilsētu apkārt, no Milo apkārt līdz visam apkārtnei; un Joābs atjaunoja ⟨את⟩ pilsētas atlikušo daļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/5-8.1792531299033.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Un uzcēla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "apkaimei"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "un Joābs"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "atjaunoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētas atlikušo daļu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "atlikušo daļu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:39.035879353Z",
+  "model": "glm-5.3"
+}

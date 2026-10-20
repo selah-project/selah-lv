@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir celtas⟩",
+      "rationale": "Ebreju שם ('celt\/likt') bez izteikta pārveidotāja; latviešu valodai vajadzīga lokāma forma."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשף",
+      "rationale": "Vakara krēsla\/vēsma brīdis: 'krēsla' pret 'nakts' (KJV) — nozīmē arī baudas stundu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "manis mīļoto krēslu",
+      "rationale": "Burtiski 'mana iekāres krēsla'; var lasa arī kā 'vakars, ko es iemīļoju'."
+    }
+  ],
+  "translation": "Mans sirds prāts klīst, šausmas mani pārņēmušas; ⟨את⟩ manis mīļoto krēslu ⟨ir celtas⟩ man par trīsēšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/21\/1-4.1792522183612.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "klīst"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mans sirds prāts"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "šausmas"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mani pārņēmušas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manis mīļoto krēslu"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "krēslu"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "manis mīļoto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ir celtas⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "par trīsēšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:43.613826231Z",
+  "model": "glm-5.3"
+}

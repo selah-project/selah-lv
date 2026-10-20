@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ודעת קדשים אדע",
+      "rationale": "Vai turpinās noliegums ('nezinu svētā atziņu') vai apgalvojums ('svēto atziņu es tomēr zinu' — kā ylt); daudzskaitlis קדשים — 'svētā' vai 'svētie'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "vai es to zinu",
+      "rationale": "Otrais lasījums: jautājuma pieturzīme vietā — 'svēto atziņu es zinu' kā apbrīnas pilns apgalvojums."
+    }
+  ],
+  "translation": "Un gudrību es neesmu mācījies, un svēto atziņu — vai es to zinu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/1-4.1792528949933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "es neesmu mācījies"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrību"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "un… atziņu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svēto"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "es zinu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:29.934750039Z",
+  "model": "glm-5.3"
+}

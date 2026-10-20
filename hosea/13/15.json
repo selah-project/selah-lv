@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 13:15",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן",
+      "rationale": "norādītais בֵּין = 'starp', bet KJV\/Ženēva lasa 'dēls' ('auglīgs dēls starp brāļiem'); te ņemts burtiskais 'starp'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפריא \/ אפרים",
+      "rationale": "sagriež Efraima vārdu: 'viņš nes augļus' (פרה) atbalso 'Efrayim' — vārdu spēle zūd tulkojumā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā 'ruah' — viens vārds gan vējam, gan elpai, gan Garam"
+    }
+  ],
+  "translation": "Jo viņš starp brāļiem nes augļus: nāks austrumu vējš, Jahve ruah ceļas no tuksneša, un izžūs viņa avots, un izkalst viņa avotmale; viņš izlaupīs krājumu — visu iekārojamāko trauku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/13\/13-15.1792526085738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "starp"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brāļiem"
+    },
+    {
+      "surface": "יפריא",
+      "gloss": "nes augļus"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austrumu vējš"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "no tuksneša"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ceļas augšup"
+    },
+    {
+      "surface": "ובוש",
+      "gloss": "un izžūs"
+    },
+    {
+      "surface": "מקורו",
+      "gloss": "viņa avots"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "un izkalst"
+    },
+    {
+      "surface": "מעינו",
+      "gloss": "viņa avotmale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ישסה",
+      "gloss": "izlaupīs"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "krājumu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "trauku"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "iekārojamāko"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:45.739804781Z",
+  "model": "glm-5.3"
+}

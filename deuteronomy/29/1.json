@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Moše vēršas pie visa Jisraēla ar tiešu uzrunu: jūs redzējāt."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Ebreju priekšmeta izteiksmes paliek; latviešu laika forma 'redzējāt' jau nes 'jūs'."
+    }
+  ],
+  "translation": "Un aicināja Moše visu Jisraēlu un sacīja viņiem: jūs redzējāt ⟨את⟩ visu, ko Jahve darīja jūsu acīs Micraimas zemē Paraonam un visiem viņa kalpiem un visai viņa zemei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/29\/1-4.1792517351916.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "un aicināja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "redzējāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu (ko darīja Jahve)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "jūsu acīs"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paraonam"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visiem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpiem"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "un visai"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "viņa zemei"
+    }
+  ],
+  "timestamp": "2026-10-20T17:29:11.917464262Z",
+  "model": "glm-5.3"
+}

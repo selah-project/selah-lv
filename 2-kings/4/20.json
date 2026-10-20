@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הצהרים",
+      "rationale": "Duālis 'dubulta gaisma' — pusdienlaiks; latviski duāļa forma nav atveidojama."
+    }
+  ],
+  "translation": "Un viņš viņu pacēla un atnesa pie viņa mātes, un viņš sēdēja uz viņas ceļiem līdz pusdienlaikam un nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca253677765070efbb50609183ae5d92d520e264bdfd970bd6e912c26a057b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/4\/17-20.1792521169222.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "pacēla"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "atnesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "viņa mātes"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sēdēja"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "viņas ceļiem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "pusdienlaikam"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T18:32:49.223410372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨doto⟩",
+      "rationale": "'Mošes rokā' burtiski nozīmē 'ar Mošes roku'; latviski vajag priedekli 'doto', lai teikums skaidrs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sudrabs",
+      "rationale": "הכסף ir sudrabs; kontekstā nauda — saglabāts burtiskais vārds"
+    }
+  ],
+  "translation": "Un, kad tie iznesa ⟨את⟩ sudrabu, kas tika ienests Jahves namā, priesteris Hilkija atrada ⟨את⟩ Toras grāmatu, Jahves ⟨doto⟩ Mošes rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/13-16.1792532436428.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "un, kad tie iznesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "kas tika ienests"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "atrada"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toras grāmatu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:36.429459883Z",
+  "model": "glm-5.3"
+}

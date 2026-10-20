@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grēka upuris",
+      "rationale": "חטאת ir gan pārkāpums, gan tā upuris — latviski jāizvēlas upura nozīme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpirkšanas dienai",
+      "rationale": "הכפרים burtiski 'izpirkumi' — daudzskaitlis, attiecas uz Jom Kipura upuri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miņa",
+      "rationale": "ד2: מנחה kā upuris tiek paturēts kā 'miņa', nevis tulkots vienā vārdā."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viens āzis",
+      "rationale": "Precīzs upuru skaits un to kārtība svētkos."
+    }
+  ],
+  "translation": "vienš āžu āzis par grēka upuri, papildus grēka upurim izpirkšanas dienai, un ikdienas dedzināmais upuris, un tā ⟨מנחה⟩ miņa, un to dzērienu upuri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb624fb4e3e7a8b30598a6537c94e85c21e7a3fc56b77b52574b5a8952ca2b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/29\/10-11.1792532521163.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "āzis"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "āžu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēka upuris"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "papildus"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēka upurim"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "izpirkšanas dienai"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "un dedzināmais upuris"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ikdienas"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "un tā ⟨מנחה⟩ miņa"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "un to dzērienu upuri"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:01.163787884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kā Elohim",
+      "rationale": "כאלהים — daudzskaitļa forma: 'kā Elohim' (BSB) pret 'kā dievi' (KJV); čūklis runā par Elohim pašu daudzskaitlī."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ורע",
+      "rationale": "pretnu pāris 'labs un ļauns' — vārdu pāris, kas atkārtojas 3:5 un 3:6."
+    }
+  ],
+  "translation": "jo Elohim zina, ka tanī dienā, kad jūs no tā ēdīsiet, jūsu acis tiks atvērtas, un jūs būsiet kā Elohim, pazīdami labu un ļaunu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/3\/5-8.1792511477132.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "jūs ēdīsiet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "tiks atvērtas"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "jūsu acis"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "un jūs būsiet"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kā Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "pazīdami"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "un ļaunu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:17.133538853Z",
+  "model": "glm-5.3"
+}

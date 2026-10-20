@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' — pievienots latviski."
+    },
+    {
+      "kind": "crux",
+      "subject": "לאיתיאל ואכל",
+      "rationale": "Vārdi kā īsvārdi (Itiēls un Ukāls) vai kā frāze 'ar Dievu esmu noguris un izsmelts' — senie tulki šķīrās."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יקה",
+      "rationale": "Jāke — vārds sastopams tikai šeit Tanahā."
+    }
+  ],
+  "translation": "Agūra, Jakes dēla, vārdi — ⟨ir⟩ nesums, ko sacīja ⟨ir⟩ vīrs: Itiēlam, Itiēlam un Ukālam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/1-4.1792528949933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Agūra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Jakes"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "nesums"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Itiēlam"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Itiēlam"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "un Ukālam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:29.934302530Z",
+  "model": "glm-5.3"
+}

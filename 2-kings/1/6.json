@@ -1,0 +1,203 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "Infinitīva absolūta atkārtošana: 'nāvi tu nomirsi' — 'noteikti nomirsi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tur",
+      "rationale": "שם 'tur' latviešu teikumā saplūst ar relatīvo 'uz kuras', atstāts ⟨tur⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "elahs",
+      "rationale": "אלהי עקרון — ārzemju elks, tāpēc mazs 'elahs', nevis Elohim."
+    }
+  ],
+  "translation": "Un viņi sacīja viņam: Kāds vīrs uzkāpa mums pretī un sacīja mums: Ejiet, atgriezieties pie ķēniņa, kas ⟨את⟩ jūs sūtīja, un runājiet viņam: Tā saka Jahve: Vai tāpēc, ka nav Elohim Jisraēlā, tu sūti vaicāt Baal-Zebubam, Ekronas elaham? Tāpēc gulta, uz kuras tu uzkāpi, no tās tu nenokāpsi, jo nāvi tu nomirsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/1\/5-8.1792521102782.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "un viņi sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uzkāpa"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "mums pretī"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ejiet"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "atgriezieties"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sūtīja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "un runājiet"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "vai tāpēc, ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sūti"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "vaicāt"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zebubam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elaham"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronas"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gulta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uz kuras"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "tu uzkāpi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨tur⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "tu nokāpsi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "no tās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tu nomirsi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:42.783712783Z",
+  "model": "glm-5.3"
+}

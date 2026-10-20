@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 2:13",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לבוא עמה",
+      "rationale": "'lai ņemtu līdzi, nākot' — ebreju burtiski 'nākt ar viņu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנערה",
+      "rationale": "'jaunaviete' atspoguļo būtību — jauna meitene, ne obligāti jaunava."
+    }
+  ],
+  "translation": "Un šādā veidā jaunaviete nāca pie ķēniņa: ⟨את⟩ visu, ko viņa teica, viņai tika dots, lai ņemtu līdzi, nākot no sieviešu nama līdz ķēniņa namam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/13-16.1792530102064.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "un šādā veidā"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "jaunaviete"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu, ko viņa teica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "viņa teica"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "tika dots"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākot"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "līdzi ar viņu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "sieviešu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:42.065596964Z",
+  "model": "glm-5.3"
+}

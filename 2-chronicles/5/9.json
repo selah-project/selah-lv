@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 5:9",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stieņi",
+      "rationale": "הבדים ir arona nesamie stieņi, ne vispārīgi zari vai bardas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tās⟩ · ⟨ir⟩",
+      "rationale": "latviešu valodai vajadzīgs vietniekvārds un palīgdarbības vārds, kuru ebreju tekstā nav"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דביר",
+      "rationale": "retais vārds debīr — vissvētākās telpas nosaukums; saglabāts pēc skanējuma"
+    }
+  ],
+  "translation": "Un stieņi tika izstiepti garumā, un stieņu gali bija redzami no aronas debīra priekšā, bet ārpus ⟨tās⟩ tie nebija redzami; un tie ⟨ir⟩ tur līdz šai dienai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/5\/9-12.1792531754563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאריכו",
+      "gloss": "tika izstiepti garumā"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stieņi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bija redzami"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "gali"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stieņi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aronas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debīra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bija redzami"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ārpus"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dijenai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    }
+  ],
+  "timestamp": "2026-10-20T21:29:14.563640251Z",
+  "model": "glm-5.3"
+}

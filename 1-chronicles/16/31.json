@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 16:31",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav kopulas; מלך ir perfekts — 'kļuvis ķēniņš'"
+    },
+    {
+      "kind": "addition",
+      "subject": "subjekts 'viņi'",
+      "rationale": "ויאמרו nav skaidri norādīts, kas saka — tautas vai debesis un zeme"
+    }
+  ],
+  "translation": "Lai gavilē debesis un priecājas zeme, un lai tautās saka: Jahve ir kļuvis ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c3b8c3b3d19f23b374219ff729bd57dad533c1674b04d21555e7498866172e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/31-32.1792532971797.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "lai gavilē"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "un priecājas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un lai saka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tautās"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ir kļuvis ķēniņš"
+    }
+  ],
+  "timestamp": "2026-10-20T21:49:31.797694276Z",
+  "model": "glm-5.3"
+}

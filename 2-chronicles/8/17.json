@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krasta",
+      "rationale": "שפת ir 'lūpa', malas nozīmē — latviski 'krasts'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jūras krasta",
+      "rationale": "ģeogrāfiskā precizitāte: vietas pie jūras Edoma zemē"
+    }
+  ],
+  "translation": "Tad Šelomohs devās uz Ecjon-Geberu un uz Eilotu, pie jūras krasta Edoma zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b0a08f6a34824032d45d37eea1a8fb755276d8e538a2d61cb440801279a0020e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/8\/17-18.1792531828984.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "devās"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomohs"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "uz Ecjon-Geberu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨Ecjon-Geberu⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilotu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "krasta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūras"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-20T21:30:28.986015811Z",
+  "model": "glm-5.3"
+}

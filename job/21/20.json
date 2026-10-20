@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 21:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "postu",
+      "rationale": "כיד burtiski 'saspiešana, samalsana' — fizisks tēls, kas latviski kļūst par 'postu'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "izdzer dusmas",
+      "rationale": "Dzēruma tēls par Dieva dusmu pilnu izdzesu — ebreju idiomātiskais Karības kauss, latviski saglabāts burtiski."
+    },
+    {
+      "kind": "addition",
+      "subject": "paša",
+      "rationale": "Piedevots, lai uzsvaru: acīm jāredz paša posts, nevis dēlu — Ijaba argumenta kodols."
+    }
+  ],
+  "translation": "Lai viņa paša acis redz savu postu, un no Šadai dusmām lai viņš izdzer.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4ec48aff828a92e00a6ede866ee161b968ba5bf2e1d4652bf9ddd7d68ab7197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/21\/17-20.1792529345233.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "redz"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "viņa paša acis"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "savu postu"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "no dusmām"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "lai viņš izdzer"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:05.234770343Z",
+  "model": "glm-5.3"
+}

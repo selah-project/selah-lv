@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סריס",
+      "rationale": "sākotnēji 'kastrāts'; persiešu galmā 'galminieks' — šeit saglabāts abu nozīmju pavediens"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה זה ועל מה זה",
+      "rationale": "atkārtots jautājums 'kas šis un kāpēc šis' — ivrita atkārtojums, latviski saglabāts"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs saiklis, ivritā tā nav"
+    }
+  ],
+  "translation": "Un Estere pasauca Hasahu, vienu no ķēniņa galminiekiem-tPerlPHeksem, ko tas bija nostādījis viņas priekšā, un viņa tam deva pavēli par Mordehaju, lai uzzinātu, kas ⟨ir⟩ šis un kāpēc ⟨ir⟩ šis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/4\/5-8.1792530102058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "pasauca"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hasaham"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "galminiekiem-tPerlPHeksem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "bija nostādījis"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "viņas priekšā"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "deva viņam pavēli"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaju"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "lai uzzinātu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un kāpēc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:42.059485626Z",
+  "model": "glm-5.3"
+}

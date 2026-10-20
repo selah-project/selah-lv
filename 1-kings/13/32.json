@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 13:32",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda iztrūkstošo saikli 'kas ir' pieprasa kā latviešu palīgdarbības vārdu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "היה יהיה",
+      "rationale": "Ebreju infinitiva absolūta pastiprinājums 'notikt notiks' atstāts kā 'pats notiks'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "'Augstienes' — kultiski uzkalni; 'elku nami' būtu tulkota loma, ne forma."
+    }
+  ],
+  "translation": "Jo pats tas vārds notiks, ko viņš pasludināja ar Jahves vārdu pret altāri, kas ir Betelē, un pret visiem augstieņu namiem, kas ir Šomronas pilsētās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "189f4c3fa0a2336744f0958d9cdc0372276d10d45b2e390db8ef0538550aa793",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/13\/32-32.1792532601381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pats notiks"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "notiks"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tas vārds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "viņš pasludināja"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ar vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altāri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ir Betelē"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-Elā"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "namiem"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "augstieņu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ir pilsētās"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:21.382410436Z",
+  "model": "glm-5.3"
+}

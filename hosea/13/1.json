@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā teikumā par trīci nav darbības vārda 'bija'"
+    },
+    {
+      "kind": "you",
+      "subject": "Efrajim",
+      "rationale": "Runa ir par Efrajimu cilti, nevis atsevišķu cilvēku — cilts pacelšanās un krišana"
+    }
+  ],
+  "translation": "Kad Efrajims runāja, bija trīce; viņš tika pacelts Jisraēlā; bet, kad kļuva vainīgs ar Baalu, viņš nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/13\/1-4.1792526108764.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Kad… runāja"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "trīce"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tika pacelts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "kļuva vainīgs"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ar Baalu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:08.765350906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zem vīna koka un vīģes koka",
+      "rationale": "Ebreju idiom par mieru un drošību (sal. Miha 4:4); 'aicināt zem koka' = aicināt uz mierpilnu sarunu."
+    },
+    {
+      "kind": "addition",
+      "subject": "nākt",
+      "rationale": "Pievienots piederības darbības vārds 'nākt', lai latviski skaidrotu aicinājuma mērķi."
+    }
+  ],
+  "translation": "Tanī dienā, saka Jahve Cevaot, ikviens no jums aicinās savu tuvāko ⟨nākt⟩ zem vīna koka un zem vīģes koka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a48b11ca5fa10cdb704e4b4438d4a9de2af6df72587436249cb80321982d0faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/3\/9-10.1792526755538.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aicināsiet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "savu tuvāko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vīna koka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "vīģes koka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:05:55.540913798Z",
+  "model": "glm-5.3"
+}

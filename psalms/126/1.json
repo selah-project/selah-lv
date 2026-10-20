@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיבת",
+      "rationale": "Burtiski 'atgriešanās\/atgriešana'; tradicionāli 'gūsta atgriešana' — šeit turēts burtiskais veidols."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sapņotāji",
+      "rationale": "כחלמים — kā tie, kas sapņo; daudzskaitļa dalība, ne vienkārši 'kā sapnī'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשוב…שיבת",
+      "rationale": "Saknes שוב atkārtojums vienā teikumā — 'atgriežot atgriešanos', latviski atspoguļots ar vienu sakni."
+    }
+  ],
+  "translation": "Dziesma par augšupejām. Kad Jahve atgrieza ⟨את⟩ Ciionas atgriešanos, mēs bijām kā sapņotāji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/126\/1-4.1792528405798.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dziesma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "par augšupejām"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "atgrieza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciionas atgriešanos"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "atgriešanos"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciionas"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "bijām"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kā sapņotāji"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:25.799543964Z",
+  "model": "glm-5.3"
+}

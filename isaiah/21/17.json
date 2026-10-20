@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 21:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav palīgdarbības vārda perfecta formai דבר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהי ישראל attieksmes ģenitīvs — Jisraēla Elohim, nevis 'Jisraēla Dievs'"
+    }
+  ],
+  "translation": "Un pārpalikums no skaita, loka varoņiem, Kedāra dēliem, taps mazs, jo Jahve, Jisraēla Elohim, ⟨ir⟩ runājis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2e934902d6f924564a617317512fd8e33e456b9a7f9f6ec2705c40c011818d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/21\/17-17.1792522122770.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Un pārpalikums"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "no skaita"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "loka"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "varoņiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedāra"
+    },
+    {
+      "surface": "ימעטו",
+      "gloss": "taps mazs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runājis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:48:42.770864712Z",
+  "model": "glm-5.3"
+}

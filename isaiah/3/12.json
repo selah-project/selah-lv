@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעולל",
+      "rationale": "No עלל: 'mazuļi\/zīdaiņi' (JPS 'a babe') pret KJV 'bērni' un saistību ar 'izspiedēji' — kurš vārds pieder pie kā, slaveni strīdīgs."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאשריך",
+      "rationale": "No אשר: 'tie, kas tevi svētī\/apsveic' (YLT 'eulogists') pret tradicionālo 'tie, kas tevi vada' (KJV no klusām labojuma)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמי ... עמי",
+      "rationale": "Atkārtota tiesas sākuma daļa ('Mans ļaudis — ... Mans ļaudis —') veido paralēlu struktūru, latviski saglabāts."
+    },
+    {
+      "kind": "you",
+      "subject": "uzrunāts ļaudis",
+      "rationale": "'Tevi svētī, tevi maldina, tavu taku' — pēkšņa pāreja uz otro personu."
+    }
+  ],
+  "translation": "Mans ļaudis — bērni to apspiež, un sievas pār to valda. Mans ļaudis — tie, kas tevi svētī, tevi maldina, un tavu ceļu taku tie aprij.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f04059f1fdd7e48758f0f1a904ed5bfa8c29321e07d2e080d3d8420431c0c026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/3\/9-12.1792521792007.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mans ļaudis"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "apspiež"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "un sievas"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "valda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pār to"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mans ļaudis"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "kas tevi svētī"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "tevi maldina"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "un ceļu"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "tavu taku"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "aprij"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:12.008257994Z",
+  "model": "glm-5.3"
+}

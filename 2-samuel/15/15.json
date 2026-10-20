@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valoda to pieprasa."
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņam",
+      "rationale": "Kalpi runā tieši ar Davidu — pārstāvības pieteikums 'lūk, tavi kalpi'."
+    }
+  ],
+  "translation": "Un ķēniņa kalpi sacīja ķēniņam: Kā visu, ko izvēlēsies mans kungs ķēniņš — lūk, tavi kalpi ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/13-16.1792519955202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kā visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "izvēlēsies"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavi kalpi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:35.202983197Z",
+  "model": "glm-5.3"
+}

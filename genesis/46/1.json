@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Dievam⟩",
+      "rationale": "Latviešu valodai vajadzīgs lietvārds 'אלהי' priekšā; ebreju ģenitīva konstrukcija to neizsaka atsevišķi"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "Stāsts seko Jēkaba\/Jisraēla ceļam uz Micraimu"
+    }
+  ],
+  "translation": "Un Jisraēls devās ceļā ar visu, kas viņam piederēja, un nonāca Beer-Ševā, un upurēja upurus Elohim, sava tēva Jichaka ⟨Dievam⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02983721c50278084a40282e6836984b4f4e5716c3681489ef2d9de1cb374656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/46\/1-4.1792512558316.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "devās ceļā"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam piederēja"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un nonāca"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševā"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "un upurēja"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "upurus"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichaka"
+    }
+  ],
+  "timestamp": "2026-10-20T16:09:18.316799029Z",
+  "model": "glm-5.3"
+}

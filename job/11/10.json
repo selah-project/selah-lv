@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקהיל",
+      "rationale": "'sasauc kopā' — KJV 'gather together', ASV 'call unto judgment', BSB 'convenes a court'; darbības vārds nozīmē sanāksmi sasaukšanu, konteksts nosaka, vai tas ir tiesas sanāksme"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחלף",
+      "rationale": "'paiet garām' pret 'nogriež\/iznīcina' (Wycliffe) — sakne nozīmē paiet garām, bet kontekstā var nozīmēt pāreju soļošanu"
+    }
+  ],
+  "translation": "Ja viņš paiet garām un ieslēdz un sasauc ⟨kopā⟩, kas gan viņu atgriezīs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/11\/9-12.1792529108605.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "paiet garām"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "un ieslēdz"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "un sasauc"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "viņu atgriezīs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:08.606277008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרצים",
+      "rationale": "'skrejošie' — bēguļi\/aizsargi; KJV 'the guard', YLT 'runners'; latviski saglabāta skriešanas sakne."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩",
+      "rationale": "Ebreju suffiksa -ם objekts (vairogi) ievietots iekavās, jo latviešu teikumā vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרצים ... הרצים",
+      "rationale": "Atkārtots vārds ieskauj teikumu: skrejošie nes, skrejošo istabā atgriež — hiasms ar ישאום\/והשיבום."
+    }
+  ],
+  "translation": "Un notika, cik reižu ķēniņš nāca Jahves namā, skrejoši tie ⟨tos⟩nesa un atnesa ⟨tos⟩atpakaļ uz skrejošo istabu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a0f4042511fe4f2bd98d2312b4ea4ea8f91d956467bdbdddf6416a0f6d8ebf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/28-28.1792532600866.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "cik reižu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "nesa ⟨tos⟩"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "skrejoši"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "un atnesa ⟨tos⟩atpakaļ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תא",
+      "gloss": "istabu"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "skrejošo"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:20.867337965Z",
+  "model": "glm-5.3"
+}

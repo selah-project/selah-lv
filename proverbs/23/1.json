@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בין תבין",
+      "rationale": "Atkārtota tā pati sakne bīn — 'saproti, ko tu saproti' — latviskajā atkāpē saglabāta."
+    },
+    {
+      "kind": "invitation",
+      "subject": "teksts",
+      "rationale": "Pants vēršas tieši pie lasītāja ar otrās personas imperatīvu."
+    }
+  ],
+  "translation": "Kad tu sēdies ēst kopā ⟨את⟩ ar valdnieku, saproti, ko tu saproti ⟨את⟩ no tā, kas ir tavā priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/23\/1-4.1792528856662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tu sēdies"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valdnieku"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ar valdnieku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "saproti"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "tu saproti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "no tā, kas ir tavā priekšā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tavā priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:56.662611690Z",
+  "model": "glm-5.3"
+}

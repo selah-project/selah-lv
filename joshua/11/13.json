@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העמדות על תלם",
+      "rationale": "'kas stāv uz sava uzkalna' — daži tulko lasa 'kas stāvēja neskartas savā stiprumā' (KJV), citi 'uz tell uzmudinājuma' (ASV\/JPS); formas nozīme apspriežama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Hacors",
+      "rationale": "Ḥacor — pilsētas vārds, atstāts pēc ebreju skanējuma ar latvisku galotni."
+    }
+  ],
+  "translation": "Tikai visas pilsētas, kas stāvēja uz saviem uzkalniem, Jisraēls nededzināja; izņemot ⟨את⟩ Hacoru — to vienīgo Jozua dedzināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/11\/13-16.1792517842022.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "kas stāvēja"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "saviem uzkalniem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "dedzināja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hacoru"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacoru"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "to vienīgo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dedzināja"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozua"
+    }
+  ],
+  "timestamp": "2026-10-20T17:37:22.022949479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa vārda ‘vārdam agrāk Kirjat-Arba’"
+    }
+  ],
+  "translation": "Un Jehuda devās pret kanaāniešiem, kas dzīvoja Hevronā — bet Hevrona vārds agrāk bija Kirjat-Arba — un viņi sita ⟨את⟩ Šešaju un ⟨את⟩ Ahimanu un ⟨את⟩ Talaju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/9-12.1792518099156.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Un devās"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaāniešiem"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kas dzīvoja"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronā"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un vārds"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronas"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "agrāk"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "un viņi sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešaju"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešaju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Ahimanu"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Talaju"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talaju"
+    }
+  ],
+  "timestamp": "2026-10-20T17:41:39.157424677Z",
+  "model": "glm-5.3"
+}

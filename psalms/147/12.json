@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Jerušalaima un Ciona",
+      "rationale": "Pavēle pilsētai slavot Jahvi — pielūgšanas aicinājums."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaima, Ciona",
+      "rationale": "Dzejiskā tiešā uzruna personificētajai pilsētai."
+    }
+  ],
+  "translation": "Slavini, Jerušalaima, ⟨את⟩ Jahvi; teici savu Elohim, Ciona!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/147\/9-12.1792528487996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Slavini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "teici"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:47.997636080Z",
+  "model": "glm-5.3"
+}

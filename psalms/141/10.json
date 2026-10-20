@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kamēr pāriešu pāri",
+      "rationale": "עד אעבור — 'līdz es pāriešu': lūgums, lai ļaundari krīt, līdz runātājs droši paiet garām (YLT 'till I pass over')."
+    },
+    {
+      "kind": "addition",
+      "subject": "bet",
+      "rationale": "Ivritā pretstats starp רשעים un אנכי izteikts bez saikļa; latviešu valodai vajag 'bet'."
+    }
+  ],
+  "translation": "Lai ļaundari krīt sava tīklu slazdos kopā, bet es — kamēr pāriešu pāri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/141\/9-10.1792528418811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "lai krīt"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "sava tīklu slazdos"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaundari"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamēr"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "pāriešu pāri"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:38.812612346Z",
+  "model": "glm-5.3"
+}

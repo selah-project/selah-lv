@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uzticība",
+      "rationale": "Emunah burtiski ir 'cietība, stiprums' — Dieva uzticamība kā ciešs pamats, ne tikai abstrakta īpašība."
+    },
+    {
+      "kind": "addition",
+      "subject": "Tās ir",
+      "rationale": "Ebreju fragments bez darbības vārda; skaidrojums attiecas uz iepriekšējā panta רחמיו."
+    }
+  ],
+  "translation": "Tās ir jaunas katru rītu — liela ir Tava uzticība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/21-24.1792529827527.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "jaunas"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "katru rītu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liela"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "Tava uzticība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:07.528376030Z",
+  "model": "glm-5.3"
+}

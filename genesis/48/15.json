@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ganījis",
+      "rationale": "הרעה ir gana darbības vārds — 'ganīt mani kā avju'; daudzi tulko 'kopjis' vai 'barojis', bet vārda forma ir gans un bars"
+    }
+  ],
+  "translation": "Un viņš svētīja ⟨את⟩ Jozefu un sacīja: Elohim, pie kura staigāja mani tēvi viņa priekšā, Avrahams un Jichaks — Elohim, kas ganījis ⟨את⟩ mani kopš manas būšanas līdz šai dienai,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae6a3e29f2e5d88d418ae237d58e78f162bf8464a8f9ea965299d0a3727d48c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/48\/13-16.1792512600030.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "svētīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pie kura"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "staigāja"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mani tēvi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "un Jichaks"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kas ganījis"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mani"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "kopš manas būšanas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šai"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:00.032297451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrew lacks copula in nominal clause"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "lit. 'also\/but when', rendered as 'how much more' a fortiori idiom"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזמה",
+      "rationale": "'wicked plan\/intent' (KJV, Geneva) vs 'proceeds of wickedness' (JPS) — 'ill-gotten gain' reading"
+    }
+  ],
+  "translation": "Ļauno upuris ⟨ir⟩ negantība — vēl jo vairāk, ja viņš to nes ar ļaunu nolūku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "84f4548e8351d76146aa72aea0e2f8907670d4eb3da61c6c20aaaa98b26b10af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/21\/25-28.1792528787686.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "upuris"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ļauno"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "negantība"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vēl jo vairāk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "ar ļaunu nolūku"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "viņš to nes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:47.687515235Z",
+  "model": "glm-5.3"
+}

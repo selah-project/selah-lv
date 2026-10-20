@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "un es klusēju",
+      "rationale": "והחרשתי kā paziņojums (KJV, BSB) vai jautājums 'vai es klusēšu?' (JPS) — datīvs pārsteigumam."
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "Jahve runā tieši pret noziecēju — visa psalma 'tiesas'runas virziena kulminācija."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Latviešu valodai vajadzīgs priekšmets 'izkārtošu ko', ebreju tekstā tas izriet no konteksta."
+    }
+  ],
+  "translation": "Šo tu darīji, un es klusēju; tu domāji, ka es esmu kā tu; es tevi pierādīšu un izkārtošu ⟨to⟩ tavām acīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/50\/21-23.1792527594029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu darīji"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "un es klusēju"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "tu domāji"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "es esmu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kā tu"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "es tevi pierādīšu"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "un izkārtošu"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "tavām acīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.029702294Z",
+  "model": "glm-5.3"
+}

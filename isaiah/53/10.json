@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks', nevis dvēsele."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "אָשָׁם nozīmē gan 'vaina', gan 'vainas upuris' — šeit upuris."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'ja' var būt arī zvēresta daļiņa ('pat ja'), tāpēc daži tulko 'kad'."
+    }
+  ],
+  "translation": "Un Jahve iepatikās viņu saspiest, Viņš darīja viņu slimojošu; ja tu liksi par vainas upuri viņa dvēseli, viņš redzēs pēcnācējus, viņš garinās dienas, un Jahves labpatika viņa rokā sekmēsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/53\/9-12.1792522928121.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Un Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iepatikās"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "viņu saspiest"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "darīja viņu slimojošu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tu liksi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "par vainas upuri"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa dvēseli"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "viņš redzēs"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pēcnācējus"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "garinās"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "un labpatika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "viņa rokā"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "sekmēsies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:08.122776145Z",
+  "model": "glm-5.3"
+}

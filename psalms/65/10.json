@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim strauts",
+      "rationale": "פלג אלהים — 'Dieva (Elohim) strauts'; ģenitīvs var nozīmēt arī 'svētības straume, ko dod Elohim'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikles 'ir' teikumā par strautu"
+    }
+  ],
+  "translation": "Tu apciemo zemi un to aplaisti, bagātīgi to bagātini; Elohim strauts ir pilns ūdens; Tu gatavo viņu labību, jo tā Tu to gatavo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/65\/9-12.1792527749657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Tu apciemo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "un to aplaisti"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "bagātīgi"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "to bagātini"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "strauts"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ir pilns"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Tu gatavo"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "viņu labību"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "Tu to gatavo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:29.658732786Z",
+  "model": "glm-5.3"
+}

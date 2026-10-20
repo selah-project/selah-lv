@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "viņu",
+      "rationale": "'Viņu' pievienots skaidrībai: pārspēt var vientuļo (4:8 konteksts), nevis divus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "skaitļu kāpums",
+      "rationale": "Viens–divi–trīs: pantā skaitļi aug 1→2→3, noslēdzoties trīskāršajai auklai"
+    }
+  ],
+  "translation": "Un ja viens viņu pārspēs, divi stāvēs pretī viņam; un trīskāršā aukla ātri nepārtrūks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/4\/9-12.1792529880599.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "pārspēs"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stāvēs pretī"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "un aukla"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "trīskāršā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "ātri"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "pārtrūks"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:00.600324067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (2. reizi)",
+      "rationale": "šeit את ir vietniekvārds 'tu', nevis tiešā objekta marķieris — saglabāts kā 'tu'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tūkstoši tūkstošu",
+      "rationale": "לאלפי רבבה — skaitliska svētība: tūkstoširevavotu desmitiem tūkstošu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאיו",
+      "rationale": "no saknes שנא 'ienīst' — 'tie, kas to ienīst', atbilst D3: ienaidnieki kā ienīdēji"
+    },
+    {
+      "kind": "you",
+      "subject": "Rivkai",
+      "rationale": "svētības vārdi tieši Rivkai: 'Mūsu māsa, tu'"
+    }
+  ],
+  "translation": "Un viņi svētīja ⟨את⟩ Rivku un sacīja viņai: Mūsu māsa, tu esi — top par tūkstošiem tūkstošu, un lai tavs sēklums iemanto ⟨את⟩ savu ienaidnieku vārtus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "84588dc43baf0550b67766e79887d2558a20fa3afe634e8fc6222e81d68618fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/24\/57-60.1792512020899.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "Un viņi svētīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "Mūsu māsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היי",
+      "gloss": "top"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "par tūkstošiem"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tūkstošu"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "un lai iemanto"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavs sēklums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ienaidnieku vārti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtus"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "savu ienaidnieku"
+    }
+  ],
+  "timestamp": "2026-10-20T16:00:20.900336128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 16:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וָאֵקַל",
+      "rationale": "'Un es kļuvu viegla\/nievāta' — daudzi tulkotāji liek pasīvu 'tiku nievāta'; ebreju darājuma vārds ļauj arī 'es mazinājos' pašas acīs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמסי",
+      "rationale": "חמס nozīmē 'varmācība, netaisnība'; šeit metonīmiski — 'mana pārestība, kas man darīta'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Izrunas daļiņa pēc 'sacīja' latviešu valodā netiek atsevišķi tulkota."
+    }
+  ],
+  "translation": "Un Saraja sacīja Avrahamam: Mans pārestība ir uz tevi — es devu savu verdzeni tavā klēpī, un, kad viņa redzēja, ka ir ieņēmusi, es kļuvu nievāta viņas acīs. Lai Jahve tiesā starp mani un tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73132e5a38ec914800d77d7a654fe5de9d64668276b8ddd1bb6e8ab52e956b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/16\/5-8.1792511809532.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamam"
+    },
+    {
+      "surface": "חמסי",
+      "gloss": "mana pārestība"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ir uz tevi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "devu"
+    },
+    {
+      "surface": "שפחתי",
+      "gloss": "savu verdzeni"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "tavā klēpī"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "un viņa redzēja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "ir ieņēmusi"
+    },
+    {
+      "surface": "ואקל",
+      "gloss": "es kļuvu nievāta"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "viņas acīs"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Lai tiesā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "starp mani"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "un tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:49.532726259Z",
+  "model": "glm-5.3"
+}

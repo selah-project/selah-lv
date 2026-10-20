@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 7:3",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sejas",
+      "rationale": "אפים burtīgi 'deguni\/nāsis' — ebreju valoda saka 'nāsis pie zemes'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד viens vārds — 'žēlastība', 'mīlestība', 'lojalitāte' kopā; saglabāts hesed"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš \/ ir",
+      "rationale": "Ebreju teikumā nav ni subjekta, ni saikļa; latviski pievienots iekavās"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי טוב כי לעולם חסדו",
+      "rationale": "Liturģiskā atbalsu formula ar atkārtotu כי — izkārtojums zūd tulkojumā"
+    }
+  ],
+  "translation": "Un visi Jisraēla dēli redzēja uguns nokāpšanu un Jahves godu virs ⟨את⟩ nama, un viņi nometās uz ceļiem ar sejām pie zemes uz bruģakmeņiem, un klanījās, un pateicās Jahvem: jo ⟨viņš⟩ ir labs, jo mūžībai ⟨ir⟩ viņa hesed.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "027a0af9d447d234db7bde7354e4fd1ad6b6d841f5ce2dd7a49d47227aafc293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/7\/1-4.1792531774799.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "redzēja"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "nokāpšanu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "un gods"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ויכרעו",
+      "gloss": "un nometās uz ceļiem"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ar sejām"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pie zemes"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "bruģakmeņiem"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "un klanījās"
+    },
+    {
+      "surface": "והודות",
+      "gloss": "un pateicās"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ir labs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžībai"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "viņa hesed"
+    }
+  ],
+  "timestamp": "2026-10-20T21:29:34.801127604Z",
+  "model": "glm-5.3"
+}

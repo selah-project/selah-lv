@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאדני",
+      "rationale": "Norādīts kā 'mans kungs' (adoni) — cilvēks vai dievišķs adresāts; tradīcijas šķiras: Dāvids pats, kāds ķēniņš, vai pestītājs, ko nākamās tradīcijas lasīja mesijiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizmors",
+      "rationale": "מזמור ir instrumentālas mūzikas vārds; atstāts pēc skaņas kā 'mizmors', jo viens latviešu vārds nesedz nozīmi."
+    },
+    {
+      "kind": "mystery",
+      "subject": "pants kopumā",
+      "rationale": "Oracle (נאם) bez skaidra adresāta — tekstā apzināti apslēpts, kas ir 'mans kungs'."
+    }
+  ],
+  "translation": "Dāvida mizmors. Saka Jahve manam kungam: Sēdies pie manas labās rokas, kamēr es celšu tavus ienaidniekus par pakāpieni tavām kājām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/110\/1-4.1792528243285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dāvida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmors"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "manam kungam"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sēdies"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "pie manas labās rokas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamēr"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "es celšu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tavus ienaidniekus"
+    },
+    {
+      "surface": "הדום",
+      "gloss": "par pakāpieni"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "tavām kājām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:43.286301620Z",
+  "model": "glm-5.3"
+}

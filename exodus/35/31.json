@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח skanējums saglabāts; „gars” vai „vējš” vieni paši zaudē vārda daudznozīmību (elpa\/gars\/vējš)."
+    }
+  ],
+  "translation": "Un viņš piepildīja ⟨את⟩ viņu ar Elohim ruah — gudrībā, saprašanā un zināšanā un visā darbā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7c83903024cab554308cc179f179f25f5972054605fd971fdc545b5c08ce99fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/35\/29-32.1792513473039.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Un piepildīja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ruah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "gudrībā"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "saprašanā"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "un zināšanā"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un visā"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:33.040932133Z",
+  "model": "glm-5.3"
+}

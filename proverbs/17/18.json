@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sirds",
+      "rationale": "לב ir sirds kā prāta un gribas centrs, ne tikai jūtu orgāns."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sit plaukstu",
+      "rationale": "תוקע כף — roku sadursme kā ķīlas došanas žests, kā mūsdienu 'rokas spiešana' derībai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב \/ ערבה",
+      "rationale": "Darboņa un lietas vārds no vienas saknes ערב — 'ķīlā dot' un 'ķīla'."
+    }
+  ],
+  "translation": "Cilvēks, kam trūkst sirds, sit plaukstu, kļūst par ķīlā devēju savadrauga priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/17\/17-20.1792528744487.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kam trūkst"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "sit"
+    },
+    {
+      "surface": "כף",
+      "gloss": "plaukstu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kļūst par ķīlā devēju"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ķīla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sava drauga"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:04.488186046Z",
+  "model": "glm-5.3"
+}

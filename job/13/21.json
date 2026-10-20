@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 13:21",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "plauksta",
+      "rationale": "כף ir dobumainā plauksta vai ķepas pēda, ne vispārīga 'roka'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jovs vēršas tieši pie Elohim ar lūgumu attālināt savu roku un baismi"
+    }
+  ],
+  "translation": "Savu plaukstu attālini no manis, un savu baisman nepārbiedē mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a455f1b1c4bd559dde3698b0fa191b8eb7851ba0399fd9e51d07de977f477286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/13\/21-24.1792529096561.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפך",
+      "gloss": "savu plaukstu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "no manis"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "attālini"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "un savu baisman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "pārbiedē mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:56.561507031Z",
+  "model": "glm-5.3"
+}

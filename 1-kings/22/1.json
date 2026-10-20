@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mita",
+      "rationale": "וישבו burtiski 'sēdēja'; kontekstā 'dzīvoja mierā' — 'sēdēt' ebrejiski nozīmē arī mierīgi mitināties"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs gadus",
+      "rationale": "laika sprīdis, kas ietver aramiešu un Jisraēla pamieru"
+    }
+  ],
+  "translation": "Un viņi mita trīs gadus, nav kara starp Aramu un starp Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/1-4.1792520997842.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Un viņi mita"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:29:57.843511518Z",
+  "model": "glm-5.3"
+}

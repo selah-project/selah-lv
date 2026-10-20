@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואעד \/ עדים",
+      "rationale": "Viena sakne עד «liecināt \/ liecinieks» atkārtojas vienā teikumā; latviskā atbalss daļēji saglabāta vārdos «pavestināju \/ lieciniekus»."
+    }
+  ],
+  "translation": "Un es ierakstīju grāmatā, un es aizzīmogoju, un es pavestināju lieciniekus, un es nosvēru ⟨את⟩ sudrabu svaros.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/32\/9-12.1792523995595.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "un es ierakstīju"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "un es aizzīmogoju"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "un es pavestināju"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "lieciniekus"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "un es nosvēru"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "svaros"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:55.596731216Z",
+  "model": "glm-5.3"
+}

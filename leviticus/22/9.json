@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju valodā nav saikļa: אני יהוה מקדשם — 'es Jahve, svētdarītājs viņiem'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sardzību",
+      "rationale": "משמרת no שמר — 'apsardze, posteņa pienākums'; atkārto darbības vārda sakni ושמרו"
+    }
+  ],
+  "translation": "Un tie sargās ⟨את⟩ manu sardzību, un nenesīs uz tās grēku, un nemirs tanī, jo tie to apgāna; es ⟨esmu⟩ Jahve, kas viņus svētdara.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/22\/9-12.1792515053411.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Un tie sargās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu sardzību"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "manu sardzību"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nenesīs"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nenesīs"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz tās"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "grēku"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "un nemirs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "tie to apgāna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "kas viņus svētdara"
+    }
+  ],
+  "timestamp": "2026-10-20T16:50:53.413871822Z",
+  "model": "glm-5.3"
+}

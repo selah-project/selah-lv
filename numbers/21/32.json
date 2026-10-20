@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tā pilsētas",
+      "rationale": "בנתיה burtiski 'tās meitas' — apdzīvotās vietas Jazerai; latviskā idiomā 'pilsētas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izdzina",
+      "rationale": "ויירש burtiski 'izmantoja par mantojumu' — izdzīšana un apmešanās vienā vārdā."
+    }
+  ],
+  "translation": "Un Moše sūtīja izlūkot ⟨את⟩ Jazeru, un viņi ieņēma tā pilsētas un izdzina ⟨את⟩ emoriešus, kas tur bija.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1abd7f8370200f36086738e98cdeb118e69499015c65b1e1ba0dfb5932ee5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/21\/29-32.1792516008417.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "izlūkot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jazeru"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazeru"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "un viņi ieņēma"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "tā pilsētas"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "un izdzina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emoriešus"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:48.418957755Z",
+  "model": "glm-5.3"
+}

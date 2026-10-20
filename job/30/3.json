@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערקים ציה",
+      "rationale": "Vai 'tie, kas grauž sausās zemes (tukšumu)', vai (KJV pēc citātā līdzīga vārda) 'tie, kas bēg tuksnesī'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמש שואה ומשאה",
+      "rationale": "'Vakar\/pagājušonakt postība un drupas' — tumšs fragments; tulkotāji to saista ar bēgļiem vai ar tuksneša stāvokli."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה\/ומשאה",
+      "rationale": "Gandrīz vienādas saknes 'šoa\/mašoa' — postības atbalss, latviski daļēji zudama ar 'postība\/drupas'."
+    }
+  ],
+  "translation": "Trūkumā un badā pamesti, tie, kas grauž sausumu, pagājušonakt — postība un drupas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/30\/1-4.1792529478415.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "trūkumā"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "un badā"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "pamesti"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "tie, kas grauž"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sausumu"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "pagājušonakt"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "postība"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "un drupas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:18.416699340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu pārejas konstrukcijai vajadzīgs palīgdarbības vārds; ebreju valodā nav."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דבר יום ביומו",
+      "rationale": "Burtiski 'dienas lieta savā dienā' — ikdienas norma; tulkots kā 'katra dienas daļa savā dienā'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "līdz viņa nāves dienai",
+      "rationale": "Laika skaitīšana — diena pret dienu, visa mūža garums kā mērs."
+    }
+  ],
+  "translation": "Un viņa deva — ikdienas deva pastāvīgi tika ⟨ir⟩ dota viņam no ⟨את⟩ Babilonas ķēniņa, katra dienas daļa savā dienā, līdz viņa nāves dienai, visas savas dzīves dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/52\/33-34.1792524599228.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "un viņa devu"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "deva"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tika dota"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩",
+      "marks": "Babilonas ķēniņa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "daļa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "savā dienā"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienai"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "viņa nāves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savas dzīves"
+    }
+  ],
+  "timestamp": "2026-10-20T19:29:59.229028451Z",
+  "model": "glm-5.3"
+}

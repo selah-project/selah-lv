@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 13:13",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir 'plūdu-ruah': vētra kā ruah, nav tikai 'vējš'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "plūdu-ruah",
+      "rationale": "strong's 'plūdu-ruah' izgaismo no manis izraudzīts kā plūdu-ruah — see the raw word, see the raw act"
+    },
+    {
+      "kind": "substitution",
+      "subject": "akmeņi krusas",
+      "rationale": "strong's 'akmeņi krusas' izgaismo no manis izraudzīts kā akmeņi krusas — see the raw word, see the raw act"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir'"
+    }
+  ],
+  "translation": "Tāpēc tā saka Adonai Jahve: Un Es izraudzīšu plūdu-ruah savā niknumā, un paliekama lietus Manā dusmās būs, un krusas akmeņi negribēs — ⟨ir⟩, negantās krusas akmeņi niknumā par postu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/13\/13-16.1792524877339.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובקעתי",
+      "gloss": "Un Es izraušu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "plūdu-ruah"
+    },
+    {
+      "surface": "סערות",
+      "gloss": "vētru"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "savā niknumā"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "un lietus"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "paliekams"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "Manā dusmās"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "un akmeņi"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "krusas"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "niknumā"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "par postu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:34:37.340023359Z",
+  "model": "glm-5.3"
+}

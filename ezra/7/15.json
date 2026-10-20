@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 7:15",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elā",
+      "gloss": "Aramejas אלה — tas pats El, šeit Aramejas dokumentā lietots dieva vārds"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramejas tekstā iztrūkst saikle «kura mājas vieta ir Jerušalaimā»"
+    }
+  ],
+  "translation": "un aiznest sudrabu un zeltu, ko ķēniņš un viņa padomdevēji brīvprātīgi devuši Jisraēla Elā, kura mājas vieta ⟨ir⟩ Jerušalaimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/7\/13-16.1792530541368.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהיבלה",
+      "gloss": "un aiznest"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "un zeltu"
+    },
+    {
+      "surface": "די",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ויעטוהי",
+      "gloss": "un viņa padomdevēji"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "brīvprātīgi devuši"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Elā"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "די",
+      "gloss": "kura"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "משכנה",
+      "gloss": "mājas vieta — miškans"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:01.370188830Z",
+  "model": "glm-5.3"
+}

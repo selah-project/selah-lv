@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 29:6",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīga kopa 'es esmu', ebreju valodā tās nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משענת קנה",
+      "rationale": "niedres balsta tēls — niedre lūst, kad uz to atspiežas; 29:7 to izvērš par spēka darbu"
+    }
+  ],
+  "translation": "Un zinās visi Micraimas iedzīvotāji, ka es esmu Jahve, tāpēc ka tie bija niedres balsts Jisraēla namam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6259207c75eb5328c10b54ed9170e8492f06ad95e8dfc1a9c6435aa5df65a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/29\/5-8.1792525354437.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "un zinās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iedzīvotāji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "tie bija"
+    },
+    {
+      "surface": "משענת",
+      "gloss": "balsts"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "niedres"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:34.438929137Z",
+  "model": "glm-5.3"
+}

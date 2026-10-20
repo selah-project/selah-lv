@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "darbības vārdi 2. personas vienskaitlī ('tu'), bet הייתם daudzskaitlī ('jūs bijāt') — ebreju tekstā šī mijarbība ir apzināta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svešinieks",
+      "rationale": "גר ir viesis, kas dzīvo zemē, kas nav viņa; 'svešinieks' tuvākais latviešu vārds, pilnā aina 'ieraicis viesis'"
+    }
+  ],
+  "translation": "Un svešinieku nenodarīsi pāri un viņu neapspiedīsi, jo jūs bijāt svešinieki Micraimas zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/17-20.1792513095325.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Un svešinieku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "nodarīsi pāri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "apspiedīsi viņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "svešinieki"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jūs bijāt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:15.326468122Z",
+  "model": "glm-5.3"
+}

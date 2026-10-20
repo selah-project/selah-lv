@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lietas",
+      "rationale": "Ebrejs saka tikai 'trīs' — skaitlis bez lietvārda, ⟨lietas⟩ pievienots latviešu valodas labad"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטה עליך",
+      "rationale": "'es sniedzu\/pagarino pār tevi' — tradicionāli 'es piedāvāju', bet nozīme ir draudoša izvēle"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bajer leka",
+      "rationale": "Pavēle izvēlēties — prasība pēc lēmuma"
+    }
+  ],
+  "translation": "Ej un runā ar Davidu un saki: tā saka Jahve: trīs ⟨lietas⟩ es sniedzu pār tevi — izvēlies sev vienu no tām, un es to izdarīšu tev.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56994edef3d115b73766d68847d44b8650833fc1cfb360ef4d9fc08c069a4c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/21\/9-12.1792531471325.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ej"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "un runāsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sniedzu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izvēlies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "no tām"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "un izdarīšu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:31.326047490Z",
+  "model": "glm-5.3"
+}

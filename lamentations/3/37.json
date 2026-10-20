@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums lasītājam",
+      "rationale": "Rētainais jautājums vēršas pie klausītāja"
+    }
+  ],
+  "translation": "Kas ⟨ir⟩ tas, kas runā, un tas notiek, ja Adonai to nav pavēlējis?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/37-40.1792529796554.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "un tas notiek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlējis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:36.555145269Z",
+  "model": "glm-5.3"
+}

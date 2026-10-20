@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבור",
+      "rationale": "Burtiski 'bedre\/cisterna' — tas pats vārds, kurā brāļi iemeta Jāzepu (1. Mozus 37:20); 'cietums' būtu konteksta pievienojums."
+    },
+    {
+      "kind": "addition",
+      "subject": "steidzīgi",
+      "rationale": "ויריצהו burtiski 'viņu skrēja' — darbības vārda 'skriet' piespiešanas nozīme attiecināta uz steidzīgu izvešanu."
+    }
+  ],
+  "translation": "Un faraons sūtīja un pasauca ⟨את⟩ Jāzepu, un viņu steidzīgi izveda no cisternas; un viņš noskuvās un pārmainīja savas drēbes un iegāja pie faraona.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/41\/13-16.1792512441261.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un sūtīja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraons"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un pasauca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jāzepu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jāzepu"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "un viņu steidzīgi izveda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "cisternas"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "un noskuvās"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "un pārmainīja"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "savas drēbes"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un iegāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:21.262143964Z",
+  "model": "glm-5.3"
+}

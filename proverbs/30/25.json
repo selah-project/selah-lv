@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa starp teikuma daļām"
+    },
+    {
+      "kind": "substitution",
+      "subject": "barība",
+      "rationale": "לחם burtiski maize\/dzīvs pārtika — skudrām der 'barība'"
+    }
+  ],
+  "translation": "Skudras — tauta, kas nav spēcīga, tomēr tās vasarā sagatavo ⟨את⟩ savu barību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/25-28.1792528903820.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "skudras"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēcīga"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "sagatavo"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "vasarā"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "savu barību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:43.821471001Z",
+  "model": "glm-5.3"
+}

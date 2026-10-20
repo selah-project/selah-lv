@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tika zagts",
+      "rationale": "'יְגֻנָּב' nozīmē 'nāk zaglīgi, slepeni' — vārds iezogas kā zaglis; latviski 'tika zagts klusi' glabā attēlu"
+    },
+    {
+      "kind": "secret",
+      "subject": "slepens vārds",
+      "rationale": "vārds nāk slēpti, ausī tikai šķipsna — Elifaza redzējuma ievads"
+    },
+    {
+      "kind": "mystery",
+      "subject": "שמץ",
+      "rationale": "'šemec' — tikai viegla mājiensa šķipsna no vārda; teksturē nākamo apokaliptisko redzējumu"
+    }
+  ],
+  "translation": "Un pie manis kāds vārds tika zagts klusi, un mana auss uztvēra no tā vien čukstu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/4\/9-12.1792528973104.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "un pie manis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "tika zagts"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "un uztvēra"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mana auss"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "čukstu"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "no tā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:53.105753788Z",
+  "model": "glm-5.3"
+}

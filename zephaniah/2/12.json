@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המה",
+      "rationale": "Skaitlis nesakrīt: 'jūs' daudzskaitlī, bet המה 'viņi' — daži tulkotāji lasa kā apgalvojumu par kušīšu likteni, citi mīkstina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kušīti",
+      "rationale": "Tradicionāli 'etiopieši'; kušīti saglabā ebreju skanējumu Kūš zemes iedzīvotājiem."
+    }
+  ],
+  "translation": "Arī jūs, kušīti — viņi ir mana zobena caurdurtie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "81d8399dd224d8bba39d3baf4be5b5f1efb37fda1f32718a1e90c4ebc063364a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/2\/9-12.1792526642492.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "kušīti"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "caurdurtie"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "mana zobena"
+    },
+    {
+      "surface": "המה",
+      "gloss": "viņi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:02.493669151Z",
+  "model": "glm-5.3"
+}

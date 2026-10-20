@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפשום חיים \/ חיים תפשום",
+      "rationale": "hijazms: identiskie vārdi abos teikumos apgrozīti (A-B \/ B-A), latviski atstāts ar vārdu kārtas maiņu"
+    },
+    {
+      "kind": "you",
+      "subject": "saņemiet",
+      "rationale": "Ben-Hadada pavēle saviem vīriem — netiešs uzrunas dialogs"
+    }
+  ],
+  "translation": "Un viņš sacīja: Ja miera dēļ viņi ir iznākuši — saņemiet viņus dzīvus; un ja kara dēļ viņi ir iznākuši — dzīvus saņemiet viņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/20\/17-20.1792520960738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "miera dēļ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "viņi ir iznākuši"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "saņemiet viņus"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvus"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kara dēļ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "viņi ir iznākuši"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvus"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "saņemiet viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T18:29:20.739757530Z",
+  "model": "glm-5.3"
+}

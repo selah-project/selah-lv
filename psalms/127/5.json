@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כִּי",
+      "rationale": "'jo' pretī 'kad' — KJV\/BSB lasa adversatīvi ('bet'), JPS lasa 'kad'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikla 'ir'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אֶת (otrais)",
+      "rationale": "Šis אֵת ir prievārds 'ar', saglabāts kā ⟨את⟩ pēc Selah konvencijas."
+    },
+    {
+      "kind": "you",
+      "subject": "lasītājam",
+      "rationale": "Pants ir aplāde, kas vērsta pie lasītāja ar 'svētīgs ir' (אַשְׁרֵי)."
+    }
+  ],
+  "translation": "Svētīgs ir vīrs, kas piepildījis ⟨את⟩ savu bultu tulni ar tiem: viņi netiks kaunināti, kad runās ⟨את⟩ ar ienaidniekiem vārtos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/127\/5-5.1792528354473.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "svētīgs"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "piepildījis"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "savu bultu tulni"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "savu bultu tulni"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "ar tiem"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "tiks kaunināti"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "runās"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ar ienaidniekiem"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "ienaidniekiem"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "vārtos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:34.473647748Z",
+  "model": "glm-5.3"
+}

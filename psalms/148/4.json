@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "debšu debesis",
+      "rationale": "שמי השמים burtiski 'debešu debesis' — statusa superlatīvs ebreju valodā"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā nav kopulas; latviešu valodai tā vajadzīga"
+    }
+  ],
+  "translation": "Slaviniet ⟨viņu⟩, debšu debesis, un ūdeņi, kas ir virs debesīm!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/148\/1-4.1792528507331.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Slaviniet ⟨viņu⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debu"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "un ūdeņi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "virs"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:07.332588033Z",
+  "model": "glm-5.3"
+}

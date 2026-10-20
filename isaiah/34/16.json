@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 34:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lasītājam",
+      "rationale": "impulsīvs aicinājums pētīt un lasīt Jahves grāmatu — vēršas pie lasītāja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוּחַ — elpa\/vējš\/gars vienā vārdā; atstāts kā ruah"
+    },
+    {
+      "kind": "crux",
+      "subject": "פי הוא צוה",
+      "rationale": "'Viņa mute to pavēlēja' — KJV šeit liek 'my mouth'; teksts saka Viņa (Jahves)"
+    }
+  ],
+  "translation": "Pētiet no Jahves grāmatas un lasiet: ne viena no tām netrūks, neviena mātīte ar savu draudzeni netiks izlaista; jo Viņa mute to pavēlēja, un Viņa ruah tās savāca.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/34\/13-16.1792522530716.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "pētiet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "un lasiet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ne viena"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "no tām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעדרה",
+      "gloss": "trūks"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mātīte"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ar savu draudzeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "tiks izlaista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mute"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "un Viņa ruah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņa"
+    },
+    {
+      "surface": "קבצן",
+      "gloss": "savāca"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:30.717768306Z",
+  "model": "glm-5.3"
+}

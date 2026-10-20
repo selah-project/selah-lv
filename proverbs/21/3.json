@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "⟨upuris⟩",
+      "rationale": "מזבח burtiski ir 'kautavu vieta\/altāris' — te attiecas uz upuri kā tādu"
+    },
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "Ebreju teikumā priekšmets ir darbības vārda forma bez atsevišķa izrunāta priekšmeta"
+    }
+  ],
+  "translation": "Darīt cedeku un tiesu — tas Jahvem izraudzīts vairāk nekā ⟨upuris⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/21\/1-4.1792528809573.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedeku"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "un tiesu"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "izraudzīts"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨upuris⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:09.574769301Z",
+  "model": "glm-5.3"
+}

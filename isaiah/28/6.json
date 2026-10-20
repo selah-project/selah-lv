@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח vienmēr 'ruah' — šeit par tiesas garu, nevis 'gars' viens"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "על המשפט saplūst ar 'sēd tiesā'; atsevišķs 'uz' latviski lieks"
+    }
+  ],
+  "translation": "un par tiesas ruah tam, kas sēd tiesā, un par spēku tiem, kas atgriež kauju līdz vārtiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/5-8.1792522263466.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "un par ruah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesas"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "tam, kas sēd"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "un par spēku"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kas atgriež"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kauju"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "līdz vārtiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:03.467848326Z",
+  "model": "glm-5.3"
+}

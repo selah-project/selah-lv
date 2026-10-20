@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dzejolis",
+      "rationale": "משכיל ir žanra apzīmējums; vārds 'dzejolis' pievienots latviešu skaidrībai"
+    }
+  ],
+  "translation": "Mācībs dzejolis, Etana, Ezraḥīta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/1-4.1792528004018.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "mācībs dzejolis"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Etanam"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezraḥīts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:44.019118470Z",
+  "model": "glm-5.3"
+}

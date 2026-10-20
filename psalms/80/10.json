@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פנית לפניה",
+      "rationale": "burtiski 'pagriezi tās priekšā' — idiomātiski 'notīrīja\/atkāpoja vietu priekšā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרש \/ שרשיה",
+      "rationale": "saknes darbijs un 'tās saknes' — viena sakne divreiz, iesakņoja ar saknēm"
+    }
+  ],
+  "translation": "Tu atbrīvoji vietu tās priekšā, un tā iesakņoja savas saknes un piepildīja zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/80\/9-12.1792527938742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Tu atbrīvoji vietu"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "tās priekšā"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "un tā iesakņoja"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "savas saknes"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "un piepildīja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:38.743359522Z",
+  "model": "glm-5.3"
+}

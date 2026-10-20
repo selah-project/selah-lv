@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa 'El nav cilvēks' — latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "ההוא",
+      "rationale": "Emfatiskais vietniekvārds attiecas uz Elu; daudzi tulkojumi to izlaiž vai sapludina ar 'viņš'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nožēlotu",
+      "rationale": "נחם ir 'elpot dziļi, mainīt prātu' — ne tikai nožēla"
+    }
+  ],
+  "translation": "Ne cilvēks ⟨ir⟩ El, lai melotu, nedz cilvēka dēls, lai nožēlotu. Vai ⟨tas⟩ sacīja un nedarīs? Vai runāja un nepiepildīs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/17-20.1792516136754.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "lai melotu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nedz dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "lai nožēlotu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tas⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darīs"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "Vai runāja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "piepildīs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:56.756508199Z",
+  "model": "glm-5.3"
+}

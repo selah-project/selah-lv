@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dara treknu",
+      "rationale": "ידשנה no דשן 'taukt, treknot': 'laupīt treknumu' (Geneva 'reduce to ashes') pret 'pieņemt labvēlīgi' (KJV 'accept') — abas lasījumi no tās pašas saknes"
+    },
+    {
+      "kind": "measurement",
+      "subject": "visas tavas minhas",
+      "rationale": "כל — upuru pilnīga uzskaitīšana un pieminēšana"
+    }
+  ],
+  "translation": "Lai Viņš piemin visas tavas minhas un tavu augšupdedzināmo upuri lai dara treknu ⟨t.i., labvēlīgi pieņem⟩. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/20\/1-4.1792527218296.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "piemin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "tavas minhas"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "un tavu augšupdedzināmo upuri"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "dara treknu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:38.297446494Z",
+  "model": "glm-5.3"
+}

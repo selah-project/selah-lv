@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבש",
+      "rationale": "Burtiski 'pārsienējs, kas saista brūces': 'pārsējs' pret 'ārsts' (KJV\/JPS) — žēlastības trūkuma tēls."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨balsi⟩",
+      "rationale": "נשא burtiski 'pacels'; objekts 'balsi' pievienots, lai latviešu valodā skaidri saprotams."
+    }
+  ],
+  "translation": "Viņš pacels ⟨balsi⟩ tajā dienā, sacīdams: Es neesmu pārsējs, un manā namā nav ne maizes, ne drēbes; nelieciet mani par pavēlnieku tautai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/3\/5-8.1792521828338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "pacels"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "esmu"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "pārsējs"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "un manā namā"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maize"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "drēbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "lieciet mani"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "par pavēlnieku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:48.339684786Z",
+  "model": "glm-5.3"
+}

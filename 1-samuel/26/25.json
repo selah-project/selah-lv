@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשה תעשה · יכל תוכל",
+      "rationale": "Infinitivus absolutus atkārto darbības vārdu — 'darīdams darīsi, spēdams spēsi'; latviski atveidots ar 'gan … gan' un divdabja atkārtojumu."
+    },
+    {
+      "kind": "you",
+      "subject": "Davīdam",
+      "rationale": "Šaūls tieši uzrunā Davīdu: 'Svētīts tu, mans dēls Davīd.'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mans",
+      "rationale": "Latviešu valodai vajadzīgs piederības vietniekvārds 'mans' pie 'dēls', lai izskanētu gan konstru, gan izsauksmi."
+    }
+  ],
+  "translation": "Un Šaūls sacīja Davīdam: Svētīts tu, mans dēls Davīd; gan darīdams darīsi, gan spēdams spēsi. Un Davids gāja savu ceļu, un Šaūls atgriezās savā vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "155e0c5822280e42c6b218995d338b3167236c805af7438c9ed4bbe456cb05a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/26\/25-25.1792519441838.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davīdu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Svētīts"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davīd"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīdams"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darīsi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un gan"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "spēdams"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "spēsi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Un gāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "savu ceļu"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "un Šaūls"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "savā vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:01.838974414Z",
+  "model": "glm-5.3"
+}

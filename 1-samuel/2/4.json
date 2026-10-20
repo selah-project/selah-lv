@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'būt'; latviešu valodai vajag 'ir' un prievīti 'ar'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חתים \/ נכשלים",
+      "rationale": "Pretstats: satriektie pret paklupušajiem — Hannas dziesmas apgrieztā kārtība"
+    }
+  ],
+  "translation": "Varonīgo loki ir satriekti, un tie, kas paklupa, ir apjojuši ⟨ar⟩ spēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ae47b66b79035ca6e22166b383415a1301ea767411004846bf11a4a0657fb1e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/4-4.1792532553932.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "loki"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "varonīgo"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ir satriekti"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "un tie, kas paklupa"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ir apjojuši"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "spēku"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:33.932978511Z",
+  "model": "glm-5.3"
+}

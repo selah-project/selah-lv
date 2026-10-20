@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Ebreju darbības vārdam ישב nav subjekta; pievienots attieksmē uz iepriekšējā panta cilvēkiem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדברה",
+      "rationale": "מדבר nozīmē gan 'tuksnesis', gan 'ganību zeme' — šeit apzīmē atklātu lauku, kur dzīt lopus"
+    }
+  ],
+  "translation": "Un pret austrumiem viņi dzīvoja līdz ⟨ieiešanai⟩ tuksneša, no upes Peratas, jo viņu lopi bija vairodušies Gileadas zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f1c0a151bed1fe92ec8ab1f0875548163ffbf5fbbcf837f02ba4920e03afb080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/5\/9-12.1792531064472.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "un pret austrumiem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "viņi dzīvoja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨ieiešanai⟩"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "tuksneša"
+    },
+    {
+      "surface": "למן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "upes"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Peratas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "viņu lopi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bija vairodušies"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:44.473633525Z",
+  "model": "glm-5.3"
+}

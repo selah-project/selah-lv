@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mans (dēls, kungs)",
+      "rationale": "Hebrew possessive suffix pieprasa latviešu valodā īpašības vārdu"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Šaulu",
+      "rationale": "Šauls un Davids tieši uzrunā viens otru; Šauls sauc Davu 'mans dēls', Davids atbild 'mans kungs ķēniņš'"
+    }
+  ],
+  "translation": "Un Šauls atpazina ⟨את⟩ Davida balsi un sacīja: Vai tā ir tava balss, mans dēls David? Un Davids sacīja: Mana balss, mans kungs ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/26\/17-20.1792519495496.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "atpazina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida balsi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "tava balss"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mana balss"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:55.498033602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ותך",
+      "rationale": "תֹךց 'apspiešana\/netaisnība' sastopams tikai šeit Tanahā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה...ואון",
+      "rationale": "Rindas apņem divas 'ļaunuma' skaņas — אלה un און — hiamta ap muti un mēli; latviski struktūra saglabāta, skaņu atbalss daļēji zudusi."
+    }
+  ],
+  "translation": "Lāstiem ir pilna viņa mute, un krāpšanas, un apspiešanas; zem viņa mēles — pūles un ļaunums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/10\/5-8.1792527134577.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lāstiem"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "viņa mute"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ir pilna"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "un krāpšanas"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "un apspiešanas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "viņa mēles"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pūles"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "un ļaunums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:14.581643759Z",
+  "model": "glm-5.3"
+}

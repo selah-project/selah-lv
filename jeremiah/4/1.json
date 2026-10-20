@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "priekšas",
+      "rationale": "מפני burtiski 'no mana vaiga'; latviešu valodai vajag 'priekšas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנוד",
+      "rationale": "נוד nozīmē 'svārstīties\/klīst'; KJV 'not be removed' pretī YLT 'not bemoan'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Jahve tieši uzrunā Jisraēlu ar nosacījuma aicinājumu atgriezties"
+    }
+  ],
+  "translation": "Ja tu atgriezīsies, Jisraēl, saka Jahve, pie Manis atgriezīsies, un ja tu novāksi savus pretīgos elkus no Manas vaiga ⟨priekšas⟩, tu nesvārstīsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3ee85e9fcb237b2e5899eb3140c27fdc1d574df9a1067e91b3a41ab6d2a19d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/4\/1-4.1792523319618.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tu atgriezīsies"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēl"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie Manis"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "tu novāksi"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "savus pretīgos elkus"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no Manas vaiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "tu svārstīsies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:39.618710379Z",
+  "model": "glm-5.3"
+}

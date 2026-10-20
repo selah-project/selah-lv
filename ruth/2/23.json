@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvoja",
+      "rationale": "ישב — burtiski 'apsēdās, sēdēja'; 'dzīvoja kopā ar' ir konteksta nozīme"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ražas laiks",
+      "rationale": "Miežu un kviešu pļaujas noslēgums iezīmē laika posmu"
+    }
+  ],
+  "translation": "Un viņa turējās pie Boaza jaunavām, lasīdama vārpas, līdz beidzās miežu pļauja un kviešu pļauja; un viņa dzīvoja kopā ar ⟨את⟩ savu vīramāti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/2\/21-23.1792529711584.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "Un viņa turējās"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "pie jaunavām"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "lasīdama vārpas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "beidzās"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "pļauja"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "miežu"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "un pļauja"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "kviešu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "un viņa dzīvoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu vīramāti"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "savu vīramāti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:11.585630854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Belijala",
+      "rationale": "בליעל ir 'bez vērtības, nekam nederīgs' — atstāts kā vārds 'Belijala', nevis 'bezdievis'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרה",
+      "rationale": "Burtiski 'rok' — ļaunumu izrok kā bedri; attēls saglabāts."
+    }
+  ],
+  "translation": "Belijala vīrs rok āa ļaunumu, un uz viņa lūpām ir kā degoša uguns.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/25-28.1792528729621.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belijala"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "viņa lūpām"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kā uguns"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "degoša"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:49.622258902Z",
+  "model": "glm-5.3"
+}

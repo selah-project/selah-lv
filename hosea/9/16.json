@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלי יעשון",
+      "rationale": "Burtiski 'nedarīs' — konteksts prasa 'naražos augļus', darbības vārds pārnests uz augļu ražošanu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרשם \/ שריהם (9:15)",
+      "rationale": "'Sakne' שרש skan gandrīz kā 'firsti' שר — vārdu spēle starp pantiem par vadoņiem un sakni, latviski zudusi."
+    }
+  ],
+  "translation": "Efrajims ir sitienu saņēmis, viņu sakne ir izkaltusi — augļu tie neražos; ja tie arī dzemdēs, es nogalināšu viņu vēdera mīļākos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/9\/13-16.1792526081677.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ir sitienu saņēmis"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "viņu sakne"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ir izkaltusi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "augļu"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "neražos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "arī"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "dzemdēs"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "es nogalināšu"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "mīļākos"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "viņu vēdera"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:41.679108427Z",
+  "model": "glm-5.3"
+}

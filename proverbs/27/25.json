@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'Tiek noņemtas\/atklājas' — daži tulko 'siena pļauja' (JPS), citi 'parādās' (KJV); sakne nozīmē 'atklāt\/kailu darīt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "segas",
+      "rationale": "חציר ir zāle\/siens; 'segas' izvēlēts kontekstā par sienu, bet zaudē vārda vienkāršību."
+    }
+  ],
+  "translation": "Segas tiek noņemtas, un parādās jaunā zāle, un tiek savāktas kalnu zāles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/25-27.1792528890194.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "tiek noņemtas"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "segas"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "un parādās"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "jaunā zāle"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "un tiek savāktas"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "zāles"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:30.195197727Z",
+  "model": "glm-5.3"
+}

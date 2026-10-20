@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 21:22",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצאו ילדיה",
+      "rationale": "'Viņas bērni iziet' — vīriešu dzimtes daudzskaitlis; tulkotāji strīd par priekšlaicīgu dzemdību pret augļa nāvi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ar naudu",
+      "rationale": "ענוש יענש nozīmē naudas sodu, ne miesas sodu — forma atkārtota no viena celma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענוש יענש",
+      "rationale": "Infinitivus absolūts + jots: 'sodīts tiks sodīts' — latviski atkārtojums zūd."
+    }
+  ],
+  "translation": "Un ja vīri sakāsos un atsitas grūtniecei sievietei, un iziet viņas bērni, bet nelaimes nav: viņš tiks sodīts ar naudu, kādu uzliks sievas vīrs, un viņš dos pēc soģiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/21\/21-24.1792513083457.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "ינצו",
+      "gloss": "sakāsos"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ונגפו",
+      "gloss": "un atsitas"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sievietei"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "grūtniecei"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "un iziet"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "viņas bērni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet nav"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "notiks"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "nelaimes"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "sodīts"
+    },
+    {
+      "surface": "יענש",
+      "gloss": "tiks sodīts"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kādu"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "uzliks"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "בפללים",
+      "gloss": "pēc soģiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:03.458382523Z",
+  "model": "glm-5.3"
+}

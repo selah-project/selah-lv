@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפישני",
+      "rationale": "Reti vārds כפש: 'nospieda mani pelnos' (KJV 'covered') pret 'nomin mani pelnos' (JPS 'wallow') — izvēlēts vidusceļš 'nomāca'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gruži",
+      "rationale": "בחצץ burtīgi 'kaut kas ass' — smilšu graudi; latviski 'gruži' saglabā graudaino asiņaino bildi."
+    }
+  ],
+  "translation": "Un Viņš ar gružiem sadrupidināja manus zobus, Viņš mani nomāca pelnos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/13-16.1792529825890.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "Un sadrupidināja"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ar gružiem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "manus zobus"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "Viņš mani nomāca"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "pelnos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:05.891511372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trīs simtus vīru, trīs pulki",
+      "rationale": "Skaitļu struktūra: 300 vīri sadalīti 3 vienībās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ראשים",
+      "rationale": "Burtiski 'galvas' — 'vienība, pulks' no 'galvu' skaita; latviski 'pulkos', zaudē galvu attēlu."
+    }
+  ],
+  "translation": "Un viņš sadalīja ⟨את⟩ trīs simtus vīrus trīs pulkos un iedeva šofarus visiem rokā un tukšus krūkus un lāpas krūku iekšienē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d3809489e9323efc6f2414234cb02e30aba87e1c955e7395a039fe4b5dccbe5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/7\/13-16.1792518308750.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "sadalīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trīs simtus vīrus"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simtus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrus"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "pulkos"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "iedeva"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "šofarus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "un krūkus"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "tukšus"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "un lāpas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iekšienē"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "krūku"
+    }
+  ],
+  "timestamp": "2026-10-20T17:45:08.751563794Z",
+  "model": "glm-5.3"
+}

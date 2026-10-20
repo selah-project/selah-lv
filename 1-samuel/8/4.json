@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זקני",
+      "rationale": "Sakne זקן ‘būt vecam’ 1. pantā par Šemuēlu un šeit ‘vecākie’ — tas pats vārds: viņš novecoja, un tagad nāk vecākie"
+    }
+  ],
+  "translation": "Un sapulcējās visi Jisraēla vecākie un nāca pie Šemuēla Ramā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/8\/1-4.1792518841698.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "sapulcējās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vecākie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēla"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:01.699840305Z",
+  "model": "glm-5.3"
+}

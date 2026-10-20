@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח viens vārds — Gars, vējš, elpa; saglabāts kā 'ruah', burtiski 'vējš tie sēj'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמה\/קמח",
+      "rationale": "stiebrs (קמה) un milti (קמח) — vienskani ebreju vārdi, latviešu valodā zaudēti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sēj vēju, pļauj viesuli",
+      "rationale": "Slavenā Hosjas metafora: רוח sēt, סופה pļaut — viesulis ir pastiprināts vējš"
+    }
+  ],
+  "translation": "Jo ruah tie sēj, un viesuli tie pļaus: stiebrs tam nav, asns nedos miltus; ja tas arī dotu, ārzemnieki to aprīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/8\/5-8.1792526109642.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "tie sēj"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "un viesuli"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "tie pļaus"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "stiebrs"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "asns"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nedos"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dos"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "miltus"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ja tas arī"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dotu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ārzemnieki"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "to aprīs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:09.644089207Z",
+  "model": "glm-5.3"
+}

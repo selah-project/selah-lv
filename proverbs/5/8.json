@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨suni⟩",
+      "rationale": "latviešu valodai vajadzīgs darbības vārds, ebreju הרחק ir viens vārds 'attālini'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatīvi",
+      "rationale": "divas pavēles — attālini un netuvojies — tieši vērstas pie adresāta"
+    }
+  ],
+  "translation": "Tālu no viņas savu ceļu ⟨suni⟩, un netuvojies pie viņas nama durvīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/5-8.1792528542526.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "⟨suni⟩ tālu"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "no viņas"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "savu ceļu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "tuvojies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "durvīm"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "viņas nama"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:42.527499020Z",
+  "model": "glm-5.3"
+}

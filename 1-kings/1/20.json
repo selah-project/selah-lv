@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 1:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrajs izlaiž saikli 'ir' — latviešu valodai tas nepieciešams, bracketēts."
+    },
+    {
+      "kind": "you",
+      "subject": "Batšeba to David",
+      "rationale": "Tieša uzruna ķēniņam Davidam ar piebildi 'mans kungs ķēniņš'."
+    }
+  ],
+  "translation": "Un tu, mans kungs ķēniņš, — visu Jisraēla acis ⟨ir⟩ uz tevi, lai tu viņiem pateiktu, kas sēdēs uz mana kunga ķēniņa troņa pēc viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/17-20.1792520216866.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Un tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "acis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uz tevi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "lai tu pateiktu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sēdēs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troņa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mana kunga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pēc viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:56.867226017Z",
+  "model": "glm-5.3"
+}

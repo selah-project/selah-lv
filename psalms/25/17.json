@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valodai vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרות\/ממצוקותי",
+      "rationale": "Šaurums\/ciešanas un šauruma vieta — viena sakne צרר; vārdu spēle zūd latviski."
+    }
+  ],
+  "translation": "Manas sirds ciešanas ir paplašinājušās; no manām šaustījumām izved mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/17-20.1792527276621.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "ciešanas"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "manas sirds"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "ir paplašinājušās"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "no manām šaustījumām"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "izved mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:36.622059083Z",
+  "model": "glm-5.3"
+}

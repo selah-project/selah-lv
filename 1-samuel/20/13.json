@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 20:13",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גליתי את אזנך",
+      "rationale": "'atklāt tavu ausi' — ebreju idiomas 'atklāt ausi' = uzticēt noslēpumu, atstāts burtiski tāpat kā latviešu 'atklāt ausij' nav iespējams"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כה יעשה יהוה... וכה יסיף",
+      "rationale": "Lāsta forma 'tā lai dara Jahve un tā lai pievieno' — zvēresta formula, kas izlaista pēc tās sekojošo vārdu dēļ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי ייטב אל אבי את הרעה עליך",
+      "rationale": "Burtiski 'ja mana tēvam būs labi ļauno pret tevi' — tulkotāji šķeļas starp 'ja manam tēvam patiks tev darīt ļaunu' un YLT burtiskā lasījuma 'ļaunais, kas tevi skar'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehonatans Davidam",
+      "rationale": "Jehonatans runā tieši ar Davidu personīgas derības scēnā"
+    }
+  ],
+  "translation": "Tā lai dara Jahve Jehonatanam un tā lai vēl pievieno: ja mana tēva prāts būs labvēlīgs pret tevi ar ⟨את⟩ ļauno, tad es atklāšu ⟨את⟩ tavu ausi un sūtīšu tevi projām, un tu iesi ar mieru, un Jahve lai ⟨ir⟩ ar tevi, kā viņš bija ar manu tēvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/20\/13-16.1792519271937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lai dara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ליהונתן",
+      "gloss": "Jehonatanam"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lai vēl pievieno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "būs labvēlīgs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mans tēvs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ļauno"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ļauno"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "tad es atklāšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu ausi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tavu ausi"
+    },
+    {
+      "surface": "ושלחתיך",
+      "gloss": "un sūtīšu tevi projām"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "un tu iesi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ar mieru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un lai ⟨ir⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "manu tēvu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:01:11.938658656Z",
+  "model": "glm-5.3"
+}

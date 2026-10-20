@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sērodams",
+      "rationale": "קדר nozīmē būt pelēkam\/iziļam — sēru tērps pelnos; 'sērodams' saglabā sēru, zaudē krāsu."
+    }
+  ],
+  "translation": "Es esmu izliekts, es esmu sastājies līdz ārkārtībai, visu dienu es eju sērodams.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/5-8.1792527471004.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "esmu izliekts"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "esmu sastājies"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ārkārtībai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sērodams"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "es eju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:51.005266255Z",
+  "model": "glm-5.3"
+}

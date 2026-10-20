@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svinēja",
+      "rationale": "ועבדו burtiski 'darīja \/ veica' — 'svinēt' izriet no konteksta (iesvētīšanas darīšana)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Pārejošam darbības vārdam latviešu valodā pievienots objekta marķieris"
+    }
+  ],
+  "translation": "Un Israēla dēli — priesteri un levīti un pārējie izsūtījuma dēli — ar prieku svinēja ⟨את⟩ šī Eloah nama iesvētīšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/6\/13-16.1792530542899.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Un svinēja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israēla"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "un levīti"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "un pārējie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "izsūtījuma"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "iesvētīšanu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "ar prieku"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:02.900668212Z",
+  "model": "glm-5.3"
+}

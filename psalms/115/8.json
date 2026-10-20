@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כמוהם...בהם",
+      "rationale": "Atgriezeniska shēma: elki nespējīgi — viņu darītāji un paļāvības metēji kļūs tādi paši."
+    }
+  ],
+  "translation": "Kā viņi tādi kļūs viņu darītāji, ikviens, kas paļaujas uz tiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/115\/5-8.1792528237143.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kā viņi tādi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kļūs"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "viņu darītāji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "paļaujas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "uz tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:37.144610865Z",
+  "model": "glm-5.3"
+}

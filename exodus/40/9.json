@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā 'kas tajā' nav darbības vārda; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošem",
+      "rationale": "Pavēle vērsta pie viena adresāta — Moše, otrā persona vienskaitlī."
+    }
+  ],
+  "translation": "Un tu ņemsi svaidīšanas ⟨את⟩ eļļu un svaidīsi ⟨את⟩ miškanu un ⟨את⟩ visu, kas tajā ⟨ir⟩, un tu svētīsi ⟨את⟩ to un ⟨את⟩ visus tā rīkus, un tas būs svēts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/40\/9-12.1792513575396.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "un tu ņemsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svaidīšanas eļļu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "eļļu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "svaidīšanas"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "un svaidīsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškanu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "visu, kas tajā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "un tu svētīsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ to"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "visus tā rīkus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tā rīkus"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "un tas būs"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēts"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:15.396828931Z",
+  "model": "glm-5.3"
+}

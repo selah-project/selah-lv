@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיל",
+      "rationale": "'bagātība' (JPS) pret 'spēks\/karaspēks' (KJV) — vārds nozīmē abus."
+    },
+    {
+      "kind": "crux",
+      "subject": "נהוגים",
+      "rationale": "'svinīgā gājienā vesti' (JPS) pret 'gūstā dzīti' (ASV) — no darbības vārda 'dzīt\/vadāt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "⟨svecē⟩",
+      "rationale": "Pievienots, lai parādītu vediena veidu; ebreju vārds to nesaka."
+    }
+  ],
+  "translation": "Un tavus vārtus atvērs pastāvīgi, dienu un nakti tie netiks aizvērti, lai atvestu pie tevis tautu bagātību un viņu ķēniņus, kas tiek dzīti ⟨svecē⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/60\/9-12.1792523067083.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "un atvērs"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tavus vārtus"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pastāvīgi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un nakti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "netiks"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "aizvērti"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "lai atvestu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bagātību"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "un viņu ķēniņus"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "kas tiek dzīti"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:27.084999122Z",
+  "model": "glm-5.3"
+}

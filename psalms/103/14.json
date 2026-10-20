@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esam",
+      "rationale": "Copula supplied; Hebrew juxtaposes 'dust — we'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצרנו",
+      "rationale": "'Our frame\/form' (yetser) vs. 'how we are formed' — Latvian 'veidols' keeps the noun-shape."
+    }
+  ],
+  "translation": "Jo Viņš pazīst mūsu veidolu, atceras, ka mēs esam putekļi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/13-16.1792528102070.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pazīst"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "mūsu veidolu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "atceras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekļi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:22.070910387Z",
+  "model": "glm-5.3"
+}

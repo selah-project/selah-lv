@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על עקב",
+      "rationale": "'pie papēža' = 'kā sekas, dēļ'; KJV 'for a reward' ir līdzīga idiomatizācija."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האח האח",
+      "rationale": "Ļaunprātīgā izsmiekla starpsauciens, atstāts burtiski; atkārtojums dod pātagas ritmu."
+    }
+  ],
+  "translation": "Lai tie izpostīti ir aiz viņu kauna, kas man saka: hā, hā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/40\/13-16.1792527493409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "lai izpostīti ir"
+    },
+    {
+      "surface": "על",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "viņu kauna"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kas saka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hā!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hā!"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:13.410760968Z",
+  "model": "glm-5.3"
+}

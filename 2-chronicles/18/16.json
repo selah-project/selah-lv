@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 18:16",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "avis un kazas",
+      "rationale": "צאן ir kolektīvs vārds ganāmpulkam — avis un kazas —, atsevišķs vārds 'avis' vien to sašaurina."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Nav kungu šiem",
+      "rationale": "אדנים daudzskaitlis — 'kungi\/valdnieki'; kontekstā netieši mājiens uz kritušo ķēniņu, tāpēc daudzskaitlis jāsaglabā."
+    }
+  ],
+  "translation": "Un viņš sacīja: Es redzēju ⟨את⟩ visu Jisraēlu izkaisītu pa kalniem kā avis un kazas, kurām nav gana. Un Jahve sacīja: Nav kungu šiem — lai katrs atgriežas savā namā ar mieru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed9b2c20a17a972ab269d4bcfd60b968cd5398ce3a0322421c9e0265a515598f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/18\/13-16.1792531998833.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Es redzēju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu Jisraēlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "נפוצים",
+      "gloss": "izkaisītu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kā avis un kazas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurām"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "להן",
+      "gloss": "tām"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "gana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "kungu"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "šiem"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "lai atgriežas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ar mieru"
+    }
+  ],
+  "timestamp": "2026-10-20T21:33:18.835192390Z",
+  "model": "glm-5.3"
+}

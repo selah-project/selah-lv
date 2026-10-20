@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 27:1",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jehojakim",
+      "rationale": "Masoras teksts saka Jehojakim, bet tulkotāji bieži lasa Cidkiju (v.3, 12, 28:1) pēc Septuagintas un konteksta; teksts paliek, kāds tas ir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nāca",
+      "rationale": "היה ir 'notika\/bija' — 'nāca' ir dabiskāks latviski."
+    }
+  ],
+  "translation": "Jehojakima, Jošijas dēla, Jehudas ķēniņa, valdīšanas sākumā nāca šis vārds pie Jirmejas no ⟨את⟩ Jahves puses, sacīdams:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e57cb00699db0c7d0b7642f466d07c5229a707740e3111f2ea62fe8a2c70d62a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/1-4.1792523877400.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "valdīšanas"
+    },
+    {
+      "surface": "יהויקם",
+      "gloss": "Jehojakima"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēla"
+    },
+    {
+      "surface": "יאושיהו",
+      "gloss": "Jošijas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmejas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "no Jahves puses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T19:17:57.401562209Z",
+  "model": "glm-5.3"
+}

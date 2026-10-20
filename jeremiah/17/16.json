@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 17:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אצתי מרעה אחריך",
+      "rationale": "Trīs lasījumi: 'nesteidzos kļūt par ganu pēc Tevis' (KJV), 'nebēgu no ganīšanas pēc Tevis' (BSB), vai 'nespiedos sev gana vietu' — sakne אוץ 'spiest, steigt'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אנוש",
+      "rationale": "Darbības vārds אנוש 'būt neārstējamam' Tanahā tikai šeit — 'neārstējamā diena', bieži mīkstināts kā 'briesmu diena'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sekojot · tas bija",
+      "rationale": "Latviešu teikumam pievienoti piederības vārdi ⟨sekojot⟩ un ⟨tas bija⟩, ebreju valodā tie netiek teikti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jeremija vēršas tieši pie Jahves kā savas nevainības liecinieka"
+    }
+  ],
+  "translation": "Un es nespiedzos no ganīšanas, ⟨sekojot⟩ Tev, un neārstējamās dienu es neilgojos — Tu zini; kas izgāja no manām lūpām, ⟨tas bija⟩ Tava vaiga priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/17\/13-16.1792523569661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Un es"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצתי",
+      "gloss": "nespiedzos"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "no ganīšanas"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pēc Tevis \/ sekojot Tev"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "un dienu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neārstējamās"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התאויתי",
+      "gloss": "neilgojos"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "zini"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "kas izgāja"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "no manām lūpām"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Tava vaiga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    }
+  ],
+  "timestamp": "2026-10-20T19:12:49.662300535Z",
+  "model": "glm-5.3"
+}

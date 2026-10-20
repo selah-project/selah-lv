@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "latviešu valodai vajadzīgs saiklis 'un bija ⟨ir⟩ mākonis' — ebreju valoda to nesaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "mākonis un tumsa \/ apgaismoja nakti",
+      "rationale": "teksts nesaka, kurai pusei tumsa un kurai gaisma; tradīcijas (KJV pret JPS) to izšķir dažādi — vienam mākonis tumšs, otram gaismas avots"
+    },
+    {
+      "kind": "measurement",
+      "subject": "visu nakti",
+      "rationale": "laika norāde: šķīrājs stāv visu nakti, līdz rīta vējš (14:21)"
+    }
+  ],
+  "translation": "Un tas nāca starp Micraima nometni un Jisraēla nometni, un bija ⟨ir⟩ mākonis un tumsa, un tas apgaismoja ⟨את⟩ nakti, un viens nenāca tuvu otram visu nakti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/14\/17-20.1792512922128.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un tas nāca"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "nometni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraima"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "nometni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mākonis"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "un tumsa"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "un tas apgaismoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nakti"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nāca tuvu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "viens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "otram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:22.129512739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 32:30",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju tekstā tā nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך...אך",
+      "rationale": "atkārtotais 'tikai' divreiz — uzsvēra nepārtraukto ļauno; atkārtojums saglabāts"
+    }
+  ],
+  "translation": "Jo Jisraēla dēli un Jehudas dēli darīja tikai ļaunu manās acīs kopš savas jaunības; jo Jisraēla dēli tikai mani sadusmo ⟨את⟩-mani ar sava roku darbu, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/32\/29-32.1792524144488.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "un dēli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "manās acīs"
+    },
+    {
+      "surface": "מנערתיהם",
+      "gloss": "kopš savas jaunības"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "sadusmo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-mani",
+      "marks": "ar sava roku darbu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ar darbu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sava roku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:22:24.489345009Z",
+  "model": "glm-5.3"
+}

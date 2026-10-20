@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Runā ar Jisraēla dēliem",
+      "rationale": " pavēle Mošem uzrunāt Israēla tautu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svētēs šabatu",
+      "rationale": "šabats vienmēr kā transliterēts vārds, nevis 'atpūtas diena'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושבתה\/שבת",
+      "rationale": "saknes š-b-t atkārtojums: zeme 'šabatēs šabatu' Jahvem"
+    }
+  ],
+  "translation": "Runā ar Jisraēla dēliem un saki ⟨viņiem⟩: Kad jūs nonāksit ⟨tās⟩ zemēs, kuru Es jums dodu, tad zeme svētēs šabatu Jahvem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3fb618c5046f94c280399f06b0f15e0e5ea5b84ce72e6807b3cf3e47d0c2db06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/1-4.1792515203996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "saki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "nonāksit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zemēs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dodu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "svētēs šabatu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:23.998008821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עש \/ סס",
+      "rationale": "Divi dažādi vārdi 'kode' — gandrīz vienādi skanoši, paronomāzija, kas latviešu valodā daļēji zūd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סס",
+      "rationale": "Reti vārds — 'ātrā kode'; atveidots kā 'tārps', jo kāpurs ēd vilnu."
+    }
+  ],
+  "translation": "Jo kā drēbi tos apēdīs kodis, un kā vilnu tos apēdīs tārps; bet mans cedeks būs mūžīgi, un mana pestīšana paaudžu paaudzēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/51\/5-8.1792522943977.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kā drēbi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "tos apēdīs"
+    },
+    {
+      "surface": "עש",
+      "gloss": "kodis"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "un kā vilnu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "tos apēdīs"
+    },
+    {
+      "surface": "סס",
+      "gloss": "tārps"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "un mans cedeks"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "un mana pestīšana"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "paaudžu"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "paaudzēs"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:23.978688309Z",
+  "model": "glm-5.3"
+}

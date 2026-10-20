@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 7:5",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Aramiešu valodā trūkst kopulas 'tam trīs ribas mutē'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולשטר חד הקמת",
+      "rationale": "'pacēlās uz viena sāna' pret 'tas tika pacelts uz vienu pusi' (pasisvs, kā YLT\/ASV); arī 'līdzīgs lācim vienā pusē' (Vulkgātes tradīcija)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אמרין לה",
+      "rationale": "JPS: 'tam tika sacīts' (bezpersonisks) — kas runā, nav teikts"
+    },
+    {
+      "kind": "mystery",
+      "subject": "panta tone",
+      "rationale": "Vīzija bez skaidrojuma — zvērs un trīs ribas paliek noslēpums līdz v.16–17"
+    }
+  ],
+  "translation": "Un lūk, cits zvērs, otrais, līdzīgs lācim, pacēlās uz viena sāna, un tam ⟨bija⟩ trīs ribas mutē starp zobiem, un tā tam sacīja: Celies, apēd daudz miesas!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b2b15714d8f9616b177bac01d99255b40ae7c900279e05f33eae270ab0e20556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/7\/5-8.1792530427616.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארו",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "zvērs"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "cits"
+    },
+    {
+      "surface": "תנינה",
+      "gloss": "otrais"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "līdzīgs"
+    },
+    {
+      "surface": "לדב",
+      "gloss": "lācim"
+    },
+    {
+      "surface": "ולשטר",
+      "gloss": "uz viena sāna"
+    },
+    {
+      "surface": "חד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "הקמת",
+      "gloss": "pacēlās"
+    },
+    {
+      "surface": "ותלת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "עלעין",
+      "gloss": "ribas"
+    },
+    {
+      "surface": "בפמה",
+      "gloss": "mutē"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "שניה",
+      "gloss": "zobiem"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "celies"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "apēd"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesas"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "daudz"
+    }
+  ],
+  "timestamp": "2026-10-20T21:07:07.617038049Z",
+  "model": "glm-5.3"
+}

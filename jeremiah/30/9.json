@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve runā par Jisraēlu",
+      "rationale": "Solījums adresēts izklīdinātajai tautai par kalpošanu Jahvem un Davidam."
+    },
+    {
+      "kind": "crux",
+      "subject": "Davidu",
+      "rationale": "Saucot Dāvidu nākotnes laikā: vēsturisks Dāvids atjaunots, viņa pēctecis, vai mašiahs — tulkotāji dalīti."
+    }
+  ],
+  "translation": "un tie kalpos ⟨את⟩ Jahvi, savu Elohim, un ⟨את⟩ Davidu, savu ķēniņu, ko Es tiem celsīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/30\/9-12.1792524005992.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "un tie kalpos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi, savu Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Davidu, savu ķēniņu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "savu ķēniņu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Es celsīšu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:20:05.992862043Z",
+  "model": "glm-5.3"
+}

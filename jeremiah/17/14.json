@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodā vajadzīgs ⟨esi⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רפאני\/וארפא · הושיעני\/ואושעה",
+      "rationale": "Darbības vārda atbalss — tas pats saknes divreis: lūgums un atbilde"
+    }
+  ],
+  "translation": "Izārstē mani, Jahve, un es tikšu izārstēts; izglāb mani, un es tikšu izglābts, jo Tu ⟨esi⟩ mana slava.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/17\/13-16.1792523569661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "Izārstē mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "un es tikšu izārstēts"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "izglāb mani"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "un es tikšu izglābts"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mana slava"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:12:49.661914281Z",
+  "model": "glm-5.3"
+}

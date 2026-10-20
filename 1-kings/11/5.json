@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ela",
+      "rationale": "אלהי šeit par Aštoreti — 'ela' ebreju daudzskaitļa formā אלהים attiecas uz svešu dievieti, ar mazo burtu."
+    },
+    {
+      "kind": "crux",
+      "subject": "Milkom",
+      "rationale": "מלכם 11:5 un מלך 11:7 — viens un tas pats amoniešu elks; rakstīts atšķirīgi punktējumā."
+    }
+  ],
+  "translation": "Un Šelomo gāja pakaļ Aštoretei, elai cidoniešu, un pakaļ Milkomam, amoniešu negantībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/5-8.1792520638049.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Un gāja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pakaļ"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Aštoretei"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elai"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "cidoniešu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "un pakaļ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkomam"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "negantībai"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "amoniešu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:58.050393502Z",
+  "model": "glm-5.3"
+}

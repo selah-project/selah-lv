@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 22:6",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ķīlā ņem",
+      "rationale": "חבל nozīmē 'saistīt kā virvi \/ paņemt ķīlā'; daži lasa 'jūdzi atņem' (parādu dēļ), citi vienkārši 'ņem ķīlā'"
+    },
+    {
+      "kind": "crux",
+      "subject": "kailajiem",
+      "rationale": "Kā kailam var novilkt drēbes? Daži lasa 'no nabaga' (sieviešu ģenitīva formā), citi uztver kā paradoksu — apsūdzības pastiprinājumu"
+    }
+  ],
+  "translation": "Jo tu ķīlā ņem savus brāļus bez iemesla, un kailajiem tu novelc drēbes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/5-8.1792529308128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ķīlā ņem"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavi brāļi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez iemesla"
+    },
+    {
+      "surface": "ובגדי",
+      "gloss": "un drēbes"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "kailajiem"
+    },
+    {
+      "surface": "תפשיט",
+      "gloss": "novelc"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:28.129340061Z",
+  "model": "glm-5.3"
+}

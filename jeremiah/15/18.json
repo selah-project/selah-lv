@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 15:18",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā trūkst saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "היו תהיה",
+      "rationale": "divi „būt” verbi pēc kārtas — „vai tu esi būdams”; daži tulko kā pastāvīgu jautājumu Dievam, citi kā apgalvojumu."
+    },
+    {
+      "kind": "you",
+      "subject": "Dievs\/Jahve",
+      "rationale": "Jeremija vēršas tieši pie Jahves ar pārmetumu par neuzticamu avotu."
+    }
+  ],
+  "translation": "Kāpēc mana sāpe ⟨ir⟩ mūžīga un mana brūce neatārstējama — tā atsakās ļaut sevi dziedēt? Vai tu man esi kā maldinoša avota ūdeņi, kas nav uzticami?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d6762db090bba57df542359c1e0d0c153868e94fbd0325d845bb26e27350f76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/15\/17-20.1792523612988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "mana sāpe"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mūžīga"
+    },
+    {
+      "surface": "ומכתי",
+      "gloss": "un mana brūce"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "neatārstējama"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "tā atsakās"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "ļaut sevi dziedēt"
+    },
+    {
+      "surface": "היו",
+      "gloss": "Vai tu esi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "esi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "maldinoša avota"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "uzticami"
+    }
+  ],
+  "timestamp": "2026-10-20T19:13:32.989528702Z",
+  "model": "glm-5.3"
+}

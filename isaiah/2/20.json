@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחפר פרות",
+      "rationale": "Burtiski 'rušņa alas' vai 'kurmju alu radījums'; tradicionāli 'kurmji', arī 'peles'."
+    },
+    {
+      "kind": "elision",
+      "subject": "פרות",
+      "gloss": "Vārds 'alas' saplūst ar 'kurmjiem'; ebrejiski divi vārdi — radījums un tā ala."
+    }
+  ],
+  "translation": "Tanī dienā cilvēks iesviedīs ⟨את⟩ savus sudraba elikus un ⟨את⟩ savus zelta elikus, kurus viņš bija sev taisījis, lai pielūgtu, kurmjiem un sikspārņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/2\/17-20.1792521825878.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "iesviedīs"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus sudraba elikus"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "elikus"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savus zelta elikus"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "elikus"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bija taisījis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sev"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "lai pielūgtu"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kurmjiem"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "⟨alas⟩"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "un sikspārņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:45.879644269Z",
+  "model": "glm-5.3"
+}

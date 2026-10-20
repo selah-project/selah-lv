@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ירח ימים",
+      "rationale": "Burtiski 'mēnesi dienu' — ebreju izteiksme 'pilnu mēnesi', saglabāts burtiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ובעלתה",
+      "rationale": "Burtiski 'un valdīsi pār viņu' (ba'al — kungs, valdīt); latviski 'apprecē viņu'."
+    }
+  ],
+  "translation": "Un viņa novilks ⟨את⟩ sava gūsta apģērbu no sevis, un viņa dzīvos tavā namā un raudās ⟨את⟩ par savu tēvu un ⟨את⟩ savu māti mēnesi dienu; un pēc tam tu ieej pie viņas un apprecē viņu, un viņa būs tev par sievu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/13-16.1792517079563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "un viņa novilks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava gūsta apģērbu"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "apģērbs"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "gūsta"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "no sevis"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "un viņa dzīvos"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "tavā namā"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "un raudās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "par savu tēvu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "savu tēvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savu māti"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "savu māti"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mēnesi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tu ieej"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "pie viņas"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "un apprecē viņu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un viņa būs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "par sievu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:39.564973742Z",
+  "model": "glm-5.3"
+}

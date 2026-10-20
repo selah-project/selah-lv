@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא צר",
+      "rationale": "Ketib 'nebija apspiedēja' (YLT) pret Qere לו צר 'viņam bija bēdas' (KJV: he was afflicted)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eņģelis",
+      "rationale": "מלאך פניו — 'viņa vaiga vēstnesis\/eņģelis', Jahve paša klātbūtnes sūtītais"
+    },
+    {
+      "kind": "addition",
+      "subject": "nebija",
+      "rationale": "Latviešu valodai vajadzīgs darbības vārds; ebreju tekstā tikai לא צר"
+    }
+  ],
+  "translation": "Visās viņu bēdās nebija apspiedēja, un viņa vaiga eņģelis tos izglāba; savā mīlestībā un savā līdzjūtībā viņš tos izpirka, un viņš tos pacēla un nesa visas senatnes dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/63\/9-12.1792523038406.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "viņu bēdās"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "צר",
+      "gloss": "apspiedēja"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "un ... eņģelis"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "viņa vaiga"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "tos izglāba"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "savā mīlestībā"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "un savā līdzjūtībā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "tos izpirka"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "un ... tos pacēla"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "un ... nesa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senatnes"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:58.407432465Z",
+  "model": "glm-5.3"
+}

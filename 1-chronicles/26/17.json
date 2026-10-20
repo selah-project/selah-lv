@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 26:17",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav saikla; latviešu valodai vajag ⟨bija⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "Asupim",
+      "rationale": "אספים: 'kopojumi\/glabātavas' kā tulkots nosaukums vai vietvārds 'Asupim', atstāts pēc skanējuma"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sargu skaits",
+      "rationale": "Vārtu sargu sadalījums pa virzieniem ar skaitļiem: 6, 4, 4, 2+2"
+    }
+  ],
+  "translation": "Austrumos levīti ⟨bija⟩ seši, ziemeļos pa dienai četri, dienvidos pa dienai četri, un pie Asupim divi un divi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/26\/17-20.1792531529490.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למזרח",
+      "gloss": "austrumos"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levīti"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "seši"
+    },
+    {
+      "surface": "לצפונה",
+      "gloss": "ziemeļos"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pa dienai"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četri"
+    },
+    {
+      "surface": "לנגבה",
+      "gloss": "dienvidos"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pa dienai"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četri"
+    },
+    {
+      "surface": "ולאספים",
+      "gloss": "un pie Asupim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "un divi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:29.490960735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laid",
+      "rationale": "שלח 'sūti prom, atlaid' — ebreju valodā viens darbības vārds"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošem un Para",
+      "rationale": "Jahve runā tieši pie Mošes, kurš runās pie Para"
+    }
+  ],
+  "translation": "Un Jahve sacīja Mošem: ej pie Para un saki viņam: Tā saka Jahve: lai ⟨⟨savāc⟩⟩ ⟨את⟩ manu tautu, lai tie Man kalpo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/7\/25-28.1792512794476.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "un saki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "laid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu tautu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manu tautu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "lai tie Man kalpo"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:14.477605690Z",
+  "model": "glm-5.3"
+}

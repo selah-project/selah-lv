@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 1:23",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Runas ievadījums 'sacīdami' latviski apvienots ar paziņoja; ebreju cita struktūra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "seja",
+      "rationale": "אפיו burtiski 'viņa deguns\/nāsis' — sejas apzīmējums."
+    }
+  ],
+  "translation": "Un paziņoja ķēniņam: Lūk, pravietis Nātans. Un viņš ienāca ķēniņa priekšā un pakļāvās ķēniņam ar savu seju līdz zemei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/21-24.1792520215930.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "un paziņoja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nātans"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un viņš ienāca"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "un pakļāvās"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "līdz zemei"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:55.931743679Z",
+  "model": "glm-5.3"
+}

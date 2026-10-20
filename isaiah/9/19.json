@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויגזר",
+      "rationale": "Burtiski 'nogriež\/izzveļ'; attēls — plūko barību pa labi un pa kreisi, bet izsalkums nepāriet."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשר זרעו",
+      "rationale": "'Sava elkoka miesa' — paša spēka iznīcināšana; daži tulko 'sava pēcnācēja miesu' (BSB), taču זרוע ir roka\/elkons."
+    }
+  ],
+  "translation": "Un viņš griežas uz labās puses un ir izsalcis, un ēd uz kreisās puses un nesātinās; katrs ēd sava paša elkoka miesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94444872f9c212dbb87964f681d85256d2f192592ab9cb7e9d43d14c190a5796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/17-20.1792522034650.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "un griežas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "labās puses"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "un ir izsalcis"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "un ēd"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "kreisās puses"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "sātinās"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sava elkoka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ēd"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:14.651213259Z",
+  "model": "glm-5.3"
+}

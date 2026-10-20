@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svētīja",
+      "rationale": "ברך burtiski 'noturkt ceļos \/ ceļot'; latviski 'svētīt' kā standarta nozīme."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ivritā darbības vārds ויתן nes subjektu 'viņš' (Jehošua); latviešu valodā vajadzīgs vietniekvārds."
+    }
+  ],
+  "translation": "Un Jehošua viņu svētīja, un viņš deva ⟨את⟩ Chebronu Kalevam, Jefunnes dēlam, par mantojumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c3af06b3b67f6277ccb847fa5281b0f7d04c4209833b5c65a5dab075a2d42358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/14\/13-15.1792517788703.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "un viņu svētīja"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "un deva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebronu"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalevam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnes"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "par mantojumu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:36:28.704306459Z",
+  "model": "glm-5.3"
+}

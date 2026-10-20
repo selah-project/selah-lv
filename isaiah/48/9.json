@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "אף burtiski 'deguns\/nāsis' — dusmu metafora, tulkota kā 'dusmu degsmi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחטם לך",
+      "rationale": "חטם 'aizsprosto\/apvalka' — 'atturēšu dusmas tevis dēļ' vai 'atturēšu tevi (savā teikšanā)'"
+    }
+  ],
+  "translation": "Sava vārda dēļ es kavēšu savu dusmu degsmi, un savu teikšanu es atturēšu ⟨no tevis⟩, lai tevi neiznīcinātu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/48\/9-12.1792522764152.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sava vārda"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "es kavēšu"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "savu dusmu degsmi"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "un savu teikšanu"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "es atturēšu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨no tevis⟩"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "tevi iznīcinātu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:24.153075373Z",
+  "model": "glm-5.3"
+}

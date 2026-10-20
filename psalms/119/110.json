@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbības vārds"
+    },
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "Ebrejs izmanto prievārdu מן 'no', latviešu locījums to prasa skaidri"
+    }
+  ],
+  "translation": "Ļaundari man ir licu slazdu, bet no Taviem pavēlēm es neesmu noklīdis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/109-112.1792528333784.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ir licu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaundari"
+    },
+    {
+      "surface": "פח",
+      "gloss": "slazdu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "bet no Taviem pavēlēm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "esmu noklīdis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:13.785549368Z",
+  "model": "glm-5.3"
+}

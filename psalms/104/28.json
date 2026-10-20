@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savāc",
+      "rationale": "לקט burtiski 'lasa, kušļo' — kā vārpi lasot; 'savāc' zaudē lasīšanas bildi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבעון\/ישברון",
+      "rationale": "v27 'gaida' (שבר) un v28 'piesātinās' (שבע) — līdzskanība, kas latviski zūd."
+    }
+  ],
+  "translation": "Tu dod viņiem — tie savāc; Tu atver Savu roku — tie piesātinās ar labumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/25-28.1792528133046.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Tu dod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "tie savāc"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Tu atver"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Savo roku"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "tie piesātinās"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ar labumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:53.047945779Z",
+  "model": "glm-5.3"
+}

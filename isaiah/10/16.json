@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izkāmēšana",
+      "rationale": "רזון burtiski 'tievums' — personificēta izkāmēšana, ko Jahve sūta starp Asīrijas 'resnajiem'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקד יקד כיקוד",
+      "rationale": "Saknes יקד trīskārša atkārtošanās — 'degs degums kā degums' — uguns intensitāte, latviski mīkstināts."
+    }
+  ],
+  "translation": "Tāpēc Adonai Jahve Cevaot sūtīs viņa resnajiem izkāmēšanu, un zem viņa godības iedegsies degšana, kā deg uguns.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b75d33f570d7a6303becc7380b986ccad6eae46cf37694e23ffe00f7654e4796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/13-16.1792522064823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sūtīs"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "viņa resnajiem"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "izkāmēšanu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "un zem"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "viņa godības"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "iedegsies"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "degšana"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "kā deg"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:44.824194065Z",
+  "model": "glm-5.3"
+}

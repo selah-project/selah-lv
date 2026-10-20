@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 14:29",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הלא",
+      "rationale": "Retoriskais apgalvojuma jautājums 'vai ne' — formula, kas aicina lasītāju piekritīt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דברי הימים",
+      "rationale": "Burtiski 'dienu vārdi\/lietas' — atveidots kā 'dienu annāles', jo tas ir dokumentu nosaukums."
+    },
+    {
+      "kind": "addition",
+      "subject": "annāles",
+      "rationale": "Latviešu valodai vajadzīgs skaidrojums, kas ebreju formula satur netieši."
+    }
+  ],
+  "translation": "Un pārējie Rehavjama darbi un viss, ko viņš darīja — vai tie nav rakstīti ⟨את⟩ grāmatā Jūdu ķēniņu dienu annālēs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/29-31.1792520804356.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Un pārējie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavjama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš darīja"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai tie nav"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "rakstīti"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩ grāmatā"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lietu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:26:44.356860784Z",
+  "model": "glm-5.3"
+}

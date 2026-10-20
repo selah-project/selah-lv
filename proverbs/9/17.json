@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; divdabju teikumiem latviešu valodā vajag 'ir'"
+    },
+    {
+      "kind": "secret",
+      "subject": "סתרים",
+      "rationale": "Apslēptības motīvs — maize, kas ēst slepenībā, pievilina ar slēpšanos"
+    }
+  ],
+  "translation": "Zagti ūdeņi ir saldi, un apslēptā maize ir garda.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/9\/17-18.1792528586886.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "zagti"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "ir saldi"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "un maize"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "apslēptā"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ir garda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:26.886713088Z",
+  "model": "glm-5.3"
+}

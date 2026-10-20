@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 1:8",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "Uzruna 'mans dēls' un pavēle 'klausies' tieši uzsauc lasītāju kā skolnieku"
+    },
+    {
+      "kind": "crux",
+      "subject": "תורת אמך",
+      "rationale": "'mātes Tora' — vai šeit vispārīga 'mācība', vai apzināti Tora mātes mācības lomā"
+    }
+  ],
+  "translation": "Mans dēls, klausies sava tēva mācību un nepamet savas mātes Toru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/5-8.1792528514063.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "klausies"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mācību"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "pamet"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "savas mātes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:14.063896271Z",
+  "model": "glm-5.3"
+}

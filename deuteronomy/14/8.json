@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "atgrūž",
+      "gloss": "ולא גרה burtiski 'un ne rumulu' — darbības vārds pievienots skaidrībai latviešu valodā."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Pavēles adresētas Israēla tautai: 'jums', 'neēdīsit', 'neaizskarsit'."
+    }
+  ],
+  "translation": "Un ⟨את⟩ cūku, jo tā sadala nagu, bet rumulu neatgrūž — nešķīsta tā ir jums; no to miesas neēdīsit un to maitu neaizskarsit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/14\/5-8.1792516959878.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "cūku"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "cūku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "sadala"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "rumulu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešķīsta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ir jums"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "no to miesas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ēdīsit"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "un to maitu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "aizskarsit"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:39.881285516Z",
+  "model": "glm-5.3"
+}

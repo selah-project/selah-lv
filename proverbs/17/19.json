@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ceļ savu vārtu augstumu",
+      "rationale": "מגביה פתחו: pārspīlēti augsti vārti kā lepnums pret 'plaši atvērtu muti' (Targum tradīcija)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iegrūzi",
+      "rationale": "שבר burtiski 'lūzums, lauzums' — postens kā nolauzta lieta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב ... אהב",
+      "rationale": "Atkārtots darbības vārds paralēlismā: kas mīl X, mīl Y."
+    }
+  ],
+  "translation": "Kas mīl sacelšanos, mīl ķildu, un kas ceļ savu vārtu augstumu, meklē iegrūzi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/17\/17-20.1792528744487.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "kas mīl"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sacelšanos"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīl"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ķildu"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "kas ceļ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "sava vārtu atveri"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "meklē"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "iegrūzi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:04.488336776Z",
+  "model": "glm-5.3"
+}

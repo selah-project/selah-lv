@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "2-samuel 22:51",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dara lielas glābšanas",
+      "rationale": "KJV 'spēcīgā glābšanas tornis' — tekstā nav 'torņa'; מגדיל ישועות burtiski 'palielina glābšanas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד paturēts kā hesed — 'žēlastība' vien par šauru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītajam",
+      "rationale": "משיחו par ķēniņu — 'svaidītais', nevis 'Mesija'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dēliem",
+      "rationale": "זרעו burtiski 'viņa sēkla' — pēcnācēji"
+    }
+  ],
+  "translation": "Kas dara lielas glābšanas savam ķēniņam, un kas dara hesed savam svaidītajam, Davids un viņa dēliem, līdz mūžībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f1f0d025142afc18f46cc442f0ea9d9d59166607e228b872b054268e9a299d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/49-51.1792520236205.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדיל",
+      "gloss": "kas dara lielas"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "glābšanas"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "savam ķēniņam"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un kas dara"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "savam svaidītajam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "un viņa dēliem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:16.205885155Z",
+  "model": "glm-5.3"
+}

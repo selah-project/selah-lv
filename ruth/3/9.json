@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כנפך",
+      "rationale": "Burtiski 'tavs spārns' — drānas mala kā aizsegums; izplešana pār sievieti nozīmē aizsardzību un laulības ņemšanu (Ezek 16:8)"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאל",
+      "rationale": "'Izpirkējs' \/ 'gaels' — radinieks, kas atmanto un atbrīvo; Ruta to lieto kā lūgumu par laulību, ne vien par zemes izpirkšanu"
+    },
+    {
+      "kind": "you",
+      "subject": "Ruta uz Boazu",
+      "rationale": "Tiešs lūgums ar imperatīvu 'izpleti' — runas aktā pārliecināt izpirkēju"
+    }
+  ],
+  "translation": "Un viņš sacīja: Kas ⟨את⟩ tu? Un viņa sacīja: Es esmu Ruta, tava kalpone — izpleti savas drānas malu pār savu kalponi, jo tu ⟨esi⟩ izpirkējs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/3\/9-12.1792529729762.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Un viņa sacīja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruta"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tava kalpone"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "izpleti"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "savas drānas malu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "savu kalponi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "izpirkējs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:29.762914440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "uz mani",
+      "rationale": "Jahve runā pirmajā personā — 'nav neviena, kas sauc uz mani' ir runas akts ar Israēlu kā adresātu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "visi \/ visi",
+      "rationale": "Divkāršais 'visi' (כלם, כל מלכיהם) — pilnības uzskaitījums: neviens neizņemts."
+    }
+  ],
+  "translation": "Visi tiem sakarsuši kā krāsns, un tie aprija ⟨את⟩ savus soģus; visi viņu ķēniņi krita — nav neviena, kas viņu vidū sauc uz mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a24c437edf1bd670d9addc9e26ea4962e81d9bc325ba0f3cf69aa202b6eaa001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/7\/5-8.1792525995124.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "visi"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "sakarsuši"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kā krāsns"
+    },
+    {
+      "surface": "ו אכלו",
+      "gloss": "un aprija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus soģus"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "savus soģus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "viņu ķēniņi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "krita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "viņu vidū"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "uz mani"
+    }
+  ],
+  "timestamp": "2026-10-20T19:53:15.125207758Z",
+  "model": "glm-5.3"
+}

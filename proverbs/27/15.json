@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סגריר",
+      "rationale": "'gāzmains lietus' — vārds sastopams tikai šeit Tanahā."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨abi⟩",
+      "rationale": "ebreju salīdzinājuma teikumā nav priekšmeta; latviešu valodai vajadzīgs skaidri izteikts subjekts."
+    }
+  ],
+  "translation": "Nepārtraukta pilēšana lietainā dienā un ķildu pilna sieva — ⟨abi⟩ ir vienādi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/13-16.1792528901439.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "nepārtraukta pilēšana"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "dziļā"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "lietainā"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "un sieva"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ķildu pilna"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "ir vienādi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:41.440594429Z",
+  "model": "glm-5.3"
+}

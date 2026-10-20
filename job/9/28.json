@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 9:28",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Tu⟩",
+      "rationale": "Darbības vārda 2. personā ebreju tekstā nav atsevišķa vietniekvārda; latviešu skaidrības labad pievienots 'Tu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sāpes",
+      "rationale": "עצבת — arī 'brūce, ciešanas'; dvālas forma 'visas sāpes'"
+    },
+    {
+      "kind": "you",
+      "subject": "Joba vārdi par Elohim",
+      "rationale": "Netieša vēršanās pie Dieva caur 2. personas darbības vārdu 'Tu neatbrīvosi'"
+    }
+  ],
+  "translation": "es baidos no visām savām sāpēm; es zinu, ka ⟨Tu⟩ mani nepasludināsi par nevainīgu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/9\/25-28.1792529075646.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגרתי",
+      "gloss": "es baidos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "no visām"
+    },
+    {
+      "surface": "עצבתי",
+      "gloss": "savām sāpēm"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "es zinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "-pasludināsi mani par nevainīgu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:35.647776800Z",
+  "model": "glm-5.3"
+}

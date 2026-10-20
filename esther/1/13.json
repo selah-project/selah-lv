@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "datu un dinu",
+      "rationale": "Persiešu aizguvumi dת\/דין — 'likums un tiesa'; saglabāts pēc skanējuma"
+    },
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "gloss": "Relatīvais particles 'kas' piekārtots partizipam ידעי"
+    }
+  ],
+  "translation": "Un ķēniņš sacīja gudrajiem, kas pazina laikus — jo tāds bija ķēniņa darbs ⟨pie⟩ visiem, kas pazina datu un dinu —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/13-16.1792530066973.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "gudrajiem"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kas pazina"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "laikus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāds"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kas pazina"
+    },
+    {
+      "surface": "דת",
+      "gloss": "datu"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "un dinu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:06.974568315Z",
+  "model": "glm-5.3"
+}

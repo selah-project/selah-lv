@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתהן",
+      "rationale": "no פֹּת ('atvere'); tradicionāli 'viņu slēptās daļas' (KJV) pret 'viņu piere' (BSB no פֹּה)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יערה",
+      "rationale": "'atklās kailumu' — burtiski 'izģērbs\/atklās'."
+    }
+  ],
+  "translation": "Adonai padarīs Cionas meitu galvasvidus, un Jahve atklās ⟨viņu⟩ kailumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/3\/17-20.1792521810360.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "padarīs"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "galvasvidus"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionas"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "un Jahve"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "⟨viņu⟩ priekšu"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "atklās kailumu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:30.361327117Z",
+  "model": "glm-5.3"
+}

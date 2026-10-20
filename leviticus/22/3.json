@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 22:3",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa 'viņa nešķīstība uz viņu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Teikumā 'es Jahve' ebreju valodā nav saikļa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks, nevis nemateriāla 'dvēsele' vēlākā nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "izgriezta no Manas vaiga priekšas",
+      "rationale": "מלפני burtiski 'no Mana vaiga'; tulkojumos 'no Manis', 'no Manas klātbūtnes', 'no Mana vaiga priekšas'"
+    }
+  ],
+  "translation": "Saki tiem: visām jūsu paaudzēm — ikviens cilvēks no visa jūdu sēklas, kas tuvojas svētumam, ko Jisraēla dēli svētā Jahvem, un viņa nešķīstība ⟨ir⟩ uz viņu, — tā dvēsele tiks izgriezta no Manas vaiga priekšas; es ⟨esmu⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "df47aec6aafc2bbb7b744f050a0ab57c45ad5b3d8d18a5e90f23266e614062c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/22\/1-4.1792515099187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Saki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsu paaudzēm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikvienam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "tuvotas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "jūsu sēklas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "svētā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "וטמאתו",
+      "gloss": "un viņa nešķīstība"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz viņu"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "un tiks izgriezta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "tā dvēsele"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "no Manas vaiga priekšas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:39.189359483Z",
+  "model": "glm-5.3"
+}

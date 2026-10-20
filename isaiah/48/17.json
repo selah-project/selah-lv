@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 48:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag 'esmu'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Jahve runā tieši ar Jisraēlu kā tautu — otrā personas adresējums"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mācība un vadība",
+      "rationale": "Dievs sevi piedāvā kā mācītāju un vadoni ceļā"
+    }
+  ],
+  "translation": "Tā saka Jahve, tavs izpestītājs, Jisraēla Svētais: Es ⟨esmu⟩ Jahve, tavs Elohim, kas tevi māca derīgajam, kas tevi vada pa ceļu, pa kuru tev jāiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "729f08c787722c99a8eca2eb0e87ba705a754e7fd2755fa9ed184c382761d74d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/48\/17-20.1792522800615.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "tavs izpestītājs"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svētais"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "מלמדך",
+      "gloss": "kas tevi māca"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "derīgajam"
+    },
+    {
+      "surface": "מדריכך",
+      "gloss": "kas tevi vada"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tev jāiet"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:00.616486878Z",
+  "model": "glm-5.3"
+}

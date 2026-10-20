@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "un tā pati lieta",
+      "rationale": "Ebreju teic tikai אחת היא 'viena tā ir'; latviešu prasa pilnāku izteiksmi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iznīcina",
+      "rationale": "מכלה no כלה 'izbeigt\/pabeigt' — dievišķais subjekts izlīdzina abus bez atšķirības"
+    }
+  ],
+  "translation": "Viena ⟨un tā pati lieta⟩ tā ir; tāpēc es sacīju: Viņš iznīcina pilnīgo un ļaono.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/9\/21-24.1792529052601.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā ir"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "es sacīju"
+    },
+    {
+      "surface": "תם",
+      "gloss": "pilnīgo"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "un ļaono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "iznīcina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:44:12.602706651Z",
+  "model": "glm-5.3"
+}

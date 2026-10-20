@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gabals⟩",
+      "rationale": "Ebreju tekstā tikai 'viens'; 'gabals' pievienots skaidrībai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "zemes sadalījums",
+      "rationale": "Gada cilts daļas robežu apraksts"
+    }
+  ],
+  "translation": "Un pie Zevulona robežas, no austrumu puses līdz rietumu pusei, Gads — viens ⟨gabals⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8f6da255b9384241a721fcd4a9c61618fe9b5618fce4a22d323af1ca9ab818c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/48\/25-28.1792525936821.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Un pie"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robežas"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulona"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "no puses"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "austrumu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pusei"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "rietumu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gads"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens ⟨gabals⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T19:52:16.822532846Z",
+  "model": "glm-5.3"
+}

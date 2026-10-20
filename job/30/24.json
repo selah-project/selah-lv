@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "viss pants",
+      "rationale": "Slavenākais Jova grāmatas tumšais pants: KJV 'he will not stretch out his hand to the grave', YLT 'not against the heap', ASV 'doth not one stretch out the hand in his fall?' — vārdi בעי\/בפידו\/להן\/שוע atļauj vairākas pretējas lasījumus; saglabāts burtiskākais."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בעי",
+      "rationale": "'lūgšana' šajā formā Tanahā sastopama reti; konteksts prasa 'uz lūgšanu' — roka netiek sniegta lūguma brīdī."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tāpēc⟩",
+      "rationale": "להן 'tāpēc\/ja' ir apgrūtināti tulkojams saistījumā; iekavās pievienots, lai teikums latviski noturētos kopā."
+    }
+  ],
+  "translation": "Tomēr ne lūgšanā tiek izstiepta roka; vai nu viņa postā — ⟨tāpēc⟩ palīgssauciens.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/30\/21-24.1792529449804.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tomēr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "lūgšanā"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "izstiepj"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "viņa postā"
+    },
+    {
+      "surface": "להן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "palīgssauciens"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:49.805899713Z",
+  "model": "glm-5.3"
+}

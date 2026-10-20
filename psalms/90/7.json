@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Burtiski 'nāsis\/deguns' — dusmas kā elpa pa degunu; latviski 'dusmas' zaudē ķermeņa bildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Tavā⟩",
+      "rationale": "Ivrita sufikss -ך (Tavs) ietilpst vārdos באפך \/ בחמתך; latviski jāpievieno īpašības vārds atsevišķi."
+    }
+  ],
+  "translation": "Jo mēs tikām iznīcināti ⟨Tavā⟩ dusmās un ⟨Tavā⟩ niknumā mēs satricināti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/90\/5-8.1792528037130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "tikām iznīcināti"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dusmās"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "niknumā"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "satricināti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:17.130903043Z",
+  "model": "glm-5.3"
+}

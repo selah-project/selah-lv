@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התנשמת",
+      "rationale": "Burtiski 'stipri elpojošais'; KJV 'gulbis' (swan), ASV\/JPS 'ragainā pūce' — Lev 11:18 tas pats vārds apzīmē arī ķirzaku, suga nav droši nosakāma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכוס",
+      "rationale": "Vārds nozīmē arī 'kauss'; šeit putna — 'mazā pūce' — nosaukums."
+    }
+  ],
+  "translation": "⟨את⟩ mazo pūci, un ⟨את⟩ lielo pūci, un ragaino pūci,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/14\/13-16.1792516916176.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazo pūci"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "mazo pūci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "lielo pūci"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "lielo pūci"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "un ragaino pūci"
+    }
+  ],
+  "timestamp": "2026-10-20T17:21:56.178386692Z",
+  "model": "glm-5.3"
+}

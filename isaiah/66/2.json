@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir 'ruah' — gars, vējš, elpa vienā vārdā; latviski atstāts kā ruah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני ונכה רוח",
+      "rationale": "Trīsvārdu ķēde — nomocīts, sadauzīts ruah — ritmiski atkārtojas arī 66:2 un 57:15; zudze latviski daļēja."
+    },
+    {
+      "kind": "secret",
+      "subject": "Jahves skatiena objekts",
+      "rationale": "Dievs atklāj, uz ko Viņš 'skatās' — slēptā priekšroka pret pazemīgo."
+    }
+  ],
+  "translation": "Un ⟨את⟩ visas šī lietas mana roka darīja, un visas šīs lietas tapa, saka Jahve; un uz šo es skatos: uz to, kas nomocīts un sadauzīts savā ruah un drebēt dreb mana vārda dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/66\/1-4.1792523225074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Un ⟨את⟩",
+      "marks": "visas šīs lietas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šīs lietas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mana roka"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "un tapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šīs lietas"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "es skatos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nomocīto"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "un sadauzīto"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "savā ruah"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "un drebēt dreb"
+    },
+    {
+      "surface": "על",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mana vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T19:07:05.075112156Z",
+  "model": "glm-5.3"
+}

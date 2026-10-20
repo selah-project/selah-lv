@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgā saite, ebreju valodā tās nav"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הראש",
+      "rationale": "ראש burtiski 'galva'; 'galvenais' saglabā vadoņa nozīmi bez amata tulkojuma"
+    }
+  ],
+  "translation": "Un Hosa no Merari dēliem bija dēli: Šimri ⟨ir⟩ galvenais, jo viņš nebija pirmdzimtais, un viņa tēvs viņu iecēla par galveno.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a516b2e8f326db5408bf23218b7f6178301d0055a18587f63cb867a6dbd136cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/26\/9-12.1792531508500.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "Un Hosam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Šimri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galvenais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmdzimtais"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "iecēla viņu"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "viņa tēvs"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "par galveno"
+    }
+  ],
+  "timestamp": "2026-10-20T21:25:08.501491341Z",
+  "model": "glm-5.3"
+}

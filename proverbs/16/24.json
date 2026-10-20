@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis, kura ebreju teikumā nav; salīdzinājums izteikts vienkārši blakuslikumā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēselei",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele platoniskā nozīmē."
+    }
+  ],
+  "translation": "Medus šūnas ⟨ir⟩ patīkami vārdi, saldi dvēselei un dziedinoši kauliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/21-24.1792528714539.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "šūnas"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "medus"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "patīkami"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "saldi"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dvēselei"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "un dziedinoši"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "kauliem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:34.540233553Z",
+  "model": "glm-5.3"
+}

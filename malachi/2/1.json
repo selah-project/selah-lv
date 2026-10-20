@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "you",
+      "subject": "priesteri",
+      "rationale": "Tiešs uzrunas vērsums priesteriem"
+    }
+  ],
+  "translation": "Un tagad jums ⟨ir⟩ šī pavēle, ⟨ak⟩ priesteri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/2\/1-4.1792526942681.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pavēle"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:02.684372602Z",
+  "model": "glm-5.3"
+}

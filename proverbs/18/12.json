@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iet",
+      "rationale": "Ebreju otrajā pusē nav darbības vārda; latviski vajadzīgs priekšstatāms"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "'Pirms' — burtiski 'sejas priekšā': sabrukums un gods pienāk kā personības"
+    }
+  ],
+  "translation": "Pirms sabrukuma cilvēka sirds kļūst augstprātīga, un pirms goda ⟨iet⟩ pazemība.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/18\/9-12.1792528718130.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sabrukuma"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "kļūst augstprātīga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "un pirms"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "goda"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "pazemība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:38.131811350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mūsu rags",
+      "rationale": "קרן 'rags' ir spēka un goda tēls; latviski paturēts burtiski 'rags'"
+    },
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ivrita teikumam nav saikļa; latviešu valodā vajadzīgs 'esi'"
+    }
+  ],
+  "translation": "Jo Tu esi viņu spēka krāšņums, un Tavā labvēlībā mūsu rags tiek celts augšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/17-20.1792528019274.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "krāšņums"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "viņu spēka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu esi"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "un Tavā labvēlībā"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tiek celts augšā"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "mūsu rags"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:59.275230839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spožums",
+      "rationale": "מטהר ir 'tīrums\/spozums' (no 'tīrīt'), nevis 'godība'; saglabāta gaismas nozīme."
+    }
+  ],
+  "translation": "Tu darīji beigties viņa spožumam un viņa troni nogāzi līdz zemei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f2361448b820e43538140bba91febbd67508c36144c0299ff41f8c16d53c905e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/45-48.1792528012919.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "Tu darīji beigties"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "viņa spožumam"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "un viņa troni"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "līdz zemei"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "Tu nogāzi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:52.919784582Z",
+  "model": "glm-5.3"
+}

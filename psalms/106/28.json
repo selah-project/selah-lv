@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ko ziedoja⟩",
+      "rationale": "Latviešu 'upurus mirušajiem' prasa paskaidrojošu darbības vārdu ģenitīva konstrukcijai זבחי מתים"
+    },
+    {
+      "kind": "crux",
+      "subject": "mirušajiem",
+      "rationale": "זבחי מתים — 'mirušajiem (dieviem) upuri' vai 'nāves upuri'; BSB 'lifeless gods' pārinterpretē"
+    }
+  ],
+  "translation": "Un viņi pielika sevi Baal-Peoram un ēda upurus, ⟨ko ziedoja⟩ mirušajiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/106\/25-28.1792528189009.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "pielika sevi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peoram"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un ēda"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "upurus, ⟨ko ziedoja⟩"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mirušajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:49.010966908Z",
+  "model": "glm-5.3"
+}

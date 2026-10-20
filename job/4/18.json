@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 4:18",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תהלה",
+      "rationale": "'tehola' nozīmē 'pārgalvība, muļķība'; YLT lasa 'slavu' pret kontekstu — muļķība ir pareizi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sūtņiem",
+      "rationale": "מלאכיו var būt 'eņģeļi' vai 'sūtņi' — viens vārds, Tanahs to neliedz"
+    }
+  ],
+  "translation": "Lūk, saviem kalpiem Viņš netic, un saviem sūtņiem Viņš piedēvē muļķību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/4\/17-20.1792528975053.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "saviem kalpiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "Viņš netic"
+    },
+    {
+      "surface": "ובמלאכיו",
+      "gloss": "un saviem sūtņiem"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "Viņš piedēvē"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "muļķību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:55.054055428Z",
+  "model": "glm-5.3"
+}

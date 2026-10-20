@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'ar šķēpu' — bet בשלח + יעברו var lasīt arī kā 'aizies ar šāvienu (būs cauršauti)'; KJV 'by the sword' pieņem ierocis ne šķēps"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izlaidīs elpu",
+      "rationale": "ויגועו burtiski 'izelpot, nomirt' — saglabāta elpošanas aina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמעו\/לא ישמעו",
+      "rationale": "Klausīšanās\/neklausīšana 36:11 un 36:12 pretstatā — dzīvība pret bojāeju"
+    }
+  ],
+  "translation": "Bet ja tie neklausa, tie ies bojā ar šķēpu un izlaidīs elpu bez zināšanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/36\/9-12.1792529495280.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Bet ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "tie klausa"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ar šķēpu"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "tie ies bojā"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "un izlaidīs elpu"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zināšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:35.281675468Z",
+  "model": "glm-5.3"
+}

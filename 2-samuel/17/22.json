@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ar viņu",
+      "rationale": "אתו šeit ir prievārds H854 'ar viņu', nevis priekšmets את H853; ⟨את⟩ saglabāts pēc Selah noteikuma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "pārgāja",
+      "rationale": "Divkāršā עבר\/Jordān atkārtošanās un dubultā nolieguma konstrukcija 'netrūka neviena, kas nebūtu pārgājis' — latviešu valodā dubultais noliegums glabāts burtiski."
+    }
+  ],
+  "translation": "Un cēlās Davids un visa tauta, kas ⟨את⟩ viņam, un viņi pārgāja ⟨את⟩ Jordānu, līdz rīta gaismai; netrūka neviena, kas nebūtu pārgājis ⟨את⟩ Jordānu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd78dd941aee8e9b18007a0e4478097a51e90b12a7da3c9da8d90259ae0bff87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/17\/21-22.1792532641267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Un cēlās"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņam"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "un pārgāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordānu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaismai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rīta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "neviens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "netrūka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebūtu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pārgājis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordānu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:01.267903395Z",
+  "model": "glm-5.3"
+}

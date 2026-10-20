@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנוב יגנב",
+      "rationale": "Infinitivus absolutus + finite verbs — 'ja nozagts tiek nozagts'; latviski atbalso ar divkāršu 'nozagts'"
+    }
+  ],
+  "translation": "Un ja tas tiek nozagts no viņa, viņš atlīdzinās tā īpašniekam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/9-12.1792513070018.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tiekt nozagts"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "nozagts"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlīdzinās"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "tā īpašniekam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:50.019709819Z",
+  "model": "glm-5.3"
+}

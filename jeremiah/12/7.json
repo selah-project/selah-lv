@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ידדות",
+      "rationale": "Vārds 'mīļākā, dārgā' sastopams tikai šeit Tanahā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa, rīkle, dzīvības spēks — ne latviešu 'dvēsele' abstraktā nozīmē."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביתי \/ נחלתי",
+      "rationale": "Jahve runā par templi un tautu kā par savu namu un mantojumu — Runātājs pats mainās no 5.–6. pantu 'tu' uz 'Es'."
+    }
+  ],
+  "translation": "Es atstāju savu namu, atmetu savu mantojumu; savas dvēseles mīļoto es atdevu ⟨את⟩ viņas ienaidnieku rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/12\/5-8.1792523502861.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Es atstāju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu namu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "savu namu"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "atmetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu mantojumu"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "savu mantojumu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "es atdevu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas dvēseles mīļoto"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "mīļoto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savas dvēseles"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "viņas ienaidnieku"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:42.863046633Z",
+  "model": "glm-5.3"
+}

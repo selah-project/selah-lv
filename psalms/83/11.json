@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mēslojums",
+      "rationale": "דמן ir 'mēsli, mēzgli' — stiprs tēls par pilnīgu nonievināšanu un sabrukšanu."
+    },
+    {
+      "kind": "crux",
+      "subject": "En-Dora",
+      "rationale": "Daži lasa 'בְעֵין דּוֹר' kā vietvārdu En-Dora, citi tulko 'pie doras avota'; pieņemts vietvārds En-Dora."
+    }
+  ],
+  "translation": "Tika iznīcināti pie En-Doras, kļuva par mēslojumu ⟨uz⟩ zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "69f6dfa6ded16bd24af260241a3b7338019813431766eae336da71947a0bc249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/83\/10-11.1792532804792.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "tika iznīcināti"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pie En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Doras"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kļuva"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "par mēslojumu"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "zemei"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:44.792733239Z",
+  "model": "glm-5.3"
+}

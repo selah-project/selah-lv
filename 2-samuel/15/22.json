@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mazie",
+      "rationale": "הטף no saknes 'tekot, mesties' — kolektīvi mazie bērni un piederīgie; 'mazie' saglabā formu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ittai",
+      "rationale": "Davida pavēle tieši Itajam: 'Ej un ej pāri'."
+    }
+  ],
+  "translation": "Un Davids sacīja Itajam: Ej un ej pāri. Un Itai getietis gāja pāri, un visi viņa vīri, un visi mazie, kas bija ⟨את⟩ ar viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/21-24.1792520040444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "un ej pāri"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "un gāja pāri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "getietis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "viņa vīri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "mazie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ar viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:00.445414485Z",
+  "model": "glm-5.3"
+}

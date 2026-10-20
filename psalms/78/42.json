@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tos",
+      "rationale": "Ebreju valodā pārdēvētais objekts (priekšvēsturē — Israēla) nav izteikts; pievienots, lai latviešu teikums būtu pilnīgs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ienaidnieks",
+      "rationale": "צַר burtiski 'šaurs (gabals), apspiedējs'; 'ienaidnieks' ir loma, nevis vārda forma."
+    }
+  ],
+  "translation": "Nees viņi atcerējušies ⟨את⟩ viņa roku, dienu, kad viņš izpestīja tos no ienaidnieka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2024993eee3466d44813661bde8ed41c1e9232e9d3580fe380a2a886bb481910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/42-43.1792532809396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nees"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "viņi atcerējušies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa roku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "viņš izpestīja"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ienaidnieka"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:49.396538507Z",
+  "model": "glm-5.3"
+}

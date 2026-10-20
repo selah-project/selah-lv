@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "'No saviem galiem' — KJV 'no zemākajiem', citi 'no visām malām'; sakne קצה ir 'gals, mala'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bīdamies",
+      "rationale": "יראים ir darbības vārda divdabis; latviski pievienots palīgdarbības vārds."
+    }
+  ],
+  "translation": "Un tie bījās ⟨את⟩ Jahvi un darīja sev no saviem galiem bamotu priesterus, un tie bija darītāji tiem bamot namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/29-32.1792521582067.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Un tie bija"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bīdamies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "no saviem galiem"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "priesterus"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamotu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "un tie bija"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "darītāji"
+    },
+    {
+      "surface": "להem",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamotu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:42.068286322Z",
+  "model": "glm-5.3"
+}

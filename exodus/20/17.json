@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iekārot",
+      "rationale": "חמד: 'iekārot\/degot vēlēties' — iekšēja vēlme, ne darbība; Deut 5:21 tur pret to תתאווה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tuvākais",
+      "rationale": "רעך ir 'draugs, paziņa', ne tieši 'tuvākais' kaimiņš"
+    }
+  ],
+  "translation": "Neiekāro tavā tuvākā māju, neiekāro tavā tuvākā sievu, nedz viņa kalpu, nedz viņa kalponi, nedz viņa vērsi, nedz viņa ēzeli, nedz nevienu lietu, kas pieder tavam tuvākajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/17-20.1792513029509.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "iekāro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "māju"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tavā tuvākā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "iekāro"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tavā tuvākā"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "nedz viņa kalpu"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "nedz viņa kalponi"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "nedz viņa vērsi"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "nedz viņa ēzeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nedz nevienu lietu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "pieder tavam tuvākajam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:09.510203162Z",
+  "model": "glm-5.3"
+}

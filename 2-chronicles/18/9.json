@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 18:9",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rijā",
+      "rationale": "בגרן tiešā nozīme ir 'rija\/kušas laukums'; KJV 'void place' un ASV 'open place' to mīkstina."
+    },
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Latviešu valodai vajadzīgs subjekta vietniekvārds 'tie' atkārtotajam 'un sēdēja'."
+    }
+  ],
+  "translation": "Un Jisraēlas ķēniņš un Jehošafats, Jehudas ķēniņš, sēdēja, katrs uz sava troņa, ģērbti tērpos, un tie sēdēja rijā pie Šomronas vārtu ieejas, un visi pravieši pravietoja viņu priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "412a75a623094f2c4e21fae9ea8c85a2a17097f4fd905a716ec267ad1d784673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/18\/9-12.1792532001733.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Un ķēniņš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlas"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "un Jehošafats"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "sēdēja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sava troņa"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "ģērbti"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tērpos"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "un tie sēdēja"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "rijā"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pie ieejas"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pravieši"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "pravietoja"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "viņu priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:33:21.733720144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פקד עון",
+      "rationale": "'piemeklēt vainu' — ebreju idiomāts sodīt\/sekt pārkāpumu, ne vienkārši 'apsodīt'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תטמא \/ תקא",
+      "rationale": "aptraipīšana un vemšana — zeme 'kļūst nelaba' no nešķīstības kā ķermenis no indes; tēls zudītu, tulkojot maigi"
+    }
+  ],
+  "translation": "Un zeme bija aptraipīta, un Es piemeklēju ⟨את⟩ tās vainu pār to, un zeme izvemja ⟨את⟩ savus iemītniekus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/18\/25-28.1792514928089.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "un bija aptraipīta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "un Es piemeklēju"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tās vainu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pār to"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "un izvemja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus iemītniekus"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "savus iemītniekus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:48.091293449Z",
+  "model": "glm-5.3"
+}

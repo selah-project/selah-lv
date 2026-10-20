@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju מה לך ir bez darbības vārda; latviski ⟨ir⟩ pievienots"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Kas tev ir",
+      "rationale": "Ebreju מה־לך burtiski 'kas tev?' — nozīmē 'kas tev kaiš?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנך \/ בני",
+      "rationale": "Hiasmuss: tavs dēls — šodien, mans dēls — rīt; simetriskā noslēguma struktūra sievas stāstā"
+    }
+  ],
+  "translation": "Un ķēniņš sacīja viņai: Kas tev ⟨ir⟩? Un sieva sacīja: Šī sieva teica man: Dod ⟨את⟩ savu dēlu, un ēdīsim viņu šodien, un ⟨את⟩ manu dēlu ēdīsim rīt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c6f1a96d620082cfdd351ca1709737b16e15d2b76f3a607175a588ee22557fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/25-28.1792521206285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un ķēniņš sacīja"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sievа"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "Šī"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "teica"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Dod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dēlu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "savu dēlu"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "un ēdīsim viņu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manu dēlu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "manu dēlu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ēdīsim"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rīt"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:26.286266265Z",
+  "model": "glm-5.3"
+}

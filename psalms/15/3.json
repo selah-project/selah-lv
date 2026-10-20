@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגל",
+      "rationale": "רגל var nozīmēt 'ienākt ar sakāvi, soļot' — tradicionāli saprasts kā 'apmelt, izplatīt baumas'; šeit 'nesola ļaunu' kā burtiskākā bilde"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tuvākais \/ tuvinieks",
+      "rationale": "רעהו un קרב ir divi vārdi — 'draugs' un 'tuvais' — atstāti atšķirīgi kā ebreju valodā"
+    }
+  ],
+  "translation": "Kas ar savu mēli nesola ļaunu, kas nav izdarījis ļaunu savam tuvākajam un nav uzņēmis kaunu pret savu tuvinieku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/15\/1-4.1792527126877.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nesola ļaunu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "savu mēli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izdarījis"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "savam tuvākajam"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "un kaunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "uzņēmis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "savu tuvinieku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:06.881287409Z",
+  "model": "glm-5.3"
+}

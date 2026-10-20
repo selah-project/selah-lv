@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השדודה",
+      "rationale": "'Izpostītā' vai 'izpostāmā' — divdabis no שדד 'postīt'; KJV 'who art to be destroyed' lasa to kā nākamo, bet formas var būt arī jau piepildītais."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שישלם \/ גמלת",
+      "rationale": "Sakne גמל 'atmaksāt' divreiz — 'atmaksā tavu atmaksu' — un שלם 'samaksāt līdz galam'; zvēresta paritāte."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meita",
+      "rationale": "בת šeit ir tautas apzīmējums ('Babilonas meita' = Babilonas tauta), nevis ģimenes术语s."
+    },
+    {
+      "kind": "you",
+      "subject": "uzruna Babilonai",
+      "rationale": "Pants ir tieša vēstule Babilonai — otrā persona 'tev, tu'."
+    }
+  ],
+  "translation": "Babilonas meita, izpostītā, svētīgs ⟨ir⟩ tas, kas tev atmaksās ⟨את⟩ tavu atmaksu, ko tu mums darīji!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/137\/5-8.1792528467336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "izpostītā"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "svētīgs"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "kas atmaksās"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu atmaksu"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "tavu atmaksu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "tu darīji"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:27.337689973Z",
+  "model": "glm-5.3"
+}

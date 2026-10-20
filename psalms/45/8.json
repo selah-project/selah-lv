@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vairāk par",
+      "rationale": "Salīdzinājums 'above thy fellows' nav ebreju tekstā; מחבריך no מן nozīmē 'no tav biedru vidus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidīja",
+      "rationale": "משח par ķēniņu — 'svaidīja'; vārds משיח nāk no šīs saknes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק \/ רשע",
+      "rationale": "Cedek pret ļaunumu — antitēze, kas valda arī 45:7 'taisnuma skeptris'."
+    }
+  ],
+  "translation": "Tu mīlēji cedek un ienīdi ļaunumu; tāpēc Elohim, tavs Elohim, svaidīja tevi ar prieka eļļu ⟨vairāk par⟩ taviem biedriem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/45\/5-8.1792527621735.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "tu mīlēji"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "un ienīdi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "svaidīja tevi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ar eļļu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "prieka"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "vairāk par taviem biedriem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:21.736421667Z",
+  "model": "glm-5.3"
+}

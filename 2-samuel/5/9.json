@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "uz",
+      "rationale": "ebreju וביתה ir apstākļa vārds 'uz mājas pusi \/ iekšieni' — latviešu valodai vajadzīgs prievārds"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וביתה",
+      "rationale": "literāri 'un mājup', t.i., virzienā uz pilsētas iekšieni no Milo uzkāpnes"
+    }
+  ],
+  "translation": "Un Davids apmetās cietoknī un nosauca to Davida pilsēta; un Davids būvēja apkārt no Milo un ⟨uz⟩ iekšieni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/5\/9-12.1792519610658.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un apmetās"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "cietoknī"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "un nosauca"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "un būvēja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "un ⟨uz⟩ iekšieni"
+    }
+  ],
+  "timestamp": "2026-10-20T18:06:50.659554710Z",
+  "model": "glm-5.3"
+}

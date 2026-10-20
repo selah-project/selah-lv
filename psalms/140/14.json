@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dzīvos",
+      "rationale": "יָשַׁב nozīmē 'apsēsties, mājot'; 'dzīvos' ir sekla pārnešana, jo ebreju vārds nes attēlu par mājokli."
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Šeit אֵת ir priekšpozīcija 'ar' (dzīvot ar Tavu vaigu), nevis priekšmeta zīme; saglabāts kā ⟨את⟩ pēc Selah rules."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek-praie",
+      "rationale": "צַדִּיקִים — 'tie, kas ir cedek (taisni)'; sakne cedek saglabāta vienā vārdā."
+    }
+  ],
+  "translation": "Tikai cedek-praie slavēs Tavu vārdu, tiešie dzīvos ⟨את⟩ Tava vaiga priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2bb7e88c908a41c5097c75466d3c69ebd4ffa939f3d55a8d16e88372e1f8393e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/13-14.1792528422643.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedek-praie"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "slavēs"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Tavu vārdu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dzīvos"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiešie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tava vaiga priekšā"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Tava vaiga"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:42.643934349Z",
+  "model": "glm-5.3"
+}

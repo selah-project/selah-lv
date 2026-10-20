@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "burtiski ‘griezt derību’ — derība tja sakratot upura gabalus; latviski ‘noslēgt derību’."
+    },
+    {
+      "kind": "you",
+      "subject": "pavēle",
+      "rationale": "tiešs uzrunājums 2. personā — Jahve runā ⟨את⟩ Jisraēla dēliem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "noliegumu sērija",
+      "rationale": "četras pavēles pēc kārtas (nebīsties, nepakļaujies, nekalpo, neziedoj) — tiek tuvinātā locekļu uzsvara struktūra."
+    }
+  ],
+  "translation": "Un Jahve ar ⟨את⟩ viņiem noslēdza derību un pavēlēja tiem, sacīdams: Nebīstieties citu dievu, un nepakļaujieties tiem, un nekalpojiet tiem, un neziedojiet tiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/33-36.1792521560630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Un noslēdza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ar ⟨את⟩ viņiem",
+      "marks": "viņiem (derības partneri)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "un pavēlēja tiem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bīstieties"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "pakļaujieties"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "nekalpojiet tiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "neziedojiet"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:20.631806503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju valodā nav izteiksmes vārda; latviešu pakārtotais teikums to prasa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jūdu valodā",
+      "rationale": "יהודית — 'jūdu valoda' (jūdaisms kā valoda); daži tulkotāji saka 'ebreju valodā'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaimas tauta uz mūra",
+      "rationale": "Asīriešu sūtņi tieši uzrunā Jerušalaimas ļaudis uz mūra — tieša uzruna lielā balsī."
+    }
+  ],
+  "translation": "Un viņi sauca lielā balsī jūdu valodā pret Jerušalaimas tautu, kas ⟨bija⟩ uz mūra, lai viņus izbiedētu un samulsinātu, lai ieņemtu ⟨את⟩ pilsētu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3049310cac680738e17ecd2f20f8c13c35958f4b8e342debfa32e3f8aaa621cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/32\/17-20.1792532337734.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "un viņi sauca"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsī"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "jūdu valodā"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mūra"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "lai viņus izbiedētu"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "un samulsinātu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "ieņemtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilsētu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:57.735024041Z",
+  "model": "glm-5.3"
+}

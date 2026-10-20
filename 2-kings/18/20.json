@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך דבר שפתים",
+      "rationale": "KJV lasa to kā Rabšakes noniecinājumu Hizkijas vārdiem ('tie ir tikai tukši vārdi'); JPS kā jautājumu ('vai lūpu vārds ir padoms un spēks?'); šeit noniecinājuma lasījums"
+    },
+    {
+      "kind": "you",
+      "subject": "ka tu sacēlies pret mani",
+      "rationale": "Asīrijas ķēniņš runā pirmajā personā — 'pret mani' — kaut fiziski runā Rabšake"
+    }
+  ],
+  "translation": "Tu sacīji: Tikai lūpu vārdi — padoms un spēks karam! Tagad — uz ko tu paļaujies, ka tu sacēlies pret mani?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/17-20.1792521622204.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Tu sacīji"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdi"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lūpu"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "padoms"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "un spēks"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "karam"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Tagad"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "tu paļaujies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "tu sacēlies"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pret mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:40:22.205639282Z",
+  "model": "glm-5.3"
+}

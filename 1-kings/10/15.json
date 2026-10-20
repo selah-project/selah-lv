@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "'Arābijas' (KJV, BSB) pret 'jaukto tautu ķēniņiem' (ASV, JPS) — sakne ערב 'jaukties\/arābi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "התרים",
+      "rationale": "Burtiski 'tie, kas klejo (tirgojoties izlūkot)' — tirgotāji-klejotāji; tradicionāli 'tirgoņi'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ieņēmumu uzskaitījums",
+      "rationale": "Papildu ienākumu avotu uzskaitījums pie v. 14 zelta svara."
+    }
+  ],
+  "translation": "bez ⟨tā⟩, kas nāca no vīriem-klejotājiem un tirgotāju tirdzniecības, un no visiem Arābijas ķēniņiem un zemes pārvaldniekiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/10\/13-16.1792520643091.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "no vīriem"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "klejotājiem-tirgotājiem"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "un tirdzniecības"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "tirgotāju"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visiem"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņiem"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arābijas"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "un pārvaldniekiem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:03.092970063Z",
+  "model": "glm-5.3"
+}

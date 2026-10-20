@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חללי\/מחללי",
+      "rationale": "Atkārtota sakne חלל — 'caurdurtie… caurdurtie', paralēlisms, kas latviski saglabāts daļēji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izplūst",
+      "rationale": "יזובו burtiski 'plūst ārā' kā ūdens — par izdilušo ķermeni; izteiksmes zaudētais tēls."
+    }
+  ],
+  "translation": "Labāki bija zobenā caurdurtie nekā badā iznīcinātie, jo tie izplūst, nodurti, bez lauka augļiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/9-12.1792529821905.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Labāki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "caurdurtie"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobenā"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "iznīcinātie"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "badā"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "jo tie"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "izplūst"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "nodurti"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "bez augļiem"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "lauka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:57:01.906489085Z",
+  "model": "glm-5.3"
+}

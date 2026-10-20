@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lai cilvēks satiek",
+      "rationale": "burtiski 'satikšanās ar lāci, kam atņemti mazuļi, cilvēkam' — vēlmes forma izsaka 'labāk satikt… nekā…'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lācis ar atņemtiem mazuļiem",
+      "rationale": "שַׁכּוּל burtiski 'aplaupīta, bērnu zaudējusi' — drausmīgākais iespējamais dzīvnieks Salamans pamācībās (sal. 2. Mozus nav) — brīdinājums, ka muļķis ir vēl bīstamāks"
+    }
+  ],
+  "translation": "Lai cilvēks satiek lāci, kam atņemti mazuļi, nevis muļķi tā muļķībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/17\/9-12.1792528722999.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "lai satiek"
+    },
+    {
+      "surface": "דב",
+      "gloss": "lāci"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kam atņemti mazuļi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "muļķi"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "tā muļķībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:43.001229427Z",
+  "model": "glm-5.3"
+}

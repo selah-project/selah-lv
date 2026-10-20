@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nemēģināšu",
+      "rationale": "נסה ir 'pārbaudīt, kārdināt' — Ahaza atteikums ironisks: viņš neprasīt arī attaisnojas ar dievbijību"
+    }
+  ],
+  "translation": "Un Ahazs sacīja: Es neprasīšu un nemēģināšu ⟨את⟩ Jahvi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/7\/9-12.1792521913140.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un ... sacīja"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "prasīšu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "mēģināšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:13.141401403Z",
+  "model": "glm-5.3"
+}

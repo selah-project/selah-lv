@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני ישראל",
+      "rationale": "Masorētiskajā tekstā 'Jisraēla dēlu skaits', bet 4QDeut un LXX lasa 'Dieva dēlu skaits' (epe kat' arithmon angelon theou), ko BSB pieņem; ebreju teksts paliek 'Jisraēla dēli'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "robežas pēc skaita",
+      "rationale": "Tautu robežas noteiktas skaita ziņā — mērīšanas un skaitīšanas motīvs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elijons",
+      "rationale": "עליון ir tituls 'Augstākais'; saglabāts kā skaņas vārds Elijons saskaņā ar Vārdu disciplīnu."
+    }
+  ],
+  "translation": "Kad Elijons lika tautām mantojumu iegūt, kad Viņš šķīra Ādama dēlus, Viņš nostatīja tautu robežas pēc Jisraēla dēlu skaita.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/32\/5-8.1792517446769.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "Kad lika mantojumu iegūt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijons"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "kad Viņš šķīra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ādama"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "Viņš nostatīja"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "robežas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "pēc skaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:46.771840374Z",
+  "model": "glm-5.3"
+}

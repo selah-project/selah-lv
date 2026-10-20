@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "padarīs bērus",
+      "rationale": "šכל burtiski 'izraisīt abortu\/pazaudēt bērnus' — atņemt pēcnācējus, ne vienkārši 'iznīcināt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīgs savienojums pirms 'šausmas', ebreju valodā teikumvārds izlaists"
+    }
+  ],
+  "translation": "Ārā padarīs bērus zobens, un iekšistabās — šausmas; gan jaunekli, gan jaunavu, zīdaini kopā ar sirmo vīru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/32\/25-28.1792517434093.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ārā"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "padarīs bērus"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "un iekšistabās"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "šausmas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "jaunekli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "jaunavu"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "zīdaini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sirmo"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:34.094567620Z",
+  "model": "glm-5.3"
+}

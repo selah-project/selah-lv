@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "'uz to' = 'tāpēc'; על un כן kopā veido vienu saiti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaigs",
+      "rationale": "פנים 'seja\/vaigs' — klātbūtnes tēls, nav tikai fizisks vaigs"
+    }
+  ],
+  "translation": "Tāpēc no Viņa vaiga es iztrūkšos, es apsvēršu un bīšos no Viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/23\/13-16.1792529321275.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "no Viņa vaiga"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "es iztrūkšos"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "es apsvēršu"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "un bīšos"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no Viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:41.276828889Z",
+  "model": "glm-5.3"
+}

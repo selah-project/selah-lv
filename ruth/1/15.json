@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgais palīgdarbības vārds, ebreju pusteikumā tā nav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dieviem",
+      "rationale": "אלהיה šeit par Moābas elkiem — saskaņā ar noteikumiem mazs burts 'dievi', nevis Elohim."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שובי",
+      "rationale": "Naomi imperatīvs 'atgriezies' — tiešs aicinājums Rutai sekot Orpai."
+    },
+    {
+      "kind": "you",
+      "subject": "atgriezies",
+      "rationale": "Naomi runā tieši pie Rutas."
+    }
+  ],
+  "translation": "Un viņa sacīja: Raugi, tava svaine atgriezusies ⟨ir⟩ pie sava ļaužu un pie saviem dieviem; atgriezies pakaļ savai svainei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/13-16.1792529742622.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "un viņa sacīja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "raugi"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "atgriezusies"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "tava svaine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sava ļaužu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "saviem dieviem"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pakaļ"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "savai svainei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:42.624037256Z",
+  "model": "glm-5.3"
+}

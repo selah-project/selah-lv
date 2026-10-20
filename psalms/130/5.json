@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'rīkle\/elpas dzīvība' nekā 'dvēsele'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saiklera 'ir'"
+    }
+  ],
+  "translation": "Es gaidīju Jahvi, gaidījusi ⟨ir⟩ mana dvēsele, un uz Viņa vārdu es cerēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/130\/5-8.1792528380215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "gaidīju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "gaidījusi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "un uz Viņa vārdu"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "es cerēju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:00.215792256Z",
+  "model": "glm-5.3"
+}

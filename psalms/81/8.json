@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בסתר רעם",
+      "rationale": "'pērkona apslēptumā' — 'paslēptā pērkona vietā' (tālumā) vai 'pērkona miglā' (Sinaja); daži lasa 'pērkona dārdos'"
+    },
+    {
+      "kind": "secret",
+      "subject": "סתר",
+      "rationale": "'apslēptums' — slēptā vieta, kur tika dots atbildējums"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mūzikas atzīme; saglabāta kā 'Selah' bez tulkojuma"
+    }
+  ],
+  "translation": "Bēdā tu sauji, un es tevi izglābu; es atbildēju tev pērkona apslēptumā; es tevi pārbaudīju pie Meribas ūdeņiem. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/81\/5-8.1792527954431.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "bēdā"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu sauji"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "un es tevi izglābu"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "es atbildēju tev"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "apslēptumā"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "pērkona"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "es tevi pārbaudīju"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:54.432669605Z",
+  "model": "glm-5.3"
+}

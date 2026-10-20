@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחש",
+      "rationale": "Čūsku 'apvārdošana' jeb burvestība: KJVK 'charmed', YLT 'charmer' — daži tulko 'inkantācija' kā reliģisks termins."
+    },
+    {
+      "kind": "elision",
+      "subject": "צפענים",
+      "rationale": "Vārds no saknes 'mēlēšana' — indīga čūska, kas izstiepj mēli; latviski viens vārds 'odze'."
+    },
+    {
+      "kind": "you",
+      "subject": "uz jums",
+      "rationale": "Jahve runā tieši pie Jeruzalemes\/Jūdas ļaudīm — draudoša vēstījuma adresāts."
+    }
+  ],
+  "translation": "Jo lūk, es sūtu uz jums čūskas, odzes, kurām nav apvārdošanas, un tās kodīs ⟨את⟩ jūs, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/8\/17-20.1792523488974.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lūk, es"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sūtu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "uz jums"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "čūskas"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "odzes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tām"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "apvārdošanas"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "un tās kodīs"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:28.975404766Z",
+  "model": "glm-5.3"
+}

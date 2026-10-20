@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nav",
+      "rationale": "שאין ir apstākļa vārds 'tā kā nav' — latviski vajadzīgs darbības vārds"
+    }
+  ],
+  "translation": "Neuzticaties augstmaņiem, cilvēka dēlā, kurā ⟨nav⟩ glābšanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/146\/1-4.1792528496644.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "uzticaties"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "augstmaņiem"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "dēlā"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "kurā ⟨nav⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "glābšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:56.645535160Z",
+  "model": "glm-5.3"
+}

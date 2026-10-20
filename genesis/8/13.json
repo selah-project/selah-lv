@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 8:13",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Precīzs laika norādījums: gads, mēnesis, mēneša diena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פני האדמה",
+      "rationale": "Burtiski 'adamas (zemes) seja'; tulkots kā 'zemes virsa', lai saglabātu vārda formu bez personifikācijas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבו ... חרבו",
+      "rationale": "Atkārtota sakne par ūdeņiem un par zemes virsmu — aprakstītais pats atbalsojas, latviski zudumā."
+    }
+  ],
+  "translation": "Un notika sešsimt pirmajā gadā, pirmajā mēnesī, mēneša pirmajā dienā ūdeņi bija izžuvuši no virs zemes; un Noehs noņēma ⟨את⟩ šķirsta segumu un skatījās, un lūk — bija izžuvusi zemes virsa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b79a2f56b8e34b21aaf32726ea0eeac88ca6e87ba6d2515eb4bc1e2a970f8288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/8\/13-16.1792511540846.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "vienā"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "un sešos simtos"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "pirmajā"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "vienā dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "bija izžuvuši"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "un noņēma"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noehs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šķirsta segumu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "segumu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "šķirsta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un skatījās"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "bija izžuvusi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:20.847355163Z",
+  "model": "glm-5.3"
+}

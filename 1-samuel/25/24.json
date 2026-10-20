@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būtu",
+      "rationale": "ebreju valodā trūkst saikļa 'laulības vārda' — latviešu valodai vajadzīgs ⟨būtu⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Abigajila vēršas pie Davida — padevības runas iesākums"
+    }
+  ],
+  "translation": "un krita viņa kājās un sacīja: Es lūdzu, mans kungs, lai pārkāpums ⟨būtu⟩ uz manis, un lai tava kalpone, lūdzu, runā tavās ausīs, un uzklausi ⟨את⟩ vārdus savas kalpones.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/25\/21-24.1792519349894.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "un krita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "viņa kājām"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Es lūdzu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "uz manis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "העון",
+      "gloss": "pārkāpums"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "un lai runā"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tava kalpone"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "tavās ausīs"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "un uzklausi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdus savas kalpones"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "savas kalpones"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:29.896166871Z",
+  "model": "glm-5.3"
+}

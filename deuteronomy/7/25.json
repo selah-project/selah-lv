@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 7:25",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elkodi",
+      "rationale": "פסיל ir 'izgriezts\/kaļķis tēls'; 'elkods' ir tuvākais latviskais priekšstats par tēlu kā objektu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "netikti ievilkts slazdā",
+      "rationale": "תוקש no יקש — 'ķērāja slazds', pārnesti: tikt iesaistītam, kā putns lamatās"
+    },
+    {
+      "kind": "addition",
+      "subject": "tas ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis; ebreju הוא ir uzsvērums, ne vienkārša kopula"
+    }
+  ],
+  "translation": "Viņu dievu elkodus jūs sadedzināsit ugunī; netiksi pēc sudraba un zelta, kas uz tiem, un neņemsi sev, lai tu tajā netiktu ievilkts slazdā, jo tas ir Jahves, tava Elohim, pretīgums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d8741166ba443037ad018c83a6005eb2d9f59605f16e5bf28d46d48dc07a4bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/7\/25-26.1792516779909.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פסילי",
+      "gloss": "elkodus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "viņu dievu"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "jūs sadedzināsit"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "netiksi pēc"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "un zelta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kas uz tiem"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "un neņemsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "תוקש",
+      "gloss": "netiktu ievilkts slazdā"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "pretīgums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tava Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:19:39.910740867Z",
+  "model": "glm-5.3"
+}

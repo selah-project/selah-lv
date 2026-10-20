@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heseda Tora",
+      "rationale": "תורת חסד — 'heseda mācība'; hesed nav viens vārds, Tora nav 'bauslība' vien"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    }
+  ],
+  "translation": "Viņas mute ir atvērta gudrībā, un heseda Tora ⟨ir⟩ uz viņas mēles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/31\/25-28.1792528956560.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "Viņas mute"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "ir atvērta"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "gudrībā"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "un Toras"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heseda"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "viņas mēles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:36.561115014Z",
+  "model": "glm-5.3"
+}

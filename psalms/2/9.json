@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "sadauzīsi",
+      "rationale": "תרעם no רעע var nozīmēt arī 'valdīt pār' (kā jūgs lauž — LXX 'valdīsi'), bet sakne pauž laušanu gabalos"
+    },
+    {
+      "kind": "you",
+      "subject": "ģeņitīva ķēniņam",
+      "rationale": "runa tiek vērsta pie ķēniņa no 2:7"
+    }
+  ],
+  "translation": "Tu viņus sadauzīsi ar dzelzs zizli; kā podnieka trauku tu viņus gabalos sasitīsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/2\/9-12.1792527016782.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "tu viņus sadauzīsi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ar zizli"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dzelzs"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kā trauku"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "podnieka"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "tu viņus gabalos sasitīsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:16.783341260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחקקנו",
+      "rationale": "חקק burtiski 'iekalt, iegravēt' — likums kā iegravēts; latviešu 'likumdevējs' zaudē gravējuma attēlu."
+    }
+  ],
+  "translation": "Jo Jahve ⟨ir⟩ mūsu tiesnesis, Jahve — mūsu likumdevējs, Jahve — mūsu ķēniņš; viņš mūs izglābs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/33\/21-24.1792522399344.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "mūsu tiesnesis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "mūsu likumdevējs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mūsu ķēniņš"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "mūs izglābs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:19.344914342Z",
+  "model": "glm-5.3"
+}

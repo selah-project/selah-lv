@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ollas",
+      "rationale": "Otrā pusbē 'un visi zemes ķēniņi — Tav godu' izlaists darbības vārds; ebreju elipse saglabāta ar domuzīmi latviski."
+    },
+    {
+      "kind": "addition",
+      "subject": "ollas",
+      "rationale": "Darbības vārds izlaists ar nolūku — atbilst ebreju valodas elipsei, piezīmēts kā stila līdzeklis, ne trūkums."
+    }
+  ],
+  "translation": "Un tautas bīsies Jahve ⟨את⟩ vārdu, un visi zemes ķēniņi — ⟨את⟩ Tav godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/13-16.1792528112020.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Un bīsies"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve vārdu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ķēniņi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tav godu"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "Tav godu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:32.021875590Z",
+  "model": "glm-5.3"
+}

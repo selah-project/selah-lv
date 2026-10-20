@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju valoda pie 'kas ar Šaulu' iztrūkstošo darbības vārdu; latviešu teikumam vajag 'bija'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ותמצא ... לשאול",
+      "rationale": "Ebrejs burtiski saka 'un tika atrasts Šaulam' — bez 'zobens' atkārtojuma; latviskā teikuma skaidrība balstās iepriekšējā teikumā."
+    }
+  ],
+  "translation": "Un notika kaujas dienā, ka netika atrasts ne zobens ne šķēps neviena no tautas rokas, kas ⟨bija⟩ ar ⟨את⟩ Šaulu un ar ⟨את⟩ Jonatanu; bet tika atrasts Šaulam un Jonatanam, viņa dēlam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "120d8c878cc517918208a6576b7c2857257af530c550366fea7ce813295c2815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/13\/21-23.1792518967689.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "kaujas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tika atrasts"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobens"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "un šķēps"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "כל",
+      "gloss": "neviena no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jonatanu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanu"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "un tika atrasts"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulam"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "un Jonatanam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:07.690758657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כברת",
+      "rationale": "attāluma mērs כברת parādās Tanahā tikai šeit; tā apmērs nav zināms, saglabāts kā 'kibrata'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "latviešu valodai vajadzīgs saiklis, kura ebreju tekstā nav"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kibrata zemes",
+      "rationale": "pantā mēra attālumu līdz Efratai, lai gan mērs ir neskaidrs"
+    }
+  ],
+  "translation": "Un viņi devās ceļā no Betelas, un notika: vēl ⟨bija⟩ kibrata zemes līdz ienākšanai Efratā; un Rahela dzemdēja, un dzemdējot viņai kļuva smagi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/35\/13-16.1792512330766.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "devās ceļā"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no Bete-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-las"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "kibrata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "līdz ienākšanai"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efratā"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dzemdēja"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "kļuva smaga"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "dzemdējot viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:05:30.768143239Z",
+  "model": "glm-5.3"
+}

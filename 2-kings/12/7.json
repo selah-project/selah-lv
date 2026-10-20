@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ka⟩",
+      "rationale": "latviešu valodai vajadzīgs saistītājs vārds pie 'un notika'; ebreu vayehi to nesatur"
+    },
+    {
+      "kind": "measurement",
+      "subject": "divdesmit trešais gads",
+      "rationale": "precīzs gada norādījums Jehoāša valdīšanā — hronoloģijas balsts"
+    }
+  ],
+  "translation": "Un notika, Jehoāša ķēniņa divdesmit trešajā gadā, ⟨ka⟩ priesteri nebija nostiprinājuši ⟨את⟩ nama plaisas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0b6efc9b36318c569524c8a2f89bd0fecb6fbe0e341c38c323e2da4051c74225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/12\/5-8.1792521454316.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "un trešajā"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoāša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "nostiprinājuši"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama plaisas"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "plaisas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nama"
+    }
+  ],
+  "timestamp": "2026-10-20T18:37:34.317634971Z",
+  "model": "glm-5.3"
+}

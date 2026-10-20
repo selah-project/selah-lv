@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiesības",
+      "rationale": "hukim ir 'uzstādījumi\/iestādījumi'; latviešu tradīcijā parasti 'bauslības'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזק ואמץ",
+      "rationale": "divu sinonīmu imperatīvu pāris — 'esi stiprs un drošs' — zaudē divu vārdu skanējuma svētru"
+    },
+    {
+      "kind": "invitation",
+      "subject": "uz Šlomo",
+      "rationale": "Davida pavēle un aicinājums savam dēlam: esi stiprs, nebīsties"
+    }
+  ],
+  "translation": "Tad tu veiksmēsi, ja sargāsi darīt ⟨את⟩ tiesības un ⟨את⟩ spriedumus, ko Jahve pavēlēja ⟨את⟩ Mošem pār Jisraēlu: esi stiprs un drošs, nebīsties un neizbīsties!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "77ea13ddbfd77a0b97684a2ac682be3aab061f228c04ae5bd8781569cf906ae3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/22\/13-16.1792531470396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "tu veiksmēsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "sargāsi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiesības"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "tiesības"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "spriedumus"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "spriedumus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "esi stiprs"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "un drošs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bīsties"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "izbīsties"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:30.397348055Z",
+  "model": "glm-5.3"
+}

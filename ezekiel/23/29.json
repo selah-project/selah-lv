@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 23:29",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עירם\/עריה\/ערות",
+      "rationale": "trīs dažādas saknes ar vienādu skanējumu (kailums, plikums, kauns) — ebreju valodā atbalss, latviski grūti nododama"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iezīmība",
+      "rationale": "זמה ir 'ļauna apdoma, plāns', ne vienkārši 'bezkaunība'"
+    }
+  ],
+  "translation": "Un viņi rīkosies ar tevi ienaidā, un paņems ⟨את⟩ visu tavu darba augļu, un atstās tevi kailu un pliku, un atklāsies kailums tavu laulības pārkāpšanu, tavas ļaunās apedomas un tavu netiklību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "51c848ac14b594d592b382e39cee28ad24db1531b7dca7ef0b8151c72b6354c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/29-32.1792525290933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "rīkosies"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ar tevi"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "ienaidā"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "paņems"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "tavu darba augļu"
+    },
+    {
+      "surface": "ועזבוך",
+      "gloss": "atstās tevi"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "kailu"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "un pliku"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "atklāsies"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kailums"
+    },
+    {
+      "surface": "זנוניך",
+      "gloss": "tavu laulības pārkāpšanu"
+    },
+    {
+      "surface": "וזמתך",
+      "gloss": "tavas ļaunās apedomas"
+    },
+    {
+      "surface": "ותזנותיך",
+      "gloss": "tavu netiklību"
+    }
+  ],
+  "timestamp": "2026-10-20T19:41:30.933871730Z",
+  "model": "glm-5.3"
+}

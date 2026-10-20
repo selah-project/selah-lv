@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "virvēs tiks saturēts",
+      "rationale": "Medību tīkla un virvju aina: grēks kā slazds, kas satur notvertu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saturēts",
+      "rationale": "תמך nozīmē 'turēt, balstīt' — ironija: grēka virves viņu 'notur'"
+    }
+  ],
+  "translation": "Viņa bezdievības notvers ⟨את⟩ ļaundari, un sava grēka virvēs viņš tiks saturēts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/21-23.1792528538947.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Viņa bezdievības"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "notvers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ļaundari"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ļaundari"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "un virvēs"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "viņa grēka"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "tiks saturēts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:38.948713607Z",
+  "model": "glm-5.3"
+}

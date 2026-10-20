@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šekelu",
+      "rationale": "Ebreju tekstā mērs nav minēts — tikai 'seši simti zelta'; 'šekeli' pievienots ⟨…⟩ kā tradicionāla nolase (ap 6,8 kg)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vairogu svars",
+      "rationale": "Simts vairogu skaits un seši simti (šekelu) uz katru — dimensiju uzskaitījums."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יעלה",
+      "rationale": "Burtiski 'uzkāpa uz' — svars 'uziet' uz vairogu; latviski 'gāja uz'."
+    }
+  ],
+  "translation": "Un ķēniņš Šelomo izgatavoja divi simti lielos vairogu no kalta zelta — seši simti ⟨šekelu⟩ zelta gāja uz vienu vairogu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/10\/13-16.1792520643091.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un izgatavoja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "divi simti"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "lielos vairogu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "kalta"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "gāja (uzkāpa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "vairogu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "vienu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:03.093152922Z",
+  "model": "glm-5.3"
+}

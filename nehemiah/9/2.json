@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izdzimta",
+      "rationale": "זרע ir 'sēkla', attēls zaudēts latviešu 'izdzimta'"
+    },
+    {
+      "kind": "elision",
+      "subject": "saviem",
+      "rationale": "Hebrejā priedēklis על ('virspusē, par') apzīmē grēkus; 'par' ir tuvākais atbilstība"
+    }
+  ],
+  "translation": "Un Jisraēla izdzimta atdalījās no visiem svešajiem dēliem, un nostājās un atzina par saviem grēkiem un saviem tēvu noziegumiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57b3f8f4a20394844becec1c8fd6fa90c7036fb28ff593875b51bd4ec16d2c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/9\/2-3.1792532895803.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "atdalījās"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "izdzimta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visiem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svešajiem"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "nostājās"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "atzina"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "saviem grēkiem"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "un noziegumiem"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "saviem tēvu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:15.803745032Z",
+  "model": "glm-5.3"
+}

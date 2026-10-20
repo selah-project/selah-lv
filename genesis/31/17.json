@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uzsēdināja",
+      "rationale": "וישא burtiski 'pacēla'; 'uzsēdināja' ir situācijas tulkojums"
+    }
+  ],
+  "translation": "Un Jaakovs cēlās un uzsēdināja ⟨את⟩ savus dēlus un ⟨את⟩ savas sievas uz kamieliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/31\/17-20.1792512233481.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "cēlās"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "uzsēdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus dēlus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "savus dēlus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savas sievas"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "savas sievas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamieliem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:03:53.482044873Z",
+  "model": "glm-5.3"
+}

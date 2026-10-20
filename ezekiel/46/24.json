@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "pravietim Jechezkelam",
+      "rationale": "Vadošais eņģelis tieši uzrunā pravieti: 'viņš sacīja man'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית המבשלים",
+      "rationale": "Burtiski 'vārītāju nams' — tulkots kā 'vārīšanas namu telpas', lai latviešu valodā skan saprotami"
+    }
+  ],
+  "translation": "Un viņš sacīja man: Šīs ir vārīšanas namu telpas, kur nama kalpi tur vārīs ⟨את⟩ tautas upurus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3c05d866d68a7616f12f768130d70f7076bde95d79ad9f174ab87847de777d98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/46\/21-24.1792525844554.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "vārīšanas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "vārīs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "kalpi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautas upurus"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upurus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:50:44.555529915Z",
+  "model": "glm-5.3"
+}

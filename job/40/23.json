@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 40:23",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעשק",
+      "rationale": "'spiež\/pārplūst' — KJV lasa 'iedzer upi'; citi 'ja upe pārplūst'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יגיח",
+      "rationale": "'izšļakstās' → 'putēs'; burtiski 'izplūst viņa mutē'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prievārds 'līdz' iekļauts lokatīvā 'mutē'"
+    }
+  ],
+  "translation": "Lūk, ja upe pārplūst, viņš nebijas; viņš ir drošs, kaut arī Jordāns putēs viņa mutē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2336e67332002e5d068d402d141cc2f33e3c706c3c3e388a955550e28122c99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/40\/21-24.1792529551405.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "יעשק",
+      "gloss": "pārplūst"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפוז",
+      "gloss": "bijas"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ir drošs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaut arī"
+    },
+    {
+      "surface": "יגיח",
+      "gloss": "putēs"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jordāns"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "viņa mutē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:31.406309034Z",
+  "model": "glm-5.3"
+}

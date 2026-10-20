@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nātrs",
+      "rationale": "נתר — minerālsāls (soda\/natrons), kas ar etiķi šķīst putās; tāpēc salīdzinājums par kaitīgu reakciju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשרים \/ בשר",
+      "rationale": "Dziesmu dziedāšana 'baszarim' pret smago sirdi — prieka dziesma uz sāpju fona, kontrasts zaudēts tulkojumā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "noņemts",
+      "rationale": "מעדה — noņēmējs\/kas novelk apģērbu; dalības teikuma struktūra pārnesta uz salīdzinājumu"
+    }
+  ],
+  "translation": "Kā noņemts apģērbs aukstā dienā un kā etiķis uz nātra — ⟨tāds ir⟩ tas, kas dzied dziesmas pie sliktas sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/25\/17-20.1792528879939.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "noņemts"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "apģērbs"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "aukstā"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "etiķis"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "nātra"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "un dzied"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "dziesmas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sliktas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:19.941050419Z",
+  "model": "glm-5.3"
+}

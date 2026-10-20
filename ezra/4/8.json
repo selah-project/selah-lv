@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעל טעם",
+      "rationale": "Burtiski 'garšas\/paveduma pavēlnieks' — amats, ko parasti tulko kā 'kanclers'; šeit 'Padomes kungs'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "aramiešu valoda",
+      "rationale": "No šī panta teksts pāriet aramiešu valodā; vārdi כתבו וכתב atkārtojas 4:5–8 kā 'rakstīšanas' motīvs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vienu vēstuli",
+      "rationale": "Skaitlis 'vienu' saglabāts — viena vēstule, kas iezīmē vienotu apsūdzību."
+    }
+  ],
+  "translation": "Rehums, Padomes kungs, un Šimšajs rakstvežs uzrakstīja vienu vēstuli pret Jerušalaimu Artahšastam, ķēniņam, šādi:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/4\/5-8.1792530540581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehums"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kungs"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "Padomes"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "un Šimšajs"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "rakstvežs"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "uzrakstīja"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "vēstuli"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "Artahšastam"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "šādi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:00.582630836Z",
+  "model": "glm-5.3"
+}

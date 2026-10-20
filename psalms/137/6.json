@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mēle pielīp aukslējam",
+      "rationale": "Ebreju idioma par pilnīgu nespēju runāt; latviski saglabāta burtiski, jo aina ir skaidra."
+    },
+    {
+      "kind": "crux",
+      "subject": "על ראש שמחתי",
+      "rationale": "'Virs mana prieka galvas' — burtiski 'par manu lielāko prieku'; KJV 'chief joy', bet ebreju tēls ir priekšplākā\/virs galvas liktā Jerušalaima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם לא ... אם לא",
+      "rationale": "Divkāršais 'ja ne' veido zvēresta parallelismu — divi lāsti par vienu noliegumu."
+    }
+  ],
+  "translation": "lai mana mēle pielīp manam aukslējam, ja es tevi neatcerēšos, ja nescelšu ⟨את⟩ Jerušalaimu virs mana prieka galvas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/137\/5-8.1792528467336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "lai pielīp"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mana mēle"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "manam aukslējam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "es tevi neatcerēšos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nescelšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "mana prieka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:27.337180721Z",
+  "model": "glm-5.3"
+}

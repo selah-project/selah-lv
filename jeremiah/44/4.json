@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 44:4",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Es⟩",
+      "rationale": "Vietniekvārds pievienots latviešu valodā, jo ivrita darbības forma to satur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השכים ושלח",
+      "rationale": "Atkārtota sakne שׁלח ar שׁכם — 'agri ceļoties un sūtīt' stilistiskā atkārtošanās Jeremijas grāmatā, latviski daļēji zudusi"
+    }
+  ],
+  "translation": "Un ⟨Es⟩ sūtīju pie jums ⟨את⟩ visus savus kalpus, praviešus, ceļoties agri un sūtot, sacīdams: nedariet, lūdzu, ⟨את⟩ šo pretīgo darbu, ko ⟨Es⟩ ienīdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/44\/1-4.1792524405990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Un sūtīju"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pie jums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus savus kalpus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "savus kalpus"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "praviešus"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "ceļoties agri"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "un sūtot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dariet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo pretīgo darbu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "התעבה",
+      "gloss": "pretīgo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ienīdu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:26:45.991904629Z",
+  "model": "glm-5.3"
+}

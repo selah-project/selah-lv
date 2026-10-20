@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'rīkle\/elpa\/dzīvības spēks' — šeit izsalkuma un sātituma nesējs, ne dvēsele metafiziskā nozīmē."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נוהו … ורעה",
+      "rationale": "Mājvieta un ganīšanās — jēra tēls no 17. panta turpinās: izklīdušais jērs atgriežas ganībās."
+    }
+  ],
+  "translation": "Un Es atgriezīšu ⟨את⟩ Jisraēlu viņa mājvietā, un tas ganīsies Karmelā un Bašānā, un Efrajima kalnā un Gileādā viņa dvēsele tiks sātināta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/50\/17-20.1792524553174.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "Un Es atgriezīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "viņa mājvietu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "un tas ganīsies"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelā"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "un Bašānā"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "un kalnā"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "un Gileādā"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tiks sātināta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa dvēsele"
+    }
+  ],
+  "timestamp": "2026-10-20T19:29:13.175620568Z",
+  "model": "glm-5.3"
+}

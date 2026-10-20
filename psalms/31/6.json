@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir 'vējš, elpa, gars' — viens vārds, trīs lietas; saglabāts kā 'ruah', nevis izvēlēts viens no nozīmēm."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨no⟩",
+      "rationale": "Sasaistes statusa locījumam אל אמת latviešu valodā vajadzīgs prievārds, kura ebreju valodā nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "nodošu",
+      "rationale": "אפקיד no פקד: 'nodošu, uzticu' pret 'ieskaitu, atstāju tavā pārraudzībā'."
+    }
+  ],
+  "translation": "Tavā rokā es nodošu savu ruah; tu esi ⟨את⟩ mani izpestījis, Jahve, El ⟨no⟩ patiesības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ff9dc4268573c85f4c9f321e00766a695a4058bfe8e90fe07a7b8cb0140ad30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/31\/5-6.1792532790396.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Tavā rokā"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "es nodošu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "savu ruah"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "tu esi izpestījis"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mani",
+      "marks": "mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "patiesības"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:30.397620545Z",
+  "model": "glm-5.3"
+}

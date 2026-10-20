@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esam⟩",
+      "rationale": "Ebreju valodā nav saikļa; teikuma 'mēs — tauta' identitāte pieprasa 'esam' latviski"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צאן מרעיתך",
+      "rationale": "מרעית nozīmē ganības un arī ganāmpulku — divējādā nozīme, latviski jāizvēlas viena līnija"
+    },
+    {
+      "kind": "measurement",
+      "subject": "paaudzi pēc paaudzes",
+      "rationale": "לדר ודר — laika mērs 'paaudze pēc paaudzes' kā mūžības skaitīšana"
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "Lūgšanas adresāts ir Jahve — 'tev pateiksimies, tavu slavu'"
+    }
+  ],
+  "translation": "Un mēs — ⟨esam⟩ tauta, ⟨kas pieder⟩ tev, un avis un kazas, tavas ganāmpulkā ⟨tavas⟩ ganības ⟨ganāmpulks⟩, tev pateiksimies mūžīgi, paaudzi pēc paaudzes stāstīsim tavu slavu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/79\/13-13.1792527916291.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Un mēs"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tauta, ⟨kas pieder⟩ tev"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "un avis un kazas"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "tavā ganībā ⟨ganāmpulks⟩"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "pateiksimies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "paaudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "un paaudzei"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "stāstīsim"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tavu slavu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:16.292459319Z",
+  "model": "glm-5.3"
+}

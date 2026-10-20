@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתמללו",
+      "rationale": "מול nozīmē 'apcirst\/apgraizīt'; šeit: 'lauzties, nocabt' par bultu — daži tulko 'kā apcirsti' par cilvēkiem."
+    },
+    {
+      "kind": "crux",
+      "subject": "חצו",
+      "rationale": "vienkāršots (vien. ar -o galotni) pret חציו 'savas bultas' — izpratne dalās."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימאסו\/יתמללו",
+      "rationale": "divi iznīcības verbi ietvaro pantu; latviskā atbilde zaudē skaņu līdzību."
+    }
+  ],
+  "translation": "Lai tie izgaist kā ūdens, lai aiztec paši; kad viņš savedams ⟨savu⟩ loku iešauj bultu, lai tā ir kā nocabusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "304891dbca660e1bfca596811b28ac3cda98f570dd88603440784b0502582c8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/58\/8-8.1792532808901.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "lai tie izgaist"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "lai aiztec"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paši"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "savedams loku"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "bulta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "nocabusi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:48.901971614Z",
+  "model": "glm-5.3"
+}

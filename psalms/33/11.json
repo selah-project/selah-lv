@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לדר ודר",
+      "gloss-typo": "",
+      "rationale": "'Paaudzei un paaudzei' — latviski idiomatisks daudzums 'paaudzei paaudzē'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצת\/מחשבות",
+      "rationale": "V.10 pret v.11 spoguļparalēlisms: tautu padomi izjaukti, Jahves padoms stāv — tie paši vārdi apgriezti."
+    }
+  ],
+  "translation": "Jahves padoms pastāvēs mūžīgi, Viņa sirds nodomi paaudzei paaudzē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/33\/9-12.1792527365178.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "padoms"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "pastāvēs"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "nodomi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "Viņa sirds"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "paudzei"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "paudzē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:05.179684969Z",
+  "model": "glm-5.3"
+}

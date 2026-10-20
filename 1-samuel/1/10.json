@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav saikles; latviešu valodai tā vajadzīga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēseles elpā",
+      "rationale": "נפש ir elpa, dzīvības spēks, rīkle — ne dvēsele vien"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובכה תבכה",
+      "rationale": "Infinitīva absolūta atkārtojums: 'raudādama raudāja' — pastiprinājums"
+    }
+  ],
+  "translation": "Un viņa ⟨bija⟩ rūgtā dvēseles elpā un lūdza Jahvi un raudādama raudāja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a5433157373836c73e23c0844d20ff0b7a6df4e2fc372ddc59c348615cea9def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/1\/10-11.1792532571338.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "un viņa"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "rūgtā"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles elpā"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "un lūdza"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "un raudādama"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "raudāja"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:51.338814789Z",
+  "model": "glm-5.3"
+}

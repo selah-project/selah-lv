@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mirri",
+      "rationale": "מור atstāts pēc skanējuma; latviešu 'mirra' ir sveķu nosaukums, sakne נטף 'pilēt' atbalso verbu 'pilēja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נטפו\/מור",
+      "rationale": "mirre tieši 'pil' (נטף) — verba un lietas vārda sakne sakrīt attēlā"
+    }
+  ],
+  "translation": "Es piecēlos, es, atvērt savam mīļotajam, un manas rokas pilēja mirri, un mani pirksti — mirri, kas tecēja pāri sliegai ⟨telpa⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/5\/5-8.1792529680387.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "piecēlos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "atvērt"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "savam mīļotajam"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "un manas rokas"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "pilēja"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirri"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "un mani pirksti"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kas tecēja pāri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pāri"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "sliegai ⟨telpa⟩"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "slēdzene"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:40.388022693Z",
+  "model": "glm-5.3"
+}

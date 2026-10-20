@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "76 500",
+      "rationale": "Tautas skaitīšanas kopsumma Jehudas dzimtām"
+    },
+    {
+      "kind": "addition",
+      "subject": "sešdesmit",
+      "gloss": "Latviešu valodā 'seši un septiņdesmit' prasa pilno formu 'sešdesmit seši'"
+    }
+  ],
+  "translation": "Šīs ir Jehudas dzimtas pēc to ieskaitītajiem: sešdesmit seši tūkstoši un pieci simti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "689698649ad85070f528994df4afe7f0cff196bc3ffa6bbaf35df1a44dfff256",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/26\/21-24.1792516118381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šīs"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dzimtas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "pēc to ieskaitītajiem"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "seši"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "un septiņdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "un pieci"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:38.383028816Z",
+  "model": "glm-5.3"
+}

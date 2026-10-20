@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valoda iztrūkstošā saikle, pievienota ⟨bija⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Vietniekvārds pievienots priekš skaidrības (וימת ir vīriešu dzimtes darbības vārds)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "969 gadi",
+      "rationale": "Metušelaha mūža garums — garākais Tanahā"
+    }
+  ],
+  "translation": "Un visi Metušelaha dienu gadi ⟨bija⟩ deviņdesmit deviņi gadi un deviņi simti gadu, un viņš nomira.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "43df2ef5b084cae3671e400d82e2b53181493f8d980f37b5a354a9fa40569f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/5\/27-28.1792532495125.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Un ... bija"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metušelaha"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "deviņi"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "un sešdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "un deviņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "un viņš nomira"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:35.126596233Z",
+  "model": "glm-5.3"
+}

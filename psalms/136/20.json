@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Saiklis, kura ebreju tekstā nav"
+    }
+  ],
+  "translation": "un Ogam, Bašanas ķēniņam, jo uz mūžību ⟨ir⟩ viņa hesed.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53a786b6a044b466b5488df5864251b5083198327558428d013442ff4eb9d5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/136\/17-20.1792528420020.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "un Ogam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašanas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "viņa hesed"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:40.021257359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנדדו",
+      "rationale": "'_svārstās\/klaiņo_ — KJV\/YS 'bēg', ASV\/JPS 'šūpo galvu' (žestu metafora)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עלימו לשונם",
+      "rationale": "burtiski 'virs viņiem viņu mēle' — mēle kā ierocis, kas vēršas pret pašiem"
+    }
+  ],
+  "translation": "Un viņu paša mēle viņu sagāza — pret viņiem ir viņu mēle; visi, kas viņus redz, šūpo galvu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/64\/9-11.1792527729582.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "viņu sagāza"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "pret viņiem"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "viņu mēle"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "šūpo galvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kas redz"
+    },
+    {
+      "surface": "בם",
+      "gloss": "viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:09.582988484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישורנה",
+      "rationale": "Darbības vārds ar galotni -נָה- attiecas uz שוא; latviski atspoguļots ar 'to'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שוא",
+      "rationale": "'veltīgums' pret 'tukša vaimana' (ASV 'empty cry') — vārds nozīmē postu, viltu, tukšumu."
+    }
+  ],
+  "translation": "Patiesi, veltīgumu El nedzird, un Šadai to neredzēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/35\/13-16.1792529512686.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Patiesi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "veltīgumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedzird"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nedzird"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "un Šadai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "neredzēs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:52.687026314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "uzstādījis",
+      "rationale": "נסך nozīmē gan 'liet (libāciju)', gan 'liet (metālu)', gan 'svaidīt\/iecelt' — 'iecēlu' pret 'svaidīju'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju pilnais izteikums bez palīgdarbības vārda."
+    }
+  ],
+  "translation": "Un es ⟨esmu⟩ uzstādījis savu ķēniņu uz Cijonu, savu svēto kalnu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/2\/5-8.1792527038330.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "esmu uzstādījis"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "savu ķēniņu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "savu svēto"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:38.334281122Z",
+  "model": "glm-5.3"
+}

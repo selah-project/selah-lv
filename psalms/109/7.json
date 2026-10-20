@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא רשע",
+      "rationale": "'lai iznāk noziedzies' — īss ebreju izteikums; KJV 'lai viņš tiek notiesāts', JPS 'lai iznāk notiesāts'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחטאה",
+      "rationale": "'par grēku' vs 'par grēka upuri' — חטאה nozīmē arī grēkupūri, iespējama abpusēja nozīme"
+    }
+  ],
+  "translation": "Kad viņu tiesā, lai viņš iznāk noziedzies, un viņa lūgšana lai kļūst par grēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/109\/5-8.1792528222744.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Kad viņu tiesā"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lai iznāk"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "noziedzies"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "un viņa lūgšana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lai kļūst"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "par grēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:22.745215293Z",
+  "model": "glm-5.3"
+}

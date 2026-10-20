@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 7:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda iztrūkst saikli — latviski vajag ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול\/הגדלים",
+      "rationale": "Atslēgas vārds šֵם גָּדוֹל atkārtojas kā הַגְּדֹלִים — viens celms, tulkojumā saglabāts lielu\/lielajiem"
+    },
+    {
+      "kind": "you",
+      "subject": "Davids",
+      "rationale": "Jahve runā tieši ar Davidu caur Nātānu"
+    }
+  ],
+  "translation": "Un es biju ar tevi visur, kur tu gāji, un es iznīcināju ⟨את⟩ visus tavus ienaidniekus no tavas priekšas, un darīšu tev lielu vārdu, kā ⟨ir⟩ vārds tiem lielajiem, kas ir virs zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/7\/9-12.1792519737733.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "un es biju"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "tu gāji"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "un es iznīcināju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus tavus ienaidniekus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tavus ienaidniekus"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "no tavas priekšas"
+    },
+    {
+      "surface": "ועשתי",
+      "gloss": "un darīšu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kā vārds"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "tiem lielajiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "virs zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:57.734669927Z",
+  "model": "glm-5.3"
+}

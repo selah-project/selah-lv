@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nezers",
+      "rationale": "הנזר ir 'ievērotums, noslēgtā zīme' — ārvalstu tulkojumos ' kronis', bet vārds nozīmē veltījumu\/atdalījumu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sita plaukstas",
+      "rationale": "ויכו כף — burtiski 'un viņi sita plaukstu', aplausu idioms."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ieceļana par ķēniņu",
+      "rationale": "Pants apraksta ķēniņa inaugurācijas ritu: nezrs, eduta, svaidīšana — kārtība un priekšmeti uzskaitīti."
+    },
+    {
+      "kind": "addition",
+      "subject": "par",
+      "rationale": "וימלכו — latviešu 'ieceļa par ķēniņu' pievieno priekšlocījumu, ebreju darbības vārds to nesatur."
+    }
+  ],
+  "translation": "Un viņš izveda ⟨את⟩ ķēniņa dēlu un uzlika viņam ⟨את⟩ nezru un ⟨את⟩ edutu, un viņu iecēla par ķēniņu un svaidīja ⟨את⟩ viņu; un viņi sita plaukstas un sacīja: Lai dzīvo ķēniņš!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b71076f2261aff4aa45872eb7aa9002795c2fc75ce393c775c22ee708f81b5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/11\/12-12.1792532611862.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "izveda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņa dēlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "uzlika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezru"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "nezru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "edutu"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "edutu"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ieceļa par ķēniņu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "svaidīja viņu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sita"
+    },
+    {
+      "surface": "כף",
+      "gloss": "plaukstas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "lai dzīvo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:31.862951800Z",
+  "model": "glm-5.3"
+}

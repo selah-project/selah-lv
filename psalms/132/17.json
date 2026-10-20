@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צמח\/קרן",
+      "rationale": "Sprouting horn — agricultural image of power growing, kept literal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītajam",
+      "rationale": "משיח par ķēniņu: svaidītais, nevis mašiahs vai Mesija."
+    },
+    {
+      "kind": "addition",
+      "subject": "es\/esmu",
+      "rationale": "Latviešu valoda pieprasa personu; ebreju darbības vārda forma to jau satur."
+    }
+  ],
+  "translation": "Tur es ieaudzēšu ragu Davidam; esmu izkārtojis spēkagu manam svaidītajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/132\/17-18.1792528363849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "es ieaudzēšu"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "ragu"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "esmu izkārtojis"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "spēkagu"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "manam svaidītajam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:43.850250319Z",
+  "model": "glm-5.3"
+}

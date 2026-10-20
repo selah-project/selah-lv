@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "necah — ‘mūžība\/gals’ vai šeit izsaucums ‘uz visu mūžību!’; daži lasa kā jautājuma daļu, daži kā atbildi."
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Dāvids tieši vēršas pie Jahves ar ‘cik ilgi’."
+    }
+  ],
+  "translation": "Cik ilgi, Jahve, Tu mani aizmirsīsi — uz mūžību? Cik ilgi Tu slēpsi ⟨את⟩ Savu vaigu no manis?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/13\/1-4.1792527134613.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cik"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ilgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "mani aizmirsīsi"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "uz mūžību"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cik"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ilgi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "slēpsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savu vaigu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Savu vaigu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "no manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:14.615234379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joel 1:18",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאשמו",
+      "rationale": "אשם nozīmē 'būt vainīgam \/ iet bojā'; Bībeles tulkojumi dažkārt 'postīti', šeit 'pazuduši'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "samulsuši",
+      "rationale": "נבכו — 'iejuceklī\/samulsuši' burtiski 'iepinas', par baru bez ganībām."
+    }
+  ],
+  "translation": "Kā vaimanā lopi! Samulsuši ⟨ir⟩ liellopu bari, jo nav ganību ⟨viņiem⟩; arī avju un kazu bari ir pazuduši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f5da06fad5160cc3597ad94adb8f89518ef59dd0b78a95cb99b3bb167956acb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/1\/17-20.1792526091737.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "vaimanā"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lopi"
+    },
+    {
+      "surface": "נבכו",
+      "gloss": "samulsuši"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ganību"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "bari"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avju un kazu"
+    },
+    {
+      "surface": "נאשמו",
+      "gloss": "pazuduši"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:51.738232276Z",
+  "model": "glm-5.3"
+}

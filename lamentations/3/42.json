@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחנו ... אתה",
+      "rationale": "Kiasms 'mēs—mēs \/ Tu—Tu', atkārtoti vietniekvārdi teikuma sākumā, latviski saglabāts ar atkārtojumu."
+    },
+    {
+      "kind": "you",
+      "subject": "Tu",
+      "rationale": "Vērsts pie Jahves — grēksūdzes fragments."
+    }
+  ],
+  "translation": "Mēs — mēs pārkāpām un sadumpojām; Tu — Tu nepiedodi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/41-44.1792529805426.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Mēs"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "pārkāpām"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "sadumpojām"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "piedodi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:45.427121420Z",
+  "model": "glm-5.3"
+}

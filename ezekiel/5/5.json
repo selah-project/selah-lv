@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 5:5",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa divās vietās — 'šī ir Jerušalaima' un 'zemes ir ap viņu'"
+    },
+    {
+      "kind": "you",
+      "subject": "par Jerušalaimu",
+      "rationale": "Dievišķā runa vērsta uz Jerušalaimu kā sievišķu personas 'viņa'"
+    }
+  ],
+  "translation": "Tā saka Adonai Jahve: šī ⟨ir⟩ Jerušalaima; tautu vidū es viņu novietoju, un zemes ⟨ir⟩ visapkārt viņai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/5\/5-8.1792524773703.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "שמתיה",
+      "gloss": "es viņu novietoju"
+    },
+    {
+      "surface": "וסביבותיה",
+      "gloss": "un visapkārt viņai"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T19:32:53.704425178Z",
+  "model": "glm-5.3"
+}

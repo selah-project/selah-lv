@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩ · ⟨tur⟩",
+      "rationale": "Ebreju tekstā nav izteikta darbības vārda un vietas apzīmējuma"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seši simti vīru",
+      "rationale": "skaits, kas turpinās nākamajā pantā (400 + 200)"
+    }
+  ],
+  "translation": "Un Davids aizgāja, viņš un seši simti vīru, kas ⟨bija⟩ ar viņu, un tie nonāca līdz Besoras strautam; un pāri palikušie palika ⟨tur⟩ stāvam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/30\/9-12.1792519466530.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Un aizgāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "un seši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ar ⟨את⟩ viņu",
+      "marks": "seši simti vīru"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "un tie nonāca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "straumē"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besoras"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "un pāri palikušie"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "palika stāvam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:04:26.531647549Z",
+  "model": "glm-5.3"
+}

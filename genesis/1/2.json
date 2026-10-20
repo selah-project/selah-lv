@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valoda pie 'tumsa pār...' copulu nelieto; latviešu valodai vajadzīgs ⟨bija⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tohu va-vohu",
+      "rationale": "רהו\/בהו — atskaņa 'tuksnesis un tukšums'; skanējuma saite latviski tikai aptuveni."
+    },
+    {
+      "kind": "crux",
+      "subject": "ruah Elohim",
+      "rationale": "'Elohim ruah' — 'Dieva Gars', 'Dieva vējš' vai 'varenvējš no Elohim'; ruah nav jāšaurina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "merachefet",
+      "rationale": "רחף — putna lidināšanās\/perēšana; 'lidinājās' tuvāk attēlam nekā 'kustināja'."
+    }
+  ],
+  "translation": "Un zeme bija tuksnesis un tukšums, un tumsa ⟨bija⟩ pār bezdibenes virsmu, un Elohim ruah lidinājās pār ūdeņu virsmu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/1\/1-4.1792511465380.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Un zeme"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuksnesis"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "un tukšums"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "un tumsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsmu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bezdibenes"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "un ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lidinājās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsmu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņu"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:05.381308905Z",
+  "model": "glm-5.3"
+}

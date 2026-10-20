@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בטחתי בך",
+      "rationale": "burtiski 'es patvēros tevī'; tulkots kā 'paļāvos uz tevi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבושה \/ יעלצו",
+      "rationale": "kauns pret prieku — divpretēja lūgšana, kas latviski zaudē skanisko līdzsvaru"
+    }
+  ],
+  "translation": "Mans Elohim, uz tevi es paļāvos; lai man nav jākaunas, lai mani ienaidnieki par mani priecājas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/1-4.1792527299995.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uz tevi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "es paļāvos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "man jākaunas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "priecājas"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mani ienaidnieki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "par mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:59.996537088Z",
+  "model": "glm-5.3"
+}

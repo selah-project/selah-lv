@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 30:4",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח — vējš, elpa, gars vienā vārdā; saglabāts kā 'ruah'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי ×4",
+      "rationale": "Četri jautājumi ar atslēgvārdu 'kas' rada kāpjošu retorisko kārtu, kas latviski saglabāta."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Kāds ir Viņa vārds un Viņa dēla vārds",
+      "rationale": "Teksts apzināti nesauc vārdu — jautājums paliek atvērts."
+    },
+    {
+      "kind": "secret",
+      "subject": "šie jautājumi",
+      "rationale": "Noslēpumains pārbaudījums: 'jo tu zini!' — zināšana pieņemta kā paslēpta."
+    },
+    {
+      "kind": "you",
+      "subject": "tu zini",
+      "rationale": "Tieša uzruna lasītājam — 'ja tu to zini'."
+    }
+  ],
+  "translation": "Kas ir uzkāpis ⟨uz⟩ debesīm un nokāpis? Kas ir savācis ruah savās abās saujās? Kas ir sasējis ūdeņus drānā? Kas ir uzcēlis visus zemes galus? Kāds ir Viņa vārds un kāds Viņa dēla vārds — jo tu to zini!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/1-4.1792528949933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ir uzkāpis"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesīm"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "un nokāpis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ir savācis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בחפניו",
+      "gloss": "savās abās saujās"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ir sasējis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņus"
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": "drānā"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ir uzcēlis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "galus"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kāds"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ir Viņa vārds"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un kāds"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "Viņa dēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tu zini"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:29.934995411Z",
+  "model": "glm-5.3"
+}

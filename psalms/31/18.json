@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeols",
+      "rationale": "שאול — šeols, nav 'elle' vai 'kaps'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבושה\/יבשו",
+      "rationale": "tā pati sakne בוש — lūgums un vēlējums atbalsojas, latviski zaudē"
+    }
+  ],
+  "translation": "Jahve, lai man nav jākaunas, jo es Tevi piesaucu; lai kaunas ļaunie, lai tie apklust šeolā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/31\/17-20.1792527285558.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "man jākaunas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "es Tevi piesaucu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "lai kaunas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaunie"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "lai tie apklust"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeolā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:45.559285022Z",
+  "model": "glm-5.3"
+}

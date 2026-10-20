@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veltīgs",
+      "rationale": "הבל burtiski 'elpa\/tvaiks' — īslaicīgs un tukšs; latviski 'veltīgs' saglabā nozīmi, zūd elpas tēls."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muzikāls norādījums 'Sela' paturēts transliterēts kā vārds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עון\/איש\/הבל",
+      "rationale": "Skaniskais kontrasts starp pārmācību par ļaunumu un 'tikai elpa' — kas ir katrs cilvēks — pazūd latviešu valodā."
+    }
+  ],
+  "translation": "Ar pārmetumiem par ļaunumu Tu pārmācīji cilvēku un kā ķepatu izkūdināji viņa mīļoto; tikai veltīgs ir katrs cilvēks. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/39\/9-12.1792527479110.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "ar pārmetumiem"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ļaunumu"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "Tu pārmācīji"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "un izkūdināji"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kā ķepatu"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "viņa mīļoto"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "veltīgs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:59.110977013Z",
+  "model": "glm-5.3"
+}

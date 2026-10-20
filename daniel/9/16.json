@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 9:16",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "'deguns\/nāsis' ebrejiski nozīmē dusmas; saglabāts 'dusmīgais deguns', jo vārda forma ir tā nozīme."
+    },
+    {
+      "kind": "crux",
+      "subject": "ככל צדקתך",
+      "rationale": "'pēc visa Tava cedek' — tradicionāli 'pēc visas Tavas taisnības'; cedek saglabāts kā viens vārds."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Kopula 'ir' pievienota latviski; ebreju tekstā tās nav."
+    }
+  ],
+  "translation": "Adonai, pēc visa Tava cedek — atgriezies, lūdzams, Tavs dusmīgais deguns un Tavs niknums no Tavas pilsētas Jerušalaimas, Tava svētā kalna, jo mūsu grēku dēļ un mūsu tēvu pārkāpumu dēļ Jerušalaima un Tauta Tava ir par apsmieklu visiem mums apkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9a9d376b8752346265d42e2b1e363d2983b4f7870ea2d246aaeaedaf48cbef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/9\/13-16.1792530404345.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pēc visa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "Tava cedek"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzams"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Tavs dusmīgais deguns"
+    },
+    {
+      "surface": "וחמתך",
+      "gloss": "un Tavs niknums"
+    },
+    {
+      "surface": "מעירך",
+      "gloss": "no Tavas pilsētas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalna"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Tava svētā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בחטאינו",
+      "gloss": "mūsu grēku dēļ"
+    },
+    {
+      "surface": "ובעונות",
+      "gloss": "un pārkāpumu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "mūsu tēvu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "un Tauta Tava"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "par apsmieklu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "mums apkārt"
+    }
+  ],
+  "timestamp": "2026-10-20T21:06:44.347191430Z",
+  "model": "glm-5.3"
+}

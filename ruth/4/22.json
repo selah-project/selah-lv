@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ciltsraksts",
+      "rationale": "Rutas grāmatas noslēgums — ģenealoģija beidzas ar Davidu."
+    }
+  ],
+  "translation": "Un Obeds dzemdināja ⟨את⟩ Ješaju, un Ješajs dzemdināja ⟨את⟩ Davidu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3859f9a01c1b9358634182b3b4a32204d8354bc8afd854c903d00bba4a44c408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/4\/21-22.1792529703506.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Un Obeds"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ješaju"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ješaju"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "un Ješajs"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:03.508115830Z",
+  "model": "glm-5.3"
+}

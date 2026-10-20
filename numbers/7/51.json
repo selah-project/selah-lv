@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saraksta saiklis pievienots latviešu valodas plūdumam; ebreju tekstā nav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "auns",
+      "rationale": "איל ir 'spēks' kā celms; 'auns' ir dzīvnieks, forma 'spēcīgais' izzūd"
+    }
+  ],
+  "translation": "vien jaunbs ērģelnieks — viens buļļa dēls no liellopiem, viens auns, viens jērs, viengadīgs, par dedzināmo upuri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cbe7fbb53bdad4e20700f50255b0da7a6a95aee75874419cd2523d1ba50c3301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/49-52.1792515507369.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "buļļa dēls"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "no liellopiem"
+    },
+    {
+      "surface": "איל",
+      "gloss": "auns"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "viengadīgs"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "gada"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "par dedzināmo upuri"
+    }
+  ],
+  "timestamp": "2026-10-20T16:58:27.371530587Z",
+  "model": "glm-5.3"
+}

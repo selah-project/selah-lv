@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 11:10",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Hebreju `את` pēdējā gadījumā ir prepozīcija `עם` tuvums — latviski nepieciešams 'ar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dieviem",
+      "rationale": "`אלהים` šeit par tautu dieviem — ar mazo burtu `dievu`, nevis Elohim"
+    }
+  ],
+  "translation": "Viņi atgriezās pie saviem pirmo tēvu ļaunumiem, kuri atteicās klausīt ⟨את⟩ manus vārdus, un viņi gāja citu dievu pēc, lai tiem kalpotu; Jisraēla nams un Jehudas nams ir lauzuši ⟨את⟩ manu derību, ko es noslēdzu ar ⟨את⟩ viņu tēviem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a1ba73550ba7d505c0160e6fa910c3b00743a3ab2b6d51883550ecdc1a43018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/11\/10-11.1792532694827.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבו",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ļaunumiem"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pirmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "atteicās"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "klausīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manus vārdus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "manus vārdus"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "un viņi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citu"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "lai tiem kalpotu"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ir lauzuši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un nams"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu derību"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "manu derību"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "es noslēdzu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu tēviem"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ar viņu tēviem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:44:54.828403559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teiks",
+      "rationale": "יודוך no ידה — 'atzīs, pateiks' pielūgšanas nozīmē; 'teikt' saglabā vārda sakni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svētie",
+      "rationale": "חסידים — 'žēlsirdīgie, uzticīgie'; 'svētie' ir pieņemts Tanaha reģistra vārds"
+    },
+    {
+      "kind": "elision",
+      "subject": "יודוך priedēklis",
+      "rationale": "2. personas priedēklis -ך ietilpst darbības vārdā; latviski atsevišķs 'Tevi'"
+    }
+  ],
+  "translation": "Teiks ⟨את⟩ Tevi, Jahve, visi Tavi darbi, un Tavi svētie svētīs ⟨את⟩ Tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/145\/9-12.1792528489305.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "teiks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Tavi darbi"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "un Tavi svētie"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "svētīs ⟨את⟩ Tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:49.305941028Z",
+  "model": "glm-5.3"
+}

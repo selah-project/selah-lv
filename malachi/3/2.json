@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברית",
+      "rationale": "Šeit ברית nozīmē 'sārms (mazgāšanas zāle)', nevis 'derība' — tas pats vārds kā 3:1 'derības vēstnesis', vārds spēlē starp pantiem."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kas noturēsies",
+      "rationale": "Retoriski noslēgti jautājumi — atbilde netiek dota, tie paredz tiesu, ko neviens neizturēs pats no sevis."
+    }
+  ],
+  "translation": "Un kas izturēs ⟨את⟩ dienu viņa atnākšanas, un kas noturēsies, kad viņš parādīsies? Jo viņš ⟨ir⟩ kā kausētāja uguns un kā veļas mazgātāju sārms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a287daf95bf2dfa4ffa3fbf265441b30dd418011c4bce72cf8009c1815a0367f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/3\/1-4.1792526960563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "izturēs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dienu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "viņa atnākšanas"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "un kas"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "noturēsies"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "kad viņš parādīsies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kā uguns"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "kausētāja"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "un kā sārms"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "veļas mazgātāju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:20.564507509Z",
+  "model": "glm-5.3"
+}

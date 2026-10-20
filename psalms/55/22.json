@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vārdi",
+      "rationale": "מחמאות burtiski 'sviestainība' — glumi, taukaini mīksti vārdi; 'kā sviests' saglabā bildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgā saikle, ebreju tekstā tās nav."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פתחות",
+      "rationale": "'Atvērtās' — atvilkto zobenu metafora; burtiski 'pavērtie', attēls par izvilktu asmeni."
+    }
+  ],
+  "translation": "Gludas kā sviests ⟨ir⟩ viņa mutes vārdi, un viņa sirds ⟨ir⟩ karš; mīkstākas par eļļu ⟨ir⟩ viņa vārdi, un tie ⟨ir⟩ atvērti zobeni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/21-24.1792527713765.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "gludas"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "kā sviests (maigie vārdi)"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "viņa mute"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "un karš"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirds"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "mīkstākas"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "viņa vārdi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "par eļļu"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "un tie"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "atvērti zobeni"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:53.766711736Z",
+  "model": "glm-5.3"
+}

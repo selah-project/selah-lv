@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 8:27",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dāriki",
+      "rationale": "'adarkonīm — persiešu zelta monēta 'dāriks'; KJV 'drams' ir kļūdaini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kausi",
+      "rationale": "kəfōrēj — 'vāku segti trauki \/ kausi'; forma ar hyphenu saglabāta kā viens vārds 'vāku-kausi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaitļi",
+      "rationale": "divdesmit kausi, tūkstotis dāriku, divi trauki — uzskaites pants"
+    }
+  ],
+  "translation": "Un zelta kausi — divdesmit, tūkstotis dāriku, un divi vara trauki, labi, vizulīgi kā zelts, dārgvērtīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a91022af72fea19c8b6f85dd43a09b7596809dc2e5f8fa6f040b4cdee2cba31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/8\/25-28.1792530611422.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפרי",
+      "gloss": "un kausi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "לאדרכנים",
+      "gloss": "dāriku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstotis"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "un trauki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vara"
+    },
+    {
+      "surface": "מצהב",
+      "gloss": "vizulīgi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "labi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "חמודת",
+      "gloss": "dārgvērtīgi"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "kā zelts"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:11.423601333Z",
+  "model": "glm-5.3"
+}

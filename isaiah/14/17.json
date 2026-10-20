@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ביתה",
+      "rationale": "בַּיִת ar lokatīva galotni -ה 'mājās' — reta forma; tulkotāji šķeļas: 'cietuma māja' (KJV) pret 'neatlaida mājās' (BSV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "תֵּבֵל ir 'apdzīvā zeme\/pasaule' kā mitrā, apdzīvātā daļa — atsevišķs vārds no אֶרֶץ."
+    }
+  ],
+  "translation": "kas padarīja pasauli par tuksnesi un sagrauva tās pilsētas, saviem gūstekņiem neatvēra ⟨⟨cietumu⟩⟩ māju?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "71d11119127fecaec6646c572384b9e0984fe1e431b40b704d63725d6b978e2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/17-20.1792522077317.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "padarīja"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasaule"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "par tuksnesi"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "un tās pilsētas"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "sagrauva"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "viņa gūstekņiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atvēra"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "māju"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:57.318104517Z",
+  "model": "glm-5.3"
+}

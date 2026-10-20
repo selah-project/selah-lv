@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 21:33",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ganību lauki",
+      "rationale": "מגרש ir pilsētas atklātā zeme ganāmpulkiem, ne tikai 'priekšpilsēta'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīspadsmit pilsētas",
+      "rationale": "saraksta summējums — skaitīšana"
+    }
+  ],
+  "translation": "Visas pilsētas geršoniešiem pēc viņu dzimtām: trīspadsmit pilsētas un to ganību lauki.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "68f54a4d890604c565fc5c8aa145a4162ace464134777164ef099a10f0f37214",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/21\/33-36.1792517994831.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "geršoniešiem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "un to ganību lauki"
+    }
+  ],
+  "timestamp": "2026-10-20T17:39:54.832352425Z",
+  "model": "glm-5.3"
+}

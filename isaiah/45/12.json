@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "radīšanas uzskaitījums",
+      "rationale": "Zeme, cilvēks, debesis, to pulks — radīšanas darbu uzskaite kā argumenta spēks."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Es⟩ atkārtojums",
+      "rationale": "Ebreju valoda liek divus 'Es' (אנכי, אני) uzsvara dēļ; latviešu teikuma struktūra to patur bez papildu vārdiem."
+    }
+  ],
+  "translation": "Es izdarīju zemi, un cilvēku uz tās Es radīju; Es, Savas rokas, izstiepu debesis, un visu to pulku Es pavēlēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/9-12.1792522781583.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Es"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "izdarīju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "un cilvēku"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uz tās"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "radīju"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Savas rokas"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "izstiepu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "to pulku"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "pavēlēju"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:41.584649300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 1:21",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ענה בי",
+      "rationale": "'liecināja pret mani' vs 'atbildēja man' — tradicija sadala ענה ב bīt testimonii nozīmē"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלאה\/ריקם",
+      "rationale": "pilna\/tukša pretstats, Naomi runas centrā"
+    },
+    {
+      "kind": "you",
+      "subject": "saucat mani",
+      "rationale": "Naomi runā tieši pret Betlehēmas sievām"
+    }
+  ],
+  "translation": "Es pilna aizgāju, bet Jahve mani atgrieza ⟨ar⟩ tukšu; kāpēc saucat mani Naomi, kad Jahve liecināja pret mani un Šadai sūdzīgi darīja man?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e500c6b8398119a4fdd52167bbbd14fb61206159705b0ad4b35b67982f55ee4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/21-22.1792529708765.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aizgāju"
+    },
+    {
+      "surface": "וריקם",
+      "gloss": "bet ⟨ar⟩ tukšu"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "atgrieza mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "saucat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "un Jahve"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "liecināja pret"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "un Šadai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sūdzīgi darīja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:08.765820124Z",
+  "model": "glm-5.3"
+}

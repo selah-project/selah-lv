@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואני ... ואני",
+      "rationale": "Atkārtots 'un Es' abās pusēs — Jahve pats abas reizes, paralēlisms: sauc\/atbild, runā\/dzirdu"
+    },
+    {
+      "kind": "addition",
+      "subject": "jau",
+      "rationale": "'jau' pievienots, lai parādītu טרם 'vēl ne' laika attiecību"
+    }
+  ],
+  "translation": "Un notiks: vēl tie nesauc, un Es jau atbildēšu; vēl tie runā, un Es dzirdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "578420fffc6089f267425b5bfce70af2733c9d7132c0d4690945e0838dcb9dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/21-24.1792523155718.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un notiks"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "vēl ... ne"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "tie sauc"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un Es"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jau atbildēšu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "הם",
+      "gloss": "tie"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "runā"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un Es"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dzirdu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:05:55.719582269Z",
+  "model": "glm-5.3"
+}

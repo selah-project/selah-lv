@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā ruah — viens vārds, kas nozīmē vēju, elpu un Garu; 'vējš' viens būtu pārāk šaurs"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחה",
+      "rationale": "נחה šeit: 'atbalstījies uz \/ apmeties uz' Efraima — tradicionāli 'ir savienībā ar'; vārds nozīmē atpūsties, apstāties"
+    }
+  ],
+  "translation": "Un tika paziņots Davida namam, sacīdami: Arams atbalstās uz Efraimu. Tad drebēja viņa sirds un viņa tautas sirds, kā dreboš meža koki ruah priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6ff5ac9a076d974acd28a66bba7b2f04478bec4e59453d8eb69a6db2b17e670e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/7\/1-4.1792521954098.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "un tika paziņots"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "atbalstās"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "tad drebēja"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "viņa sirds"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "un ... sirds"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa tautas"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "kā dreboš"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "koki"
+    },
+    {
+      "surface": "יער",
+      "gloss": "meža"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:54.099364658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 16:12",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pacēlās",
+      "rationale": "Ebreju עד למעלה חליו burtiski 'līdz augšai viņa slimība' — latviski vajag darbības vārdu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīsdesmit devītais gads",
+      "rationale": "Valdīšanas gada skaitlis — hroniku precizitāte."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bet",
+      "rationale": "כי šeit darbojas pretstatā ('bet' nevis 'jo') — savienojums ar noliegumu 'nemeklēja Jahvi, bet pie ārstiem'."
+    }
+  ],
+  "translation": "Un Asa saslima trīsdesmit devītajā gadā savas valdīšanas laikā — savās kājās, līdz augšai ⟨pacēlās⟩ viņa slimība; un pat savā slimībā viņš nemeklēja ⟨את⟩ Jahvi, bet ⟨meklēja⟩ pie ārstiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08f198e1710aeb747a7ae9759d89a5ce523faea7a582f32a034497206961695a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/16\/9-12.1792531968385.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלא",
+      "gloss": "saslima"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "devītajā"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "savas valdīšanas"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "savās kājās"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "augšai"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "viņa slimība"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un pat"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "savā slimībā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "meklēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "ברפאים",
+      "gloss": "pie ārstiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:48.386539155Z",
+  "model": "glm-5.3"
+}

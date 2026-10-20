@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeols",
+      "rationale": "שאול nav 'elle' — tas ir mirušo apakšzemes valstības vārds, transliterēts kā šeols"
+    },
+    {
+      "kind": "crux",
+      "subject": "חזה",
+      "rationale": "חזה var nozīmēt gan 'redzējums', gan 'vienošanās\/saistība'; tulkotāji dalās starp 'vienošanos' un 'redzējumu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שיט שוטף",
+      "rationale": "šayiṭ šotef — 'pāršalcošā pērkonbalss' vai 'pārplūdošais sods\/mocība'; šיט ir reta izteiksme (vieta šai formā), skaidrojums atšķiras"
+    }
+  ],
+  "translation": "Jo jūs sacījāt: Mēs esam nogriezuši derību ⟨ar⟩ ⟨את⟩ nāvi un ar šeolu esam darījuši vienošanos; pārplūstošā mocība, kad tā pāries, mūs nesniegs, jo mēs esam licījuši melu par savu patvērumu un zem viltas esam paslēpušies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a3d843adeac8e2ed79abcfc8b3baafd026a84d4ee51fd1f5bc18dfaa019fcaed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/13-16.1792522330603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "jūs sacījāt"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "esam nogriezuši"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nāvi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nāvi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un ar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "esam darījuši"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vienošanos"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "mocība"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "pārplūstošā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pāries"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "mūs nesniegs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "esam licījuši"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melu"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "patvērumu"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "un zem viltas"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "esam paslēpušies"
+    }
+  ],
+  "timestamp": "2026-10-20T18:52:10.605297964Z",
+  "model": "glm-5.3"
+}

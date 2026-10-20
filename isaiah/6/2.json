@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨galvas⟩",
+      "rationale": "ממעל לו — 'Viņam virs' precizēts ar 'galvas', ebrejiski tas neteikts"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sešas spārnus",
+      "rationale": "skaitļu struktūra: seši spārni, trīs reiz divi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרפים",
+      "rationale": "saraf — 'dejošais\/spīdošais', tas pats vārds kas indīgām čūskām; latviski zudis"
+    }
+  ],
+  "translation": "Serafi stāvēja Viņam virs ⟨galvas⟩: katram ⟨bija⟩ sešas spārnus, sešas spārnus katram; ar diviem tas sedza savu seju, ar diviem tas sedza savas kājas un ar diviem tas lidoja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5424ad42ea3a19c7d6f5c527a2758b0e28f592c30492b416f71ce693e40caeb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/6\/1-4.1792521929288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stāvēja"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "virs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sešas"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "spārnus"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sešas"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "spārnus"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "katram"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ar diviem"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "tas sedza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ar diviem"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "tas sedza"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "savas kājas"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "un ar diviem"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "tas lidoja"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:29.289732228Z",
+  "model": "glm-5.3"
+}

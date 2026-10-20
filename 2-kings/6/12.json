@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Eliša atklāj slepenos vārdus",
+      "rationale": "pravieša zināšana par to, ko ķēniņš runā guļamistabā, ir atklāts apslēptais — sižeta kodols"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחדר משכבך",
+      "gloss": "burtiski 'istabā, tavā gultas vietā' — latviski saplūst vienā vārdā 'guļamistabā'"
+    }
+  ],
+  "translation": "Un viens no viņa kalpiem sacīja: Nē, mans kungs, ķēniņš, bet pravietis Eliša, kas ⟨ir⟩ Jisraēlā, paziņo Jisraēla ķēniņam ⟨את⟩ vārdus, ko tu runā savā guļamistabā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5df42c8ee4da5b782e612421c37db39537b41c4eb129372d258e6b2a1047acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/9-12.1792521238839.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "no viņa kalpiem"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Nē"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "paziņo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Jisraēla ķēniņam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vārdus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu runā"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "guļamistabā"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "savā guļamistabā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:58.840250822Z",
+  "model": "glm-5.3"
+}

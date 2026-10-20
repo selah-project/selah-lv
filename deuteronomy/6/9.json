@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "durvju",
+      "rationale": "מזוזה ir tikai 'durvju stenderis'; vārds 'durvju' pievienots latviešu skaidrībai"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "panta turpinājums vērsts pie Israēla otrajā personā"
+    }
+  ],
+  "translation": "Un tās tavā rakstīšanā uz mājasdurvju stenderēm un uz taviem vārtiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/6\/9-12.1792516678135.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Un tās tavā rakstīšanā"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "durvju stenderēm"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mājas"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "un uz taviem vārtiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:58.136764067Z",
+  "model": "glm-5.3"
+}

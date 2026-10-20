@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 24:1",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienā",
+      "rationale": "Ebreju tekstā nav vārda 'diena'; latviešu valodai vajadzīgs skaidrojums pie 'mēneša desmitajā'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Precīzs datums: devītā gada desmitā mēneša desmitā diena — Jeruzalemes aplenkuma sākums (2. Ķēniņu 25:1)"
+    },
+    {
+      "kind": "you",
+      "subject": "pie manis",
+      "rationale": "Jahves vārds adresēts pravietim Jechekēlam"
+    }
+  ],
+  "translation": "Un Jahves vārds pienāca pie manis devītajā gadā, desmitajā mēnesī, mēneša desmitajā ⟨dienā⟩, sakot:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b2ad2b74004ff8f2759e183d0361c5c1e23ce2a469c7dbae615c031d5c892093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/24\/1-4.1792525228471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "devītajā"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "desmitajā"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "desmitajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:28.471959133Z",
+  "model": "glm-5.3"
+}

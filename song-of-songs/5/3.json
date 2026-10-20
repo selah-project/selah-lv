@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "sasmērēju",
+      "rationale": "טָנַף (אֲטַנְּפֵם) Tanahā sastopams tikai šeit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelisms",
+      "rationale": "Divas pilnīgi paralēlas rindas ar atkārtotu אֵיכָכָה — 'kā lai' — sniedz atbildes atteikuma ritmu."
+    }
+  ],
+  "translation": "Esmu novilkusi ⟨את⟩ savu kreklu — kā lai to atkal uzvelku? Esmu nomazgājusi ⟨את⟩ savas kājas — kā lai tās sasmērēju?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/5\/1-4.1792529683048.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Esmu novilkusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu kreklu"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "savu kreklu"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kā lai"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "to atkal uzvelku"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Esmu nomazgājusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas kājas"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "savas kājas"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kā lai"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "tās sasmērēju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:43.050032977Z",
+  "model": "glm-5.3"
+}

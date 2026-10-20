@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uzvarēja",
+      "rationale": "ויחזק burtiski 'kļuva stiprs' — ķēniņa vārds 'stiprinājās' pār Joābu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "saskaitīt",
+      "rationale": "uzskaites izpilde sākas"
+    }
+  ],
+  "translation": "Bet ķēniņa vārds uzvarēja pār Joābu un pār karaspēka pavēlniekiem, un Joābs un karaspēka pavēlnieki izgāja no ķēniņa priekšas saskaitīt ⟨את⟩ tautu, ⟨את⟩ Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/1-4.1792520299880.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "uzvarēja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pār"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joābu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pār"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pavēlniekiem"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un izgāja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joābs"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "un pavēlnieki"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "saskaitīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:18:19.881644948Z",
+  "model": "glm-5.3"
+}

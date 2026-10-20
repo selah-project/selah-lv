@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir elpa \/ dzīvības spēks, ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הישכם",
+      "rationale": "'vai jūs esat' — ebreju jautājuma daļiņa saplūdusi latviešu 'vai'"
+    },
+    {
+      "kind": "you",
+      "subject": "neklausi",
+      "rationale": "tiešs pavēles uzrunas Israēlam — aizliegums klausīt viltus pravieti"
+    }
+  ],
+  "translation": "neklausi uz tā pravieša vārdiem vai uz tā sapņu sapņotāja vārdiem, jo Jahve, jūsu Elohim, jūs pārbauda, lai zinātu, vai jūs mīlat Jahvi, savu Elohim, no visas sirds un no visas dvēseles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/13\/1-4.1792516964963.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdiem"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravieša"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "sapņotāja"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sapņa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "pārbauda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "lai zinātu"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "mīlat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no visas"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un no visas"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "dvēseles"
+    }
+  ],
+  "timestamp": "2026-10-20T17:22:44.967198330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikles 'trula ⟨ir⟩' un 'priekšrocība ⟨ir⟩ veiksme'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קלקל",
+      "rationale": "No saknes 'būt vieglam\/trenkt': šeit 'nav uzasināts' pret 'ir satriukts'; 'פנים' — 'valle\/asmens'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתרון הכשיר חכמה",
+      "rationale": "Vārdu kārtība neskaidra: 'gudrības priekšrocība — veiksme' (bez piederības) vai 'gudrība dod veiksmes priekšrocību'."
+    }
+  ],
+  "translation": "Ja dzelzs ⟨ir⟩ trula un asmens nav uzasināts, tad jāpieliek vairāk spēka; bet gudrības priekšrocība ⟨ir⟩ veiksme.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "77409f50db2dd2ba88e0b079de9765595825d46c2c0e3b326febddcd0d69b0f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/10\/9-12.1792529958709.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "trula"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dzelzs"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "un tas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "asmens (puses)"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "uzasināts"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "vairāk spēka"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "jāpieliek"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "priekšrocība"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "veiksme"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "gudrības"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:18.709859604Z",
+  "model": "glm-5.3"
+}

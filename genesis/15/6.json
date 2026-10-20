@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדקה pēc D2 paliek 'cedek' — taisnības jēdziens, nevis atsevišķs vārds 'taisnīgums'"
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "izrunātais objekta vietniekvārds -הָ (viņam to) latviski pievienots bez iekavām kā izteiksmes daļa"
+    }
+  ],
+  "translation": "Un Avrahams noticēja Jahvem, un Viņš to viņam ieskaitīja par cedeku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/15\/5-8.1792511684589.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "un noticēja"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "un ieskaitīja to"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "par cedeku"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:44.589934624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשמועה",
+      "rationale": "'Par dzirdēšanu\/valodām' — KJV 'not mentioned', BSB 'object of scorn'; jautājuma forma (vai ne?) arī iespējama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pieminēta",
+      "rationale": "לִשְׁמוּעָה burtiski 'ko dzird' — par teikumu, kas skan no mutes; latviski 'pieminēta' tuvākais ekvivalents."
+    },
+    {
+      "kind": "addition",
+      "subject": "nebija",
+      "rationale": "Nolieguma laika forma latviski apvieno לֹא un הָיְתָha vienā vārdā."
+    }
+  ],
+  "translation": "Un Sodoma, tava māsa, ⟨nebija⟩ pieminēta tavā mutē tavas iedomības dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "640aafe30c751ead5b897540ab0923db8a612c98c8c2970ea80620bdefdc03a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/16\/53-56.1792525024707.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "un ⟨nebija⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tava māsa"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "pieminēta"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "tavā mutē"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "tavas iedomības"
+    }
+  ],
+  "timestamp": "2026-10-20T19:37:04.708282255Z",
+  "model": "glm-5.3"
+}

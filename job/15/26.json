@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 15:26",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצואר",
+      "rationale": "'ar (stīvu) kaklu' — dzinējs ir Bezdievis (KJV\/ASV) vai pats Dievs (Geneva: 'Dievs skries viņam virsū'); es turējos pie dzinēja kā Bezdievis."
+    },
+    {
+      "kind": "elision",
+      "subject": "בעבי גבי מגניו",
+      "rationale": "'ar biezumu vairoga izliekumu' — burtiski 'biezie vairoga uzmali'; latviski sadalīts divos vārdos."
+    }
+  ],
+  "translation": "viņš skrien pret Viņu ar izslējtu kaklu, ar ⟨את⟩ resnajiem vairoga izliekumiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5ec23ff52b7d8459c06b636b6d2235e6251f95f4be6e0ebfa915365ade9ab0c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/15\/25-28.1792529242912.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירוץ",
+      "gloss": "viņš skrien"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pret Viņu"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ar izslējtu kaklu"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "ar resnajiem"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "izliekumiem"
+    },
+    {
+      "surface": "מגניו",
+      "gloss": "vairoga"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:22.913297291Z",
+  "model": "glm-5.3"
+}

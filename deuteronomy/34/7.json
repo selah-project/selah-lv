@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מאה ועשרים שנה",
+      "rationale": "Burtiski 'simts divdesmit gadu dēls' — ebreju vecuma izteiksme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spēks",
+      "rationale": "לחה burtiski 'mitrums\/svaigums' — dzīvības spēks; 'נס לחה' burtiski 'viņa svaigums nebija aizbēdzis'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "simts divdesmit gadu",
+      "rationale": "Precīzs vecuma skaitlis Mozus nāves brīdī."
+    }
+  ],
+  "translation": "Un Mošem ⟨bija⟩ simts divdesmit gadu, kad viņš nomira: viņa acs nebija apdzisusi, un viņa spēks nebija zudis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/34\/5-8.1792517468204.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Un Mošem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls ⟨ gadu⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "simts"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "savā nāvē"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "apdzisusi"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "viņa acs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נס",
+      "gloss": "aizbēdzis"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "viņa spēks"
+    }
+  ],
+  "timestamp": "2026-10-20T17:31:08.205984677Z",
+  "model": "glm-5.3"
+}

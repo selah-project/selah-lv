@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 2:11",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah ir 'vējš\/elpa\/drošsirdība' — parasti tulko kā 'drosme', bet vārda forma tiek saglabāta"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā הוא ir uzsvērums 'viņš pats', latviski nepieciešams saiklis 'ir'"
+    },
+    {
+      "kind": "you",
+      "subject": "Rahabs apliecinājums sūtņiem",
+      "rationale": "Rahabs runā tieši ar Jozuas sūtņiem — pirmais Kanānas iedzīvotāju apliecinājums par Jahvi"
+    }
+  ],
+  "translation": "Un mēs dzirdējām, un mums izkusa sirds, un nevienā vīrā vairs necēlās ruah jūsu priekšā, jo Jahve, jūsu Elohim, ⟨ir⟩ Elohim debesīs augšā un virs zemes lejā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/2\/9-12.1792517607115.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "Un mēs dzirdējām"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "un mums izkusa"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "necēlās"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nevienā vīrā"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "augšā"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un virs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lejā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:33:27.116878190Z",
+  "model": "glm-5.3"
+}

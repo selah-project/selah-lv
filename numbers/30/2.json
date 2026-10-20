@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'šis vārds' teikumā; latviešu valodā tas nepieciešams."
+    },
+    {
+      "kind": "you",
+      "subject": "cilšu vadoņi",
+      "rationale": "Vēstījums tiek adresēts cilšu vadoņiem, kas to nodos tautai."
+    }
+  ],
+  "translation": "Un Moše runāja uz cilšu vadoņiem, Jisraēla dēlu ⟨dēliem⟩, sakot: Šis ⟨ir⟩ vārds, ko Jahve pavēlēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/30\/1-4.1792516261933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Un runāja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "vadoņiem"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "cilšu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Jisraēla dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T17:11:01.934374453Z",
+  "model": "glm-5.3"
+}

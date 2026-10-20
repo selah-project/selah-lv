@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסד \/ יחסיון",
+      "rationale": "חסד—חסה saknes atbalss: heseds un patvēršanās vienā pANTā; latviski zudusi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heseds",
+      "rationale": "חסד atkal kā heseds — vienots visas grāmatas garumā"
+    }
+  ],
+  "translation": "Cik dārgs ir tavs heseds, Elohim! Cilvēku bērni Tavu spārnu ēnā patvērsīsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/36\/5-8.1792527408469.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cik"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dārgs"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavs heseds"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ēnā"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "Tavu spārnu"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "patvērsīsies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:48.471154409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשנים",
+      "rationale": "'abos\/divi': JPS 'otrajā pakāpē' pret KJV 'godātāks nekā abi' — ebreju teksts saka tikai 'divos'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "līdz trijiem ⟨pirmajiem⟩",
+      "rationale": "Teksts saka vienkārši 'līdz trijiem'; 'pirmajiem' pievienots pēc 11:25 konteksta."
+    }
+  ],
+  "translation": "No trijiem — abos godāts — un viņš tiem kļuva par priekšnieku; bet līdz trijiem ⟨pirmajiem⟩ viņš nenāca.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6d2869ded4a682b7334dd65e93da221031857146fd672da7a56377ac5909ff8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/11\/21-24.1792531342908.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "trijiem"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "abos"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "godāts"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un viņš bija"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "par priekšnieku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bet līdz"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "trijiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nāca"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:22.909479450Z",
+  "model": "glm-5.3"
+}

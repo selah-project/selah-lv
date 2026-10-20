@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמר",
+      "rationale": "'veras\/puto' pret 'ir sarkans' — KJV 'ir sarkans', ASV\/JPS 'puto'; pamatnozīme 'vārīties augšā, rūgt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמריה",
+      "rationale": "'nogulas' — burtiski 'kas saglabāts', vīna nogulsnes; tēls: ļaundari izdzers līdz pēdējai lāsei."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kauss Jahves rokā",
+      "rationale": "Tēls bez izskaidrojuma —Dieva soda kauss, kura jēgu lasītājam pašam jāsaprot."
+    }
+  ],
+  "translation": "Jo Jahves rokā ir kauss, un vīns veras ⟨sarkans⟩, pilns ar maisījumu, un viņš lej no tā; tikai tā nogulas izspiedīs un izdzers visi zemes ļaundari.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b0e306bd3670d162f9df1314811d7c4a8664d24dc045fb365b227054fb5ad762",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/75\/9-10.1792532823878.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kauss"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "un vīns"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "veras sarkans"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pilns"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ar maisījumu"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "un viņš lej"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "tās nogulas"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "izspiedīs"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "izdzers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ļaundari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:03.879357479Z",
+  "model": "glm-5.3"
+}

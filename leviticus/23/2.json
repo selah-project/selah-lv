@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag 'ir'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "noteiktie laiki",
+      "rationale": "מועד ir 'iepriekš norunāts tikšanās laiks' — viens vārds ar nozīmi 'svētki' un 'noteikts laiks'."
+    }
+  ],
+  "translation": "Runā uz Jisraēla dēliem un saki viņiem: Jahves noteiktie laiki, ko jūs pasludināsiet ⟨את⟩ kā svētas sapulces — tie ⟨ir⟩ mani noteiktie laiki.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/23\/1-4.1792515104935.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "un saki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "noteiktie laiki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "jūs pasludināsiet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "svētas sapulces"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "svētas sapulces"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mani noteiktie laiki"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:44.937576468Z",
+  "model": "glm-5.3"
+}

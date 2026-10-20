@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 10:9",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaujas seja",
+      "rationale": "פני המלחמה burtiski 'kaujas seja'; daudzi tulki saglabā 'fronte', bet vārds ir 'seja'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tos",
+      "rationale": "Izkārtoja ko? ebreju teksts objektu neizsaka; pievienots ⟨tos⟩"
+    }
+  ],
+  "translation": "Un Joabs redzēja, ka kaujas seja ⟨bija⟩ pret viņu no priekšas un no aizmugures; un viņš izvēlējās no visiem Jisraēla izredzētajiem un izkārtoja ⟨tos⟩ pret Aramu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/10\/9-12.1792519718695.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Un redzēja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pret viņu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seja"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kaujas"
+    },
+    {
+      "surface": "מפנים",
+      "gloss": "no priekšas"
+    },
+    {
+      "surface": "ומאחור",
+      "gloss": "un no aizmugures"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "un izvēlējās"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visiem"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "izredzētajiem"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "un izkārtoja"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:38.696367547Z",
+  "model": "glm-5.3"
+}

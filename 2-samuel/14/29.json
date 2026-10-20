@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 14:29",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju teksts nesaka subjektu (Joābs); latviešu valodai vajadzīgs, iekavās pievienots"
+    },
+    {
+      "kind": "addition",
+      "subject": "otro reizi",
+      "rationale": "עוד שנית burtiski 'vēl otro reizi' — dubulta atkārtošana, latviski vienreiz"
+    }
+  ],
+  "translation": "Un Avšaloms nosūtīja pie Joāba, lai tas ⟨את⟩ viņu sūtītu pie ķēniņa, bet ⟨viņš⟩ negribēja nākt pie viņa; un viņš nosūtīja vēl ⟨otro reizi⟩, bet ⟨viņš⟩ negribēja nākt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/14\/29-32.1792519963048.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un nosūtīja"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloms"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joāba"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "lai sūta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu (Joābu pie ķēniņa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "un nosūtīja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "otro reizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "negribēja"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākt"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:43.049369296Z",
+  "model": "glm-5.3"
+}

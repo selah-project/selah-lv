@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעבור יהוה",
+      "rationale": "Tulkojumi dalās: 'Jahves dēļ' (KJV, ASV) pret 'jo Jahve viņu mīlēja' (BSB, Ženēva) — ebreju teksts saka tikai 'Jahves dēļ'."
+    },
+    {
+      "kind": "you",
+      "subject": "pravietis Natans",
+      "rationale": "Sūtījums caur Natana roku — vēstījuma nodošanas struktūra."
+    }
+  ],
+  "translation": "Un viņš nosūtīja caur pravieša Natana roku, un viņš nosauca ⟨את⟩ viņa vārdu Jdidija, Jahves dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/12\/25-28.1792519832761.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nosūtīja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "caur roku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natans"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa vārdu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "viņa vārdu"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jdidija"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:32.762340131Z",
+  "model": "glm-5.3"
+}

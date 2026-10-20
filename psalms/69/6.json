@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "nav apslēptas",
+      "rationale": "Dieva priekšā nekas nav paslēpts — pretstats 'nistar' jēdzienam"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tieša uzruna Dievam — lūgšana"
+    }
+  ],
+  "translation": "Elohim, tu esi iepazinis manu aplamo muļķību, un manas vainas no tevis nav apslēptas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/69\/5-8.1792527804089.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "esi iepazinis"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "manu aplamo muļķību"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "un manas vainas"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "apslēptas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:24.090698399Z",
+  "model": "glm-5.3"
+}

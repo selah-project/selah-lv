@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tūkstotis un desmit tūkstoši",
+      "rationale": "skaitliskā antitēze — 1000 pret 10000 — uzsver apsardzības robežu"
+    },
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "ebreju valodā nav subjekta — ‘tas’ attiecas uz iepriekšminēto postu"
+    }
+  ],
+  "translation": "No tūkstošs kritīs ⟨pie⟩ tavas malas, un desmit tūkstoši no tavas labās rokas; tev tas netuvosies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/91\/5-8.1792528062794.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "kritīs"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "no tavas malas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstotis"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "un desmit tūkstoši"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "no tavas labās rokas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "tuvosies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:42.795113185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 2:4",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseli",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele klasiskajā nozīmē."
+    },
+    {
+      "kind": "substitution",
+      "subject": "piepildītu",
+      "rationale": "יקים burtiski 'celt stāvus, nostiprināt' — par vārdu: ' nostiprināt Savu vārdu'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dinastijas solījums",
+      "rationale": "Nosacījuma struktūra: ja dēli sargās ceļu — netiks nogriezts vīrs no troņa; skaitļa 'neviens' apgalvojums."
+    }
+  ],
+  "translation": "lai Jahve piepildītu ⟨את⟩ Savu vārdu, ko Viņš runāja par mani, sacīdams: Ja tavi dēli sargās ⟨את⟩ savu ceļu, staigāt Manā priekšā patiesībā, ar visu savu sirdi un ar visu savu dvēseli, sacīdams: netiks nogriezts tev vīrs no Jisraēla troņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "489c9ae87a3338533d9795033615cd80831b06c72cc1d2c2291513ad6cd78e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/2\/1-4.1792520425202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "piepildītu (celtu stāvus)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savu vārdu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Savu vārdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Viņš runāja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "par mani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "sargās"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavi dēli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu ceļu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "savu ceļu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "staigāt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Manā priekšā"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesībā"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un ar visu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "tiks nogriezts"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troņa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T18:20:25.204499734Z",
+  "model": "glm-5.3"
+}

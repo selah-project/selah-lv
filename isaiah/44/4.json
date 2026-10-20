@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tie",
+      "rationale": "Vienojuma darbības vārdam latviešu valodā vajag subjektu — 'tie' atsaucas uz 44:3 sēklu un pēcnācējiem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vītoli",
+      "rationale": "ערבים — kārkli\/vītoli pie ūdens; viena koku suga, saglabāts ainava, ne vispārinājums"
+    }
+  ],
+  "translation": "Un tie zaļos starp zāli kā vītoli pie ūdens strautiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/44\/1-4.1792522692289.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "un tie zaļos"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zāli"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "kā vītoli"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ūdens strautiem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:12.290752439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 13:15",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא איחל",
+      "rationale": "Slavenā grūtība: l-g burts (QLTY) lasāms kā 'lo-yahel' — 'es necerēšu' (YLT\/ASV) — vai kā 'lo'ahel' — 'tomēr es cerēšu' (KJV\/JPS); izvēlēts tradicionālais lasījums."
+    },
+    {
+      "kind": "addition",
+      "subject": "uz Viņu",
+      "rationale": "Ebreju verbs יחל ar personu pieprasa priedekli latviešu valodā; ebrejiski tas nav."
+    }
+  ],
+  "translation": "Redzi, Viņš mani nogalinās — tomēr es cerēšu ⟨uz Viņu⟩; tikai savus ceļus Viņa vaiga priekšā es aizstāvēšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/13\/13-16.1792529132046.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "יקטלני",
+      "gloss": "Viņš mani nogalinās"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tomēr ⟨negācija pārlikta⟩"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "es cerēšu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "savus ceļus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Viņa vaiga"
+    },
+    {
+      "surface": "אוכיח",
+      "gloss": "es aizstāvēšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:32.046914628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא דומיה לי",
+      "rationale": "Divi skaidrojumi: «man nav klusuma» (lūdzējs nemit) vai «man nav atbildes klusumā» (Dievs klusē); izvēlēts pirmais, burtiskākais."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם \/ ולילה",
+      "rationale": "Diena–nakts pretstats apjomā divās simetriskās pusītēs."
+    }
+  ],
+  "translation": "Mans Elohim, es saucu pa dienu, un tu neatbildi, un naktī, un nav klusuma man.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/1-4.1792527226813.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mans Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pa dienu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tu atbildi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un naktī"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "klusuma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:46.814269760Z",
+  "model": "glm-5.3"
+}

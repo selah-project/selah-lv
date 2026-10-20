@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strīdnieki",
+      "rationale": "מריבו — 'tie, kas ar Viņu cīnās\/strīdas', daudzi tulko 'pretinieki'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītajam",
+      "rationale": "משיחו — svaidītais (priesteris vai ķēniņš), ne 'Mesija'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחתו \/ ירעם",
+      "rationale": "Divi iznīcības darbības vārdi vienā rindā — saspiest lejup un pārdārdēt"
+    }
+  ],
+  "translation": "Jahves strīdnieki tiks satriekti, pār viņiem debesīs Viņš dārdinās pērkonu; Jahve tiesās zemes malas, un Viņš dos spēku savam ķēniņam un pacels ragu savam svaidītajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/9-12.1792518718888.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "tiks satriekti"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "strīdnieki"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "dārdinās pērkonu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "tiesās"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "malas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ar zemes"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēku"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "savam ķēniņam"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "un pacels"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ragu"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "savam svaidītajam"
+    }
+  ],
+  "timestamp": "2026-10-20T17:51:58.889561993Z",
+  "model": "glm-5.3"
+}

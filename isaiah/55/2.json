@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "svērjat sudrabu",
+      "rationale": "שקל burtiski 'svērt' tirdzniecībā — 'tērēt naudu'; latviski saglabāts svēršanas attēls"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa\/dzīvības spēks, nevis nemirstīga dvēsele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע",
+      "rationale": "atkārtota sakne 'klausieties, uzklausiet' — intensitātes atkārtojums"
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausieties",
+      "rationale": "tiešs aicinājums uzklausīt runātāju"
+    }
+  ],
+  "translation": "Kāpēc jūs svērjat sudrabu par to, kas nav maize, un savu pūļu augļu par to, kas nepiekāpj badu? Klausieties, uzklausiet mani, un ēdiet labo, un lai jūsu dvēsele bauda treknumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/55\/1-4.1792522918742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תש׎לו",
+      "gloss": "jūs svērjat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "par to, kas nav"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maize"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "un savu pūļu augļu"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "par to, kas nepiekāpj"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "badu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausieties"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "uzklausiet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "un ēdiet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labo"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "un bauda"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "treknumu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jūsu dvēsele"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:58.743573908Z",
+  "model": "glm-5.3"
+}

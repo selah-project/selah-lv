@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "isaiah 10:33",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "במערצה",
+      "rationale": "Šis vārds (vardarbība) Tanahā parādās tikai šeit; KJV 'with terror' seko citai tradīcijai."
+    },
+    {
+      "kind": "crux",
+      "subject": "מסעף פארה",
+      "rationale": "'Nocērt zarus' — laukkopšanas tēls; daži tulkotāji lasa 'bail' (b\/מורא) vietā 'vardarbība' (מערצה)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst darbības vārda 'būt'; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדועים \/ ישפלו",
+      "rationale": "Nociršana un pazemošana — koku ciršanas tēls un pazemošanas tēls pārklājas; zaudēts, ja atdala."
+    }
+  ],
+  "translation": "Lūk, Adonai, Jahve Cevaot, nocērt zarus ar vardarbību, un staltie auguma ⟨ir⟩ nocirsti, un augstmanīgie tiks pazemoti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2bea9c78f5b2a43d1247bb3001c4b9a8ece6484779530c2342fcfacbd3079b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/33-34.1792522019034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מסעף",
+      "gloss": "nocērt"
+    },
+    {
+      "surface": "פארה",
+      "gloss": "zarus"
+    },
+    {
+      "surface": "במערצה",
+      "gloss": "ar vardarbību"
+    },
+    {
+      "surface": "ורמי",
+      "gloss": "staltie"
+    },
+    {
+      "surface": "הקומה",
+      "gloss": "auguma"
+    },
+    {
+      "surface": "גדועים",
+      "gloss": "nocirsti"
+    },
+    {
+      "surface": "והגבהים",
+      "gloss": "augstmanīgie"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "tiks pazemoti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:46:59.034986005Z",
+  "model": "glm-5.3"
+}

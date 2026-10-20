@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "debbesis kā dzelzs",
+      "rationale": "Aizslēgtas debesis — lietus nesāks; lv 'kā dzelzi' saglabā metaforas burtumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון עז",
+      "rationale": "'spēka augstprātība' — divu vārdu salikums; lv to izšķir, bet zaudē vienoto skaņu."
+    }
+  ],
+  "translation": "Un es salauzīšu ⟨את⟩ jūsu spēka lepnumu, un došu ⟨את⟩ jūsu debesis kā dzelzi un ⟨את⟩ jūsu zemi kā varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/17-20.1792515232530.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Un es salauzīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu spēka lepnumu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lepnumu"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "jūsu spēka"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "un došu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu debesis"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "jūsu debesis"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kā dzelzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "jūsu zemi"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jūsu zemi"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kā varu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:52.532514768Z",
+  "model": "glm-5.3"
+}

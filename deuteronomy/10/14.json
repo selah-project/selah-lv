@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav darbības vārda; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "debesu debesis",
+      "rationale": "שמי השמים — hebraiskā dubultošana; daudzi tulkojumi to mīkstina par 'pašas augstākās debesis'."
+    }
+  ],
+  "translation": "Lūk, Jahves, tava Elohim, ⟨ir⟩ debesis un debesu debesis, zeme un viss, kas ⟨ir⟩ tajā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/10\/13-16.1792516784393.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tava Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "un debesis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debesu debesis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tajā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:19:44.396140015Z",
+  "model": "glm-5.3"
+}

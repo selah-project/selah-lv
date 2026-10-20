@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pārplēsts",
+      "rationale": "קרע ir 'pārplēst (audumu)' — tēls par plīvura plēšanu, ne vienkārši 'atdalīt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "padzina",
+      "rationale": "וידא nozīmē 'aizsvieda, atmeta' — Jarobeams aizsvieda Jisraēlu no Jahves pakaļas (sekošanas)."
+    },
+    {
+      "kind": "addition",
+      "subject": "sekošanas",
+      "rationale": "מאחרי burtiski 'no pakaļas' — pievienota 'sekošana', lai skaidri izteiktu 'no sekot Jahvei'."
+    }
+  ],
+  "translation": "Jo Jisraēls tika pārplēsts no Davida nama, un viņi iecēla par ķēniņu Jarobeamu, Nebata dēlu; un Jarobeams padzina Jisraēlu no ⟨sekošanas⟩ Jahvei un lika viņiem grēkot lielu grēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cc1348da170b4db4434b0507138ddfc262b1bed3c7b5f87a0d2fffcc29cb6730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/17\/21-24.1792521566187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "tika pārplēsts"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "un viņi iecēla par ķēniņu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarobeamu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeams"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "un padzina"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "no sekošanas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "un lika viņiem grēkot"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "grēku"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lielu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:26.188629394Z",
+  "model": "glm-5.3"
+}

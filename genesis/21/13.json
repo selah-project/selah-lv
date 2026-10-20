@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu teikumā vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "verdzene",
+      "rationale": "האמה ir 'kalpone verdzene'; 'āma' — sieviete kalponis, nav brīva"
+    }
+  ],
+  "translation": "Arī ⟨את⟩ verdzenes dēlu Es darīšu par tautu, jo tava sēkla viņš ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "47537aded77a26b6c29d767c438a3a72f6ffea0deda3794f46038f255ec953fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/21\/13-16.1792511929374.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verdzenes dēlu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "verdzenes"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "par tautu"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "Es darīšu viņu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tava sēkla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    }
+  ],
+  "timestamp": "2026-10-20T15:58:49.375427812Z",
+  "model": "glm-5.3"
+}

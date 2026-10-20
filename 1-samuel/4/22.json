@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju teikumā nav izteiksmes vārda; latviešu valodā tas nepieciešams"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלה כבוד",
+      "rationale": "Atkārtotais „aizgāja gods” 21. un 22. pantā noslēdz ķīni — vārda I-Kavods nozīme atkārtota kā epitāfs"
+    }
+  ],
+  "translation": "Un viņa sacīja: Aizgāja⟨ir⟩ gods no Jisraēla, jo tikusi paņemta ⟨את⟩ Elohim šķirsta ⟨lāde⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/4\/21-22.1792518828015.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "un viņa sacīja"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "aizgāja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gods"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "no Jisraēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "tikusi paņemta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirsta ⟨lāde⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T17:53:48.016201448Z",
+  "model": "glm-5.3"
+}

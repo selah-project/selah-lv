@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 33:8",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kāju nepārcelt no zemes",
+      "rationale": "לא אוסיף להסיר את רגל — burtiski 'nepievienošu novērst kāju'; idiomatisks 'nedzīsīšu prom'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "התורה atstāts kā Tora, nevis 'bauslība', pēc valodas statūtiem"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "Jahves runa adresēta Jisraēlam caur tēviem ('jūsu tēviem')"
+    }
+  ],
+  "translation": "Un es vairs nepārcelšu ⟨את⟩ Jisraēla kāju no zemes, ko esmu novietojis jūsu tēviem — tikai, ja tie piesargās pildīt visu, ko es tiem esmu pavēlējis: visu Toru, un statūtus, un tiesas Mošes rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc9dbf3d838b99badf6acf155bfc92f5cc6b1c9858e3109166ffd1935c7d5a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/5-8.1792532354630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un ne"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "nepārcelšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla kāju"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kāju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העמדתי",
+      "gloss": "esmu novietojis"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "jūsu tēviem"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "tie piesargās"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pildīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "esmu pavēlējis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "un statūtus"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "un tiesas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    }
+  ],
+  "timestamp": "2026-10-20T21:39:14.631359848Z",
+  "model": "glm-5.3"
+}

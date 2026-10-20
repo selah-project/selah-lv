@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רותה",
+      "rationale": "'Zobens iereibusi\/piesātināta' — רותה no רוה 'remdēt slāpes': zobens dzer līdz pilnībai debesīs, iekams nolaižas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרמי",
+      "rationale": "חרם ir herems — iznīcībai nodotais banis; 'lāsts' (KJV) ir pārāk šaurs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדום \/ דם",
+      "rationale": "Edoma vārds skan kā 'asins (dam)' — nākamajā pantā Edoms tiek slaktēts; vārdu spēle latviski iespējama tikai caur 'Edomu—asinīm' tuvību."
+    }
+  ],
+  "translation": "Jo debesīs piesātināta ⟨ir⟩ mana zobens; lūk, uz Edomu tā noksies, un uz tautu, kas man iznīcībai nolemta, tiesai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "51766db3d86bbdc89dfd6cee9811e070c6635de387aa77ff4ae8f89f0a4372ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/34\/5-8.1792522457533.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "piesātināta"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "debesīs"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "mana zobens"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "tā noksies"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "kas man iznīcībai nolemta"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "tiesai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:54:17.533961133Z",
+  "model": "glm-5.3"
+}

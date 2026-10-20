@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סררה ... סרר",
+      "rationale": "Saknes atkārtojums: 'untumīga untumīgi novērsies' — ebreju valodā divkārša atbalss, latviski vienreiz"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירעם ... ככבש",
+      "rationale": "JPS lasa jautājumu: 'Vai Jahve tagad ganīs viņus kā jēru?' — pārējie teikumu kā apgalvojumu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבש",
+      "rationale": "Vārds nozīmē jaudu, āvi vai aunu — 'jērs' ir izvēle no vairākām iespējām"
+    }
+  ],
+  "translation": "Jo kā untumaina govs Jisraēls ir novērsies; tagad Jahve viņus ganīs kā jēru plašā vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/4\/13-16.1792525974304.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "kā govs"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "untumaina"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "ir novērsies"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "viņus ganīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "kā jēru"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "plašā vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:52:54.306126831Z",
+  "model": "glm-5.3"
+}

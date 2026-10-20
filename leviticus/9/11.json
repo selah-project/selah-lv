@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Darbības vārda forma שרף nes subjektu, bet latviešu teikums prasa vietniekvārdu."
+    }
+  ],
+  "translation": "Un ⟨את⟩ miesu un ⟨את⟩ ādu viņš sadedzināja ugunī ārpus nometnes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/9\/9-12.1792513757880.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miesu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ādu"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ādu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sadedzināja"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ārpus"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nometnes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:29:17.881472069Z",
+  "model": "glm-5.3"
+}

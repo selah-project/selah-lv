@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaltu darbu",
+      "rationale": "מקשה — ar veseri kalts repusē darbs; attēls ir metāla kaļšana, ne vienkārši 'izgatavots'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Aleph-tav ar piedēkli (-ēm 'viņus'): saglabāts kā ⟨את⟩-viņus, jo latviešu izteikumā 'tos' jau ir iekļauts"
+    }
+  ],
+  "translation": "Un viņš izgatavoja divus kerubus no zelta, no kalta darba viņš tos izdarīja ⟨את⟩-viņus, pie abiem kaporetes galiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "65ff8cd433a706fac5a3ccd5c9e632db4f75022f8ae92788d5e9b06882df973e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/37\/5-8.1792513484177.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un viņš izgatavoja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "divus"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "no zelta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "no kalta darba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš izdarīja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-viņus",
+      "marks": "kerubus"
+    },
+    {
+      "surface": "משני",
+      "gloss": "pie abiem"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "galiem"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:44.178415954Z",
+  "model": "glm-5.3"
+}

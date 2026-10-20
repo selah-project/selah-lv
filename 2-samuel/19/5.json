@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Latviešu valodai vajadzīgs piederības īpašnieks, ebreju valodā teikts tikai 'seju'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני אבשלום",
+      "rationale": "Četrkāršā 'mans dēls' ap Avšaloma vārdu — raudāšanas ritms, latviski saglabāts atkārtojumā"
+    }
+  ],
+  "translation": "Un ķēniņš aizsedza ⟨את⟩ savu seju, un ķēniņš iekliedzās lielā balsī: mans dēls Avšalom, Avšalom, mans dēls, mans dēls!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/19\/5-8.1792520181358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Un ķēniņš"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "aizsedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu seju"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "un iekliedzās"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsī"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    }
+  ],
+  "timestamp": "2026-10-20T18:16:21.359694763Z",
+  "model": "glm-5.3"
+}

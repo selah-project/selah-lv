@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "arami vai edomieši",
+      "rationale": "Hebreju tekstā stāv ארם (Arams), bet 1. Mozus pantu paralēles un Ps 60 virsraksts norāda Edomu; daudzi tulki labo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עשה שם",
+      "rationale": "Burtiski 'darīja vārdu' — idiomātisks 'iegaunu slavu'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "astoņpadsmit tūkstoši",
+      "rationale": "Kritušo skaits — skaitīšanas motīvs."
+    }
+  ],
+  "translation": "Un Davids ieguva vārdu, kad viņš atgriezās no ⟨את⟩ Arama sakaušanas Sāls ielejā — astoņpadsmit tūkstoši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/8\/13-16.1792519709475.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "iegūva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "kad viņš atgriezās"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "no sakaušanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arams"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Sāls"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:29.475652277Z",
+  "model": "glm-5.3"
+}

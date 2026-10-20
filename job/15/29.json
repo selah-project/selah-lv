@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 15:29",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנלם",
+      "rationale": "מִנְלָם sastopams tikai šeit Tanahā; nozīme neskaidra — 'piepildījums, raža, bagātība'"
+    },
+    {
+      "kind": "addition",
+      "subject": "viņa (pie mantas)",
+      "rationale": "Ivritā מנלם bez piederības priedēkļa; latviešu valodai vajadzīgs skaidrojums"
+    }
+  ],
+  "translation": "Viņš nekļūs bagāts, un viņa spēks necelsies, un viņa mantas nezels uz zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/15\/29-32.1792529253776.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "kļūs bagāts"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "celsies"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "viņa spēks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "zels"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "מנלם",
+      "gloss": "mantas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:33.776815961Z",
+  "model": "glm-5.3"
+}

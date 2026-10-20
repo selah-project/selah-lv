@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדים",
+      "rationale": "Drāna 'netīrības laiku' — ebreju apzīmējums menstruālajai plūsmai un tās piemirkušai drānai; KJV 'filthy rags' to mīkstina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "כרוח = 'kā vējš\/kā elpa'; viens vārds, rakstīts pēc skanējuma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקתינו ir cedek — 'mūsu cedeki', nevis 'taisnības darbi' vieni."
+    }
+  ],
+  "translation": "Un mēs visi kļuvām kā nešķīsts, un kā drāna ⟨netīrības⟩ ir visi mūsu cedeki, un mēs visi novītam kā lapa, un mūsu avonas kā ruah mūs aiznesa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/64\/5-8.1792523051481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "Un mēs kļuvām"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "kā nešķīsts"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mēs visi"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "un kā drāna"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "⟨netīrības⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "mūsu cedeki"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "un novītam"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "kā lapa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mēs visi"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "un mūsu avonas"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "kā ruah"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "mūs aiznesa"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:11.482022609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 43:32",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ivri \/ ivrus",
+      "rationale": "העברים — Ebera pēcteči; 'ivri' saglabāts kā etnonīms, nevis tulkots."
+    },
+    {
+      "kind": "elision",
+      "subject": "kopā",
+      "rationale": "'Kopā ēst' izteikts ar vienu darbību; ebreju tekstā 'ēst maizi ar' jau nozīmē kopīgu maltīti."
+    }
+  ],
+  "translation": "Un viņi uzklāja viņam atsevišķi, un viņiem atsevišķi, un micriešiem, kas ēda ⟨את⟩ kopā ar viņu, atsevišķi, jo micrieši nevar ēst ⟨את⟩ ivrus kopā maizi, jo tā ir negantība micriešiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4f4ce993ba2b37faceb8af518f0650dd915b64529a80b492d34b35db7133d79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/29-32.1792512492624.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Un uzklāja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "atsevišķi"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "un viņiem"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "atsevišķi"
+    },
+    {
+      "surface": "ולמצרים",
+      "gloss": "un micriešiem"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "kas ēda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kopā ar viņu"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "atsevišķi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "var"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "micrieši"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivrus"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ivrus"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "neganība \/ negantība"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "micriešiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:12.625335789Z",
+  "model": "glm-5.3"
+}

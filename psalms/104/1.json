@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag ⟨esi⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפשׁ ir tuvāk 'elpa, dzīvības spēks' nekā 'dvēsele'"
+    },
+    {
+      "kind": "you",
+      "subject": "dvēsele",
+      "rationale": "Dzejnieks uzrunā savu dvēseli imperatīvā — aicinājums svētīt Jahvi"
+    }
+  ],
+  "translation": "Svētī, mana dvēsele, ⟨את⟩ Jahve! Jahve, mans Elohim, Tu ⟨esi⟩ ļoti liels, godību un majestāti Tu esi apvilcies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/1-4.1792528114793.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "svētī"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mans Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "Tu esi liels"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "godība"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "un majestāte"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "esi apvilcies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:34.794022815Z",
+  "model": "glm-5.3"
+}

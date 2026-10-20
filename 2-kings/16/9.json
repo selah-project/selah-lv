@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויגלה",
+      "rationale": "galah nozīmē 'izkailināja\/aizveda gūstā'; latviski pievienots 'iedzīvotājus', ko ebreju teksts tikai izsaturs"
+    },
+    {
+      "kind": "addition",
+      "subject": "iedzīvotājus",
+      "rationale": "דמשק sieviešu dzimtes Objekts ויתפשה־ה 'sagrāba to'; 'tās iedzīvotāji' izskaidro, kas tika aizvests"
+    }
+  ],
+  "translation": "Un uzklausīja viņu Ašūras ķēniņš, un gāja uz Augšu Ašūras ķēniņš uz Damasku, un sagrāba to, un aizveda tās iedzīvotājus trimdā uz Kiru, un ⟨את⟩ Recinu nogalināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/16\/9-12.1792521550979.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "un uzklausīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūras"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "un gāja uz augšu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasku"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "un sagrāba to"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "un aizveda trimdā"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "uz Kiru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Recinu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinu"
+    },
+    {
+      "surface": "המית",
+      "gloss": "nogalināja"
+    }
+  ],
+  "timestamp": "2026-10-20T18:39:10.980672573Z",
+  "model": "glm-5.3"
+}

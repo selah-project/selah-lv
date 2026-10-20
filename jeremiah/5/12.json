@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא הוא",
+      "rationale": "Burtiski 'ne Viņš' — 'Viņa nav' \/ 'Viņš tas nav'; nolieguma formulējums bez darbības vārda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zobenu",
+      "rationale": "חרב burtiski 'zobens'; sausaņa\/sausums kā alternatīva nozīme šai saknei"
+    }
+  ],
+  "translation": "Tie melīgi noliedza Jahvi un sacīja: Viņš ⟨nav⟩, un ļaunums nenāks pār mums, un zobenu un badu mēs neredzēsim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d581c71825f6cfcabc96d1fd7c8efb59ff22f7d25e74fcf77d8d9cc995580cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/9-12.1792523313360.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Tie melīgi noliedza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nav⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pār mums"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "un zobenu"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "un badu"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "redzēsim"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:33.361801235Z",
+  "model": "glm-5.3"
+}

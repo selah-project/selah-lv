@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajag saikli 'ir', ebreju valodā tā nav"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרעת",
+      "rationale": "'Ēdas plāksnītes' \/ 'spalvas plāksnītes' \/ 'ēdes plāksnīšu negads' — tulki nezin, ko ēda nozīmē; 'ēdas plāksnītes' atstāts tuvu burtam"
+    }
+  ],
+  "translation": "Šī ⟨ir⟩ Toras mācība tam, kam ir ēdas plāksnīšu negads un kura roka nesniedzas pietiekami viņa attīrīšanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/14\/29-32.1792514831536.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Šī"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toras mācība"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ir"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "negads"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ēdas plāksnīšu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "sniedz pietiekami"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roka"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "vienā ar viņa attīrīšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:11.549609242Z",
+  "model": "glm-5.3"
+}

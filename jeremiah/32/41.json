@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 32:41",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'rīkle\/elppa\/dzīvības spēks', nevis dvēsele platonic nozīmē"
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "hebrejs留下 לבי\/נפשי pirmās personas galotni; latviešu 'savu' pievienots"
+    }
+  ],
+  "translation": "Un es priecāšos par viņiem, lai darītu viņiem labu, un es ⟨את⟩ viņus iestādīšu šai zemē patiesībā, ar visu savu sirdi un ar visu savu dvēseli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c85a41b53e6311585f9b3a80d0589fcb571e1e30e2bc57d5f504b9f762264a1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/32\/41-44.1792524085068.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וששתי",
+      "gloss": "Un es priecāšos"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "par viņiem"
+    },
+    {
+      "surface": "להטיב",
+      "gloss": "lai darītu labu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "viņus"
+    },
+    {
+      "surface": "ונטעתים",
+      "gloss": "un es viņus iestādīšu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šai"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "patiesībā"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un ar visu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu dvēseli"
+    }
+  ],
+  "timestamp": "2026-10-20T19:21:25.068886868Z",
+  "model": "glm-5.3"
+}

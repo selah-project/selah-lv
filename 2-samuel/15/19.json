@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 15:19",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā nav saikļa 'tu svešinieks'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "Šis ir prievārds את H854 ('ar'), ne objekta marķieris — tulkots 'ar mums'."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Itaju gatieti",
+      "rationale": "Ķēniņa runa vērsta tieši pie Itaja, filistieša no Gatas."
+    }
+  ],
+  "translation": "Un ķēniņš sacīja Itajam gatietim: Kāpēc tu arī iesi ⟨את⟩ ar mums? Atgriezies un paliec pie ķēniņa, jo tu ⟨esi⟩ svešinieks un arī trimdinieks no savas vietas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/17-20.1792519983400.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itaju"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gatietis"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu iesi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ar mums"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "atgriezies"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "un paliec"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "svešinieks"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "trimdinieks"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למקומך",
+      "gloss": "no savas vietas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:13:03.401667215Z",
+  "model": "glm-5.3"
+}

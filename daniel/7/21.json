@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עם",
+      "rationale": "aramiešu עם nozīmē 'ar\/pret'; te 'pret', jo konteksts ir karš."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכלה",
+      "rationale": "sakne כלל 'spēja\/uzvarēja' — divējāda nozīme vienā vārdā, latviski tikai 'uzvarēt'."
+    }
+  ],
+  "translation": "Es skatījos, un šis rag darīja karu pret svētajiem un uzvarēja ⟨tos⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32715bf588b0ff28bbed5b6bc5ab4ed3e8ab907b1213bfc5786f0b0e6c3c0950",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/7\/21-24.1792530381176.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "skatījos"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "es"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "un rag"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "šis"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "karu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pret"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "svētajiem"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "un uzvarēja"
+    },
+    {
+      "surface": "להון",
+      "gloss": "tos"
+    }
+  ],
+  "timestamp": "2026-10-20T21:06:21.176905009Z",
+  "model": "glm-5.3"
+}

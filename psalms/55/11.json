@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valoda izlaiž saikli; latviešu valodai vajadzīgs 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "netaisnība",
+      "rationale": "און burtiski 'nenozīmība, tukšums' — ļaunums kā bezjēdzība"
+    }
+  ],
+  "translation": "Dienā un naktī viņi apiet to uz tās mūriem, un netaisnība un posts ir ⟨ir⟩ tās vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/9-12.1792527674239.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un naktī"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "viņi apiet to"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "tās mūriem"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "un netaisnība"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "un posts"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "tās vidū"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:14.240438164Z",
+  "model": "glm-5.3"
+}

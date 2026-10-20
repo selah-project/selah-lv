@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 32:14",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu",
+      "rationale": "Izrunas objekts נו pievienots kā ⟨viņu⟩, jo latviski nepieciešams."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sakārtojis",
+      "rationale": "עָרַךְ burtiski 'kārtot rindā, izkārtot' — par vārdiem."
+    }
+  ],
+  "translation": "Un viņš nav sakārtojis pret mani vārdus, un ar jūsu sacīto es ⟨viņu⟩ neatbildēšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/32\/13-16.1792529438202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "sakārtojis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "ובאמריכם",
+      "gloss": "ar jūsu sacīto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "es viņu neatbildēšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:38.203533099Z",
+  "model": "glm-5.3"
+}

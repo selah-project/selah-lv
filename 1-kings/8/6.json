@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax-alternative",
+      "subject": "דביר",
+      "rationale": "retais vārds 'debir' — svētnīcas iekšējā telpa; atstāts pēc skaņas, nevis 'orākuls'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש הקדשים",
+      "rationale": "ebreu superlatīvs 'svētums svētumu' — latviski 'svētais-svētums' ar defisi"
+    }
+  ],
+  "translation": "Un priesteri ienesa ⟨את⟩ Jahves derības arku tās vietā, uz namdebiru, uz svēto-svētumu, zem kerubu spārniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/5-8.1792520464256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Un ienesa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves derības arku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derības"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tās vietā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debiru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēto-svētumu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svēto-svētumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "spārniem"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:04.257074745Z",
+  "model": "glm-5.3"
+}

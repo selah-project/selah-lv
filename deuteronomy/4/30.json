@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 4:30",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "posts",
+      "rationale": "בצר ir 'šaurs, saspiests laiks', tēlaini 'grūtības'; 'posts' tuvākais latviešu vārds"
+    },
+    {
+      "kind": "idiom",
+      "subject": "un tevi būs atradušas",
+      "rationale": "ivi. ebreju idiomā 'lietas atrod tevi' — t.i., nāk pār tevi"
+    },
+    {
+      "kind": "addition",
+      "subject": "sava",
+      "rationale": "possessīvais vietniekvārds piekārtots 'Elohim' no priedēkļa -ך"
+    }
+  ],
+  "translation": "Kad tev būs posts, un visas šīs lietas tevi būs atradušas, pēdējās dienās tu atgriezīsies pie Jahves, sava Elohim, un klausīsi viņa balsij.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "444d8fb7d28fe5cb4aa889039bdf5287a185bf79f64c4fc9e57726e27260d62d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/4\/30-31.1792532539562.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "posts"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "un tevi būs atradušas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lietas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "pēdējās"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "tu atgriezīsies"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sava Elohim"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "un klausīsi"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "viņa balsij"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:19.563341743Z",
+  "model": "glm-5.3"
+}

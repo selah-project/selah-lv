@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבדם כבוד",
+      "rationale": "'viņu gods — gods': daudzi lasa כבודם kā 'savs gods' un כבוד kā ironiju 'tas nav gods'; ar metatezi var lasīt כבדה 'nasta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst darbības vārda; latviešu valodai vajag ⟨ir⟩ negoda nozīmei"
+    }
+  ],
+  "translation": "Ēst daudz medus nav labi, un izpētīt savu godu — ⟨ir⟩ negods.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/25\/25-28.1792528875098.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "medus"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "daudz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "un izpētīt"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "savu godu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "negods"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:15.100019320Z",
+  "model": "glm-5.3"
+}

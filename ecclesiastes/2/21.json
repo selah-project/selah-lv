@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 2:21",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל tulstīts kā 'hevel' (tvaika\/elpas tukšums), nevis 'viltus' vai 'nieks' viens"
+    },
+    {
+      "kind": "crux",
+      "subject": "וובכשרון",
+      "rationale": "כשרון: 'prasmē' pret 'veiksmē\/ievērojamos darbos' — tulkojumi dalās"
+    },
+    {
+      "kind": "elision",
+      "subject": "יתננו",
+      "rationale": "nākotne\/dažkārt 'atstās' — izvēlēta 'atdod', lai saglabātu נתן taisno nozīmi"
+    }
+  ],
+  "translation": "Jo ir cilvēks, kura pūles ⟨ir⟩ gudrībā, zināšanā un prasmē, un cilvēkam, kas nav pūlējies tajā, viņš atdod viņa daļu; arī tas ir hevel un liels ļaunums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/2\/21-24.1792529913598.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "שעמלו",
+      "gloss": "kura pūles"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "gudrībā"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "un zināšanā"
+    },
+    {
+      "surface": "ובכשרון",
+      "gloss": "un prasmē"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "un cilvēkam"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "kas nav"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pūlējies"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "יתננו",
+      "gloss": "viņš atdod"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "viņa daļu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "un ļaunums"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liels"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:33.598637702Z",
+  "model": "glm-5.3"
+}

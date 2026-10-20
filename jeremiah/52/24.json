@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "Burtiski 'kaujinieku (budžu) lielais' — Babilonas apsardzes pavēlnieks; tulkoti kā 'kaujinieku priekšnieks', nevis 'pavāru galvenais'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagūstīja",
+      "rationale": "לקח 'ņēma' šeit nozīmē 'aizveda gūstā'; sagūstīja izsaka scenārijam atbilstošo darbību."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs sliekšņa sargi",
+      "rationale": "Nosaukumu saraksts — skaitļi un amati."
+    }
+  ],
+  "translation": "Un kaujinieku priekšnieks sagūstīja ⟨את⟩ Seraju, galveno priesteri, un ⟨את⟩ Tsefaniju, otro priesteri, un ⟨את⟩ trīs sliekšņa sargus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5311180b94c362b84f8c838ccca97e3d238df78b5029224c3c372977f53dc72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/52\/21-24.1792524668139.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Un sagūstīja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "priekšnieks"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "kaujinieku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraju"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraju"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galveno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefaniju"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefaniju"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "otro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trīs sliekšņa sargus"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "sargus"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "sliekšņa"
+    }
+  ],
+  "timestamp": "2026-10-20T19:31:08.140380387Z",
+  "model": "glm-5.3"
+}

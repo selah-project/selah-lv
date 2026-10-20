@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלכם",
+      "rationale": "Malkāms\/Milkoms (amoriešu elks) pret 'to viņu ķēniņu' — tas pats līdzskanis, abas lasījumi iespējami."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המשתחוים \/ הנשבעים",
+      "rationale": "Divkārša atkārtošana: pielūdzēji un zvērētāji parādās divreiz katrs — juktu kulta apraksts, latviski saglabāta struktūra."
+    }
+  ],
+  "translation": "un ⟨את⟩ tos, kas pielūdz uz jumtiem debess pulkus, un ⟨את⟩ tos, kas pielūdz, zvēr Jahvem un zvēr Malkāmam",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/1\/5-8.1792526660249.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tos, kas pielūdz uz jumtiem"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kas pielūdz"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "jumtiem"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "pulkiem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tos, kas pielūdz un zvēr"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kas pielūdz"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "zvēr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "un zvēr"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malkāmam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:04:20.250063882Z",
+  "model": "glm-5.3"
+}

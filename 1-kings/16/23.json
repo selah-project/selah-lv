@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 16:23",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "valdīšanas gadi",
+      "rationale": "pantā skaitīti gadi: Asas 31. gads, divpadsmit gadi, Tircā sešus gadus."
+    },
+    {
+      "kind": "addition",
+      "subject": "valdīšanas",
+      "rationale": "ebreju ģenitīva konstrukcija 'Asas ķēniņa gadā' latviski paplašināta ar 'valdīšanas'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתים עשרה \/ שש",
+      "rationale": "divpadsmit un seš — latviešu saliktenis 'divpadsmit' sedz ebreju divu vārdu 'šnajim asar' struktūru."
+    }
+  ],
+  "translation": "Asas, Judas ķēniņa, valdīšanas trīsdesmit un pirmajā gadā Omrijs sāka valdīt pār Jisraēlu, divpadsmit gadus; Tircā viņš valdīja sešus gadus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8cc5385ff22f5b2d206554d84306e0437aa54fc843bccceaca78e917bf570630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/16\/22-23.1792532625996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "un pirmajā"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sāka valdīt"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrijs"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "divpadsmit (divi)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(un) desmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadus"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "valdīja"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sešus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadus"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:45.997169186Z",
+  "model": "glm-5.3"
+}

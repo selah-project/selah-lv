@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 16:41",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa teikumā ar priekšmetu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nosaukti vārdos",
+      "rationale": "נקבו burtiski 'izurbti', t.i., precīzi apzīmēti vārdiem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד paliek hesed, nevis viens vārds 'žēlastība'"
+    }
+  ],
+  "translation": "Un ar viņiem ⟨bija⟩ Hēmans un Jēdūtuns un pārējie izredzētie, kas tika nosaukti vārdos, lai pateiktos Jahve, jo mūžīgi ir Viņa hesed.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/41-43.1792531446630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "ar viņiem"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Hēmans"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "Jēdūtuns"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "pārējie"
+    },
+    {
+      "surface": "הברורים",
+      "gloss": "izredzētie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "tika nosaukti"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "vārdos"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "lai pateiktos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžīgi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Viņa hesed"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:06.630559360Z",
+  "model": "glm-5.3"
+}

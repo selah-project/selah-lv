@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Darbības vārda עלתה celms runā par Šlomo; latviešu valodai vajadzīgs subjekts"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "Milo — Ebreju valodas vārds, kas no מלא 'piepildīt': zemes pildījums, nocietinājums; daži lasa kā īpašvārdu Milo, citi kā 'valni'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אך",
+      "rationale": "'Tikai' var lasīt arī ierobežojoši-prettatatājoši: 'Bet Faraona meita...' — šķirklis starp pantiem"
+    }
+  ],
+  "translation": "Tikai Faraona meita uzkāpa no Davida pilsētas uz savu namu, ko ⟨viņš⟩ bija uzcēlis viņai; tad viņš uzcēla ⟨את⟩ Milo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0d573152a07a35435982302f8f513eb25bfe4d30db6939325cb44672740dfac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/9\/21-24.1792520580694.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "uzkāpa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "no pilsētas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "savu namu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bija uzcēlis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uzcēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:00.695860797Z",
+  "model": "glm-5.3"
+}

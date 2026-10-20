@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā ⟨šis ir vīrs⟩ nav kopulas; latviešu valoda to prasa"
+    },
+    {
+      "kind": "crux",
+      "subject": "valdīs",
+      "rationale": "יעצר burtiski 'aizturēs\/ierobežos' — YLT 'restrain' pret 'valdīs' (KJV\/JPS); izvēlēts 'valdīs' kā 'turēt rokā, valdīt'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve→Šemuēls",
+      "rationale": "Jahve tieši uzrunā Šemuēlu vārtu vidū"
+    }
+  ],
+  "translation": "Un Šemuēls ieraudzīja ⟨את⟩ Šaūlu, un Jahve atbildēja ⟨viņam⟩: Lūk, ⟨šis ir⟩ vīrs, par ko es tev teicu; šis valdīs pār manu tautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/9\/17-20.1792518967598.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Un Šemuēls"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ieraudzīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaūlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūlu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "un Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "atbildēja ⟨viņam⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par ko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "es teicu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "valdīs"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "pār manu tautu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:07.599408750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 9:1",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda izsaka “tas ir mēnesis adars” bez kopulas; latviešu valodai tā vajadzīga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cerēja",
+      "rationale": "שברו no שׂבר burtiski “gaidīja, vēroja ar cerību” — “cerēja” saglabā gaidīšanas pavedienu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונהפוך הוא",
+      "rationale": "Atslēgas vārds “viss apgriezās” — grāmatas Esteras motīvs, ko latviski nevar atkārtot"
+    }
+  ],
+  "translation": "Un divpadsmitajā mēnesī — tas ⟨ir⟩ mēnesis adars — trīspadsmitajā dienā tajā, kad ķēniņa vārds un viņa likums bija jāizpilda, tajā dienā, kad jūdu ienaidnieki cerēja valdīt pār viņiem, un apgriezās tas, ka jūdi valdīja pār tiem, kas viņus ienīda.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f384cd2dd590fe22fe16445c32c63a248d43c7da2115cd197f748073990a5650",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/1-4.1792530150249.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנים",
+      "gloss": "Un divpadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "divpadsmitajā"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesis"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "adars"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "trīspadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "trīspadsmitajā"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "bija sasniedzis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "un viņa likums"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "jāizpilda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tajā dienā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "cerēja"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ienaidnieki"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdu"
+    },
+    {
+      "surface": "לשלוט",
+      "gloss": "valdīt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pār viņiem"
+    },
+    {
+      "surface": "ונהפוך",
+      "gloss": "un apgriezās"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישלטו",
+      "gloss": "valdīja"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "pār tiem, kas viņus ienīda"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:30.250053242Z",
+  "model": "glm-5.3"
+}

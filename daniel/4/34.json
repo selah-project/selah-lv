@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "daniel 4:34",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Aramejiešu יכל 'spēj' nesatur subjektu; latviski pievienots 'Viņš'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "augstprātībā",
+      "rationale": "בגוה burtiski 'lepnībā\/augstumā'; latviešu 'augstprātība' glabā abus slāņus — augstumu un lepnību"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משבח ומרומם ומהדר",
+      "rationale": "Trīs cēlās partizipijas vienā ritmā — slavēju, cildinu, godāju — aramiešu uzskaites augstums, ko latviski cenšas noturēt trīs īsiem darbības vārdiem"
+    }
+  ],
+  "translation": "Tagad es, Nebukadnecars, slavēju un cildinu un godāju Debesu Ķēniņu, jo visi Viņa darbi ir patiesi un Viņa ceļi ir tiesa, un tos, kas staigā augstprātībā, Viņš spēj pazemot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7564fa2c0f8252ee7625f58b1cd57d6ea53fc572cef67d88e14e86db4ef7fba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/4\/33-34.1792530241318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "es"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnecars"
+    },
+    {
+      "surface": "משבח",
+      "gloss": "slavēju"
+    },
+    {
+      "surface": "ומרומם",
+      "gloss": "un cildinu"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "un godāju"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Ķēniņu"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "Debesu"
+    },
+    {
+      "surface": "די",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מעבדוהי",
+      "gloss": "Viņa darbi"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "ir patiesi"
+    },
+    {
+      "surface": "וארחתה",
+      "gloss": "un Viņa ceļi"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ir tiesa"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "un tos, kas"
+    },
+    {
+      "surface": "מהלכין",
+      "gloss": "staigā"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "augstprātībā"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "Viņš spēj"
+    },
+    {
+      "surface": "להשפלה",
+      "gloss": "pazemot"
+    }
+  ],
+  "timestamp": "2026-10-20T21:04:01.319469366Z",
+  "model": "glm-5.3"
+}

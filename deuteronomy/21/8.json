@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'Piedod' pret 'pieņem izpirkumu' (BSB) — saknes nozīme ir 'segot, izlīdzināt'; latviski izvēlēts vienkāršs 'piedod'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "piemaksātas",
+      "rationale": "ונכפר להם הדם — burtiski 'un asinis tiks segtas viņiem'; izvēlēts 'piemaksātas' kā viens vārds vienai saknei."
+    },
+    {
+      "kind": "you",
+      "subject": "lūgšana Jahvem",
+      "rationale": "Vecāko lūgums vērsts tieši pie Jahves vārdā."
+    }
+  ],
+  "translation": "Piedod savai tautai, Israēlam, kuru tu izpirki, Jahve, un nedod nevainīgu asinu tavas tautas Israēla vidū, un asinis tiks viņiem piemaksātas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/21\/5-8.1792517043795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "Piedod"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "savai tautai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israēlam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "tu izpirki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un nedod"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedod"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevainīgu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israēla"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "tiks piemaksātas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "asinis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:03.797995338Z",
+  "model": "glm-5.3"
+}

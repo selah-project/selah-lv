@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ar",
+      "rationale": "אֵת ar הכשדים ir prievārds 'ar' (H854), nevis tiešā objekta marķieris ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "apciemošu",
+      "rationale": "פקדי: 'apciemošu\/pārbaudīšu' pret JPS 'atcerēšos' — vārds nes abus toņus"
+    }
+  ],
+  "translation": "Un Bābela aizvedīs ⟨את⟩ Cidkijahu, un tur viņš būs, līdz es viņu apciemošu, saka Jahve, jo jūs karojat ⟨את⟩ ar kasdiešiem — jūs neveiksieties.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/32\/5-8.1792523995251.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Un Bābela"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "aizvedīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un tur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "viņš būs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "es apciemošu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "jūs karojat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ar"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdiešiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "veiksieties"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:55.252401153Z",
+  "model": "glm-5.3"
+}

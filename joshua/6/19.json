@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav darbības vārda 'ir'; latviešu valodai kopula vajadzīga."
+    },
+    {
+      "kind": "elision",
+      "subject": "וכלי נחשת",
+      "rationale": "Konstrukta ķēde 'un visu varas trauku' attēlota kā 'un vara un dzelzs trauki'."
+    }
+  ],
+  "translation": "Un viss sudrabs un zelts un vara un dzelzs trauki — svēti tie ⟨ir⟩ Jahvem; Jahves krātuvē tie nonāks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/6\/17-20.1792517599017.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabs"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "un zelts"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "un trauki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vara"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "un dzelzs"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "krātuvē"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nonāks"
+    }
+  ],
+  "timestamp": "2026-10-20T17:33:19.019091926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'šī [ir] mana derība'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח vienmēr kā 'ruah' — gars, vējš, elpa vienā vārdā"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ne ... ne ... ne",
+      "rationale": "Ebreju vienkāršā nolieguma 'lo' trīskāršošana atspoguļota ar latviešu 'ne' konstrukciju"
+    }
+  ],
+  "translation": "Un attiecībā uz mani — šī ⟨ir⟩ mana derība ar viņiem, saka Jahve: mana ruah, kas ⟨ir⟩ pār tevi, un mani vārdi, kurus es licis tavā mutē, neatkāpsies no tavas mutes, ne no tava pēcnācēju mutes, ne no tava pēcnācēju pēcnācēju mutes, saka Jahve, no šī laika un līdz mūžībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7f677311097f87eedf9854bb462ec43ea9db40d95103c847f3231414cf8965d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/59\/21-21.1792523012424.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "un attiecībā uz mani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šī"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mana derība"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ar viņiem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mana ruah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pār tevi"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "un mani vārdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "es licis"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "tavā mutē"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "atkāpsies"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "no tavas mutes"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "ne no tava"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pēcnācēju mutes"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "ne no tava pēcnācēju"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pēcnācēju"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pēcnācēju mutes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "no šī laika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:32.425417431Z",
+  "model": "glm-5.3"
+}

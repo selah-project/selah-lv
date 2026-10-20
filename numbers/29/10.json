@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis starp diviem vienādiem skaitļiem, ebreju valodā to nav."
+    },
+    {
+      "kind": "measurement",
+      "subject": "desmitā daļa miltu",
+      "rationale": "Upurēšanas mēri — divas desmitās daļas, sadalītas pa jēriem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרון עשרון",
+      "rationale": "Atkārtots mēra vārds — atsevišķa desmitā daļa katram jēram, atkārtojums zūd tulkojumā."
+    }
+  ],
+  "translation": "desmitā daļa miltu ⟨ir⟩ desmitā daļa miltu vienam jēram, septiņiem jēriem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb624fb4e3e7a8b30598a6537c94e85c21e7a3fc56b77b52574b5a8952ca2b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/29\/10-11.1792532521163.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "desmitā daļa miltu"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "desmitā daļa miltu"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "vienam jēram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienam"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "septiņiem"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "jēriem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:01.163570590Z",
+  "model": "glm-5.3"
+}

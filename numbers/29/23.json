@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vērši",
+      "rationale": "פרים ir jauni vērši upurim; 'vērši' saglabā dzīvnieku, ne lomu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "briedi",
+      "rationale": "אילים pēc D4 tabulas — briedi, ne 'arami'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני שנה",
+      "rationale": "burtiski 'gada dēli' — viena gada vecumā"
+    },
+    {
+      "kind": "measurement",
+      "subject": "upuru skaits",
+      "rationale": "skaitļu uzskaitījums: desmit, divi, četrpadsmit"
+    }
+  ],
+  "translation": "Un ceturtajā dienā: desmit vērši, divi briedi, četrpadsmit jēru viena gada vecumā, bez trūkuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7856df20eb07629fa9629aeb1f5966a4af26fb7009b33470bd4e132099123d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/29\/23-24.1792532526753.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Un ceturtajā dienā"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ceturtajā"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "vērši"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "briedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jēri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vecumā"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "viena gada"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četr"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "bez trūkuma"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:06.753411828Z",
+  "model": "glm-5.3"
+}

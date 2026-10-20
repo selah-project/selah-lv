@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "raug",
+      "rationale": "Ebreju valodā darbības vārda nav — tikai 'acis uz roku'; latviešu teikumam vajag darbību"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kalpi\/kalpone — kungs\/kundze",
+      "rationale": "Divi paralēli pāri vīriešu un sieviešu galā; spoguļstruktūra, kas latviešu valodā saglabāta"
+    }
+  ],
+  "translation": "Lūk, kā kalpu acis ⟨raug⟩ uz sava kunga roku, kā kalpones acis uz savas kundzes roku, tā mūsu acis ⟨raug⟩ uz Jahvi, mūsu Elohim, līdz Viņš mums apžēlosies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/123\/1-4.1792528408736.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kā ... acis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kalpu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roku"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "sava kunga"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kā ... acis"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "kalpones"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roku"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "savas kundzes"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mūsu acis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "Viņš mums apžēlosies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:28.737028014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rahamim",
+      "rationale": "רחמים — 'žēlība' ar ūdens klanu apzīmējuma ⟨žēlību⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "šakolti šakolti",
+      "rationale": "Darāt ņemšanās ar bērniem — teikuma dubultošanās: 'zaudējusi, zaudējusi' uzsvars paliek kā ebreju valodā"
+    },
+    {
+      "kind": "you",
+      "subject": "Jēkaba dēliem",
+      "rationale": "Jēkabs runā tieši pie saviem dēliem pirms došanās uz Micraimu"
+    }
+  ],
+  "translation": "Un El Šadai lai jums dod rahamim ⟨žēlību⟩ tā vīra priekšā, un viņš jums lai atlaiž ⟨את⟩ jūsu otru brāli un ⟨את⟩ Binjaminu; un es — kā es esmu zaudējusi bērnus, tā esmu zaudējusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/13-16.1792512527633.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Un El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lai dod"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rahamim ⟨žēlību⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tā vīra"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "un lai atlaiž"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu otru brāli"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsu otru brāli"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "otru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjaminu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjaminu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "esmu zaudējusi bērnus"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "esmu zaudējusi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:47.633912993Z",
+  "model": "glm-5.3"
+}

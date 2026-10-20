@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "hinneni — latviešu valodai vajag darbības vārdu"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "prievārds saplūst ar lokāmo formu 'mani'"
+    },
+    {
+      "kind": "you",
+      "subject": "mans dēls",
+      "rationale": "Eli uzrunā Šemuēlu — tieša uzruna arī bez vārda"
+    }
+  ],
+  "translation": "Un Jahve atkal atkārtoti sauca Šemuēlu; un Šemuēls cēlās un gāja pie Eli un sacīja: Lūk, es ⟨esmu⟩, jo tu mani sauci. Bet viņš sacīja: Es nesaucu ⟨tevi⟩, mans dēls; ej atpakaļ un guli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/3\/5-8.1792518735941.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "un atkal atkārtoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sauca"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atkārtoti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēlu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "un cēlās"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēls"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lūk, es ⟨esmu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu sauci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ej atpakaļ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "guli"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:15.941993001Z",
+  "model": "glm-5.3"
+}

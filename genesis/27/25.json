@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 27:25",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפשי ir tuvāk 'elpa\/dzīvība', ne dvēsele dvēseles-jēgā"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Ebreju valodā priedēklis לו pietiek; latviski vajadzīgs izteikums objekts"
+    },
+    {
+      "kind": "you",
+      "subject": "Jichaks runā ar Jākobu",
+      "rationale": "Tieša uzruna dēlam 'tuvini man' — svētības ainas centrs"
+    }
+  ],
+  "translation": "Un viņš sacīja: Tuvini man, un es ēdīšu no sava dēla medījuma, lai mana dvēsele tevi svētītu. Un viņš tuvināja ⟨to⟩ viņam, un viņš ēda; un viņš atnesa viņam vīnu, un viņš dzēra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a97725cadf952c2bd17fcdd2ff455182b6973037247b70f844b49817d724003a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/27\/25-28.1792512171329.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "הגשה",
+      "gloss": "Tuvini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "un es ēdīšu"
+    },
+    {
+      "surface": "מציד",
+      "gloss": "no medījuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mana dēla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "tevi svētītu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "Un viņš tuvināja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "un viņš ēda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un viņš atnesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vīnu"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "un viņš dzēra"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:51.329610240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ērkšķu uguns",
+      "rationale": "ērkšķu uguns uzliesmo ātri un ātri nodziest — tēls par ienaidnieku pēkšņu, bet īsu spēku."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמילם",
+      "rationale": "tāds pats kā 118:10 — 'nogriezīšu' pret 'pretosīšos'."
+    }
+  ],
+  "translation": "Tās mani ielenca kā bites, nodzisa kā ērkšķu uguns — Jahves vārdā es tos nogriezīšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/9-12.1792528264206.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "tās mani ielenca"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "kā bites"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "nodzisa"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kā uguns"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ērkšķu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vārdā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "es tos nogriezīšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:04.207924543Z",
+  "model": "glm-5.3"
+}

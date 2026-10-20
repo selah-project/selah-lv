@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש — elpa, dzīvības spēks; 'dvēsele' ir daļējs ekvivalents"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש עבדך \/ נפשי אשא",
+      "rationale": "נפש atkārtojas abās pusa — lūgums un atbilde vienā pantdalī, latviski saglabāts"
+    }
+  ],
+  "translation": "Iepriecini ⟨Sava⟩ kalpa dvēseli, jo pie Tevis, Adonai, es savu dvēseli ceļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/86\/1-4.1792528020017.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Iepriecini"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseli"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨Sava⟩ kalpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pie Tevis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "es ceļu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:00.018045952Z",
+  "model": "glm-5.3"
+}

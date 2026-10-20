@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 46:26",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפשם ir nefess — elpa\/dzīvība, nevis atsevišķs 'dvēsele'; saglabāts kā 'nefess' vienā vārdā."
+    },
+    {
+      "kind": "addition",
+      "subject": "tā",
+      "rationale": "תשכן sieviešu dzimtē norāda uz Micraimu (E ģipti), bet ebreju tekstā vietniekvārda nav — pievienots subjekts 'tā'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדם",
+      "rationale": "קדם nozīmē 'priekšpuse\/austrumi\/senatne' — 'senajās dienās' ir laika nozīme, zaudēta 'austrumu' piezīme."
+    }
+  ],
+  "translation": "Un Es iedošu viņus to rokā, kas meklē viņu nefesu, un Nebukadnecara, Bābeles ķēniņa, rokā, un viņa kalpu rokā; un pēc tam tā tiks apdzīvota kā senajās dienās, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "52968537865f52bb2dbee4c229e814c8160f54d9a83fc46a39efae1a396ee838",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/46\/26-27.1792532744930.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתים",
+      "gloss": "Un Es iedošu viņus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kas meklē"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu nefesu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un rokā"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnecara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un rokā"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "tā tiks apdzīvota"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kā dienās"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "senajās"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T21:45:44.930751252Z",
+  "model": "glm-5.3"
+}

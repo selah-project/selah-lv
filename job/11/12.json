@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבוב\/ילבב",
+      "rationale": "נבוב 'izdobts, dobumains' pret לבב 'sirds, saprāts' — izdobtais vīrs iegūst sirdi; vārdu spēle ar sakni lev, kas latviski iespējama tikai ar 'gūst sirdi'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kumeļš piedzimst par cilvēku",
+      "rationale": "Burtiski turēts: neiespējamais notikums kā ironisks salīdzinājums — tukšais vīrs kļūst gudrs tikpat maz, cik savvaļas ēzeļa kumeļš piedzimst par cilvēku"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרא",
+      "rationale": "'savvaļas ēzelis' (onagrs) — dzīvnieku tabulā עיר פרא ir 'savvaļas ēzeļa kumeļš', ne vienkārši 'ēzelis'"
+    }
+  ],
+  "translation": "Un dobumains vīrs gūst sirdi, un savvaļas ēzeļa kumeļš piedzimst par cilvēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/11\/9-12.1792529108605.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "un vīrs"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "dobumains"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "gūst sirdi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "un kumeļš"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "savvaļas ēzeļa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "piedzimst"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:08.606637349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "acumirklī",
+      "rationale": "כמעט — 'gandrīz acumirklī \/ mazāk par mirkli'; KJV 'soon', YLT burtiski 'kā mazu lietu'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "atgrieztu savu roku",
+      "rationale": "'atgriezt roku pret' var nozīmēt arī 'vērst to par labu' — atkarībā no konteksta draud vai glābj"
+    }
+  ],
+  "translation": "Tad acumirklī es pakļautu viņu ienaidniekus un pret viņu apspiedējiem atgrieztu savu roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/81\/13-16.1792527939958.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "acumirklī"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "viņu ienaidniekus"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "es pakļautu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pret"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "viņu apspiedējiem"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "atgrieztu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savu roku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:39.958727117Z",
+  "model": "glm-5.3"
+}

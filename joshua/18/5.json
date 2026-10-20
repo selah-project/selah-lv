@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septiņas daļas",
+      "rationale": "Zemes sadalījums septiņās daļās — skaitļošana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "paliks",
+      "rationale": "עמד burtiski 'stāvēs' — 'stāvēs uz savas robežas'."
+    }
+  ],
+  "translation": "Un tie sadalīs ⟨את⟩ to septiņās daļās: Jehuda paliks pie savas robežas dienvidos, un Jozefa nams paliks pie savas robežas ziemeļos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ceeb10fb4939a390aa614310b3b655bfca931bcbfad8ed3b1dee96c3f3a1a4b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/18\/5-8.1792517925804.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "sadalīs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "to (zemi)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "septiņās"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "daļās"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "paliks"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "savas robežas"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "dienvidos"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un nams"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "paliks"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "savas robežas"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ziemeļos"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:45.805159401Z",
+  "model": "glm-5.3"
+}

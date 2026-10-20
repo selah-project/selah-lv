@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kauns",
+      "rationale": "חרפה ir nicinājuma pilns apsmiekls, ne vienkārši kauns."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav saikļa."
+    }
+  ],
+  "translation": "Novērs ⟨את⟩ manu kaunu, no kura es bīstos, jo tavi spriedumi ir labi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/37-40.1792528276882.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "novērs"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "manu kaunu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no kura"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "es bīstos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tavi spriedumi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ir labi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:16.883952991Z",
+  "model": "glm-5.3"
+}

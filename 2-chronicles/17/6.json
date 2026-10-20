@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pacēlās augstu",
+      "rationale": "ויגבה parasti par lepnību; šeit pozitīvi — 'ie drošinājās' pret 'bija iedomīgs'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ašeras",
+      "rationale": "האשרים — Ašeras kulti priekšmeti; atstāts pēc skanējuma, ne 'birzis'"
+    }
+  ],
+  "translation": "Un viņa sirds pacēlās augstu Jahves ceļos, un vēl viņš noņēma ⟨את⟩ augstienes un ⟨את⟩ ašeras no Jehudas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/17\/5-8.1792531968385.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "pacēlās augstu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirds"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ceļos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "un vēl"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "noņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augstienes"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "augstienes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ašeras"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašeras"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "no Jehudas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:48.386059097Z",
+  "model": "glm-5.3"
+}

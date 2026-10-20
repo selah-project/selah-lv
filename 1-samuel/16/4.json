@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju jautājumā nav darbības vārda; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Šemuēls",
+      "rationale": "Pilsētas vecajie tieši uzrunā Šemuēlu ar jautājumu 'Vai miers?'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום",
+      "rationale": "Šalom ir gan sveiciens, gan jautājums par mieru — abas nozīmes vienā vārdā."
+    }
+  ],
+  "translation": "Un Šemuēls izdarīja ⟨את⟩, ko Jahve bija runājis, un ieradās Betlemē; un pilsētas vecajie trīcēdami gāja viņam pretī un sacīja: Vai ⟨ir⟩ miers ar tavu atnākšanu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/16\/1-4.1792519155923.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un izdarīja"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Jahve bija runājis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runājis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un ieradās"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "elemē"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "un trīcēja"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vecajie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "viņam pretī"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "miers"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ar tavu atnākšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:59:15.924649782Z",
+  "model": "glm-5.3"
+}

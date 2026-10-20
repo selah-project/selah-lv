@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "citiem dieviem",
+      "rationale": "אלהים אחרים — 'citi Elohim'; latviski 'citi dievi' ar mazo burtu kā tautu elki"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko es neesmu pavēlējis",
+      "rationale": "לא צויתי — 'ko es neesmu pavēlējis' (kalpošanu) pret 'ko esmu aizliedzis'; ebreju teksts saka tikai 'nav pavēlēts'"
+    }
+  ],
+  "translation": "un aiziet un kalpo citiem dieviem un metas ceļos viņiem, un saulei vai mēnesim vai visam debess pulkam, ko es neesmu pavēlējis —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/17\/1-4.1792516987063.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "un aiziet"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "un kalpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dieviem"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citiem"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "un metas ceļos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "un saulei"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "mēnesim"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pulkam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "esmu pavēlējis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:23:07.064794432Z",
+  "model": "glm-5.3"
+}

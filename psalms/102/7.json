@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קאת",
+      "rationale": "Vārds parādās tikai šeit un Lev 11:18 — 'pelikāns' pēc tradīcijas, no vemšanas; daži lasa 'ķīsis'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כוס",
+      "rationale": "כוס droši vien 'pūce' (naktsputns), nevis 'kauss'; forma vienāda ar 'kauss', radot vārdu spēli, kas latviski izzūd."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרבות",
+      "rationale": "חָרְבוֹת — 'izpostītās vietas, drupas'; daudzskaitlis no 'sausums', šeit apmetnes drupas."
+    }
+  ],
+  "translation": "Es līdzinos kā pelikāns tuksnesī, esmu kā pūce drupām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/102\/5-8.1792528099455.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "es līdzinos"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikāns"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "esmu"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "kā pūce"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "drupām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:19.456615104Z",
+  "model": "glm-5.3"
+}

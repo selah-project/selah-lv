@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "Burtiski 'tava nabassaite\/ķermeņa vidus'; tulkotāji svārstās starp 'naba', 'josta' un 'viduklis'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ķermeņa vidus",
+      "rationale": "שרר ir nabassaites vārds; latviski 'naba' dotu nepareizu ķermeņa daļu šajā kontekstā."
+    }
+  ],
+  "translation": "Tavs ķermeņa vidus ⟨ir⟩ kā apaļš kauss — lai netrūkst tajā sajauktā vīna; tavs vēders kviešu kaudze, apjozta ar lilijām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/7\/1-4.1792529672422.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "tavs ķermeņa vidus"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "kauss"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "apaļš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "trūkst"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "sajauktais vīns"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tavs vēders"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kaudze"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "kviešu"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "apjozta"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ar lilijām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:32.423785134Z",
+  "model": "glm-5.3"
+}

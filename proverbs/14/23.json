@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצב",
+      "rationale": "Vārds nozīmē gan 'sāpīgs darbs', gan 'māla trauks' — parasti 'pūle\/darbs', daži lasa 'māla darbs'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lūpu vārdi",
+      "rationale": "דבר שפתים burtiski 'lūpu vārds\/lieta' — tukša runāšana bez darba."
+    }
+  ],
+  "translation": "Katrā pūlā ⟨ir⟩ ieguvums, bet lūpu vārdi — tikai trūkumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/21-24.1792528659749.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "katrā"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "pūlā"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "ieguvums"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "bet vārdi"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "no lūpām"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "trūkumam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:39.750722766Z",
+  "model": "glm-5.3"
+}

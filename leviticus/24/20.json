@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "lauzums par lauzumu",
+      "rationale": "Taliona formula: trīskārš atkārtojums X תחת X rada ritmu, kas latviski saglabāts ar 'par' struktūru"
+    },
+    {
+      "kind": "crux",
+      "subject": "kā viņš nodarīja",
+      "rationale": "בו ('tanī') skaidrojams divējādi: bojājums 'cietušajā' vai atmaksājums 'darītājā'; izvēlēts otrais lasījums"
+    }
+  ],
+  "translation": "lauzums par lauzumu, acs par aci, zobs par zobu; kā viņš nodarīja bojājumu cilvēkam, tā lai viņam tiek darīts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/24\/17-20.1792515183771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "lauzums"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lauzumu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "acs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "עין",
+      "gloss": "aci"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zobs"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zobu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "viņš nodarīja"
+    },
+    {
+      "surface": "מום",
+      "gloss": "bojājumu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "lai tiek darīts"
+    },
+    {
+      "surface": "בו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:03.774534961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף יטרף",
+      "rationale": "Infinitivus absolutus atkārtojums — 'ja saplēsts tiek saplēsts'; saglabāts divkāršojums"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבאהו עד",
+      "rationale": "'viņš to atnes kā liecību' — jāatnes saplēstās daļas kā pierādījums (JPS); KJV izlaistāka 'viņš to atnes viņam'"
+    }
+  ],
+  "translation": "Ja tas tiek saplēsts, lai saplēš, viņš atnes to kā liecību; par saplēsto viņš nemaksā atlīdzību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/9-12.1792513070018.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tiekt saplēsts"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "saplēš"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "viņš atnes to"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kā liecību"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "par saplēsto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "maksā atlīdzību"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:50.019836871Z",
+  "model": "glm-5.3"
+}

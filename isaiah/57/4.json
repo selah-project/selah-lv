@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esat⟩",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'būt'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "you",
+      "subject": "Jūdājas ļaunajai daļai",
+      "rationale": "Reta jautājumu virkne ar tiešu uzrunu 'jūs'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izsmējēt",
+      "rationale": "ענג 'būt maļātam, izšķērdīgam' — te izpausme 'dzīvot baudās'; konteksts prasa izsmiekla nozīmi."
+    }
+  ],
+  "translation": "Uz ko jūs izsmējēt? Uz ko plaši verat muti, stiepjat mēli? Vai ne jūs ⟨esat⟩ pārkāpuma bērni, melu sēkla?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/1-4.1792522952040.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "jūs izsmējēt"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "plaši verat"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muti"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "stiepjat"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mēli"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "bērni"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pārkāpuma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sēkla"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:32.041329848Z",
+  "model": "glm-5.3"
+}

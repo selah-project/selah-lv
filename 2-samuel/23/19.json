@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pirmajiem⟩",
+      "rationale": "Ebreju teksts saka tikai 'līdz trijiem'; 'pirmajiem' pievienots, lai atšķirtu no otra trijnieka"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נכבד",
+      "rationale": "'vissvaretais' vai 'visievērojamākais' — כבד sakne nozīmē 'smags, godājams'"
+    }
+  ],
+  "translation": "No trijiem — vai ne vissvaretais? Un viņš kļuva viņiem par firstmani; bet līdz ⟨pirmajiem⟩ trijiem viņš nenāca.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8dd1e25a7264f829c11d73911aca7466ad434faefbf6ece08ed2caaf0ab0ca48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/23\/17-20.1792520263029.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "No"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "trijiem"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "vissvaretais"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Un viņš kļuva"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "par firstmani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bet līdz"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "trijiem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viņš nāca"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:43.030407582Z",
+  "model": "glm-5.3"
+}

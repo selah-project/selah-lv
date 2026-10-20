@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלה את פני",
+      "rationale": "'mīkstināt vaigu' — ebreju idiomāma 'pielabināties, lūgt labvēlību'; latviski paturot burtisku ainavu."
+    },
+    {
+      "kind": "addition",
+      "subject": "sevi",
+      "rationale": "ויכנע reflexivity latviešu prasa 'pazemoja sevi'."
+    }
+  ],
+  "translation": "Un kad viņam bija cietas sundzības, viņš mīkstināja ⟨את⟩ Jahves, sava Elohim, vaigu un sevi ļoti pazemoja sava tēvu Elohim priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2fc12ba1e98b77b63b3e2e8ec8968a929031a154d8bcae118f09cc232a47544",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/33\/9-12.1792532307623.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "Un kad bija cietas sundzības"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mīkstināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaigu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sava Elohim"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "un pazemoja sevi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sava tēvu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:27.624508800Z",
+  "model": "glm-5.3"
+}

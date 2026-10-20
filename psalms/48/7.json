@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חיל כיולדה",
+      "rationale": "Dzemdību saišu tēls kā spēka zaudēšanas idiom; burtiski 'sāpes kā dzemdētājai'."
+    }
+  ],
+  "translation": "Trīsas tur viņus sagrāba — sāpes kā dzemdētājai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/48\/5-8.1792527595567.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "trīsas"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "viņus sagrāba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sāpes"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kā dzemdētājai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:55.568516932Z",
+  "model": "glm-5.3"
+}

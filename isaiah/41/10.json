@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק citur iztulkots par 'taisnību', bet saskaņā ar disciplīnu saglabāts 'cedek' — viena sakne, kas nozīmē gan taisnīgumu, gan uzvaru."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשתע",
+      "rationale": "šāע — 'lūkoties apkārt (pēc palīdzības)'; tradicionāli 'izbiedēts\/apmulsis', YLT saglabā skatīšanās tēlu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף...אף",
+      "rationale": "atbalsta daļaskaitlis 'jā... jā' atkārto ebreju ritmu trīs darbībās — stiprināju, palīdzēju, balstīju."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Tieša mierinājuma uzruna kalpam Jisraēlam — 'nebīsties' formuls."
+    }
+  ],
+  "translation": "Nebīsties, jo ar tevi es esu; neskaties bailēgi apkārt, jo es esmu tavs Elohim; es tevi stiprināju, jā, tev palīdzēju, jā, tevi balstīju ar sava cedek labo roku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/41\/9-12.1792522655797.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bīsties"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "skaties bailēgi apkārt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "esi tavs Elohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "es tevi stiprināju"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jā"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "tev palīdzēju"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jā"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "tevi balstīju"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ar labo roku"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mana cedek"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:35.798661565Z",
+  "model": "glm-5.3"
+}

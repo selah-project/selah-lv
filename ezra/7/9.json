@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 7:9",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienā",
+      "rationale": "Ebreju tekstā tikai 'pirmajā [mēneša dienā]', vārds 'dienā' pievienots skaidrībai latviski."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datumi",
+      "rationale": "Pants precizē ceļojuma sākuma un beigu dienas pēc mēnešiem."
+    },
+    {
+      "kind": "idiom",
+      "subject": "labā roka",
+      "rationale": "'Labā roka' — ebreju izteiksme dievišķai labvēlībai un spēkam; saglabāta burtiski."
+    }
+  ],
+  "translation": "Jo pirmajā ⟨dienā⟩ pirmajā mēnesī — tas ir ceļa augšup pamats no Babilonas — un pirmajā ⟨dienā⟩ piektajā mēnesī viņš nonāca Jerušalaimē, saskaņā ar labo roku sava Elohim, kas bija pār viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/7\/9-12.1792530541981.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pirmajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "pamats"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ceļa augšup"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "no Babilonas"
+    },
+    {
+      "surface": "ובאחד",
+      "gloss": "un pirmajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "piektajā"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viņš nonāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "saskaņā ar roku"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sava Elohim"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "labo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:01.982079371Z",
+  "model": "glm-5.3"
+}

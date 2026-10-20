@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 42:11",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתכם אני",
+      "rationale": "šeit את ir prievārds 'ar', ne tiešā objekta marķieris — 'ar jums ⟨ir⟩ Es'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "latviešu valodai vajadzīga saikle, ebreju tekstā tās nav"
+    },
+    {
+      "kind": "you",
+      "subject": "atlikušajai Jūdas tautai",
+      "rationale": "Jahve runā tieši pie tiem, kas baidās no Bābeles ķēniņa"
+    }
+  ],
+  "translation": "Ne­bīstieties no Bābeles ķēniņa, no kā jūs baidāties; nebaidieties no viņa, saka Jahve, jo ⟨את⟩ ar jums ⟨ir⟩ Es, lai jūs izglābtu ⟨את⟩ un izrautu ⟨את⟩ jūs no viņa rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/42\/9-12.1792524256580.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bīstieties"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no kā"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "baidāties"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "baidieties"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ar jums"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "lai izglābtu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "ולהציל",
+      "gloss": "un izrautu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "no viņa rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:24:16.581353843Z",
+  "model": "glm-5.3"
+}

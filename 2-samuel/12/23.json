@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 12:23",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kad viņš ir",
+      "rationale": "Latviešu pieciešama laika palīgkonstrukcija, kas ebreju ועתה מet tikai ar 'bet tagad miris'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אליו\/אלי השיב\/ישוב",
+      "rationale": "Atgriezties\/pie viņa — pie manis spēle ar atgriešanās sakni שוב, hiasmāls: es pie viņa, viņš neatgriezīsies pie manis."
+    }
+  ],
+  "translation": "Bet tagad, kad viņš ir miris, kāpēc lai es šo gavētu? Vai es varēšu viņu vēl atgriezt? Es došos pie viņa, bet viņš neatgriezīsies pie manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d31da3a0cb420da2352f89f387e51be2c39559b0a256069cd70c9da6de2b55bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/12\/21-24.1792519859661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Bet tagad"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miris"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "צם",
+      "gloss": "gavētu"
+    },
+    {
+      "surface": "האוכל",
+      "gloss": "Vai es varēšu"
+    },
+    {
+      "surface": "להשיבו",
+      "gloss": "viņu atgriezt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "došos"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "bet viņš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:59.662578856Z",
+  "model": "glm-5.3"
+}

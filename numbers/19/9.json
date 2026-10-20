@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neda",
+      "rationale": "נדה nozīmē 'atgrūšana, aptraipījums (menstruācija)' — atstāts pēc skanējuma, jo latviešu 'šķīstīšanās ūdens' (KJV 'water of separation') zaudē sakni"
+    },
+    {
+      "kind": "crux",
+      "subject": "grēku izlīdzināšana",
+      "rationale": "חטאת šeit ir 'grēka upuris' (govs tāda tika sadedzināta) — 'tā ir grēka upuris' pret 'tā ir attīrīšana no grēka'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "glabājamo",
+      "rationale": "pelni tiek skaitīti par pastāvīgu krājumu visas tautas vajadzībām"
+    }
+  ],
+  "translation": "Un šķīsts vīrs savāks ⟨את⟩ ⟨את⟩ govs pelnus un noglabās tos ārpus nometnes šķīstā vietā; un tie būs Jisraēla dēlu saimei par glabājamo ūdens attīrīšanai no nedas — grēku izlīdzināšana tā ir.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c44c8a9a5e709ca27f25d7897e5470d1c931865206c42912270b82259465f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/19\/9-12.1792515991124.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "un savāks"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "šķīsts"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "govs pelnus"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "pelni"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "govs"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "un noglabās"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ārpus"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nometnes"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "šķīstā"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "un tie būs"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "saimei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "par glabājamo"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nedas"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grēku izlīdzināšana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:31.126275461Z",
+  "model": "glm-5.3"
+}

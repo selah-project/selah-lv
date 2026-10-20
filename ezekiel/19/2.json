@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu jautājumam vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רבתה",
+      "rationale": "Burtiski 'reizināja\/palielināja' (רבה), bet kontekstā: audzināja mazuļus."
+    },
+    {
+      "kind": "mystery",
+      "subject": "parabolā par lauveni",
+      "rationale": "Maskota alegorija — 'māte' ir Jisraēla\/zeme, mazuļi ir ķēniņi; teksts to nesaka atklāti."
+    }
+  ],
+  "translation": "Un tu sacīsi: Kas ⟨ir⟩ tava māte? Lauvene starp lauvām, tā guļas; starp jaunajām lauvām tā audzināja savus mazuļus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/19\/1-4.1792525123343.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Un tu sacīsi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tava māte"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "lauvene"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lauvām"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "tā guļas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "starp vidū"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "jaunajām lauvām"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "tā audzināja"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "savus mazuļus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:38:43.344345967Z",
+  "model": "glm-5.3"
+}

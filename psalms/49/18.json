@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨neko⟩ ... līdzi",
+      "rationale": "Ebreju tekstā nav 'neko' un 'līdzi'; pievienots, lai latviski skaidri izteiktu noliegumu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יֵרֵד אַחֲרָיו",
+      "rationale": "Burtiski 'nesosīsies pēc viņa' — ebreju priekšstats par godību, kas 'nolaižas' šeolā."
+    }
+  ],
+  "translation": "Jo savā nāvē viņš nepaņems ⟨neko⟩ no visa līdzi; viņa godība nenonāks lejup pēc viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/17-20.1792527605028.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "savā nāvē"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "paņems"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "no visa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nonāks lejup"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pēc viņa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "viņa godība"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:05.029579028Z",
+  "model": "glm-5.3"
+}

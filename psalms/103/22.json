@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "you",
+      "subject": "mana dvēsele",
+      "rationale": "Dvēsele personificēta un tieši uzrunāta — psalma 103 atkārtojošais piedziedājums"
+    },
+    {
+      "kind": "invitation",
+      "subject": "visi Viņa darbi",
+      "rationale": "Aicinājums visai radībai — psalma noslēguma izsaukums"
+    }
+  ],
+  "translation": "Sveiciet Jahvi, visi Viņa darbi, visās Viņa varas vietās. Sveic, mana dvēsele, ⟨את⟩ Jahvi!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/21-22.1792528097683.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Sveiciet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Viņa darbi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "vietās"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "Viņa varas"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Sveic"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:17.684089148Z",
+  "model": "glm-5.3"
+}

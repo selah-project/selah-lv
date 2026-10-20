@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "Sacērt liesa: 'ievārījums\/degums' (KJV 'loathsome disease', ASV 'burning') pret YLT 'drought' — lokā lietots īpaši šeit."
+    }
+  ],
+  "translation": "Jo mani gurni ir pilni iekaisuma, un nav veselības manā miesā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/5-8.1792527471004.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mani gurni"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ir pilni"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "iekaisuma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "veselības"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "manā miesā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:51.005490046Z",
+  "model": "glm-5.3"
+}

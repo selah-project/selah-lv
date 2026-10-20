@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa `ir` — derības formulējumam."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המון גוים",
+      "rationale": "`hamon gojim` — `pūlis\/daudzums tautu`; tas skan līdzīgi vārdam `Avraham` (av-ra-HAM), kas vēlāk tiek izcelts."
+    }
+  ],
+  "translation": "Es — lūk, Mana derība ⟨ir⟩ ar ⟨את⟩ tevi, un tu kļūsi par tēvu daudzām tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/17\/1-4.1792511820053.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Mana derība"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tevi",
+      "marks": "tevi"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "un tu kļūsi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "par tēvu"
+    },
+    {
+      "surface": "המון",
+      "gloss": "daudzām"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T15:57:00.054595418Z",
+  "model": "glm-5.3"
+}

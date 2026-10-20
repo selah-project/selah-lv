@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cietu sirdi",
+      "rationale": "אקשה — slavenais strīds par sirds倍的 cietēšanu: vai Jahve ciets farao sirdi pats (KJV), vai farao sirds kļūst cieta (daļa no Rabīņu lasījuma); šeit Ivritā skaidri Jahve kā darītājs."
+    }
+  ],
+  "translation": "Bet Es darīšu cietu ⟨את⟩ farao sirdi, un Es vairošu ⟨את⟩ Savas zīmes un ⟨את⟩ Savus brīnumus Micraimas zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/7\/1-4.1792512768828.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Bet Es"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "darīšu cietu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farao sirdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "un Es vairošu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savas zīmes"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "Savas zīmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Savus brīnumus"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "Savus brīnumus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:12:48.829456008Z",
+  "model": "glm-5.3"
+}

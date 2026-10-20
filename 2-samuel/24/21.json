@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 24:21",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mēris",
+      "rationale": "המגפה ir mēris sērga nozīmē, nevis sakāve"
+    },
+    {
+      "kind": "you",
+      "subject": "Aravna uz ķēniņu",
+      "rationale": "Aravna tieši uzrunā Davidu kā 'mans kungs, ķēniņš'"
+    }
+  ],
+  "translation": "Un Aravna sacīja: Kāpēc mans kungs, ķēniņš, nāk pie sava kalpa? Un Davids sacīja: Nopirkt no tevis ⟨את⟩ gumbru, lai uzceltu altāri Jahvem, un mēris tiks aizturēts no tautas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/21-24.1792520270187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nāk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sava kalpa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "nopirkt"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "no tevis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumbru"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gumbru"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "lai uzceltu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altāri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "un tiks aizturēts"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "mēris"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:50.188232722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 2:24",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa verba; latviešu teikumā vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "trešie",
+      "rationale": "שלשים šeit ir kārtas skaitlis 'trešais' (ceļa kārtība), ne skaitlis 'trīs'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaits",
+      "rationale": "Efrajima nometnes kopējā ieskaite — 108 100."
+    }
+  ],
+  "translation": "Visi ieskaitītie Efrajima nometnē ⟨ir⟩ simts tūkstoši un astoņi tūkstoši un simts pēc saviem karaspēkiem; un tie dosies ceļā trešie.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3f48c49184e2cb27940c6b84cd70606be13abf31a4b4b90629eb0f7566227eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/2\/21-24.1792515442205.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ieskaitītie"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nometnē"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "simts"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "un astoņi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "un simts"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pēc saviem karaspēkiem"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trešie"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "dosies ceļā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:57:22.208447206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedekā",
+      "rationale": "תִּצְדַּק no צדק — 'būt cedekā, taisnam', nevis teoloģiskais 'attaisnots'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Lūgšana vērsta tieši pie Jahves ar 'tev, tikai tev'."
+    }
+  ],
+  "translation": "Tev, tikai tev es esmu grēkojis un ļaunu tavās acīs esmu darījis, lai tu izrādītos cedekā savos vārdos, tu izrādītos nevainīgs savā tiesā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/5-8.1792527609128.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tikai tev"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "esmu grēkojis"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "un ļaunu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavās acīs"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "esmu darījis"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "izrādītos cedekā"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "savos vārdos"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "izrādītos nevainīgs"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "savā tiesā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:20:09.129379600Z",
+  "model": "glm-5.3"
+}

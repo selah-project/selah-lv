@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת מוראו",
+      "rationale": "Ar aleph-tav: 'un ⟨את⟩ tās (tautas) bijību' — JPS lasa 'their fear'; daži ar aleph-tav kā priekšmetu, citi ל as 'nezvērēt pie tā'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשר ... קשר",
+      "rationale": "Vārds 'sazvērestība' atkārtots divreiz — tautas kliedziens pretstatā Jahvei pavēlei to neatkārtot."
+    },
+    {
+      "kind": "you",
+      "subject": "Isajam",
+      "rationale": "Jahves pavēle pravietim (un caur viņu uzticīgajiem) — tieša uzruna."
+    }
+  ],
+  "translation": "Nesakiet: sazvērestība — par visu, ko šī tauta saka: sazvērestība; un ⟨את⟩ tās bijību nebijieties un nedrebiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/8\/9-12.1792521922324.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "sakiet"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sazvērestība"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "par visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sazvērestība"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tās bijību"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "tās bijību"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bijieties"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nedrebiet"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "nedrebiet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:45:22.325988938Z",
+  "model": "glm-5.3"
+}

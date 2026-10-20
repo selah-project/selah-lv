@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨paļaujas⟩",
+      "rationale": "ivritā teikumā nav darbības vārda — tikai 'šie ar ratiem, šie ar zirgiem'; parallele izsaka paļāvību bez vārda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה ... ואלה ... ואנחנו",
+      "rationale": "trīskāršā pretstatā uzbūve: 'tie — tie — bet mēs', korusa ritms"
+    }
+  ],
+  "translation": "Daži ⟨paļaujas⟩ uz ratiem, un daži ⟨paļaujas⟩ uz zirgiem, bet mēs atsaucam Jahves, mūsu Elohim, Vārdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/20\/5-8.1792527231853.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "daži"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "uz ratiem"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "un daži"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "uz zirgiem"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "bet mēs"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Vārdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "atsaucam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:51.861243667Z",
+  "model": "glm-5.3"
+}

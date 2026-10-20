@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "'Tu to piepildīji' — latviešu valodai vajadzīgs objekta vietniekvārds, ebreju valodā tas netiek teikts."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mūtd\/roka",
+      "rationale": "Paralēlisms: muti runā — roku piepilda; teiktais un darītais savienoti kā viens dievišķs aktīvs."
+    }
+  ],
+  "translation": "kas sargāji savam kalpam Davidam, manam tēvam, ⟨את⟩ to, ko Tu runāji viņam; un Tu runāji ar Savu muti, un ar Savu roku Tu to piepildīji kā šajā dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/21-24.1792520608799.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "sargāji"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "savam kalpam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "manam tēvam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, ko Tu runāji viņam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "runāji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "un Tu runāji"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ar Savu muti"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "un ar Savu roku"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "piepildīji"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā šajā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dienā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:28.800945953Z",
+  "model": "glm-5.3"
+}

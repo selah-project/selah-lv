@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būtu",
+      "rationale": "Latviešu valodai vajag kopulu, ebreju valodā ir jussīvs תהי"
+    },
+    {
+      "kind": "crux",
+      "subject": "pārlikumi",
+      "rationale": "פקודים: 'pārlikumi\/uzdevumi' pret 'pavēles' — psalmā 119 atkārtojas vārdu pāris ar מצות"
+    }
+  ],
+  "translation": "Lai tava roka ⟨būtu⟩ man palīdzēt, jo tavus pārlikumus es izvēlējos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/173-176.1792528315443.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "lai būtu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tava roka"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "man palīdzēt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tavus pārlikumus"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "es izvēlējos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:55.444141315Z",
+  "model": "glm-5.3"
+}

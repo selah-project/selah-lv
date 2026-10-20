@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "briedis",
+      "rationale": "איל — briedis (spēka dzīvnieks) D4 tabulā; daudzi tulkojumi liek 'rams'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "liellopu dēls \/ gada dēls",
+      "rationale": "בן בקר un בן שנתו — ebreju 'dēls no' apzīmē izcelsmi un vecumu."
+    }
+  ],
+  "translation": "Viens vērsis, liellopu dēls, viens briedis, viens jērs, gada vecuma, par augšupdedzināmo upuri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8e41c39ce1bb6f63bef988cfa188776c5a8355bf78c3bf5bb1b4642820e88df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/37-40.1792515510376.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "vērsis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "briedis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "gada vecuma"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "par augšupdedzināmo upuri"
+    }
+  ],
+  "timestamp": "2026-10-20T16:58:30.379384918Z",
+  "model": "glm-5.3"
+}

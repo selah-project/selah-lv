@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "המצא תמצא",
+      "rationale": "Infinitīva absolūta konstrukcija — 'noteikti atrasta', uzsvars."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיים",
+      "gloss": "חיים apzīmē zagļu dabūto dzīvnieku — 'dzīva' zādzība; atspēlē pret 22:1 nokauto."
+    }
+  ],
+  "translation": "Ja zādzība — no govs līdz ēzelim līdz jēram — tiek atrasta viņa rokā vēl dzīva, divkārši viņš atlīdzinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/1-4.1792513103751.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "noteikti tiek"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "atrasta"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "viņa rokā"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "zādzība"
+    },
+    {
+      "surface": "משור",
+      "gloss": "govs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ēzelis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vēl dzīva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divkārši"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlīdzinās"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:23.752490452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 15:17",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "בסוד",
+      "rationale": "sod — padome, noslēpuma sanāksme; pravietis neapsēdās smīnētāju aprindā."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעלז",
+      "rationale": "daži lasa „un es līksmoju” (pozitīvi), citi ar noliegumu no iepriekšējā לא — „un nelīksmoju”."
+    }
+  ],
+  "translation": "Es nesēdēju smīnētāju padomē un nelīksmoju — Tavas rokas dēļ viens pats es sēdēju, jo ar noraidu tu mani piepildīji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d6762db090bba57df542359c1e0d0c153868e94fbd0325d845bb26e27350f76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/15\/17-20.1792523612988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "es nesēdēju"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "padomē"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "smīnētāju"
+    },
+    {
+      "surface": "ואעלז",
+      "gloss": "un nelīksmoju"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Tavas rokas"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "viens pats"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "es sēdēju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ar noraidu"
+    },
+    {
+      "surface": "מלאתני",
+      "gloss": "tu mani piepildīji"
+    }
+  ],
+  "timestamp": "2026-10-20T19:13:32.989330197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lasītājs",
+      "rationale": "Pants sākas ar imperatīvu 'Slavējiet Jah' — aicinājums pielūgt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "muzicēt",
+      "rationale": "זמרה burtiski nozīmē 'aizskart stīgas', spēlēt instrumentu, ne tikai dziedāt."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, kura ebreju tekstā nav."
+    }
+  ],
+  "translation": "Slavējiet Jah, jo labi ir muzicēt mūsu Elohim, jo tas ir patīkami, teikšana ir derīga.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/147\/1-4.1792528503143.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Slavējiet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "muzicēt"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "patīkami"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "derīga"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teikšana"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:03.144428117Z",
+  "model": "glm-5.3"
+}

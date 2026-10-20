@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 16:21",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pretīgs",
+      "rationale": "נבאשת nozīmē 'slikti smaržot', morāli apgānīt; latviski 'kļuvis pretīgs'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבאשת את אביך",
+      "rationale": "daži tulko 'tu esi apgānis savu tēvu' aktīvi, citi 'tēvs tevi ienīst' — ebreju neradītais pagātnes times stāvoklis ir neparasts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pillagšām",
+      "rationale": "פילגש ir apzīmējums 'blakussieva'; saglabāts transkripcijā pēc ebreju skanējuma"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "ivrits izsaka 'kas ar tevi' bez darbības vārda; latviešu valodai vajag ⟨ir⟩"
+    }
+  ],
+  "translation": "Un Ahitofels sacīja Avšalomam: Ej pie sava tēva pillagšām, kuras viņš atstāja sargāt namu; un dzirdēs viss Jisraēls, ka tu esi kļuvis pretīgs savam tēvam ⟨את⟩, un stipras kļūs rokas visiem, kas ⟨ir⟩ ar tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "be7d6fa77aad8f2a2ad6d3bfb60b406509a1a75e0366bad4332e097c5e918edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/16\/21-23.1792519946291.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "pillagšām"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sava tēva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuras"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "viņš atstāja"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "sargāt"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "un dzirdēs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נבאשת",
+      "gloss": "esi kļuvis pretīgs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tēvu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "savu tēvu"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "un stipras kļūs"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rokas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:26.291678216Z",
+  "model": "glm-5.3"
+}

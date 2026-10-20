@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nepiepildīja pakaļ",
+      "rationale": "מלא אחרי — burtiski 'piepildīja pakaļ', idioms 'pilnīgi sekot'; latviski saglabāta darbības vārda forma."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sekošanu⟩",
+      "rationale": "Latviešu valodai vajadzīgs paskaidrojošs vārds, ebreju tekstā tā nav."
+    }
+  ],
+  "translation": "Un Šelomo darīja ļaunu Jahves acīs un nepiepildīja ⟨sekošanu⟩ pakaļ Jahvei, kā Dāvids, viņa tēvs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/5-8.1792520638049.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Un darīja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "acīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "piepildīja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pakaļ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kā Dāvids"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēvs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:58.050572590Z",
+  "model": "glm-5.3"
+}

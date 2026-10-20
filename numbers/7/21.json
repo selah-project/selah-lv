@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dēls",
+      "rationale": "ebreju בן בקר \/ בן שנתו — 'liellopu dēls' un 'gada dēls' ir burtiski saglabāts, lai gan latviski tas skan neparasti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "gada vecuma",
+      "rationale": "upurķērni tiek skaitīti un vecums norādīts precīzi"
+    }
+  ],
+  "translation": "viens vērsis, liellopu dēls, viens auns, viens jērs, gada vecuma dēls, par dedzināmo upuri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "48729ce438dc3a0e4cff41d6fc1eee847472db1368219fc94d2768536c0b6e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/21-24.1792515527156.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "vērsis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "איל",
+      "gloss": "auns"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jērs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "gada vecuma"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "par dedzināmo upuri"
+    }
+  ],
+  "timestamp": "2026-10-20T16:58:47.157807577Z",
+  "model": "glm-5.3"
+}

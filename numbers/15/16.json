@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "Atkal prievārds H854 'ar jums', nevis objekta marķieris H853; ⟨את⟩ saglabāts pēc projekta noteikuma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תורה אחת ... משפט אחד",
+      "rationale": "Skaitļa 'viens\/viena' atkārtojums vienā pantā par vienu likumu visiem — uzsvars uz vienotību, saglabāts."
+    }
+  ],
+  "translation": "Viena Tora un viena tiesa būs jums un svešiniekam, kas dzīvo ⟨את⟩ ar jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/15\/13-16.1792515873705.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "un tiesa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "un svešiniekam"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ar jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:04:33.708799874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa pirms נהפך."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kā uguns",
+      "rationale": "כמו אש var nozīmēt arī 'kā ar uguni' — apakšzemes izgaismo lava."
+    },
+    {
+      "kind": "mystery",
+      "subject": "zemes dzīles",
+      "rationale": "Pants apraksta slēpto pasauli zem zemes, kurā mājo uguns — dzijumu motīvs."
+    }
+  ],
+  "translation": "Zeme — no tās iziet maize, un tās apakšā ⟨ir⟩ apgriezts kā uguns.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/5-8.1792529389532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "no tās"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maize"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "un tās apakšā"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "apgriezts"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:49.532709484Z",
+  "model": "glm-5.3"
+}

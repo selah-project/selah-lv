@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 31:23",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתחטא ar nedas ūdeni",
+      "rationale": "KJV lasa 'it shall be purified'; YLT\/formas — daudzi lasa kā pasīvu 'tiks apšļakstīta'; Hithpael no חטא šeit nozīmē rituālo attīrīšanos ar nedas ūdeni (sk. 4. Mozus 19)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nedas ūdens",
+      "rationale": "נדה burtiski 'atsvešināšana, nešķīstība'; ūdens, kas gatavots no pelniem (4. Mozus 19:9) — saglabāts transkribēti, nevis kā 'šķīstības ūdens'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "uguns un ūdens tests",
+      "rationale": "priekšmets tiek klasificēts pēc izturības pret uguni — katrai lietai noteikta attīrīšanas metode"
+    }
+  ],
+  "translation": "katru lietu, kas iztur uguni, lai caurredzat caur uguni un tā tiks šķīstīta; tomēr ar nedas ūdeni tā tiks attīrīta; un visu, kas neiet ugunī, lai caurredzat caur ūdeni.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bdeb230bf365f37698b8483f76a5b9fe80377f12a847ba04af5739618fba7756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/31\/21-24.1792516322013.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "katru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lietu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "iet"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "caurredzat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "caur uguni"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "un tā tiks šķīstīta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tomēr"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ar ... ūdeni"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nedas"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "tiks attīrīta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "iet"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "caurredzat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "caur ūdeni"
+    }
+  ],
+  "timestamp": "2026-10-20T17:12:02.015196805Z",
+  "model": "glm-5.3"
+}

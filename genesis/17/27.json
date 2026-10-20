@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "par sudrabu nopirktie",
+      "rationale": "מקנת כסף — burtiski ‘sudraba ieguvums\/.acquirejums’; latviski ‘par sudrabu nopirktie’."
+    },
+    {
+      "kind": "addition",
+      "subject": "kopā",
+      "rationale": "אתו — tikai ‘ar viņu’; ‘kopā’ pievienots skaidrībai latviešu valodā."
+    }
+  ],
+  "translation": "Un visi viņa nama vīri — mājā dzimušie un par sudrabu nopirktie no ⟨את⟩ sveštautieša dēla — tika apgraizīti kopā ar ⟨את⟩ viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/17\/25-27.1792511781542.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Un visi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "viņa nama"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "dzimušie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mājā"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "un nopirktie"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "par sudrabu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩",
+      "marks": "sveštautieša dēla"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sveštautieša"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "tika apgraizīti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kopā ar ⟨את⟩ viņu",
+      "marks": "Avrahams un Jišmaēls"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:21.543500825Z",
+  "model": "glm-5.3"
+}

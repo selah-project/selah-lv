@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 16:20",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "zobgaudītāji",
+      "rationale": "מליצי no לוץ: KJV 'draugi mani zobgaudī' pret YLT 'mans iztulks ir mans draugs' — vārds nozīmē gan 'pļāpa\/zobgalis', gan 'iztulks'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lāst asaras",
+      "rationale": "דלפה burtiski 'pil\/lāsta' — par asarām secināts no konteksta, ne no vārda formas"
+    }
+  ],
+  "translation": "Mani zobgaudītāji — mani draugi; pret Eloah mana acs lāst asaras.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dec02a82d0e9b8e9a3a8401e5f3db1ceb25f5ab05b84426a587ec3daee6cf823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/16\/17-20.1792529220982.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מליצי",
+      "gloss": "mani zobgaudītāji"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mani draugi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "דלפה",
+      "gloss": "lāst asaras"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mana acs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:00.983845875Z",
+  "model": "glm-5.3"
+}

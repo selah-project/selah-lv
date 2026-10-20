@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir' — pievienots latviski"
+    },
+    {
+      "kind": "crux",
+      "subject": "tikai",
+      "rationale": "אך 'tikai' (ierobežojums) vai 'patiešām' (apstiprinājums) — tulkotāji dalās"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לברי לבב",
+      "rationale": "Alliterācija barē levav — 'tīra sirds' ar vienu un to pašu b-gemutāci vienā elpas vilcienā"
+    }
+  ],
+  "translation": "Psalms Asafam. Tikai labs Jisraēlam ⟨ir⟩ Elohim, tiem, kuriem tīra sirds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/1-4.1792527850897.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalms"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "tīra"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:10.898189007Z",
+  "model": "glm-5.3"
+}

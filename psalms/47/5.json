@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "'lepnums' vai 'majestāte\/spozme'; vārds nozīmē arī augstprātību citur Tanahā."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mūzikas pauzes zīme, atstāta kā 'Sela'."
+    }
+  ],
+  "translation": "Viņš izraugās mums ⟨את⟩ mūsu mantojumu, ⟨את⟩ Jaakova lepnumu, ko viņš mīlēja. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/47\/5-8.1792527575295.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "izraugās"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsu mantojumu"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "mūsu mantojumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova lepnumu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lepnumu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīlēja"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:35.296412843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Otrajā pusteikumā ebreju valodā nav darbības vārda; latviešu valodai vajadzīgs ⟨ir⟩, šeit dots ar pārsvaru pusi '—'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נגוע",
+      "rationale": "'נגוע' burtiski 'skarts' — ar plague vai slimību; 'mocīts' ir mīkstinājums, 'skarts ar so' ir precīzāk"
+    }
+  ],
+  "translation": "Un es biju mocīts visu dienu, un mans pārmetums — katru rītu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/13-16.1792527837990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "un es biju"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "mocīts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "un mans pārmetums"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "katru rītu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:57.991056843Z",
+  "model": "glm-5.3"
+}

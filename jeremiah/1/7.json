@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "kopa pievienota latviešu valodas vajadzībām, ebreju tekstā tās nav"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelisms כל אשר... כל אשר",
+      "rationale": "divi paraleli 'visu, ko' priekšteikumi — sūtīšana\/runāšana — hiasmveida atbilstība"
+    }
+  ],
+  "translation": "Un Jahve man sacīja: Nesaki: jauneklis es esmu, jo uz visu, uz ko es tevi sūtīšu, tu iesi, un ⟨את⟩ visu, ko es tev pavēlēšu, tu runāsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/1\/5-8.1792523217237.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "saki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es esmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "es tevi sūtīšu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu iesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu (ko es tev pavēlēšu)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "es tev pavēlēšu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu runāsi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:57.238688271Z",
+  "model": "glm-5.3"
+}

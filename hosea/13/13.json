@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חבלי יולדה",
+      "rationale": "dzemdību sāpju tēls Efraima katastrofai; atsevišķi vārdi: 'saites\/važas' un 'dzemdētāja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי עת לא יעמד",
+      "rationale": "šķiebts teikums: 'jo laikā viņš nenostāv' pret 'jo viņam nebūtu ilgi jākavējas' (KJV\/JPS)"
+    }
+  ],
+  "translation": "Dzemdētājas sāpes nāks pār viņu; viņš ir dēls, nav gudrs, jo tadā laikā viņš nenostājas bērnu dzemdību atvērumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/13\/13-15.1792526085738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "sāpes"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "dzemdētājas"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pār viņu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gudrs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tadā laikā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nenostājas"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "dzemdību atvērumā"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bērnu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:45.739411053Z",
+  "model": "glm-5.3"
+}

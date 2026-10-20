@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונדרו נדר",
+      "rationale": "Darbības vārds atkārto lietvārdu: 'solīs solījumu' — latviskais 'dos solījumu' zaudē šo dubultojumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה šeit ir upuris (auga dāvana), tāpēc saglabāts 'minha', nevis 'dāvana'."
+    }
+  ],
+  "translation": "Un Jahve taps atpažīts Micraimai, un micraimieši pazīs ⟨את⟩ Jahvi tanī dienā, un tie upurēs upuri un minhu, un dos solījumu Jahvem un to pildīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/21-24.1792522157325.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "un taps atpažīts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micraimai"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un pazīs"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimieši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "וְעָבְדוּ",
+      "gloss": "un upurēs"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuri"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "un minhu"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "un dos solījumu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "solījumu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "un to pildīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:17.325878760Z",
+  "model": "glm-5.3"
+}

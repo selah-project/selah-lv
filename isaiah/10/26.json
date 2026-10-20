@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 10:26",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būs",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda pie 'žezls pār jūru'"
+    },
+    {
+      "kind": "addition",
+      "subject": "pie",
+      "rationale": "Salīdzinājuma prievārds pie 'Micraimas' netiek izteikts ebreju tekstā — 'pēc Micraimas veida'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור עורב",
+      "rationale": "'Orebas klints' — vietas vārds un Midjānas vadoņa vārds sakrīt; abi no Gideona stāsta"
+    }
+  ],
+  "translation": "Un Jahve Cevaot modinās pret viņu pletni kā Midjāna sišanai pie Cūras Orebā, un viņa žezls ⟨būs⟩ pār jūru, un viņš to pacels ceļā kā ⟨pie⟩ Micraimas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/10\/25-28.1792522034953.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועורר",
+      "gloss": "Un modinās"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pret viņu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "pleteni"
+    },
+    {
+      "surface": "כמכת",
+      "gloss": "kā sišanai"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjāna"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "pie Cūras"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Orebā"
+    },
+    {
+      "surface": "ומטהו",
+      "gloss": "un viņa žezls"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "un viņš to pacels"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:14.954043361Z",
+  "model": "glm-5.3"
+}

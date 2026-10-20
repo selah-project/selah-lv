@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנאת\/שנאוני",
+      "rationale": "Vienas saknes נא atkārtojums — 'naida naidoti'; latviski daļēji saglabāts."
+    }
+  ],
+  "translation": "Redzi manus ienaidniekus, jo tie ir daudzi, un ar varas naidu tie mani ienīst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/17-20.1792527276621.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "manus ienaidniekus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tie ir daudzi"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "un ar ... naidu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varas"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "tie mani ienīst"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:36.622477678Z",
+  "model": "glm-5.3"
+}

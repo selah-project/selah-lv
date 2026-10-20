@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atslāba rokas",
+      "rationale": "Ebreju idioms 'rokas atslāba' nozīmē zaudēt drosmi; saglabāts burtiski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iztrūcināts",
+      "rationale": "נבהלו — 'iebijās, satrūkās', iekšēja trīcēšana."
+    }
+  ],
+  "translation": "Un Šaūla dēls dzirdēja, ka Avners miris Hevronā, un viņa rokas atslāba, un viss Jisraēls bija iztrūcināts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/4\/1-4.1792519609218.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miris"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronā"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "atslāba"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "viņa rokas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bija iztrūcināts"
+    }
+  ],
+  "timestamp": "2026-10-20T18:06:49.219144585Z",
+  "model": "glm-5.3"
+}

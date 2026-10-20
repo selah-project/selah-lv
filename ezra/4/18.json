@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 4:18",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramiešu trūkst palīgdarbības vārda; latviešu valoda to prasa."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפרש",
+      "rationale": "'Izskaidroti\/tulkoti' pret 'skaidri' — vai vēstule tika tulkota no aramiešu valodas."
+    }
+  ],
+  "translation": "Vēstuli, ko jūs mums nosūtījāt, ⟨ir⟩ skaidri nolasīta manā priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/4\/17-20.1792530561969.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשתונא",
+      "gloss": "vēstuli"
+    },
+    {
+      "surface": "די",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שלחתון",
+      "gloss": "jūs nosūtījāt"
+    },
+    {
+      "surface": "עלינא",
+      "gloss": "mums"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "skaidri"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "nolasīta"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "manā priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:09:21.970629557Z",
+  "model": "glm-5.3"
+}

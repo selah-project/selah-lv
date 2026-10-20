@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨paceļšana nāk⟩",
+      "rationale": "Darbības vārds izlaists ebreju valodā — papildināts no 5. panta konteksta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mimmotsa",
+      "rationale": "'no iznākšanas (austrumiem)' — burtiski 'izeja\/avots', attiecas uz saules iznākšanu austrumos."
+    }
+  ],
+  "translation": "Jo ne no austrumiem un ne no rietumiem, un ne no kalnu tuksneša ⟨paceļšana nāk⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/75\/5-8.1792527889250.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "no austrumiem"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "un ne no rietumiem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "no tuksneša"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:49.251606288Z",
+  "model": "glm-5.3"
+}

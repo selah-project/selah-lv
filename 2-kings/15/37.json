@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 15:37",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בימים ההם",
+      "rationale": "burtiski 'šajās dienās' — laida apzīmējums 'tanajos dienās'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להשליח",
+      "rationale": "pielietojuma pieliekamā nozīme 'sūtīt pret' — השליח šeit nozīmē sūtīt kā sodu."
+    }
+  ],
+  "translation": "Tanajos dienās Jahve sāka sūtīt pret Jūdu Recinu, Arama ķēniņu, un ⟨את⟩ Pēkahu, Remaljahu dēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "16351c9d427a17384d79dcc85c5a53ad3cb7627a5e1a4b00354fef947edc84ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/15\/37-38.1792521424910.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tajos"
+    },
+    {
+      "surface": "החל",
+      "gloss": "sāka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשליח",
+      "gloss": "sūtīt"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "pret Jūdu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pēkahu"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pēkahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:37:04.910916574Z",
+  "model": "glm-5.3"
+}

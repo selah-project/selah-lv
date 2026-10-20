@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne 'dvēsele'; atstāts kā nefess pēc skaņas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה אפר",
+      "rationale": "'ganāties pelnos' — sardzisks tēls: elku kalpotājs 'ganās' pelnos kā lopbarībā; latviski tēls saglabāts"
+    },
+    {
+      "kind": "crux",
+      "subject": "הותל",
+      "gloss": "",
+      "rationale": "התל — 'izsmiet, piekrāpt': 'piekrāptā sirdis' (YLT) pret 'apmānītā sirds' (KJV\/JPS); izvēlēta aktīvā nozīme"
+    }
+  ],
+  "translation": "Viņš ganās pelnos; piekrāptā sirds viņu novirzījusi, un viņš neizrauj ⟨את⟩ savu nefesu, un nesaka: Vai tik manā labajā rokā nav melis?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/44\/17-20.1792522699227.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Viņš ganās"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "pelnos"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "piekrāptā"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "viņu novirzījusi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "viņš izrauj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu nefesu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Vai tik ne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melis"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "manā labajā rokā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:58:19.228247858Z",
+  "model": "glm-5.3"
+}

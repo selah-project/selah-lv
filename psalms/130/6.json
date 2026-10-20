@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרים לבקר",
+      "rationale": "Atkārtojums 'sargi — rītausmai, sargi — rītausmai' veido refrēnu, kas latviski saglabāts"
+    },
+    {
+      "kind": "addition",
+      "subject": "gaida",
+      "rationale": "Darbības vārds no 130:5 pārnest uz 130:6, kur ebreju teksts to izlaiž"
+    }
+  ],
+  "translation": "Mana dvēsele ⟨gaida⟩ Adonai vairāk nekā sargi rīta ausmu — sargi rīta ausmu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/130\/5-8.1792528380215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mana dvēsele"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "rīta ausmu"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "rīta ausmu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:00.215946828Z",
+  "model": "glm-5.3"
+}

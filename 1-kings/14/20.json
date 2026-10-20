@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 14:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "ebreju valodā nav saikļa; latviešu teikumam vajag"
+    },
+    {
+      "kind": "idiom",
+      "subject": "gulās pie saviem tēviem",
+      "rationale": "וישכב עם אבתיו = eifēmisms par nāvi"
+    }
+  ],
+  "translation": "Un dienas, kad Jeroboāms valdīja, ⟨bija⟩ divdesmit divi gadi; un viņš gulās pie saviem tēviem, un Nadabs, viņa dēls, valdīja viņa vietā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/14\/17-20.1792520743823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Un dienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "valdīja"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboāms"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "un gulās"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "saviem tēviem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "un valdīja"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabs"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "viņa dēls"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "viņa vietā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:25:43.824683846Z",
+  "model": "glm-5.3"
+}

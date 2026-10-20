@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "līdz zemei",
+      "rationale": "לָאָרֶץ var piesaistīties gan 'sūtīja' (nometa zemē), gan 'apgānīja'; 'līdz zemei' pie apgānīšanas kā KJV\/ASV."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Vārda miškans",
+      "rationale": "מִשְׁכַּן שְׁמֶךָ burtiski 'Tava Vārda mājokls'; 'miškans' patur vienu vārdu vienai saknei."
+    }
+  ],
+  "translation": "Ugunī viņi sūtīja ⟨את⟩ Tavu svētnīcu, līdz zemei apgānīja Tava Vārda miškanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/74\/5-8.1792527868200.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "viņi sūtīja"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "Tavu svētnīcu",
+      "marks": "Tavu svētnīcu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "līdz zemei"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "apgānīja"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškanu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tava Vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:28.201699531Z",
+  "model": "glm-5.3"
+}

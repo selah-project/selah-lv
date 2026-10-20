@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשפך שיחי",
+      "rationale": "Burtiski 'izleju savu sarunu\/apsvērumu' — priekšstats par šķidrumu, kas izliets Dieva priekšā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפניו...לפניו",
+      "rationale": "Paralēlā atkārtošana 'Viņa priekšā' divos panta pusgriezumos"
+    }
+  ],
+  "translation": "Es izlieku savu vārdu Viņa vaiga priekšā, savu bēdu Viņa vaiga priekšā es izstāstu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/142\/1-4.1792528453618.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "es izlieku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Viņa vaiga priekšā"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "savu vārdu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "savu bēdu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Viņa vaiga priekšā"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "es izstāstu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:13.619911396Z",
+  "model": "glm-5.3"
+}

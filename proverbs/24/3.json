@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgā saikle, ebreju valodā tās nav"
+    },
+    {
+      "kind": "addition",
+      "subject": "tā",
+      "rationale": "Vietniekvārds pie otrā teikuma pusvārda, ebreju valodā izlaists"
+    }
+  ],
+  "translation": "Ar gudrību ⟨ir⟩ celta ⟨את⟩ māja, un ar saprašanu tā ⟨ir⟩ nostiprināta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/24\/1-4.1792528857657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ar gudrību"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "celta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "māja"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "un ar saprašanu"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "nostiprināta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:57.658271478Z",
+  "model": "glm-5.3"
+}

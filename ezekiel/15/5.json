@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 15:5",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "Hebrew a fortiori 'how much more\/less' rendered as 'cik vairāk' — verse is a rhetorical question in form"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrew verbless clause ויחר requires a Latvian copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למלאכה...למלאכה",
+      "rationale": "The repetition of 'darbam' frames the verse inclusio"
+    }
+  ],
+  "translation": "Redzi, kad tas bija vesels, tas netika izmantots nevienam darbam — cik vairāk, kad uguns to aprija un tas ir apdegināts, vai tas vēl tiks izmantots darbam!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/15\/5-8.1792525043365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Redzi"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kad tas bija"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "vesels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tika izmantots"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "nevienam darbam"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cik vairāk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "to aprija"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "un tas ir apdegināts"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "vai tas tiks izmantots"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "darbam"
+    }
+  ],
+  "timestamp": "2026-10-20T19:37:23.366416464Z",
+  "model": "glm-5.3"
+}

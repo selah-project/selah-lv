@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד ir slepena padomes sanāksme, uzticamu cilvēku loks — vārds par slēptu apspriedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תקום",
+      "rationale": "Burtiski \"ceļas augšā\"; plāniem latviski teikts \"notiek\", \"īstenojas\"."
+    }
+  ],
+  "translation": "Sagrauj plānus, kur nav padoma, bet ar daudziem padomdevēji tie ⟨notiks⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10d741359f5567c10274222739567fd7c55a943430016e07bfc5ad6b88103e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/21-24.1792528710188.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "sagrauj"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "plānus"
+    },
+    {
+      "surface": "באין",
+      "gloss": "kur nav"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "padoma"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "bet ar daudziem"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "padomdevēji"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "⟨notiks⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:30.189509856Z",
+  "model": "glm-5.3"
+}

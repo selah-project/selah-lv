@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tie",
+      "rationale": "Ebreju valodā subjekts nav izteikts; no konteksta — Israēls."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלו",
+      "rationale": "Paipalas saistītas ar sātiju: 'palūdza — paipalas — paēdināja', stāsta ritms."
+    }
+  ],
+  "translation": "⟨Tie⟩ lūdza, un Viņš atnesa paipalas, un ar debess maizei viņus paēdināja līdz pilnībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/37-40.1792528151450.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "lūdza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un Viņš atnesa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "paipalas"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "un maize"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debess"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "viņus paēdināja līdz pilnībai"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:11.451628939Z",
+  "model": "glm-5.3"
+}

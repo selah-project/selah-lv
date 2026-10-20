@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "augstās augšistabas",
+      "rationale": "עליות ir augstie kambari vai augšējie stāvi, no kuriem ūdens nolaižas kalniem"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda iztrūkstošo saikli 'ir' — latviešu teikumam vajag paziņojuma saikli"
+    }
+  ],
+  "translation": "Tu dzirdī ⟨ar⟩ ūdeni kalnus no Saviem augstajiem kambariem; no Tavu darbu augļiem piesātinās ⟨ir⟩ zeme.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/13-16.1792528126309.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "dzirdī ⟨ar⟩ ūdeni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnus"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "no Savām augstajām augšistabām"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "no augļiem"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Taviem darbiem"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "piesātinās"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:46.310113070Z",
+  "model": "glm-5.3"
+}

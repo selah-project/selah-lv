@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 29:12",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחגתם חג",
+      "rationale": "Darbības vārds un lietvārds no vienas saknes — 'svinēsit svētkus'; latviskā atkāpe zaudē šo vienumu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "piecpadsmitajā dienā... septītajā mēnesī... septiņas dienas",
+      "rationale": "Pants skaita dienas, mēnesi un svētku ilgumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "darba darbība",
+      "rationale": "מלאכת עבדה ir divu darba vārdu salikums; atveidots kā 'darba darbība', lai saglabātu dubulto sakni."
+    }
+  ],
+  "translation": "Un piecpadsmitajā dienā septītajā mēnesī jums būs svēts sapulces aicinājums; nekādu darba darbību nedariet, un svinēsit svētkus Jahvem septiņas dienas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bed18f9baf57fa7e8eb8242324f2981495338c69dddec9f9c34c2845089fdf7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/29\/12-12.1792532511922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Un piecpadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "piecpadsmitajā"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "aicinājums"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēts"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nekādu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "darba"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "darbību"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dariet"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "Un svinēsit"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svētkus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septiņas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:51.923758723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "Vai 'vējš pāriet' (ASV), 'viņa prāts mainās' (KJV) vai 'ruah pāriet' — saglabāts burtiskais ruah."
+    },
+    {
+      "kind": "crux",
+      "subject": "זו כחו לאלהו",
+      "rationale": "'Šis ir viņa spēks — viņa dievs' (spēks dieva vietā, BSB) pret 'pieskaita savu spēku savam dievam' (JPS)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis pievienots teikumā 'šis viņa spēks ir viņa dievs'."
+    }
+  ],
+  "translation": "Tad ⟨tas⟩ pāries kā ruah un aizies, un kļūs vainīgs — šis viņa spēks ⟨ir⟩ viņa dievs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/habakkuk\/1\/9-12.1792526514314.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tad"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "pāries"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kā ruah"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "un aizies"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "un kļūs vainīgs"
+    },
+    {
+      "surface": "זו",
+      "gloss": "šis"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "viņa spēks"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "viņa dievs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:01:54.316145918Z",
+  "model": "glm-5.3"
+}

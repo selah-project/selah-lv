@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iekaisst",
+      "rationale": "מתעבר ir no saknes עבר 'šķērsot'; burtiski 'pārslīd pāri', šeit — iejaucas un aizraujas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "satvert suņa ausis",
+      "rationale": "Ebreju salīdzinājums: iejaukšanās svešā ķildā ir kā suņa aiz ausīm turošana — bīstami un neprātīgi"
+    }
+  ],
+  "translation": "Satvert suņa ausis — tas ir tas, kas iet garām un iekaisst par ķildu, kas nav viņa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/26\/17-20.1792528873083.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "satvert"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausis"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "suņa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "iet garām"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "iekaisst"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ķildu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:13.084059826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "'Papēdis' → 'līdz galam' (KJV) pret 'katrā solī' (JPS), no pamata nozīmes 'papēdis'. "
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgšana",
+      "rationale": "Pants ir lūgums ar imperatīvu 'māci mani', vērsts pie Jahves."
+    }
+  ],
+  "translation": "Māci mani, Jahve, ⟨את⟩ tavu likumu ceļu, un es to paturēšu līdz galam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/33-36.1792528285147.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "māci mani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tavu likumu"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "un es to paturēšu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "līdz galam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:25.148214764Z",
+  "model": "glm-5.3"
+}

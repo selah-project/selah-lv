@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לצמתת",
+      "rationale": " lemma לִצְמִתֻת parādās Tanahā tikai Levītu 25:23 — 'uz iznīcību\/pavisam'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir · esat",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valoda to pieprasa, iekavās."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Jahve runā: zeme ir Mana, jūs esat ienācnieki pie Manis."
+    }
+  ],
+  "translation": "Un zemei jātop pārdotai nevis iznīcībai, jo zeme ⟨ir⟩ Mana — jo jūs ⟨esat⟩ ienācnieki un iemītnieki pie Manis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "020bb7a7f7ff70852909841de2f58f655ca18b325424cfa578f5e56300c1465e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/21-24.1792515169819.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Un zemei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nevis"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "jātop pārdotai"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "iznīcībai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ienācnieki"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "un iemītnieki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pie Manis"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:49.823280292Z",
+  "model": "glm-5.3"
+}

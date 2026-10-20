@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Latviešu valodai vajadzīga saikle, kuras ebreju teikumā 'mans El tu' nav."
+    },
+    {
+      "kind": "you",
+      "subject": "uzruna Jahvem",
+      "rationale": "Lūgums ar imperatīvu 'ieklausi' vērsts tieši Jahvem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "האזינה",
+      "rationale": "'Plecs ausi' — uzsaukums, kas pieprasa Dieva uzmanību."
+    }
+  ],
+  "translation": "Es teicu Jahvem: tu ⟨esi⟩ mans El; ieklausi, Jahve, mana lūguma balsi!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/5-8.1792528461238.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Es teicu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mans El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ieklausi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mana lūguma"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:21.239628998Z",
+  "model": "glm-5.3"
+}

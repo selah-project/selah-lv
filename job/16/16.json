@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā nav saikļa; latviešu teikumam tas vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nāves ēna",
+      "rationale": "צלמות burtiski 'nāves ēnojums' — viens vārds ebrejiski"
+    }
+  ],
+  "translation": "Mans vaigs kvēļ sarkans no raudāšanas, un uz maniem plakstiņiem ⟨ir⟩ nāves ēna.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8552818e8be4d4a25762ee92f9e05ae2d078abb39d5dd6cc265d2059fc2b2a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/16\/13-16.1792529234943.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "mans vaigs"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "kvēļ sarkans"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "raudāšanas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "maniem plakstiņiem"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "nāves ēna"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:14.944570604Z",
+  "model": "glm-5.3"
+}

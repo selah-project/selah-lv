@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeshu",
+      "rationale": "נפש nav 'dvēsele' vien — tuvāk dzīvība, elpa, dzīvības spēks; saglabāts transkripcijā"
+    },
+    {
+      "kind": "addition",
+      "subject": "tie, kas",
+      "rationale": "Ebreju panta apliecinājuma formā (jiktols) priekšmets ir izteikts divējādi — latviešu valodai vajadzīgs saistītājs vārds"
+    }
+  ],
+  "translation": "Lai kauninās un lai apjūk ⟨tie, kas⟩ meklē ⟨את⟩ manu nefešu; lai atkāpjas atpakaļ un lai tiek negodā ⟨tie, kas⟩ alkst manas nelaimes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/70\/1-4.1792527825191.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "lai kauninās"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "un lai apjūk"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tie, kas meklē"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefeshu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "lai atkāpjas"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "atpakaļ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "un lai tiek negodā"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "tie, kas alkst"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "manas nelaimes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:45.192279133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 1:7",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לקצפה",
+      "rationale": "'Lauskas \/ drumstalas' — vienīgā šī vārda parādīšanās Tanahā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשף חשפה",
+      "rationale": "Saknes atkārtojums — 'noberza kailu, kaili noberzta' — paliek tikai baltais koks; latviskā atkārtojuma struktūra daļēji zudusi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vītnes",
+      "rationale": "שריגים ir vīna celma tinējzari (vītnes); 'zari' būtu pārāk vispārīgi."
+    }
+  ],
+  "translation": "Tā nolika manu vīna celmu par postu un manu vīģes koku par lauskām; kaili noberzusi tā ir un to nometusi, tās vītnes kļuvušas baltas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/1\/5-8.1792526102201.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "nolika"
+    },
+    {
+      "surface": "גפני",
+      "gloss": "manu vīna celmu"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "par postu"
+    },
+    {
+      "surface": "ותאנתי",
+      "gloss": "un manu vīģes koku"
+    },
+    {
+      "surface": "לקצפה",
+      "gloss": "par lauskām"
+    },
+    {
+      "surface": "חשף",
+      "gloss": "noberzusi kailu"
+    },
+    {
+      "surface": "חשפה",
+      "gloss": "tā ir"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "un to nometusi"
+    },
+    {
+      "surface": "הלבינו",
+      "gloss": "kļuvušas baltas"
+    },
+    {
+      "surface": "שריגיה",
+      "gloss": "tās vītnes"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:02.202226158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבנים",
+      "rationale": "Duālis 'akmeņu pāris' — trūkstoša nozīme: dzemdību sols, podēja ripa vai divi dzemdību akmeņi; tulkotāji dalās."
+    },
+    {
+      "kind": "you",
+      "subject": "uz vecmātēm",
+      "rationale": "Ķēniņš tieši vēršas pie Šifras un Puas ar pavēli otrajā personā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וחיה",
+      "rationale": "Jussīvs 'un lai viņa dzīvo' — pavēle, nevis vienkārši apraksts 'viņa dzīvos'."
+    }
+  ],
+  "translation": "un sacīja: Kad jūs pieņemsit dzemdības ebrejietēm un redzēsit tās uz dzemdību akmeņiem — ja ⟨tas⟩ ir dēls, nogaliniet ⟨את⟩ viņu; un, ja meita, lai viņa dzīvo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/1\/13-16.1792512674872.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "pieņemsit dzemdības"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebrejietēm"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ebrejietēm"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "un redzēsit"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dzemdību akmeņiem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ir"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "nogaliniet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un, ja"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "lai dzīvo"
+    }
+  ],
+  "timestamp": "2026-10-20T16:11:14.873696481Z",
+  "model": "glm-5.3"
+}

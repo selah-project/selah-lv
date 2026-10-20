@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 10:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Saiklis, ko ebreju teksts izlaiž teikumos 'Veidotājs Viņš' un 'Jahve Cevaot Viņa Vārds'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלק",
+      "rationale": "'Daļa' — Jahve pats kā Jaakova liktenis mantojums, pretstatā elkiem kā tukšībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "שבט",
+      "rationale": "ševet nozīmē gan 'žezls\/nūja', gan 'cilts'; latviešu 'cilts' šeit mantojuma kontekstā."
+    }
+  ],
+  "translation": "Ne kā šie ir Jaakova daļa, jo visu Veidotājs ⟨ir⟩ Viņš, un Jisraēls ir Viņa mantojuma cilts; Jahve Cevaot ⟨ir⟩ Viņa Vārds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/10\/13-16.1792523442636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "kā šie"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "daļa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Veidotājs"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Viņš"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēls"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cilts"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "Viņa mantojuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Viņa Vārds"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:42.637904937Z",
+  "model": "glm-5.3"
+}

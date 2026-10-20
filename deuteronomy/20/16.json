@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elpotājs",
+      "rationale": "נשמה ir 'elpa\/pūtiens' — dzīvības elpa; 'elpotājs' saglabā elpošanas tēlu, ko daudzi tulkojumi zaudē."
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Hērema noteikums Israēlam apsolītajā zemē — otrā personas vienskaitlis."
+    }
+  ],
+  "translation": "Tikai no šo tautu pilsētām, ko Jahve, tavs Elohim, tev dod par mantojumu, tu neturēsi dzīvu nevienu elpotāju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2e1e8305639ea2c69b7e74fe3040e870c42d0f6b44b0307f94c3061bfff6c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/20\/13-16.1792517070857.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "no pilsētām"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "par mantojumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "turēsi dzīvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nevienu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "elpotāju"
+    }
+  ],
+  "timestamp": "2026-10-20T17:24:30.860492992Z",
+  "model": "glm-5.3"
+}

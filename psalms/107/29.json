@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cērt",
+      "rationale": "יקם šeit nozīmē 'celt\/pārvērst' — 'Viņš pieceļ vētru klusumā'; darbības vārds ģenitīva konstrukcijā"
+    },
+    {
+      "kind": "addition",
+      "subject": "viļņi",
+      "rationale": "'viņu viļņi' — sēklinieku forma גליהם, piederība izplūst jūras vētrā"
+    }
+  ],
+  "translation": "Viņš cērt vētru klusumā, un viļņi apklust.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/29-32.1792528190989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "Viņš cērt"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "vētru"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "klusumā"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "un apklust"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "viļņi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:50.990113794Z",
+  "model": "glm-5.3"
+}

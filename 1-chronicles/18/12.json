@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "astoņpadsmit tūkstoši",
+      "rationale": "Skaitlis nokaušanu ziņojumā — ebreju valodā pilni vārdi, latviski pilni vārdi."
+    },
+    {
+      "kind": "crux",
+      "subject": "Abšajs",
+      "rationale": "1. Laiku 18:12 saka Abšajs, 2. Samuela 8:13 par to pašu notikumu saka Davids — hronists piedēvē pavēlniekam."
+    }
+  ],
+  "translation": "Un Abšajs, Cerujas dēls, sita ⟨את⟩ Edu Sāls ielejā — astoņpadsmit tūkstoši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/18\/9-12.1792531442134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Un Abšajs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerujas"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ielejā"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Sāls"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "astoņi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:02.135412558Z",
+  "model": "glm-5.3"
+}

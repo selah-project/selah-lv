@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav saikļa 'bija' pēc 'vārds'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vārds",
+      "rationale": "Vārda uzskaitījums ciltsrakstā: sievas vārds Maaha."
+    }
+  ],
+  "translation": "Un Gibeonā dzīvoja Gibeonas tēvs Jeieli, un viņa sievas vārds ⟨bija⟩ Maaha.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "42f47319ffce1efa4d7d7b26fcbf97182090cc2706108f1562e0a23f797b0dcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/9\/33-36.1792531315341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Un Gibeonā"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tēvs"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonas"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Jeieli"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un vārds"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "viņa sievas"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:55.351900520Z",
+  "model": "glm-5.3"
+}

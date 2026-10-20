@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir' pie חנפה."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apgānīta",
+      "rationale": "חנפה ir 'piegānīta morālā nozīmē' — viens vārds, ne divi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עברו\/חלפו\/הפרו",
+      "rationale": "Trīs dažādas saknes ar līdzīgu skanējumu 'pārkāpšanas' virknējumā."
+    }
+  ],
+  "translation": "Un zeme ⟨ir⟩ apgānīta zem saviem iemītniekiem, jo tie pārkāpa Toras, pārgāja statūtu, lauza mūžīgo derību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/24\/5-8.1792522287805.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Un zeme"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "apgānīta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "saviem iemītniekiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "tie pārkāpa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "pārgāja"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statūtu"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "lauza"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:27.806002545Z",
+  "model": "glm-5.3"
+}

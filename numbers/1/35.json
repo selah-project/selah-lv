@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstā nav kopulas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaits",
+      "rationale": "Cilts karotāju skaits: divi un trīsdesmit tūkstoši un divi simti; skaitļu secība pēc ebreju valodas."
+    }
+  ],
+  "translation": "Viņu ieskaitītie Menašes ciltī ⟨bija⟩ divi un trīsdesmit tūkstoši un divi simti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f5e098990f847ae9956c71d9dc885da0003a9457309993b8676fde891e66a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/33-36.1792515294936.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "viņu ieskaitītie"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ciltī"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "divi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "un trīsdesmit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "un divi simti"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:54.937469935Z",
+  "model": "glm-5.3"
+}

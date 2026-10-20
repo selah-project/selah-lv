@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 13:28",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viņš",
+      "rationale": "והוה neskaidrs: 'viņš' (cilvēks vispār, BSB) vai 'es' (Joba, ASV); izvēlēts vispārīgais 'viņš', jo ebreju tekstā ir 3. persona."
+    },
+    {
+      "kind": "crux",
+      "subject": "רקב",
+      "rationale": "'Trūdēšana' — JPS lasa 'vīna āda' (no נוד); burtiskā nozīme ir trūdoša viela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבלה\/בלה",
+      "rationale": "Sakne בלה 'nodeldēt\/izdilt' atkārtojas ar רקב 'trūdēt' — divas vienādas sabrukšanas bildes vienā pantā."
+    }
+  ],
+  "translation": "Un ⟨viņš⟩ kā trūdošs izdilst, kā drēbe, kuru apēdussis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/13\/25-28.1792529144531.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "un ⟨viņš⟩"
+    },
+    {
+      "surface": "כרקב",
+      "gloss": "kā trūdošs"
+    },
+    {
+      "surface": "יבלה",
+      "gloss": "izdilst"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kā drēbe"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "apēd"
+    },
+    {
+      "surface": "עש",
+      "gloss": "siss"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:44.532846797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa teikumā 'viņa upuris ir šelamim upuris'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמים",
+      "rationale": "Vārds saistīts ar sakni šalom — 'veselums\/miers'; latviski paturēts kā šelamim, sakne pazūd"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bez vainas",
+      "rationale": "Upura pilnības pārbaude — dzīvnieks jābūt tamim, bez defekta"
+    }
+  ],
+  "translation": "Un ja viņa upuris ⟨ir⟩ šelamim upuris — ja no liellopiem viņš to piedāvā, vai tēviņu vai mātīti, bez vainas viņš to piedāvās Jahves priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/3\/1-4.1792513607240.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upuris"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "viņa upuris"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopiem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "piedāvā"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tēviņu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mātīti"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "viņš to piedāvās"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:47.240751264Z",
+  "model": "glm-5.3"
+}

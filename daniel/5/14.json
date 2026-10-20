@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 5:14",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramejiešu valodā saite netiek teikta; latviešu valodai tā vajadzīga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח atstāts kā ruah — gars\/vējš\/elpa vienā vārdā, netulkots vienā nozīmē"
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņš runā ar Danielu",
+      "rationale": "Tieša uzruna — ķēniņa slavas izteikums Danielam"
+    }
+  ],
+  "translation": "Un esmu dzirdējis par tevi, ka ruah no Elohim ⟨ir⟩ tevī un apgaismojums, saprāts un pārlieku liela gudrība tevī atrasta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0947c236fe496869cae8123fbf2bc3b3756d996c40d17f047f6479dff12a9e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/5\/13-16.1792530309519.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Un esmu dzirdējis"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "par tevi"
+    },
+    {
+      "surface": "די",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "no Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tevī"
+    },
+    {
+      "surface": "ונהירו",
+      "gloss": "un apgaismojums"
+    },
+    {
+      "surface": "ושכלתנו",
+      "gloss": "saprāts"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "un gudrība"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "pārlieku liela"
+    },
+    {
+      "surface": "השתכחת",
+      "gloss": "atrasta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tevī"
+    }
+  ],
+  "timestamp": "2026-10-20T21:05:09.520509899Z",
+  "model": "glm-5.3"
+}

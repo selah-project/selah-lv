@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 8:24",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצם \/ עצומים",
+      "rationale": "Sakne עצם 'kļūt varens' atgriežas vārdā עצומים 'varenie' — tas, kas dara varenu, iznīcina varenos; latviski šī sakne daļēi zudusi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svēto tautu",
+      "rationale": "עם קדשים — burtiski 'svēto tauta'; svētie ir daudzskaitlī (קדשים), tas apzīmē svēto tautu vai svētos"
+    }
+  ],
+  "translation": "Un viņa spēks kļūs varens, bet ne viņa paša spēkā; un brīnumainas lietas viņš iznīcinās, un viņam veiksies, un darīs, un iznīcinās varenos un svēto tautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "071ccf6d8b8b4c10cc7e1a86b4231a8e7de7a5dad28454caca65c7fcdd31839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/8\/21-24.1792530343791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועצם",
+      "gloss": "Un kļūs varens"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "viņa spēks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "viņa paša spēkā"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "un brīnumainas lietas"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "viņš iznīcinās"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "un viņam veiksies"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un darīs"
+    },
+    {
+      "surface": "והשחית",
+      "gloss": "un iznīcinās"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "varenos"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un tautu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svēto"
+    }
+  ],
+  "timestamp": "2026-10-20T21:05:43.792730303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אגרטלי",
+      "rationale": "Persian loanword (from lagartu), basins\/vessels, kept by sound."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחלפים",
+      "rationale": "From ḥalaf 'to glide through': sacrificial knives vs changing garments; KJV\/JPS 'knives'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrew lacks copula before the inventory list."
+    },
+    {
+      "kind": "measurement",
+      "subject": "inventory",
+      "rationale": "Verse is a numbered temple-vessel inventory: 30, 1000, 29."
+    }
+  ],
+  "translation": "Un šis ir to skaits: zelta agartālu trīsdesmit, sudraba agartālu tūkstotis, nažu (maḥalafīm) deviņpadsmit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/1\/9-11.1792530447044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "un šis ir"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "to skaits"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "agartālu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trīsdesmit"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "agartālu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudraba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstotis"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "nažu (maḥalafīm)"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "deviņi"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "un divdesmit"
+    }
+  ],
+  "timestamp": "2026-10-20T21:07:27.045202862Z",
+  "model": "glm-5.3"
+}

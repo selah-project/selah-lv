@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klaušas",
+      "rationale": "למס ir piespiedu darba dina\/klaušu nodoklis, ne vienkārši 'nasta'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הורש\/הורישו",
+      "rationale": "Darbības vārda atkārtošana ar negāciju — 'izdzīt neizdzina' — uzsver nepabeigtību; saglabāts latviski."
+    }
+  ],
+  "translation": "Un notika, kad Jisraēla dēli bija kļuvuši stipri, viņi uzlika ⟨את⟩ kenaaniešiem klaušas, bet pilnīgi izdzīt tos neizdzina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a029d06d78c7145688d42ddc78e803b9636c5fc21ca289aa415005e785e644f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/17\/13-16.1792517963896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "bija kļuvuši stipri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "uzlika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaaniešiem"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniešiem"
+    },
+    {
+      "surface": "למס",
+      "gloss": "klaušas"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "izdzīt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "izdzina"
+    }
+  ],
+  "timestamp": "2026-10-20T17:39:23.897535385Z",
+  "model": "glm-5.3"
+}

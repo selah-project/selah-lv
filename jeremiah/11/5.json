@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tekošu ar pienu un medu",
+      "rationale": "Ebreju tēlains apzīmējums — zeme 'tek' pienu un medu; saglabāts tēlaini"
+    },
+    {
+      "kind": "you",
+      "subject": "jūsu tēviem",
+      "rationale": "Runa vērsta pie Israēla kā tieša uzruna"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā to nav"
+    }
+  ],
+  "translation": "Lai nostiprinātu ⟨את⟩ zvērestu, ko es zvērēju jūsu tēviem — dot tiem zemi, tekošu ar pienu un medu, kā ⟨ir⟩ šajā dienā. Un es atbildēju un sacīju: Āmēn, Jahve!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/11\/5-8.1792523482226.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "nostiprinātu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvērestu"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "zvērestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "es zvērēju"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "jūsu tēviem"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "tekošu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pienu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "un medu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā dienā"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "un es atbildēju"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīju"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Āmēn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:11:22.227502714Z",
+  "model": "glm-5.3"
+}

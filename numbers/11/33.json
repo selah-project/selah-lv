@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 11:33",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā trūkst saikļa 'gaļa vēl [ir] starp zobiem'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואף חרה",
+      "rationale": "Burtiski 'deguns iekvēlojās' — ebreju dusmu idiomāts; latviskais lasītājs to saprot kā 'dusmas uzliesmoja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכרת",
+      "rationale": "KJV 'chewed' (sakošļāta) pret YLT 'cut off' (nogriezta); sakne כרת nozīmē 'griezt'"
+    }
+  ],
+  "translation": "Gaļa vēl ⟨bija⟩ starp viņu zobiem, vēl nebija nogriezta, kad Jahves deguns iekvēlojās pret tautu, un Jahve sita tautu ar sitienu, kas bija ļoti liels.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "24c5065908e30544df59da88b6b0a35a202fdb3946f12c8a092932ef40a690dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/11\/33-35.1792515760410.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבשר",
+      "gloss": "Gaļa"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "vēl"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "viņu zobiem"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "vēl nebija"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "nogriezta"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "un ... deguns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "iekvēlojās"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "pret tautu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "un sita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ar sitienu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "liels"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T17:02:40.411844740Z",
+  "model": "glm-5.3"
+}

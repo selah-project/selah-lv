@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 3:25",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בוש",
+      "rationale": "Idioma 'līdz kaunam' — gaidīt tik ilgi, kamēr kļūtu kauns atkal traucēt; burtiski 'līdz iebālēja'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/מפתח",
+      "rationale": "Saknes atbalss: 'viņš neatsedz (פותח)... paņēma atslēgu (המפתחח) un atvēra (ויפתחו)' — atvēršanas vārds trīskārt."
+    }
+  ],
+  "translation": "Un viņi gaidīja līdz kaunam, un redzi, viņš neatsedz augšistabas durvis; un viņi paņēma ⟨את⟩ atslēgu un atvēra, un redzi, viņu kungs nokritis uz zemes — miris.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fde9a3ea26724fc17eca2af8103b5b8a84c6e5b20c36d6ca1169f9f5241d6ffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/3\/25-28.1792518250684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחילו",
+      "gloss": "un viņi gaidīja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "kaunam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un redzi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "viņš nav"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atsedz"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "durvis"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "augšistabas"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "un viņi paņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atslēgu"
+    },
+    {
+      "surface": "המפתח",
+      "gloss": "atslēgu"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "un atvēra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un redzi"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "viņu kungs"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nokritis"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "uz zemes"
+    },
+    {
+      "surface": "מת",
+      "gloss": "miris"
+    }
+  ],
+  "timestamp": "2026-10-20T17:44:10.685553678Z",
+  "model": "glm-5.3"
+}

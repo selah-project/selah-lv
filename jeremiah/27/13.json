@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jūs",
+      "rationale": "Ebreju darbības vārda personā latviešu valodā nav vajadzīgs atsevišķs vietniekvārds, teikuma plūsmai pievienots skaidrojums"
+    },
+    {
+      "kind": "you",
+      "subject": "Cidkijam, Jūdas ķēniņam",
+      "rationale": "Vēstījums tieši Cidkijam un viņa tautai ar jautājumu"
+    }
+  ],
+  "translation": "Kāpēc jūs mirsit — tu un tauta — no zobena, badā un mērī, kā Jahve runāja pret tautu, kas nkalpos Bābeles ⟨את⟩ ķēniņam?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/27\/13-16.1792523857682.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "jūs mirsit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "un tauta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "no zobena"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "badā"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "un mērī"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "nkalpos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bābeles ķēniņam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    }
+  ],
+  "timestamp": "2026-10-20T19:17:37.683617585Z",
+  "model": "glm-5.3"
+}

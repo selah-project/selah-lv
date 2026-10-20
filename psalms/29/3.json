@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dārd",
+      "rationale": "הרעים no רעם — griezt\/kustēt spēcīgi; pārnests uz pērkona dārdu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ūdeņiem daudziem",
+      "rationale": " kosmiskā tēla daudzums — balss pār bezgalīgiem ūdeņiem."
+    }
+  ],
+  "translation": "Jahves balss ⟨ir⟩ pār ūdeņiem, goda El dārd — Jahve pār ūdeņiem daudziem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/29\/1-4.1792527293823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "goda"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dārd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudziem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:53.824478582Z",
+  "model": "glm-5.3"
+}

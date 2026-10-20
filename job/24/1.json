@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 24:1",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nav paslēpti",
+      "rationale": "נצפנו ar לא: 'laiki nav paslēpti (tiešām) no Šadai' (KJV\/ASV lasījums) pret 'Šadai nepaslēpj laikus' (BSB; לא kā retorisks noliegums)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst saikles, latviešu valodai vajag 'ir\/reds' struktūru jautājuma formā"
+    }
+  ],
+  "translation": "Kāpēc no Šadai nav paslēpti laiki, un tie, kas viņu pazīst, neredz viņa dienas?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/24\/1-4.1792529349908.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "no Šadai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "paslēpti"
+    },
+    {
+      "surface": "עתים",
+      "gloss": "laiki"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un tie, kas pazīst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "redz"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "viņa dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:09.933801135Z",
+  "model": "glm-5.3"
+}

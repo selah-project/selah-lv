@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Ebreju valodā runātājs netiek nosaukts; latviešu valodai vajag subjektu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā trūkst saikļa 'visa miesa [ir] zāle'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסדו parasti nozīmē 'žēlastība\/labestība'; šeit par miesas 'skaistumu' — vārds saglabāts ebreju skanējumā."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Sauc!",
+      "rationale": "Balss aicina pravieti saukt — pavēle ar jautājuma atbildi."
+    }
+  ],
+  "translation": "Balss saka: Sauc! Un ⟨viņš⟩ saka: Ko lai es saucu? Visa miesa ⟨ir⟩ zāle, un viss tās hesed kā lauka zieds.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/40\/5-8.1792522572548.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Balss"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Sauc"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Un saka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "es saucu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Visa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "miesa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "zāle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tās hesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kā zieds"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    }
+  ],
+  "timestamp": "2026-10-20T18:56:12.549205680Z",
+  "model": "glm-5.3"
+}

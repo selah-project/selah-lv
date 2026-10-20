@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 39:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Hebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaloms un emets",
+      "rationale": "שלום un אמת paliek transliterēti: viens nozīmē 'pilnība\/miers\/labklājība', otrs 'stabilitāte\/uzticamība'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Hizkijahu atbilde",
+      "rationale": "Vai 'jo būs miers manās dienās' ir pateicība, padevīga samierināšanās vai pašapmierinātība — tulki dalās."
+    }
+  ],
+  "translation": "Un Hizkijahu sacīja Jeshajahu: Labs ⟨ir⟩ Jahves vārds, ko tu esi runājis. Un viņš sacīja: Jo manās dienās būs šaloms un emets.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/39\/5-8.1792522547025.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshajahu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu esi runājis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloms"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "un emets"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "manās dienās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:47.026842361Z",
+  "model": "glm-5.3"
+}

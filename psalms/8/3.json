@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עז — spēks",
+      "rationale": "LXX šeit lasa 'uzslavu' (ainos), Mt 21:16 seko LXX; ebreju teksts saka 'spēku'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עוללים וינקים",
+      "rationale": "Divi tuvi vārdi — 'mazuļi un zīdaiņi'; latviešu atveidots ar diviem līdzskaņainiem izteikumiem."
+    }
+  ],
+  "translation": "No zīdaiņu un pie krūts zīdīto mutes Tu esi pamatus licis spēkam — sava pretinieku dēļ, lai apklusinātu ienaidnieku un atriebēju.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/8\/1-4.1792527039464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "No mutes"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "zīdaiņu"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "un pie krūts zīdīto"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "esi pamatus licis"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēkam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "Taviem pretiniekiem"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "lai apklusinātu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieku"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "un atriebēju"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:39.466704772Z",
+  "model": "glm-5.3"
+}

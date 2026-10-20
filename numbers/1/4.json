@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתכם",
+      "rationale": "Šeit את ir prievārds H854 'ar', nevis tiešā objekta marķieris H853; tulkots 'ar jums'."
+    },
+    {
+      "kind": "addition",
+      "subject": "katrai",
+      "rationale": "Locījuma skaidrojums pie 'vīrs no vīra katrai ciltij' — ebrejs saka tikai 'vīrs vīrs ciltij'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "viņš pats",
+      "rationale": "Emātiskais vietniekvārds הוא beis darbības vārda apzīmē personu pašu — atstāts kā 'viņš pats'."
+    }
+  ],
+  "translation": "⟨את⟩ Un ar jums būs vīrs no vīra katrai ciltij, vīrs — galva sava tēvu namam, viņš ⟨pats⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9ee181cb4023e4d0151155bc0d7cfc6c998731047997f7d528f52568279cc1ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/4-4.1792532470797.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ Un ar jums"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "būs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "no vīra"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "katrai ciltij"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namam"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sava tēvu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš ⟨pats⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T21:41:10.797608056Z",
+  "model": "glm-5.3"
+}

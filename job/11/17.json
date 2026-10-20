@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 11:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mūžs",
+      "rationale": "חלד nozīmē arī 'pasaule' un 'pārejošā dzīve'; tradīcijas šķiras starp 'dzīve būs spožāka par pusdienu' un 'kā pusdiena celsies'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mūžs",
+      "rationale": "חלד ir dzīve kā pārejošs laika sprīdis, nevis 'mūžs' kā ilgums"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tu aizlaidīsies",
+      "rationale": "עוּף var nozīmēt arī 'ģībt, paģībt tumsā' — 'un ja arī tumsa, kā rīts tas būs' (ASV\/JPS lasījums)"
+    }
+  ],
+  "translation": "Un no pusdiennes celsies tavs mūžs; tu aizlaidīsies — kā rīts tu būsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/11\/17-20.1792529138033.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצהרים",
+      "gloss": "no pusdienes"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "celsies"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "mūžs"
+    },
+    {
+      "surface": "תעפה",
+      "gloss": "aizlaidīsies"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kā rīts"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tu būsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:38.033917875Z",
+  "model": "glm-5.3"
+}

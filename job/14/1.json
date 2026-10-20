@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nemiers",
+      "rationale": "רגז ir trauksme\/nemiers dusmu nozīmē, ne tikai 'ciešanas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'pilns ar'"
+    },
+    {
+      "kind": "you",
+      "subject": "lasītājs",
+      "rationale": "Jovs runā vispārīgu patiesību, kas aicināta dialogā ar Elohim"
+    }
+  ],
+  "translation": "Cilvēks, dzimis no sievas, īsu dienu dzīvo un ⟨ir⟩ pilns nemiera.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/14\/1-4.1792529125684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "dzimis"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "no sievas"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "īsu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "pilns"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "nemiera"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:25.685378617Z",
+  "model": "glm-5.3"
+}

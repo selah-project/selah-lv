@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienā",
+      "rationale": "בתשעה לחדש — 'devītajā (dienā) mēnesī'; 'dienā' pievienota skaidrībai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחזק",
+      "rationale": "Darbības vārds 'hazaq' — kļūt stipram — par badu; personifikācija, kas saglabāta"
+    }
+  ],
+  "translation": "Devītajā dienā mēnesī bads pilsētā kļuva stiprs, un maize nebija zemes ļaudīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/1-4.1792521842773.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Devītajā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "kļuva stiprs"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bads"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maize"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ļaudīm"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:44:02.774973456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 22:24",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bez vainas",
+      "rationale": "תמים ir 'vesels, nenolaupīts, pilnīgs' — forma, ne tiesisks statuss"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעוני",
+      "rationale": "'mana ļaunuma' — kam pieder ļaunums: manis paša (KJV) vai mana ienaidnieka; datīvs sufikss atļauj abus"
+    }
+  ],
+  "translation": "Un es biju bez vainas Viņam, un es sargāju sevi no sava ļaunuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54566add259e417b2fbdeb19c6e06df6eaa390b749036b96a538d2c3b9519087",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/21-24.1792520083176.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "un es biju"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "ואשתמרה",
+      "gloss": "un es sargāju sevi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "no sava ļaunuma"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:43.177250070Z",
+  "model": "glm-5.3"
+}

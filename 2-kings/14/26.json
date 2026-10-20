@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור ועזוב",
+      "rationale": "'Ne ieslodzīts, ne atstāts' — svārstīgas nozīmes apzīmējumi (iespējams, 'vergs un brīvais' vai 'ne aplenkts, ne pamests'); turēts pie burtiskās nozīmes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצור\/עזוב\/עזר",
+      "rationale": "Divi 'efes' atkārtojumi un divu sakņu saite עזב\/עזר rada paronomāziju, kas latviski daļēji zudusi."
+    }
+  ],
+  "translation": "Jo Jahve redzēja ⟨את⟩ Jisraēla bēdu — ļoti rūgtu: ⟨un⟩ nebija ne ieslodzīta, ne atstāta, un nebija palīga Jisraēlim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/14\/25-28.1792521470937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "redzēja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bēdu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bēdu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "rūgtu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ieslodzīta"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "atstāta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "palīga"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlim"
+    }
+  ],
+  "timestamp": "2026-10-20T18:37:50.937896004Z",
+  "model": "glm-5.3"
+}

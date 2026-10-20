@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 18:27",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēseli",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne nemateriāla 'dvēsele' — bet 'dvēsele' šeit pārnes dzīvības nozīmi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעתו\/צדקה",
+      "rationale": "Sakņu pretstats ļaunība–cedek veido verses struktūru."
+    }
+  ],
+  "translation": "Un, kad ļaunais atgriežas no savas ļaunības, ko viņš darījis, un dara tiesu un cedek, viņš ⟨את⟩ savu dvēseli dzīvinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "864b819036b539c4b0bb4dee775955bcb51c34b789c2b2763f92bf39bcba4473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/18\/25-28.1792525094329.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "Un, kad atgriežas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ļaunais"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "no savas ļaunības"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darījis"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "un dara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "un cedek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu dvēseli"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu dvēseli"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "dzīvinās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:38:14.330303978Z",
+  "model": "glm-5.3"
+}

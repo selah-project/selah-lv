@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דברו\/דבר\/דבר",
+      "rationale": "Vārda sakne 'davar' atkārtojas trīs reizes: 'savu vārdu, ko Viņš runāja... kā Jahve runāja' — vārds tiek runāts un piepildīts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "piepildīja",
+      "rationale": "ויקם burtiski 'un Viņš cēlās' — par vārdu: 'celt to pastāvēšanā', t.i. izpildīt; latviskais 'piepildīja' saglabā jēgu, zaudē 'celšanās' tēlu, kas sasaucas ar 'es cēlos' (ואקם)"
+    }
+  ],
+  "translation": "Un Jahve piepildīja ⟨את⟩ savu vārdu, ko Viņš runāja, un es cēlos Dāvida, mana tēva, vietā un apsēdos uz Jisraēla troni, kā Jahve runāja, un es cēlu namu Jahves, Jisraēla Elohim, Vārdam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/8\/17-20.1792520599264.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Un piepildīja (celās)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu vārdu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "savu vārdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Viņš runāja"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "un es cēlos"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāvida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "un apsēdos"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "un es cēlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Vārdam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T18:23:19.265925882Z",
+  "model": "glm-5.3"
+}

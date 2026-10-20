@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "tieša pavēle: jūs nedariet savā zemē"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעוך וכתות ונתוק וכרות",
+      "rationale": "ivriešu tekstā netiek minēti dzimumdziedzeri; teksts saka tikai 'saspiests, sadauzīts, norauts, nogriezts'"
+    }
+  ],
+  "translation": "Un saspiestu vai sadauzītu, vai norautu, vai nogrieztu — nenestuvināt dievmetienus un savā zemē to nedariet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/22\/21-24.1792515055390.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Un saspiestu"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "vai sadauzītu"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "vai norautu"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "vai nogrieztu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nestuvināt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "savā zemē"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nedariet"
+    }
+  ],
+  "timestamp": "2026-10-20T16:50:55.393664057Z",
+  "model": "glm-5.3"
+}

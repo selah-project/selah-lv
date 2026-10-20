@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "דּ vel adpositions in lv pievienojas darbības vārdam; glosa izlaista, lai izvairītos no dubultas locījuma"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשבה",
+      "rationale": "'aizdzīts\/iefs nolaupīts' — šeit no שבה (aizvest), KJV 'driven away', JPS 'driven away', YLT 'taken captive'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין רואה",
+      "rationale": "'nav, kas redz' — burtiski 'nav redzētāja'; drukā saglabāts burtiskais skaitlis"
+    }
+  ],
+  "translation": "Ja kāds cilvēks dod savam tuvākajam ēzeli, vai vērsi, vai jēru, vai jebkādu lopu glabāt, un tas nomirst, vai tiek salauzts, vai aizdzīts, nav ⟨tāda, kas⟩ redz:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/22\/9-12.1792513070018.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kāds cilvēks"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savam tuvākajam"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ēzeli"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "vai jebkādu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lopu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "glabāt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "un tas nomirst"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "tiekt salauzts"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "aizdzīts"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "redz"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:50.019367497Z",
+  "model": "glm-5.3"
+}

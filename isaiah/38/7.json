@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'ir'; latviešu teikums to prasa."
+    },
+    {
+      "kind": "you",
+      "subject": "to Hizkija",
+      "rationale": "Zīme tiek dots tieši Hizkijam — 'tev zīme'."
+    }
+  ],
+  "translation": "Un šī ⟨ir⟩ tev zīme no ⟨את⟩ Jahves, ka Jahve izdarīs ⟨את⟩ šo vārdu, ko viņš runājis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/38\/5-8.1792522541267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "un šī"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "האות",
+      "gloss": "zīme"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "izdarīs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šo vārdu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "šo vārdu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "viņš runājis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:55:41.268337661Z",
+  "model": "glm-5.3"
+}

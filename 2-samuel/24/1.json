@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "deguna dusmas",
+      "rationale": "אף ir 'deguns\/nāsis'; dusmas ebrejiski deg nāsīs"
+    },
+    {
+      "kind": "crux",
+      "subject": "viņš sudzināja",
+      "rationale": "šeit Jahve kārdina Davidu; 1. Mozus grāmatas paralēlē (1. Laiku 21:1) kārdinātājs ir 'sātans' — slavenas pretrunas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "saskaiti",
+      "rationale": "tautas skaitīšana — uzskaites sākums"
+    }
+  ],
+  "translation": "Un atkal dega Jahves deguna dusmas pret Jisraēlu, un viņš sudzināja ⟨את⟩ Davidu pret viņiem, sacīdams: Ej, saskaiti ⟨את⟩ Jisraēlu un ⟨את⟩ Jehudu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/1-4.1792520299880.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "un atkal"
+    },
+    {
+      "surface": "אף",
+      "gloss": "deguna dusmas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "dega"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pret Jisraēlu"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "sudzināja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pret viņiem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "saskaiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jehudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-20T18:18:19.880891504Z",
+  "model": "glm-5.3"
+}

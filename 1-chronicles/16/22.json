@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svaidītos",
+      "rationale": "משיחי ir 'mani svaidītie' — mašiahs vārds šeit daudzskaitlī par ķēniņiem un praviešiem, ne par vienu Mašiahu"
+    },
+    {
+      "kind": "you",
+      "subject": "valdniekiem un tautām",
+      "rationale": "tiešs aizlieguma uzrunājums — Dieva vārdi par saviem svaidītajiem"
+    }
+  ],
+  "translation": "Neaizskait manus svaidītos, un saviem praviešiem nedarait ļaunu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/16\/21-24.1792531355071.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "aizskait"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "manus svaidītos"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "un savus praviešus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "darait ļaunu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:22:35.072341457Z",
+  "model": "glm-5.3"
+}

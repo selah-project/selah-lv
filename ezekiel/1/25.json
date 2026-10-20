@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "varenība",
+      "rationale": "רקיע ir izplests valnis\/vāks; latviešu Bībeles tradīcija 'varenība', zaudē 'kaltā plātne' bildi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Un bija balss",
+      "rationale": "arī 'Jo, kad bija balss' (JPS), ebreju ויהי šeit ievada apstākļa teikumu"
+    }
+  ],
+  "translation": "Un bija balss no augšas pār varenību, kas pār viņu galvām; kad tie stāvēja, tās nolaida savus spārnus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/1\/25-28.1792524662532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no augšas pār"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "varenību"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "viņu galvām"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "kad tie stāvēja"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "tās nolaida"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "savus spārnus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:31:02.532852478Z",
+  "model": "glm-5.3"
+}

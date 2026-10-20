@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "līdzība",
+      "rationale": "משל ir pa puse līdzība, pa puse sakāmvārds; 'pielīdzinājums' būtu otra iespēja"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mīkla",
+      "rationale": "חידה ir apzināti tumss teikums, ko dzejnieks sola atklāt"
+    }
+  ],
+  "translation": "Es pievēršu savu ausu līdzībai, ar kinoru atklāšu savu mīklu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/5-8.1792527579775.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "pievēršu"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "līdzībai"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "savu ausu"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "atklāšu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ar kinoru"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "savu mīklu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:39.775985760Z",
+  "model": "glm-5.3"
+}

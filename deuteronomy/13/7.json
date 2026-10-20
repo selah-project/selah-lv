@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 13:7",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefeš ir 'elpa\/dzīvības spēks', ne dvēsele; tulkots 'dzīvība'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda iztrūkst saiklis; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "piecu 'או' rinda",
+      "rationale": "Piecas atkārtotas izvēles daļas — brālis, dēls, meita, sieva, draugs — kāpinājums, kas latviski saglabāts ar 'vai'."
+    }
+  ],
+  "translation": "Ja tevi savaldzinās tavs brālis, tavas mātes dēls, vai tavs dēls, vai tava meita, vai tava klēpja sieva, vai tavs draugs, kas ⟨ir⟩ kā tava paša dzīvība, — slepeni, sacīdams: Iesim un kalposim citiem dieviem, kurus tu neesi pazinis — tu un tavi tēvi,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/13\/5-8.1792516984565.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "tevi savaldzinās"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavs brālis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tavas mātes"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavs dēls"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tava meita"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sieva"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "tava klēpja"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tavs draugs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "kā tava paša dzīvība"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "slepeni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Iesim"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "un kalposim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dieviem"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "citiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "esi pazinis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "un tavi tēvi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:23:04.567485679Z",
+  "model": "glm-5.3"
+}

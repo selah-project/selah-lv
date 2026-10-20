@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סכסכתי",
+      "rationale": "sacelt vienus pret citiem; no saknes 'aizsegt\/aizžņaugt' — tulkoti 'saku', 'iezēģelēju'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים במצרים",
+      "rationale": "atkārtojuma gradients: tauta — brālis — tuvākais — pilsēta — valsts"
+    }
+  ],
+  "translation": "Un Es sakūdīšu Micraimu pret Micraimu, un tie cīnīsies — ikviens pret savu brāli un ikviens pret savu tuvāko, pilsēta pret pilsētu, valsts pret valsti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/1-4.1792522187370.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Un Es sakūdīšu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "pret Micraimu"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "un tie cīnīsies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "pret savu brāli"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un ikviens"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "pret savu tuvāko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsēta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pret pilsētu"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "valsts"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "pret valsti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:47.371806190Z",
+  "model": "glm-5.3"
+}

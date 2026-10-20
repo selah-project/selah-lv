@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 30:25",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rokas",
+      "rationale": "זרועות burtiski 'delas' kā izstieptas — spēka attēls, ne tikai fiziska roka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וידעו כי אני יהוה",
+      "rationale": "atzīšanas formulums atkārtojas arī 30:26 — Ecehiēla grāmatas strukturālā atslēga"
+    },
+    {
+      "kind": "addition",
+      "subject": "es esmu",
+      "rationale": "Ebreju tekstā nav kopulas; latviešu valoda to prasa"
+    }
+  ],
+  "translation": "Un es stiprināšu ⟨את⟩ Babilonas ķēniņa rokas, bet Paraoh rokas kritīs, un viņi zinās, ka es esmu Jahve, kad iedošu savu zobenu Babilonas ķēniņa rokā, un viņš to izstieps pār Micraimas zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "27caabe66ff6f2db3b6c6a3a09476166564ea7be195c6696e16d14dc3d70a7f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/30\/25-26.1792525322259.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחזקתי",
+      "gloss": "Un es stiprināšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rokas"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "rokas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "bet Paraoh rokas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "kritīs"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "un viņi zinās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "kad iedošu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "savu zobenu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "un viņš izstieps"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ to"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:02.260143398Z",
+  "model": "glm-5.3"
+}

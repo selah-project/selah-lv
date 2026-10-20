@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישר",
+      "rationale": "״Un viņus zāģēja״ — 2. Samuela 12:31 paralelteksts ļauj lasīt arī 'viņš lika viņiem strādāt ar zāģi' (māsdarbs); 1. Laiku 20:3 formā tomēr skaidri darbības vārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חריצי הברזל",
+      "rationale": "Burtiski 'dzelzs iegriezumi' — kulšanas slēpas ar dzelzs zobiem; dots 'dzelzs griezēji'."
+    }
+  ],
+  "translation": "Un ⟨את⟩ tautu, kas tajā ⟨bija⟩, viņš izveda un zāģēja ar zāģi un ar dzelzs griezējiem un ar zāģiem; un tāpat darīja Davids visās Amona dēlu pilsētās. Un Davids un visa tauta atgriezās Jerušalaimē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "166339903ef4d3dca5fe8bf8701053c1c4e8b4e368a6010bea850e3aea65c5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/20\/1-4.1792531492844.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "izveda"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "zāģēja"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "ar zāģi"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "ar griezējiem"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "dzelzs"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "ar zāģiem"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "un tāpat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "atgriezās"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimē"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:52.846477222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saite; ivrita הוא ir apzīmētājs, ne darbības vārds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefēš",
+      "rationale": "'Dvēsele' vietā nefēš — šeit: dzīvība, kas asinīs."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדם הוא הנפש",
+      "rationale": "'Asinis ir dzīvība\/nefēš' — tradicionāli 'dvēsele'; nefēš nozīmē elpojošu būtību, dzīvības spēku."
+    }
+  ],
+  "translation": "Tikai paliec stingrs, lai neēstu asinis, jo asinis ⟨ir⟩ nefēš, un tu nedrīksti ēst nefēš kopā ar gaļu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/12\/21-24.1792516909892.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "paliec stingrs"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ēstu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefēš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nedrīksti"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefēš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "gaļu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:21:49.895934585Z",
+  "model": "glm-5.3"
+}

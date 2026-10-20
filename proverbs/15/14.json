@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "פני",
+      "rationale": "Vairums tulkojumu lasa 'mute' (פה), bet teksts saka 'seja' — ganās ar muļķību kā avots ar zāli."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעה",
+      "rationale": "Darbības vārds no 'ganīt aitas' lietots par muļķu barošanos ar ārumu — gana metafora."
+    }
+  ],
+  "translation": "Saprātīga sirds meklē zināšanu, bet muļķu seja ganās ar ārumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/13-16.1792528722287.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "saprātīga"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "meklē"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zināšanu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "bet seja"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "muļķu"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ganās"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ar ārumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:42.288638805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā teikumā 'un filistieša galva viņa rokā' nav darbības vārda; latviešu valodai vajadzīgs saiklis"
+    }
+  ],
+  "translation": "Un, kad Davids atgriezās no ⟨את⟩ filistieša nogalināšanas, Avners viņu paņēma un atveda viņu Saula priekšā, un filistieša galva ⟨bija⟩ viņa rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/17\/57-58.1792519197063.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "kad atgriezās"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "nogalināšanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistieša"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistieša"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "paņēma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu (Davidu)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "atveda viņu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "un galva"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistieša"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "viņa rokā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:59:57.064485513Z",
+  "model": "glm-5.3"
+}

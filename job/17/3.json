@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמך",
+      "rationale": "'ķīla pie tevis' (Jahve kā galvinieks) vai 'ķīla manis vietā pie tevis' — tulkojumi dalās"
+    },
+    {
+      "kind": "addition",
+      "subject": "lūdzu",
+      "rationale": "נא daļēji iekavots, jo latviešu 'lūdzu' pārsniedz ebreju daļiņu"
+    }
+  ],
+  "translation": "Uzliec ⟨lūdzu⟩ ķīlu pie manis — kas ir tas, kas spiedīs roku ar manu roku?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/17\/1-4.1792529243803.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "uzliec"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzu"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "ķīlu pie manis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar tevi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "ar manu roku"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "spiedīs roku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:23.804529747Z",
+  "model": "glm-5.3"
+}

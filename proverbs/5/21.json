@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'ir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפלס",
+      "rationale": "'izlīdzina\/izsvērt' — svērt ceļus prātā pret izlīdzināt ceļu; YLT 'pondering', JPS 'maketh even'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Darbības subjekts (Jahve) pievienots latviešu valodā"
+    }
+  ],
+  "translation": "Jo Jahves acu priekšā ir ⟨ir⟩ cilvēka ceļi, un visas viņa takas Viņš izlīdzina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/21-23.1792528538947.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ceļi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visas"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "viņa takas"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "izlīdzina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:38.948501133Z",
+  "model": "glm-5.3"
+}

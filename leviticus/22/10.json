@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תושב",
+      "rationale": "'Pārvaldītājs, iemītnieks' — pastāvīgs iemītnieks, kas nav priesterim piederošs; KJV 'sojourner', JPS 'tenant'"
+    }
+  ],
+  "translation": "Un neviens svešais neēdīs svētumu; priesterī iebraucējs un algotnis neēdīs svētuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/22\/9-12.1792515053411.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Un neviens"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ēdīs"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētumu"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "piebraucējs"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "un algotnis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ēdīs"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svētuma"
+    }
+  ],
+  "timestamp": "2026-10-20T16:50:53.414682181Z",
+  "model": "glm-5.3"
+}

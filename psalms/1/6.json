@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "saka Jahve: 'pazīst' pret 'uzrauga \/ gādā par' (JPS un BSB lasa aktīvu aizsardzības nozīmi)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך … דרך",
+      "rationale": "tā paša vārda 'ceļš' atkārtojums abās pusēs pretnostatījumā."
+    }
+  ],
+  "translation": "Jo Jahve pazīst taisno ceļu, bet ļaundaru ceļš ies bojā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/1\/5-6.1792526996555.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pazīst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "taiso"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "bet ceļš"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ļaundaru"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ies bojā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:56.557044914Z",
+  "model": "glm-5.3"
+}

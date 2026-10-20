@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "48",
+      "rationale": "Kopējais pilsētu skaits levītiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškanus",
+      "rationale": "מגרשיהן — atklātā zeme ap pilsētām; \"miškans\" pēc D2."
+    }
+  ],
+  "translation": "Visas pilsētas, ko dosiet levītiem, — četrdesmit un astoņas pilsētas: ⟨את⟩ tās un ⟨את⟩ to miškanus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/35\/5-8.1792516468243.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dosiet"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levītiem"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "četrdesmit"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "un astoņas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ tās",
+      "marks": "četrdesmit un astoņas pilsētas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "to miškanus"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "to miškanus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:14:28.246450599Z",
+  "model": "glm-5.3"
+}

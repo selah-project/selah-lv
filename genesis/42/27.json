@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'tas ir maiss mutē'; latviešu valodai vajag ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maisa mute",
+      "rationale": "בְּפִי אַמְתַּחְתּוֹ — maisa 'mutes' (atvēruma) metafora saglabāta burtiski."
+    }
+  ],
+  "translation": "Un viens no viņiem atvēra ⟨את⟩ savu maisu, lai dotu barību savam ēzelim naktsmājās, un viņš ieraudzīja ⟨את⟩ savu sudrabu, un lūk, tas ⟨ir⟩ viņa maisa mutē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b2c2532268a728f4de13a3d490d068f1393487141b4259f70dc2c85d84a3278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/42\/25-28.1792512506377.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "atvēra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu maisu"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "savu maisu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dot"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "barību"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "savam ēzelim"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "naktsmājās"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ieraudzīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sudrabu"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "savu sudrabu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mutē"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "viņa maisa"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:26.378480467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cilvēka acs",
+      "rationale": "עין אדם: 'cilvēka acs pieder Jahvei' ( ACSYLT) pret 'acs vērsta uz Jahvi' (KJV\/BSB); ebreju teksts stāv ģenitīvā bez paziņotas virziena."
+    },
+    {
+      "kind": "hapax",
+      "subject": "Hadraka",
+      "rationale": "חדרך parādās Tanahā tikai šeit un 9:2 kontekstā; vieta vai sīriešu dievība."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir \/ acia",
+      "rationale": "Ebreju tekstā nav izteikta darbības vārda; latviešu locījumam nepieciešams ⟨ir⟩ un piederējuma skaidrojums ⟨acija⟩."
+    }
+  ],
+  "translation": "Nopelns — Jahves vārds Hadrakas zemē, un Damaska ⟨ir⟩ tā atdusas vieta; jo Jahvei ⟨ir⟩ cilvēka acs un visu Jisraēla ciltiju ⟨acija⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/1-4.1792526819642.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "nopelns"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "Hadrakas"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "un Damaska"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "tā atdusas vieta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "עין",
+      "gloss": "acs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ciltiju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:59.643735223Z",
+  "model": "glm-5.3"
+}

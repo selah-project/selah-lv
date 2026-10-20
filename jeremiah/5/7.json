@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתגדדו",
+      "rationale": "KJV 'pulcējās bariem' (no גדד 'bars') pret 'dūra sevi' (no גדד 'griezt') — tas pats saknes pāris kā 1. Ķēniņu 18:28"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשבע",
+      "rationale": "שבע 'paēdināju līdz pilnībai' (KJV) pret שבע 'zvērēju viņiem' — saknes tuvas, konteksts atļauj abas"
+    }
+  ],
+  "translation": "Kā lai es tev to piedodu? Tavi dēli mani atstājuši un zvērējuši pie tā, kas nav Elohim; un, kad biju viņus paēdinājis ⟨את⟩, tie laulību pārkāpa un netikļu namā sanāca bariem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/5-8.1792523312518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "lai es piedodu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "Tavi dēli"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "mani atstājuši"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "un zvērējuši"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "pie tā, kas nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "un biju paēdinājis"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "dēli"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "tie laulību pārkāpa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "un netikļu namā"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "netikles"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "sanāca bariem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:32.519196265Z",
+  "model": "glm-5.3"
+}

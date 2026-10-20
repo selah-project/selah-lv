@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יסגר על איש",
+      "rationale": "Burtiski 'aizver pāri cilvēkam' — idiomatisks 'ieslēdz cilvēku'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "Pavārds pievienots latviešu valodas pseido-pavārdiem bez subjekta."
+    }
+  ],
+  "translation": "Redzi, viņš nolauž, un tas netiek uzbūvēts atkal; viņš ieslēdz cilvēku, un ⟨tas⟩ netiek atvērts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/12\/13-16.1792529114386.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "redzi"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "nolauž"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un netiek"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "uzbūvēts"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "ieslēdz"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un netiek"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "atvērts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:14.387265464Z",
+  "model": "glm-5.3"
+}

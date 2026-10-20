@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esmu⟩",
+      "rationale": "הנני — divi vārdi ivritā ('lūk-es'), latviski vajag darbības vārdu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "aicinājums",
+      "rationale": "Jahve personīgi sauc Šmuēlu vārdā — aicināšanas ainas sākums."
+    }
+  ],
+  "translation": "Un Jahve sauca uz Šmuēlu, un viņš sacīja: Lūk, es ⟨esmu⟩ šeit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/3\/1-4.1792518760732.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Un sauca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuēlu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un viņš sacīja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lūk, es ⟨esmu⟩ šeit"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:40.733624381Z",
+  "model": "glm-5.3"
+}

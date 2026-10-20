@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "Tikai šeit un Iz 12:2 un 2. Mozus 15:2 — 'dziesma\/slavinājums' pret 'aizsardzība (no זין)'; pieņemts ir 'dziesma'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזי \/ עזרני",
+      "rationale": "Saknes עז spēks un עזר palīdzēt skan līdzīgi — 13. panta 'palīdzēja' un 14. panta 'spēks' sasaista zuduša latviski."
+    }
+  ],
+  "translation": "Mans spēks un mana dziesma ⟨ir⟩ Jah, un viņš ir kļuvis man par pestīšanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/13-16.1792528274640.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "mans spēks"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "un mana dziesma"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un viņš ir kļuvis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "par pestīšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:14.641615136Z",
+  "model": "glm-5.3"
+}

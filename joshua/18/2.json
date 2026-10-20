@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav kopulas; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septiņas ciltis",
+      "rationale": "Cilšu skaitīšana mantojuma sadalīšanai."
+    }
+  ],
+  "translation": "Un Jisraēla dēlos palika ⟨ir⟩ septiņas ciltis, kurām nebija sadalīts ⟨את⟩ viņu mantojums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/18\/1-4.1792517924113.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "un palika"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "dēlos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebija"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sadalīts"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu mantojums"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "viņu mantojums"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septiņas"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ciltis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:44.114908215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתון נתן",
+      "rationale": "Infinitivus absolutus: divreiz dots 'dot' — 'Dodam, dodam!', uzsvars, kas latviski saglabāts ar atkārtojumu."
+    },
+    {
+      "kind": "crux",
+      "subject": "נזם",
+      "rationale": "Burtiski 'deguna gredzens', tradicionāli tulkots kā 'auskars'; ebreju vārds norāda uz degunu."
+    }
+  ],
+  "translation": "Un viņi sacīja: Dodam, dodam! Un viņi izpleta ⟨את⟩ apģērbu, un katrais meta tur savu laupījuma gredzenu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/8\/25-28.1792518374662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un viņi sacīja"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "Dodam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dot"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "Un viņi izpleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apģērbu"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "apģērbu"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "un meta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "savu gredzenu"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "no savas laupījuma"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:14.663550930Z",
+  "model": "glm-5.3"
+}

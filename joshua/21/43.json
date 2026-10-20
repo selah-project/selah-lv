@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Viņš",
+      "rationale": "Izrunas vietniekvārds, lai skaidrs, kas zvērēja — ebrejā tikai darbības vārds"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ieņēma",
+      "rationale": "ירש ir 'dzīt ārā un mantot' — gan iekarošana, gan mantojums vienā vārdā"
+    }
+  ],
+  "translation": "Un Jahve deva Jisraēlam ⟨את⟩ visu zemi, par ko Viņš bija zvērējis dot viņu tēviem; un viņi to ieņēma un apdzīvoja tajā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "653afc1de28541ef7f4c308f99af58ab034b0200844f42b8befc91db651c6c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/21\/41-44.1792518012274.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Un deva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu zemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par ko"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bija zvērējis"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dot"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "viņu tēviem"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "un viņi to ieņēma"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "un apdzīvoja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tajā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:40:12.275389749Z",
+  "model": "glm-5.3"
+}

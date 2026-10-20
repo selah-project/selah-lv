@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikla; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלות\/יעלה",
+      "rationale": "augupuri (olot) un \"uzkāpt\" (jale) — viena sakne עלה; dūmu kāpšanas spēle"
+    }
+  ],
+  "translation": "Un ķēniņš aizgāja uz Gibeonu upurēt tur, jo tā ⟨ir⟩ lielā augstiene; tūkstots augupuru lika Šelomo uzkāpt uz tā altāra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/3\/1-4.1792520368696.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "un aizgāja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "uz Gibeonu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "upurēt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "augstiene"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstots"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "augupuru"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "lika uzkāpt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altāra"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:28.697905534Z",
+  "model": "glm-5.3"
+}

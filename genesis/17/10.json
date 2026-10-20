@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav darbības vārda 'ir'; latviešu teikumam vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Avrahamam un viņa sēklai",
+      "rationale": "Derības nosacījums adresēts Avrahamam un pēcnācējiem."
+    }
+  ],
+  "translation": "Šī ⟨ir⟩ mana derība, ko jūs glabāsit starp Mani un starp jums un starp tavu sēklu pēc tevis: lai jums tie apgraizīti visi vīrieši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/17\/9-12.1792511764500.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Šī"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mana derība"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "jūs glabāsit"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "starp Mani"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "un starp jums"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavu sēklu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pēc tevis"
+    },
+    {
+      "surface": "המול",
+      "gloss": "apgraizīti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vīrieši"
+    }
+  ],
+  "timestamp": "2026-10-20T15:56:04.501036825Z",
+  "model": "glm-5.3"
+}

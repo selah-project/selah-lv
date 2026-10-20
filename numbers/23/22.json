@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 23:22",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תועפת",
+      "rationale": "Vārds parādās tikai daudzskaitliskā kolektīvā; nozīme 'augstumi, ragi' — attiecas uz savvaļas vērsi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "savvaļas vērsis",
+      "rationale": "ראם ir savvaļas vērsis, ne vienradzis kā vecajos tulkojumos"
+    }
+  ],
+  "translation": "El, kas izveda viņus no Micraimas, — viņam kā savvaļas vērša augstie ragi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/23\/21-24.1792516117392.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוציאם",
+      "gloss": "kas izveda viņus"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "no Micraimas"
+    },
+    {
+      "surface": "כתועפת",
+      "gloss": "kā augstie ragi"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "savvaļas vērša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T17:08:37.395301636Z",
+  "model": "glm-5.3"
+}

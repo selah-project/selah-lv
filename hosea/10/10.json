@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עינתם",
+      "rationale": "LXX un KJV lasa עונתם 'viņu divi pārkāpumi'; līdzskaņu teksts burtiski 'viņu divas acis' (JPS 'two rings')."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kaujas saistība",
+      "rationale": "באסרם var nozarot no 'asor' — 'kad viņi sasaistas kaujai' (Geneva 'bind themselves')."
+    }
+  ],
+  "translation": "Manā vēlmē es viņus pārmācīšu, un tautas tiks sapulcinātas pret viņiem, kad viņi tiks saistīti saviem diviem pārkāpumiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e9c9e30ec700d137bf78e3916f6cabfe8bac0c0d08704c046b6f7e6b04081556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/10\/9-12.1792526077464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "manā vēlmē"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "es viņus pārmācīšu"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "un tiks sapulcinātas"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pret viņiem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "בא sרם",
+      "gloss": "kad viņi tiks saistīti"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "saviem diviem"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "pārkāpumiem"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:37.465082161Z",
+  "model": "glm-5.3"
+}

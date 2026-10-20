@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 15:11",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai trūkst saikļa 'ir' — pievienots latviski."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienu grāmata",
+      "rationale": "Atsauce uz hroniku grāmatu — ķēniņu valdīšanas dienu uzskaiti."
+    }
+  ],
+  "translation": "Un pārējie Zekarjahasdēla... Zekarjaha darbi — ⟨lūk⟩, tie ir rakstīti Jisraēla ķēniņu dienu grāmatā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5924424a1d41a21b3b5e695d026a71e2f3a175de60b85b59106ba1c2218eb27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/15\/10-11.1792532614666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "pārējie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarjaha"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "⟨lūk⟩ tie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ir rakstīti"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "darbi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:34.666744424Z",
+  "model": "glm-5.3"
+}

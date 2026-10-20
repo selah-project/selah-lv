@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "elku tēlus",
+      "rationale": "אלילי ir celma forma noledzošā nozīmē 'niecīgie elki'; latviski vajadzīgs pilnāks izteikums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "par grēku",
+      "rationale": "חטא var nozīmēt arī 'grēka sodu'; 'par grēku' ir vienkāršākais lasījums."
+    }
+  ],
+  "translation": "Jo tai dienā katrs vīrs nicinās savus sudraba elku tēlus un savus zelta elku tēlus, ko jūsu rokas jums ir iztaisījušas par grēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/31\/5-8.1792522442084.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tai dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "nicinās"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs vīrs"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sudraba elku tēlus"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "savus sudraba"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "un zelta elku tēlus"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "savus zelta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ir iztaisījušas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "jūsu rokas"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "par grēku"
+    }
+  ],
+  "timestamp": "2026-10-20T18:54:02.085330254Z",
+  "model": "glm-5.3"
+}

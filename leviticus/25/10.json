@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרור",
+      "rationale": "'brīvība' — burtiski 'straume, nevaldīta plūsma'; atbrīvošanas pasludināšanas termins"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam 'jubileja tā — jums' trūkst darāma vārda; latviešu valoda prasa ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושבתם ... תשבו",
+      "rationale": "atkārtotā sakne שוב 'atgriezties' ierāmē pantu — hiasms 'atgriezīsities ... atgriezīsities' saglabāts"
+    }
+  ],
+  "translation": "Un jūs iesvētīsit ⟨את⟩ piecdesmito gadu un pasludināsit brīvību zemei visiem tās iedzīvotājiem; jubileja tas ⟨ir⟩ jums; un jūs atgriezīsities katrs savā īpašumā, un katrs savā ģimenē jūs atgriezīsities.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/9-12.1792515232680.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ווקדשתם",
+      "gloss": "Un jūs iesvētīsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piecdesmito gadu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "piecdesmito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gads"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "un pasludināsit"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "brīvību"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemei"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "tās iedzīvotājiem"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jubileja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "un jūs atgriezīsities"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savā"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "īpašumā"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un katrs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savā"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ģimenē"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "jūs atgriezīsities"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:52.681796295Z",
+  "model": "glm-5.3"
+}

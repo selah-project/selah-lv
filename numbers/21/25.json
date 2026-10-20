@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tās meitās",
+      "rationale": "בנותיה burtiski 'tās meitas' — pilsētu 'meitas' ir apdzīvotās pilsētiņas pievienotas Heshbonai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pilso saraksts",
+      "rationale": "pants uzskaita paņemtās pilsētas un nosauc Heshbonu ar tās meitām"
+    }
+  ],
+  "translation": "Un Jisraēls paņēma ⟨את⟩ visas šīs pilsētas, un Jisraēls apmetās visās emoriešu pilsētās, Heshbonā un visās tās meitās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e0f7b63a9168f9f21ae87713da43ab7f60b547a00cb3a08bcf4c0000d55ed3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/21\/25-28.1792515995116.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas šīs pilsētas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "un apmetās"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visās"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešu"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonā"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un visās"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "tās meitās"
+    }
+  ],
+  "timestamp": "2026-10-20T17:06:35.121246565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ויהיו nav tīrs saiklis, bet latviešu teikumam vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "2750",
+      "rationale": "Kehatiešu skaitīšanas rezultāts: 2750 vīri"
+    }
+  ],
+  "translation": "Un viņu aprēķinātie pēc viņu dzimtām ⟨ir⟩ divi tūkstoši septiņi simti piecdesmit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4c83d4d49ff09bd6e8bee4806ad167b5ed717e9dd24195f8788eacce3df5adab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/4\/33-36.1792515419923.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Un ⟨ir⟩"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "viņu aprēķinātie"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "divi tūkstoši"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simti"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "un piecdesmit"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:59.925416274Z",
+  "model": "glm-5.3"
+}

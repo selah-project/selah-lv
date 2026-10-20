@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iekš",
+      "rationale": "אל pie spiešanas nozīmē virzienā uz — latviešu prievārds pievienots"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Priekšmetu viākuma aleph-tav atzīmē 'tās', latviešu valoda to var tikai daļēji parādīt"
+    }
+  ],
+  "translation": "Un Paraoha kausa manā rokā, un ņēmu ⟨את⟩ vīnogas un spaidu tās Paraoha kausā, un iedevu ⟨את⟩ kausu uz Paraoha plaukstas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8628611c0edbc6a7d9a212e4b176936238313896bd312950490f5a2071d3d39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/40\/9-12.1792512382435.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "un kausa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoha"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "manā rokā"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "un ņēmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vīnogas"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "vīnogas"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "un spaidu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tās (vīnogas)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iekš"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kausā"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoha"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "un iedevu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kausu"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kausu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כף",
+      "gloss": "plaukstas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoha"
+    }
+  ],
+  "timestamp": "2026-10-20T16:06:22.436488210Z",
+  "model": "glm-5.3"
+}

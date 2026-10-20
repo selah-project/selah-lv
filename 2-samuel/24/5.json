@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; pievienots piederības izteiksmei"
+    },
+    {
+      "kind": "measurement",
+      "subject": "taksācijas maršruts",
+      "rationale": "panta skaitīšanas gaita — Jordānas austrumu puses apiešana ar apmetņu punktiem"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הנחל הגד",
+      "rationale": "KJV 'upes vidū'; vairums tulkojumu 'iega \/ gravas vidū' — nahals kā ziemas ūdensgrava"
+    }
+  ],
+  "translation": "Un tie šķērsoja ⟨את⟩ Jordānu un apmetās Aroērā, pa labo roku no pilsētas, kas ⟨ir⟩ Gaada gravas vidū, un devās uz Jaazeru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/24\/5-8.1792520250562.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "šķērsoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordānu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānu"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "apmetās"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroērā"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pa labo roku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "no pilsētas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "gravas"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gaada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazeru"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:30.563028035Z",
+  "model": "glm-5.3"
+}

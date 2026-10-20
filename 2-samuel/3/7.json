@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Divas reizes pievienots saiklis ⟨bija⟩, kura ebreju tekstā nav"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Avneru",
+      "rationale": "Jišbošets tieši vēršas pie Avnera ar jautājumu — nopelns par nodevību"
+    },
+    {
+      "kind": "crux",
+      "subject": "iegāji pie sieves",
+      "rationale": "Piekļūve ķēniņa sievei senajā Tuvo Austrumu kontekstā lasāma kā pretenzija uz troni; teksts to nesaka atklāti"
+    }
+  ],
+  "translation": "Un Šaulam ⟨bija⟩ sieve, un viņas vārds ⟨bija⟩ Ricpa, Ajas meita; un sacīja Jišbošets uz Avneru: Kāpēc tu esi iegājis pie mana tēva sieves?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/3\/5-8.1792519637666.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשאול",
+      "gloss": "Un Šaulam"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "sieve"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "un viņas vārds"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ricpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajā"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "באתה",
+      "gloss": "tu esi iegājis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "sieves"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:17.667067872Z",
+  "model": "glm-5.3"
+}

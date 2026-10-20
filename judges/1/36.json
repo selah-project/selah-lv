@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 1:36",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebreju valodā trūkst saikļa 'bija'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עקרבים",
+      "rationale": "'Skorpions' — vietvārds Maale Akarabim atveidots pēc skanējuma, nozīme 'skorpiona kāpiens' zūd"
+    }
+  ],
+  "translation": "Un emoriešu robeža bija no Akarabima kāpiena, no Selas un augšup.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4b32d8dec096b61f52267310fcc9cc5ed1f320779f36722d77c3e17eac4a7bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/1\/33-36.1792518116422.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Un robeža"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešu"
+    },
+    {
+      "surface": "ממעלה",
+      "gloss": "no Akarabima kāpiena"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "no Akarabima kāpiena"
+    },
+    {
+      "surface": "מהסלע",
+      "gloss": "no Selas"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un augšup"
+    }
+  ],
+  "timestamp": "2026-10-20T17:41:56.424050110Z",
+  "model": "glm-5.3"
+}

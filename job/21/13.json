@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 21:13",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "acumirklī",
+      "rationale": "רגע — 'acs mirklis', viens vārds ļoti īsam laikam"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeols",
+      "rationale": "שאול nav elle un nav sods — bez soda piederības pēc"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבלו\/ימיהם",
+      "rationale": "'notērē savas dienas' — balg 'iztērēt' kā mantu; krājuma versijas dod 'pavadīt', kas zaudē tērēšanas tēlu"
+    }
+  ],
+  "translation": "Labumā viņi notērē ⟨את⟩ savas dienas, un acumirklī šeolā viņi nolaižas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bbead0a37655ffbed3813813b8c67392d5d7fb3d254befde5bae15624994ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/21\/13-16.1792529323485.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבלו",
+      "gloss": "notērē"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "labumā"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "savas dienas"
+    },
+    {
+      "surface": "וברגע",
+      "gloss": "un acumirklī"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolā"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "nolaižas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:43.486176583Z",
+  "model": "glm-5.3"
+}

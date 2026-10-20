@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 3:27",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "piektā riba",
+      "rationale": "החמש burtiski 'vēders\/piektā (riba)': KJV 'piektā riba', ASV 'mugurkaula vidus', JPS 'cirkšņa apvidus'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "vārds עשהאל sadalīts divos tokenos; אelide, jo vārds pieder Asahēla vārdam"
+    },
+    {
+      "kind": "substitution",
+      "subject": "asins dēļ",
+      "rationale": "בדם burtiski 'asins dēļ' — atriebības asins par Asahēla nāvi (2 Sam 2:23)"
+    }
+  ],
+  "translation": "Un Avners atgriezās Hebronā, un Joābs viņu novērsa vārtu vidū, lai runātu ar ⟨את⟩ viņu klusībā, un tur sita viņam pie piektās ribas, un viņš nomira Asahēla, sava brāļa, asins dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/3\/25-28.1792519646073.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Un atgriezās"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebronā"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "un novērsa viņu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joābs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "lai runātu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu (Avneru)"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "klusībā"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "un sita viņu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "pie piektās ribas"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "un nomira"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "asins dēļ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asahēla"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sava brāļa"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:26.074903601Z",
+  "model": "glm-5.3"
+}

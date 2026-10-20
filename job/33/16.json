@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 33:16",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Subjekts (El) no iepriekšējā konteksta, ivritā izlaists"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובמסרם יחתם",
+      "rationale": "'un ar viņu pārmācību apzīmogo' — vai 'מוסר' ir 'mācība, ko viņš apzīmogo' (KJV) vai 'viņu pārbaudījums, kas ir apzīmogots' (Geneva); 'חתם' — zīmogot, noslēgt"
+    }
+  ],
+  "translation": "Tad viņš atsedz cilvēku ausis un viņu pārmācību apzīmogo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/33\/13-16.1792529448435.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "atsedz"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ausis"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "ובמסרם",
+      "gloss": "un viņu pārmācību"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "apzīmogo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:48.436841621Z",
+  "model": "glm-5.3"
+}

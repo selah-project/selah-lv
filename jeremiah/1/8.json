@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "no viņu sejām",
+      "rationale": "burtiski 'no viņu vaigiem\/sejām' — מפניהם ir sejas vārds, ne tikai 'no viņiem'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "šeit את ir prievārds 'ar' (H854), ne tiešā objekta marķieris — ⟨את⟩ atstāts kā zīme, jēga 'ar tevi'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jirmejahu",
+      "rationale": "Jahve mudina pravieti bez bailēm — tieša uzruna ar solījumu 'ar tevi es esmu'"
+    }
+  ],
+  "translation": "No viņu sejām nebīsties, jo ⟨את⟩ ar tevi es esmu, lai tevi izglābtu, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/1\/5-8.1792523217237.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bīsties"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "no viņu sejām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "lai tevi izglābtu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:57.238845636Z",
+  "model": "glm-5.3"
+}

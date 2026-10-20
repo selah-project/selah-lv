@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצודתי",
+      "rationale": "מצודה nozīmē gan 'cietoksis', gan 'tīkls'; tulkotāji dalās starp 'fortress' un 'net\/bulwark'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Pēdējā teikumā latviešu valodā vajadzīgs saiklis 'ir', ebreju valodā tā nav."
+    }
+  ],
+  "translation": "Esi man klints un mājoklis, kurā vienmēr nākt; tu esi pavēlējis mani glābt, jo tu esi mana klints un mana cietoksis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/71\/1-4.1792527813900.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "esi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "klints"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "un mājoklis"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kurā nākt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vienmēr"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu esi pavēlējis"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "mani glābt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mana klints"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "un mana cietoksis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:33.900981723Z",
+  "model": "glm-5.3"
+}

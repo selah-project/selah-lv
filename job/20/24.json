@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cauršaus",
+      "rationale": "תחלפהו burtiski 'pāries caur viņu' — trāpīs\/aizslīdēs caur"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ja viņš bēgs",
+      "rationale": "JPS lasa nosacījumu (ja bēgs — tomēr trāpīs); ebreju yiqtol pieļauj abus"
+    }
+  ],
+  "translation": "Viņš bēgs no dzelzs ieroča, vara loks viņu cauršaus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/20\/21-24.1792529310030.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "bēgs"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "no ieroča"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dzelzs"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "viņu cauršaus"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "loks"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vara"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:30.031919779Z",
+  "model": "glm-5.3"
+}

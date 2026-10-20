@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מאשרי",
+      "rationale": "particips no אשר 'iet taisnu ceļu, svētīt' — šeit 'tie, kas vada'; skaidrojums balstīts kontekstā"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאשריו",
+      "rationale": "'tie, kas ir vesti\/svētītie' pret 'tie, kas svētī tautu' — divi iespējamie lasījumi"
+    }
+  ],
+  "translation": "Un tie, kas ved šo tautu, to klaiņā novirza, un tie, kas tiek vesti, tiek norīti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/9\/13-16.1792521971777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "un tie ir"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "tie, kas ved"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šo tautu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "novirza klaiņā"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "un tie, kas tiek vesti"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "tiek norīti"
+    }
+  ],
+  "timestamp": "2026-10-20T18:46:11.778316547Z",
+  "model": "glm-5.3"
+}

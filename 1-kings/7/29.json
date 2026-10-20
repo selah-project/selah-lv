@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 7:29",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valodā nav darbības vārda — pārskaitījuma teikums bez 'bija'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מורד",
+      "rationale": "Arhitektonisks termins, kas Tanahā parādās tikai šeit — 'nokares darbs', iespējams, karājošs vītnu rotājums"
+    },
+    {
+      "kind": "crux",
+      "subject": "ליות",
+      "rationale": "Vārds parādās tikai 1. Ķēniņu 7 — 'vītnes' pret KJV 'additions' (pievienojumi)"
+    }
+  ],
+  "translation": "Un uz rāmjiem, kas starp joslām, ⟨bija⟩ lauvas, vērši un kerubi; un uz joslām ⟨bija⟩ tāpat augšā; un zem lauvas un vērša — vītnes, nokares darbs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/7\/29-32.1792520491048.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "rāmjiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "joslām"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lauvas"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vērši"
+    },
+    {
+      "surface": "וכרובים",
+      "gloss": "un kerubi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un uz"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "joslām"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpat"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "augšā"
+    },
+    {
+      "surface": "ומתחת",
+      "gloss": "un zem"
+    },
+    {
+      "surface": "לאריות",
+      "gloss": "lauvas"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "un vērša"
+    },
+    {
+      "surface": "ליות",
+      "gloss": "vītnes"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "מורד",
+      "gloss": "nokares"
+    }
+  ],
+  "timestamp": "2026-10-20T18:21:31.048817068Z",
+  "model": "glm-5.3"
+}

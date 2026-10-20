@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 2:22",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda iztrūkst saikli; latviešu valodai vajag 'ir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכתם",
+      "rationale": "no kātam 'igravēt': 'ir iegravēts\/ierakstīts' pret 'ir notraipīts' (daudzi tulkojumi)"
+    }
+  ],
+  "translation": "Jo kaut tu mazgātos ar sāls sēru un vairotu sev ziepes, tavs pārkāpums ir iegravēts manā priekšā, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "440e59ee2228ace7507f4adc8a673b126201453ae0770f26d187b162345cec85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/21-24.1792523175459.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaut"
+    },
+    {
+      "surface": "תכבסי",
+      "gloss": "tu mazgātos"
+    },
+    {
+      "surface": "בנתר",
+      "gloss": "ar sāls sēru"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "un vairotu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ziepes"
+    },
+    {
+      "surface": "נכתם",
+      "gloss": "ir iegravēts"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tavs pārkāpums"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "manā priekšā"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:15.459713949Z",
+  "model": "glm-5.3"
+}

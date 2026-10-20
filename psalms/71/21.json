@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותסב",
+      "rationale": "'atgriezīsies' (KJV 'apmuiņā no visām pusēm') pret 'atkal griezīsies un mierinās' (ASV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mierinādams",
+      "rationale": "נחם burtiski 'nopūsties, elpot dziļi'; latviski 'mierināt'. "
+    }
+  ],
+  "translation": "Tu vairosi manu lielumu un atgriezīsies, mierinādams mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/71\/21-24.1792527804838.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Tu vairosi"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "manu lielumu"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "un atgriezīsies"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mierinādams mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:24.838846254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש⟨את⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Šehemas vīriem",
+      "rationale": "Jotāma runa tieši vērsta uz Šehemas vīriem."
+    }
+  ],
+  "translation": "kas cīnījās mans tēvs par jums un meta ⟨את⟩ savu nefesu pretī, un izglāba ⟨את⟩ jūs no Midjanas rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/17-20.1792518387943.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "cīnījās"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mans tēvs"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "par jums"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "un meta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu nefesu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savu nefesu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "un izglāba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "no Midjanas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:27.944265008Z",
+  "model": "glm-5.3"
+}

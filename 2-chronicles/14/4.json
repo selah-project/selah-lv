@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "saules stabus",
+      "rationale": "החמנים — saules pīlāri, vārds Tanahā reti sastopams"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai vajadzīgs saiklis, ebreju valodā tā nav"
+    }
+  ],
+  "translation": "Un viņš novāca no visām Jūdas pilsētām ⟨את⟩ augstienes un ⟨את⟩ saules stabus, un valstij bija miers viņa priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/14\/1-4.1792531954134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "un viņš novāca"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "no visām"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētām"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augstienes"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "augstienes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "saules stabus"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "saules stabus"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "un bija miers"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "valstij"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "viņa priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:32:34.136069302Z",
+  "model": "glm-5.3"
+}

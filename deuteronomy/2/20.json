@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זמזמים",
+      "rationale": "Zamzummi — tautas nosaukums parādās tikai šeit Tanahā."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga saikļa 'ir', ebreju valodā tās nav."
+    }
+  ],
+  "translation": "(Refaimu zeme ⟨ir⟩ ieskaitīta arī tā; refaimi dzīvoja tajā senāk, un amonieši sauc tos zamzummi.)",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/2\/17-20.1792516538511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimu"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ieskaitīta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arī"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "senāk"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "un amonieši"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "sauc"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tos"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "zamzummi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:15:38.515442713Z",
+  "model": "glm-5.3"
+}

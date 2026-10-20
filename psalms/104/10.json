@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "avokulos ielejās",
+      "rationale": "נחל ir ziemas plūdu strauts šaurā ielejā — 'ieleja' un 'straute' abas nozīmes dzīvo vienā vārdā."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהלכון",
+      "rationale": "Ūdens 'iet' (halak) — personifikācija, avoti kā gājēji starp kalniem."
+    }
+  ],
+  "translation": "Kas sūta āras avokulos ielejās, starp kalniem tās tek.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c89c5c69adb297b8fbb4ed3ca9cd01a7dbee83b75c85d44c018eb17315cfb32c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/104\/10-11.1792532817118.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Kas sūta"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "āras"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "avokulos ielejās"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "tās tek"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:57.118951265Z",
+  "model": "glm-5.3"
+}

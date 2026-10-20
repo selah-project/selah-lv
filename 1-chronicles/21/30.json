@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נבעת",
+      "rationale": "Verbs בעת 'pārbīdēt' Tanahā sastopams tikai šeit"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניו",
+      "rationale": "Burtiski 'tā vaiga priekšā' — pie altāra Givonā; latviski 'tur' ar iekavām"
+    }
+  ],
+  "translation": "Un Davids nevarēja iet ⟨tur⟩, lai vaicātu Elohim, jo viņš bija pārbiedēts Jahves eņģeļa zobena dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f0077f9b1066bd85709a0b803cc34f21569a4eb57baef8bc5629e1685b6726c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/21\/29-30.1792531424531.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un nevarēja"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "spēja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tur (tā priekšā)"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "vaicātu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "pārbiedēts"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dēļ (tā vaiga)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zobena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "eņģeļa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T21:23:44.533008745Z",
+  "model": "glm-5.3"
+}

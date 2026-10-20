@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 26:16",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גָּבַהּ לִבּוֹ",
+      "rationale": "Burtiski 'viņa sirds augstu pacēlās' — lepnības izteiksme."
+    },
+    {
+      "kind": "crux",
+      "subject": "עַד לְהַשְׁחִית",
+      "rationale": "'Līdz postam' (KJV) pret 'tā ka viņš darīja ļauni' (ASV) — infinitīva skaidrojuma strīds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svētnīca",
+      "rationale": "הֵיכָל ir 'pils' vai 'liela ēka'; 'svētnīca' ir Tanaha konteksta piemērots latviskais vārds."
+    },
+    {
+      "kind": "addition",
+      "subject": "kvēpināšanas",
+      "rationale": "Latviešu valodai vajadzīgs ģenitīva precizējums, lai savienotu 'altāris' un 'kvēpināšana'."
+    }
+  ],
+  "translation": "Un, kad viņš bija kļuvis stiprs, viņa sirds pacēlās augstumā līdz postam, un viņš piekrita nodevībā pret Jahvi, savu Elohim, un iegāja Jahves svētnīcā kvēpināt uz kvēpināמāс altāra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7311b477c395d6c908a7eec77ab4cfc0b5ec1fd7693309648fa0cd4e73ea1739",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/26\/13-16.1792532236790.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכחזקתו",
+      "gloss": "Un, kad viņš bija kļuvis stiprs"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "pacēlās augstumā"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "viņa sirds"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "postam"
+    },
+    {
+      "surface": "וימעל",
+      "gloss": "un viņš piekrita nodevībā"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pret Jahvu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savu Elohim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un iegāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "היכל",
+      "gloss": "svētnīcā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "kvēpināt"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altāra"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kvēpināšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:37:16.792395671Z",
+  "model": "glm-5.3"
+}

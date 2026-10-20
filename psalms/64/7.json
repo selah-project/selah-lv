@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חפש \/ מחפש",
+      "rationale": "tāda paša sakņu atkārtošana — 'izmeklējums izmeklēts' — latviski zaudē skanējuma līdzību"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמנו חפש מחפש",
+      "rationale": "KJV\/ASV: 'esam paveikuši izmeklējumu'; cits lasījums: 'viņu meklētais tukšs (חפש = tukšs)' — 'tapuši tukšumu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu saiklis, kuru ebreju teikumā nav"
+    }
+  ],
+  "translation": "Viņi izmeklē netaisnības; 'esam pilnīgojuši izmeklējumu izmeklēts' — un cilvēka iekšiene un sirds ⟨ir⟩ dziļa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/64\/5-8.1792527774494.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "izmeklē"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "netaisnības"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "esam pilnīgojuši"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "izmeklējumu"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "izmeklēts"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "un iekšiene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēka"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "un sirds"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dziļa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:54.495263256Z",
+  "model": "glm-5.3"
+}

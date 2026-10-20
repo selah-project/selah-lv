@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 2:8",
+  "book": "nahum",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלתה",
+      "rationale": "KJV lasa 'Huzaba' kā ķēniņienes vārdu; ASV\/JPS lasa darbības vārdu 'viņa ir atklāta\/atmaskota' — viena forma, divas lasījuma tradīcijas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirdīm",
+      "rationale": "לבבהן burtiski 'to sirdis'; latviešu 'krūtīm' (KJV) būtu kultūras aizstājējs — saglabāts 'sirdīm'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "והצב",
+      "rationale": "'un ⟨ir⟩ noteikts' (ASV lēmums) pret 'un viņa tiek celta augšup' — verbs נצב var būt gan 'nostādīts\/lēmums', gan darbība pats."
+    }
+  ],
+  "translation": "Un ⟨ir⟩ noteikts: viņa ⟨ir⟩ izstādīta kaila, viņa ⟨ir⟩ aizvesta augšup, un viņas kalpones vada ⟨viņu⟩ kā baložu balsī, dauzīdamas uz savām sirdīm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nahum\/2\/5-8.1792526559594.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצב",
+      "gloss": "un ⟨ir⟩ noteikts"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "viņa ⟨ir⟩ izstādīta kaila"
+    },
+    {
+      "surface": "העלתה",
+      "gloss": "viņa ⟨ir⟩ aizvesta augšup"
+    },
+    {
+      "surface": "ואמהתיה",
+      "gloss": "un viņas kalpones"
+    },
+    {
+      "surface": "מנהגות",
+      "gloss": "vada"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kā balss"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "baložu"
+    },
+    {
+      "surface": "מתפפת",
+      "gloss": "dauzīdamas"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "לבבהם",
+      "gloss": "savām sirdīm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:02:39.596835862Z",
+  "model": "glm-5.3"
+}

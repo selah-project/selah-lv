@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "'Ja ne' — teikums nepabeigts: kā būtu gadījies, ja viņš nebūtu ticējis; tulki pievieno 'es būtu pagaismis'."
+    },
+    {
+      "kind": "elision",
+      "subject": "nepabeigtais teikums",
+      "rationale": "Ebreju teksts apstājas pusesvaitrā — pārsteigums paliek neatrisināts."
+    }
+  ],
+  "translation": "Ja es nebiju ticējis, redzēt Jahves labumu dzīvo zemē —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/27\/13-14.1792527271799.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ja ne"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "es ticēju"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "redzēt"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "labumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:31.799959629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs saiklis; ebreju היא ir uzsvērums, ne darbības vārds"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cilvēkā",
+      "rationale": "באנוש burtiski 'mirstīgajā' — cilvēks kā mirstīga būtne"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבינם",
+      "rationale": "'Viņiem' vai 'to'? — vai Šadai elpa dod saprašanu vecajiem, vai vispār cilvēkam pār vecumu"
+    }
+  ],
+  "translation": "Tomēr ruah ⟨ir⟩ cilvēkā, un Šadai elpa dod ⟨viņiem⟩ saprašanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/32\/5-8.1792529445492.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Tomēr"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "cilvēkā"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "un elpa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "dod viņiem saprašanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:45.493534492Z",
+  "model": "glm-5.3"
+}

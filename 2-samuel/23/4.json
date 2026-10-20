@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aug",
+      "rationale": "Ebreju valodā teikumam trūkst darbības vārda; latviešu valodai vajadzīgs ⟨aug⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mirdzums un lietus",
+      "rationale": "מנגה ממטר — skaņu atbilstība; tēls: saules mirdzums pēc lietus dzīvina zāli kā taisnais valdnieks zemi"
+    }
+  ],
+  "translation": "Un kā rīta gaisma, kad uzlec saule, — rīts bez mākoņiem, — no mirdzuma, no lietus jaunā zāle ⟨aug⟩ no zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/23\/1-4.1792520262636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Un kā gaisma"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rīta"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "uzlec"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saule"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rīts"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "mākoņiem"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "no mirdzuma"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "no lietus"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "jaunā zāle"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:42.637869963Z",
+  "model": "glm-5.3"
+}

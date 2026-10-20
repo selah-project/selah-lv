@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir viens vārds — elpa, vējš, gars; latviski atstāts kā 'ruah'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kas zina, vai",
+      "rationale": "מי יודע: vai jautājums apšauba ('vai cilvēka ruah kāpj augšup?') vai apgalvo nezināšanu; KJV to lasa kā apgalvojumu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "cilvēku likteņa nezināmība",
+      "rationale": "pants apzināti atklāj noslēpumu — neviens nezina, kurp ruah aiziet"
+    }
+  ],
+  "translation": "Kas zina, vai cilvēku dēlu ruah, kas kāpj augšup, ⟨tas⟩ ⟨ir⟩ tā, kas ⟨iet⟩ augšup, un vai lopu ruah, kas norit lejup, ⟨tas⟩ ⟨ir⟩ tā, kas ⟨iet⟩ lejup pie zemes?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "806e747af1c504056d8ef70d1de1f634c46268e2beb4b72cae911afe29ab3a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/3\/21-22.1792529892402.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kas kāpj augšup"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "augšup"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "un ruah"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lopu"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "kas norit lejup"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "lejup"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pie zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:12.402619715Z",
+  "model": "glm-5.3"
+}

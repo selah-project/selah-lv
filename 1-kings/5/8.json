@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רכש",
+      "rationale": "'Rekeš' — ātrais pasta\/jājamais zirgs, ne parasts zirgs; latviski 'skrejzirgs' saglabā ātruma nozīmi."
+    },
+    {
+      "kind": "addition",
+      "subject": "vajadzīgs",
+      "rationale": "Ebrejiski burtiski 'uz vietu, kur tas tur būs' — latviski precizēts par pienākuma vietu."
+    }
+  ],
+  "translation": "Un miežus un salmus zirgiem un skrejzirgiem tie atveda uz vietu, kur tas bija vajadzīgs, katrs pēc savas kārtības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/5\/5-8.1792520390123.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "un miežus"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "un salmus"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "zirgiem"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "un skrejzirgiem"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tie atveda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tas bija"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "pēc savas kārtības"
+    }
+  ],
+  "timestamp": "2026-10-20T18:19:50.125281562Z",
+  "model": "glm-5.3"
+}

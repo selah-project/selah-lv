@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "pravietī",
+      "rationale": "Jahve pavēl Ecehiēlam griezties un pravietīt — pavēles nodarbība."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pilī",
+      "rationale": "הטף nozīmē 'pilēt, tecēt pa pilienam' — vēsts jāpil kā ūdens, latviski pilētājs zaudē attēlu."
+    },
+    {
+      "kind": "addition",
+      "subject": "zemi",
+      "rationale": "אדמת ir 'zeme\/augsne' — pievienota galotne skaidrībai, jo 'pret Jisraēla zemi'."
+    }
+  ],
+  "translation": "Cilvēka dēls, liec savu seju pret Jerušalaimu, un pilī pret svētumiem, un pravietī pret Jisraēla zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/21\/5-8.1792525146876.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Cilvēka"
+    },
+    {
+      "surface": "שים",
+      "gloss": "liec"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "un pilī"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "svētumiem"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "un pravietī"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:39:06.877717395Z",
+  "model": "glm-5.3"
+}

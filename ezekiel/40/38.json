@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 40:38",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju teikumam nav saikla; latviešu valodai vajadzīgs ⟨bija⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידיחו",
+      "rationale": "No דוח׷ 'atstumt, mazgāt tīru': KJV 'viņi mazgāja' pret JPS 'tika mazgāta' — darītājs nav norādīts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "augupeji",
+      "rationale": "העלה burtiski 'kas uzkāpj' — pacelšanās upuris; saglabāta uzkāpšanas bilde."
+    }
+  ],
+  "translation": "Un ⟨bija⟩ kambaris, un tā atvērums pie vārtu stabiem — tur viņi mazgāja ⟨את⟩ augupeji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6c9463955fd92b0ddf696d42da61d02df4a8c20d54c037032e8a4762589ccac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/40\/37-40.1792525721155.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשכה",
+      "gloss": "Un kambaris"
+    },
+    {
+      "surface": "ופתחה",
+      "gloss": "Un tā atvērums"
+    },
+    {
+      "surface": "באילים",
+      "gloss": "pie stabiem"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "ידיחו",
+      "gloss": "viņi mazgāja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augupeji"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "augupeji"
+    }
+  ],
+  "timestamp": "2026-10-20T19:48:41.156637593Z",
+  "model": "glm-5.3"
+}

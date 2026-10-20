@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņu pienākums bija",
+      "rationale": "Latviešu valodai vajadzīgs pilns teikums; ebreju valodā ir tikai darba vārda sakne ar priekšvārdu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "svētuma darbs uz pleca",
+      "rationale": "Levītu darba sadalījums pēc nesamā priekšmeta veida — Kehata dēli nes ar pleciem, ne ar ratiem"
+    }
+  ],
+  "translation": "Un Kehata dēliem viņš nedeva, jo viņu pienākums bija svētuma darbs: uz pleca tie nes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/9-12.1792515551011.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Un Kehata dēliem"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedeva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "viņš nedeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "uz viņiem"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "uz pleca"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "tie nes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:59:11.012329855Z",
+  "model": "glm-5.3"
+}

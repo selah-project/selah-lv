@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא מות תמתון",
+      "rationale": "infinitiva absolūta: 'nomirstot nenomirsit' — nolieguma pastiprinājums, atbilde uz tādu pašu struktūru 2:17"
+    },
+    {
+      "kind": "addition",
+      "subject": "droši",
+      "rationale": "latviešu valodai vajadzīgs pastiprinātājs, lai atveidotu infinitiva absolūta uzsvaru"
+    }
+  ],
+  "translation": "Un čūska sacīja sievai: Nenomirsit ⟨droši⟩ nemūžam;",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/3\/1-4.1792511468024.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "čūska"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sievai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nemūžam"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nomirsit"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:08.027210886Z",
+  "model": "glm-5.3"
+}

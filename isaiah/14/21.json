@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "Hebreja 'bal' — spēcīga nolieguma partikula, latviski izteikta ar 'lai ne-' konstrukciju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "Tevel — 'mitrā, apdzīvotā zeme\/pasaule'; atveidots kā 'apdzīvotā zeme'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקמו\/תקום",
+      "rationale": "Celšanās darbuā qum šeit un 24:14 pants — iznīcināmie 'nepieceļas', bet Jahves padoms 'piecelsies'."
+    }
+  ],
+  "translation": "Sagatavojiet viņa dēliem kaušanu viņu tēvu ļaunuma dēļ — lai tie nepieceļas un nemanto zemi un nepiepilda ⟨את⟩ apdzīvotās zemes vaigu ar pilsētām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "59667e0982093202e389629c90fd1afbe790e077df09e4fcfcdd4ce70855ba52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/14\/21-24.1792522050208.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "Sagatavojiet"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "viņa dēliem"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "kaušana"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ļaunuma dēļ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lai ne-"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "pieceļas"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "un nemanto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "un nepiepilda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaigu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "apdzīvotās zemes"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ar pilsētām"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:30.208930715Z",
+  "model": "glm-5.3"
+}

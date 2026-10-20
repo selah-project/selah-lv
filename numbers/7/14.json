@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kausiņš",
+      "rationale": "כף ir 'plauksta, saujā turams trauks'; latviski 'kausiņš' zaudē plaukstas ainu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "svars",
+      "rationale": "Desmit šekelu zelts — svaru uzskaitījums"
+    }
+  ],
+  "translation": "viena zelta smaržu kausiņa desmit šekelu svara, pilns kvēpināmās smēģelēs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/7\/13-16.1792515496372.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "kausiņš (plauksta)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "desmit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilns"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvēpināmā smēģeles"
+    }
+  ],
+  "timestamp": "2026-10-20T16:58:16.375273495Z",
+  "model": "glm-5.3"
+}

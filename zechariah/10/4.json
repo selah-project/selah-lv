@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ממנו x4",
+      "rationale": "Četrkāršā atkārtošanās 'no viņa' — anafora, kas latviski saglabāta ar domu domāšanas zīmēm."
+    },
+    {
+      "kind": "crux",
+      "subject": "apspiedējs",
+      "rationale": "כל נוגש יחדו: 'katrs apspiedējs izies' — vai tas ir Jūdas valdnieks, kas apspiež ienaidniekus, vai jebkurš jūgs, kas izies no Jūdas."
+    }
+  ],
+  "translation": "No viņa — stūrakmens, no viņa — mietis, no viņa — kaujas loks, no viņa izies katrs apspiedējs kopā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8f971c583ed779ed85209d444d528597dd55d363eab8a3051bd8d0ca5dd1815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/10\/1-4.1792526943685.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "No viņa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "stūrakmens"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "mietis"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kaujas loks"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "kaujas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no viņa"
+    },
+    {
+      "surface": "יצן",
+      "gloss": "izies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "apspiedējs"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kopā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:03.693648939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 4:15",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨lietas⟩",
+      "rationale": "latviešu valodai vajadzīgs paskaidrojošs vārds pie 'svētā' — ebreju tekstā tas nav"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "teikumam 'Šī ir ... nasta' vajadzīga saiklis, kura ebreju valodā nav"
+    },
+    {
+      "kind": "you",
+      "subject": "Kehata dēliem",
+      "rationale": "pantā uzdota Kehata dēlu pienākuma robeža: nest, bet ne aizskart"
+    }
+  ],
+  "translation": "Un, kad Aharons un viņa dēli būs pabeiguši apsegt ⟨את⟩ svētumu un ⟨את⟩ visus svētuma rīkus, kad nometne dosies ceļā, tad pēc tam ienāks Kehata dēli, lai nestu; bet viņi nedrīkst aizskart svētās ⟨lietas⟩, lai nemirst. Šī ⟨ir⟩ Kehata dēlu nesamā nastе Saietes teltī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b255bd005c0ae83bcb625c5a6ea05617e31a4c4fcbefe9b6164356253f918332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/4\/13-16.1792515471895.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Un, kad ... būs pabeiguši"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "un viņa dēli"
+    },
+    {
+      "surface": "לכסת",
+      "gloss": "apsegt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svētumu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "visus svētuma rīkus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "rīkus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kad dosies ceļā"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nometne"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ienāks"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "lai nestu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "aizskars"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētā"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "un nomirs"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "משא",
+      "gloss": "nesamā nasta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltī"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Saietes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:57:52.047729927Z",
+  "model": "glm-5.3"
+}

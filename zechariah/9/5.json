@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 9:5",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מבטה",
+      "rationale": "'cerība\/tieksme' — burtiski 'lūkošanās, gaidītais', ne vien 'cerība'."
+    },
+    {
+      "kind": "addition",
+      "subject": "būs",
+      "rationale": "Ebreju tekstā nav kopulas; latviešu valodai tā pievienota iekavās."
+    }
+  ],
+  "translation": "Aškelona redzēs un bīsēs, un Aza — un viņa ļoti šaus līdzēs, un Ekrona — jo apkaunota ⟨būs⟩ viņas cerība; un izzudīs ķēniņš no Azas, un Aškelona netiks apdzīvota.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dac172e280b7c5334bd3664d937af7f930db8fd4fa90d01893e565d1d337bf02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/9\/5-8.1792526820010.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרא",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelona"
+    },
+    {
+      "surface": "ותירא",
+      "gloss": "un bīsēs"
+    },
+    {
+      "surface": "ועזה",
+      "gloss": "un Aza"
+    },
+    {
+      "surface": "ותחיל",
+      "gloss": "un viņa šaus līdzēs"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "un Ekrona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "apkaunota"
+    },
+    {
+      "surface": "מבטה",
+      "gloss": "viņas cerība"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "un izzudīs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "no Azas"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "un Aškelona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "netiks"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "apdzīvota"
+    }
+  ],
+  "timestamp": "2026-10-20T20:07:00.011366445Z",
+  "model": "glm-5.3"
+}

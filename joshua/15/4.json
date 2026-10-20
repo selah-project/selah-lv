@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 15:4",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija \/ būs",
+      "rationale": "saikles pievienotas latviešu teikuma struktūrai, ebreju והיה un יהיה paliek darbības vārdos 'iznākumi' un 'robeža' tuvumā"
+    },
+    {
+      "kind": "you",
+      "subject": "jums",
+      "rationale": "tiešs uzrunas pavērsiens — robeža tiek dota Israēla ciltīm: 'šī būs jums dienvidu robeža'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "robežas iznākumi",
+      "rationale": "תוצאות — robežas 'izejas punkti', ģeogrāfisks mērīšanas termins"
+    }
+  ],
+  "translation": "Un tā šķērsoja līdz Acmonei, un iznāca pie Micraimas strauta, un robežas iznākumi ⟨bija⟩ pret jūru: šī ⟨būs⟩ jums dienvidu robeža.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/15\/1-4.1792517819980.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Un tā šķērsoja"
+    },
+    {
+      "surface": "עצמונה",
+      "gloss": "līdz Acmonei"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "un iznāca"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "strauta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "un ⟨bija⟩"
+    },
+    {
+      "surface": "תצאות",
+      "gloss": "iznākumi"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "robežas"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "pret jūru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨būs⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "robeža"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "dienvidu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:36:59.981885773Z",
+  "model": "glm-5.3"
+}

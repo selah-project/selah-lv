@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Viņa vaiga priekšā",
+      "rationale": "לפניw burtiski 'Viņa sejas priekšā' — tuvuma izteiksme"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kalpojiet... nāciet",
+      "rationale": "Imperatīvi, kas aicina dievkalpojumā"
+    }
+  ],
+  "translation": "Kalpojiet ⟨את⟩ Jahvem ar prieku, nāciet Viņa vaiga priekšā ar gavilēšanu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/100\/1-4.1792528117685.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Kalpojiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ar prieku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nāciet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Viņa vaiga priekšā"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ar gavilēšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:37.687112255Z",
+  "model": "glm-5.3"
+}

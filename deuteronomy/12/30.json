@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 12:30",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "Pavēle otrajā personā: 'sargies sevī' — aicinājums ar brīdinājumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dieviem",
+      "rationale": "אלהיהם šeit ar mazo burtu 'dievi' — tautu elki, ne Elohim."
+    },
+    {
+      "kind": "idiom",
+      "subject": "netop lamatās",
+      "rationale": "תנקש burtiski 'tikt noķertam cilpā' — lamatu metafora."
+    }
+  ],
+  "translation": "sargies sevī, ka tu netop lamatās aiz viņiem, pēc tam kad viņi ir iznīcināti no tavas priekšas, un ka tu nevaicā par viņu dieviem, sacīdams: Kā šīs tautas kalpoja ⟨את⟩ saviem dieviem? Arī es darīšu tāpat.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/12\/29-31.1792516912211.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "sargies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sevī"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ne"
+    },
+    {
+      "surface": "תנקש",
+      "gloss": "netop lamatās"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "aiz viņiem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc tam kad"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "viņi ir iznīcināti"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "no tavas priekšas"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "un ka ne"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "nevaicā"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "par viņu dieviem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "kalpoja"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saviem dieviem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "saviem dieviem"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-10-20T17:21:52.212474315Z",
+  "model": "glm-5.3"
+}

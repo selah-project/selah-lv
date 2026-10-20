@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "'Klints' pret 'spēks' (KJV\/BSB): ebreju vārds ir klints, daudzi tulkojumi to mīkstina par 'stiprinājumu'; šeit paturēta klints."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבבי\/לבבי",
+      "rationale": "Sirds vārds atkārtojas divreiz cieši kopā — atkārtojums uzsver svarīgāko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דaļa",
+      "rationale": "חלק ir 'daļa, mantojuma tiesa', ne vienkārši 'tūra'."
+    }
+  ],
+  "translation": "Izsīkusi ⟨ir⟩ mana miesa un mana sirds; klints manai sirdij un mana daļa ⟨ir⟩ Elohim mūžam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/25-28.1792527857988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Izsīkusi"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "mana miesa"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "un mana sirds"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klints"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "manai sirdij"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "un mana daļa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:17.988906649Z",
+  "model": "glm-5.3"
+}

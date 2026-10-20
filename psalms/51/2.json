@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בבוא ... בא",
+      "rationale": "Ebreju infinitīva konstrukcija 'nākšanās Nātana' pārvērsta par teikumu ar subjektu"
+    },
+    {
+      "kind": "you",
+      "subject": "pie viņa",
+      "rationale": "Virsraksts norāda uz Davidu kā trešo personu, nevis uzrunā"
+    }
+  ],
+  "translation": "Kad pravietis Natans nāca pie viņa, pēc tam kad viņš bija gājis pie Bat-Šebas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/1-4.1792527594506.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kad ... nāca"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natans"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pēc tam kad"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bija gājis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.507540311Z",
+  "model": "glm-5.3"
+}

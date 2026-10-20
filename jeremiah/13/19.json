@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 13:19",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלומים",
+      "rationale": "'ar mieru' pret 'pilnīgi\/vesela' — lielākā daļa tulkojumu: 'pilnīgi aizvesta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tās \/ ir",
+      "rationale": "Latviešu valodai vajadzīgas kopula un vietniekvārds, ebreju tekstā to nav"
+    }
+  ],
+  "translation": "Dienvidu pilsētas ir slēgtas, un nav, kas atver ⟨tās⟩; aizvesta trimdā ⟨ir⟩ visa Jehuda, pilnīgi aizvesta trimdā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/13\/17-20.1792523613776.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Dienvidu (Negeba)"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ir slēgtas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kas atver"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "aizvesta trimdā"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "aizvesta trimdā"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "pilnīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:13:33.777189243Z",
+  "model": "glm-5.3"
+}

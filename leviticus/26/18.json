@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "שבע",
+      "rationale": "'Septiņkārtīgi' — svētais pilnais skaitlis kā sodu reizinātājs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "septiņkārtīgi",
+      "rationale": "שבע var nozīmēt arī 'septiņas reizes vairāk'; izvēlēts vienkārši 'septiņkārtīgi' kā tuvāk ebreju skaitlim."
+    }
+  ],
+  "translation": "Un ja pat pēc šīm lietām jūs neklausīsit man, tad es pievienošu, lai sodītu ⟨את⟩ jūs septiņkārtīgi par jūsu grēkiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/26\/17-20.1792515232530.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "pēc šīm lietām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neklausīsit"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "jūs neklausīsit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "es pievienošu"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "lai sodītu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņkārtīgi"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "jūsu grēkiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:52.531880211Z",
+  "model": "glm-5.3"
+}

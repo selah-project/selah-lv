@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "127 provinces",
+      "rationale": "Impērijas izmērs skaitļos — no Hodu līdz Kūšai."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas bija⟩",
+      "rationale": "Ebreju הוא ir pasvītrojums; latviski pievienota kopula, lai to izteiktu."
+    }
+  ],
+  "translation": "Un notika Ahašverosa dienās — ⟨tas bija⟩ Ahašveross, ķēniņš, kas valdīja no Hodu līdz Kūšam, pār simt divdesmit septiņām zemēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/1-4.1792530098918.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienās"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašverosa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨tas bija⟩"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveross"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "no Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kūšam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņām"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "simt"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "zemēm"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:38.919230836Z",
+  "model": "glm-5.3"
+}

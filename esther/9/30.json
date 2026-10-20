@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ipašumvārds pievienots latviski; ebreju tekstā darbības vārda subjekts (Mordohajs) izriet no konteksta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "127 provinces",
+      "rationale": "Skaitlis minēts ebreju secībā: septiņas un divdesmit un simts."
+    }
+  ],
+  "translation": "Un viņš sūtīja rakstus visiem jūdiem — uz septiņām un divdesmit un simts provincēm Ahaverosa valstības — miera un patiesības vārdus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/9\/29-32.1792530179074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "un viņš sūtīja"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "rakstus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jūdiem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņām"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "un divdesmit"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "un simts"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provincēm"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "valstības"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaverosa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miera"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "un patiesības"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:59.075177318Z",
+  "model": "glm-5.3"
+}

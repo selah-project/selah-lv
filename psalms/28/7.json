@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Nepietrūkst saiklis 'Jahve ir mans spēks' — ebreju valodā to nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשירי אהודנו",
+      "gloss": "משירי ar מ prievārdu — 'ar manu dziesmu'; daži lasa kā vienkāršu 'mana dziesma'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי",
+      "rationale": "Sirds parādās divreiz — uzticēšanās un līksme ap to pašu vārdu."
+    }
+  ],
+  "translation": "Jahve ⟨ir⟩ mans spēks un mans vairogs; Manā Viņā ir paļāvusies mana sirds, un es tiku palīdzēts, un mana sirds līksmos, un ar manu dziesmu es Viņu godināšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/28\/5-8.1792527296419.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mans spēks"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "un mans vairogs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Manā Viņā"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ir paļāvusies"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "un es tiku palīdzēts"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "un līksmos"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "un ar manu dziesmu"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "es Viņu godināšu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:56.420207822Z",
+  "model": "glm-5.3"
+}

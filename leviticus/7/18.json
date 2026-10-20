@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 7:18",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtne, dzīvības spēks, ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "crux",
+      "subject": "פגול",
+      "rationale": "reti vārds — 'pretīgi smirdošs, ceremoniāli nepieņemams'; tulkoti kā 'pretīga lieta', 'zieplojums'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האכל יאכל",
+      "rationale": "Infinitivus absolutus atkārtojums: 'ēšanu ēd' — pastiprinājums, latviski zudis"
+    }
+  ],
+  "translation": "Un ja gaļa no viņa šelam upura tiks ēsta trešajā dienā, tas netiks labvēlīgi pieņemts; tam, kas to piedāvā, tas netiks ieskaitīts — tas būs piģūls; un dvēsele, kas no tā ēd, nesīs savu vainu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3aeca30b3b93ac8a60d940b7fbaa971e9745304dfba8e5ec03b1294a7b208a02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/7\/17-20.1792513664900.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tiks ēsta"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "gaļa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "upura"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "viņa šelam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "tiks labvēlīgi pieņemts"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "tam, kas piedāvā"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to (upuri)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tiks ieskaitīts"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "piģūls"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "un dvēsele"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "kas ēd"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "savu vainu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nesīs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:27:44.901550581Z",
+  "model": "glm-5.3"
+}

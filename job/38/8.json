@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 38:8",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "no miesas",
+      "rationale": "רחם ir dzemde — dzemdību tēls, kā KJV 'womb'; latviski 'no dzemdes' iespējams."
+    },
+    {
+      "kind": "idiom",
+      "subject": "jūra ar vārtiem",
+      "rationale": "Jūra kā jaundzimušais, ko aizsprosto ar durvīm — radīšanas priekšstats, ne burtiskas durvis."
+    }
+  ],
+  "translation": "Vai ⟨ko⟩ aizsedzis ar vārtiem jūru, kad tā izplūda, no miesas iznākdama?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/5-8.1792529538273.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסך",
+      "gloss": "aizsedzis"
+    },
+    {
+      "surface": "בדלתים",
+      "gloss": "ar vārtiem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūru"
+    },
+    {
+      "surface": "בגיחו",
+      "gloss": "izplūda"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "no miesas"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iznākdama"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:18.275124612Z",
+  "model": "glm-5.3"
+}

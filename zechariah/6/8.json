@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוחי 'mana ruah' — ne 'mans gars' viens: vārds ir ruah, vējš un elpa un Gars kopā."
+    },
+    {
+      "kind": "crux",
+      "subject": "הניחו",
+      "rationale": "'devušas atpūsties' \/ 'nomierinājušas' (KJV 'quieted') pret 'atvieglojušas' (JPS 'eased') — vai ziemeļu zirgu iziešana Jahves dusmu mierinājusi vai vienkārši novedusi līdz galam."
+    },
+    {
+      "kind": "you",
+      "subject": "Zeharjaham",
+      "rationale": "Eņģelis iesaucas un runā tieši pie pravieša — 'lūk' ir uzruna redzētājam."
+    }
+  ],
+  "translation": "Un viņš iesaucās ⟨את⟩ mani un runāja ar mani, sacīdams: Lūk, tie, kas iet uz ziemeļu zemi, ir devušas atpūsties ⟨את⟩ manu ruah ziemeļu zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/6\/5-8.1792526826306.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "un viņš iesaucās"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mani"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ar mani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "tie, kas iet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ziemeļu"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "ir devušas atpūsties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano ruah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mano ruah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ziemeļu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:07:06.317205259Z",
+  "model": "glm-5.3"
+}

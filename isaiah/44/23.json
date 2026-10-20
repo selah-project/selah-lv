@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 44:23",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Gavilējiet… kliedziet… izplūstiet",
+      "rationale": "Trīskāršs pavēles aicinājums viss dabai — debesīm, zemes dzīlēm, kalniem un mežam — gavilēt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנו \/ הריעו \/ פצחו",
+      "rationale": "Trīs dažādi 'skaņas sprādziena' darbības vārdi paralelismā; latviski trīs atšķirīgi vārdi zaudē skaņas vienotību."
+    },
+    {
+      "kind": "alternative",
+      "subject": "izplūstietdziesmā",
+      "rationale": "פצחו burtiski 'lauziet ārā' — priekšroka dots 'izplūstiet dziesmā' kā latviskam prieka izvirduma tēlam."
+    }
+  ],
+  "translation": "Gavilējiet, debesis, jo darīja Jahve; kliedziet, zemes apakšas; izplūstietdziesmā, kalni, mežs un viss koks tanī, jo izpirka Jahve Jaakovu, un Jisraēlā ⟨viņš⟩ cels sev godu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/44\/21-24.1792522775283.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "Gavilējiet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "kliedziet"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "apakšas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "izplūstiet"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalni"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "dziesmā"
+    },
+    {
+      "surface": "יער",
+      "gloss": "mežs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "izpirka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "un Jisraēlā"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "cels sev godu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:59:35.284116746Z",
+  "model": "glm-5.3"
+}

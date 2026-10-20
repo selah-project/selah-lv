@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "filistiešu valdniekiem pret Davidu",
+      "rationale": "Retoriskais jautājums vērsts pieši pret Davidu kā apsūdzība."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלפיו \/ רבבתו",
+      "rationale": "Tūkstoši pret desmit tūkstošiem — dziesmas pretstats, kas latviski saglabāts skaitļu kāpinājumā."
+    }
+  ],
+  "translation": "Vai nav šis tas Davids, par ko viņi atsaucās viņam dejās, sacīdami: Šauls sita savos tūkstošos, un Dāvids savos desmit tūkstošos?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/29\/5-8.1792519512789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "vai nav"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par ko"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "viņi atsaucās"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "dejās"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "savos tūkstošos"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "un Dāvids"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "savos desmit tūkstošos"
+    }
+  ],
+  "timestamp": "2026-10-20T18:05:12.790573495Z",
+  "model": "glm-5.3"
+}

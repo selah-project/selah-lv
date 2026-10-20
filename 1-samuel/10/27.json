@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמחריש",
+      "rationale": "Sakne חרש nozīmē gan 'būt nedzirdīgam', gan 'klusēt': 'viņš bija kā nedzirdīgs' (YLT) pret 'viņš klusēja' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני בליעל",
+      "rationale": "'bezvērtības dēli' — burtisks Beliāala dēli; KJV to pieņem kā vārdu 'Beliāala bērni'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "Šeit dāvana\/nodeva ķēniņam, ne upuris — tāpēc 'dāvana', ne 'minha' upura nozīmē."
+    },
+    {
+      "kind": "you",
+      "subject": "bezvērtības dēli",
+      "rationale": "Pretēji vīri vēršas pie Šaūla ar nicinošu jautājumu: 'Kā šis mūs izglābs?'"
+    }
+  ],
+  "translation": "Un bezvērtības dēli sacīja: Kā šis mūs izglābs? Un viņu nicināja un neatnesa viņam dāvanu; un viņš bija kā nedzirdīgs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/10\/25-27.1792518961856.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "un dēli"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bezvērtības"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mūs izglābs"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "un viņu nicināja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "atnesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dāvanu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "kā nedzirdīgs"
+    }
+  ],
+  "timestamp": "2026-10-20T17:56:01.857252612Z",
+  "model": "glm-5.3"
+}

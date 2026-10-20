@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lai",
+      "rationale": "Infinitīva ולשמור 'un sargāt' nolūks latviski pieprasa palīgvārdu, lai teikums būtu lasāms kā mērķa teikums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toru",
+      "rationale": "תורה atstāta kā Tora, nevis 'bauslība' — Selah ruleļa prasība; vārds patur savu formu."
+    }
+  ],
+  "translation": "Tikai lai Jahve tev dod saprašanu un izpratni, un lai Viņš tevi iecēl pār Jisraēlu, ⟨lai⟩ sargāt ⟨את⟩ Jahves, tava Elohim, Toru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/22\/9-12.1792531471413.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tikai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lai dod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "saprašanu"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "un izpratni"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "un lai Viņš tevi iecēl"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "un ⟨lai⟩ sargāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves, tava Elohim, Toru"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tava Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T21:24:31.414858176Z",
+  "model": "glm-5.3"
+}

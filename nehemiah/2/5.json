@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 2:5",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב על המלך",
+      "rationale": "Burtiski 'labs uz ķēniņa' — pieklājības idoma 'ja tas patīk ķēniņam'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas ir⟩ · ⟨tad⟩",
+      "rationale": "Ebreju teikumam latviešu valodā vajadzīgs saistītājs; אשר kā nosacījuma saiklis atspoguļots ar ⟨tad⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "ķēniņam (Artaĥšastam)",
+      "rationale": "Nehemija runā tieši ar Persijas ķēniņu, pazemīgā kalpa formā."
+    }
+  ],
+  "translation": "Un es sacīju ķēniņam: ja ķēniņa priekšā ⟨tas ir⟩ labs, un ja tavs kalps ir labs tavā priekšā, ⟨tad⟩ sūti mani uz Jehudu, uz pilsētu, kas ir mana tēvu kapi, un es to uzcelsšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2784d643033be86d5492969d579d6efefed8fc218155a0296243b073685de904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/2\/5-8.1792530676391.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "un es sacīju"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ir labs"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs kalps"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tavā priekšā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨tad⟩"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "sūti mani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "kapi"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "manu tēvu"
+    },
+    {
+      "surface": "ואבננה",
+      "gloss": "un es to uzcelsšu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:11:16.392724378Z",
+  "model": "glm-5.3"
+}

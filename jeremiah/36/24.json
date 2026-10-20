@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 36:24",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņi",
+      "rationale": "Subjects ebreju tekstā seko pēc darbības vārdiem (ķēniņš un kalpi); latviski teikuma sākumā pievienots 'viņi' iekavās."
+    },
+    {
+      "kind": "idiom",
+      "subject": "קרעו את בגדיהם",
+      "rationale": "Drēbju plēšana — sēru un šausmu žests Bībelē, ne vienkārši 'saplēsa drēbes'."
+    }
+  ],
+  "translation": "Un ⟨viņi⟩ nebija nobijušies un neplēsa ⟨את⟩ savas drēbes — ne ķēniņš, ne visi viņa kalpi, kas dzirdēja ⟨את⟩ visus šos vārdus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/36\/21-24.1792524130790.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Un nebija"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nobijušies"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "plēsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savas drēbes"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "savas drēbes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpi"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "kas dzirdēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus šos vārdus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "šos vārdus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T19:22:10.791932601Z",
+  "model": "glm-5.3"
+}

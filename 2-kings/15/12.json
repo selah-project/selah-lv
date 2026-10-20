@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 15:12",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodā teikumam tas nepieciešams."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Prievārds iekļauts darbības vārdā 'runāja Jehū', atsevišķi netulkots."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ceturtajai paaudzēi",
+      "rationale": "רביעים burtiski 'ceturtie' — dēlu ceturtā paaudze, nevis skaitlis par sēdēšanas reizēm."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "Vārda atkārtojums: 'vārds' (dāvār) un 'runāja' (dibēr) — viena sakne divreiz."
+    }
+  ],
+  "translation": "Šis ⟨ir⟩ Jahves vārds, ko Viņš runāja Jehū, sacīdams: Tavi dēli līdz ceturtajai paaudzēi sēdēs tev uz Jisraēla troņa; un tas notika tā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4dc9f2bf2ec57c7061389192f49d33977691d4ad5729251feed0c3db7bf154bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/15\/12-12.1792532609372.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehū"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "רביעים",
+      "gloss": "līdz ceturtajai paaudzēi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sēdēs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troņa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un notika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:29.372900812Z",
+  "model": "glm-5.3"
+}

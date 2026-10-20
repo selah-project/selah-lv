@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק transliterēts pēc D2, nevis 'taisnība' viena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed-ievi",
+      "rationale": "וחסידיך no חסד saknes — 'tavi uzticamie', forma saglabā hesed vārdu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lūgums par priesteriem",
+      "rationale": "Pants ir lūgums dievkalpojuma dalībniekiem — priesteriem un svētajiem"
+    }
+  ],
+  "translation": "Tavi priesteri lai ģērbjas cedek, un tavi hesed-ievi lai gavilē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/132\/9-12.1792528368309.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "tavi priesteri"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "lai ģērbjas"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "un tavi hesed-ievi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "lai gavilē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:48.309775187Z",
+  "model": "glm-5.3"
+}

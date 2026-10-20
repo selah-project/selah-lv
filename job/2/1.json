@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 2:1",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tā⟩",
+      "rationale": "Ebreju tekstā ir vienkārši 'un notika diena'; latviešu valodai vajadzīgs rādāmais vietniekvārds"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני האלהים",
+      "rationale": "'Elohim dēli' — dievišķā padome vai eņģeļi; turēts pie burtiskās formas"
+    }
+  ],
+  "translation": "Un notika ⟨tā⟩ diena, kad Elohim dēli nāca nostāties Jahves priekšā, un arī sātans nāca viņu vidū nostāties Jahves priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/2\/1-4.1792529015793.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨tā⟩ diena"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "nostāties"
+    },
+    {
+      "surface": "על",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "un nāca"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "sātans"
+    },
+    {
+      "surface": "בתכם",
+      "gloss": "viņu vidū"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "nostāties"
+    },
+    {
+      "surface": "על",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T20:43:35.794558918Z",
+  "model": "glm-5.3"
+}

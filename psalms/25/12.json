@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju jautājuma teikumam latviešu valodā vajag saikli"
+    },
+    {
+      "kind": "crux",
+      "subject": "kas izvēlas",
+      "rationale": "יִבְחָר subjekts neskaidrs: cilvēks izvēlas ceļu (KJV, JPS) vai Jahve izvēlas ceļu cilvēkam (BSB)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums 'Kas ir šis vīrs?'",
+      "rationale": "Pants lasītāju tieši uzrunā ar retorisku jautājumu un aicina sevi tajā ieraudzīt"
+    }
+  ],
+  "translation": "Kas ⟨ir⟩ ⟨את⟩ šis vīrs, kas bīstas Jahve? Viņš pamācīs viņu ceļā, ko viņš izvēlēsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/9-12.1792527281663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kas bīstas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Viņš pamācīs viņu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "izvēlēsies"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:41.664403348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 43:27",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jūsu⟩ · ⟨ir⟩",
+      "rationale": "Ebrejskis tam nie dod possessīvu vietniekvārdu un izlaista sauca 'dzīvs' — latviešu valodā tie ir pievienoti."
+    },
+    {
+      "kind": "you",
+      "subject": "brāļiem",
+      "rationale": "Jozefs tieši uzrunā brāļus ar jautājumu par tēvu."
+    }
+  ],
+  "translation": "Un viņš vaicāja tiem par labklājību un sacīja: Vai ir labklājība ⟨jūsu⟩ tēvam, vecajam vīram, par kuru jūs runājāt? Vai viņš vēl ⟨ir⟩ dzīvs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ad29b0b4bfc4f385cc47d98ed429914c61c3ad3df6785ab88731280f0a18042",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/43\/26-28.1792514837341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Un viņš vaicāja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "par labklājību"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Vai ir labklājība"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tēvam"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "vecajam vīram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par kuru"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "jūs runājāt"
+    },
+    {
+      "surface": "העודנו",
+      "gloss": "Vai viņš vēl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dzīvs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:17.343624899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 34:4",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ובפרך",
+      "rationale": "verse-final 'un ar bardzību' karājas bez darbības vārda — ebreju teksts apzināti atstāj frāzi puspabeigtu pie bardzības."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "atbalstīt\/saiēt\/atvest\/meklēt",
+      "rationale": "piecu darbību antitēze: četras gana pienākumus noliedz ar לא, piekto — valdīšanu ar varu — apstiprina; struktūra zūd, ja to saīsina."
+    },
+    {
+      "kind": "you",
+      "subject": "ganiem",
+      "rationale": "pantā ir tieša uzruna Israēļ ganiem (34:2 konteksts), kas izteikta ar jūs-formām."
+    }
+  ],
+  "translation": "⟨את⟩ vājos jūs neatbalstījāt, un ⟨את⟩ slimos jūs nedziedinājāt, un salauzto jūs nesaiējāt, un ⟨את⟩ aizklejoto jūs neatvedāt atpakaļ, un ⟨את⟩ pazudušo jūs nemeklējāt, bet ar varu un ar bardzību jūs valdījāt pār ⟨את⟩ ⟨viņiem⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "eca4becdda441cd1811fc1e2e965f288b2b2a5fd4f39e536d57cf934f346f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/34\/4-4.1792532768822.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vājos"
+    },
+    {
+      "surface": "הנחלות",
+      "gloss": "vājos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזקתם",
+      "gloss": "atbalstījāt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "slimos"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "slimos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רפאתם",
+      "gloss": "dziedinājāt"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "un salauzto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חבשתם",
+      "gloss": "saiējāt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "aizklejoto"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "aizklejoto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "atvedāt atpakaļ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "pazudušo"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "pazudušo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתם",
+      "gloss": "meklējāt"
+    },
+    {
+      "surface": "ובחזקה",
+      "gloss": "bet ar varu"
+    },
+    {
+      "surface": "רדיתם",
+      "gloss": "valdījāt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨viņiem⟩",
+      "marks": "viņiem"
+    },
+    {
+      "surface": "ובפרך",
+      "gloss": "un ar bardzību"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:08.822663896Z",
+  "model": "glm-5.3"
+}

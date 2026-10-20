@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזבחהו",
+      "rationale": "Darbības vārds nozīmē 'upurēja\/nokāva upurim' — vai Eļiša upurēja liellopus Elohim, vai vienkārši tos nokāva ēšanai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jūgs",
+      "rationale": "צֶמֶד burtiski ir 'jūgs, pāris' — divi vērši, kas ijuši kopā; latviski ņemts 'liellopu jūgs'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "no viņa pakaļas",
+      "rationale": "מֵאַחֲרָיו — burtiski 'no pakaļas', t.i., 'atstāja viņu un griezās atpakaļ'; saglabāts burtiskais tēls."
+    }
+  ],
+  "translation": "Un viņš griezās atpakaļ no viņa pakaļas, un paņēma ⟨את⟩ liellopu jūgu, un to nokāva, un ar liellopu rīkiem izvārīja ⟨את⟩ gaļu, un deva ļaudīm, un tie ēda; un viņš cēlās un gāja aiz Elijas un kalpoja viņam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5076565023418a7989232226fbb04f6024484b4fb81ebf6772c0f9504bc5aaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/19\/21-21.1792520903367.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "un griezās atpakaļ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "no viņa pakaļas"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "un paņēma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liellopu jūgu"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "jūgu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopu"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "un to nokāva"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "un ar rīkiem"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "liellopu"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "izvārīja"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "gaļu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "un deva"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ļaudīm"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un tie ēda"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "un viņš cēlās"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijas"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "un kalpoja viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:23.368320354Z",
+  "model": "glm-5.3"
+}

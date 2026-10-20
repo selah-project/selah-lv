@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעונן",
+      "rationale": "Sakne ענן — 'mākonis': mākoņu vērotājs (zīlēšana pēc mākoņiem) pret 'laiku vērotājs' (KJV)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קסם קסמים",
+      "rationale": "Infinitivus absolutus — viena sakne divreiz; latviski atveidots ar diviem vārdiem"
+    }
+  ],
+  "translation": "Lai tev netiek atrasts neviens, kas laidis pāri ⟨את⟩ savu dēlu un ⟨את⟩ savu meitu ugunī, ne zīlētājs zīlēs, ne mākoņu vērotājs, ne čukstētājs, ne burvis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/18\/9-12.1792517039675.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tiek atrasts"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "kas laidis pāri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savu dēlu"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "un savu meitu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "zīlētājs"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "zīlēs"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "mākoņu vērotājs"
+    },
+    {
+      "surface": "ומנחš",
+      "gloss": "čukstētājs"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "burvis"
+    }
+  ],
+  "timestamp": "2026-10-20T17:23:59.676741348Z",
+  "model": "glm-5.3"
+}

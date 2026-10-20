@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם … ואם",
+      "rationale": "Zvēresta nosacījuma formuls ar 'אם' — 'ja tu darīsi…' kā apgalvojuma noliegums; latviski tulkots kā vienkāršs noliegums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pēcteči",
+      "rationale": "זרעי burtiski 'mana sēkla' — sēkla kā pēcnācēji."
+    }
+  ],
+  "translation": "Un tagad zvērē man pie Jahves: tu nenogalināsi ⟨את⟩ manus pēctečus pēc manis un tu neiznīdēsi ⟨את⟩ manu vārdu no mana tēva nama.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/21-23.1792519320697.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "zvērē"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pie Jahves"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "nenogalināsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manus pēctečus"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "manus pēctečus"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc manis"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un vai"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "neiznīdēsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu vārdu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "manu vārdu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:00.697930818Z",
+  "model": "glm-5.3"
+}

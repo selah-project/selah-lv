@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וְסַלְעוֹ מִמָּגוֹר יַעֲבֹר",
+      "rationale": "KJV 'he shall pass over to his strong hold' pretī ASV\/JPS 'viņa klints ies bojā briesmu dēļ' — לו var attiekties uz Asīrijas klinti (dievu) vai uz palīgu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוּר",
+      "rationale": "Burtiski 'liesma\/gaisma'; tulkots kā 'uguns' pēc konteksta krāsns līdzsvaram."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'kura uguns ⟨ir⟩ Cionā'."
+    }
+  ],
+  "translation": "Un viņa klints briesmu pārņemta ies pāri, un viņa firstari iztrūksies no karoga, saka Jahve, kam uguns ⟨ir⟩ Cionā un kam krāsns ⟨ir⟩ Jerušalaimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/31\/9-9.1792522364089.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "un viņa klints"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "no briesmām"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ies pāri"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "un iztrūksies"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "no karoga"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "viņa firstari"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuram"
+    },
+    {
+      "surface": "אור",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cionā"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "un krāsns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:52:44.089876735Z",
+  "model": "glm-5.3"
+}

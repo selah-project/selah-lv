@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 2:32",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav izteikta saiklis 'ir' — pievienots kā ⟨ir⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "visu nakti",
+      "rationale": "Laika norāde — nakts gājiens no Bētlehēmas uz Hebronu, gaismai austot ierodas galamērķī."
+    }
+  ],
+  "translation": "Un viņi pacēla ⟨את⟩ Asahelu un apbedīja viņu viņa tēva kapā, kas ⟨ir⟩ Bētlehēmā. Un gāja visu nakti Joābs un viņa vīri, un viņiem ausa gaisma Hebronā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/2\/29-32.1792519627278.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Un viņi pacēla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahelu"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahelu"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "un apbedīja viņu"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "kapā"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "viņa tēva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bēt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehēmā"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Un gāja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joābs"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "un viņa vīri"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "un ausa gaisma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebronā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:07.280181916Z",
+  "model": "glm-5.3"
+}

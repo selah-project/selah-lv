@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨piederi⟩",
+      "rationale": "ebreju 'למי אתה' (kam tu?) latviski prasa darbības vārdu 'piederēt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "bez kopulas jautājums 'un kam šie tev pa priekšu' latviski nepilnīgs"
+    },
+    {
+      "kind": "you",
+      "subject": "to servants",
+      "rationale": "Jaakoba runa tieši vērsta uz pirmā bara ganu — trīs jautājumi, ko Esavs uzdos"
+    }
+  ],
+  "translation": "Un viņš pavēlēja ⟨את⟩ pirmajam, sacīdams: Kad Esavs, mans brālis, tevi satiks un tev vaicās, sacīdams: Kam tu ⟨piederi⟩, un uz kurieni tu ej, un kam ⟨ir⟩ šie tev pa priekšu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/17-20.1792512221971.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Un viņš pavēlēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pirmajam"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "tevi satiks"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mans brālis"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "un tev vaicās"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "un uz kurieni"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu ej"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "un kam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "tev pa priekšu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:03:41.972569003Z",
+  "model": "glm-5.3"
+}

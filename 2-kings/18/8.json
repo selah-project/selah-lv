@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "no sargu torņa līdz nocietinātai pilsētai",
+      "rationale": "Izteiciens par visu apdzīvoto apgabalu — no mazākā posteņa līdz lielākai pilsētai"
+    }
+  ],
+  "translation": "Viņš sita ⟨את⟩ filistiešus līdz Azai un ⟨את⟩ tās robežas, no sargu torņa līdz nocietinātai pilsētai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/18\/5-8.1792521538322.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistiešus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiešus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "robežas"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "tās robežas"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "no torņa"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "sargu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētai"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nocietinātai"
+    }
+  ],
+  "timestamp": "2026-10-20T18:38:58.323464977Z",
+  "model": "glm-5.3"
+}

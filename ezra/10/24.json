@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vārtu sargi",
+      "rationale": "השערים burtiski 'vārtu sargi', celms no 'durvju sargs'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalpotāju saraksts",
+      "rationale": "Dziedātāju un vārtu sargu vārdu uzskaitījums."
+    }
+  ],
+  "translation": "Un no dziedātājiem: Elijašibs; un no vārtu sargiem: Šallums, Telems un Urijs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e8e374dc17290647c4999d28fc1067e30131f54758a9713fd419cf56ab9f095a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/10\/21-24.1792530612225.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "dziedātājiem"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elijašibs"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vārtu sargiem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šallums"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "Telems"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Urijs"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:12.226394267Z",
+  "model": "glm-5.3"
+}

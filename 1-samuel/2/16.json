@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpa\/rīkle\/dzīvības spēks, ne tikai 'dvēsele'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קטר יקטירון",
+      "rationale": "KJV lasa 'La viņi neaizkavē sadedzināt taukus'; ebrejiski pavēle + 'kā šodien' — upurētājs prasa, lai rituāls notiek kā parasti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי עתה תתן",
+      "rationale": "Var lasīt arī kā apgalvojumu 'jo tagad tu dosi', ne noliegumu 'Nē'."
+    }
+  ],
+  "translation": "Un vīrs sacīja viņam: Sadedzini, lai tie sadedzina taukus kā šodien, un ņem sev, ko tava dvēsele iekāro; bet viņš viņam sacīja: Nē — tagad tu dosi, un ja ne, es ņemšu ar varu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/13-16.1792518765663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "Sadedzini"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "lai tie sadedzina"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā šodien"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "un ņem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sev"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "iekāro"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tava dvēsele"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bet viņš sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nē — jo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu dosi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "es ņemšu"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "ar varu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:52:45.664443210Z",
+  "model": "glm-5.3"
+}

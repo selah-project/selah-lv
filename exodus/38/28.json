@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šinkeļiem",
+      "rationale": "Skaitlis pārnesti attiecas uz v.25 minēto sudrabu; vārds 'šekels' šeit ebreju tekstā nav atkārtots"
+    },
+    {
+      "kind": "measurement",
+      "subject": "āķu sudrabs",
+      "rationale": "1775 šekeļi āķiem, stabu galu apklāšanai un apjošanai"
+    }
+  ],
+  "translation": "Un ⟨את⟩ tūkstoti un septiņiem simtiem septiņdesmit pieciem (šekeļiem) viņš izdarīja āķus stabiem un apklāja ar metālu tos galus un apjoza tos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72142e2c512027b19cb84e1c8f31c09de88e3e9e3d206baab9789faea5f974e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/38\/25-28.1792513503007.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tūkstoti un septiņiem simtiem septiņdesmit pieciem šekeļiem"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tūkstoti"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "un septiņiem"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "simtiem"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "septiņdesmit pieciem"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "šekeļiem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš izdarīja"
+    },
+    {
+      "surface": "וכשם",
+      "gloss": "āķus"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "stabiem"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "apklāja ar metālu"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "tos galus"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "apjoza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tos"
+    }
+  ],
+  "timestamp": "2026-10-20T16:25:03.022472153Z",
+  "model": "glm-5.3"
+}

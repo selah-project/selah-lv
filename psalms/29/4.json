@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; divas asindetiskas frāzes ar ב־."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "atkārtotā formula 3.–9. pantā veido litāniju — refrens, kas balss fragmentus saslēdz kopā."
+    }
+  ],
+  "translation": "Jahves balss ⟨ir⟩ spēkā, Jahves balss ⟨ir⟩ krāšņumā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/29\/1-4.1792527293823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "spēkā"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "krāšņumā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:53.824654876Z",
+  "model": "glm-5.3"
+}

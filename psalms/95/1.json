@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Nāciet, gavilēsim",
+      "rationale": "Kohortatīvs aicina dievkalpojuma kopību — panti 1–2 ir aicinājums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skaļi dziedāsim",
+      "rationale": "נריעה no רוע burtiski 'plēst ausis ar skaņu' — izsaukuma klaigu darbība, ne vien dziedāšana."
+    }
+  ],
+  "translation": "Nāciet, gavilēsim Jahvem, skaļi dziedāsim par mūsu pestīšanas klinti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/95\/1-4.1792528068791.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Nāciet"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "gavilēsim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "skaļi dziedāsim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "par klinti"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mūsu pestīšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:48.791980857Z",
+  "model": "glm-5.3"
+}

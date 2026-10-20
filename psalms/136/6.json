@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "izpleta (izkalta platu)",
+      "rationale": "רקע nozīmē 'izkalta plakani, izplest ar āmuru'; 'izpleta' glabā darbības bildi"
+    }
+  ],
+  "translation": "Tam, kas izpleta ⟨את⟩ zemi pār ūdeņiem, jo mūžībā pastāv viņa hesed.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/136\/5-8.1792528389630.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Tam, kas izpleta (izkalta platu)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mūžībā"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "viņa hesed"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:09.631090444Z",
+  "model": "glm-5.3"
+}

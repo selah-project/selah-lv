@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa pie 'mana lūgšana tīra'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "par",
+      "rationale": "על šeit var nozīmēt 'kaut arī' (kā ASV\/JPS), ne tikai 'par\/sakarā ar'"
+    }
+  ],
+  "translation": "Nav vardarbības manās plaukstās, un mana lūgšana ⟨ir⟩ tīra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dec02a82d0e9b8e9a3a8401e5f3db1ceb25f5ab05b84426a587ec3daee6cf823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/16\/17-20.1792529220982.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vardarbības"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "manās plaukstās"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "un mana lūgšana"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "tīra"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:00.983331033Z",
+  "model": "glm-5.3"
+}

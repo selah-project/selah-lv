@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "כל נפש 'katra elpa\/katra dzīva būtne', ne dvēsele abstrakti"
+    },
+    {
+      "kind": "addition",
+      "subject": "nedrīkst",
+      "rationale": "Ebrejs saka vienkārshi 'neēdīs'; latviešu pavēle izteikta ar 'nedrīkst ēst'"
+    }
+  ],
+  "translation": "Tāpēc Es sacīju Jisraēla dēliem: neviena dvēsele no jums nedrīkst ēst asinis, un arī svešinieks, kas dzīvo jūsu vidū, nedrīkst ēst asinis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/17\/9-12.1792514961835.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Es sacīju"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "neviena"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "no jums"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedrīkst"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "un svešinieks"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kas dzīvo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "jūsu vidū"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedrīkst"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ēst"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:21.837904580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lūgums Jahvem",
+      "rationale": "Tiešs vēršanās pie Jahves ar noliedzošiem imperatīviem — neklusē, neattālinies."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תחרש",
+      "rationale": "Burtiski 'nekas neērc un neaplūc' — pārnesti 'nekklusē', klusuma kā darbības tēls."
+    }
+  ],
+  "translation": "Tu esi redzējis, Jahve, neklusē, Adonai, neattālinies no manis!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/35\/21-24.1792527380536.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Tu esi redzējis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "klusē"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "attālinies"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "no manis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:20.537692430Z",
+  "model": "glm-5.3"
+}

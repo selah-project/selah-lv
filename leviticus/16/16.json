@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izlīdzinās",
+      "rationale": "כפר burtiski 'segss, pārklās' — tas pats saknes vārds, no kā כפורת 'vāks'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "šeit אתם ir prievārds H854 'ar viņiem', nevis tiešā objekta marķieris ⟨את⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפר \/ כפורת",
+      "rationale": "darbības vārds 'izlīdzināt\/seg't un vāka nosaukums dalā vienu sakni — latviešu tulkojumā šī saite jāsadrūš"
+    }
+  ],
+  "translation": "Un viņš izlīdzinās svēto vietu no Jisraēla dēlu nešķīstībām un viņu pārkāpumiem par visiem viņu grēkiem, un tāpat viņš darīs tikšanās teltij, kas mīt ⟨את⟩ ar viņiem viņu nešķīstību vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/16\/13-16.1792514948140.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Un viņš izlīdzinās"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svēto vietu"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "no nešķīstībām"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "un viņu pārkāpumiem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "par visiem"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "viņu grēkiem"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "un tāpat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "viņš darīs"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "teltij"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tikšanās"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "kas mīt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ar viņiem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "viņu nešķīstību"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:08.144169252Z",
+  "model": "glm-5.3"
+}

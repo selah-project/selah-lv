@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "'man' — 'kas tas ir?' (man hu): mannas nosaukums no jautājuma, zaudēts latviski"
+    },
+    {
+      "kind": "alternative",
+      "subject": "באחריתך",
+      "rationale": "'tava pēdējā daļa\/beigas' — var arī nākotne ilgtermiņā; latviski 'tavā galā'"
+    }
+  ],
+  "translation": "kas tevi pabaroja ar manu tuksnesī, ko tavi tēvi nav pazinuši — lai tevi pazemotu un lai tevi pārbaudītu, lai tev izdarītu labu tavā galā",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/8\/13-16.1792516812056.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "kas tevi pabaroja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ar manu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "pazinuši"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tavi tēvi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "tevi pazemotu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "un lai"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "tevi pārbaudītu"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "tev izdarītu labu"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "tavā galā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:12.059131298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ienaidnieks un atriebējs",
+      "rationale": "אויב burtiski 'ienīstošais — pretinieks'; מתנקם partikips 'aizbildamais pats par sevi', viens vārds — 'aizbildamais pats par sevi' sadalīts divos vārdos."
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני",
+      "rationale": "'no sevis dēļ' — burtiski 'no sevis dēļ'; ⟨sevis⟩ pievienots locījuma skaidrībai latviešu valodā."
+    }
+  ],
+  "translation": "No balss tā, kas apsmej un zaimo, no ienaidnieka un atriebēja ⟨sevis⟩ dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/44\/17-20.1792527492292.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "no balss"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "tā, kas apsmej"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "un zaimo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "no … dēļ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieka"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "un atriebēja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:12.292881584Z",
+  "model": "glm-5.3"
+}

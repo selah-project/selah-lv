@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodai trūkst saikļa; latviešu valoda to pieprasa abos jautājumos."
+    },
+    {
+      "kind": "crux",
+      "subject": "נחוש",
+      "rationale": "'Varains\/ciets kā varš' — vai miesa ir no vara (materiāls), vai 'nierveida'; izvēlēts vienkāršais tēls 'vara'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retoriskie jautājumi",
+      "rationale": "Divi retoriskie jautājumi vērsti pret draugiem — Ijovs noliedz, ka viņš būtu no akmens un vara."
+    }
+  ],
+  "translation": "Vai mans spēks ir akmeņu spēks? Vai mana miesa ir vara?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b0a05659bc876b3361961812f181aaa24fa124f8f35a63115e3387084ae923f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/6\/12-12.1792532833657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כח",
+      "gloss": "spēks"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "akmeņu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mans spēks"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mana miesa"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "vara"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:13.657705077Z",
+  "model": "glm-5.3"
+}

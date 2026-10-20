@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'rīkle\/dzīvības spēks'; 'cenšas pēc viņu dzīvības' ir otrs iespējamais lasījums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במצור ובמצוק",
+      "rationale": "maṣor\/maṣoq — skanējuma līdzība, latviski zūd"
+    },
+    {
+      "kind": "addition",
+      "subject": "Un Es darīšu, ka",
+      "rationale": "האכיל (hifil) nozīmē 'likt ēst' — latviski vajadzīga palīgkonstrukcija"
+    }
+  ],
+  "translation": "Un Es darīšu, ka viņi ēd ⟨את⟩ sava dēla miesu un ⟨את⟩ savas meitas miesu, un ikviens ēdīs sava tuvākā miesu aplenkumā un grūtībās, kādās viņus iesprostos viņu ienaidnieki un tie, kas cenšas pēc viņu dvēseles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8582fbfb4effbbd0d47082f303133cff0de2b57258bb9c7f90f9bae10d4fb959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/19\/9-12.1792523750162.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "Un Es darīšu, ka viņi ēd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava dēla miesu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sava dēla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savas meitas miesu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "savas meitas"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un ikviens"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sava tuvākā"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ēdīs"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "aplenkumā"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "un grūtībās"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kādās"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "viņus iesprostos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "viņu ienaidnieki"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "un tie, kas cenšas pēc"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "viņu dvēseles"
+    }
+  ],
+  "timestamp": "2026-10-20T19:15:50.162909257Z",
+  "model": "glm-5.3"
+}

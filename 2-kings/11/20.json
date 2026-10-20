@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju valoda iztrūkst saikli; latviešu valodai vajadzīgs 'bija' mierā."
+    },
+    {
+      "kind": "crux",
+      "subject": "בֵּית הַמֶּלֶךְ",
+      "rationale": "Tulkotāji dalās: 'pie ķēniņa nama' (KJV, geneva) pret 'ķēniņa namā' (YL T, JPS); krāšanas formā tas ir viens nams."
+    }
+  ],
+  "translation": "Un priecājās viss zemes ļaudis, un pilsēta bija mierā, un ⟨את⟩ Ataliju nogalināja ar zobenu ķēniņa namā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "293dc490ce0fc2e61f386feeb309d58976d8ec29b675371b7143cd7ed9a7bab0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/11\/20-20.1792532608426.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Un priecājās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viss"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "un pilsēta"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bija mierā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Ataliju"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliju"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "nogalināja"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ar zobenu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:28.427536907Z",
+  "model": "glm-5.3"
+}

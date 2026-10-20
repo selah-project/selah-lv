@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 24:21",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahve",
+      "rationale": "יהוה tulkots ar Vārdu Jahve, nevis 'Kungs', pēc lv krēsla D1."
+    },
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "Vietniekvārds 'viņu' attiecas uz Caharju no iepriekšējā panta; ebreju tekstā pats vārds šeit nav."
+    }
+  ],
+  "translation": "Un tie sazvērējās pret viņu un nomētāja viņu ar akmeni pēc ķēniņa pavēles, Jahve nama sētā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/24\/21-24.1792532132662.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "Un tie sazvērējās"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pret viņu"
+    },
+    {
+      "surface": "וירגמהו",
+      "gloss": "un nomētāja viņu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ar akmeni"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "pēc pavēles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "sētā"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T21:35:32.662943741Z",
+  "model": "glm-5.3"
+}

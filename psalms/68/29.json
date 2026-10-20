@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu pietiek ar vārdu secību, bet teikumam vajadzīgs pilnais izteikums."
+    },
+    {
+      "kind": "crux",
+      "subject": "עוזה",
+      "rationale": "Vokalizācija norāda uz imperatīvu 'esi stiprs\/pastiprini' (עוּזָּה) vai uz sieviešu dzimtes 'viņas spēks' (עֻזֵּה); KJV 'strengthen' pret YLT 'be strong'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "זו",
+      "rationale": "'Šis, tas, ko tu esi mums darījis' — זו var norādīt uz priekšu (spēks, ko tu parādīsi), nevis atpakaļ."
+    }
+  ],
+  "translation": "Tavs Elohim ir pavēlējis tavu spēku; pastiprini, Elohim, to, ko tu esi mums darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/68\/29-32.1792527801486.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ir pavēlējis"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tavu spēku"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "pastiprini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "to"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "tu esi darījis"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:21.487239670Z",
+  "model": "glm-5.3"
+}

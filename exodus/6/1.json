@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tos⟩",
+      "rationale": "Ivrita galotnes -ם objekta vietniekvārds latviski prasa vienkāršu vietniekvārdu, pievienots iekavās"
+    },
+    {
+      "kind": "crux",
+      "subject": "ar stipru roku",
+      "rationale": "ביד חזקה — vai 'ar stipru roku' (Jahves roka, kas liek Paraonam) vai 'ar varu' — tulkotāji dalāti"
+    }
+  ],
+  "translation": "Un Jahve sacīja Mošem: tagad tu redzēsi, ko Es darīšu Paraonam, jo ar stipru roku viņš ⟨tos⟩ izsūtīs, un ar stipru roku viņš tos padzīs no savas zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/6\/1-4.1792512760243.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu redzēsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Es darīšu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paraonam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ar roku"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stipru"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "viņš tos izsūtīs"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "un ar roku"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stipru"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "viņš tos padzīs"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "no savas zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:12:40.244478516Z",
+  "model": "glm-5.3"
+}

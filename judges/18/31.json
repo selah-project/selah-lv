@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 18:31",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Ebreju laika konstrukcijai latviešu valodā vajadzīgs apzīmētājs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "visas dienas",
+      "rationale": "Ilguma skaitīšana — ilgu pastāvēšana tik ilgi, kamēr nams stāvēja Šilo."
+    }
+  ],
+  "translation": "Un viņi uzstādīja sev ⟨את⟩ Mihas ilgu, ko viņš bija darinājis, visas ⟨tas⟩ dienas, kad Elohim nams bija Šilo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "932b68771e84a1e354da2a64074dbe688fd4744a6aeacc5f1241843a1e1872c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/18\/29-31.1792518580983.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "un viņi uzstādīja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mihas ilgu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ilgu"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mihas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš bija darinājis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kad ... bija"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Šilo"
+    }
+  ],
+  "timestamp": "2026-10-20T17:49:40.984353232Z",
+  "model": "glm-5.3"
+}

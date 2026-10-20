@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 1:4",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "robeža",
+      "rationale": "Teritorijas robežu apraksts: no tuksneša un Libāna līdz Peratai un Lielajai jūrai — ģeogrāfisks mērs."
+    },
+    {
+      "kind": "idiom",
+      "subject": "saules rieta pusē",
+      "rationale": "מבוא השמש burtiski “saules ieeja” — rietumu virziens."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Latviešu teikumam vajag subjektu “tas”, ebreju valodā יהיה stāv bez tā."
+    }
+  ],
+  "translation": "No tuksneša un šī Libāna līdz lielajai upei, Peratas upei, visas hetiešu zemes, un līdz lielajai jūrai, saules rieta pusē, ⟨tas⟩ būs jūsu robeža.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "30b15dc5f2f1deb881c888d1939f98d478454c1c548751c06f65420249dfcb96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/1\/1-4.1792517480399.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהמדבר",
+      "gloss": "No tuksneša"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "un Libāna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šī"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "lielajai upei"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielajai"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "upe"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Peratas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "hetiešu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūrai"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielajai"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "saules rieta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "pusē"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "גבולכם",
+      "gloss": "jūsu robeža"
+    }
+  ],
+  "timestamp": "2026-10-20T17:31:20.401986927Z",
+  "model": "glm-5.3"
+}

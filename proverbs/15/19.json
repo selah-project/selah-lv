@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda; latviešu valodai vajag saikli."
+    },
+    {
+      "kind": "crux",
+      "subject": "סללה",
+      "rationale": "'Izlikta\/uzpietà ceļa' (no סלל 'uzbērt valni'): YLT 'raised up', KJV 'made plain'."
+    }
+  ],
+  "translation": "Slinkā ceļš — kā ērkšķu žogs, bet taisno taka ir izlīdzināta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/15\/17-20.1792528732119.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Slinkā"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "kā žogs"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "ērkšķu"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "bet taka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "taiso"
+    },
+    {
+      "surface": "סלولה",
+      "gloss": "ir izlīdzināta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:38:52.120302874Z",
+  "model": "glm-5.3"
+}

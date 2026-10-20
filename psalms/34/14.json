@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "melu",
+      "rationale": "מרמה burtiski 'viltus, krāpšana'; latviski 'melu runāšana' apvieno divus vārdus vienā jēdzienā"
+    },
+    {
+      "kind": "invitation",
+      "subject": "pavēles",
+      "rationale": "Divas imperatīva pavēles, kas vērstas uz lasītāju — mācības kodols"
+    }
+  ],
+  "translation": "Sargi ⟨את⟩ savu mēli no ļauna un ⟨את⟩ savas lūpas no melu runāšanas!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/34\/13-16.1792527379645.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "savu mēli"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "no ļauna"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "un savas lūpas"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "no runāšanas"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "melu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:19.647762413Z",
+  "model": "glm-5.3"
+}

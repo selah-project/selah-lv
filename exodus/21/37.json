@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Ebreju valodā te ir את pirms 'vērsi' un 'jēru' — atzīmēts ar ⟨את⟩ tulkojumā, jo latviešu valodā tiešā objekta marķieris nav vajadzīgs"
+    },
+    {
+      "kind": "measurement",
+      "subject": "piecus liellopus ... četras avis",
+      "rationale": "Konkrēta kompensācijas mēra noteikšana — pieci liellopi par vērsi, četras aitas un kazas par jēru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צאן",
+      "rationale": "Kolektīvs vārds 'ganāmpulks' — šeit skaitlis 'četras' prasa plurālu, tāpēc 'avis un kazas'"
+    }
+  ],
+  "translation": "Ja kāds vīrs nozags ⟨את⟩ vērsi vai ⟨את⟩ jēru un to nokaus vai pārdos, piecus liellopus viņš atlīdzinās par ⟨את⟩ vērsi un četras avis un kazas par ⟨את⟩ jēru.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "afcf93f0ea526ec85e5e6a9434ce17b66acffb57707532c6f4f28d19f09f3a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/21\/37-37.1792513055891.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "nozags"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jēru"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "un to nokaus"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "pārdos"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "piecus"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "liellopus"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "viņš atlīdzinās"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vērsi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "un četras"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis un kazas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "par"
+    },
+    {
+      "surface": "השה",
+      "gloss": "jēru"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:35.891892425Z",
+  "model": "glm-5.3"
+}

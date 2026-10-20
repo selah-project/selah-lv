@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Esteres izcelsme",
+      "rationale": "Viņas tauta un dzimta tiek apzināti slēptas — stāsta dzinējspēks."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Latviešu valodai vajag pagātnes formas palīgdarbības vārdu."
+    }
+  ],
+  "translation": "Estere nebija pateikusi ⟨את⟩ savu tautu un ⟨את⟩ savu dzimtu, jo Mordehajs bija viņai pavēlējis, ka viņa nedrīkst pateikt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3ba0d12876889e7fe4db48e0d99c20e6963b68f4e35c17da12fde8df7fc478d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/9-12.1792530082318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "pateica"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu tautu"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "savu tautu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savu dzimtu"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "savu dzimtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehajs"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pavēlēja"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "viņai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "pateikt"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:22.319226094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 20:18",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Runāt runāja pirmajā laikā",
+      "rationale": "Sarežģīts pants: infinits absolūts דבר ידברו un שאל ישאלו — 'tieši tā jautāja Abelē'; tulki sadala dažādi: KJV ' vecāk mēdza teikt', YLT 'bieži runāja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר ידברו · שאל ישאלו",
+      "rationale": "Infiniša absolūta atkārtojums — 'runāt runāja, vaicāt vaicāja' — latviski saglabāts ar darbības vārda atkārtojumu"
+    },
+    {
+      "kind": "addition",
+      "subject": "lieta",
+      "rationale": "התמו 'tika pabeigta' ir bez subjekta; latviešu valodai vajadzīgs pārstāvis"
+    }
+  ],
+  "translation": "Un viņa sacīja, sacīdama: Runāt runāja pirmajā laikā, sacīdama: Abelē vaicā vaicā, un tā ⟨lieta⟩ tika pabeigta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ad95de7365608618ac7f9b6c305ba9fc9617bdbae2756e6b10e598fadb78a20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/20\/17-20.1792520099101.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "un viņa sacīja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāt"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pirmajā laikā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdama"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vaicā"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "vaicā"
+    },
+    {
+      "surface": "באבל",
+      "gloss": "Abelē"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "התמו",
+      "gloss": "tika pabeigta"
+    }
+  ],
+  "timestamp": "2026-10-20T18:14:59.101812200Z",
+  "model": "glm-5.3"
+}

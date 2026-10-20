@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 3:1",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ļaudis",
+      "rationale": "עם ir 'ļaudis\/tauta' kā kopiena, ne tikai 'tauta' valstiskā nozīmē"
+    },
+    {
+      "kind": "addition",
+      "subject": "pie",
+      "rationale": "priekšvārds 'pie' pie Edrei pievienots latviešu locījuma izteikšanai"
+    }
+  ],
+  "translation": "Un mēs griezāmies un uzkāpām ceļu uz Bašanu, un Ogs, Bašanas ķēniņš, izgāja mums pretī — viņš un viss viņa ļaudis — karam, pie Edreji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/3\/1-4.1792516552840.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "Un mēs griezāmies"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "uzkāpām"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ceļu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "uz Bašanu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "izgāja"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašanas"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "mums pretī"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa ļaudis"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "karam"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "pie Edreji"
+    }
+  ],
+  "timestamp": "2026-10-20T17:15:52.841226827Z",
+  "model": "glm-5.3"
+}

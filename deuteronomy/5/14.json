@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 5:14",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "uz Jisraēlu",
+      "rationale": "Pavēle adresēta otrajā personā — Jisraēlam pie Horebas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septītā diena",
+      "rationale": "Dienu skaitīšana nosaka šabatu."
+    }
+  ],
+  "translation": "bet septītā diena ⟨ir⟩ šabats Jahvem, tavam Elohim; nedari nekādu darbu — ne tu, ne tavs dēls, ne tava meita, ne tavs kalps, ne tava kalpone, ne tavs vērsis, ne tavs ēzelis, ne neviens no taviem lopiem, ne tavs svešinis tavos vārtos — lai atpūstas tavs kalps un tava kalpone, kā tu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c8c3c0e2f7e937c0c2bcf573ed6107cc32a5c0ed423d8e392a6e21ac8059777",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/5\/13-16.1792516706631.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "bet diena"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītā"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabats"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavam Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedari"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nedari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nekādu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ne tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ne tavs dēls"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ne tava meita"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ne tavs kalps"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ne tava kalpone"
+    },
+    {
+      "surface": "ושורך",
+      "gloss": "ne tavs vērsis"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "ne tavs ēzelis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne neviens no"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "taviem lopiem"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ne tavs svešinis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "tavos vārtos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "atpūstas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs kalps"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "un tava kalpone"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kā tu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:18:26.632605835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "'akmens un akmens' — atkārtots vārds nozīmē dažāda lieluma svarakmeņus; latviski saglabāta burtiskā atkārtošana"
+    },
+    {
+      "kind": "you",
+      "subject": "tev",
+      "rationale": "tiekrunājums Israēlam otrajā personā"
+    },
+    {
+      "kind": "measurement",
+      "subject": "svarakmeņi",
+      "rationale": "pantā runā par mērvienībām — svariem"
+    }
+  ],
+  "translation": "Tev nebūs savā makā akmens un akmens, liela un maza.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b7e9f571d5089c7dfde532e86a96fdf45aa99d72df71c6af646362df46534ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/25\/13-16.1792517178084.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebūs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "savā makā"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "akmens"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "un akmens"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "liela"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "un maza"
+    }
+  ],
+  "timestamp": "2026-10-20T17:26:18.091293882Z",
+  "model": "glm-5.3"
+}

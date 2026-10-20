@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tautu saraksts",
+      "rationale": "Ceturtais plašā tautu izcelšanās saraksts — zemes, valodas, dzimtas un tautas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איי",
+      "rationale": "אִי nozīmē apdzīvojamu krastu, sauszemi; 'salas' ir šaurs, tradicionāls tulkojums."
+    }
+  ],
+  "translation": "No šiem tālās zemes salas tautās tika sadalītas savās zemēs, katrs pēc savas valodas, pēc savām ģimenēm savās tautās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/10\/5-8.1792511542031.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "No šiem"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "tika sadalītas"
+    },
+    {
+      "surface": "איי",
+      "gloss": "salas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautās"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "savās zemēs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "pēc savas valodas"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc savām ģimenēm"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "savās tautās"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:22.032355232Z",
+  "model": "glm-5.3"
+}

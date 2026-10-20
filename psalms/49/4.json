@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valoda izlaiž saikli starp 'pārdomas' un 'atziņas'; latviešu teikumam vajadzīgs domuzīmes risinājums"
+    },
+    {
+      "kind": "mystery",
+      "subject": "gudrības",
+      "rationale": "Psalmists sola runāt 'tumšos' gudrības vārdus — maskila dziesmu, kas verš 49:5 pārejošo bagātību noslēpumu"
+    }
+  ],
+  "translation": "Mana mute runās gudrības, un mana sirds pārdomas — atziņas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/1-4.1792527594942.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mana mute"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "runās"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "gudrības"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "un pārdomas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "atziņas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.943063220Z",
+  "model": "glm-5.3"
+}

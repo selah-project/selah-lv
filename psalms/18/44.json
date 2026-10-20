@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "par",
+      "rationale": "Latviešu valoda pieprasa prievārdu 'par' priekšrocības izteiksmei לראש גוים."
+    },
+    {
+      "kind": "measurement",
+      "subject": "galvu tautām",
+      "rationale": "Labākās hierarhijas valoda — karalis kā 'galva' tautu vidū."
+    }
+  ],
+  "translation": "Tu mani izglābi no tautas strīdiem, Tu mani ieceli par galvu tautām; tauta, ko es nezināju, kalpo man.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/18\/41-44.1792527182751.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Tu mani izglābi"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "no strīdiem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "Tu mani ieceli"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "par galvu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko es zināju"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "kalpo man"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:02.755703152Z",
+  "model": "glm-5.3"
+}

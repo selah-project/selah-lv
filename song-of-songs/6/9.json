@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 6:9",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; izceltā ׳viena viņa ׳prasa latviešu valodā ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמתי",
+      "rationale": "תם: ׳pilnīgā\/nesamežģītā׳ pret KJV ׳undefiled׳ un JPS ׳my perfect one׳."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת היא",
+      "rationale": "Trīskārša atkārtošana ׳viena viņa׳ un atbalsis ar 6:8 daudzumu (60 ķēniņienes, 80 blakus sievas) — skaitļu pretstats, kas latviski saglabājas."
+    },
+    {
+      "kind": "you",
+      "subject": "dziedātājs runā par līgavu",
+      "rationale": "Pants ir runas akts par viņu sievām, kas viņu apbrīno un slavē."
+    }
+  ],
+  "translation": "Viena ⟨ir⟩ viņa, mana balodis, mana pilnīgā; viena ⟨ir⟩ viņa savai mātei, tīrā ⟨ir⟩ viņa tai, kas viņu dzemdējusi; meitas viņu ieraudzīja un novēlēja viņai svētību, ķēniņienes un blakus sievas — un viņu slavēja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/6\/9-12.1792529642423.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Viena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "mana balodis"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "mana pilnīgā"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "savai mātei"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "tīrā"
+    },
+    {
+      "surface": "היא",
+      "gloss": "viņa"
+    },
+    {
+      "surface": "ליולדתה",
+      "gloss": "tai, kas viņu dzemdējusi"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "ieraudzīja viņu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "un novēlēja viņai svētību"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ķēniņienes"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "un blakus sievas"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "un viņu slavēja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:02.424559178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paklausīsim",
+      "rationale": "נשמע no שמע 'dzirdēt ar uzmanību' — 'paklausīt' izsaka klausīšanos ar paklausību, tāpat kā 'Šema Izraēl'."
+    },
+    {
+      "kind": "you",
+      "subject": "ļaudis Jēšuam",
+      "rationale": "Ļaužu gala apsolījums Jēšuam — trešais tiešais dialoga pavērsiens."
+    }
+  ],
+  "translation": "Un ļaudis sacīja Jēšuam: ⟨את⟩ Jahvi, mūsu Elohim, mēs kalposim, un Viņa balsij mēs paklausīsim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/24\/21-24.1792518144245.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ļaudis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jēšuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsu Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "mēs kalposim"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "un Viņa balsij"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "mēs paklausīsim"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:24.247292463Z",
+  "model": "glm-5.3"
+}

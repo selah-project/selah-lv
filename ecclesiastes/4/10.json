@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "Sasauksmes daļiņa 'vai!' (lai tam slikti) pret apstākļu 'bet, ja'; šeit žēluma izsauciens"
+    }
+  ],
+  "translation": "Jo ja iekrīt viens, otrs cels augšā ⟨את⟩ savu biedru; bet vai tam vienam, kas krīt un nav otra, kas viņu celtu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/4\/9-12.1792529880599.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "iekrīt"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "cels augšā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu biedru"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "savu biedru"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "bet vai"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tam vienam"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kas krīt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "שני",
+      "gloss": "otra"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "kas viņu celtu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:58:00.600013038Z",
+  "model": "glm-5.3"
+}

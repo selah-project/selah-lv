@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Salīdzinājuma teikumā trūkst saikļa, kas latviešu valodā nepieciešams."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחרבה לשמה לשרקה ולקללה",
+      "rationale": "Četri infinitivi ar prievārdu ל — ritmiska uzkrāšanās, latviski atbalstīta ar atkārtotu datīva formu."
+    }
+  ],
+  "translation": "⟨את⟩ Jerušalaimu un ⟨את⟩ Jehudas pilsētas un ⟨את⟩ tās ķēniņus, ⟨את⟩ tās firstus — dot ⟨את⟩ viņus posta postam, iztrūkumam, izsmiekumam un lāstam, kā ⟨ir⟩ šajā dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f3a9fcef836d75bc2d75865396c7c1eae38b7f6ec38af79349c5a189cffd016d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/25\/17-20.1792523870722.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Jehudas pilsētas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tās ķēniņus"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "tās ķēniņus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās firstus"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "tās firstus"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņus",
+      "marks": "viņus"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "posta postam"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "iztrūkumam"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "izsmiekumam"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "un lāstam"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kā dienā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:17:50.723593298Z",
+  "model": "glm-5.3"
+}

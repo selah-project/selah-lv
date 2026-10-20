@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 2:9",
+  "book": "micah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zīdaiņiem",
+      "rationale": "עלליה ir 'zīdaiņi, mazuļi', nevis vispār 'bērni' kā daudzos tulkojumos."
+    },
+    {
+      "kind": "crux",
+      "subject": "תענגיה",
+      "rationale": "Vienais skaitļa 'tās maigie prieki' vai daudzskaitļa 'tās maigo prieku nama'; YLT uztver kā vienkārši 'nama' piederību."
+    }
+  ],
+  "translation": "Manas tautas sievas jūs padzenat no nama, kas pilns maigo prieku, no viņas zīdaiņiem jūs atņemat manu godu uz mūžu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/micah\/2\/9-12.1792526416789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשי",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manas tautas"
+    },
+    {
+      "surface": "תגרשון",
+      "gloss": "jūs padzenat"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "תענגיה",
+      "gloss": "kas pilns maigo prieku"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "עלליה",
+      "gloss": "viņas zīdaiņiem"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "jūs atņemat"
+    },
+    {
+      "surface": "הדרי",
+      "gloss": "mano godu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "uz mūžu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:00:16.791766264Z",
+  "model": "glm-5.3"
+}

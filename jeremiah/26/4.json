@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה tulkota kā Tora, ne 'bauslība' — viens vārds, kas apzīmē mācību un norādījumu."
+    },
+    {
+      "kind": "addition",
+      "subject": "[lai]",
+      "rationale": "infinitīvs ללכת apzīmē 'klausīt' mērķi; latviešu valodai vajadzīgs mērķa saistītājs, pievienots iekavās."
+    }
+  ],
+  "translation": "Un tu sacīsi viņiem: Tā saka Jahve: ja jūs neklausīsiet man, [lai] staigātu manā Torā, ko es esmu licis jūsu priekšā,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "16963932ebbb02ace0ce6ccd56bb2c043ada6eb4ddc3491dc41e54e45a8ec27f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/26\/1-4.1792523819310.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Un tu sacīsi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "klausīsiet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "staigāt"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "manā Torā"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "es esmu licis"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsu priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:16:59.311826705Z",
+  "model": "glm-5.3"
+}

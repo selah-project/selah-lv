@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאותו",
+      "rationale": "'No viņa' — dahāfa sakne ar priekšstatu, ka pravietis ir Jahves atbildes avots; latviski 'caur viņu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "האחיה",
+      "rationale": "'Vai es dzīvošu' — burtiski 'vai man dzīvot'; daudzas versijas dod 'vai es atveseļošos'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "jautājums ķēniņam",
+      "rationale": "Slimības iznākums slēpts — jautājums vērsts uz nākotni, ko zina tikai Jahve"
+    }
+  ],
+  "translation": "Un ķēniņš sacīja Hazaelam: ņem savā rokā dāvanu un ej pretī Elohim cilvēkam, un vaicā ⟨את⟩ caur viņu ⟨את⟩ Jahvi, sacīdams: vai es dzīvošu no šīs slimības?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/8\/5-8.1792521359058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaelam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ņem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "savā rokā"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dāvanu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "un ej"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "un vaicā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ caur viņu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "vai es dzīvošu"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "no slimības"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:59.059881546Z",
+  "model": "glm-5.3"
+}

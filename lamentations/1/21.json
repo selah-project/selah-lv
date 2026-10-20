@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 1:21",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņi⟩",
+      "rationale": "Ebreju valodā pirms דzirdēja nav subjekta; latviešu valodai vajadzīgs paskaidrojošs vietniekvārds."
+    },
+    {
+      "kind": "crux",
+      "subject": "הבאת יום קראת",
+      "rationale": "Nākotne vai lūgums: „Tu atnesi\/aicināji dienu” pret BSB „laid diena nāk”; ebreju perfektu var lasīt kā drošu apgalvojumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו ... שמעו",
+      "rationale": "Atkārtots „dzirdēja” ietver rindu: Ciona vaidi un ienaidnieku prieks — abas reizes tas pats vārds."
+    }
+  ],
+  "translation": "Dzirdēja ⟨viņi⟩, ka es vaidos, — nav, kas mani mierinātu; visi mani ienaidnieki dzirdēja par manu ļaunumu, tie priecājas, ka Tu to esi darījis; Tu atnesi dienu, ko Tu esi aicinājis, un viņi būs kā es.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/1\/21-22.1792529802501.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "vaidos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "kas mierinātu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mani ienaidnieki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "par manu ļaunumu"
+    },
+    {
+      "surface": "ששו",
+      "gloss": "priecājas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "esi darījis"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "atnesi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "esi aicinājis"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "un viņi būs"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "kā es"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:42.501577898Z",
+  "model": "glm-5.3"
+}

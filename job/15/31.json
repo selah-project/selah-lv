@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 15:31",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נתעה",
+      "rationale": "particips 'maldīgais' vai pārejošs 'apmānīts'? KJV 'deceived' vs ASV 'deceiving himself'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא ... שוא",
+      "rationale": "atkārtots שוא viltu pāris — veltīgs paļāvības par samaksas veltīgumu"
+    }
+  ],
+  "translation": "Lai viņš nepaļaujas uz viltu, maldos sevi apmānot, jo viltus būs viņa samaksa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/15\/29-32.1792529253776.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "paļaujas"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "uz viltu"
+    },
+    {
+      "surface": "נתעה",
+      "gloss": "maldos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "viltus"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "viņa samaksa"
+    }
+  ],
+  "timestamp": "2026-10-20T20:47:33.777273249Z",
+  "model": "glm-5.3"
+}

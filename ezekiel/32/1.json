@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nāca",
+      "rationale": "Ebreju tekstā nav darbības vārda 'nāca'; היה te ir apzīmējuma teikuma struktūra 'bija Jahves vārds pie manis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "diena",
+      "rationale": "Ebreju valodā nav vārda 'diena' — באחד לחדש burtiski 'pirmajā mēneša (dienā)'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Precīzs datumējums: divpadsmitais gads, divpadsmitais mēnesis, pirmā diena"
+    }
+  ],
+  "translation": "Un notika divpadsmitajā gadā, divpadsmitajā mēnesī, mēneša pirmajā dienā, Jahves vārds ⟨nāca⟩ pie manis, sacīdams:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "922181ca349450def3d3e7d9189c3811fccb29c4bfa02c2c0fb3e04ca4563274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/32\/1-4.1792525514861.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "divpadsmitajā"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "divpadsmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "divpadsmitajā"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "divpadsmit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pirmajā dienā"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mēneša"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨nāca⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pie manis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    }
+  ],
+  "timestamp": "2026-10-20T19:45:14.862148793Z",
+  "model": "glm-5.3"
+}

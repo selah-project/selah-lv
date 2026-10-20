@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vārda pieminēšana",
+      "rationale": "Vienīgā sieviešu vārda uzskaitījums šajā dzimtu sarakstā."
+    }
+  ],
+  "translation": "Un Ašera meitas vārds ⟨bija⟩ Seraha.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "36fc106033eeb60e15efad36217d1bfe0fa2a5297bcab6604bb3a7376ed06897",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/26\/45-48.1792516240337.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Un vārds"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meitas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ašera"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Seraha"
+    }
+  ],
+  "timestamp": "2026-10-20T17:10:40.339663056Z",
+  "model": "glm-5.3"
+}

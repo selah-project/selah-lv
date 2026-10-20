@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Latviešu valodai vajag prievārdu 'ar ūdeni'; ebreju ģenitīvs 'ūdens avots' to nesaka."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עין\/באר",
+      "rationale": "עין nozīmē arī 'avots' — acis tiek atvērtas, un viņa redz avotu; vārdu spēle izzūd."
+    }
+  ],
+  "translation": "Un Elohim atvēra ⟨את⟩ viņas acis, un viņa ieraudzīja ūdens avotu, un gāja un piepildīja ⟨את⟩ ādas maisu ar ūdeni un deva dzert ⟨את⟩ zēnam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/21\/17-20.1792511928473.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "atvēra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņas acis"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "viņas acis"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ieraudzīja"
+    },
+    {
+      "surface": "באר",
+      "gloss": "avotu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdens"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "piepildīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ādas maisu"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ādas maisu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeni"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "deva dzert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zēnam"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "zēnam"
+    }
+  ],
+  "timestamp": "2026-10-20T15:58:48.475053654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā pieturas teikumā nav darbības vārda; latviešu valodai vajadzīgs saiklis."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "No saknes נוה: 'godināt\/slavēt' (LXX 'slavēšu') pret 'dot mājokli\/sagatavot mitekli' (KJV 'sagatavōšu mājokli')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זמרת",
+      "rationale": "Burtiski 'mūzika, instrumentāls pavaddonis'; tulkots kā 'dziesma'."
+    }
+  ],
+  "translation": "Mans spēks un mana dziesma ⟨ir⟩ Jah, un Viņš kļuva man par glābiņu; ⟨tā⟩ ir mans El, un es Viņu godināšu; mana tēva Elohim, un es Viņu paaugstināšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/15\/1-4.1792512953646.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Mans spēks"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "un mana dziesma"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un kļuva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "par glābiņu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨tā⟩ ir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mans El"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "un es Viņu godināšu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mana tēva"
+    },
+    {
+      "surface": "ווארממנהו",
+      "gloss": "un es Viņu paaugstināšu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:15:53.647666658Z",
+  "model": "glm-5.3"
+}

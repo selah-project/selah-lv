@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "'Klints\/akmens' par zobena asmeni: 'atgriezt asmeni atpakaļ' pret 'noliekt asmeni' — dažādi tulkojumi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צור",
+      "rationale": "Burtiski 'klini\/akmeņaino daļu'; atveidots kā 'asmens'."
+    }
+  ],
+  "translation": "Arī viņa zobena asmeni tu esi atgriezis atpakaļ, un karā tu viņu esi nostādinājis nelīdzsvarotu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/89\/41-44.1792527992788.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "arī"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "atgriez atpakaļ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "asmeni (klini)"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "viņa zobena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "esi nostādinājis viņu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "karā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:32.789506887Z",
+  "model": "glm-5.3"
+}

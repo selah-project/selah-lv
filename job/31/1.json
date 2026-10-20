@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 31:1",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי ברית",
+      "rationale": "Burtiski 'es nogriezu derību' — derību slēgšana ebreju valodā ir 'griešana', latviski 'noslēgt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בתולה",
+      "rationale": "'jaunava' — vārds apzīmē jaunu sievieti privātumā; 'virgīniskums' nav pats vārda kodols."
+    },
+    {
+      "kind": "addition",
+      "subject": "savām",
+      "rationale": "Ipašnieka vietniekvārds pie 'acīm' latviešu ģenitīva vietā; ebreju teikumā tā nav atsevišķa zīme."
+    }
+  ],
+  "translation": "Derību es noslēdzu ar savām acīm — un kā gan es skatītos uz jaunavu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/31\/1-4.1792529460036.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Derību"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "es noslēdzu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ar savām acīm"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un kā gan"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "es skatītos"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "jaunavu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:00.036934137Z",
+  "model": "glm-5.3"
+}

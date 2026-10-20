@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 2:26",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Copula added: Hebrew שמה lacks a verb 'is'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "האיתיך",
+      "rationale": "Literally 'is (there anything) in you?'; rendered as Latvian question particle 'vai'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Daniel",
+      "rationale": "King Nebuchadnezzar directly questions Daniel about the dream"
+    }
+  ],
+  "translation": "Ķēniņš atbildēja un sacīja Danielam, kam vārds ir Beltsacars: vai tu spēj man padarīt zināmu sapni, ko es redzēju, un tā skaidrojumu?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d119cf6ce1316d0eb8337f2b5f6cc3fbea8743594596ab4d956e0aa4bc5a413b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/25-28.1792530179098.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "atbildēja"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un-sacīja"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danielam"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨kam⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltsacars"
+    },
+    {
+      "surface": "האיתיך",
+      "gloss": "⟨vai⟩"
+    },
+    {
+      "surface": "כהל",
+      "gloss": "tu-spēj"
+    },
+    {
+      "surface": "להודעתני",
+      "gloss": "man-padarīt-zināmu"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "sapni"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "es-redzēju"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "un-skaidrojumu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:02:59.099681829Z",
+  "model": "glm-5.3"
+}

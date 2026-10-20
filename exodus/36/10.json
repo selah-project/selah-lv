@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨otrus⟩",
+      "rationale": "Ebreju teksts saka tikai 'un piecus'; latviešu valodai vajadzīgs norādījums, ka tie ir pārējie."
+    }
+  ],
+  "translation": "Un viņš savienoja ⟨את⟩ piecus aizkarus vienu pie otra, un ⟨otrus⟩ piecus aizkarus viņš savienoja vienu pie otra.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/36\/9-12.1792513483094.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Un viņš savienoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piecus aizkarus"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "piecus"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "aizkarus"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אחת",
+      "gloss": " otra"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "un ⟨otrus⟩ piecus"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "aizkarus"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "viņš savienoja"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otra"
+    }
+  ],
+  "timestamp": "2026-10-20T16:24:43.094931657Z",
+  "model": "glm-5.3"
+}

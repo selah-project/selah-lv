@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mēle",
+      "rationale": "שפה ir 'lūpa' — mēle kā valoda ir pārnesta nozīme; ebrejiskā bilde (lūpa kā robeža) latviski zūd"
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Ebreju tekstā nav kopulas; latviešu valodai tā vajadzīga"
+    }
+  ],
+  "translation": "Un notika, ka visa zeme bija viena mēle un vieni vārdi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/11\/1-4.1792511679642.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "mēle"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "un vārdi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "vieni"
+    }
+  ],
+  "timestamp": "2026-10-20T15:54:39.643218572Z",
+  "model": "glm-5.3"
+}

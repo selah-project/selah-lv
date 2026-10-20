@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 24:14",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tas",
+      "rationale": "Piedzimis subjekts 'באה' (nāk) — latviski vajadzīgs subjekts."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפרע",
+      "rationale": "Sakne פרע 'atlaist vaļā' — 'neatgriezīšos, neatbildīšu' (KJV 'go back') pret 'nesaistīšu'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruzālemei",
+      "rationale": "Teksts runā pilsētai 'tu' formā."
+    }
+  ],
+  "translation": "Es, Jahve, runāju: ⟨tas⟩ nāks, un Es darīšu; Es neatlaisīšu, un Es žēlošu ne, un Es nenožēlošu; pēc taviem ceļiem un pēc tavām darbībām tevi tiesās, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da5e3ba0baed6cbc153685757d660645c513409e262efef878e866d0db77a75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/24\/13-16.1792525238869.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "runāju"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nāks"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "un Es darīšu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפרע",
+      "gloss": "atlasīšu vaļā"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אחוס",
+      "gloss": "žēlošu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "nenožēlošu"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "pēc taviem ceļiem"
+    },
+    {
+      "surface": "וכעלילותיך",
+      "gloss": "un pēc tavām darbībām"
+    },
+    {
+      "surface": "שפטוך",
+      "gloss": "tevi tiesās"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:38.870325540Z",
+  "model": "glm-5.3"
+}

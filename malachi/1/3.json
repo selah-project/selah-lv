@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ienīdu",
+      "rationale": "שנאתי — vai tas nozīmē garīgu ienaidu vai atstāšanu novārtā; Mal 1:2–3 bieži maina ar 'ieredzēju mazāk'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "gloss": "Iepriekšējā panta 'vai nav' izplūst kā retorisks jautājums, kas turpinās arī šeit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šakāļu mājokli",
+      "rationale": "לתנות ir 'mātēm šakāļiem' — vienkāršots par 'šakāļu mājokli'."
+    }
+  ],
+  "translation": "un ⟨את⟩ Esavu Es ienīdu, un Es liku ⟨את⟩ viņa kalnus par posta vietu un ⟨את⟩ viņa mantojumu par šakāļu mājokli tuksnesī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dd72548c493feba4f75a272420e5457d9cc80902186506c1e48d12927c8f44cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/1\/2-3.1792532782639.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Es ienīdu"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "un Es liku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņa kalnus"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "viņa kalnus"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "par posta vietu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "viņa mantojumu"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "viņa mantojumu"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "par šakāļu mājokli"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tuksnesī"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:22.640031987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויענם קשה",
+      "rationale": "Burtiski 'atbildēja tiem cietsirdīgu (atbildi)' — akcuzatīva locījums vietā latviski apstākļa vārds."
+    },
+    {
+      "kind": "crux",
+      "subject": "רחבעם",
+      "rationale": "Rehavjams — pēc ebreju skanējuma ar latvisku galotni (ne 'Roboams' kā dažos tulkojumos)."
+    }
+  ],
+  "translation": "Un ķēniņš atbildēja viņiem cietsirdīgi, un ķēniņš Rehavjams atstāja ⟨את⟩ vecajiem padomu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/10\/13-16.1792531882770.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "atbildēja viņiem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "cietsirdīgi"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "atstāja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavjams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padomu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "padomu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vecajiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:31:22.771247527Z",
+  "model": "glm-5.3"
+}

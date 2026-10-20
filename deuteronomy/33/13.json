@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 33:13",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikles; מברכת ir pasīvs: 'svētīta no Jahves ir viņa zeme'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממגד",
+      "rationale": "Vārds atkārtojas četrās rindās (33:13–16) kā svētības kataloga atslēga; latviski 'labumi' turēts vienāds visur."
+    }
+  ],
+  "translation": "Un par Jozefu viņš sacīja: svētīta no Jahves ⟨ir⟩ viņa zeme — ar debess labumiem, ar rasu un ar bezdibeni, kas guļ zem tās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/33\/13-16.1792517420318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "Un par Jozefu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "viņš sacīja"
+    },
+    {
+      "surface": "מברכת",
+      "gloss": "svētīta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "viņa zeme"
+    },
+    {
+      "surface": "ממגד",
+      "gloss": "ar labumiem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesīm"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "rasu"
+    },
+    {
+      "surface": "ומתהום",
+      "gloss": "un ar bezdibeni"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "guļošā"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:20.320224361Z",
+  "model": "glm-5.3"
+}

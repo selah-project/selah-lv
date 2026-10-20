@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "tieša uzruna Dievam ar lūgumu (jussīvs)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "klejot",
+      "rationale": "תַּשְׁגֵּנִי kauzatīvs 'nepavedini mani', lauks ir atstāts kā 'klejot'"
+    }
+  ],
+  "translation": "Ar visu savu sirdi es meklēju Tevi; neļauj man klejot nost no Tavām pavēlēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/9-12.1792528309989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ar visu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "savu sirdi"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "es meklēju Tevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neļauj"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "man klejot"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "nost no Tavām pavēlēm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:49.990188511Z",
+  "model": "glm-5.3"
+}

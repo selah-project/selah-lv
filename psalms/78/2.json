@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "līdzībā",
+      "rationale": "משל ir 'līdzība\/salamie vārdi', ne 'parabola' — Tanaha reģistrā izvēlēta 'līdzība'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביעה חידות",
+      "rationale": "'Laišu plūst mīklas' — verbs נבע ir avota ūdens metafora; teksta plūstamība zūd latviski."
+    },
+    {
+      "kind": "mystery",
+      "subject": "mīklas",
+      "rationale": "חידות — apzināti tumši, noslēpumaini teikumi; pants pasludina slēptu runu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mīklas",
+      "rationale": "'Tumši teikumi' (KJV tradīcija) pret 'mīklas\/sensošie teicieni' — izvēlēts 'mīklas' kā tuvākais litv."
+    }
+  ],
+  "translation": "Es atvēršu ⟨את⟩ savu muti līdzībā, es laišu plūst mīklas no sīkuma pirms laikiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/1-4.1792527907432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Es atvēršu"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "⟨את⟩ savu muti līdzībā"
+    },
+    {
+      "surface": "פי",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "laišu plūst"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "mīklas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "no sīkuma"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "pirms laikiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:07.433142640Z",
+  "model": "glm-5.3"
+}

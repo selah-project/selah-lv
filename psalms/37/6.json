@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקך paturēts kā 'cedeks' vienā vārdā, nevis 'taisnība', pēc D2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק\/משפט",
+      "rationale": "Divi paralēli tiesību termini vienā kolonā; dubultā diamanta struktūra kā gaisma — kā pusdiena."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pusdienas laiku",
+      "rationale": "כצהרים ir duālis 'divgaisma', t.i., pusdienlaiks; varētu arī 'kā dienasvidu'."
+    }
+  ],
+  "translation": "Un Viņš izvedīs tavu cedeku kā gaismu un tavu tiesu kā pusdienas laiku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/37\/5-8.1792527424529.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Un Viņš izvedīs"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kā gaismu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tavu cedeku"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "un tavu tiesu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kā pusdienas laiku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:04.530947852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 31:15",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju teikumam iztrūkst darbības vārds; latviešu valodai vajag saiti."
+    },
+    {
+      "kind": "measurement",
+      "subject": "iedaļas",
+      "rationale": "Dalījums pēc iedaļām — kārtīgi izmērīta sadale pēc pienākumu kārtām."
+    }
+  ],
+  "translation": "un pie viņa rokas ⟨bija⟩ Edens un Minjamīns un Ješua un Šemajāhu, Amarjāhu un Šekanjāhu priesteru pilsētās, uzticīgi dodot saviem brāļiem pēc iedaļām — kā lielajam, tā mazajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d5314f8d142823fa78c3d9158d114b5d35019be2cc2c2c086e51f4c46608446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/31\/13-16.1792532350926.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa rokas"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "ומנימן",
+      "gloss": "un Minjamīns"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "un Ješua"
+    },
+    {
+      "surface": "ושמעיהו",
+      "gloss": "un Šemajāhu"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "Amarjāhu"
+    },
+    {
+      "surface": "ושכניהו",
+      "gloss": "un Šekanjāhu"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "pilsētās"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "priesteru"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "uzticīgi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dodot"
+    },
+    {
+      "surface": "לאחיהם",
+      "gloss": "saviem brāļiem"
+    },
+    {
+      "surface": "במחלקות",
+      "gloss": "pēc iedaļām"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "kā lielajam"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "tā mazajam"
+    }
+  ],
+  "timestamp": "2026-10-20T21:39:10.927645937Z",
+  "model": "glm-5.3"
+}

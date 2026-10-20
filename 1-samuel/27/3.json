@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sievа",
+      "rationale": "Labo: 'sievа' → 'sievа' — ⟨אשת נבל⟩ ir statusa norāde 'Nabala sieva', ne vienkārši etniskums; KJV\/JPS to piesaista Avigaīlei, YLT karmelietei."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשת נבל הכרמלית",
+      "rationale": "Sasaiste divdomīga: 'Avigaīle, Nabala sieva, karmeliete' — vai 'karmeliete' attiecas uz Avigaīli vai uz Nabalu."
+    }
+  ],
+  "translation": "Un Davids dzīvoja pie Akīša Gatā — viņš un viņa vīri, katrs ar savu namu, un Davids ar savām divām sievām: Aminoama jizreēliete un Avigaīle, Nabala sieva, karmeliete.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "527976c3c2d06e0af59fec4758d4ad651b778cfebf7d4266e8a548d0d226bce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/27\/1-4.1792519543123.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Un dzīvoja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akīša"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "un viņa vīri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ar savu namu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "un divas"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Aminoama"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "jizreēliete"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "un Avigaīle"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sievа"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "karmeliete"
+    }
+  ],
+  "timestamp": "2026-10-20T18:05:43.124530734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "likums",
+      "rationale": "חק — 'dekrēts, iecēluma likums'; daži lasa kā 'par dekrētu, ko Jahve man teicis'."
+    },
+    {
+      "kind": "you",
+      "subject": "mans dēls",
+      "rationale": "Jahve runā tieši pie ķēniņa-dēla."
+    },
+    {
+      "kind": "mystery",
+      "subject": "šodien esmu tevi dzemdējis",
+      "rationale": "Aizsegta ķēniņa intronizācijas valoda — pēc Tanahas pašas termiņiem, bez vēlākās mācības."
+    }
+  ],
+  "translation": "Es pastāstīšu par likumu: Jahve sacīja man: Tu esi mans dēls, es šodien tevi esmu dzemdējis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/2\/5-8.1792527038330.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "es pastāstīšu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "par"
+    },
+    {
+      "surface": "חק",
+      "gloss": "likumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mans dēls"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "esmu tevi dzemdējis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:38.335306760Z",
+  "model": "glm-5.3"
+}

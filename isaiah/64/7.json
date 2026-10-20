@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩ \/ ⟨esam⟩",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai tie vajadzīgi tēlainajai vienādībai."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Tieša uzruna Jahvem — lūgšana Tēvs—veidotājs tēlā."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Un tagad",
+      "rationale": "Pāreja 'un tagad' pagriež lūgšanu uz apelāciju pēc vainas atzīšanas."
+    }
+  ],
+  "translation": "Un tagad, Jahve, Tēvs mūsu ⟨esi⟩ Tu! Mēs ⟨esam⟩ māls, un Tu ⟨esi⟩ mūsu veidotājs, un Tavas rokas darbs — mēs visi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/64\/5-8.1792523051481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "Tēvs mūsu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Mēs"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "⟨esam⟩ māls"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "un Tu"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "⟨esi⟩ mūsu veidotājs"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "un darbs"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Tavas rokas"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mēs visi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:11.482380994Z",
+  "model": "glm-5.3"
+}

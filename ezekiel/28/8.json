@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nāvēs",
+      "rationale": "ממותי ir מות daudzskaitlis — 'nāvju nāves'; latviski 'nāvēs' saglabā daudzskaitli, ko daudzi tulki izlīdzina vienskaitlī."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ממותי",
+      "rationale": "Vārda ממות daudzskaitlis Tanahā ārkārtīgi rets; tikai nāves daudzskaitļa forma."
+    },
+    {
+      "kind": "you",
+      "subject": "Tīras ķēniņam",
+      "rationale": "Tieša uzruna turpinās — spriedums pār ķēniņu."
+    }
+  ],
+  "translation": "Bedrē tie tevi novedīs lejup, un tu mirsi nāvēs no nodurtajiem, jūru sirdī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/28\/5-8.1792525343427.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "bedrē"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "tie tevi novedīs lejup"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "un tu mirsi"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "nāvēs"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "no nodurtajiem"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sirdī"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūru"
+    }
+  ],
+  "timestamp": "2026-10-20T19:42:23.428222592Z",
+  "model": "glm-5.3"
+}

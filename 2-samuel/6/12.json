@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "האלהים artikuls",
+      "rationale": "Hebreju artikuls ה netiek atspoguļots; Elohim rakstīts bez artikula kā nelokāms īpašvārds"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Hebrejs ברך ir pabeigts darbības vārds bez palīgdarbības vārda; latviski vajadzīgs 'ir'"
+    }
+  ],
+  "translation": "Un ķēniņam Davidam tika paziņots, sacīdams: Jahve ir svētījis ⟨את⟩ Obeda-Edoma namu un ⟨את⟩ visu, kas tam pieder, Elohim šķirsta dēļ. Un Davids gāja un uznesa ⟨את⟩ Elohim šķirsti no Obeda-Edoma nama Davida pilsētā ar prieku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/6\/9-12.1792519731417.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "un tika paziņots"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ir svētījis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda-Edoma namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu, kas tam pieder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam pieder"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirsta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "un gāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "un uznesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim šķirsti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "šķirsti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ar prieku"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:51.419502886Z",
+  "model": "glm-5.3"
+}

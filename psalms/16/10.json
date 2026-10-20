@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefesh ir 'rīkle\/elpa\/dzīvības spēks', ne tikai 'dvēsele'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "šahat ir 'bedre, dziļums', ne vien 'sabrukšana' (KJV 'corruption')"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידך",
+      "rationale": "'Tavs uzticīgais\/svaidītais' — vēlāk lasīts par mašiahu, bet pirmajā lasījumā dievbijīgais"
+    }
+  ],
+  "translation": "Jo Tu nepametīsi manu nefesh šeolam, nedosi Savam hasīdam redzēt bedri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/16\/9-11.1792527088319.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "nepametīsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "manu nefesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeolam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedosi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedosi"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "Savam hasīdam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "redzēt"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "bedri"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:28.322318495Z",
+  "model": "glm-5.3"
+}

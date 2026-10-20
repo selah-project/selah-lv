@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישפטני מידך",
+      "rationale": "Burtiski 'un lai mani tiesā no tavas rokas' — šeit nozīmē attaisnot un izraut no varas."
+    },
+    {
+      "kind": "you",
+      "subject": "Dāvida lūgšana pie Jahves Šaula priekšā",
+      "rationale": "Runas akts: zvēresta noslēgums ar četrām jussīva formām 'lai'."
+    }
+  ],
+  "translation": "Un Jahve lai ir par tiesnesi un lai spriež tiesu starp mani un tevi, un lai redz un lai iztaisa ⟨את⟩ manu lietu un lai mani atbrīvo no tavas rokas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/13-16.1792519365460.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "un lai ir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "par tiesnesi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "un lai spriež tiesu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "starp mani"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "un starp tevi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un lai redz"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "un lai iztaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu lietu"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "manu lietu"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "un lai mani atbrīvo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "no tavas rokas"
+    }
+  ],
+  "timestamp": "2026-10-20T18:02:45.461038284Z",
+  "model": "glm-5.3"
+}

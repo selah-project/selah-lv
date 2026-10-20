@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המון",
+      "rationale": "הָמוֹן: 'pūlis\/trokšņus' pret 'bagātība'; te par pilsētas drūzmu"
+    },
+    {
+      "kind": "addition",
+      "subject": "kļūs par",
+      "rationale": "Ebrejs teikumā nav darbības vārda priekā 'savvaļas ēzeļu prieks'; latviešu valodai vajag pievienoto darbības vārdu"
+    }
+  ],
+  "translation": "Jo cietoksis tiks pamests, pilsētas pūlis atstāts; nocietinājums un sargtornis kļūs par alām līdz mūžībai, ⟨kļūs par⟩ savvaļas ēzeļu prieku, ganību vietu ganāmpulkiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/32\/13-16.1792522389297.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "cietoksis"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "tiks pamests"
+    },
+    {
+      "surface": "המון",
+      "gloss": "pūlis"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētas"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "atstāts"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "nocietinājums"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "un sargtornis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kļūs"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "alām"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "prieku"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "savvaļas ēzeļu"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ganību vietu"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "ganāmpulkiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:53:09.297962856Z",
+  "model": "glm-5.3"
+}

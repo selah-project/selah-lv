@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eli",
+      "rationale": "האלילים burtiski 'niecības, labi nekam'; latviski 'eli' kā apzīmējums"
+    },
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs ⟨esmu⟩"
+    }
+  ],
+  "translation": "Negriezieties pret eliem un lieamus dievus nedariet sev: es ⟨esmu⟩ Jahve, jūsu Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/19\/1-4.1792514933043.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "griezieties"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "eliem"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "un dievus"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "lieamus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedariet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dariet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sev"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:48:53.045579821Z",
+  "model": "glm-5.3"
+}

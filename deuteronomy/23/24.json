@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 23:24",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "Possessīvs vietniekvārds pie 'muti' pievienots latviešu skaidrībai, ebreju tekstā tikai galotne"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדבה",
+      "rationale": "'Brīvprātīga dāvana' kā solījuma apraksts vs lasījums, ka נדבה apzīmē pašu solījuma veidu"
+    }
+  ],
+  "translation": "Kas iziet no tavām lūpām, to paturi un izpildi — kā tu esi dotsolījis brīvprātīgu dāvanu Jahve, savam Elohim, ko tu esi runājis ar savu muti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3515179111441dfa20f25aa020dff171656a1a1981a66aa74186436370e98879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/23\/21-24.1792517171806.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוצא",
+      "gloss": "kas iziet"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "no tavām lūpām"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "paturi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "un izpildi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "tu esi dotsolījis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savam Elohim"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "brīvprātīgu dāvanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu esi runājis"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ar savu muti"
+    }
+  ],
+  "timestamp": "2026-10-20T17:26:11.809899125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 34:33",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעמך ישלמנה",
+      "rationale": "Tumšs fragments: 'vai no tevis viņš atmaksās' — vai atmaksa ir no Dieva tev, vai tev jāmaksā; versijas krasi atšķiras (KJV\/ASV pret JPS\/BSB)."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאסת",
+      "rationale": "'tu nicināji' — objekts nav izteikts: vai Ijovs nicināja Dieva tiesu, vai Elihu noraida Ijova vārdus."
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovam",
+      "rationale": "Elihu vēršas tieši pie Ijova ar jautājumu un pavēli runāt."
+    }
+  ],
+  "translation": "Vai pret tevi viņš to atmaksās, ka tu to esi nicinājis, ka tu izvēlies, nevis es? Un ko tu zini — runā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/34\/33-36.1792529516358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעמך",
+      "gloss": "vai pret tevi"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "viņš to atmaksās"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "tu esi nicinājis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "izvēlies"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "un ko"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:56.358578148Z",
+  "model": "glm-5.3"
+}

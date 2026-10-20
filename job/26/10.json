@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חג",
+      "rationale": "darbības vārds 'vilkt riņķi' Tanahā tikai šeit"
+    },
+    {
+      "kind": "crux",
+      "subject": "līdz gaismas galam",
+      "rationale": "KJV 'līdz diena un nakts beidzas' pret YLT\/JPS 'līdz gaismas un tumsas robežai' — עד תכלית ļauj abas lasījumus"
+    },
+    {
+      "kind": "measurement",
+      "subject": "apcirklojums uz ūdeņu",
+      "rationale": "Visums tiek mērīts un robežots — kosmoloģisks apraksts ar mēra terminiem"
+    }
+  ],
+  "translation": "Apcirklojumu Viņš apvilk⟨a⟩ riņķī ūdeņu vaigā, līdz gaismas galam kopā ar tumsu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8bb6ca06b36eb2e0618a17ae9590a68e9c8a18a32bedf0907fe2ca3d3e213a1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/26\/9-12.1792529363569.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "apcirklojumu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "apvilk⟨a⟩ riņķī"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaiga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ūdeņu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "galam"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaismas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tumsu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:23.570783020Z",
+  "model": "glm-5.3"
+}

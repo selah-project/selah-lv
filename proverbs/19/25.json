@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naivais",
+      "rationale": "פתי ir 'viegli pavedināms, muļķīgi naivs', ne tikai 'muļķis'."
+    },
+    {
+      "kind": "crux",
+      "subject": "kļūs viltīgs",
+      "rationale": "יערם no ערם 'kļūt kails\/veltīgs' — šeit 'iemācīsies apdomību vai viltību'; versijas dalās starp 'pasargāsies' un 'kļūs gudrs'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pārliecini",
+      "rationale": "הוכיח arī 'norāji, apsaudi'; izvēlēts 'pārliecināt' kā mērķis pie saprātīgā."
+    }
+  ],
+  "translation": "Siti ņirgātāju, un naivais kļūs viltīgs; pārliecini saprātīgo, un viņš saprās zināšanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "020a594e952816da3fbef489dd9078a6892229aa781b9676aeb63096cd00a2dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/19\/25-28.1792528806343.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ņirgātāju"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "un naivais"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "kļūs viltīgs"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "pārliecini"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "saprātīgo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "saprās"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zināšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:06.343944559Z",
+  "model": "glm-5.3"
+}

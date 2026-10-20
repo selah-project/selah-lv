@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raudzīsies lejup",
+      "rationale": "šakaf burtiski 'izliekas pa logu' — tēlains verbs par debess skatienu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשקף \/ נשקו",
+      "rationale": "saknes skanējuma tuvība ar 'skūpstīt' (85:11) — iespējama valodas spēle, kas latviski zūd."
+    }
+  ],
+  "translation": "Patiesība no zemes dzīsies, un cedek no debesīm raudzīsies lejup.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/85\/9-12.1792527984481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Patiesība"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "no zemes"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "dzīsies"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "un cedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "no debesīm"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "raudzīsies lejup"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:24.482613361Z",
+  "model": "glm-5.3"
+}

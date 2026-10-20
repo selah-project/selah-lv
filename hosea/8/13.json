@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבהבי",
+      "rationale": "הבהב ir ārkārtīgi rets vārds (dāvana upurī) — parādās tikai Hozeas grāmatā; tā precīzā nozīme apspriežama."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩ · ⟨Viņš⟩",
+      "rationale": "Ivritā teikumā nav atgriezeniskā vietniekvārda 'to' un subjects 'Viņš' — pievienoti latviešu sintaksei."
+    },
+    {
+      "kind": "crux",
+      "subject": "Micraima atgriezīsies",
+      "rationale": "Vai tiešām atgriešanās Ēģiptē (sods, pretrata 2. Mozus grāmatai), vai metafora par verdzību; izvēlēts burtiskais lasījums."
+    }
+  ],
+  "translation": "Manu dāvanu upurus — tie kauj gaļu un ēd ⟨to⟩; Jahve tos nepieņem; tagad ⟨Viņš⟩ atcerēsies viņu vainu un apmeklēs viņu grēkus; tie uz Micraimu atgriezīsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/8\/13-14.1792526054578.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "upurus"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "manu dāvanu"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "tie kauj"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gaļu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "un ēd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "pieņem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "atcerēsies"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "viņu vainu"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "un apmeklēs"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "viņu grēkus"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimu"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "atgriezīsies"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:14.579371847Z",
+  "model": "glm-5.3"
+}

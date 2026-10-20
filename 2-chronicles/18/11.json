@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 18:11",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Ebreju tekstā pārdotā objekta ('Ramotu') vietā stāv tikai 'dos... ķēniņa rokā'; latviešu valodai vajadzīgs objekts."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו before הנתן",
+      "rationale": "'un dos' — ebreju wayyiqtol\/ve-katalsekā rinda latviski gludāk saistās ar 'un', nākotnes nozīme saglabāta."
+    }
+  ],
+  "translation": "Un visi pravieši pravietoja tā, sacīdami: Uzkāp Ramotā-Gileādā, un tev veiksies, un Jahve dos ⟨to⟩ ķēniņa rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "412a75a623094f2c4e21fae9ea8c85a2a17097f4fd905a716ec267ad1d784673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/18\/9-12.1792532001733.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Un visi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "pravieši"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "pravietoja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Uzkāp"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramotā"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileādā"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "un tev veiksies"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "un dos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rokā"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:33:21.734138528Z",
+  "model": "glm-5.3"
+}

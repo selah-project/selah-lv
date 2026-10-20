@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šaūls",
+      "rationale": "Šemuēls runā tieši ar Šaūlu ar pavēli klausīt Jahves vārdiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaidītu",
+      "rationale": "למשחך no משח — svaidīt ar eļļu; par ķēniņu svaidīšana, nevis 'iecelt'."
+    }
+  ],
+  "translation": "Un sacīja Šemuēls Šaūlam: Mani sūtīja Jahve, lai svaidītu tevi par ķēniņu pār viņa tautu, pār Jisraēlu; un tagad klausies balsij, Jahves vārdiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/1-4.1792519116700.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuēls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūlu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mani",
+      "marks": "mani (1. personas objekts)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sūtīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "lai svaidītu tevi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "viņa tautu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "וועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausies"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "balsij"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vārdiem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:36.701639993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרפתנו\/כצרף",
+      "rationale": "tā pati sakne divreiz — 'kausēji mūs kā kausēšanu' — atgriezenisks salīdzinājums"
+    }
+  ],
+  "translation": "Jo Tu mūs pārbaudīji, Elohim, Tu mūs kausēji kā sudrabu kausē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/66\/9-12.1792527734758.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "Tu mūs pārbaudīji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "Tu mūs kausēji"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "kausē"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sudrabu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:14.758841006Z",
+  "model": "glm-5.3"
+}

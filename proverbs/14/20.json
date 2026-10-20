@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu teikumam vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "גם לרעהו",
+      "rationale": "Literāri: 'arī savu tuvāko' — גם var attiekties uz tuvāko kā uzledojumu; izvēlēts 'pat', jo tuvākajam vajadzētu nemīlēt nabago."
+    }
+  ],
+  "translation": "Pat savu tuvāko nīst nabagais, bet bagātajam mīļotāju ir daudz.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c631cde6e895336c5742b70b21791a011eaec6167112ff3af87c4afd08a66bc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/14\/20-20.1792532833529.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pat"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "savu tuvāko"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nīst"
+    },
+    {
+      "surface": "רש",
+      "gloss": "nabagais"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "bet mīļotāji"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bagātajam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudz"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:13.529681556Z",
+  "model": "glm-5.3"
+}

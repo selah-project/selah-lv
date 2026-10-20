@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "pieci šķeļi, divdesmit geru",
+      "rationale": "Svētnīcas mēru uzskaitījums — svari un nauda."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumā nav kopulas 'divdesmit geru — šķelis'; latviski pievienota ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שקל",
+      "rationale": "שקל ir svara un naudas mērvienība — 'šķelis' pēc tradīcijas, nevis svara tulkojums."
+    }
+  ],
+  "translation": "un ņem piecifest šķeļus par katru galvu; svētuma šķeli tu ņem; divdesmit geru ⟨ir⟩ šķelis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd19ee9b43891fceb79caca58f17e6c3095e67e85bd80afa6d3076cad404b503",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/45-48.1792515394483.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "un ņem"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pieci"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šķeļus"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "par katru galvu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "šķelī"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svētuma"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tu ņem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geru"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "šķelis"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:34.486994874Z",
+  "model": "glm-5.3"
+}

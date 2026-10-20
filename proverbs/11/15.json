@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roku-sitēju ķīlas",
+      "rationale": "תקעים burtiski ir 'tie, kas sit (plaukstas)' — ķīlas došanas žests ar roku-sitienu; JPS saglabā attēlu, lielākā daļa tulkojumu to izšķīdina."
+    },
+    {
+      "kind": "crux",
+      "subject": "kurš ļaunums",
+      "rationale": "רע ירוע: burtiski 'ļaunais tiks sagrauts' — daži lasa 'viņš tiks sodīts', citi 'ļaunums viņu sagraus'; vārdsatspēle רע\/ירוע."
+    }
+  ],
+  "translation": "Ļaunumā nonāks tas, kas kļuva par ķīlu svešiniekam, un tas, kas ienīst roku-sitēju ķīlas, ⟨ir⟩ drošs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/11\/13-16.1792528676255.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "ļaunumā"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "nonāks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kļuva par ķīlu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svešiniekam"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "un ienīst"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "roku-sitēju ķīlas"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "drošs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:56.255915840Z",
+  "model": "glm-5.3"
+}

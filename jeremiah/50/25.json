@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; 'darbs ir Adonai' prasa ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלי זעמו",
+      "rationale": "'dusmu rīki\/ieroči' — krātuve kā ieroču noliktava vai dārgumu glabātava"
+    }
+  ],
+  "translation": "Jahve atvēra ⟨את⟩ savu krātuvi un izveda ⟨את⟩ sava dusmu ieročus, jo darbs ⟨ir⟩ Adonai Jahve Cevaot zemē kasdiešu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6752a40ad8c78f2c78c92364635ca72c789f6225c89e505b0e3fd44753ff8e33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/50\/25-28.1792524514388.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "atvēra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu krātuvi"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "savu krātuvi"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "un izveda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava dusmu ieročus"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ierokus"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "sava dusmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbs"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdiešu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:28:34.389041057Z",
+  "model": "glm-5.3"
+}

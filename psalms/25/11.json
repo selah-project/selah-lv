@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסלחת laiks",
+      "rationale": "rocības laiks var būt perfekts (piedod) vai jussīvs (lūgums); konteksts ir lūgums kā p.7, 18"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa pie 'liels'"
+    }
+  ],
+  "translation": "Sava vārda dēļ, Jahve, piedod manu pārkāpumu, jo tas ⟨ir⟩ liels.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/25\/9-12.1792527281663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sava vārda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "piedod"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "manu pārkāpumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liels"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:14:41.664192339Z",
+  "model": "glm-5.3"
+}

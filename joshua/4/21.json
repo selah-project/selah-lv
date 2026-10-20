@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav copulas ‘ko ⟨ir⟩ šie akmeņi’"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחר",
+      "rationale": "Burtiski ‘rīt’, bet kontekstā nozīmē ‘nākotnē’ — atstāts ‘rīt’ pēc vārda formas"
+    }
+  ],
+  "translation": "Un viņš sacīja Jisraēla dēliem, ⟨sacīdams⟩: Kad rīt jūsu dēli vaicās saviem ⟨את⟩ tēviem un teiks: Ko nozīmē ⟨ir⟩ šie akmeņi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/4\/21-24.1792517545434.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨sacīdams⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "vaicās"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsu dēli"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus tēvus"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tēviem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "teiks"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmeņi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šie"
+    }
+  ],
+  "timestamp": "2026-10-20T17:32:25.435591094Z",
+  "model": "glm-5.3"
+}

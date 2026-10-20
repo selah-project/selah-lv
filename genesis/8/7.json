@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוא ושוב",
+      "rationale": "Infinitivus absolutus: 'izejot un atgriežoties' — atkārtota šaudīšanās turp un atpakaļ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "krauklis neatgriezās",
+      "rationale": "Daži lasa, ka krauklis tikai šaudījās turp un atpakaļ; teksts saka tikai 'iziet un atgriezties'."
+    }
+  ],
+  "translation": "Un viņš izsūtīja ⟨את⟩ kraukli, un tas izlidoja, izskriedams un atgriežoties, līdz ūdeņi izžuva no virs zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/8\/5-8.1792511548781.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un izsūtīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraukli"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kraukli"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "izlidoja"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "izskriedams"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "un atgriežoties"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "izžuva"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ūdeņi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no virs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T15:52:28.782974244Z",
+  "model": "glm-5.3"
+}

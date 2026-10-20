@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 32:31",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks' nekā abstrakta dvēsele."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פניאל \/ פנים",
+      "rationale": "Vietas vārds Peniēls ('Elohim seja') atsaucas uz 'seju pret seju' — atkārtojums."
+    }
+  ],
+  "translation": "Un Jaakovs nosauca šīs vietas vārdu Peniēls, jo esmu redzējis Elohim seju pret seju, un mana dvēsele ⟨ir⟩ izglābta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "74f752dfc92df91c2fc7f94300e71c9daf9d9ba99f0999696db8bbfb00412e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/32\/29-32.1792512250354.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Un nosauca"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "šīs vietas"
+    },
+    {
+      "surface": "פניאל",
+      "gloss": "Peniēls"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "esmu redzējis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "seju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "seju"
+    },
+    {
+      "surface": "ותנצל",
+      "gloss": "un ⟨ir⟩ izglābta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mana dvēsele"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:10.355444217Z",
+  "model": "glm-5.3"
+}

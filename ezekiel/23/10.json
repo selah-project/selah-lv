@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Ebreju tekstā nav saista; latviešu teikuma loģikai pievienots"
+    },
+    {
+      "kind": "crux",
+      "subject": "par pieminētu vārdu",
+      "rationale": "ותהי שם לנשים: 'kļuva par vārdu starp sievām' — mājiens uz sakāmvārdu par sodīto; KJV 'famous', ASV 'byword'"
+    }
+  ],
+  "translation": "Tie atklāja viņas kailumu; viņas dēlus un viņas meitas tie paņēma, un ⟨את⟩ viņu pašu ar zobenu nokāva, un viņa kļuva par pieminētu vārdu starp sievām, jo tiesas spriedumus izpildīja pār viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc21e0187a7ca853f35db5e16754a7d74f43eac680d31f9ed9ca6c7f9bc4aac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/9-12.1792525225447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "atklāja"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "viņas kailumu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "viņas dēlus"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "un viņas meitas"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "paņēma"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ viņu pašu",
+      "marks": "viņu pašu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ar zobenu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nokāva"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "un kļuva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "par pieminētu vārdu"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "starp sievām"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "un tiesas spriedumus"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "izpildīja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pār viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:25.448733524Z",
+  "model": "glm-5.3"
+}

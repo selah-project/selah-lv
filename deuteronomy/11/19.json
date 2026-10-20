@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "sēdēsi\/iesi\/gulsies\/celsies",
+      "rationale": "Četri infinitīvi būtļu celmos — dienas pilns loks no sēdēšanas līdz celšanās"
+    }
+  ],
+  "translation": "Un jūs mācīsiet ⟨את⟩ tos ⟨את⟩ saviem dēliem, runājot par tiem, kad tu sēdēsi savā namā, un kad tu iesi pa ceļu, un kad tu gulsies, un kad tu celsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/11\/17-20.1792516824510.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "mācīsiet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saviem dēliem"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "saviem dēliem"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "runājot"
+    },
+    {
+      "surface": "בם",
+      "gloss": "par tiem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kad tu sēdēsi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "savā namā"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "un kad tu iesi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "un kad tu gulsies"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "un kad tu celsies"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:24.513679914Z",
+  "model": "glm-5.3"
+}

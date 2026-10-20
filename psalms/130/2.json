@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "תהיינה ir darbības vārds 'lai ir\/rodas', latviešu saistībai pievienots saiklis 'ir'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקולי \/ לקול תחנוני",
+      "rationale": "atbalss: 'manu balsi' — 'lūgšanu balsi'"
+    }
+  ],
+  "translation": "Adonai, klausi manu balsi; lai Tavas ausis ⟨ir⟩ uzmanīgas pret lūgšanu balsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f736eb88d2daf3730fdc668caf660031738eed84a735a46a60e38aec502145ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/130\/1-4.1792528379466.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "klausi"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "manu balsi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "Tavas ausis"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "uzmanīgas"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pret balsi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lūgšanu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:59.467224717Z",
+  "model": "glm-5.3"
+}

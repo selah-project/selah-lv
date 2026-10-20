@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ienīstēji",
+      "rationale": "משנאי ir darāmais 'tie, kas mani ienīst' (D3), ne vispārīgs 'ienaidnieki'."
+    }
+  ],
+  "translation": "Viņš izrauva mani no mana spēcīgā ienaidnieka, no maniem ienīstējiem, jo tie bija stiprāki par mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "322f4695f62187937a5e88e2c99bd9a4b80b355dee0e0e3204e251d20701d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/17-20.1792520107433.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Viņš izrauva mani"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "no mana ienaidnieka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "spēcīgā"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "no maniem ienīstējiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "tie bija stiprāki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "par mani"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:07.434027288Z",
+  "model": "glm-5.3"
+}

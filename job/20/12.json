@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš to",
+      "rationale": "Darbnieks un izrunas objekts (sufikss -נָה) iekļauti ebreju darbības vārdā; latviski jāpievieno vietniekvārdi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "salds mutē \/ apslēpj zem mēles",
+      "rationale": "Sajūtu pretstats: saldenā ļaunuma baudīšana mutē pret tā slēpšanu zem mēles — maņu tēls, kas saglabājas arī latviski."
+    }
+  ],
+  "translation": "Kaut arī ļaunums kļūst salds viņa mutē, viņš to apslēpj zem savas mēles.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/20\/9-12.1792529315536.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kaut arī"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "kļūst salds"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "viņa mutē"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ļaunums"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "viņš to apslēpj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "savas mēles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:35.537715960Z",
+  "model": "glm-5.3"
+}

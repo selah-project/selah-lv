@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; atkārtotais שמע שמע ir 'pilnīgi dzirdējis'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע שמע",
+      "rationale": "Infinitivus absolutus atkārtojums — 'šaubīgi dzirdējis'; latviski viens vārds ar 'ir dzirdējis'"
+    },
+    {
+      "kind": "you",
+      "subject": "Davids lūdz Jahvi",
+      "rationale": "Tieša uzruna Jahvei, Jisraēla Elohim"
+    }
+  ],
+  "translation": "Un Davids sacīja: Jahve, Jisraēla Elohim, ⟨tavs⟩ kalps ir dzirdējis, ka Sauls cenšas nākt uz Keilu, lai postītu pilsētu mana dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fecce2a7f8464fd4f8969294f51eb6855ea3b3323dc54a8474966880baec4014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/23\/10-11.1792532572125.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Jisraēla Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dzirdējis"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ir dzirdējis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs kalps"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cenšas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nākt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "lai postītu"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "mana dēļ"
+    }
+  ],
+  "timestamp": "2026-10-20T21:42:52.126390185Z",
+  "model": "glm-5.3"
+}

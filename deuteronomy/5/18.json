@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נאף",
+      "rationale": "Darbības vārds nozīmē 'laulības pārkāpšana' — viens vārds ebrejiski, aprakstoši latviski."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "Pavēle adresēta Jisraēla tautai."
+    }
+  ],
+  "translation": "Un nekad laulības nepārkāpsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/5\/17-20.1792516656414.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "pārkāpsi laulību"
+    }
+  ],
+  "timestamp": "2026-10-20T17:17:36.415257140Z",
+  "model": "glm-5.3"
+}

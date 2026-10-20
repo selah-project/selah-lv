@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikla 'es esmu' — latviski nepieciešams"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמעתם בקולי",
+      "rationale": "'klausīt balsi' — ivrita 'dzirdēt balsi' nozīmē paklausīt"
+    },
+    {
+      "kind": "you",
+      "subject": "pravieša runa Israēlam",
+      "rationale": "Jahve caur pravieti tieši uzrunā Israēla bērnus ar pavēli un pārmetumu"
+    }
+  ],
+  "translation": "Un es sacīju jums: Es esmu Jahve, jūsu Elohim; nebīstieties ⟨את⟩ emoriešu Elohim, kuru zemē jūs dzīvojat; bet jūs neklausījāt manu balsi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4f2ab91242b7114e31a0aa425d0ec7abef2e78b9f414e23d4ebc6fc4725fb8b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/6\/9-12.1792518231702.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "Un es sacīju"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bīstieties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emoriešu Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "dzīvojat"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "klausījāt"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "manu balsi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:43:51.703935602Z",
+  "model": "glm-5.3"
+}

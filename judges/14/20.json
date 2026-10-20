@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tika dota",
+      "rationale": "וְתִהִי burtiski 'un viņa kļuva' — latviešu prasa darbības vārdu 'tika dota'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה לו",
+      "rationale": "'viņam gans\/draugs' — daži lasa רעה (draugs), citi רעיה (gans, kā līgavas pavadonis); turēts 'draugs'."
+    }
+  ],
+  "translation": "Un Šimšona sieva tika dota ⟨ir⟩ viņa pavadonim, kas bija viņa draugs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0e82f89d49566333ebdb213ace3cd87bdf72df11909ecdd54c129ca156ad9faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/14\/17-20.1792518505189.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "un tika dota"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sieva"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Šimšona"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "viņa pavadonim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bija viņa draugs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    }
+  ],
+  "timestamp": "2026-10-20T17:48:25.190664989Z",
+  "model": "glm-5.3"
+}

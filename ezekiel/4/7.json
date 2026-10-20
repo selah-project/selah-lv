@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 4:7",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roka",
+      "rationale": "זרוע ir izstieptā elkonroka, spēka simbols; latviski 'roka' zaudē šo precizitāti."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "חשופה ir apstāklis; latviešu valodai vajag kopulu 'būs'."
+    }
+  ],
+  "translation": "Un pret Jerušalaimas aplenķi tu vērsi savu seju, un tava roka būs atsegta, un tu pravietosi pret to.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5b3e78c809d6b2e885eac2adc32807b6346dc0be1971def5e47b633dd3158197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/4\/5-8.1792524777170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Un pret"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "aplenķi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu vērsi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "savu seju"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "un tavu roku"
+    },
+    {
+      "surface": "חשופה",
+      "gloss": "atsegta"
+    },
+    {
+      "surface": "ונבאת",
+      "gloss": "un tu pravietosi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pret to"
+    }
+  ],
+  "timestamp": "2026-10-20T19:32:57.171673146Z",
+  "model": "glm-5.3"
+}

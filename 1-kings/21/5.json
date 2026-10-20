@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir vējš\/elpa\/gars — viens vārds, ne tikai 'garastāvoklis'"
+    },
+    {
+      "kind": "you",
+      "subject": "Izebela runā Ahābam",
+      "rationale": "Tieša uzruna ar jautājumu"
+    }
+  ],
+  "translation": "Un Izebela, viņa sieva, ienāca pie viņa un runāja viņam: Kas tas ir, ka tava ruah ⟨ir⟩ niķīga, un tu neesi, kas ēd maizi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/21\/5-8.1792520932743.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ienāca"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebela"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "viņa sieva"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "tava ruah"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "niķīga"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "un tu neesi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kas ēd"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maizi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:52.744179950Z",
+  "model": "glm-5.3"
+}

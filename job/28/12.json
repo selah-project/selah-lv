@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "jautājums",
+      "rationale": "Pants ir pāreja uz himnu par gudrību: divi retoriski jautājumi, atbilde tiek aizturēta līdz 28:23"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums lasītājam",
+      "rationale": "Divkāršais 'kur?' izaicina lasītāju sameklēt atbildi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tā⟩",
+      "rationale": "Rādāmais vietniekvārds זה latviešu teikumā saplūst ar 'kur' un ir jāparāda atsevišķi"
+    }
+  ],
+  "translation": "Bet gudrība — no kurienes tā atrodama? Un kur ir vieta sapratnei?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2bdece10afc0d882d73eb15916a755c8f88992be6a097a2693429a0138e81b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/9-12.1792529371888.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "bet gudrība"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "no kurienes"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tā atrodama"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "un kur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨tā⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "sapratnei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:31.889580242Z",
+  "model": "glm-5.3"
+}

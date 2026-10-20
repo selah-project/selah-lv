@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēselē",
+      "rationale": "נפש ir 'elpa, dzīvības spēks', ne dvēsele plašā nozīmē"
+    },
+    {
+      "kind": "alternative",
+      "subject": "iedrošināji",
+      "rationale": "תרהבני no רהב 'varenība, drošums': arī 'Tu mani darīji drosmīgu'"
+    }
+  ],
+  "translation": "Dienā, kad es saucu, Tu mani atbildēji, Tu mani iedrošināji ar spēku manā dvēselē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/138\/1-4.1792528473742.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Dienā"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kad es saucu"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "Tu mani atbildēji"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "Tu mani iedrošināji"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "manā dvēselē"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ar spēku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:33.743236627Z",
+  "model": "glm-5.3"
+}

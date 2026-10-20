@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 40:29",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve runā uz Ijovu",
+      "rationale": "Retoriski jautājumi tieši Ijovam par Leviatānu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meitām",
+      "rationale": "נערותיך — 'tavām jaunavām\/meitām', Ijova tās varētu paturēt kā mājdzīvnieku rotaļu."
+    }
+  ],
+  "translation": "Vai tu spēlēsies ar viņu kā ar putnu, un vai tu siesi viņu savām meitām?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/40\/29-32.1792529607144.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשחק",
+      "gloss": "Vai tu spēlēsies"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kā putns"
+    },
+    {
+      "surface": "ותקשרנו",
+      "gloss": "un tu siesi viņu"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "savām meitām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:27.144810178Z",
+  "model": "glm-5.3"
+}

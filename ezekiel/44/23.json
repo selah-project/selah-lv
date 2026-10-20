@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "parasto",
+      "rationale": "חול — 'nesvētais, parastais'; sakne ar 'smieklu, ikdienas' nozīmi, pretstats קדש."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש\/חול · טמא\/טהור",
+      "rationale": "Divi pretstatu pāri paralēlā struktūrā; latviešu alliterācija 't' skaņā (nešķīsto\/tīro) daļēji sasaucas."
+    }
+  ],
+  "translation": "Un ⟨את⟩ manu tautu viņi mācīs starp svēto un parasto, un starp nešķīsto un tīro viņus darīs atšķirošus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/44\/21-24.1792525875618.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manu tautu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "manu tautu"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "viņi mācīs"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēto"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "parasto"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "un starp"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešķīsto"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "tīro"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "viņus darīs atšķirošus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:51:15.619238715Z",
+  "model": "glm-5.3"
+}

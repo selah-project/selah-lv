@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "subjekta vietniekvārds pie 'nogalinās' — ebreju valodā darbības vārds viens pats."
+    },
+    {
+      "kind": "you",
+      "subject": "Obadjah runā ar Elijahu",
+      "rationale": "tiešs uzrunas jautājums ar bailēm par savu dzīvību."
+    }
+  ],
+  "translation": "Un tagad tu saki: Ej, saki savam kungam: Lūk, Elijahu! — un viņš mani nogalinās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/13-16.1792520873994.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saki"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "savam kungam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "un viņš mani nogalinās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:53.995533461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "drebēdams",
+      "rationale": "ויחרד nozīmē 'nodrebēja no šausmām' — bailes, ne vienkārši izbrīns."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajag darbības vārdu 'esi' tur, kur ebreju valoda sakārto vārdus bez saikļa."
+    },
+    {
+      "kind": "you",
+      "subject": "priesteris Ahimelehs Davidam",
+      "rationale": "Tiešs jautājums Davidam — kāpēc viņš ir viens."
+    }
+  ],
+  "translation": "Un Davids ieradās Nobē, pie priestera Ahimeleha, un Ahimelehs drebēdams izgāja Davidam pretī un sacīja viņam: Kāpēc tu esi viens pats, un nav neviena vīra ⟨את⟩ ar tevi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/21\/1-4.1792519279250.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un ieradās"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nobē"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priestera"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "un drebēdams"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelehs"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "izgāja pretī"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kāpēc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "esi viens pats"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un neviena vīra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:01:19.251687490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "jautājums gudrajiem",
+      "rationale": "Ķēniņš tieši vaicā padomniekiem, ko darīt ar Vašti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "caur eunuchiem",
+      "rationale": "ביד burtiski 'ar roku\/caur roku' — piegādes līdzeklis"
+    }
+  ],
+  "translation": "pēc datu — ko darīt ar ķēniņien Vašti, tāpēc ka viņa nav izdarījusi ⟨את⟩ ķēniņa Ahašveroša pavēli caur eunuchiem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/1\/13-16.1792530066973.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "pēc datu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "darīt"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ar ķēniņien"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "izdarījusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņa Ahašveroša pavēli"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "pavēli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "caur"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuchiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:06.974965465Z",
+  "model": "glm-5.3"
+}

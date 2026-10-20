@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 2:3",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהה גבהה",
+      "rationale": "Atkārtotais 'augstprātīgi, augstprātīgi' — ebreju intensitātes atkārtojums."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa 'El zināšanu Jahve' — pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "Tulkojums 'nekaunība, droša runa' pret YLT 'vecs sakāmvārds'."
+    },
+    {
+      "kind": "you",
+      "subject": "runātāji",
+      "rationale": "Hannas lūgšana vēršas pret ienaidniekiem un augstprātīgajiem runātājiem."
+    },
+    {
+      "kind": "measurement",
+      "subject": "נתכנו",
+      "rationale": "Darbi tiek 'izsvērti' — svari un mērīšanas tēls."
+    }
+  ],
+  "translation": "Ne vairojiet runāt augstprātīgi, augstprātīgi, lai neizej nekaunība no jūsu mutes, jo El zināšanu ⟨ir⟩ Jahve, un pie Viņa tiek izsvērti darbi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0981a3ea7a8042e61b9584e99377131e9bea87296a3e5363bf3d4dafaf363cd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/2\/2-3.1792532592924.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "vairojiet"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "runāt"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "augstprātīgi"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "augstprātīgi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lai neizej"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "nekaunība"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "no jūsu mutes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "zināšanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un"
+    },
+    {
+      "surface": "נתכנו",
+      "gloss": "tiek izsvērti"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "darbi"
+    }
+  ],
+  "timestamp": "2026-10-20T21:43:12.925328757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "המקצוע",
+      "rationale": "'izliekums\/stūris' bez skaidrojuma — ebrejs nepamīda 'mūra', kā daudzas versijas pievieno"
+    },
+    {
+      "kind": "addition",
+      "subject": "tos",
+      "rationale": "Izrunas vietniekvārds piedots priekšmeta norādīšanai vienā vārdā ar 'nostiprināja'"
+    }
+  ],
+  "translation": "Un Uzija cēla torņus Jerušalaimā — pie Stūra vārtiem un pie Ielejas vārtiem un pie ⟨izliekuma⟩ — un viņš tos nostiprināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "11919e7190248a6476666ea2c1b5d35395d2939050d6fd1d3c1037765629d06a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/26\/9-12.1792532253738.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "cēla"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzija"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "torņus"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtiem"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "Stūra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vārtiem"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "Ielejas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un pie"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "⟨izliekuma⟩"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "nostiprināja tos"
+    }
+  ],
+  "timestamp": "2026-10-20T21:37:33.739493467Z",
+  "model": "glm-5.3"
+}

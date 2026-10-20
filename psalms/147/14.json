@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mieru",
+      "rationale": "שלום apzīmē pilnīgu labklājību un drošību, ne tikai 'mieru'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kviešu taukus",
+      "rationale": "חלב burtiski 'tauki' — kviešu izvēlītākā, bagātākā daļa."
+    }
+  ],
+  "translation": "kas tavās robežās liek mieru, ar kviešu taukiem tevi piesātina.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/147\/13-16.1792528503593.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "kas liek"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tavās robežās"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mieru"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "kviešu"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "tevi piesātina"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:03.594498265Z",
+  "model": "glm-5.3"
+}

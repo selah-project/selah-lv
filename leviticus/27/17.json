@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spēkā",
+      "rationale": "יקום 'celties' šeit nozīmē 'stāv\/spēkā' — novērtējums ir saistošs"
+    },
+    {
+      "kind": "measurement",
+      "subject": "novērtējums",
+      "rationale": "panta būtība ir lauka vērtības aprēķins"
+    }
+  ],
+  "translation": "Ja no jobilejas gada viņš svētī ⟨את⟩ savu lauku, pēc tava novērtējuma tas paliek spēkā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/27\/17-20.1792515330081.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "no gada"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "jobilejas"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "viņš svētī"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "savu lauku"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "pēc tava novērtējuma"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tas paliek spēkā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:55:30.085089152Z",
+  "model": "glm-5.3"
+}

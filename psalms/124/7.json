@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פח\/יוקשים",
+      "rationale": "Tikls-ķērājs atkārtojas (פח divreiz, sakne יקש slēpta 'ķērājos') — tikla pārraušanas skaņa, latviski atbalso ar vārda atkārtojumu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izglābti",
+      "rationale": "מלט burtiski 'būt slidenu' — izsprukt kā slidenu; latviski zūd slidēšanas priekšstats."
+    }
+  ],
+  "translation": "Mūsu nefesh kā putns ir izglābusies no putlu ķērāju tikla; tikls pārtrūka, un mēs esam izglābti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/124\/5-8.1792528386919.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Mūsu nefesh"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kā putns"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ir izglābusies"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "no tikla"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "putlu ķērāju"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "tikls"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "pārtrūka"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "un mēs"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "esam izglābti"
+    }
+  ],
+  "timestamp": "2026-10-20T20:33:06.919936791Z",
+  "model": "glm-5.3"
+}

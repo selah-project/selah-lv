@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 9:21",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mēslojums",
+      "rationale": "כדמן — kūtsmēsli; ebreju priekšstats par godīgu apbedījumu, kas netiks dots"
+    },
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "פני השדה burtiski 'lauka seja' — 'virsa' un pavārds 'kas savāc' pievienots latviešu sintaksei"
+    },
+    {
+      "kind": "crux",
+      "subject": "vārpas",
+      "rationale": "עמיר — 'iedziedzināta vārpa' vai 'kūts'; šeit 'izsviests vārpas kušķis, ko neviens nesavāc'"
+    }
+  ],
+  "translation": "Runā tā: saka Jahve, un kritīs cilvēku līķi kā mēslojums uz lauka virsas un kā vārpas pēc pļāvēja, un nav, kas savāc.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/9\/21-24.1792523445993.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "runā"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "un kritīs"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "līķi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "kā mēslojums"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "virsu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "וכעמיר",
+      "gloss": "un kā vārpas"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "pļāvēja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "kas savāc"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:45.994497395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jovs vēršas tieši pie Dieva ar jautājumu"
+    },
+    {
+      "kind": "addition",
+      "subject": "savas",
+      "rationale": "Latviešu valodai vajadzīgs piederības īpašības vārds"
+    }
+  ],
+  "translation": "Un vai tieši uz šādu Tu atver ⟨savas⟩ acis, un ⟨את⟩ mani Tu atved tiesā ⟨ar⟩ Sevi?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/14\/1-4.1792529125684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "un vai"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šādu"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "atver"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "acis"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mani",
+      "marks": "mani"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "atved tiesā"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ar Sevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:45:25.685714371Z",
+  "model": "glm-5.3"
+}

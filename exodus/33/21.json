@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pie",
+      "rationale": "אתי (H854 'ar') ir tuvuma prievārds, nevis aleph-tav objekta marķieris; latviešu valodai vajadzīgs prievārds 'pie'"
+    },
+    {
+      "kind": "you",
+      "subject": "Mozem",
+      "rationale": "Jahve runā tieši ar Moši — otrās personas forma 'tu stāvēsi'"
+    }
+  ],
+  "translation": "Un Jahve sacīja: Lūk, vieta pie ⟨את⟩ manis, un tu stāvēsi uz klints.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "aedb5fd906472d2cb34ae56ddffa34d33b5bcdbc2e82d063a7fd296651a19055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/33\/21-23.1792513347454.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un Jahve sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pie"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "un tu stāvēsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "klints"
+    }
+  ],
+  "timestamp": "2026-10-20T16:22:27.455624530Z",
+  "model": "glm-5.3"
+}

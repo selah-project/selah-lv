@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "nevis 'nezina?'",
+      "rationale": "Ebreju teksts knģu versijās lasāms arī kā apgalvojums ('zināšanu māca cilvēkam Jahve'); jautājuma forma tomēr vislabāk turpinājumu 94:11."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היסר\/המלמד",
+      "rationale": "Divi mācības darbības vārdi — 'audzināt' un 'mācīt' — veido paralēli ar 94:9 ausi un aci."
+    }
+  ],
+  "translation": "Vai Tas, kas audzina tautas, nepārmāca? Vai Tas, kas māca cilvēkam zināšanas, ⟨pats⟩ nezina?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/94\/9-12.1792528042869.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "audzina"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vai... ne"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "pārmāca"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "māca"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēkam"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "zināšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:27:22.870057634Z",
+  "model": "glm-5.3"
+}

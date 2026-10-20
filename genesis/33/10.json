@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 33:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dāvanu",
+      "rationale": "מנחתי šeit ir dāvana brālim, ne upuris, tāpēc 'dāvana', ne 'minha'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצאתי חן",
+      "rationale": "atrast žēlastību — ebreju idiomā 'חן', skaņas līdzība ar 'חנני' 33:11; latviski zudusi."
+    },
+    {
+      "kind": "crux",
+      "subject": "kā redzēšanu Elohim vaigu",
+      "rationale": "salīdzinājums: Esava vaigs kā Elohim vaigs — atsauce uz Penuēlu (32:31); tulkotāji sadala starp 'kā' un 'it kā'."
+    }
+  ],
+  "translation": "Un Jaakovs sacīja: Lūdzam, ne; ja esmu atradis žēlastību tavās acīs, tad ņem manu dāvanu no manas rokas, jo tieši tāpēc esmu redzējis tavu vaigu kā redzēšanu Elohim vaigu, un tu mani labvēlīgi uzņēmi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/33\/9-12.1792512245494.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lūdzam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tagad"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "esmu atradis"
+    },
+    {
+      "surface": "חן",
+      "gloss": "žēlastību"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavās acīs"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "tad ņem"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "manu dāvanu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "no manas rokas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tieši"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tāpēc"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "esmu redzējis"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavu vaigu"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "kā redzēšanu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "vaigu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותרצני",
+      "gloss": "un tu mani labvēlīgi uzņēmi"
+    }
+  ],
+  "timestamp": "2026-10-20T16:04:05.495064831Z",
+  "model": "glm-5.3"
+}

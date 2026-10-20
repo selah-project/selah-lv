@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "'ploni almoni' — 'tāds un tāds', tīša nenosaukšana; latviski 'šādā un šādā vietā'."
+    },
+    {
+      "kind": "you",
+      "subject": "kalpi",
+      "rationale": "Ķēniņa uzruna saviem kalpiem — netiešs runas akts ar slēptu vietu."
+    }
+  ],
+  "translation": "Un Aramas ķēniņš karoja pret Jisraēlu, un viņš apspriedās ar saviem kalpiem, sacīdams: šādā un šādā vietā būs mana nometne.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/6\/5-8.1792521195451.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Un ķēniņš"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "karoja"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pret Jisraēlu"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "un apspriedās"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "saviem kalpiem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdams"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "šādā"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "un šādā"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mana nometne"
+    }
+  ],
+  "timestamp": "2026-10-20T18:33:15.452094210Z",
+  "model": "glm-5.3"
+}

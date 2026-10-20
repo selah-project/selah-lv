@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Subjects pievienots; ebreju valodā tas turpinās no iepriekšējiem pantiem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבט",
+      "rationale": "Burtiski 'zierulis, zars' — latviski 'cilts' zaudē nūjas ainu."
+    }
+  ],
+  "translation": "Un viņš atgrūda Jozefa telti un Efraima cilti neizvēlējās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/65-68.1792527919846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Un viņš atgrūda"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "telti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "un cilti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izvēlējās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:19.847119546Z",
+  "model": "glm-5.3"
+}

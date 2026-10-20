@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 13:16",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jisraēls",
+      "rationale": "Israel — latviešu valodā izmantota tradicionālā forma 'Israēls', nevis 'Jisraēls', jo tas ir latviešu publiskajā telpā plaši atzīts"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "šalom\/šalom",
+      "rationale": "Atkārtots שלום: 'miera redzējumu... bet miera nav' — asonanse, kas latviešu valodā saglabāta ar vārda 'miers' atkārtojumu"
+    }
+  ],
+  "translation": "Israēla pravieši, kas pravieto par Jeruzalemi un redz tai miera redzējumu, — bet miera nav, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/13\/13-16.1792524877339.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נביאי",
+      "gloss": "pravieši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israēla"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "kas pravieto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "par"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalemi"
+    },
+    {
+      "surface": "והחזים",
+      "gloss": "un redz"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "redzējumu"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "miera"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bet nav"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "miera"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:34:37.340691655Z",
+  "model": "glm-5.3"
+}

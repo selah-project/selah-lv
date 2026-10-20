@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; tas pievienots latviski."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ceļam",
+      "rationale": "נתיבה ir izdangāts (izbraukts) ceļš, sliedzums, nevis vienkārši ceļš."
+    }
+  ],
+  "translation": "Mana spēkste (spriedze) manai kājai ⟨ir⟩ tavs vārds, un gaisma manam ceļam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/105-108.1792528305788.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "spēkste (spriedze)"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "manai kājai"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tavs vārds"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "un gaisma"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "manam ceļam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:45.789217290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 22:19",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקדמני",
+      "rationale": "Burtiski 'tie nāca man pretī\/apskrēja mani priekšā'; KJV 'prevented' ar veco nozīmi 'apskrēja priekšā'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atbalsts",
+      "rationale": "משען ir balsts, atspere — balstāmā lieta, ne cilvēka loma."
+    }
+  ],
+  "translation": "Tie uzbruka man manas nelaimēs dienā, un Jahve bija mans atbalsts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "322f4695f62187937a5e88e2c99bd9a4b80b355dee0e0e3204e251d20701d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/22\/17-20.1792520107433.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקדמני",
+      "gloss": "Tie uzbruka man"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "manas nelaimēs"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "un bija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משען",
+      "gloss": "atbalsts"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mans"
+    }
+  ],
+  "timestamp": "2026-10-20T18:15:07.434187377Z",
+  "model": "glm-5.3"
+}

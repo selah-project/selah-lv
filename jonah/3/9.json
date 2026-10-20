@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי יודע",
+      "rationale": "Atvērtais jautājums 'Kas zina' — ebreju teksts nesaka, vai cerība ir nosacīta; tulkotāji sadalās starp 'kas zina, vai' (KJV) un pārliecinošo 'kas zina — varbūt' (BSB)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "Burtiski 'deguna karstums' (deguns = dusmas); tulkots kā 'dusmu karstums'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחם",
+      "rationale": "'Nožēlos' — var arī 'mainīs domas \/ iežēlosities'; pamata nozīme ir 'elsot, uzņemt elpu'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Nineves ķēniņš runā savai tautai",
+      "rationale": "Runas aktā izteikta nenoteikta cerība, kas aicina tautu gavilēt un atgriezties."
+    }
+  ],
+  "translation": "Kas zina — atgriezīsies un nožēlos Elohim, un atgriezīsies no sava dusmu karstuma, un mēs neiesim bojā.”",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jonah\/3\/9-10.1792526399212.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atgriezīsies"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "un nožēlos"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "un atgriezīsies"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "no karstuma"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "savām dusmām"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "iesim bojā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:59:59.213238261Z",
+  "model": "glm-5.3"
+}

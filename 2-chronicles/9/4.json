@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 9:4",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליתו",
+      "rationale": "'viņa augšupiete\/kāpnes' (KJV, ASV) pret 'viņa dedzināmie upuri' (Geneva, YLT no עלות) — līdzīga skanēšana, atšķiras tikai patskaņi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח nav tikai 'elpa' — idioms 'ruah vairs nebija viņā' nozīmē, ka viņa aprāvās aiz apbrīna; ruah saglabāts viens vārds."
+    },
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "vietniekvārds piepirkts pie יעלה, lai latviski skaidrs, kas kāpa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליתו\/יעלה",
+      "rationale": "עלה saknes atkārtojums — augšupiete, pa kuru viņš uzkāpj."
+    }
+  ],
+  "translation": "un viņa galda ēdienu, un viņa kalpu sēdēšanu, un viņa kalpotāju stāvēšanu, un viņu tērpus, un viņa dzērienu saimniekus, un viņu tērpus, un viņa augšupietu, pa kuru viņš kāpa Jahves namā, un viņā vairs nebija ruah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/9\/1-4.1792531889256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "un ēdienu"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "viņa galda"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "un sēdēšanu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "viņa kalpu"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "un stāvēšanu"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "viņa kalpotāju"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "un viņu tērpus"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "un viņa dzērienu saimniekus"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "un viņu tērpus"
+    },
+    {
+      "surface": "ועליתו",
+      "gloss": "un viņa augšupietu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pa kuru"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "viņš kāpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nebija"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "בה",
+      "gloss": "viņā"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-20T21:31:29.257903156Z",
+  "model": "glm-5.3"
+}

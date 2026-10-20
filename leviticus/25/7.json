@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיה",
+      "rationale": "בהמה ir lielie mājlopi, חיה savvaļas zvērs — sadalījums saglabāts: 'lopi' un 'zvērs'."
+    }
+  ],
+  "translation": "Un tavam lopam, un zvēram, kas tavā zemē, — visa tā raža būs ēšanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/25\/5-8.1792515195821.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "un tavam lopam"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "un zvēram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "tavā zemē"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "tā raža"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ēšanai"
+    }
+  ],
+  "timestamp": "2026-10-20T16:53:15.822951141Z",
+  "model": "glm-5.3"
+}

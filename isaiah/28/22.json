@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 28:22",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מוסריכם",
+      "rationale": "Burtiski 'jūsu pārmācības\/klusinātāji' — tēls no pavadas, tulkots kā 'važas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "iznīcību",
+      "rationale": "Ivritā tik divi piedēkļi 'galīgu un izlemtu'; latviešu valodai pievienots lietvārds 'iznīcību'."
+    }
+  ],
+  "translation": "Un tagad nesmejieties, lai tikai nesastingst jūsu važas, jo galīgu un izlemtu iznīcību esmu dzirdējis no ⟨את⟩ Adonai Jahves Cevaota pār visu zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/28\/21-24.1792522263715.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "un tagad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nesmejieties"
+    },
+    {
+      "surface": "תתלוצצו",
+      "gloss": "(nesmejieties)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lai tikai ne"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "nesastingst"
+    },
+    {
+      "surface": "מוסריכם",
+      "gloss": "jūsu važas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "galīgu"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "un izlemtu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "esmu dzirdējis"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai Jahve Cevaots"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaota"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:03.717225404Z",
+  "model": "glm-5.3"
+}

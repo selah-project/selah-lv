@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gani",
+      "rationale": "רעים ir ganītāji avīm — tēls Israēlas vadītājiem, nevis mācītājiem."
+    }
+  ],
+  "translation": "Un došu jums ganus pēc savas sirds, un tie jūs ganīs ⟨את⟩ ar atziņu un saprašanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8ff1da43b5b9f1edf590e6c17b6c7f1ead1add17687c259c67a12def594e5807",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/3\/13-16.1792523235674.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "un došu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ganus"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "pēc savas sirds"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "un tie ganīs"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūs"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ar atziņu"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "un saprašanu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:07:15.675940300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצורים",
+      "rationale": "'Slēptavas' pret 'monumenti' (KJV) vai 'krātuves' — cēlies no nazar 'sargāt, noslēgt'; skaidrs tikai konteksts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פגלים",
+      "gloss": "'Pretīgas lietas' — pigul ir kulta termins par ceremoniāli nešķīstu; 'pretīgs' tuvina sajūtu, bet zaudē kulta nokrāsu."
+    },
+    {
+      "kind": "secret",
+      "subject": "kapi un slēptavas",
+      "rationale": "Naktis kapenes un slēptās vietās — necromantijas prakses pasaule, kas slēpjas no gaismas."
+    }
+  ],
+  "translation": "Kas sēž kapos un nakšņo slēptavās; kas ēd cūkas gaļu, un viņu traukos ir pretīgu lietu virums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/65\/1-4.1792523105719.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "Kas sēž"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "kapos"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "un slēptavās"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "nakšņo"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "kas ēd"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gaļu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "cūkas"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "un virums"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "pretīgu lietu"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "viņu traukos"
+    }
+  ],
+  "timestamp": "2026-10-20T19:05:05.720725632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iznīdēt kā lāsta lietu",
+      "rationale": "החרם ir 'herem' — nodevība iznīcībai kā lāstam; viens vārds latviešu valodā jāsadala vairākos"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Šeit אֹתָם ir vietniekvārds 'viņus', nevis aleph-tav marķieris"
+    }
+  ],
+  "translation": "un Jahve sūtīja tevi ceļā un sacīja: Ej un iznīdē kā lāsta lietu ⟨את⟩ noziedzīgos, ⟨את⟩ Amaleku, un karo ar viņu, līdz pilnīgi iznīcini ⟨את⟩ viņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/15\/17-20.1792519116307.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "un sūtīja tevi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "un iznīdē kā lāsta lietu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noziedzīgos"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "noziedzīgos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleku"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleku"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "un karo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ar viņu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "pilnīgi iznīcinot viņus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T17:58:36.308545425Z",
+  "model": "glm-5.3"
+}

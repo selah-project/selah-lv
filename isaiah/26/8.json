@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebrejā nav saikļa pirms dvēseles ilgošanās; latviešu valodai vajadzīgs ⟨ir⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש tuvāk ir \"elpa, dzīvības spēks\", nevis abstrakta dvēsele."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Vēršanās pie Jahves vārdā — lūgšanas balss."
+    }
+  ],
+  "translation": "Jā, tavu tiesu ceļā, Jahve, mēs gaidījām uz tevi; uz tavu vārdu un uz tavu piemiņu ⟨ir⟩ dvēseles ilgošanās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/5-8.1792522282937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "jā"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tavu tiesu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "mēs gaidījām uz tevi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "uz tavu vārdu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "un uz tavu piemiņu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ilgošanās"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:22.939172746Z",
+  "model": "glm-5.3"
+}

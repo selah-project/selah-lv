@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir tas, kas",
+      "rationale": "Ebreju teikumā nav saikļa; latviski pievienots, lai izteiktu piederējumu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב...אהב",
+      "rationale": "Atkārtotais \"mīl\" veido paralēlismu starp priekiem un vīnu ar eļļu"
+    }
+  ],
+  "translation": "Trūkuma vīrs ir tas, kas mīl priekus; kas mīl vīnu un eļļu, tas nesa bagātību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/21\/17-20.1792528795108.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "trūkuma"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīl"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "priekus"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mīl"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vīnu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "un eļļu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "sa bagātību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:55.109034009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והריחו",
+      "rationale": "'Viņa baudījums būs' (no smaržošanas\/ošņāšanas, kā KJV 'quick understanding', ASV 'delight') pret 'viņam iedvesīs\/ošņās' — tulki dalās."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישפוט\/יוכיח",
+      "rationale": "Paralēlisms: divi tiesneša darbības vārdi pret acīm un ausīm — spriedums un pārbaude."
+    }
+  ],
+  "translation": "Un viņa baudījums ⟨būs⟩ Jahves bijāšanā: viņš netiesās pēc sava acu redzētā un nenosprāgs pēc savu ausu dzirdētā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/11\/1-4.1792522079641.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "baudījums"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "bijāšanā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "pēc redzētā"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "savu acu"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "tiesās"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "pēc dzirdētā"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "savu ausu"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "nosprāgs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:47:59.642522032Z",
+  "model": "glm-5.3"
+}

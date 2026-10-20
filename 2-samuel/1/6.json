@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 1:6",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקרא \/ נקריתי",
+      "rationale": "Viens paziņojums, divi iemiesojumi — saknes atkārtošanās, kas latviski pazūd vienā 'gadījās'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרכב",
+      "rationale": "'Rati' vai 'ratnieki' — vārds apzīmē ratu kopu vai kavalēriju, ne tikai 'kokardi'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ובעלי הפרשים",
+      "rationale": "Burtiski 'zirgu īpašnieki' — tas ir ebreju idioms 'jātnieki'"
+    }
+  ],
+  "translation": "Un jauneklis, kas viņam ziņoja, sacīja: Gadījās, ka nonācu Gilboas kalnā, un lūk — Šauls balstījās uz savu šķēpu, un lūk — ratnieki un jātnieku valdnieki bija viņam piecirtuši klāt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/1\/5-8.1792519588276.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "kas ziņoja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "Gadījās"
+    },
+    {
+      "surface": "נקריתי",
+      "gloss": "ka nonācu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauls"
+    },
+    {
+      "surface": "נשען",
+      "gloss": "balstījās"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "savu šķēpu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ratnieki"
+    },
+    {
+      "surface": "ובעלי",
+      "gloss": "un valdnieki"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "jātnieku"
+    },
+    {
+      "surface": "הדבקהו",
+      "gloss": "bija viņam piecirtuši klāt"
+    }
+  ],
+  "timestamp": "2026-10-20T18:06:28.276931390Z",
+  "model": "glm-5.3"
+}

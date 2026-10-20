@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי",
+      "rationale": "'mans gods' pret 'mana mēle' (Targums, BSB) — gods kā sirds pārdabojums"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בשרי ישכן",
+      "rationale": "Iespējams 'mana miesa atpūtīsies' (KJV 'rest in hope'), bet šכן nozīmē 'mitināties'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīgs kopsaiklis, ebreju valodā tā nav"
+    }
+  ],
+  "translation": "Tāpēc mana sirds priecājas un mans gods līksmojas, arī mans miesa dzīvos drošībā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/16\/9-11.1792527088319.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Tāpēc"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "priecājas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mana sirds"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "un līksmojas"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mans gods"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arī"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mana miesa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "dzīvos"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "drošībā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:11:28.321239423Z",
+  "model": "glm-5.3"
+}

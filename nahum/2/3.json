@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "atgriež",
+      "rationale": "šב: 'atgriež\/atjauno lepnumu' (ASV\/JPS) pret 'novērsis' (KJV\/Geneva) — divējāda lasījumaTradīcija."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום בקקים",
+      "rationale": "Saknes atkārtojums: 'iztukšotāji iztukšoja' — zaudēts, ja tulkots vien vārdu."
+    }
+  ],
+  "translation": "Jo Jahve atgriež ⟨את⟩ Jaakoba lepnumu, kā Jisraēla lepnumu; jo iztukšotāji tos iztukšoja, un viņu vīna koku zarus tie nomaitāja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nahum\/2\/1-4.1792526590670.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atgriež"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakoba lepnumu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lepnumu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kā lepnumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "iztukšoja tos"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "iztukšotāji"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "un viņu vīna koku zarus"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "nomaitāja"
+    }
+  ],
+  "timestamp": "2026-10-20T20:03:10.671608534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 28:17",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זכוכית",
+      "rationale": "'Caurspīdīgums' — stikls vai kristāls; atspoguļošanās ledū vēlāk par גביש."
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Ebreju valodā trūkst piederības verba 'ir'; latviešu valodā nepieciešama saikne."
+    },
+    {
+      "kind": "mystery",
+      "subject": "gedoma",
+      "rationale": " Pants turpina Apgalvojumu par slēpto gudrību, nevis atbild uz to."
+    }
+  ],
+  "translation": "Ne zelts, ne stikls to ⟨ar⟩ nelīdzinās, un tā maiņas vietā nedz ⟨ir⟩ trauks no tīra zelta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/28\/17-20.1792529388152.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "to nelīdzinās"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelts"
+    },
+    {
+      "surface": "וזכוכית",
+      "gloss": "un stikls"
+    },
+    {
+      "surface": "ותמורתה",
+      "gloss": "un tās maiņa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "trauks"
+    },
+    {
+      "surface": "פז",
+      "gloss": "tīrs zelts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:49:48.152700639Z",
+  "model": "glm-5.3"
+}

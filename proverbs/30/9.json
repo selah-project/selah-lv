@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "'lest' rendered as Latvian purpose particle 'lai', no separate word"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותפשתי שם",
+      "rationale": "'take hold of the name of my God': understood as swear falsely (KJV) or profane (JPS); rendered literally with added ⟨aplam⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אורש",
+      "rationale": "root 'to dispossess\/drive out' here 'stripped of possessions', rendered 'noplīsis būdams'"
+    }
+  ],
+  "translation": "Lai es, sāts būdams, nenoliedzu un nesaku: kas ir Jahve? un lai es, noplīsis būdams, nezogu un neaiztveru ⟨aplam⟩ sava Elohim vārdu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/30\/9-12.1792528910771.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "sāts būdams"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "nenoliedzu"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "nesaku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "un lai"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "noplīsis būdams"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "nezogu"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "neaiztveru ⟨aplam⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sava Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:50.771919150Z",
+  "model": "glm-5.3"
+}

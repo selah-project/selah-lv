@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשונים\/אחרונים\/אחרונה",
+      "rationale": "Pirmie–pēdējie–vēl pēdējie: saknes אחר atkārtošanās veido ciklisku kadru, kas latviski daļēji pazūd."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לאחרנה",
+      "rationale": "Var lasīt arī vienkārši 'nākamajiem' — tālākā pēctecība kā viens vārds."
+    }
+  ],
+  "translation": "Nav piemiņas par pirmajiem, un arī pēdējiem, kas būs, nebūs piemiņas kopā ar tiem, kas būs vēl pēc viņiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc4c73f34e37f096661967ade5939b68204b484c027cf258cdf120ae988cc44f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/1\/10-11.1792532859497.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nav"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "piemiņas"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "par pirmajiem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "pēdējiem"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kas būs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "piemiņas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kopā ar"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kas būs"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "vēl pēc viņiem"
+    }
+  ],
+  "timestamp": "2026-10-20T21:47:39.498484043Z",
+  "model": "glm-5.3"
+}

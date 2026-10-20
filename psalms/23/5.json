@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ienaidniekiem",
+      "rationale": "צררי — burtiski 'manu ciešanu darītāji', no saknes 'sažņaugt'; D3 nostiprina 'ienaidnieki'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa 'mana kauss ⟨ir⟩ pilnības pilns'; latviešu teikumam vajadzīgs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mana kauss pārpilni teč",
+      "rationale": "רויה var nozīmēt arī 'tecēt pāri'; izvēlēts 'pilnības pilns' kā tuvāk vārda formai."
+    }
+  ],
+  "translation": "Tu klāj mani priekšā galdu pretī maniem ienaidniekiem; tu svaidi ar eļļu manu galvu, mana kauss ⟨ir⟩ pilnības pilns.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/23\/5-6.1792527178613.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Tu klāj"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mani priekšā"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "galdu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "maniem ienaidniekiem"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "tu svaidi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ar eļļu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "manu galvu"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "mana kauss"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "pilnības pilns"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:58.614868154Z",
+  "model": "glm-5.3"
+}

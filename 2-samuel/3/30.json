@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relatīvais\/apstākļu vietā latviešu 'tāpēc ka' uzsūc אשר bez atsevišķa vārda"
+    }
+  ],
+  "translation": "Un Joabs un Avišajs, viņa brālis, nogalināja Avneru, tāpēc ka viņš bija nogalinājis ⟨את⟩ Asahelu, savu brāli, Givonā kaujā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/3\/29-32.1792519665007.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Un Joabs"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "un Avišajs"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "viņa brālis"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nogalināja"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המית",
+      "gloss": "bija nogalinājis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahelu"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahelu"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "savu brāli"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonā"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "kaujā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:07:45.008664922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "obadiah 1:5",
+  "book": "obadiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדמיתה",
+      "rationale": "no דמה — 'esi nopostīta\/iznīcināta' vs 'klusē (kā apmulsusi)'; abi lasījumi pastāv"
+    },
+    {
+      "kind": "crux",
+      "subject": "דים",
+      "rationale": "'zagtu tikai līdz pietiekamībai' vs 'zagtu savu pilnu' — maz atšķirības, bet glosa seko vārdam 'pietiekami'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tikai⟩",
+      "rationale": "izteikts ierobežojums, kas ebreju tekstā ir netiešs"
+    }
+  ],
+  "translation": "Ja zagļi nāktu pie tevis, ja nakts laupītāji — cik tu esi nopostīta! Vai tie nezagtu ⟨tikai⟩ līdz pietiekamībai? Ja vīna lasītāji pie tevis nāktu, vai tie neatstātu ogu paliekas?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "856eebfe7103cabbe5f241d07520183106008abe8910f4d936c3365ba15737ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/obadiah\/1\/5-8.1792526306490.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "zagļi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nāktu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שודדי",
+      "gloss": "laupītāji"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakts"
+    },
+    {
+      "surface": "איך",
+      "gloss": "cik"
+    },
+    {
+      "surface": "נדמיתה",
+      "gloss": "esi nopostīta"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "יגנבו",
+      "gloss": "zagtu"
+    },
+    {
+      "surface": "דים",
+      "gloss": "pietiekamībai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "vīna lasītāji"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nāktu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pie tevis"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "atstātu"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ogu paliekas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:58:26.491561899Z",
+  "model": "glm-5.3"
+}

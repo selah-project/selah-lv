@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu valodai vajag saikli 'ir', ko ebreju nesarunātā teikumā izlaiž"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלי שכם",
+      "rationale": "'Šekemas kungi' pret 'Šekemas vīri' — בעלי var nozīmēt valdniekus, īpašniekus vai vienkārši pilsētas iedzīvotājus"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלון מצב",
+      "rationale": "'ozola pieminekļa' — tradīcijas dalās: 'stāvošais ozols', 'piemiņas akmens pie ozola' vai 'apmetnes ozols'"
+    }
+  ],
+  "translation": "Un sapulcējās visi Šekemas kungi un viss Bēt-Milo nams, un tie aizgāja un ieceļa ⟨את⟩ Avimelehu par ķēniņu pie ozola pieminekļa, kas ⟨ir⟩ Šekemā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ba1fb7514ad6ad90723123b7d12ab7149df04605d1c6c499e121b98c0ea2e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/9\/5-8.1792518400913.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "un sapulcējās"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "kungi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nams"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Bēt-Milo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "un tie aizgāja"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "un ieceļa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelehu"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "par ķēniņu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ozola"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pieminekļa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Šekemā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:40.914767952Z",
+  "model": "glm-5.3"
+}

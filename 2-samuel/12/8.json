@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כהנה וכהנה",
+      "rationale": "Burtiski 'šādu un šādu' — atkārtots demonstratīvs apzīmē nenosauktas, vēl lielākas lietas."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשי אדניך",
+      "rationale": "'Tavas kunga sievas tavā klēpī' — slavenais strīds: vai Jahve deva Šaula sievas Davidam, vai tas nozīmē vienīgi pārvaldi pār viņa namu; teksts stāv burtiski."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas bija⟩",
+      "rationale": "Ebreju teikumam 'un ja par maz' latviešu valodā vajag predikātu."
+    }
+  ],
+  "translation": "un es tev devu ⟨את⟩ tava kunga namu un ⟨את⟩ tavas kunga sievas tavā klēpī, un es tev devu ⟨את⟩ Jisraēla un Jehudas namu; un ja ⟨tas bija⟩ par maz, es būtu devis tev vēl šo un šo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/12\/5-8.1792519863723.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "un es ... devu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tava kunga namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tava kunga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "tavas kunga sievas"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "sievas"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavas kunga"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "tavā klēpī"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "un es ... devu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla un Jehudas namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "un Jehudas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "par maz"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "es būtu devis vēl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "un šo"
+    }
+  ],
+  "timestamp": "2026-10-20T18:11:03.725047795Z",
+  "model": "glm-5.3"
+}

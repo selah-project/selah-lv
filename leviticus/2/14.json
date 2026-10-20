@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 2:14",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גרש כרמל",
+      "rationale": "'Sagrauti graudi noapaļa lauka' — tulki šķiras: svaigi graudi, piesisti graudi, auglīga lauka graudi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ābībs",
+      "rationale": "אביב — jaunā, zaļā vārpa; saglabāts skanējums, jo arī mēneša vārds."
+    }
+  ],
+  "translation": "Un ja tu cels klāt pirmražas minhu Jahvem, ābību — ugunī grauzdētas jaunās vārpas, karmela sagrautus graudus — tu cels klāt ⟨את⟩ sava pirmražas minhu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/2\/13-16.1792513598246.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "un ja"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu cels klāt"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "pirmražas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "ābībs (jaunā vārpa)"
+    },
+    {
+      "surface": "קלוי",
+      "gloss": "grauzdētas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "sagrauti graudi"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "karmela (apaļā lauka)"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu cels klāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sava pirmražas minhu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhu"
+    },
+    {
+      "surface": "בכוריך",
+      "gloss": "sava pirmražas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:38.247410424Z",
+  "model": "glm-5.3"
+}

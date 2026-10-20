@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 22:8",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל (priekšvārds)",
+      "rationale": "Mieles priekšvārds iekļauts locījumā 'Jehošafatam'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ienīdu",
+      "rationale": "שנא — 'ienīst'; ķēniņa teiktais par Mīkaju."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Latviešu valodai vajadzīgs saiklis 'ir': ebreju tekstā nav."
+    }
+  ],
+  "translation": "Un Jisraēla ķēniņš sacīja Jehošafatam: Vēl ir viens vīrs, caur kuru var vaicāt Jahvi — bet es ⟨את⟩ viņu ienīdu, jo viņš nesludina par mani labu, bet tikai ļaunu: Mīkaja, Jimlas dēls. Un Jehošafats sacīja: Lai ķēniņš tā nesaka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/22\/5-8.1792521092728.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafatam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Vēl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "var vaicāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "bet es"
+    },
+    {
+      "surface": "שנאתיו",
+      "gloss": "ienīdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "nesludina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "par mani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ļaunu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mīkaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "Jimlas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafats"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Lai ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    }
+  ],
+  "timestamp": "2026-10-20T18:31:32.729517399Z",
+  "model": "glm-5.3"
+}

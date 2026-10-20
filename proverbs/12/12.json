@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "augļu",
+      "rationale": "יתן saka tikai 'dod'; objekts 'augļus' pievienots pēc tradīcijas (KJV 'yieldeth fruit')."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'tīkls' pret 'laupījums' (JPS) — arī 'cieņa' (no מצד); skaidri tverams tikai kontekstā."
+    }
+  ],
+  "translation": "Ļaunais kāro ļauno tīklu, bet taisno sakne dod ⟨augļu⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/12\/9-12.1792528656656.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "kāro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Ļaunais"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "tīklu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ļauno"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "bet sakne"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "taisno"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dod"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:36.658053258Z",
+  "model": "glm-5.3"
+}

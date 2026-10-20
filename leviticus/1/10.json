@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; latviešu valoda to prasa, pievienots ⟨ir⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבן \/ יקריבנו",
+      "rationale": "Sakne קרב 'pietuvināt' gan 'upurdāvana', gan darbības vārdā — viena sakne divreiz, latviski daļēji zudusi."
+    }
+  ],
+  "translation": "Un ja viņa upurdāvana ⟨ir⟩ no ganāmpulka — no avīm vai no kazām — par cieps upuru, tad viņš upurēs to: tēviņu, bez vainas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/1\/9-12.1792513561146.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Un ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ganāmpulka (avis un kazas)"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "viņa upurdāvana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "avīm"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazām"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "par cieps upuru"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tēviņu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vainas \/ veselu"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "viņš upurēs to (pietuvinās)"
+    }
+  ],
+  "timestamp": "2026-10-20T16:26:01.147418694Z",
+  "model": "glm-5.3"
+}

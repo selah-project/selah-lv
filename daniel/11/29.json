@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 11:29",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "uz",
+      "rationale": "Latviešu valodai vajadzīgs prievārds virzienam, kuru ebreju נגב jau ietver sevī"
+    },
+    {
+      "kind": "crux",
+      "subject": "kā pirmoreiz un kā pēdējoreiz",
+      "rationale": "Nav skaidrs, vai 'tā' attiecas uz iebrukumu vai uz ķēniņu; atstāts divdomīgs kā ebreju tekstā"
+    }
+  ],
+  "translation": "Norunātajā laikā viņš atgriezīsies un nāks ⟨uz⟩ dienvidiem, un ⟨tas⟩ nebūs kā pirmoreiz un kā pēdējoreiz.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f36351f964aa07ac5d63f3d344a2ee8d967d1d64e147a318ba539dc92d337d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/11\/29-32.1792530484528.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למועד",
+      "gloss": "norunātajā laikā"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "viņš atgriezīsies"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "un nāks"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "dienvidos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būs"
+    },
+    {
+      "surface": "כראשנה",
+      "gloss": "kā pirmā"
+    },
+    {
+      "surface": "וכאחרנה",
+      "gloss": "un kā pēdējā"
+    }
+  ],
+  "timestamp": "2026-10-20T21:08:04.528728092Z",
+  "model": "glm-5.3"
+}

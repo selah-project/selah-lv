@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 13:22",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda — 'tur Ahimans...' ir bez kopulas; latviešu valodai tā vajadzīga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ילידי הענק",
+      "rationale": "Burtiski 'Anaka dzimušie\/dzimtie' — parasti 'Anaka bērni'; saglabāts 'dzimušie pēcnācēji' tuvāk vārda formai."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven years",
+      "rationale": "Laika skaitīšana: Hevrona uzcelta septiņus gadus pirms Coanas Ēģiptē."
+    }
+  ],
+  "translation": "Un tie gāja uz augšu pa Negēbu un nonāca līdz Hevronai; un tur ⟨bija⟩ Ahimans, Šešajs un Talajs, Anaka dzimušie pēcnācēji; un Hevrona tika uzcelta septiņus gadus pirms Coanas Micraimā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88b56335fc16430197b8e71700a49db5367559a661e80d68ccb5398cd7bc9a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/13\/21-24.1792515742123.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "un tie gāja uz augšu"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "pa Negēbu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un nonāca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronai"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un tur"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimans"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešajs"
+    },
+    {
+      "surface": "ותלמי",
+      "gloss": "un Talajs"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "dzimušie pēcnācēji"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaka"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "un Hevrona"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septiņus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gadus"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "tika uzcelta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Coanas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:02:22.126415856Z",
+  "model": "glm-5.3"
+}

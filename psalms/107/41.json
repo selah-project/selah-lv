@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "poza possessīvs minēts gan ebreju vārdā, bet latviešu ģenitīvs to pieprasa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישגב\/וישם",
+      "gloss": "abi wayyiqtol verbi sākas ar ויש, atbalss zaudēta latviski"
+    }
+  ],
+  "translation": "Un cēla trūcīgo no viņa posts, un viņš uzcēla ģimenes kā ganāmpulku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a21e665bc73bc95b50f307edc276b79471371200406a43bb2a3e2c7db17a02f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/107\/41-43.1792528202083.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "cēla augstu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "trūcīgo"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "no viņa posts"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "un uzcēla"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kā ganāmpulku"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ģimenes"
+    }
+  ],
+  "timestamp": "2026-10-20T20:30:02.084233072Z",
+  "model": "glm-5.3"
+}

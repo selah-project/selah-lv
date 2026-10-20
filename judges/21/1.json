@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 21:1",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Plūkvenis latviski pieprasa izteiktu pagātni; ebreju נשבע ir vienkārša forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neviens",
+      "rationale": "איש ממנו burtiski 'vīrs no mums' — katra atsevišķa vīra labad"
+    }
+  ],
+  "translation": "Un Jisraēla vīri bija zvērējuši Micpā, sacīdami: neviens no mums nedos savu meitu Benjamīnam par sievu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2edbb294e6902bd6e835ce2ad81e5c3a366edd2823ef562175dedecf09d64513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/21\/1-4.1792518783232.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "un vīri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bija zvērējuši"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "Micpā"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sacīdami"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviens"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no mums"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savu meitu"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "Benjamīnam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "par sievu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:53:03.233496348Z",
+  "model": "glm-5.3"
+}

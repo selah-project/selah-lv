@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "klāja pār",
+      "rationale": "כסס — 'apklāja'; latviešu valodai vajadzēja virzienu pār"
+    }
+  ],
+  "translation": "Un Aharons izstiepa ⟨את⟩ savu roku pār Micraimes ūdeņiem, un vardekāji uzkāpa un klāja pār ⟨את⟩ Micraimes zemi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f1e9202d68b1d591ac3d1dc5fe442b34cbc91c94738930af88ff747b008fc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/8\/1-4.1792512824282.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Un izstiepa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ūdeņiem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimes"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "un uzkāpa"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "vardekāji"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "un klāja pār"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimes zemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimes"
+    }
+  ],
+  "timestamp": "2026-10-20T16:13:44.283398842Z",
+  "model": "glm-5.3"
+}

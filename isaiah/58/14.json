@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 58:14",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענג \/ תתענג",
+      "rationale": "58:13 'baudījums' (ענג) un šeit 'tu baudīsi' — tā pati sakne; kas šabatu sauc par baudījumu, pats baudīs ar Jahvi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kopā⟩",
+      "rationale": "על ar ענג nozīmē 'baudīt ar\/pār' — latviski nepieciešams precizējums."
+    },
+    {
+      "kind": "you",
+      "subject": " uz Israēlu",
+      "rationale": "turpinās tieša uzruna ar Jahves solījuma 'Es' pusi."
+    }
+  ],
+  "translation": "Tad tu baudīsi ⟨kopā⟩ ar Jahvi, un Es tevi celsu zemes augstienēs, un Es tevi mielošu ar tēva Jaakoba mantojumu, jo Jahves mute ir runājusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "25ac35dfc8d68c7cd3c03c04176c6051f0c3dcefab9e322937eeeb3f3735fe5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/58\/13-14.1792523024057.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tad"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "tu baudīsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kopā⟩ ar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "והרכבתיך",
+      "gloss": "un Es tevi celsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "augstienēs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemes"
+    },
+    {
+      "surface": "והאכלתיך",
+      "gloss": "un Es tevi mielošu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mantojumu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tēva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ir runājusi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:44.058661388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saiklis 'Tie ir Elohim'; ebreju valodā הם darbojas kā norāde"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Daudzskaitlis 'šo vareno Elohim' — filistieši saprot Elohim kā daudzus dievus; forma nelokāma saglabāta"
+    }
+  ],
+  "translation": "Vai mums! Kas mūs izglābs no šo vareno Elohim rokas? Tie ⟨ir⟩ Elohim, kas sita ⟨את⟩ Micraimu ar visiem sitieniem tuksnesī.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/4\/5-8.1792518873685.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "mūs izglābs"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "vareno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ir tie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kas sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visiem"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sitieniem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    }
+  ],
+  "timestamp": "2026-10-20T17:54:33.686609860Z",
+  "model": "glm-5.3"
+}

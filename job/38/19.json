@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tās",
+      "rationale": "Izpildītāja vietniekvārds pievienots, lai skaidri būtu, ka runa ir par tumsību"
+    },
+    {
+      "kind": "mystery",
+      "subject": "gaismas un tumsības mājas",
+      "rationale": "Teksts parādīts kā noslēpums — kur gaismas un tumsības ceļi un vieta, ko tikai Elohim zina"
+    }
+  ],
+  "translation": "Kur ir ceļš, kur mīt gaisma, un tumsība — kur ir ⟨tās⟩ vieta?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/38\/17-20.1792529586200.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ceļš"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "kur mīt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "gaisma"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "un tumsība"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "⟨tās⟩ vieta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:06.200987935Z",
+  "model": "glm-5.3"
+}

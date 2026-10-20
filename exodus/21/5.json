@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר יאמר",
+      "rationale": "Infinitīvs absolūts + personas forma — 'skaidri sacīs'; ebreju intensitāte atspoguļota ar apstākļa vārdu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חפשי",
+      "rationale": "'atbrīvots no kalpības' — attiecināms arī uz nodokļa un rūpju atbrīvojumu"
+    }
+  ],
+  "translation": "Un, ja vergs skaidri sacīs: Es mīlu ⟨את⟩ savu kungu, ⟨את⟩ savu sievu un ⟨את⟩ savus dēlus — neiešu brīvs ārā,",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/21\/5-8.1792513127373.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "un, ja"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "skaidri sacīt"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sacīs"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "vergs"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "es mīlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu kungu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "savu kungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu sievu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "savu sievu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "savus dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "savus dēlus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "iešu ārā"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "brīvs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:47.373767616Z",
+  "model": "glm-5.3"
+}

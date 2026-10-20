@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 18:12",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ir viens vārds — gars, vējš, elpa; saglabāts kā 'ruah', nevis izvēlēts viens no trīs nozīmēm"
+    },
+    {
+      "kind": "crux",
+      "subject": "ruah nesīs tevi",
+      "rationale": "Vai ישאך nozīmē 'aiznesīs' (kā Habakuka ekipāža) vai pārnēsāti — Obadja baidās, ka ruah Elijas acumirklī aiznesīs"
+    }
+  ],
+  "translation": "Un notiks: es aiziešu no tevis ⟨את⟩, un Jahves ruah aiznesīs tevi uz vietu, ko es nezinu; un es atnākšu paziņot Ahabam, un viņš tevi neatrodēs, un viņš mani nonāvēs; bet tavs kalps bīstas ⟨את⟩ Jahvi no savas jaunības.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/9-12.1792520866839.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Un notiks"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aiziešu"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "no tevis ⟨את⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "un ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "aiznesīs tevi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "es zināšu"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "un es atnākšu"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "paziņot"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "ימצאך",
+      "gloss": "viņš tevi atradīs"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "un viņš mani nonāvēs"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "bet tavs kalps"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bīstas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "no savas jaunības"
+    }
+  ],
+  "timestamp": "2026-10-20T18:27:46.840414667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju valodā teikumā nav darbības vārda 'bija'; latviešu valodai tas vajadzīgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/הדברים",
+      "rationale": "'Runāja' un 'vārdi' — viena sakne דבר divreiz pantiņā."
+    }
+  ],
+  "translation": "Un Jahve man deva ⟨את⟩ divas akmens plāksnes, uzrakstītas ar Elohim pirkstu, un uz tām ⟨bija⟩ pēc visiem vārdiem, ko Jahve runāja ar jums kalnā, no uguns vidus, sapulces dienā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9eb203f451b45dc4dc3f145b50af07b8dd7448b17af179f34fe7e38c93880ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/9\/9-12.1792516835041.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Un deva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "divas akmens plāksnes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "divas"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "plāksnes"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmens"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "uzrakstītas"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "ar pirkstu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "un uz tām"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pēc visiem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "vārdiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ar jums"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "האש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sapulces"
+    }
+  ],
+  "timestamp": "2026-10-20T17:20:35.043813948Z",
+  "model": "glm-5.3"
+}

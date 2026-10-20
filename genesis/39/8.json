@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "H854 prievārds 'ar mani' — 'mans kungs nezina, kas ar mani ir namā' (KJV) pret JPS 'having me, knoweth not'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Latviešu valodai vajadzīga kopula ⟨ir⟩, kur ebreju יש to nes."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "'Mans kungs' — par cilvēku Potifaru, mazais burts pareizs."
+    }
+  ],
+  "translation": "Bet viņš atteica un sacīja sava kunga sievai: Lūk, mans kungs ⟨ar mani⟩ nezina ⟨את⟩ neko no tā, kas ⟨ir⟩ namā, un visu, kas tam ⟨ir⟩, viņš nodevis manā rokā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6cb89b38fe57823e7b93867d9971969a9a91d111bfb450f881f1729ae48c953e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/39\/5-8.1792512427895.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "bet atteica"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(pret)"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sieva"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sava kunga"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zināja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ar mani",
+      "marks": "ar mani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neko no tā"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nodevis"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "manā rokā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:07:07.896521510Z",
+  "model": "glm-5.3"
+}

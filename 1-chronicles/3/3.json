@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dēls⟩",
+      "rationale": "Ebreju tekstā teikuma fragments bez darbības vārda un bez vārda 'dēls' — latviešu valodai vajag pabeigt teikumu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dēlu uzskaitījums",
+      "rationale": "Turpinās Davida dēlu kārtas skaitīšana (piektais, sestais)."
+    }
+  ],
+  "translation": "piektais — Šefatja, Avitalas ⟨dēls⟩; sestais — Jitreams, Egla, ⟨viņa⟩ sievas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bcfbac657a06699c645e7d52c6b56857cd402230857eee8bce9871f895e9d32f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/3\/2-3.1792532938165.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "piektais"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Šefatja"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "Avitalas"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sestais"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Jitreams"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "Egla"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sievai"
+    }
+  ],
+  "timestamp": "2026-10-20T21:48:58.165560678Z",
+  "model": "glm-5.3"
+}

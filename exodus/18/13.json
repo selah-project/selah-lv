@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על משה",
+      "rationale": "burtiski 'uz Moši', latviski 'pie Mošes' — stāvēšana kā gaidīšana pie tiesneša."
+    },
+    {
+      "kind": "measurement",
+      "subject": "no rīta līdz vakaram",
+      "rationale": "dienas ilguma mērs — tiesas darbs ilga visu dienu."
+    }
+  ],
+  "translation": "Un notika nākamajā dienā, ka Moše sēdēja, lai tiesātu ⟨את⟩ tautu; un tauta stāvēja pie Mošes no rīta līdz vakaram.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/18\/13-16.1792513020240.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nākamajā dienā"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sēdēja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "lai tiesātu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "un stāvēja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rīta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaram"
+    }
+  ],
+  "timestamp": "2026-10-20T16:17:00.240921501Z",
+  "model": "glm-5.3"
+}

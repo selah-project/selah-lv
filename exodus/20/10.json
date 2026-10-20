@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa — šabats ⟨ir⟩ Jahvem."
+    },
+    {
+      "kind": "you",
+      "subject": "tu",
+      "rationale": "Tieša uzruna Israēlam baušļu tekstā."
+    }
+  ],
+  "translation": "bet septītā diena ir šabats Jahvem, tavam Elohim; nedari nevienu darbu — ne tu, ne tavs dēls, ne tava meita, ne tavs vergs, ne tava verdzene, ne tavi lopi, ne tavs sveštnieks, kas ir tavos vārtos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/20\/9-12.1792513017286.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "bet diena"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septītā"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabats"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavam Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nevienu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "un tavs dēls"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "un tava meita"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavs vergs"
+    },
+    {
+      "surface": "וַאֲמָתְךָ",
+      "gloss": "un tava verdzene"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "un tavi lopi"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "un tavs sveštnieks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ir tavos vārtos"
+    }
+  ],
+  "timestamp": "2026-10-20T16:16:57.287233508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "es darīšu",
+      "rationale": "עֹשֶׂה burtiski 'daru' — iespējams arī 'sakapāšu\/sagraušu' (KJV 'undo'), teikums tīšām atvērts."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשתם",
+      "rationale": "'to kaunu vietā' (Geneva) pret 'kur viņiem bijis kauns' (KJV) — bepriedēklis בּּ lasāms abējādi."
+    },
+    {
+      "kind": "you",
+      "subject": "Sionai",
+      "rationale": "Dievs runā tieši ar Sionu sievišķā vien-skaitļa formās (מְעַנַּיִךְ 'tavus')."
+    },
+    {
+      "kind": "elision",
+      "subject": "הצלעה",
+      "gloss": "participles sievišķā formā: 'viņa, kas klibo' — burtiskais 'klibā' apzīmē Sionas izklīdušos tautu."
+    }
+  ],
+  "translation": "Lūk, es tanī laikā darīšu ⟨את⟩ visus tavus apspiedējus, un es izglābšu ⟨את⟩ klibo, un izdzīto es sapulcēšu, un viņus es celšu par slavu un vārdu visā zeme, kur viņiem bijis kauns.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1029c008c6ef34a621cd7fec600659898091e8ea1b651955d2b8af16f3931dfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zephaniah\/3\/18-19.1792532794432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Lūk, es"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus tavus apspiedējus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "tavus apspiedējus"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tanī laikā"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "un es izglābšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klibo"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "klibo"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "un izdzīto"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "es sapulcēšu"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "un viņus es celšu"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "par slavu"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "un vārdu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "kur viņiem bijis kauns"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:34.433391093Z",
+  "model": "glm-5.3"
+}

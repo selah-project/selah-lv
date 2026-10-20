@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 9:20",
+  "book": "nehemiah",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "gloss-num": null,
+      "rationale": "רוח turēts kā ruah pēc D2 — 'gars\/vējš\/elpa' vienā vārdā."
+    },
+    {
+      "kind": "hapax",
+      "subject": "manu",
+      "rationale": "ומנך — mans vārds cēlies no jautājuma 'man hu?' (Kas tas ir?); šeit possessīvs 'tavs mans'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lausīt\/pravietot",
+      "rationale": "להשכילם burtiski 'lai viņus darītu izsvērtus\/gudrus' — tulkots 'darītu gudrus', ne 'mācītu'."
+    }
+  ],
+  "translation": "Un savu labo ruah Tu devi, lai viņus darītu gudrus, un savu manu Tu neaizturi no viņu mutes, un ūdeni Tu devi tiem viņu slāpju remdināšanai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "93c963f8fdd730b314ed295f944e07954c2c829dbaa28eed499b71163a50371a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/nehemiah\/9\/17-20.1792530825752.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוחך",
+      "gloss": "Un savu ruah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "labo"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "Tu devi"
+    },
+    {
+      "surface": "להשכילם",
+      "gloss": "lai viņus darītu gudrus"
+    },
+    {
+      "surface": "ומנך",
+      "gloss": "un savu manu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "aizturi"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "no viņu mutes"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "un ūdeni"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Tu devi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "לצמאם",
+      "gloss": "viņu slāpēm"
+    }
+  ],
+  "timestamp": "2026-10-20T21:13:45.753719890Z",
+  "model": "glm-5.3"
+}

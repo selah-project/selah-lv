@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "viņa vārdi bija ar",
+      "rationale": "דבריו עם — 'viņa lietas (runas) bija ar' kā 'apspriedās'; daudzi tulkojumos vienkārši 'apspriedās'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אחרי",
+      "rationale": "'pēc Adonijas' — sekošana; latviski ietilpst 'palīdzēja Adonijam'"
+    }
+  ],
+  "translation": "Un viņa vārdi bija ar Joabu, Cerujas dēlu, un ar Evjataru, priesteri; un viņi palīdzēja Adonijam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/1\/5-8.1792520232077.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Un bija"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "viņa vārdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerujas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "un ar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjataru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteri"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "un viņi palīdzēja"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijam"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:12.078571365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju teikumam trūkst izsauksmes darbības vārda; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "חן טוב",
+      "rationale": "'labvēlība laba' — labā grēka nojauta (pret cilvēkiem) vai arī piemīlība; tulkotāji šķiras"
+    }
+  ],
+  "translation": "Izvēlēts vārds ⟨ir⟩ labāks par lielu bagātību, no sudraba un no zelta — labvēlība laba.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/22\/1-4.1792528813420.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "Izvēlēts"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārds"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "par bagātību"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lielu"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "no sudraba"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "un no zelta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "labvēlība"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "laba"
+    }
+  ],
+  "timestamp": "2026-10-20T20:40:13.420479406Z",
+  "model": "glm-5.3"
+}

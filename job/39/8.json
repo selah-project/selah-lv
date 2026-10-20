@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 39:8",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יתור",
+      "rationale": "Vārds 'kas palicis pāri, pārpalikums' sastopams tikai šeit Tanahā — kalnu nomale kā ganība."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meklē",
+      "rationale": "דרש ir 'mīt, staigāt pa, pētīt' — ēzelis iet pa zemi un to apmeklē, ne vien 'meklē'."
+    }
+  ],
+  "translation": "Kalnu pāri palikušais ir viņa ganība, un pēc katra zaļuma viņš to meklē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/39\/5-8.1792529566366.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתור",
+      "gloss": "pāri palikušais"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ir viņa ganība"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "ירוק",
+      "gloss": "zaļuma"
+    },
+    {
+      "surface": "ידרוש",
+      "gloss": "viņš to meklē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:52:46.367563642Z",
+  "model": "glm-5.3"
+}

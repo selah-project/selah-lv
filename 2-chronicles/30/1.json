@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 30:1",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vēstnešus⟩",
+      "rationale": "šalaḥ al — sūtīt pie kāda; latviešu valodai vajadzīgs objekts, ebreju tekstā tas nav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesahs",
+      "rationale": "פסח atstāts pēc skanējuma, nevis tulkots kā 'Lieldienas' vai 'pagājiens'"
+    }
+  ],
+  "translation": "Un Hizkijahs nosūtīja ⟨vēstnešus⟩ uz visu Jisraēlu un Jūdu, un arī vēstules uzrakstīja uz Efraimu un Menaši, lai nāk uz Jahves namu Jerušalaimā, lai darītu pesahu Jahvem, Jisraēla Elohim.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "82adde529565cb408ab5347a4164ad69f0939b7edb167d3900c6489abd01e9ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/30\/1-4.1792532322823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nosūtīja"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahs"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēlu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "un Jūdu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "vēstules"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "uzrakstīja"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "un Menaši"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lai nāk"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uz namu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimā"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "lai darītu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesahu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T21:38:42.823686267Z",
+  "model": "glm-5.3"
+}

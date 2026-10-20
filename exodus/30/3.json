@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vainags",
+      "rationale": "זֵר ir apmale, reljefa josla ap augšmalu; 'vainags' ienes karalisku nozīmi, kas ebreju vārdam pašā nav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב ... סביב",
+      "rationale": "'Apkārt' divreiz pantā — ietvars ap altāra apkalšanas aprakstu."
+    }
+  ],
+  "translation": "Un tu apklāsi ⟨את⟩ viņu tīru zeltu: ⟨את⟩ tā jumtu un ⟨את⟩ tā sienas apkārt un ⟨את⟩ tā ragus; un tu izdarīsi tam zelta vainagu apkārt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/30\/1-4.1792513293677.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Un tu apklāsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu",
+      "marks": "viņu (altāri)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zeltu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tīru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tā jumtu"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "tā jumtu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tā sienas"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "tā sienas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tā ragus"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tā ragus"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "un tu izdarīsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vainagu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zelta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:33.678087273Z",
+  "model": "glm-5.3"
+}

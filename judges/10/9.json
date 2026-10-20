@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותצר",
+      "rationale": "Burtiski 'kļuva šaurs' — ciešanu apzīmējums; tulkojums saglabā šauruma ainu, nevis 'bēda'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēls",
+      "rationale": "pants apraksta Jisraēla ciešanas bez tiešas uzrunas."
+    }
+  ],
+  "translation": "Un Amona dēli pārgāja ⟨את⟩ Jordānu, lai cīnītos arī pret Jehudu un pret Benjamīnu un pret Efraima namu, un Jisraēlam kļuva ļoti šauri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/10\/9-12.1792518381633.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "pārgāja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordānu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordānu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "lai cīnītos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "arī"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "pret Jehudu"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "un pret Benjamīnu"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "un pret … namu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "un kļuva šauri"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraēlam"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:21.634007240Z",
+  "model": "glm-5.3"
+}

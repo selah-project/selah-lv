@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 34:9",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישבי ירושלם",
+      "rationale": "KJV\/JPS lasa 'un viņi atgriezās Jerušalaimā'; Ivriešu teksts ir 'Jerušalaimas iedzīvotāji', tāpat kā LXX un lielākā daļa versiju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הסף",
+      "gloss": "slieksnis"
+    }
+  ],
+  "translation": "Un viņi nāca pie Hilkijas, priestera, lielā, un nodeva ⟨את⟩ sudrabu, kas ienests Elohim namā, ko bija savākuši levīti, slieksņa sargi, no Manaša un Efraima rokas, un no visa Jisraēla atlikuma, un no visas Jehudas un Benjamīna, un no Jerušalaimas iemītniekiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3d1c130c16232e7741391f7cd6bbd5b46b5c313b0f982ddea1fd3a9c82a8da52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/34\/9-12.1792532421266.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "un viņi nāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priestera"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lielā"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "un nodeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudrabu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sudrabu"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "kas ienests"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namā"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "bija savākuši"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levīti"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "sargi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "slieksņa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "no rokas"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaša"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "un Efraima"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "un no visa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "atlikuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "un no visas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "un Benjamīna"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "un iemītniekiem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:40:21.267464518Z",
+  "model": "glm-5.3"
+}

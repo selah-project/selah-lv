@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai tas vajadzīgs divreiz."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir tuvāk 'elpai\/dzīvības spēkam\/appetīt' — izkaltusi nešķīstība, bet apetītes zudums."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל המן",
+      "rationale": "'el-haman' — 'uz\/manu' (KJV 'beside this manna') pret 'nevis manu' (KJV 'not the manna'); lasīts kāMana."
+    }
+  ],
+  "translation": "Un tagad mūsu dvēsele ⟨ir⟩ izkaltusi; nav nekā, vienīgi mana ⟨ir⟩ mūsu acu priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/11\/5-8.1792515658357.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mūsu dvēsele"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "izkaltusi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nekā"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "vienīgi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mūsu acu priekšā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:00:58.446898749Z",
+  "model": "glm-5.3"
+}

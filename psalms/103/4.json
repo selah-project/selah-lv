@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משחת",
+      "rationale": "'iegruvums\/bedre' — iznīcības tēls; latviski 'bedre' saglabā tēlu."
+    },
+    {
+      "kind": "crux",
+      "subject": "המעטרכי",
+      "rationale": "'tevi vainago' (d\/5849) pret JPS 'tevi apjož' — vainagošana ir vairumu lasījums; latviski 'dansī tevi' tuvāk vainagadarbībai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד saglabāts kā 'hesed' — viens vārds: uzticama labvēlība, žēlastība, uzticība."
+    }
+  ],
+  "translation": "kas izglābj tavu dzīvību no bedres, kas tevi dansī ar hesed un apžēlošanos —",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/103\/1-4.1792528126632.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "izglābj"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "no bedres"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "tavu dzīvību"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "dansī tevi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ar hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "un apžēlošanos"
+    }
+  ],
+  "timestamp": "2026-10-20T20:28:46.633191885Z",
+  "model": "glm-5.3"
+}

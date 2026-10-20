@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "tika iegremdēti",
+      "rationale": "הטבעו nozīmē 'tikt iegremdētiem\/kārtiem'; KJV\/JPS lasa 'nostiprināti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dzemdināta",
+      "rationale": "חוללתי no חול — 'vīta apļos, dzemdēta'; daudzi tulko 'radīta', bet vārds turas pie dzemdību bildes."
+    }
+  ],
+  "translation": "Pirms kalni tika iegremdēti, pirms pakalniem es tiku dzemdināta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9b4ee58613d5a69d9eaaa5c00b9df12beb4182f7ddec1bad396efc9390817e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/8\/25-28.1792528638504.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalni"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "tika iegremdēti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pakalniem"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "es tiku dzemdināta"
+    }
+  ],
+  "timestamp": "2026-10-20T20:37:18.504533480Z",
+  "model": "glm-5.3"
+}

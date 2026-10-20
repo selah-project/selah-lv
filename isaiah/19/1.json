@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 19:1",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mākonis",
+      "rationale": "עב ir blīvs, tumšs mākonis; 'žigls' no קַל — viegls, ātrs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימס",
+      "rationale": "izkust kā vasks — sirds šķidrinās bailēs; metafora saglabāta"
+    }
+  ],
+  "translation": "Micraimas nasts. Lūk, Jahve jāj uz žiglu mākoni un nonāks Micraimā, un Micraimas elki nodrebēs no Viņa vaiga, un Micraimas sirds izkusīs tās iekšienē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/19\/1-4.1792522187370.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "nasts"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "jāj"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "עב",
+      "gloss": "mākoni"
+    },
+    {
+      "surface": "קל",
+      "gloss": "žiglu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "un nonāks"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimā"
+    },
+    {
+      "surface": "ונעו",
+      "gloss": "un nodrebēs"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "elki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "no Viņa vaiga"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "un sirds"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "izkusīs"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "tās iekšienē"
+    }
+  ],
+  "timestamp": "2026-10-20T18:49:47.371597767Z",
+  "model": "glm-5.3"
+}

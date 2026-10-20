@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Nepieciešamā saiklis, ebreju valodā izlaists."
+    },
+    {
+      "kind": "crux",
+      "subject": "אראה בשנאי",
+      "rationale": "'Redzēšu tos, kas mani ienīst' — tradīcija lasa 'redzēšu viņu galu\/uzvaru pār viņiem'; burtiski vienkārši 'palūkošos uz'. "
+    }
+  ],
+  "translation": "Jahve ⟨ir⟩ man starp maniem palīgiem, un es redzēšu ⟨uzvaru pār⟩ tiem, kas mani ienīst.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/5-8.1792528262634.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "starp maniem palīgiem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "redzēšu"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "⟨uzvaru pār⟩ tiem, kas mani ienīst"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:02.635454063Z",
+  "model": "glm-5.3"
+}

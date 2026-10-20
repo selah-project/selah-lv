@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Otrajā teikumdaļā latviešu valodai vajadzīgs saiklis 'ir', kura ebreju tekstā nav."
+    },
+    {
+      "kind": "crux",
+      "subject": "mana pilnīgā",
+      "rationale": "תַּמָּתִי: 'pilnīgā\/neaizskartā\/bez vainas' — tulkojumi svārstās starp morālu un estētisku nozīmi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Atver man",
+      "rationale": "Mīļotā balss aicina atvērt durvis — tiešs aicinājums ar četrkāršu uzrunu."
+    },
+    {
+      "kind": "you",
+      "subject": "Atver man, mana māsa",
+      "rationale": "Vēstījuma ietvarā runātāja vārdi tieši uzrunā mīļoto sievieti."
+    }
+  ],
+  "translation": "Es guļu, bet mana sirds ir modrīga: mana mīļotā balss klaudzēja: Atver man, mana māsa, mana draudzene, mans balodis, mana pilnīgā, jo mana galva ir pilna rasas, manas cirtas ⟨ir⟩ pilnas nakts pilieniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/5\/1-4.1792529683048.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "guļu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "bet mana sirds"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ir modrīga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balss"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mana mīļotā"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "klaudzēja"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "Atver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mana māsa"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mana draudzene"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "mans balodis"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "mana pilnīgā"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "jo mana galva"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ir pilna"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasas"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "manas cirtas"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "⟨ir⟩ pilnas pilieniem"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakts"
+    }
+  ],
+  "timestamp": "2026-10-20T20:54:43.049718526Z",
+  "model": "glm-5.3"
+}

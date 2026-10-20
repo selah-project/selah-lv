@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 23:6",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ne pa labo, ne pa kreiso",
+      "rationale": "ימין ושמאול — ebreju idiomāts 'negriezties ne pa labi, ne pa kreisi' no ceļa"
+    },
+    {
+      "kind": "addition",
+      "subject": "pusu",
+      "rationale": "latviešu valodai vajadzīgs vārds 'pusi' izteiksmes pilnībai"
+    }
+  ],
+  "translation": "Un esiet ļoti stipri, lai pasargātu un darītu ⟨את⟩ visu, kas uzrakstīts Mošes Toras grāmatā, lai nenovērsieties no tā ne pa labo, ne pa kreiso pusi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/23\/5-8.1792518030673.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחזקתם",
+      "gloss": "Un esiet stipri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ļoti"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "lai pasargātu"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "un darītu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "kas uzrakstīts"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "grāmatā"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "lai ne"
+    },
+    {
+      "surface": "סור",
+      "gloss": "novērsieties"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tā"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pa labo"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "un pa kreiso pusi"
+    }
+  ],
+  "timestamp": "2026-10-20T17:40:30.674388924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav kopulas; latviešu teikumam tā vajadzīga."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošua runā Jisraēla vadītājiem",
+      "rationale": "Tieša vēršanās 'jūs redzējāt' — aicinājums atcerēties redzēto."
+    },
+    {
+      "kind": "invitation",
+      "subject": "redzējāt",
+      "rationale": "Runātājs aicina liecību par paveikto — atsauce uz kopīgi redzēto."
+    }
+  ],
+  "translation": "Un jūs redzējāt ⟨את⟩ visu, ko darīja Jahve, jūsu Elohim, visām ⟨šīm⟩ tautām jūsu priekšā; jo Jahve, jūsu Elohim, ⟨ir⟩ tas, kas cīnās par jums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/23\/1-4.1792518015918.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Un jūs"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "redzējāt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu, ko darīja Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīm"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "jūsu priekšā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "kas cīnās"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "par jums"
+    }
+  ],
+  "timestamp": "2026-10-20T17:40:15.919686928Z",
+  "model": "glm-5.3"
+}

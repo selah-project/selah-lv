@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 15:12",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nosūtīja pēc",
+      "rationale": "sūtīšana ar את šeit nozīmē 'aicināt atnākt', ne fiziski aizsūtīt projām"
+    },
+    {
+      "kind": "crux",
+      "subject": "את אבשלום",
+      "rationale": "pēdējais את var būt prievārds 'ar' (H854) — 'vairojās ar Avšalomu' — vai DOM marķieris; saglabāts kā ⟨את⟩"
+    }
+  ],
+  "translation": "Un Avšaloms nosūtīja pēc ⟨את⟩ Ahitofela, gilonieša, Dāvida padomdevēja, no viņa pilsētas, no Gilo, kamēr viņš upurēja ⟨את⟩ upurus. Un sazvērestība kļuva stipra, un ļaudis nāca un vairojās ar ⟨את⟩ Avšalomu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/15\/9-12.1792519952094.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Un nosūtīja"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloms"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahitofelu"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofels"
+    },
+    {
+      "surface": "הגילני",
+      "gloss": "gilonietis"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "padomdevējs"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāvida"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "no viņa pilsētas"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "no Gilo"
+    },
+    {
+      "surface": "בזבחו",
+      "gloss": "kamēr viņš upurēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upurus"
+    },
+    {
+      "surface": "הזבחים",
+      "gloss": "upurus"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "הקשר",
+      "gloss": "sazvērestība"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "stipra"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "un ļaudis"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "un vairojās"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:12:32.095783837Z",
+  "model": "glm-5.3"
+}

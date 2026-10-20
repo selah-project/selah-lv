@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mūs⟩",
+      "rationale": "Ebreju valodā objekta vietā tikai והצילנו priedēklis, latviešu valodai vajadzīgs objekts."
+    },
+    {
+      "kind": "crux",
+      "subject": "sedz",
+      "rationale": "וְכַפֵּר burtīgi 'pārklāj\/apseglo' — 'piedot' vs 'izlīdzināt' vs 'apsedz'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למען שׁמך",
+      "rationale": "Atkārtots 'sava vārda dēļ' pantiņa sākumā un galā — ietvars ap pantu."
+    }
+  ],
+  "translation": "Palīdzi mums, mūsu pestīšanas Elohim, sava vārda goda dēļ, un izglāb ⟨mūs⟩, un sedz mūsu grēkus, sava vārda dēļ.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/79\/9-12.1792527945506.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "palīdzi mums"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mūsu pestīšanas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sava vārda goda dēļ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "goda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sava vārda"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "un izglāb"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "un sedz"
+    },
+    {
+      "surface": "על",
+      "gloss": "mūsu grēkus"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "grēkus"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sava vārda dēļ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sava vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:45.507184443Z",
+  "model": "glm-5.3"
+}

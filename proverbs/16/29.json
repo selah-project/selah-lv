@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 16:29",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "varas vīrs",
+      "rationale": "חמס ir 'varas darbība, aplaupīšana'; 'ķēniņš ļaunums' būtu pārāk plaši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pavedina",
+      "rationale": "פתה nozīmē 'atvērt, paplašināt' — te: pievilkt ar mēli, kārdināt"
+    }
+  ],
+  "translation": "Varas vīrs pavedina savu tuvāko un ved viņu ceļā, kas nav labs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/16\/29-32.1792528749817.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "varas"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "pavedina"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savu tuvāko"
+    },
+    {
+      "surface": "והוליכו",
+      "gloss": "un ved viņu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ceļā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:09.817592366Z",
+  "model": "glm-5.3"
+}

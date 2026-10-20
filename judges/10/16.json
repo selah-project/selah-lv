@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "un viņa dvēsele kļuva nepacietīga",
+      "rationale": " burtiski 'viņa nefesh kļuva īsa' — 'dvēsele saīsinās' nozīmē zaudēt pacietību, nožēlot; izvēles: 'norūgtināta' (KJV) pret 'nevarēja vairs ciest' (BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": " nav nemateriāla 'dvēsele', bet dzīvības spēks, elpa; šeit runā par Jahves nefesh."
+    }
+  ],
+  "translation": "Un viņi novāca ⟨את⟩ svešos elohim no sava vidus un kalpoja ⟨את⟩ Jahvem; un viņa dvēsele kļuva nepacietīga no Jisraēla mokām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/10\/13-16.1792518374442.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירu",
+      "gloss": "Un viņi novāca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svešos elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "svešos"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "no sava vidus"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "un kalpoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve (Jahvem)"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "un kļuva īsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "viņa dvēsele"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "no mokām"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:46:14.444181691Z",
+  "model": "glm-5.3"
+}

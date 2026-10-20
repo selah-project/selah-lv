@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "izies",
+      "rationale": "Jusatīvs bez 'lai': arī 'lai iziet mana tiesa' kā vēlējums, ne tikai nākotnes izteiksme."
+    }
+  ],
+  "translation": "No Tava vaiga mana tiesa izies; Tavas acis redzēs taisnīgo.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/17\/1-4.1792527146078.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "No Tava vaiga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mana tiesa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izies"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Tavas acis"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "redzēs"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "taisnīgo"
+    }
+  ],
+  "timestamp": "2026-10-20T20:12:26.097963577Z",
+  "model": "glm-5.3"
+}

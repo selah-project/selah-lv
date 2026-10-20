@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "latviešu valodai vajadzīgs palīgdarbības vārds; ebreju עשה ir vienkāršā pagātnē"
+    }
+  ],
+  "translation": "Un Balaks, Cipora dēls, redzēja ⟨את⟩ visu, ko Jisraēls bija darījis amoriešiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec2b09880c3eb528bdb762c35f45472513c45496523e19d40021a0e47d74c480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/22\/1-4.1792516042532.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "redzēja"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bija darījis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amoriešiem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:07:22.533639891Z",
+  "model": "glm-5.3"
+}

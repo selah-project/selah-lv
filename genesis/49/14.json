@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המשפתים",
+      "rationale": "duals no משפת: 'aizgaldi (govju)' — KJV lasa 'nastas', JPS 'avju kūtis'; burtiski divskaitlis: starp diviem aizgaldiem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ar kauliem",
+      "rationale": "גרם 'kauls' kā stipruma apzīmējums — 'kaulains\/spēcīgs ēzelis'"
+    }
+  ],
+  "translation": "Jisaskars ir ēzelis ar kauliem, guļošs starp diviem aizgaldiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/49\/13-16.1792512628054.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Jisaskars"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ēzelis"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ar kauliem"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "guļošs"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "diviem aizgaldiem"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:28.055206169Z",
+  "model": "glm-5.3"
+}

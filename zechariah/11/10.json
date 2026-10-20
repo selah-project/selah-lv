@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jaukums",
+      "rationale": "נעם — spieķa vārds: 'Jaukums' \/ 'Prieks' \/ 'Labvēlība' (JPS 'Graciousness', KJV 'Beauty')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "את כל העמים — šeit את ir prievārds 'ar', nevis darbības objekta marķieris; latviski vajadzīgs 'ar'"
+    }
+  ],
+  "translation": "Un es paņēmu ⟨את⟩ savu spieķi, to Jaukumu, un to pārlauzu, lai lauztu ⟨את⟩ savu derību, ko es biju noslēdzis ⟨את⟩ ar visām tautām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/11\/9-12.1792526910693.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Un es paņēmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu spieķi"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "savu spieķi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to Jaukumu"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "to Jaukumu"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "un to pārlauzu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ to",
+      "marks": "to (spieķi)"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "lauztu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu derību"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savu derību"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "es biju noslēdzis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ar visām tautām"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:30.695070755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lopisko",
+      "rationale": "בער ir no lopu pasaules — brutāls, neapgudrs; 'lopiskais' saglabā lopu saknes"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagātību",
+      "rationale": "חיל ir spēks, mantīgums, varenība — 'bagātība' tikai viens aspekts"
+    }
+  ],
+  "translation": "Jo viņš redz: gudrie mirst, kopā ar muļķi un lopisko aiziet bojā, un citiem atstāj savu bagātību.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/49\/9-12.1792527594875.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "viņš redz"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "gudrie"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mirst"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "muļķi"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "un lopisko"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "aiziet bojā"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "un atstāj"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "citiem"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "savu bagātību"
+    }
+  ],
+  "timestamp": "2026-10-20T20:19:54.876486758Z",
+  "model": "glm-5.3"
+}

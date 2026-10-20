@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņam",
+      "rationale": "Ivritā ויולד ir hailiks; latviešu valodai vajag piederības vietniekvārdu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "gados",
+      "rationale": "Vēl astoņi simti gadu pēc Hanoha dzimšanas"
+    }
+  ],
+  "translation": "Un Jēreds dzīvoja pēc ⟨את⟩ Hanoha dzimšanas astoņus simtus gadu, un viņam piedzima dēli un meitas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0f9fcdc27e0ea950511b726779c8c4a8c0fb853fcfea413ac52ef66ed973d7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/5\/17-20.1792511502667.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dzīvoja"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jēreds"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pēc"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dzimšanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanohs"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoha"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "astoņus"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "simtus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "piedzima"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "meitas"
+    }
+  ],
+  "timestamp": "2026-10-20T15:51:42.668348803Z",
+  "model": "glm-5.3"
+}

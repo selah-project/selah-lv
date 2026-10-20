@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 22:14",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajag 'ir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חוג",
+      "rationale": "'aplis\/loks' — debess izliekums, kā zemes pamats senajā priekšstatā"
+    }
+  ],
+  "translation": "Biezie mākoņi ir viņam apsegs, un viņš neredz, un pa debess loku viņš staigā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "86dccf118c83c41272bcbf1b5343d5562fad80354b6f591c88a0104a6f7866d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/22\/13-16.1792529322754.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבים",
+      "gloss": "biezie mākoņi"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "apsegs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un neredz"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "viņš neredz"
+    },
+    {
+      "surface": "וחוג",
+      "gloss": "un pa debess loku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "debesu"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "viņš staigā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:48:42.755670351Z",
+  "model": "glm-5.3"
+}

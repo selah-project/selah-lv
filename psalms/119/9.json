@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "attīrs",
+      "rationale": "יְזַכֶּה 'darīs caurspīdīgi tīru' — attīrēt savu ceļu ir ebreju idioms par dzīves veidu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jautājums",
+      "rationale": "pants sākas ar retorisku jautājumu lasītājam"
+    }
+  ],
+  "translation": "Ar ko jauneklis attīrs ⟨את⟩ savu ceļu? Ar to, ka sargā to pēc Tava vārda.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/9-12.1792528309989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ar ko"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "attīrs"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jauneklis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu ceļu"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "savu ceļu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ar to, ka sargā"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "pēc Tava vārda"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:49.989990494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבל",
+      "rationale": "'aukla\/mēraukla' pārnesti nozīmē 'apgabals' — saglabāts virziena attēls"
+    }
+  ],
+  "translation": "sakot: Tev Es došu ⟨את⟩ Kenaana zemi, par mēra auklu — jūsu mantojumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/9-12.1792528151718.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sakot"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tev"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Es došu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaana zemi"
+    },
+    {
+      "surface": "אrtץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "par mēra auklu"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "jūsu mantojumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:11.719400892Z",
+  "model": "glm-5.3"
+}

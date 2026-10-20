@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 7:25",
+  "book": "ezra",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Aramiešu tekstā nav saikļa; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elaha",
+      "rationale": "Aramiešu אלהך (dieva vārds vēstulē) atstāts pēc skanējuma kā Elaha, nevis Dievs"
+    },
+    {
+      "kind": "measurement",
+      "subject": "soģi un tiesneši",
+      "rationale": "Iecelšana amatā — funkciju iedalījums visas provinces tautai"
+    }
+  ],
+  "translation": "Un tu, Ezra, pēc tava Elaha gudrības, kas ⟨ir⟩ tavā rokā, ieceļ soģus un tiesnešus, lai tie tiesātu visu tautu, kas ⟨ir⟩ aiz upes, visus, kas pazīst tava Elaha likumus, un tos, kas nezina, lai jūs tos pamācāt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "492f4c1c60e03f7c005741de2bc0cb6f2acfd022abf8a536516f3c292992435a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezra\/7\/25-28.1792530612799.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנת",
+      "gloss": "Un tu"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "pēc gudrības"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "tava Elaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tavā rokā"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ieceļ"
+    },
+    {
+      "surface": "שפטין",
+      "gloss": "soģus"
+    },
+    {
+      "surface": "ודינין",
+      "gloss": "un tiesnešus"
+    },
+    {
+      "surface": "די",
+      "gloss": "lai"
+    },
+    {
+      "surface": "להון",
+      "gloss": "tie"
+    },
+    {
+      "surface": "דאנין",
+      "gloss": "tiesātu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "די",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aiz"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "upes"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiem"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kas pazīst"
+    },
+    {
+      "surface": "דתי",
+      "gloss": "likumus"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "tava Elaha"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zina"
+    },
+    {
+      "surface": "תהודעון",
+      "gloss": "pamācāt"
+    }
+  ],
+  "timestamp": "2026-10-20T21:10:12.800163188Z",
+  "model": "glm-5.3"
+}

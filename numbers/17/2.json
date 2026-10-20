@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elazaram",
+      "rationale": "tieša uzruna Mozus vārdiem priesterim Elazaram"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ogļu pannas",
+      "rationale": "מחתה — kvēļu degļa trauks altāra ogļu nešanai; latviski aprakstošs saliktenis"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "datīva locījums latviski nes sev līdz 'pie', atsevišķs prievārds izlaists"
+    }
+  ],
+  "translation": "Saki Elazaram, Aharona dēlam, priesterim, un lai viņš paceļ ⟨את⟩ ogļu pannas no sadedzināšanas vidus, bet ⟨את⟩ uguni izkaisi tālu projām, jo tās ir kļuvušas svētas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b5da26360a945fd7992151829cae0f5a7680ee15e79b9f555b642e45e3529033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/17\/1-4.1792515904574.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "saki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēlam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesterim"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "un lai viņš paceļ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogļu pannas"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ogļu pannas"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "no vidus"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "sadedzināšanas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "uguni"
+    },
+    {
+      "surface": "האש",
+      "gloss": "uguni"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "izkaisi"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "tālu projām"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tās ir kļuvušas svētas"
+    }
+  ],
+  "timestamp": "2026-10-20T17:05:04.577677098Z",
+  "model": "glm-5.3"
+}

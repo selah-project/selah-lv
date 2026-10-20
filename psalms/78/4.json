@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ספרו \/ מספרים",
+      "rationale": "Saknes ספר atkārtojums 3. un 4. pantā ('stāstīja' — 'stāstīdami') veido ķēdi no tēviem uz bērniem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דור אחרון",
+      "rationale": "Burtiski 'pēdējā\/nākamā paaudze' — אחרון nozīmē 'vēlīno, pēdējo', ne vien 'nākamo'."
+    }
+  ],
+  "translation": "Netuksim ⟨את⟩ tās no viņu bērniem, stāstīdami nākamajai paaudzē Jahves slavas, Viņa spēku un Viņa brīnumus, ko Viņš ir darījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/1-4.1792527907432.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Netuksim"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "Netuksim ⟨את⟩ tās"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "no viņu bērniem"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nākamajai paaudzē"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nākamajai"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "stāstīdami"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "slavas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "Viņa spēku"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "un Viņa brīnumus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Viņš ir darījis"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:07.433432226Z",
+  "model": "glm-5.3"
+}

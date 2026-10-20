@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידברו אתו משפט",
+      "rationale": "'izrunāja ar viņu tiesu' — eufēmisms tiesas spriešanai pār Cedkijahu; tulkotāji: 'sprieda tiesu' vs 'runāja ar viņu tiesas vārdus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתו",
+      "rationale": "pēdējais אתו ir prievārds 'ar', nevis aleph-tav marķieris — tie paši burti, cita funkcija"
+    }
+  ],
+  "translation": "Un viņi sagūstīja ⟨את⟩ ķēniņu un aizveda ⟨את⟩ viņu pie Babilonas ķēniņa Riblā, un viņi runāja ar ⟨את⟩ viņu tiesu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/25\/5-8.1792521802269.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "sagūstīja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ķēniņu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "aizveda (uz augšu)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu (ķēniņu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblā"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ar ⟨את⟩ viņu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tiesu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:43:22.270750894Z",
+  "model": "glm-5.3"
+}

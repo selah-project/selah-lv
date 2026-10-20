@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 14:3",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרים",
+      "rationale": "'Vērši' (upuri mūsu lūpās) pret LXX 'karpous' — 'mūsu lūpu augļi'; arī 'פרי' augļi kā vārdu spēle ar 'פר' vērsis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Piedod",
+      "rationale": "תשא burtiski 'paceļ, nes' — 'paceļ nedomu' kā piedošanas attēls."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Lūgšanas vārdi, ko tauta saka Jahvem — tieša uzruna Dievam."
+    }
+  ],
+  "translation": "Ņemiet sev līdz vārdus un atgriezieties pie Jahves; sakiet Viņam: Piedod visu nedomu un pieņem labo, un mēs atmaksāsim vēršus — mūsu lūpas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e109a855510eeb9a481437b4cd01c3e3c20bd5e733e85e97cfc53221f219c7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/14\/1-4.1792526107561.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ņemiet"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sev līdz"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "vārdus"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "un atgriezieties"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sakiet"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "Piedod"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nedomu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "un pieņem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labo"
+    },
+    {
+      "surface": "ונשלמה",
+      "gloss": "un mēs atmaksāsim"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "vēršus"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "mūsu lūpas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:55:07.562275550Z",
+  "model": "glm-5.3"
+}

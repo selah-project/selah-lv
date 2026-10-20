@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרי יהודה",
+      "rationale": "'Jehudas augstmaņi' — burtiski 'Jehudas baltie \/ tīrie', t.i., brīvie dižciltīgie vīri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישחט…שחט",
+      "rationale": "Darbības vārds 'kaut' atkārtots divreiz — brutāla atkārtošanās, latviski saglabāta."
+    }
+  ],
+  "translation": "Un Babelas ķēniņš nokāva ⟨את⟩ Cidkijas dēlus Riblā viņa acu priekšā; un ⟨את⟩ visus Jehudas augstmaņus nokāva Babelas ķēniņš.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/39\/5-8.1792524239976.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "un nokāva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijas dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijas"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Riblā"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "viņa acu priekšā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "visus Jehudas augstmaņus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "augstmaņus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "nokāva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelas"
+    }
+  ],
+  "timestamp": "2026-10-20T19:23:59.977575985Z",
+  "model": "glm-5.3"
+}

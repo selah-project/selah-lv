@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa; saraksts izteikts bez kopulas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "četri",
+      "rationale": "Dēlu skaits uzskaitīts skaitlī"
+    }
+  ],
+  "translation": "Un Jisachara dēli: Tola, un Pua, Jašubs un Šimrons — četri.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d2caa34fc1d548bc4795c1ccb2ecae836b56ff70103300a723f97bece34f11c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/7\/1-4.1792531270787.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Un dēli"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisachars"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "un Pua"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Jašubs"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "un Šimrons"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četri"
+    }
+  ],
+  "timestamp": "2026-10-20T21:21:10.788708608Z",
+  "model": "glm-5.3"
+}

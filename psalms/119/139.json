@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמתתני קנאתי",
+      "rationale": "'Mana degsme mani iznīcinājusi' — degsme kā sievišķa subjekta forma darbojas kā iznīcinātāja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apsopiedēji",
+      "rationale": "צרי burtiski 'šaurie\/iedzītāji spiedienā'; 'apsopiedēji' atspoguļo postījuma jēdzienu."
+    }
+  ],
+  "translation": "Izpostījusi mani mana degsme, jo Tavus vārdus aizmirsuši mani apspiedēji.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/119\/137-140.1792528337134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "Izpostījusi mani"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mana degsme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "aizmirsuši"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Tavus vārdus"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mani apspiedēji"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:17.135057731Z",
+  "model": "glm-5.3"
+}

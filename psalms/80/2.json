@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajadzīgs, lai ganu uzruna strādātu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישב הכרובים",
+      "rationale": "Burtiski «sēž heruvīmiem» — KJV «starp heruvīmiem», JPS «uz heruvīmiem»; ebrejiski priekšvārda nav."
+    },
+    {
+      "kind": "invitation",
+      "subject": "visi",
+      "rationale": "Lūguma pants — divi imperatīvi vērsti pie Jahves kā Jisraēla gana."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Tieša uzruna Dievam kā ganam, kas vada Jozefi."
+    }
+  ],
+  "translation": "Ganāmpulka gans ⟨ir⟩ Jisraēls — ieklausies! Kas vada Josef kā avis un kazas, kas sēž ⟨uz⟩ heruvīmiem — parādies spožumā!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/80\/1-4.1792527960683.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "gans"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēls"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ieklausies"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "vada"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kā avis un kazas"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sēž"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "heruvīmiem"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "parādies spožumā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:26:00.684383715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכושרות",
+      "rationale": "'labklājībā\/brīvībā' pret KJV 'važās' (burtiski 'ar pārpilnību')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צחיחה",
+      "rationale": "Vārds Tanahā sastopams tikai šeit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pārgalvji",
+      "rationale": "סוררים burtiski 'tie, kas atsakās paklausēt', pretinieki"
+    }
+  ],
+  "translation": "Elohim liek vientuļajiem dzīvot mājās, izved gūstekņus labklājībā; tikai pārgalvji mājo izkaltušā zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/68\/5-8.1792527777772.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "liek dzīvot"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "vientuļajiem"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mājās"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "izved"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "gūstekņus"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "labklājībā"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikai"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "pārgalvji"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "mājo"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "izkaltušā zemē"
+    }
+  ],
+  "timestamp": "2026-10-20T20:22:57.773342553Z",
+  "model": "glm-5.3"
+}

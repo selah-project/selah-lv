@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa pirms היא"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Šeit אַתְּ ir vietniekvārds 'tu' (lemma אַתָּה), nevis את directly objekta marķieris"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "Jūras briesmonis, pūķis vai čūska — kosmoloģiskais monstrs; latviski nav viena vārda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mosties, mosties",
+      "rationale": "Uzaicinājums vērsts pie Jahves rokas — triju imperatīvu atkārtojums"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahves roka",
+      "rationale": "Tieša uzruna ar četrkāršu 'mosties\/apsedies'"
+    }
+  ],
+  "translation": "Mosties, mosties, apsedies ar spēku, Jahves roka! Mosties kā senajās dienās, mūžīgo paaudžu laikos! Vai ne tu ⟨ir⟩ tā, kas sašķēla Rahabu, kas ievainoja jūras briesmoni?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/51\/9-12.1792522908365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "apsedies"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ar spēku"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mosties"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kā dienās"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "senajās"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "paaudžu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "mūžīgo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "sašķēla"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabu"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "ievainoja"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "jūras briesmoni"
+    }
+  ],
+  "timestamp": "2026-10-20T19:01:48.365999850Z",
+  "model": "glm-5.3"
+}

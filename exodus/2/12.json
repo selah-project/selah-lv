@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nosita",
+      "rationale": "ויך no נכה ir 'sita' — sitiens, kas nogalina, bet vārds paliek 'sist', nevis atsevišķs 'nogalināt'."
+    }
+  ],
+  "translation": "Un viņš palūkojās šurp un turp, un redzēja, ka neviena nav; un viņš nosita ⟨את⟩ micrieti un noslēpa viņu smiltīs.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/2\/9-12.1792512645240.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Un viņš palūkojās"
+    },
+    {
+      "surface": "כה",
+      "gloss": "šurp"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "un turp"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "un redzēja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neviena"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "un viņš nosita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micrieti"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "micrieti"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "un noslēpa viņu"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "smiltīs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:45.241548914Z",
+  "model": "glm-5.3"
+}

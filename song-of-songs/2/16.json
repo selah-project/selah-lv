@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩ · ⟨esmu⟩ · ⟨viņa⟩",
+      "rationale": "ebreju valodā tikai prievārdi לי\/לו bez saikļa; latviski jāpievieno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lilijās",
+      "rationale": "ב prievārds gan 'starp', gan 'iekš'; 'gana starp lilijām' — prievārda vienkāršojums"
+    }
+  ],
+  "translation": "Mans mīļotais ⟨ir⟩ mans, un es ⟨esmu⟩ ⟨viņa⟩; viņš gana ⟨starp⟩ lilijām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/2\/13-16.1792529634489.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "mans mīļotais"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mans"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨viņa⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "viņš gana"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "lilijās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:54.490875127Z",
+  "model": "glm-5.3"
+}

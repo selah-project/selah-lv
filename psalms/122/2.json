@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerušalaima",
+      "rationale": "Tieša uzruna pilsētai — 'tavos vārtos, Jerušalaima'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "stāvēja",
+      "rationale": "עמדות היו var lasīt arī kā tagadni — 'mūsu kājas stāv' (JPS\/BSB tāpat)."
+    }
+  ],
+  "translation": "Mūsu kājas stāvēja tavos vārtos, Jerušalaima.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/122\/1-4.1792528352837.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "stāvot"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "mūsu kājas"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "tavos vārtos"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaima"
+    }
+  ],
+  "timestamp": "2026-10-20T20:32:32.837819985Z",
+  "model": "glm-5.3"
+}

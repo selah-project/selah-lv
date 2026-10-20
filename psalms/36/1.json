@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "superscription",
+      "rationale": "Virsraksts bez panta teksta; latviešu valodā pievienota pieturzīme."
+    }
+  ],
+  "translation": "Diriģentam. No Jahves kalpa, no Davida.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/36\/1-4.1792527402016.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriģentam"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kalpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:42.016520884Z",
+  "model": "glm-5.3"
+}

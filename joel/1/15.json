@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שד \/ שדי",
+      "rationale": "Skanējuma spēle: 'posts' (šod) un 'Šadai' — latviski zudama, jo vārdi neskan līdzīgi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Jahves diena",
+      "rationale": "Nākamā diena tiek pasludināta tuva, bet tās saturs paliek neizpausts"
+    }
+  ],
+  "translation": "Ak, ⟨tas⟩ diena! Jo tuvu ir Jahves diena, un kā posts no Šadai tā nāks.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3348162225eb54ad91626f8e4858bc0c12354902f81394aa6db8731a0bd6267e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/1\/13-16.1792526074843.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "ak"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨tas⟩ diena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tuvu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "un kā posts"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "no Šadai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nāks"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:34.843962594Z",
+  "model": "glm-5.3"
+}

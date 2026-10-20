@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņš",
+      "rationale": "Ebreju teksts nesauc paveicēju (Šķem); personas radītais vietniekvārds latviešu teikumam pievienots"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atgriezās",
+      "rationale": "באם burtiski 'viņu atnākšana\/iešana' — infinitīva konstrukcija, latviski darbības vārds"
+    }
+  ],
+  "translation": "Un Jaakovs dzirdēja, ka ⟨viņš⟩ bija aptraipījis ⟨את⟩ Dinu, savu meitu; un viņa dēli bija ⟨את⟩ ar savu lopiem laukā, un Jaakovs klusēja, līdz tie atgriezās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/34\/5-8.1792512338203.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Un Jaakovs"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dzirdēja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aptraipījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinu"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savu meitu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "un viņa dēli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ar"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "savu lopiem"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "laukā"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "un klusēja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "באם",
+      "gloss": "tie atgriezās"
+    }
+  ],
+  "timestamp": "2026-10-20T16:05:38.204190781Z",
+  "model": "glm-5.3"
+}

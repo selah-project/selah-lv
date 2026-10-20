@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 24:5",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tāda ir⟩",
+      "rationale": "Ebreju tekstā nav darbības vārda — latviešu valodai vajag saikli"
+    },
+    {
+      "kind": "you",
+      "subject": "Davida vīri Davida priekšā",
+      "rationale": "Vīru runa tieši vērsta uz Davidu: 'tev', 'tavā rokā'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנף",
+      "rationale": "Vārds nozīmē gan spārnu, gan apmetņa stūri — latviskajā 'stūris' spārna aina pazūd"
+    }
+  ],
+  "translation": "Un Davida vīri sacīja viņam: Lūk, ⟨tāda ir⟩ diena, par kuru Jahve runāja tev: Lūk, es lieku ⟨את⟩ tavu ienaidnieku tavā rokā, un tu darīsi viņam, kas labs tavās acīs. Tad Davids cēlās un slepeni nogrieza ⟨את⟩ stūri no apmetņa, kas bija Šaulam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/24\/5-8.1792519404170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vīri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par kuru"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "runāja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lieku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu ienaidnieku"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tavu ienaidnieku"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tavā rokā"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "un tu darīsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יטב",
+      "gloss": "labs"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavās acīs"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Tad cēlās"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "un nogrieza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stūri"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "stūri"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "no apmetņa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "bija Šaulam"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "slepeni"
+    }
+  ],
+  "timestamp": "2026-10-20T18:03:24.170706677Z",
+  "model": "glm-5.3"
+}

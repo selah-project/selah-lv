@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 16:10",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sapulcējās",
+      "rationale": "יתמלאון burtiski 'tie piepildās' — sanāk pilnā skaitā pret mani"
+    },
+    {
+      "kind": "you",
+      "subject": "pret mani",
+      "rationale": "runa tieši vērsta pret Ījaba personu — apsūdzības tēls"
+    }
+  ],
+  "translation": "Viņi atplēta muti pret mani, ar nievām viņi sita manus vaigus; kopā pret mani tie sapulcējās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/16\/9-12.1792529203496.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פערו",
+      "gloss": "atplēta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "muti"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ar nievām"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "sita"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "manus vaigus"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pret mani"
+    },
+    {
+      "surface": "יתמלאון",
+      "gloss": "sapulcējās"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:43.496967489Z",
+  "model": "glm-5.3"
+}

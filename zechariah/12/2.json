@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סף רעל",
+      "rationale": "'apreibuma bļoda' pret 'trīcēšanas slieksnis' — סף nozīmē gan bļodu, gan slieksni; konteksts ar tautu apreibšanu runā par bļodu vīna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעל",
+      "rationale": "Sakne רעל — reibonis no vīna; tautas, kas grib aprīt Jerušalaimu, pašas reibst no tās"
+    }
+  ],
+  "translation": "Lūk, es lieku ⟨את⟩ Jerušalaimu par apreibuma bļodu visām tautām apkārt, un arī pār Jūdu tas būs aplenkumā pret Jerušalaimu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/12\/1-4.1792526940990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lūk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "es"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lieku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "סף",
+      "gloss": "bļodu"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "apreibuma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visām"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautām"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "apkārt"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "un arī"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tas būs"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "aplenkumā"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:09:00.995772878Z",
+  "model": "glm-5.3"
+}

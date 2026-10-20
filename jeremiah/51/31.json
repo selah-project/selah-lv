@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 51:31",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רץ לקראת רץ ירוץ",
+      "rationale": "Radītāja atkārtošanās: skrējējs-skriet-skrējējs-skries; samaņas efekts latviski atspoguļots ar atkārtotu 'skrejējs\/skrej'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקצה",
+      "rationale": "Viensskaitlis 'no viņa gala' — KJV 'pie viena gala' vs JPS 'no visām pusēm'; latviski 'no gala līdz galam' kā uzsverot pilnību."
+    }
+  ],
+  "translation": "Skrejējs skrej pretim skrejējam, vēstnesis pretim vēstnesim, lai paziņotu Bābeles ķēniņam, ka no gala līdz galam sagūstīta ir viņa pilsēta.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/51\/29-32.1792524618216.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רץ",
+      "gloss": "skrejējs skrej"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pretim"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "skrejējam"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "skries (skrien)"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "un vēstnesis"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pretim"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "vēstnesim"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "lai paziņotu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ķēniņam"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "sagūstīta ir"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "viņa pilsēta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "no gala līdz galam"
+    }
+  ],
+  "timestamp": "2026-10-20T19:30:18.218270596Z",
+  "model": "glm-5.3"
+}

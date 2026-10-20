@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 29:23",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "hebriešu וינאפו ir pārejošs darbības vārds 'dzina laulību pārkāpumā ar', prievārds pievienots latviski"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neķītrlību",
+      "rationale": "נבלה — 'muļķība, negantība, kauns'; viens vārds ar plašu nozīmi"
+    },
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "hebriešu tekstā iztrūkst saiklis 'esmu'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "otrais אשר (pēc יען) latviski iekļauts saistītajā teikumā, atsevišķi netulkots"
+    }
+  ],
+  "translation": "Tāpēc, ka viņi Jisraēlā pastrādāja neķītrlību un laulību šķīra ar sava tuvākā ⟨את⟩ sievām, un runāja vārdu manā vārdā — melus, ko es viņiem neesmu pavēlējis; un es ⟨esmu⟩ tas, kas zina, un liecinieks — saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "43e53e4eba1ecc843a9c98285517bcf1b90e60a1cb108f9cf3573815d2c2074f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/29\/21-24.1792523984546.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Tāpēc, ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "pastrādāja"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "neķītrlību"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "laulību šķīra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ar sava tuvākā sievām"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "sievām"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "sava tuvākā"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "un runāja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "manā vārdā"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "es … pavēlējis"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "un es"
+    },
+    {
+      "surface": "הו",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kas zina"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un liecinieks"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:19:44.547871935Z",
+  "model": "glm-5.3"
+}

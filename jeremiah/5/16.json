@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "ivritā nav saikļa — 'tās bultu kārba kā atvērts kaps'; latviešu valodai vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "atvērts kaps",
+      "rationale": "bultu kārba kā atvērts kaps — kas no tās iznāk, nāvē; tēls saglabāts burtiski"
+    }
+  ],
+  "translation": "Tās bultu kārba ⟨ir⟩ kā atvērts kaps; visi viņi ir varoņi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/5\/13-16.1792523351070.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "Tās bultu kārba"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "kā kaps"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "atvērts"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi viņi"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "varoņi"
+    }
+  ],
+  "timestamp": "2026-10-20T19:09:11.071739839Z",
+  "model": "glm-5.3"
+}

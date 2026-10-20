@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 17:14",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש tuvāk 'elpa, dzīvības spēks' nekā 'dvēsele' plašākā nozīmē."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā teikumā nav saikļa; latviešu valodai tas vajadzīgs (iezīmēts)."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēla dēliem",
+      "rationale": "Tiešs uzrunājums Israēla dēliem ar aizlieguma pavēli."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש…דמו…בנפשו",
+      "rationale": "Atkārtota dvēseles un asiņu saistība hiasma veidā; atbalss panākta ar atkārtojumu."
+    }
+  ],
+  "translation": "Jo visas miesas dvēsele ⟨ir⟩ tās asinīs — tā ⟨ir⟩ viņas dvēsele; tāpēc Es sacīju Jisraēla dēliem: jebkuras miesas asinis jūs neēdīsit, jo visas miesas dvēsele ⟨ir⟩ tās asinis; ikviens, kas tās ēd, tiks izgriezts.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/17\/13-16.1792514994102.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesas"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "tās asinis"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ar viņas dvēseli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā ⟨ir⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un Es sacīju"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "דם",
+      "gloss": "asinis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jebkuras"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ēdīsit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēsele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "miesas"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "tās asinis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tā ⟨ir⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "kas tās ēd"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "tiks izgriezts"
+    }
+  ],
+  "timestamp": "2026-10-20T16:49:54.105883489Z",
+  "model": "glm-5.3"
+}

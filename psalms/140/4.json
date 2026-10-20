@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inde",
+      "rationale": "hemah — burtiski 'karstums, dusmas'; par čūsku indi metaforiski."
+    },
+    {
+      "kind": "hapax",
+      "subject": "aspa",
+      "rationale": "akshub — pavedēja čūska, vārds Tanahā ļoti reti sastopams."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨saviem⟩",
+      "rationale": "Ivritā piederība izteikta ar galotni -am; latviešu valodai vajadzīgs īpašības vārds."
+    }
+  ],
+  "translation": "Viņi asiņo ⟨saviem⟩ mēles kā čūska; aspa inde ir zem viņu lūpām. Sela.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/140\/1-4.1792528448367.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "asiņo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "mēles"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kā"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "čūska"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "inde"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "aspa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "viņu lūpām"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:08.368581397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גמול בראש",
+      "rationale": "'atmaksu uz galvas' — ebreju idiomas atmaksa par darbiem, saglabāts burtiski"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעירם",
+      "rationale": "'modināšu\/uzkustināšu' — pielikuma lasījums מֵעִיר 'no pilsētas' arī iespējams"
+    }
+  ],
+  "translation": "Paklau, es viņus modināšu no vietas, kur jūs viņus ⟨את⟩ turp pārdevāt, un atdošu jūsu atmaksu jūsu pašu galvā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joel\/4\/5-8.1792526184948.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Paklau, es"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "viņus modināšu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "pārdevāt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "turp"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "turp"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "un atdošu"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "jūsu atmaksu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "jūsu pašu galvā"
+    }
+  ],
+  "timestamp": "2026-10-20T19:56:24.948863433Z",
+  "model": "glm-5.3"
+}

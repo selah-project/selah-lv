@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כסוחה",
+      "rationale": "no כסח — 'nocirsta'; reta forma, parādās tikai šeit un Ps 118:12 līdzīgā formā."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ieiet bojā",
+      "rationale": "אבד burtiski 'klejot projām, pazust' — 'iet bojā' kā zuduma sekas."
+    }
+  ],
+  "translation": "Apgrozīta ugunī, nocirsta — no Tavas sejas rājiena tie iet bojā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/80\/17-20.1792527949706.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "apgrozīta ugunī"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugunī"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "nocirsta"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "no rājiena"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Tavas sejas"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "tie iet bojā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:25:49.706562529Z",
+  "model": "glm-5.3"
+}

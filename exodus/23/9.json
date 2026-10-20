@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesa",
+      "rationale": "נפש nav 'sirds' kā KJV\/JPS — tas ir elpojošs dzīvības spēks; latviski atstāts kā nefesa"
+    },
+    {
+      "kind": "you",
+      "subject": "Israēlam",
+      "rationale": "pavēle tieši adressēta Israēla tautai par svešinieku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/גרים",
+      "rationale": "svešinieka\/svešinieku atkārtojums — viena sakne trīs reizes, pamatojums balstās pašā vārdā"
+    }
+  ],
+  "translation": "Un svešinieku neturiespied, jo jūs paši zināt svešinieka nefesu — jūs taču bijāt svešinieki Micraimas zemē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/23\/9-12.1792513094491.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Un svešinieku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "turiespied"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jūs paši"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "zināt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svešinieka nefesu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "svešinieka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "svešinieki"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bijāt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    }
+  ],
+  "timestamp": "2026-10-20T16:18:14.492045652Z",
+  "model": "glm-5.3"
+}

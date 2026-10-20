@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש ir elpojoša būtība, dzīvības spēks — 'rīkle\/elpe\/dzīvība', ne dvēsele platona nozīmē."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Ivritā darbības vārds panāk bez izteikta objekta; latviešu valodai vajadzīgs vietniekvārds."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mūzikas pauzes zīme, atstāta kā 'Selah' bez tulkojuma."
+    }
+  ],
+  "translation": "Lai ienaidnieks vajā manu dvēseli un ⟨to⟩ panāk, un samīda zemē manu dzīvību, un manu godu putekļos lai nomet. Selah.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/7\/5-8.1792527047851.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "vajā"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ienaidnieks"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano dvēseli"
+    },
+    {
+      "surface": "ושיג",
+      "gloss": "un panāk"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "un samīda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mano dzīvību"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "un mans gods"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "putekļos"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "nomet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:10:47.853562070Z",
+  "model": "glm-5.3"
+}

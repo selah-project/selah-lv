@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספר לאדני",
+      "rationale": "Burtīgi ‘tiks izstāstīts Adonajam’ vai ‘tiks uzskaitīts par Adonai’ — KJV ‘ieskaitīts Jahvem par paaudzi’; izvēlēts ‘stāstīts par’ kā runas par Dieva darbiem kontekstā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pēcnācēji",
+      "rationale": "זרע burtīgi ‘sēkla’ — augu\/build attēls, latviski ‘pēcnācēji’"
+    }
+  ],
+  "translation": "Pēcnācēji kalpos Viņam; tiks stāstīts par Adonai nākamajai paaudzei.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/22\/29-32.1792527221149.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Pēcnācēji"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "kalpos Viņam"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "tiks stāstīts"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "par Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nākamajai paaudzei"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:41.150213447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svētīgi",
+      "rationale": "מאשר no אשר — 'taisns, laimīgs, svētīgs'; viens latviešu vārds izvēlēts no vairākiem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עץ חיים",
+      "rationale": "'Dzīvības koks' atsauc uz 1. Mozus 2:9 un 3:22 — atgriezenisks priekšzināšanu aicinājums Tanaha ietvaros"
+    }
+  ],
+  "translation": "Tā ir dzīvības koks tiem, kas ⟨to⟩ turas pie ⟨tās⟩, un tie, kas ⟨viņu⟩ atbalsta, ir svētīgi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/17-20.1792528570731.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "koks"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dzīvības"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "tiem, kas turas pie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pie tās"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "un tie, kas atbalsta viņu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ir svētīgi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:10.731646980Z",
+  "model": "glm-5.3"
+}

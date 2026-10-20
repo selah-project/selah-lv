@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 2:3",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā trūkst saikļa vietai 'kas Beit-Elā'; latviešu valoda to prasa."
+    },
+    {
+      "kind": "idiom",
+      "subject": "no tavas galvas",
+      "rationale": "מעל ראשך — literally 'no tavas galvas virs', skolotājs kā galvassegas vieta; latviski parasti 'no tevis'."
+    },
+    {
+      "kind": "you",
+      "subject": "praviešu dēli → Eliša",
+      "rationale": "tiešs jautājums Elišam."
+    }
+  ],
+  "translation": "Un iznāca praviešu dēli, kas ⟨bija⟩ Beit-Elā, pie Elišas un sacīja viņam: Vai tu zini, ka šodien Jahve ņems ⟨את⟩ tavu kungu no tavas galvas? Un viņš sacīja: Arī es to zinu — klusējiet!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "96b2e076d0d8ffb0b0b2c191b2a172cc2fa14dc4ac0be02c080f78ae9acb500c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/2\/1-4.1792521125920.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Un iznāca"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "praviešu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "Vai tu zini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ņems"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavu kungu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavu kungu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tavas galvas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Arī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "zinu"
+    },
+    {
+      "surface": "החשו",
+      "gloss": "klusējiet"
+    }
+  ],
+  "timestamp": "2026-10-20T18:32:05.921828263Z",
+  "model": "glm-5.3"
+}

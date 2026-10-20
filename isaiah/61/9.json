@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 61:9",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā trūkst saikļa 'viņi ir dzimums'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרעם \/ זרע",
+      "rationale": "'dzimums' atkārtots ieslēgumā — sēkla uzsvērta divreiz vienā pantā"
+    }
+  ],
+  "translation": "Un tautu vidū tiks pazīts viņu dzimums, un viņu pēcnācēji tautu vidū; visi, kas viņus redz, atpazīs viņus, jo viņi ⟨ir⟩ dzimums, ko Jahve ir svētījis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7a104d5c86237462b6d74ce6ed7915e89258ee8965e91513f8557b004896dea1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/61\/9-11.1792523099100.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "un tiks pazīts"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tautu vidū"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "viņu dzimums"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "un viņu pēcnācēji"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ראיהם",
+      "gloss": "kas viņus redz"
+    },
+    {
+      "surface": "יכירום",
+      "gloss": "atpazīs viņus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "viņi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dzimums"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "svētījis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:59.100779450Z",
+  "model": "glm-5.3"
+}

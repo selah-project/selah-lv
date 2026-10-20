@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "vienā reizē",
+      "rationale": "פעם אחת — viena kampaņa kā skaitlis uzvaru uzskaitē."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jisraēla Elohim ... par Jisraēlu",
+      "rationale": "Atkārtojums: Jahve cīnās par Jisraēlu, jo Viņš ir Jisraēla Elohim — korrelācija paliek arī latviski."
+    }
+  ],
+  "translation": "Un ⟨את⟩ visus šos ķēniņus un ⟨את⟩ viņu zemi Jēšua sagūstīja vienā reizē, jo Jahve, Jisraēla Elohim, cīnījās par Jisraēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "83abfb3dc313cbca30ec0771ced3e340e47f449c52644a3bf63be9ac235728d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/10\/41-43.1792517799773.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus šos ķēniņus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ķēniņus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viņu zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "viņu zemi"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "sagūstīja"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jēšua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "reizē"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "cīnījās"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "par Jisraēlu"
+    }
+  ],
+  "timestamp": "2026-10-20T17:36:39.774191421Z",
+  "model": "glm-5.3"
+}

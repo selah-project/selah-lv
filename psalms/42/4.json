@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bija man maize",
+      "rationale": "'dim'ati li leḥem' — asaras par maizi, ebreju metafora zaudējumam, saglabāta burtiski"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tos sakot",
+      "rationale": "'be'emor elai' — nepilnais subjekts; var būt 'kad man teica' (ienaidnieki) vai 'kāds man saka'"
+    }
+  ],
+  "translation": "Manas asaras man bija maize dienā un naktī, tos sakot man visu dienu: kur ir tavs Elohim?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/42\/1-4.1792527508770.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "bija"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Manas asaras"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maize"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un naktī"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "tos sakot"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavs Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T20:18:28.772057364Z",
+  "model": "glm-5.3"
+}

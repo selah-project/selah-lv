@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ganību lauki",
+      "rationale": "מגרש ir pilsētas piepilsētas ganāmpulkiem; latviski dots kā 'ganību lauki'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pilsētu saraksts",
+      "rationale": "Levītu pilsētu uzskaitījums ar to laukiem — skaitīšanas\/ierakstu žanrs"
+    }
+  ],
+  "translation": "Un no Gada cilts ⟨את⟩ Ramotu Gilādā un ⟨את⟩ tās ganību laukus, un ⟨את⟩ Mahanaimu un ⟨את⟩ tās ganību laukus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "572d7e694a51a1fb8c8cfb2c640e722b221575997c06d9ea7eabde234e9a0472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/6\/65-66.1792531232085.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "un no cilts"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramotu"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramotu"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gilādā"
+    },
+    {
+      "surface": "ו את ",
+      "gloss": "⟨את⟩",
+      "marks": "tās ganību laukus"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tās ganību laukus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mahanaimu"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tās ganību laukus"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tās ganību laukus"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:32.086873229Z",
+  "model": "glm-5.3"
+}

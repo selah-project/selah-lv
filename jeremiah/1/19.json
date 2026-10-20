@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 1:19",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "את H854 šeit ir prievārds 'ar', nevis pārnestās objekta marķieris; saglabāts kā ⟨את⟩ ar glosu 'ar tevi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izrautu",
+      "rationale": "להציל no נצל — 'izraut, izglābt no rokām', ne tikai abstrakti 'glābt'."
+    }
+  ],
+  "translation": "Un tie cīnīsies pret tevi, bet tev viņi nespēs, jo ⟨את⟩ ar tevi es esmu, saka Jahve, lai tevi izrautu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/1\/17-19.1792523191357.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמו",
+      "gloss": "Un tie cīnīsies"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pret tevi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "viņi nespēs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tev"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ar tevi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "es esmu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "lai tevi izrautu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:31.358410337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēseles",
+      "rationale": "נפש ir 'elpa\/dzīvība', skaitāma personu vienība, ne dvēsele metafiziskā nozīmē"
+    },
+    {
+      "kind": "measurement",
+      "subject": "četrpadsmit",
+      "rationale": "Raheles pēcnācēju kopsumma — skaitīšanas formula 'visas dvēseles četrpadsmit'"
+    }
+  ],
+  "translation": "Šie ⟨ir⟩ Raheles dēli, kas dzimuši Jaakovam; visas dvēseles — četrpadsmit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7d1c1914f4478d08bee24db820d2aaadb2ee49748bcb3d94dae5b885648c9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/46\/21-24.1792512533954.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dzimuši"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "četras"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "padsmit"
+    }
+  ],
+  "timestamp": "2026-10-20T16:08:53.955342410Z",
+  "model": "glm-5.3"
+}

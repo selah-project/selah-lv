@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apmeklēja",
+      "rationale": "פקד nozīmē 'apmeklēt\/piemeklēt\/atcerēties darot' — JPS liek 'remembered', latviski 'apmeklēja' tuvāk vārda formai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר\/דבר",
+      "rationale": "Pants sakārto divus 'runāšanas' verbus paralēli — teica\/runāja — hiasmveida atkārtojums."
+    }
+  ],
+  "translation": "Un Jahve apmeklēja ⟨את⟩ Saru, kā Viņš bija teicis, un Jahve darīja Sarai, kā Viņš bija runājis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/21\/1-4.1792511927136.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Un Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "apmeklēja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bija teicis"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "un darīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bija runājis"
+    }
+  ],
+  "timestamp": "2026-10-20T15:58:47.137560546Z",
+  "model": "glm-5.3"
+}

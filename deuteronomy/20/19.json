@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 20:19",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי האדם עץ השדה",
+      "rationale": "Slavenais krustpunkts: vai 'vai lauka koks ir cilvēks' (jautājums, ASV\/JPS) vai 'cilvēka koks ir lauka koks' (YLT piederības lasījums) vai 'lauka koks ir cilvēka dzīvība' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "strādājot ar cirvi",
+      "rationale": "לנדח עליו גרזן burtiski 'grūst cirvi pār to' — latviskā darbība."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Latviešu teikumam vajadzīgs saiklis, ebreju valodā tā nav."
+    }
+  ],
+  "translation": "Kad tu aplenksi pilsētu daudzas dienas, karodams pret to, lai to ieņemtu, nesabojā ⟨את⟩ tās kokus, strādājot ar cirvi pār tiem, jo no tiem tu ēd, un ⟨את⟩ tos tu necirtīsi, jo vai cilvēks ⟨ir⟩ lauka koks, ka tam jānāk tavā priekšā aplenktajā?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/20\/17-20.1792517103775.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תצור",
+      "gloss": "tu aplenksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "pilsētu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daudzas"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "karodams"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pret to"
+    },
+    {
+      "surface": "לתפשה",
+      "gloss": "lai to ieņemtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "sabojā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tās kokus"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tās kokus"
+    },
+    {
+      "surface": "לנדח",
+      "gloss": "strādājot ar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pār tiem"
+    },
+    {
+      "surface": "גרזן",
+      "gloss": "cirvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "no tiem"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu ēd"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "un ⟨את⟩ tos",
+      "marks": "tos (kokus)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "cirtīsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koks"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauka"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "jānāk"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tavā priekšā"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "aplenktajā"
+    }
+  ],
+  "timestamp": "2026-10-20T17:25:03.778110559Z",
+  "model": "glm-5.3"
+}

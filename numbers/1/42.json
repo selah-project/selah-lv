@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census criteria",
+      "rationale": "Uzskaites kritēriji: vārdu skaits, no divdesmit gadu vecuma, karaspēkam derīgi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vecuma",
+      "gloss": "",
+      "rationale": "מבן lit. 'no dēla (divdesmit gadu)' — 'divdesmit gadu dēls'; latviski dot 'no divdesmit gadu vecuma'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨uz⟩",
+      "rationale": "Latviešu valodai nepieciešams prievārds pie 'karaspēks'."
+    }
+  ],
+  "translation": "Naftaļa dēli, to ciltsraksti pēc viņu dzimtām, pēc viņu tēvu namiem, vārdu skaitā, no divdesmit gadu vecuma un augšāk, ikviens, kas iziet ⟨uz⟩ karaspēku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/41-44.1792515292922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftaļa"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "to ciltsraksti"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu dzimtām"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pēc nama"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "skaitā"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "no vecuma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "un augšāk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ikviens"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iziet"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "karaspēku"
+    }
+  ],
+  "timestamp": "2026-10-20T16:54:52.923468200Z",
+  "model": "glm-5.3"
+}

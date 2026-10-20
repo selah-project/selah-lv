@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Latviešu valodai vajadzīgs objekts; ebreju tekstā tas ir izlaists."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני מותו",
+      "rationale": "Burtiski 'viņa nāves sejas priekšā' — 'pirms savas nāves'."
+    }
+  ],
+  "translation": "Un tu atnesīs to savam tēvam, un viņš ēdīs ⟨to⟩, lai viņš tevi svētī pirms savas nāves.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/27\/9-12.1792512122284.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "un tu atnesīs"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "savam tēvam"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "un viņš ēdīs"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "lai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "viņš tevi svētī"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirms"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "savas nāves"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:02.285265490Z",
+  "model": "glm-5.3"
+}

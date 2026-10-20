@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבער",
+      "rationale": "Sakne nozīmē gan 'kvēlot\/degot', gan 'būt muļķam kā lopam' — šeit 'muļķojies', ne 'apdedzināts'."
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכו",
+      "rationale": "נסך nozīmē gan 'lietais tēls', gan 'libācija'; šeit liešana — liegts elks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח",
+      "rationale": "r. 13 'ruah' vētra nāk no Jahves krātuvēm, r. 14 elkiem nav ruah — tas pats vārds pretstatā."
+    }
+  ],
+  "translation": "Muļķojies ir katrs cilvēks, nav viņā zināšanas; kaunināts ir katrs metālkaltējs no iegravētā tēla, jo melis ir viņa liešana, un nav ruah tajos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/10\/13-16.1792523442636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "Muļķojies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cilvēks"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "nav viņā zināšanas"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "kaunināts ir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katrs"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "metālkaltējs"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "no iegravētā tēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melis"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "viņa liešana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tajos"
+    }
+  ],
+  "timestamp": "2026-10-20T19:10:42.637614373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רפידה",
+      "rationale": "רפידתו parādās tikai šeit Tanahā; nozīme 'noliktums\/atbalsts (kā izklāts)' secināta no saknes 'izklāt'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבנות ירושלם",
+      "rationale": "'no Jerušalaimas meitām' — KJV 'for' (dēļ), YLT\/ASV 'by' (veicējas); ebreju מ var nozīmēt abus."
+    },
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "Materiāla ablatīva celma izteikšanai latviski pievienots prievārds 'no'; ebreju konstruktā to nesaka."
+    }
+  ],
+  "translation": "Tā stabus viņš izgatavoja no sudraba, tā atbalstu no zelta, tā sēdvietu no purpura; tā iekšpuse iemūrēta mīlestībā no Jerušalaimas meitām.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/3\/9-11.1792529626592.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "tā stabus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "viņš izgatavoja"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "no sudraba"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "tā atbalstu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "no zelta"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "tā sēdvietu"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "no purpura"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "tā iekšpuse"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "iemūrēta"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "mīlestībā"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "no meitām"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:53:46.593035592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 7:19",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Prievārds H854 'ar viņu', glosā ⟨את⟩ saglabāts; tulkojumā 'ar viņu'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הקם הקימו",
+      "rationale": "Divkāršais darbības vārds 'celties cēla' — intensīvs 'tikko bija uzceluši'; latviski atveidots ar vienu darbības vārdu un 'tikko'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sašķīda",
+      "rationale": "ונפוץ no נפץ 'triekt gabalos, izkaisīt' — darbības vārda forma ļauj lasīt krūkas sadrupšanu kā vienlaicīgu ar pūšanu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vidējā nakts sardze",
+      "rationale": "Nakts iedalījums sardzēs — laika skaitīšana."
+    }
+  ],
+  "translation": "Un Gideons atnāca un simts vīru, kas bija ar viņu, malā ⟨pie⟩ nometnes, sākumā vidējā nakts sardzes; tikko tie bija cēluši sargus — un tie pūta šofaros un sašķīda ūdeņu krūkas, kas bija viņu rokās.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1dc35927bb509968c1e5af03feebc43419bebd99ec89fed519761a98cb8dc9cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/7\/17-20.1792518298471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Un atnāca"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideons"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "un simts"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ viņu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "malā"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nometnes"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sākumā"
+    },
+    {
+      "surface": "האשמרת",
+      "gloss": "nakts sardzes"
+    },
+    {
+      "surface": "התיכונה",
+      "gloss": "vidējā"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikko"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "bija cēluši"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "cēluši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sargus"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "sargus"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "un tie pūta"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "šofaros"
+    },
+    {
+      "surface": "ונפוץ",
+      "gloss": "un sašķīda"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "ūdeņu krūkas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "viņu rokās"
+    }
+  ],
+  "timestamp": "2026-10-20T17:44:58.473053277Z",
+  "model": "glm-5.3"
+}

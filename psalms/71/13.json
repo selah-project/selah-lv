@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefess",
+      "rationale": "נפש nav 'dvēsele' sens rietumu nozīmē — tas ir elpojošs dzīvības spēks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/יכלו",
+      "rationale": " div jussīvi vienā elpā — kauns un bojāeja kā viens spriedums"
+    }
+  ],
+  "translation": "Lai kaunināti un iznīdēti tie, kas apsūdz manu nefesu, lai tie apsegjas ar apsmieklu un negodu, kas meklē manu ļaunumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/71\/13-16.1792527816860.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "lai kaunināti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "iznīdēti"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "kas apsūdz"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "manu nefesu"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "apsegjas"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "apsmieklu"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "un negodu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kas meklē"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "manu ļaunumu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:23:36.861204520Z",
+  "model": "glm-5.3"
+}

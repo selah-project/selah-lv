@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבל",
+      "rationale": "'nevela' (daudzstīgu arfa) pret 'psaltērija' — transliterēts, lai saglabātu instrumenta vārdu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinors",
+      "rationale": "כנו׻ר atstāts pēc skanējuma, lai instrumenti netiktu aizstāti ar Eiropas analogiem"
+    }
+  ],
+  "translation": "Slavējiet Viņu ar šofara trompetēšanu, slavējiet Viņu ar nevelu un ar kinoru!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/150\/1-4.1792528486493.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Slavējiet Viņu"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ar ... trompetēšanu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofara"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "slavējiet Viņu"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ar nevelu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "un ar kinoru"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:46.494650337Z",
+  "model": "glm-5.3"
+}

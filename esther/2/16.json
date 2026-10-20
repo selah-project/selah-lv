@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "datums",
+      "rationale": "Desmitais mēnesis Tebets, septītais valdīšanas gads — precīza hronoloģija."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Emfatiskais 'tas ir' saglabāts kā skaidrojuma formula."
+    }
+  ],
+  "translation": "Un Estera tika aizvesta pie ķēniņa Ahašveroša uz viņa ķēniņa namu desmitajā mēnesī — tas ir Tebeta mēnesī — septītajā gadā no viņa valdīšanas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/esther\/2\/13-16.1792530102064.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "tika aizvesta"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "viņa ķēniņa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "desmitajā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas ir"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mēnesī"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tebeta"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septītajā"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "no viņa valdīšanas"
+    }
+  ],
+  "timestamp": "2026-10-20T21:01:42.066233061Z",
+  "model": "glm-5.3"
+}

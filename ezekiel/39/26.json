@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 39:26",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונשו",
+      "rationale": "'nesīs savu kaunu' (KJV\/JPS) pret 'aizmirks savu kaunu' (BSB, sakne נשה) — izvēlēts 'nesīs' pēc punktējuma נָשׂוּ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju ואין maiktverbums pieprasa latviešu darbības vārdu 'ir'"
+    }
+  ],
+  "translation": "un viņi nesīs ⟨את⟩ savu kaunu un ⟨את⟩ visu savu nodevību, ar kuru tie mani nodeva, kad tie dzīvos uz savas zemes drošībā, un ⟨ir⟩ neviens, kas biedē.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34c312d3577b7cbe99fe48860bc40f72989526e8effc829baf4cc307cec2f5b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/39\/25-28.1792525598116.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשו",
+      "gloss": "nesīs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu kaunu"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "savu kaunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visu nodevību"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "מעלם",
+      "gloss": "nodevību"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ar kuru"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nodeva"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "בשבתם",
+      "gloss": "kad tie dzīvos"
+    },
+    {
+      "surface": "על",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "savas zemes"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "drošībā"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un ⟨ir⟩ neviens"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kas biedē"
+    }
+  ],
+  "timestamp": "2026-10-20T19:46:38.117220246Z",
+  "model": "glm-5.3"
+}

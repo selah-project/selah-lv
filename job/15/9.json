@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ijovam",
+      "rationale": "Elifasa retoriskie jautājumi vērsti tieši pret Ijovu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "un tas nav ar mums",
+      "rationale": "הוא literāri stāv teikuma galā: 'kas nav pie mums' — kārtu pieņemta ir arī skaidrāk teikuma galā novietota apgalvošana."
+    }
+  ],
+  "translation": "Ko tu zini, ko mēs nezinām? Ko tu saproti, un tas nav ar mums?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/15\/9-12.1792529204358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu zini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ko mēs ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "zinām"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "tu saproti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ar mums"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    }
+  ],
+  "timestamp": "2026-10-20T20:46:44.359362696Z",
+  "model": "glm-5.3"
+}

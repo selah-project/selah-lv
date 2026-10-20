@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 9:13",
+  "book": "hosea",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנוה",
+      "rationale": "Tulkotāji sadalās: 'patīkamā vietā \/ ganībā' (KJV, JPS) pret 'midzene \/ mājoklī' (Geneva); vārds no נוה — ganīšanās vieta, mājoklis."
+    },
+    {
+      "kind": "crux",
+      "subject": "לצור",
+      "rationale": "ראיתי לצור — vai 'es redzēju Cāru' (pilsētu, Tīru) vai 'es skatījos uz klinti'; YLT izvēlas 'klinzi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרג",
+      "rationale": "Participa 'nogalinātājs' attieksmes formā — 'slepkava'."
+    }
+  ],
+  "translation": "Efrajims — kā es redzēju ⟨את⟩ Cāru, pārstādītu patīkamā vietā; bet Efrajims lai izved savus dēlus slepkavai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/hosea\/9\/13-16.1792526081677.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "es redzēju"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨את⟩ Cāru"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "pārstādīta"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "patīkamā vietā"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "bet Efrajims"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "lai izved"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "slepkavas"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "savus dēlus"
+    }
+  ],
+  "timestamp": "2026-10-20T19:54:41.678465625Z",
+  "model": "glm-5.3"
+}

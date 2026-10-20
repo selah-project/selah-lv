@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "רק",
+      "rationale": "'Tikai' ierobežojošais apstākļa vārds atstāsts kā 'tomēr', lai teikums latviski ritētu."
+    }
+  ],
+  "translation": "Tomēr ⟨את⟩ visu valstību es neplēsīšu — vienu cilti došu tavam dēlam, mana kalpa Davida dēļ un Jerušalaimas dēļ, kuru es izvēlējos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/11\/13-16.1792520693743.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tomēr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu valstību"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "valstību"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "es neplēsīšu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cilti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "došu"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "tavam dēlam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dēļ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mana kalpa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "un dēļ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "es izvēlējos"
+    }
+  ],
+  "timestamp": "2026-10-20T18:24:53.743700249Z",
+  "model": "glm-5.3"
+}

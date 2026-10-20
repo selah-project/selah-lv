@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המיות",
+      "rationale": "המה — trokšņošana, dūkšana; 'īsuļi' attēlo skaņu, ne vien pulku."
+    },
+    {
+      "kind": "elision",
+      "subject": "המיות",
+      "gloss": "dzirdama dūkoņa — vārds apvienots ar 'galvgali' vienā frāzē"
+    }
+  ],
+  "translation": "Īsuļu galvgalī viņa sauc, vārtu atvērumos, pilsētā viņa izsaka ⟨את⟩ savus vārdus:",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/1\/21-24.1792528520765.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "īsuļu galvgalī"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "īsuļu"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "viņa sauc"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "atvērumos"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vārtu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "pilsētā"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "savus vārdus"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "viņa izsaka ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:20.766236807Z",
+  "model": "glm-5.3"
+}

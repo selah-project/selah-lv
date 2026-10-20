@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 19:9",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "važās",
+      "rationale": "חחים ir deguna vai lūpu gredzeni (dzīvnieka savaldīšanai), nevis važas; attēls zūd"
+    },
+    {
+      "kind": "elision",
+      "subject": "בחחים",
+      "gloss-literal": "ar gredzeniem",
+      "rationale": "laizdiecība: avoti šķir — 'važās' (KJV) vai 'ar āķiem' (ASV\/JPS)"
+    }
+  ],
+  "translation": "Un viņu ielika būrī, važās, un aizveda pie Bābeles ķēniņa; ieveda viņu cietokšņos, lai viņa balss vairs netiktu dzirdēta uz Jisraēla kalniem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/19\/9-12.1792525100195.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "viņu ielika"
+    },
+    {
+      "surface": "בסוגר",
+      "gloss": "būrī"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "važās"
+    },
+    {
+      "surface": "וגבאהו",
+      "gloss": "aizveda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bābeles"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "ieveda viņu"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "cietokšņos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vairs ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "netiktu dzirdēta"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "viņa balss"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vairs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kalniem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T19:38:20.195697388Z",
+  "model": "glm-5.3"
+}

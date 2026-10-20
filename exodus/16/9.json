@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraēla saimei",
+      "rationale": "Aharons caur Moši uzrunā visu Jisraēla dēlu saimi ar imperatīvu 'Pienāciet'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ebreju prievārds 'pie\/ar' latviešu datīvā izšķīst galotnē un netiek atsevišķi tulkots."
+    }
+  ],
+  "translation": "Un sacīja Moše Aharonam: Saki visai Jisraēla dēlu saimei: Pienāciet Jahves priekšā, jo viņš dzirdējis ⟨את⟩ jūsu murgošanu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c7a9023c85efb0a416a14319c4a6502c7d81742ccf81ca4d63500ffb0a1c6292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/16\/9-12.1792512974672.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Saki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "saimei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "Pienāciet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dzirdējis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsu murgošanu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "jūsu murgošanu"
+    }
+  ],
+  "timestamp": "2026-10-20T16:16:14.673368179Z",
+  "model": "glm-5.3"
+}

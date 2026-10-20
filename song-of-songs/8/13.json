@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Tu⟩",
+      "rationale": "Sieviešu dzimtes dalītājs norāda runātāju, ebreju valodā tikai partizips היושבת"
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמיעיני",
+      "rationale": "Uzaicinājums ar imperatīvu: liec man dzirdēt tavu balsi"
+    },
+    {
+      "kind": "you",
+      "subject": "dārzu iemītniece",
+      "rationale": "Vēstījums vērsts pie mīļotās, kas sēdi dārzos"
+    }
+  ],
+  "translation": "Tu, kas sēdi dārzos, draugi ieklausa tavā balsī — liec man to dzirdēt!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/song-of-songs\/8\/13-14.1792529708085.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "Tu, kas sēdi"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "dārzos"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "draugi"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "ieklausa"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "tavā balsī"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "liec man to dzirdēt"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:08.086041501Z",
+  "model": "glm-5.3"
+}

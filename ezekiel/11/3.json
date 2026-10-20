@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Nav tuvu — būvēsim mājas",
+      "rationale": "bקרוב var skarties gan uz ‘laiks nav tuvu’, gan uz ‘mājas nav (jābūvē) tuvu’ — dalīts pantiem lasījums"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "katls un gaļa",
+      "rationale": "pilsētas vadītāju pašapsolījuma metafora: pilsēta katls, mēs gaļa — Ezechielam vēlāk to apgriež"
+    }
+  ],
+  "translation": "kas saka: Nav tuvu — būvēsim mājas; tā ⟨ir⟩ katls, un mēs esam gaļa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/11\/1-4.1792524897600.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "kas saka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nav"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "tuvu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "būvēsim"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mājas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "katls"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mēs esam"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "gaļa"
+    }
+  ],
+  "timestamp": "2026-10-20T19:34:57.601388458Z",
+  "model": "glm-5.3"
+}

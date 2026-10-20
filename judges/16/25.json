@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 16:25",
+  "book": "judges",
+  "lang": "lv",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לפניהם",
+      "rationale": "burtiski 'viņu priekšā'; latviskidots kā 'viņus' izklaidēšanas kontekstā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחק \/ צחק",
+      "rationale": "sakne 'smieties, rotaļāt' atkārtojas divreiz — izsmejošā izklaide, kas latviski izzūd vienā vārdā"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טוב לבם",
+      "rationale": "burtiski 'viņu sirds bija laba' — ebreju idioms jautrībai"
+    }
+  ],
+  "translation": "Un notika, kad viņu sirds kļuva jautra, viņi sacīja: Sasauciet Šimšonu, lai viņš mūs izklaida. Un viņi pasauca Šimšonu no gūstekņu nama, un viņš izklaidēja viņus, un viņi nostādīja ⟨את⟩ viņu starp ⟨את⟩ pīlāriem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2576fa6f426a6bfe52fd16f06dfacaa1ed944f41199cb993e2cbdaffb6c2140e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/judges\/16\/25-28.1792518605165.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kļuva jautra"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "viņu sirds"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "viņi sacīja"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Sasauciet"
+    },
+    {
+      "surface": "לשמשון",
+      "gloss": "Šimšonu"
+    },
+    {
+      "surface": "וישחק",
+      "gloss": "lai viņš izklaida"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mūs"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "viņi pasauca"
+    },
+    {
+      "surface": "לשמשון",
+      "gloss": "Šimšonu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no nama"
+    },
+    {
+      "surface": "האסירים",
+      "gloss": "gūstekņu"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "viņš izklaidēja"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "viņus"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "viņi nostādīja"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "viņu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "starp"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pīlāriem"
+    }
+  ],
+  "timestamp": "2026-10-20T17:50:05.166505323Z",
+  "model": "glm-5.3"
+}

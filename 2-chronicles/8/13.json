@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 8:13",
+  "book": "2-chronicles",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "upurus",
+      "rationale": "Ebreju valodā upuris netiek minēts — עלות nozīmē 'celt augšup', upuris ir saprotams no konteksta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neraudzētā maize",
+      "rationale": "מצה burtiski ir 'salda maize bez rauga' — latviski parasti 'neskābā maize'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trīs reizes gadā",
+      "rationale": "Pants skaita svētku reizes gadā pēc 5. Mozus 16 pavēles"
+    }
+  ],
+  "translation": "Un pēc dienas tiesas — dienā savā dienā — lai celtu augšup ⟨upurus⟩ pēc Mošes pavēles, šabatos, jaunajos mēnešos un svētkos, trīs reizes gadā: neraudzētās maizes svētkos, nedēļu svētkos un būdiņu svētkos.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b97195c46fa01b9ba2c8099b1ee9008ca22678cc5bccb48161fa4d39e94797fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-chronicles\/8\/13-16.1792531862028.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Un pēc ... tiesas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dienā savā dienā"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "lai celtu augšup"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "pēc pavēles"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošes"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "šabatos"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "jaunajos mēnešos"
+    },
+    {
+      "surface": "ולמועדות",
+      "gloss": "un svētkos"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "trīs"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "reizes"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "gadā"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "svētkos"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "neraudzētās maizes"
+    },
+    {
+      "surface": "ובחג",
+      "gloss": "nedēļu svētkos"
+    },
+    {
+      "surface": "השבעות",
+      "gloss": "nedēļu"
+    },
+    {
+      "surface": "ובחג",
+      "gloss": "būdiņu svētkos"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "būdiņu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:31:02.028729929Z",
+  "model": "glm-5.3"
+}

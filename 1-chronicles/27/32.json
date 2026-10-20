@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 27:32",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דוד",
+      "rationale": "Vārds דוד šeit var nozīmēt 'tēvocis' (dāvida brālis) vai būt vārda spēle ar Davida vārdu — tradicionāli lasa 'Davida tēvocis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Saiklis pievienots latviešu valodas labad"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Uzsvara vietniekvārds 'viņš' iekļauts teikumā kā uzsvars, atsevišķi netiek tulkots"
+    }
+  ],
+  "translation": "Un Jonatans, Davida tēvocis, ⟨bija⟩ padomdevējs, saprašanas pilns vīrs un rakstvedis; un Jihiēls, Hakmoni dēls, ⟨bija⟩ pie ķēniņa dēliem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bdf9f2faa315aa6f91a35708069059d736d78a19b2de8ad010eee77d2de8273d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/27\/29-32.1792531611035.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "Un Jonatans"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "tēvocis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "padomdevējs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīrs"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "saprašanas pilns"
+    },
+    {
+      "surface": "וסופר",
+      "gloss": "un rakstvedis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "viņš"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "un Jihiēls"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "Hakmoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:26:51.036652254Z",
+  "model": "glm-5.3"
+}

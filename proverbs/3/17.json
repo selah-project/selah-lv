@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu valodai vajag ⟨ir⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום ir šaloms — viss, kas vesels, drošs un mierīgs; viens vārds 'miers' ir par šauru"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיה דרכי",
+      "rationale": "Atkārtotā sakne דרך — 'viņas ceļi ir ceļi' — skanējuma spēle, kas latviski saglabāta"
+    }
+  ],
+  "translation": "Viņas ceļi ir patīkamā ceļi, un visas viņas tekas ⟨ir⟩ šaloms.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/3\/17-20.1792528570731.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "viņas ceļi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ceļi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "patīkamības"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visas"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "viņas tekas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloms"
+    }
+  ],
+  "timestamp": "2026-10-20T20:36:10.731483329Z",
+  "model": "glm-5.3"
+}

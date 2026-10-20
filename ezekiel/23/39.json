@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezekiel 23:39",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גלולים",
+      "rationale": "'baļķi' atkal kā 'elki' — tā pati literālā bilbe zudusi."
+    },
+    {
+      "kind": "addition",
+      "subject": "pašā",
+      "rationale": "ebreju teksts saka tikai 'tanī dienā'; 'pašā' pievienots tanī pašā dienā akcents."
+    }
+  ],
+  "translation": "Un, kad tās nokāva ⟨את⟩ savus dēlus saviem elkiem, tās tanī pašā dienā ienāca manā svētumā, lai to apgānītu; un lūk, tā tās darīja mana nama vidū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/23\/37-40.1792525225511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשחטם",
+      "gloss": "un, kad nokāva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savus dēlus"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "savus dēlus"
+    },
+    {
+      "surface": "לגלוליהם",
+      "gloss": "saviem elkiem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ienāca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manā svētumā ⟨ienāca⟩"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "manā svētumā"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tanī dienā"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "לחללו",
+      "gloss": "lai to apgānītu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "un lūk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "darīja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidū"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mana nama"
+    }
+  ],
+  "timestamp": "2026-10-20T19:40:25.512431208Z",
+  "model": "glm-5.3"
+}

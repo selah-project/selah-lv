@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 26:19",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבלתי",
+      "rationale": "'Mani līķi' (1. pl.) vs KJV 'kopā ar manu augšāmcēlšanos' — pirmie lasītāji dzirdēja tautas balsi, ne vēstījumu par pravieša miesu."
+    },
+    {
+      "kind": "crux",
+      "subject": "אורת",
+      "rationale": "Hapax טל אורות: 'gaismas rasa' (JPS) vs 'zāļu rasa' (KJV) — dualitāte izzūd latviski."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אורת",
+      "rationale": "Vārds אורת parādās Tanahā tikai šeit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "refaimi",
+      "rationale": "רפאים — veļi, ēnas; saglabāts vārds 'refaimi', nevis 'mirušie' vispārīgi."
+    }
+  ],
+  "translation": "Tavi mirušie dzīvos, mani līķi celšies augšā; mostieties un gavilējiet, jūs, putekļu iemītnieki! Jo Tava rasa ir gaismas rasa, un zeme nolaidīs refaimus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/26\/17-20.1792522305684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחיו",
+      "gloss": "dzivos"
+    },
+    {
+      "surface": "מתיך",
+      "gloss": "Tavi mirusie"
+    },
+    {
+      "surface": "נבלתי",
+      "gloss": "mani liki"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "celsies augsa"
+    },
+    {
+      "surface": "הקיצו",
+      "gloss": "mostieties"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "un gavilejiet"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "iemitnieki"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "putekliem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "אורת",
+      "gloss": "gaismas"
+    },
+    {
+      "surface": "טלך",
+      "gloss": "Tava rasa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "un zeme"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimus"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "nolaidis"
+    }
+  ],
+  "timestamp": "2026-10-20T18:51:45.685643400Z",
+  "model": "glm-5.3"
+}

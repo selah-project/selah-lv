@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "lv",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "terafimi",
+      "rationale": "התרפים ir mājas elki — tulpēti ar ebreju vārdu, nevis 'elks' viens"
+    },
+    {
+      "kind": "crux",
+      "subject": "כביר",
+      "rationale": "retums vārds: 'no saitēm pīts matracis (kazu spalvu)', tradicionāli 'spilvens'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨viņa⟩",
+      "rationale": "מראשתיv ir 'viņa galvgalis' — vietniekvārds latviski pievienots iekavās"
+    }
+  ],
+  "translation": "Un Mikala paņēma ⟨את⟩ terafimus un lika uz gultas, un ⟨את⟩ kazu spalvu matraci lika ⟨viņa⟩ galvgalī, un apsedza ar apģērbu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-samuel\/19\/13-16.1792519226450.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Un ... paņēma"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimus"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimus"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "un lika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gultas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "kazu spalvu matraci"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "matraci"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kazu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lika"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "galvgalī"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "un apsedza"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ar apģērbu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:00:26.451180513Z",
+  "model": "glm-5.3"
+}

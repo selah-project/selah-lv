@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "Upuris saukts ebreju vārdā 'minha', nevis kā 'pārtraugums' — īpašs upuris ar savu vārdu"
+    }
+  ],
+  "translation": "To, ⟨את⟩ ko viņa roka spēj sagādāt: ⟨את⟩ vienu par grēka upuri un ⟨את⟩ vienu par dedzināmo upuri papildus minhai; un priesteris piestāsies par tīrāmo Jahves priekšā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/14\/29-32.1792514831536.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko viņa roka spēj sagādāt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "spēj sagādāt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "viņa roka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vienu par grēka upuri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "par grēka upuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vienu par dedzināmo upuri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "par dedzināmo upuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "papildus"
+    },
+    {
+      "surface": "המנחha",
+      "gloss": "minhai"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "un piestāsies"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "tīrāmo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekšā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:11.547498067Z",
+  "model": "glm-5.3"
+}

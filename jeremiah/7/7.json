@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Es⟩",
+      "rationale": "Latviešu valodai vajadzīgs subjects; ebreju darbības vārda personā jau ietverts"
+    },
+    {
+      "kind": "crux",
+      "subject": "למן עולם ועד עולם",
+      "rationale": "'No mūžības līdz mūžībai' pret KJV 'mūžīgi un mūžīgi' — vai domāta pagātne (no seniem laikiem) vai nākotne"
+    }
+  ],
+  "translation": "tad ⟨Es⟩ ļaušu ⟨את⟩ jums dzīvot šajā vietā, zemē, ko Es devu jūsu tēviem, no mūžības un līdz mūžībai.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/7\/5-8.1792523335134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "tad ļaušu dzīvot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šajā"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemē"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Es devu"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "jūsu tēviem"
+    },
+    {
+      "surface": "למן",
+      "gloss": "no"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžības"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un līdz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžībai"
+    }
+  ],
+  "timestamp": "2026-10-20T19:08:55.135687778Z",
+  "model": "glm-5.3"
+}

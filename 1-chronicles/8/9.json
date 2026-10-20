@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "Vārds var būt sievietes vārds Hodeša ('jaunmēness') vai vienkārši 'jaunā'; šeit ņemts kā vārds."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מלכם",
+      "rationale": "Var būt arī dieva Milkoma vārds, bet kontekstā tas ir dēla vārds Malkams."
+    }
+  ],
+  "translation": "Un viņš dzemdināja no Hodese, savas sievas: ⟨את⟩ Jobavu un ⟨את⟩ Civju un ⟨את⟩ Mešu un ⟨את⟩ Malkamu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/8\/9-12.1792531237581.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dzemdināja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeses"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savas sievas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Civju"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Civju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Mešu"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mešu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "Malkamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamu"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:37.582532874Z",
+  "model": "glm-5.3"
+}

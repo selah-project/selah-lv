@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ziedojums",
+      "rationale": "תרומה ir 'paceltā dāvana, nodeva' — brīvprātīgs ieguldījums, ne upuris"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/ידבנו",
+      "rationale": "'runā' un 'pamudina brīvprātīgi' — sakņu atbalss, kas latviski pazūd"
+    }
+  ],
+  "translation": "Runā ar Jisraēla dēliem, lai viņi ņem Man ziedojumu; no ⟨את⟩ katra vīra, kura sirds viņu pamudina, jūs ņemsiet ⟨את⟩ Mans ziedojums.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3b72350d6e690680655baebb343fc03a9e867a249b595aaf3502fd90e8399965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/25\/1-4.1792513180262.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Runā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēliem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "lai viņi ņem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Man"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ziedojumu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "no ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vīra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kura"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "pamudina"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sirds"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "jūs ņemsiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mans ziedojums"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "Mans ziedojums"
+    }
+  ],
+  "timestamp": "2026-10-20T16:19:40.263594527Z",
+  "model": "glm-5.3"
+}

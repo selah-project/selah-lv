@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 18:36",
+  "book": "1-kings",
+  "lang": "lv",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Ebreju tekstā nav saikļa 'Tu Elohim' — latviešu valodai vajadzīgs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vakara",
+      "rationale": "Ebreju המנחה saka tikai 'minha'; 'vakara' izriet no בעלות ('uznākot' upurēšanas laikam) konteksta"
+    },
+    {
+      "kind": "you",
+      "subject": "Elijas lūgšana Jahvem",
+      "rationale": "Tieša uzruna Dievam: 'Jahve, Avrahama, Jichaka un Jisraēla Elohim'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבריך \/ הדברים",
+      "rationale": "Saknes דבר atkārtošanās: 'pēc Tava vārda... visas šīs vārdi\/lietas' — ebreju vārds 'davar' nozīmē gan vārdu, gan darījumu"
+    }
+  ],
+  "translation": "Un notika, uznākot vakara minhai, ka pravietis Elija pienāca un sacīja: Jahve, Avrahama, Jichaka un Jisraēla Elohim, lai šodien top zināms, ka Tu ⟨esi⟩ Elohim Jisraēlā un ka es esmu Tavs kalps un ka pēc Tava vārda es izdarīju ⟨את⟩ visas šīs lietas.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-kings\/18\/33-36.1792520929024.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "uznākot"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "vakara minhai"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "pienāca"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pravietis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichaka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "un Jisraēla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "top zināms"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraēlā"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "un es"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Tavs kalps"
+    },
+    {
+      "surface": "ובדבריך",
+      "gloss": "pēc Tava vārda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "es izdarīju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas šīs lietas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lietas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šīs"
+    }
+  ],
+  "timestamp": "2026-10-20T18:28:49.025704955Z",
+  "model": "glm-5.3"
+}

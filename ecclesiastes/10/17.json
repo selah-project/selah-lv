@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "lv",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Ebreju valodā nav saikļa; latviešu izteiksme to prasa"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן חורים",
+      "rationale": "Burtiski 'brīvo dēlu dēls'; 'dižciltīgo dēls' pret 'brīvo cilvēku dēls' (JPS)"
+    }
+  ],
+  "translation": "Laimīga ⟨esi⟩, zeme, kad tavs ķēniņš ir dižciltīgo dēls, un tavi firstie ēd savā laikā — spēkam, nevis skurbumam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ecclesiastes\/10\/17-20.1792529965755.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "Laimīga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zeme"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "tavs ķēniņš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "dižciltīgo"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "un tavi firstie"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "savā laikā"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ēd"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "spēkam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "skurbumam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:59:25.755793589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 1:8",
+  "book": "haggai",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Latviešu valodai vajadzīgs norādījums uz konkrēto namu, kaut ebreju artikuls netiek tulkots"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Es tikšu godināts",
+      "rationale": "ואכבד burtiski 'un Es būšu smags', t.i., 'Es guvīšu svaru\/godu' — kabala darbības vārds, ne vienkārši passive"
+    },
+    {
+      "kind": "you",
+      "subject": "uz Israēla atgriezējiem",
+      "rationale": "Tiešs pavēles vērsums — četri imperatīvi adresēti tautai Jeruzalemes atjaunotājiem"
+    }
+  ],
+  "translation": "Kāpjiet kalnā un atnesiet koku, un celtiet ⟨to⟩ namu, un Es tajā labprāt patikšu, un Es tikšu godināts, saka Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "cbfc025d02425a9e0e76b9ecbd963ee2a81633cb6f7bc831e04e06035fd4beaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/haggai\/1\/8-8.1792532761025.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Kāpjiet"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "un atnesiet"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koku"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "un celtiet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "un Es tajā labprāt patikšu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tajā"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "un Es tikšu godināts"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T21:46:01.025672136Z",
+  "model": "glm-5.3"
+}

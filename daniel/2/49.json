@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "daniel 2:49",
+  "book": "daniel",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "די",
+      "rationale": "Aramaic relative particle די elided; no separate Latvian word needed."
+    },
+    {
+      "kind": "addition",
+      "subject": "bija",
+      "rationale": "Hebrew lacks an explicit verb for Daniel's position at the gate; Latvian requires copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vārtiem",
+      "rationale": "בתרע literally 'door\/palace gate' — sitting in the gate means serving at the royal court."
+    }
+  ],
+  "translation": "Un Daniēls lūdza no ķēniņa, un viņš iecēla pār ⟨את⟩ Babilonas provinces darbiem Šadraku, Mešaku un Abed-Nego, bet Daniēls bija pie ķēniņa vārtiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "5abacca2851db1c1188a9882e7e090bff95f942a7bdb6fbbe80f7f73d5999781",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/49-49.1792530223285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "Un Daniēls"
+    },
+    {
+      "surface": "בעא",
+      "gloss": "lūdza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņa"
+    },
+    {
+      "surface": "ומני",
+      "gloss": "un viņš iecēla"
+    },
+    {
+      "surface": "על",
+      "gloss": "pār"
+    },
+    {
+      "surface": "עבידתא",
+      "gloss": "darbiem"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "provinces"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Šadraku"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mešaku"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "un Abed-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "ודניאל",
+      "gloss": "bet Daniēls"
+    },
+    {
+      "surface": "בתרע",
+      "gloss": "pie vārtiem"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ķēniņa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:03:43.285487602Z",
+  "model": "glm-5.3"
+}

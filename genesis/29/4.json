@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esat⟩",
+      "rationale": "Ebreju valodā nav darbības vārda; latviešu valodai vajadzīgs saiklis"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovs ganiem",
+      "rationale": "Tieša uzruna: 'Mani brāļi, no kurienes jūs?' — lauka darbinieki pie akas"
+    }
+  ],
+  "translation": "Un Jaakovs sacīja tiem: Mani brāļi, no kurienes jūs ⟨esat⟩? Un viņi sacīja: No Haranas ⟨mēs⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "88cdc77a943aa860db681d237a37805e37f2daf1409a330cff71fac38c087f2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/29\/1-4.1792512160099.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tiem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brāļi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "no kurienes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sacīja"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "No Haranas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mēs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:02:40.100689207Z",
+  "model": "glm-5.3"
+}

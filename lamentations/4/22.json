@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 4:22",
+  "book": "lamentations",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajag ⟨ir⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "tavas vainas sods",
+      "rationale": "תם עונך burtiski 'pabeigta ir tava vaina' — 'vainas sods' (KJV) pret 'vaina' (YLT): עון nozīmē gan pārkāpumu, gan tā sodu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להגלותך \/ גלה",
+      "rationale": "Viena sakne גלה: 'tevi trimdā' un 'atklās tavus grēkus' — trimda un atsegšana spēlējas viena ar otru, latviski daļēji zudis."
+    },
+    {
+      "kind": "you",
+      "subject": "Cionas meita un Edomas meita",
+      "rationale": "Pants vērsts uz divām adresātēm — vispirms Cionai solījums, tad Edomai sods."
+    }
+  ],
+  "translation": "Pabeigts ⟨ir⟩ tavas vainas sods, Cionas meita: viņš tevi vairs neaizdzīs trimdā; viņš apmeklēs tavu vainu, Edomas meita, atklās tavus grēkus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bfba896e5cda7c8034bf50a360e35a9221d3065d9774fb15589c885c2bb9ab82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/4\/21-22.1792529802622.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "pabeigts"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tavas vainas sods"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vairs ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ne-aizdzīs"
+    },
+    {
+      "surface": "להגלותך",
+      "gloss": "tevi trimdā"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "apmeklēs"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tavu vainu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "meita"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomas"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atklās"
+    },
+    {
+      "surface": "על",
+      "gloss": "pret"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "tavus grēkus"
+    }
+  ],
+  "timestamp": "2026-10-20T20:56:42.623480536Z",
+  "model": "glm-5.3"
+}

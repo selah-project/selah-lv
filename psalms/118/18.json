@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bargi pārmācīja",
+      "rationale": "infinitīva absolūta dublējums יסר יסרנی — intensitāte: 'pārmācīja pārmācīdams'"
+    }
+  ],
+  "translation": "Bargi pārmācīja mani Jah, un nāvei mani neatdeva.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/118\/17-20.1792528271339.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "bargi"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "pārmācīja mani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "un nāvei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nē\/ne-"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "atdeva mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:31:11.339852417Z",
+  "model": "glm-5.3"
+}

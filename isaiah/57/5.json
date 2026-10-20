@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elkiem",
+      "rationale": "באלים ir El daudzskaitlis — 'spēki\/elki', nevis 'dievi' ar lielo burtu"
+    },
+    {
+      "kind": "crux",
+      "subject": "iekaisušie",
+      "rationale": "הנחמים no חמם 'kļūt karstam' — 'sakarsuši aiz kaislības' pret 'iepriecināti\/mierināti' (Targum tradīcija)"
+    }
+  ],
+  "translation": "Iekaisušie ar elkiem zem katra sulīga koka, kautuvji bērnus ielejās zem klinšu spraugām!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/5-8.1792522933471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "iekaisušie"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "ar elkiem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "koka"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "sulīga"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "kautuvji"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bērnus"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "ielejās"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "zem"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "spraugām"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "klinšu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:02:13.472192404Z",
+  "model": "glm-5.3"
+}

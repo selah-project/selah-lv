@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בידי סלע",
+      "rationale": "Burtiski 'klints rokās' — nozīmē 'pie klints malām', tur nomest"
+    },
+    {
+      "kind": "crux",
+      "subject": "kas dzirdēs",
+      "rationale": "NeSkaidrs, vai 'viņu soģi' tiek nomesti un tad dzird, vai tie, kas nomesti pie klints, dzird vārdus; YLT lasa 'atbrīvoti' nevis 'nomesti'"
+    }
+  ],
+  "translation": "Tiek nomesti pie klints malām viņu soģi, un tie dzirdēs manus vārdus, jo tie ir patīkami.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/141\/5-8.1792528462494.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "tiek-nomesti"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "pie-malām"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "klints"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "viņu-soģi"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "un-dzirdēs"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "manus-vārdus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ir-patīkami"
+    }
+  ],
+  "timestamp": "2026-10-20T20:34:22.495653683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנגד \/ נגעי",
+      "rationale": "skaņu atbalsīšanās: meguddi-negi — 'pretī manam sitienam' skan kā atbalss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nelaimē",
+      "rationale": "נגע ir 'trieciens\/ēde\/plague' — miesas vai dusmu sitiens"
+    }
+  ],
+  "translation": "Mani mīļotie un mani draugi pretī manai nelaimē stāv malā, un mani tuvie stāv tālu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/38\/9-12.1792527468288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "mani mīļotie"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "un mani draugi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "pretī"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "manai nelaimē"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stāv malā"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "un mani tuvie"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "tālu"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stāv"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:48.289986630Z",
+  "model": "glm-5.3"
+}

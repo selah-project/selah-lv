@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 14:23",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Tiešs objekta rādītājs ar piesaistes sufiksu 'jūs' — latviski vienkārši 'jūs'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנם",
+      "rationale": "Burtiski 'velti, par velti' — 'ne bez iemesla'."
+    }
+  ],
+  "translation": "Un viņi jūs mierinās, kad jūs redzēsiet ⟨את⟩ viņu ceļus un ⟨את⟩ viņu darbus, un jūs zināsiet, ka ne bez iemesla esmu darījis visu, ko esmu darījis tanī, saka Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "56d4971e9292455fcecc63c09cbc8b3d4ab92300ae0c9aba03120b36ac0dc496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/14\/21-23.1792524964345.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחמו",
+      "gloss": "Un viņi mierinās"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "jūs redzēsiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viņu ceļus"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "viņu ceļus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "viņu darbus"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "viņu darbus"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "un jūs zināsiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez iemesla"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "esmu darījis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "esmu darījis"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tanī"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T19:36:04.346360167Z",
+  "model": "glm-5.3"
+}

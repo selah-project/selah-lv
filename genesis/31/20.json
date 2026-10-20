@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nozaga sirdi",
+      "rationale": "Ebreju idiomats 'zagt sirdi' = slēpt nodomu; KJV 'stealed away unawares' meta idiomu; saglabāts burtiski 'nozaga sirdi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב",
+      "rationale": "Tā pati sakne kā 31:19 par Rahelu — zagt terafimus \/ zagt sirdi; latviski 'nozaga' notur saiti."
+    }
+  ],
+  "translation": "Un Jaakovs nozaga ⟨את⟩ Lavana, aramieša, sirdi, tam nepaziņodams, ka ⟨viņš⟩ bēg.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "448808e7e38ff01d675a9f145a877a90dad509ecfdadf6faea27717820a36d2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/31\/18-20.1792514861238.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Un nozaga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramieša"
+    },
+    {
+      "surface": "על",
+      "gloss": "tāpēc, ka"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nepaziņodams"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "paziņoja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bēg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨viņš⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T16:47:41.243332049Z",
+  "model": "glm-5.3"
+}

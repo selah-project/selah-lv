@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mūs",
+      "rationale": "Hebrew suffix -נו carries the object 'us', Latvian verb needs it stated"
+    },
+    {
+      "kind": "alternative",
+      "subject": "צבאותינו",
+      "rationale": "'karaspēkiem' (war armies) also possible; 'pulkiem' keeps the mass-of-persons sense of צבא"
+    }
+  ],
+  "translation": "Tomēr Tu atstūmi un apkaunoji ⟨mūs⟩, un Tu neizieti ⟨kopā⟩ ar mūsu pulkiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/44\/9-12.1792527468212.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Tomēr"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "atstūmi"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "un apkaunoji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izieti"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ar mūsu pulkiem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:17:48.212830039Z",
+  "model": "glm-5.3"
+}

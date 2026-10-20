@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחלצם",
+      "rationale": "חלץ ir 'izraust\/izvilkt (kā no šauruma)' — tēlaināk nekā vienkārši 'izglābt'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרה\/חלץ",
+      "rationale": "Iepriekšējā pantā 'šaurums' (צרות), šeit 'izrauj no šauruma' — tas pats attēlojums turpinās."
+    }
+  ],
+  "translation": "Jahves eņģelis apmetas nometni ap tiem, kas Viņu bīstas, un viņus izrauj.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/34\/5-8.1792527364820.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "apmetas nometni"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "eņģelis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ap"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tiem, kas Viņu bīstas"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "un viņus izrauj"
+    }
+  ],
+  "timestamp": "2026-10-20T20:16:04.821958549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "salām",
+      "rationale": "לאיים var nozīmēt gan 'salas', gan 'sauszeme'; BSB lasa 'sauszemi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אוביש ... אוביש",
+      "rationale": "Saknes יבש 'izkaltēt\/kaunināties' atkārtojums versuma sākumā un galā — ietvars"
+    }
+  ],
+  "translation": "Es izpostīšu kalnus un pakalnus, un visu viņu zāli izkaltināšu; un upes pārvērtīšu salās, un ezerpurvus izkaltināšu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/42\/13-16.1792522679820.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Es izpostīšu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnus"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "un pakalnus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "viņu zāli"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "izkaltināšu"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "un pārvērtīšu"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "upes"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "salās"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "un ezerpurvus"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "izkaltināšu"
+    }
+  ],
+  "timestamp": "2026-10-20T18:57:59.821843009Z",
+  "model": "glm-5.3"
+}

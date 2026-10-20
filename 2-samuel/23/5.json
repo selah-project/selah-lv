@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 23:5",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא כן ביתי עם אל",
+      "rationale": "Divēja lasījuma strīds: 'mans nams nav tāds' (atzīšanās) pret jautājuma 'vai mans nams nav tāds ar El?' (JPS) — tehniski nav jautājuma partikulas."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; latviešu valodai vajadzīgs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישעי",
+      "rationale": "Arī 'mana labklājība' — vārds apzīmē glābšanu un labvēlību reizē."
+    }
+  ],
+  "translation": "Jo nav tā ar manu namu pie El: jo mūžīgu derību Viņš man licis, visu lietās sakārtotu un sargātu; jo tā ⟨ir⟩ visa mana glābšana un viss mans patikums, kaut Viņš to neliek uzplaukt.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/23\/5-8.1792520261957.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tā"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mans nams"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derība"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžīgu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "licis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ערוכה",
+      "gloss": "sakārtota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visā"
+    },
+    {
+      "surface": "ושמרה",
+      "gloss": "un sargāta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mana glābšana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "un viss"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mans patikums"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצמיח",
+      "gloss": "liek uzplaukt"
+    }
+  ],
+  "timestamp": "2026-10-20T18:17:41.957824179Z",
+  "model": "glm-5.3"
+}

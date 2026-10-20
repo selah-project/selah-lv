@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viņa",
+      "rationale": "Ebreju אחיו ir ar priedēkli 'viņa', latviski vajag precizējošu vietniekvārdu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pēctecību saraksts",
+      "rationale": "Vārdu uzskaitījums — ciltsrindas mērīšana."
+    }
+  ],
+  "translation": "Un viņa brāļa Helema dēli: Cofahs, un Jimna, un Šelešs, un Amals.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6a79dffbd60953b296e308b337219790480bf5fa29bc6fdab8a10cfb6f10b0bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/7\/33-36.1792531244657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Un ... dēli"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Helema"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "viņa brāļa"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Cofahs"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "un Jimna"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "un Šelešs"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "un Amals"
+    }
+  ],
+  "timestamp": "2026-10-20T21:20:44.658323131Z",
+  "model": "glm-5.3"
+}

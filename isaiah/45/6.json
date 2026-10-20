@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esmu",
+      "rationale": "Saiklis pievienots latviešu valodas vajadzībām"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neviena cita nav",
+      "rationale": "אפס burtiski 'beigas, izsīkums' — lietots kā apgalvojums par pilnīgu neesamību"
+    }
+  ],
+  "translation": "Lai tie zinātu no saules lēkta un no rietumiem, ka neviena cita nav bez Manis; Es ⟨esmu⟩ Jahve, un nav cita.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/45\/5-8.1792522814336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Lai"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tie zinātu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "no saules lēkta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saules"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "un no rietumiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "neviena cita nav"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "bez Manis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "un nav"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "cita"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:14.337675847Z",
+  "model": "glm-5.3"
+}

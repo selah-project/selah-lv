@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikļa 'ir'; latviešu valodai vajadzīgs divas reizes."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mērīt Jerušalaimu",
+      "rationale": "Pilsētas platuma un garuma mērīšana."
+    }
+  ],
+  "translation": "Un es teicu: Uz kurieni tu ej? Un viņš man teica: Mērīt ⟨את⟩ Jerušalaimu, lai redzētu, cik plata tā ⟨ir⟩ un cik gara tā ⟨ir⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/2\/5-8.1792526776058.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Un es teicu"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Uz kurieni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ej"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš teica"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Mērīt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "lai redzētu"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "cik"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "plata tā"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "un cik"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "gara tā"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:16.063764539Z",
+  "model": "glm-5.3"
+}

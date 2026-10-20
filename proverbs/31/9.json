@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ķēniņam Lemuelam",
+      "rationale": "pantā tieši uzrunāts ķēniņš — pavēle atvērt muti un tiesāt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק atstāts kā cedek, nevis 'taisnība' viena — saskaņā ar D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "savu",
+      "rationale": "מִי priedeklis: ebreju 'tev muti' pietiek, latviešu valodai vajadzīgs īpašnieka vietniekvārds"
+    }
+  ],
+  "translation": "Atver savu muti, tiesā cedek, un spried tiesu nabagajam un trūcīgajam.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0437cc7cc20a1a92dc321cc77a67ec604aecf5ac30fad65e8c641c713fa04f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/31\/9-12.1792528962941.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Atver"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "savu muti"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "tiesā"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "un spried tiesu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nabagajam"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "un trūcīgajam"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:42.942084970Z",
+  "model": "glm-5.3"
+}

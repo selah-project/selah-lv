@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 13:21",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "varētu",
+      "rationale": "Latviešu valodai vajadzīgs palīgdarbārds infinitiva mērķa izteiksmei"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mākoņa stabā",
+      "rationale": "עמוד ענן ir konstrakta saikne — 'mākoņa stabs' — latviski lokatīvs ar ģenitīvu"
+    }
+  ],
+  "translation": "Un Jahve gāja viņiem pa priekšu dienā mākoņa stabā, lai vestu tos pa ceļu, un naktī uguns stabā, lai viņiem spīdētu, lai tie varētu iet dienu un nakti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/13\/21-22.1792512862942.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Un Jahve"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gāja"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "viņiem pa priekšu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienā"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "stabā"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mākoņa"
+    },
+    {
+      "surface": "לנחתם",
+      "gloss": "lai vestu tos"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "pa ceļu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un naktī"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "stabā"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "lai spīdētu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "viņiem"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lai iet"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dienu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "un nakti"
+    }
+  ],
+  "timestamp": "2026-10-20T16:14:22.942830564Z",
+  "model": "glm-5.3"
+}

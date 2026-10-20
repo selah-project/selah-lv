@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 49:8",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "par derību tautai",
+      "rationale": "עם te ir skaitlis vienskaitlis ('tauta'), bet daudzas versijas liek 'covenant to the people' — latviski 'tautai' vienskaitlī."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלות\/להנחיל",
+      "rationale": "Saknes atkārtojums: 'mantojumos mantojuma zemes' — ebreju paronomasija נחל\/נחלה."
+    }
+  ],
+  "translation": "Tā saka Jahve: labvēlības laikā es tevi atbildēju, glābšanas dienā es tev palīdzēju; un es tevi sargāšu un došu tevi par derību tautai, celt zemi, iedalīt mantojumos izpostītās mantojuma zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bdeb651d350b03c2eab85c2a9ccdb527acce351b210a9652ffbb7c2e3cbdcb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/49\/5-8.1792522859288.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "laikā"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "labvēlības"
+    },
+    {
+      "surface": "עניתיך",
+      "gloss": "es tev atbildēju"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "un dienā"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "glābšanas"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "es tev palīdzēju"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "un es tevi sargāšu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "un došu tevi"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "par derību"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "celt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "להנחיל",
+      "gloss": "iedalīt mantojumos"
+    },
+    {
+      "surface": "נחלות",
+      "gloss": "mantojuma zemes"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "izpostītās"
+    }
+  ],
+  "timestamp": "2026-10-20T19:00:59.289600832Z",
+  "model": "glm-5.3"
+}

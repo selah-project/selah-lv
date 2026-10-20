@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "latviešu valodai vajadzīgs prievārds; ebreju כִתְהֹמֹת salīdzinājumā to nesatur"
+    },
+    {
+      "kind": "crux",
+      "subject": "כתהמות רבה",
+      "rationale": "'kā lielās dzīles' — vai ūdens daudzums kā jūra, vai avots no dzīlēm"
+    }
+  ],
+  "translation": "Viņš šķēla klintis tuksnesī un dzirdīja viņus kā no lielajām dzīlēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/78\/13-16.1792527887774.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "šķēla"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "klintis"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tuksnesī"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "un dzirdīja"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "kā no dzīlēm"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lielajām"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:47.775033071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יראה\/יראה",
+      "rationale": "Vārds spēle: vietas vārds 'Jahve redz' un beigās 'Jahve parādīsies' — viena sakne ראה divās nozīmēs, latviski zūd"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהר יהוה יראה",
+      "rationale": "'Jahve kalnā parādīsies' vs 'kalnā Jahve tiks redzēts' vs 'Jahve parādīs (aunāru)' — slavena tulkotāju strīda vieta"
+    },
+    {
+      "kind": "elision",
+      "subject": "נאמר pasīvs",
+      "rationale": "יאמר ir bezpersonisks — 'tiek sacīts'; latviski dotrs aktīvs 'saka'"
+    }
+  ],
+  "translation": "Un Avrahams nosauca tās vietas vārdu: Jahve redz; ko vēl šodien saka: Jahve kalnā parādīsies.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/22\/13-16.1792511955488.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nosauca"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vārdu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tās"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "redz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "saka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šodien"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalnā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "parādīsies"
+    }
+  ],
+  "timestamp": "2026-10-20T15:59:15.489432769Z",
+  "model": "glm-5.3"
+}

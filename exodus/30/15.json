@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefashot",
+      "rationale": "נפש ir elpa\/dzīvības spēks, ne 'dvēseles' platōniskā nozīmē; saglabāts transkripcijā"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכפר",
+      "rationale": "Sakne כפר 'segot, izlīdzināt' — tas pats vārds kā 'izpirkšanas nauda' 30:16 (הכפרים)"
+    }
+  ],
+  "translation": "Bagātais nedos vairāk, un trūcīgais nedos mazāk par pusi šekeļa, dodot ⟨את⟩ Jahves upuri, lai segtu ⟨par⟩ jūsu nefashot.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/30\/13-16.1792513299328.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "bagātais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dos vairāk"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "un trūcīgais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "dos mazāk"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "par pusi"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "šekeļa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dodot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves upuri"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "upuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "lai segtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨par⟩"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jūsu nefashot"
+    }
+  ],
+  "timestamp": "2026-10-20T16:21:39.330130351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nedodiet Viņam mieru",
+      "rationale": "burtiski 'nedodiet Viņam klusumu' — lūgšanas nepārtraukšanas aicinājums"
+    },
+    {
+      "kind": "invitation",
+      "subject": "pieminētājiem",
+      "rationale": "pavēle neapstāties lūgt, kamēr Jahve neatjauno Jerušalaimu"
+    }
+  ],
+  "translation": "un nedodiet Viņam mieru, kamēr Viņš nostiprina un kamēr Viņš ceļ ⟨את⟩ Jerušalaimu par slavu virs zemes.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "3b03ad39445de22f7af6a26e7badd6b2ccbc55373114397fd9f31073ccd950c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/62\/5-8.1792523087207.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "un ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dodiet"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mieru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Viņam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamēr"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "nostiprina"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "un kamēr"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ceļ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "par slavu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "virs zemes"
+    }
+  ],
+  "timestamp": "2026-10-20T19:04:47.209316877Z",
+  "model": "glm-5.3"
+}

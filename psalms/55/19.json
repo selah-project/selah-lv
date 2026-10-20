@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש ir elpa\/dzīvības spēks, nevis 'dvēsele' dualitātes nozīmē"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "'no cīņas, kas pret mani' (KJV) pret 'no tā, kas man tuvs' (YLT) — קרב nozīmē gan cīņu, tuvumu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברבים היו עמדי",
+      "rationale": "'daudzi bija ar mani' — glābēja pavadībā vai ienaidnieku pūlī; tulkotāji dalīti"
+    }
+  ],
+  "translation": "Viņš izpestīja mierā manu nefesh no cīņas, kas bija ⟨pret mani⟩, jo daudzi bija ar mani.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/55\/17-20.1792527688689.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "izpestīja"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mierā"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "manu nefesh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "no cīņas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pret mani⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "daudzi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bija"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ar mani"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:28.690826193Z",
+  "model": "glm-5.3"
+}

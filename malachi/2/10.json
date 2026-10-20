@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa 'ir'; latviešu valodai tas pievienots iekavās."
+    },
+    {
+      "kind": "substitution",
+      "subject": "neuzticīgs",
+      "rationale": "נבגד nozīmē 'rīkoties slepeni viltīgi, lauzt uzticību' — burtiski 'apseglot'; latviski 'neuzticīgs' tuvākais viens vārds."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraēlam",
+      "rationale": "Divi retoriski jautājumi vērsti pie visas tautas kā pie tiešas adresāta."
+    }
+  ],
+  "translation": "Vai ne ⟨ir⟩ viens tēvs mums visiem? Vai ne viens El radīja mūs? Kāpēc ir neuzticīgs katrs vīrs pret savu brāli, lai apgānītu derību ar mūsu tēviem?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0f55e91eead03bf26917e2f572149bf92f7791d5599a0f8edf5e6a3b93faed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/malachi\/2\/9-12.1792526906688.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tēvs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "mums visiem"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "vai ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viens"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "radīja mūs"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kāpēc"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "ir neuzticīgs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "katrs vīrs"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "pret savu brāli"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "lai apgānītu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "derību"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ar mūsu tēviem"
+    }
+  ],
+  "timestamp": "2026-10-20T20:08:26.689544462Z",
+  "model": "glm-5.3"
+}

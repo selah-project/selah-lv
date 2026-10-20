@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "pēctecību saraksts",
+      "rationale": "Davida dēlu uzskaitījums ar izslēgumu — skaitīšanas tips."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iebļavas",
+      "rationale": "פילגש ir īpašs statuss starp sievu un verdzeni; latviešu vārds tikai aptuveni atbilst."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨biju⟩",
+      "rationale": "Ebreju tekstā nav darbīja vārda; latviešu valodai vajag kopulu."
+    }
+  ],
+  "translation": "Visi tie bija Davida dēli, atskaitot iebļavu dēlus, un Tamara ⟨biju⟩ viņu māsa.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/3\/9-12.1792531049884.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "atskaitot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "iebļavu"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "un Tamara"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "viņu māsa"
+    }
+  ],
+  "timestamp": "2026-10-20T21:17:29.885195333Z",
+  "model": "glm-5.3"
+}

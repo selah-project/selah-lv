@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה vienmēr kā Tora — ne 'bauslība' vai 'likumi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמרו \/ ינצרו",
+      "rationale": "divi dažādi 'sargāt' darbības vārdi paralēlismā — šķautne zūd latviski"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Slavējiet Jah",
+      "rationale": "pēdējais aicinājums lasītājam — haleluja"
+    }
+  ],
+  "translation": "Lai tie viņa likumus īstenotu un viņa Toras sargātu. Slavējiet Jah!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/105\/45-45.1792528146436.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "lai"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "īstenotu"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "viņa likumus"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "un viņa Toras"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "sargātu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Slavējiet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-20T20:29:06.436687087Z",
+  "model": "glm-5.3"
+}

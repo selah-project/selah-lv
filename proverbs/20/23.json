@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "Ebreju valodā nav saikla; latviešu teikumam vajadzīgs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "akmens un akmens",
+      "rationale": "Burtiski divi atšķirīgi svari — akmeņi; parasti tulkots kā 'dažādi svari', taču burtiskā forma tiek saglabāta."
+    }
+  ],
+  "translation": "Jahves riebuma lieta ⟨ir⟩ akmens un akmens, un krāpnieku svari nav labi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/20\/21-24.1792528771777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "riebuma lieta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "akmens"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "un akmens"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "un svari"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "krāpnieku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:39:31.778540625Z",
+  "model": "glm-5.3"
+}

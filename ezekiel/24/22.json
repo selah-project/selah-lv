@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "lv",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cilvēku maize",
+      "rationale": "לחם אנשים: 'sēru maizi' \/ 'cita cilvēku dāvāta maize' \/ 'parasta cilvēku maize' — tradicionāli 'trauku maize', bet burtiski 'cilvēku maize'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על שפם",
+      "rationale": "שפם burtiski 'augšlūpa\/ūsas' — sēru paraža aizsedz augšlūpu, latviski 'ūsas'"
+    }
+  ],
+  "translation": "Un jūs darīsit, kā es darīju: virs ūsām nenosedzieties un cilvēku maizi neēdīsit.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "08c222e208a8878afa195eb6ea052aa579a31496cceba7cdfa186dc77325e258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/24\/21-24.1792525264626.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Un jūs darīsit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kā"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "es darīju"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "ūsām"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "nosedzieties"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "un maizi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "cilvēku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ēdīsit"
+    }
+  ],
+  "timestamp": "2026-10-20T19:41:04.627685373Z",
+  "model": "glm-5.3"
+}

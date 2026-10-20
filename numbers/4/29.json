@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Tā ir Merari dzimtas skaitīšanas pavēle pēc ģimenēm un tēvu namiem."
+    }
+  ],
+  "translation": "Merari dēlus pēc viņu ģimenēm, pēc viņu tēvu namiem, tu ieskaitīsi ⟨את⟩ viņus.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d89c13fa2238e052428a20574275f21ddb0c2e8d99b0dcba88ac039baadcf687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/4\/29-32.1792515455225.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pēc viņu ģimenēm"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pēc nama"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "viņu tēvu"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tu ieskaitīsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "viņus"
+    }
+  ],
+  "timestamp": "2026-10-20T16:57:35.226367197Z",
+  "model": "glm-5.3"
+}

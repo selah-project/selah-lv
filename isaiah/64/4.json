@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "lv",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "bez saikla 'tajās mūžība' latviski neveltos teikums; ebreju valodā predikāts izteikts bez 'ir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "slavena grūtība: JPS 'tajās mēs esam palikuši mūžam' (bāhām kā atsauce uz ceļiem) pret tradicionālo 'tās ⟨ir⟩ mūžīgas'; tekstā bez pieturzīmēm abas iespējamas."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "turpinās tieša uzruna Dievam."
+    }
+  ],
+  "translation": "Tu sastapi ⟨את⟩ to, kas priecājas un dara cedek, Tavos ceļos viņi Tevi piemin; lūk, Tu sadusmojies, un mēs grēkojām — tajās ⟨ir⟩ mūžība, un mēs tiksim glābti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/64\/1-4.1792523037504.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "Tu sastapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, kas priecājas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kas priecājas"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "un dara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "Tavos ceļos"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "viņi Tevi piemin"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lūk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "sadusmojies"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "un mēs grēkojām"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tajās"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mūžība"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "un tiksim glābti"
+    }
+  ],
+  "timestamp": "2026-10-20T19:03:57.505193296Z",
+  "model": "glm-5.3"
+}

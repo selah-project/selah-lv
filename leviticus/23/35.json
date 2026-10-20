@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būs⟩",
+      "rationale": "Ebreju teikumā nav darbības vārda; latviešu valodai vajag saikli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "darba darīšana",
+      "rationale": "מלאכת עבדה burtiski 'darbs kalpošanas' — atkārtojums darba aizliegumam"
+    }
+  ],
+  "translation": "Pirmajā dienā ⟨būs⟩ svēta sapulce; visu darba darīšanu jūs nedarīsiet.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a4755544a3aef69c9be778ec04a4bf1ec4fed2bb3903010a442cdcec4be6e760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/23\/33-36.1792515166006.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pirmajā dienā"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "Pirmajā dienā"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "sapulce"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svēta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "darba darīšanu"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "darba darīšanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darīsiet"
+    }
+  ],
+  "timestamp": "2026-10-20T16:52:46.008824370Z",
+  "model": "glm-5.3"
+}

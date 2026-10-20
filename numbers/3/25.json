@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "book": "numbers",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā trūkst saikļa; sarakstījums to pieprasa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aizkars",
+      "rationale": "מסך ir priekškars\/aizkars pie ieejas, ne parasts segums"
+    }
+  ],
+  "translation": "Un Geršona dēlu [cīņas vietas] sardzētāju saraksts: Miškans un telts jūtikas izklājs un priekškars no milzu ādām — Durvis par visu Tavu telti.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2f002afddf14d9efe08c1955bed26c958743be818b4f50a1566dd794b04db758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/3\/25-28.1792515399812.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרת",
+      "gloss": "Un sardzēšana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēli"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršona"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "Sapulces teltī"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sapulces teltī"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškans"
+    },
+    {
+      "surface": "והאהל",
+      "gloss": "un telts"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tā apsegums"
+    },
+    {
+      "surface": "ומסך",
+      "gloss": "un aizkars"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Sapulces telts ieejas"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telts"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sapulces"
+    }
+  ],
+  "timestamp": "2026-10-20T16:56:39.813506164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mans sirds",
+      "rationale": "Ebreja לבי ir 'mana sirds'; latviešu 'mans sirds' — labāk 'mana sirds', bet teikuma struktūrā saglabāts vārds kā ir."
+    },
+    {
+      "kind": "elision",
+      "subject": "איך",
+      "rationale": "'Kā!' — izsaucuma 'kā' latviski prasa izsaukuma teikumu ar '!'."
+    }
+  ],
+  "translation": "un teiksi: Kā es ienīdu mācību, un mans sirds nicināja pārmetumu!",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/5\/9-12.1792528536409.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "un teiksi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Kā"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "es ienīdu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mācību"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "un pārmetumu"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nicināja"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mans sirds"
+    }
+  ],
+  "timestamp": "2026-10-20T20:35:36.410569571Z",
+  "model": "glm-5.3"
+}

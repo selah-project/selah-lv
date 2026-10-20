@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "lv",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Jautājuma teikumam latviešu valodā vajadzīgs saiklis"
+    },
+    {
+      "kind": "crux",
+      "subject": "mans kungs",
+      "rationale": "אדני šeit vērsts pie eņģeļa, tāpēc 'mans kungs', nevis Adonai kā Vārda aizstājējs"
+    },
+    {
+      "kind": "mystery",
+      "subject": "jautājums",
+      "rationale": "Pravieša jautājums 'Kas tie ir?' atklāj vīzijas noslēpumu, ko skaidro tikai 6:5"
+    }
+  ],
+  "translation": "Un es atbildēju un sacīju eņģelim, kas runāja manī: Kas tie ⟨ir⟩, mans kungs?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/zechariah\/6\/1-4.1792526810358.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וואען",
+      "gloss": "Un es atbildēju"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "un sacīju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pret"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "eņģeli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kas runāja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manī"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mans kungs"
+    }
+  ],
+  "timestamp": "2026-10-20T20:06:50.367874717Z",
+  "model": "glm-5.3"
+}

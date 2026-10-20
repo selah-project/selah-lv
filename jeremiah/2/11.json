@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 2:11",
+  "book": "jeremiah",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהים — dievi",
+      "rationale": "Te par tautu elkiem — ar mazo burtu 'dievi', nevis Elohim par Vārdu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההימיר \/ המיר",
+      "rationale": "Atkārtota sakne 'mainīt\/miegot' abos pantiņos — asis paliek jūtama latviski."
+    }
+  ],
+  "translation": "Vai tauta ir mainījusi ⟨את⟩ savus dievus? Un tie nav dievi! Bet mana tauta ir mainījusi ⟨את⟩ savu godu pret to, kas nesniedz nekādu labumu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/2\/9-12.1792523165190.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההימיר",
+      "gloss": "Vai ... ir mainījusi"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨את⟩ savus dievus"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "Un tie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievi"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Bet mana tauta"
+    },
+    {
+      "surface": "המיר",
+      "gloss": "ir mainījusi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨את⟩ savu godu"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "pret to, kas"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "nesniedz nekādu labumu"
+    }
+  ],
+  "timestamp": "2026-10-20T19:06:05.191729743Z",
+  "model": "glm-5.3"
+}

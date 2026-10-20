@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ģēlu",
+      "rationale": "צלם šeit 'spoks, ilūzija, līdzība' — 'ģēls' tuvāk par 'tēlu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקיץ\/עיר",
+      "rationale": "Divas dažādas saknes ar vienu nozīmi 'mosties' blakus — intensitātes atkārtojums"
+    }
+  ],
+  "translation": "Kā sapnis pēc pamodšanas — Adonai, mostoties Tu nicināsi viņu ģēlu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/73\/17-20.1792527854075.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Kā sapnis"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "pēc pamodšanas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mostoties"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "viņu ģēlu"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Tu nicināsi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:24:14.076541979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד \/ פחדתי",
+      "rationale": "Bāze פחד atkārtojas lietvārdā un darbības vārdā — 'bailes, ko baidījos'; atbalsi zaudē tikai daļēji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויאתיני",
+      "rationale": "'attapās mani' — nevis יבא 'nāca'; latviski 'nāca pār mani' tuvina abus pantus."
+    }
+  ],
+  "translation": "Jo bailes, kuras baidījos, nāca pār mani, un tas, ko es biedējos, nāca man virsū.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/3\/25-26.1792528959444.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bailes"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "baidījos"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "nāca pār mani"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "un tas, ko"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "es biedējos"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nāca"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man virsū"
+    }
+  ],
+  "timestamp": "2026-10-20T20:42:39.445365697Z",
+  "model": "glm-5.3"
+}

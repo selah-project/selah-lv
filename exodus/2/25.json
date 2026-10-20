@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "un Elohim zināja",
+      "rationale": "וידע אלהים stāv bez objekta — 'un Elohim zināja' (YLT) pret 'Elohim tos ievēroja' (KJV) pret 'Elohim tos atzina' (ASV\/JPS); ebreju teksts izsaka tikai 'zināja'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ וידע",
+      "rationale": "Radīšanas valoda: 'redzēja' un 'zināja' ir tas pats darbības vārdu pāris kā 1. Mozus grāmatā — redzēt noved pie pazīšanas."
+    }
+  ],
+  "translation": "Un Elohim redzēja ⟨את⟩ Jisraēla dēlus, un Elohim zināja.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "49ad89dbcddadfe72b8195cda99bca004bdb2b4a60382f34451387ab6b0010c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/2\/25-25.1792512601175.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "un redzēja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraēla dēlus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dēlus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "un zināja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T16:10:01.177076653Z",
+  "model": "glm-5.3"
+}

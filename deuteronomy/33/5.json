@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "lv",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "Latviešu valodai vajadzīgs subjekts; ebreju ויהי to nesatur"
+    },
+    {
+      "kind": "crux",
+      "subject": "ķēniņš",
+      "rationale": "Kas ir ķēniņš — Jahve, Moše vai Israēla tauta? Tulkojumi dalās"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישורון",
+      "rationale": "Maigs segvārds Jisraēlam no saknes 'taisns', nozaudēts tulkojumā"
+    }
+  ],
+  "translation": "Un ⟨tas⟩ notika: Ješurunā bija ķēniņš, kad sapulcējās tautas galvas kopā, Jisraēla ciltis.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/deuteronomy\/33\/5-8.1792517427777.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "Ješurunā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ķēniņš"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "kad sapulcējās"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopā"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ciltis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraēla"
+    }
+  ],
+  "timestamp": "2026-10-20T17:30:27.779318880Z",
+  "model": "glm-5.3"
+}

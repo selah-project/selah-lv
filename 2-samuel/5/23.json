@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 5:23",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viņš⟩",
+      "rationale": "Ebreju teksts nesaka, kas runā — Jahve atbild caur 'sacīja'; vietniekvārds pievienots skaidrībai."
+    },
+    {
+      "kind": "crux",
+      "subject": "bekaju kokiem",
+      "rationale": "בכאים: 'raudākoki' (svešāds saknes בכה 'raudāt') pret dulleņu vai balzama kokiem; vārds parādās tikai šeit un 5:24."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכאים",
+      "rationale": "Skanē līdzīgi 'raudāšana' (בכה) — iespējama vārdu spēle ar ienaidnieku 'raudāšanu', zudusi latviski."
+    }
+  ],
+  "translation": "Un Davids vaicāja Jahvem, un ⟨viņš⟩ sacīja: Nekāpj augšup; apej viņiem no mugurpuses, un nāc virsū tiem no pretējās puses, pie bekaju kokiem.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "fcdbe9b14556bdd47e12c7398ee23e4a5ac3c335874de02676fd33e065bec19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/5\/21-24.1792519708721.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "un vaicāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "un sacīja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kāp augšup"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "apej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "viņu mugurpusi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "un nāksi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "virsū tiem"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "no pretējās puses"
+    },
+    {
+      "surface": "בכאים",
+      "gloss": "pie bekaju kokiem"
+    }
+  ],
+  "timestamp": "2026-10-20T18:08:28.722523353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Saikle, ko ebreju valoda izlaiž."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אבדון",
+      "rationale": "Avadons — bojāejas vieta; ne 'elle', bet iznīcības bezdibenis."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשרש",
+      "rationale": "'Izsakņot' (izraut ar saknēm) pret 'iesakņoties' (YLT) — sakne arī šeit dubultā nozīme."
+    }
+  ],
+  "translation": "jo tā ⟨ir⟩ uguns, līdz Avadonam tā aprīs, un visu manu ražu tā izraus ar saknēm.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/31\/9-12.1792529425789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "uguns"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tā"
+    },
+    {
+      "surface": "עד",
+      "gloss": "līdz"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "Avadonam"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tā aprīs"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "un visu"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "manu ražu"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "tā izraus ar saknēm"
+    }
+  ],
+  "timestamp": "2026-10-20T20:50:25.790129180Z",
+  "model": "glm-5.3"
+}

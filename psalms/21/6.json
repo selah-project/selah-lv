@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "ebreju valodā nav saikļa; latviešu teikumam vajag ⟨ir⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשוה",
+      "rationale": "sakne nozīmē 'izlīdzināt\/pielīdzināt' — var lasīt arī 'Tu pielīdzini viņam spožumu un krāšņumu'."
+    }
+  ],
+  "translation": "Liels ⟨ir⟩ viņa gods Tavā pestīšanā; spožumu un krāšņumu Tu uzliec uz viņu.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/21\/5-8.1792527210836.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Liels"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "viņa gods"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "Tavā pestīšanā"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "spožumu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "un krāšņumu"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "Tu uzliec"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uz viņu"
+    }
+  ],
+  "timestamp": "2026-10-20T20:13:30.842970696Z",
+  "model": "glm-5.3"
+}

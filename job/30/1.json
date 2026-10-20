@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 30:1",
+  "book": "job",
+  "lang": "lv",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "צעירים ממני לימים",
+      "rationale": "Burtiski 'jaunāki par mani dienām' — dienu skaita salīdzinājums, ne tikai vecuma pakāpe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחקו\/מאסתי",
+      "rationale": "Smej un nicina — darbības atspoguļo Hioba_statuses apvērsumu: viņš smējās (29:25), tagad smejas par viņu."
+    }
+  ],
+  "translation": "Un tagad smejas par mani jaunieki, jaunāki par mani dienām, kuru tēvus es nicināju, tos, ko ⟨es⟩ negribēju likt ar suņiem mana ganāmpulka.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/job\/30\/1-4.1792529478415.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Un tagad"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "smejas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "par mani"
+    },
+    {
+      "surface": "צעירים",
+      "gloss": "jaunieki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "jaunāki par mani"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dienām"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "es nicināju"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tēvus"
+    },
+    {
+      "surface": "לשית",
+      "gloss": "likt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "suņiem"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "mana ganāmpulka"
+    }
+  ],
+  "timestamp": "2026-10-20T20:51:18.416283540Z",
+  "model": "glm-5.3"
+}

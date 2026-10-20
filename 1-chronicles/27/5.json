@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 27:5",
+  "book": "1-chronicles",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bija⟩",
+      "rationale": "Ebreju tekstam nav saikļa; latviešu valodai vajag 'bija' divreiz"
+    },
+    {
+      "kind": "crux",
+      "subject": "priesteris, priekšnieks",
+      "rationale": "ראש pēc הכהן: 'priesteris, galva' — vai Benajahu bija priesteris, vai 'Jehojada priesteris, priekšnieks' (galvenais) — tulkotāji šķiras"
+    },
+    {
+      "kind": "measurement",
+      "subject": "divdesmit un četri tūkstoši",
+      "rationale": "Nodaļas skaitliskais sastāvs — 24 000 vīru"
+    }
+  ],
+  "translation": "Trešās karaspēka vienības priekšnieks trešajam mēnesim ⟨bija⟩ Benajahu, Jehojadas dēls, priesteris, priekšnieks, un virs viņa nodaļas ⟨bija⟩ divdesmit un četri tūkstoši.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/1-chronicles\/27\/5-8.1792531608922.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "priekšnieks"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "karaspēka"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešās"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "trešajam mēnesim"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trešajam"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dēls"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priesteris"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "priekשnieks"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "un virs"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "viņa nodaļas"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "divdesmit"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "un četri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstoši"
+    }
+  ],
+  "timestamp": "2026-10-20T21:26:48.923426670Z",
+  "model": "glm-5.3"
+}

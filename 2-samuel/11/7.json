@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "lv",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלום → svētums",
+      "rationale": "Šalom ir 'labklājība, svētīgs stāvoklis'; 'svētums' saglabā viena vārda vienotību visās trijās atkārtojumos."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשלום ×3",
+      "rationale": "Trīskārša atkārtošana — Joābs, tauta, karš — uzbūve, kas jāsaglabā."
+    }
+  ],
+  "translation": "Un Urija atnāca pie viņa, un Davids vaicāja pēc Joāba svētuma un pēc tautas svētuma un pēc kara svētuma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-samuel\/11\/5-8.1792519821434.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "atnāca"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pie viņa"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "vaicāja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pēc ... svētuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joāba"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "un pēc ... svētuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "un pēc ... svētuma"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "kara"
+    }
+  ],
+  "timestamp": "2026-10-20T18:10:21.435758751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "lv",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "Ebreju tekstā nav saikļa; saraksta ievadei latviešu valodā vajadzīgs ⟨ir⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pilsētu saraksts",
+      "rationale": "Jehudas teritorijas pilsētu uzskaitījums Zemienei"
+    }
+  ],
+  "translation": "Zemiene ⟨ir⟩: Eštaola un Cora un Ašna.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2e78a333b6853452018ce1f3703feb81c59f4e5f7edcafce387293c04d0613c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/joshua\/15\/33-36.1792517895004.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "Zemiene"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Eštaola"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "un Cora"
+    },
+    {
+      "surface": "ו אשנה",
+      "gloss": "un Ašna"
+    }
+  ],
+  "timestamp": "2026-10-20T17:38:15.004714033Z",
+  "model": "glm-5.3"
+}

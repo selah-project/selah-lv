@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "lv",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Idioma 'izņemot \/ vienīgi'; burtiski 'jo, ja' — negācijas turpinājums no 21:1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "asinsradinieks",
+      "rationale": "שאר burtiski 'miesa\/asinis' — miesīgais piederīgais"
+    }
+  ],
+  "translation": "izņemot par savu asinsradinieku, kas tuvs viņam: par savu māti un savu tēvu, par savu dēlu un savu meitu un par savu brāli.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/leviticus\/21\/1-4.1792515065826.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "izņemot"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "par savu asinsradinieku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kas tuvs"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "viņam"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "par savu māti"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "un par savu tēvu"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "un par savu dēlu"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "un par savu meitu"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "un par savu brāli"
+    }
+  ],
+  "timestamp": "2026-10-20T16:51:05.829491208Z",
+  "model": "glm-5.3"
+}

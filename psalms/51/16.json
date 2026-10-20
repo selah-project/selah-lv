@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "lv",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "no asinīm",
+      "rationale": "מדמים — 'asinīm' (ylt) pret 'asins vainas' (kjv); daudzskaitlis 'asinis' var nozīmēt izlietās asinis vai asinsgrēku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "rationale": "צדקתך — 'Tava cedek': taisnīguma sakne, nevis viens atsevišķs latviešu vārds"
+    }
+  ],
+  "translation": "Izrauj mani no asinīm, Elohim, mans pestīšanas Elohim, un mana mēle gavilēs par Tavu cedeku.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/51\/13-16.1792527673280.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "izrauj mani"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "no asinīm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "pestīšanas"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mans"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "gavilēs"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mana mēle"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "Tavu cedeku"
+    }
+  ],
+  "timestamp": "2026-10-20T20:21:13.281470176Z",
+  "model": "glm-5.3"
+}

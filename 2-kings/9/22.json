@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "lv",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaloms",
+      "rationale": "שלום atstāts pēc skanējuma — viens vārds, kas nozīmē mieru, labklājību un veselību; 'miers' viens par šauru."
+    },
+    {
+      "kind": "alternative",
+      "subject": "netiklības",
+      "rationale": "זנוני nēsā arī pielūgšanas nozīmi — Izebeles elku dievkalpojums un netiklība vienā vārdā."
+    }
+  ],
+  "translation": "Un notika, kad Jehorāms ieraudzīja ⟨את⟩ Jehū, ka viņš teica: Vai ir šaloms, Jehū? Un viņš teica: Kas par šalomu, kamēr ir tavas mātes Izebeles netiklības un viņas daudzās burvestības?",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/2-kings\/9\/21-24.1792521336158.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Un notika"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kad ieraudzīja"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehorāms"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehū"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehū"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "viņš teica"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Vai ir šaloms"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehū"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Un viņš teica"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kas par"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "šalomu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamēr"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "netiklības"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeles"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tavas mātes"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "un viņas burvestības"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "daudzās"
+    }
+  ],
+  "timestamp": "2026-10-20T18:35:36.159091620Z",
+  "model": "glm-5.3"
+}

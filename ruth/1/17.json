@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "lv",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tā lai darītu Jahve man un tā lai vēl pievienotu",
+      "rationale": "Ebreju zvēresta formula, burtiski 'tā lai Jahve darītu man un tā lai pievienotu' — zvēresta lāsts, ko latviski izsaka ar 'ja ne' struktūru."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמותי אמות",
+      "rationale": "Atkārtota sakne מות (mirt): 'kur tu mirsti, es miršu' — infinitivus absolutus uzsvērumam, latviski zūd."
+    }
+  ],
+  "translation": "Kur tu mirsi, es miršu, un tur tiksšu aprakta; tā lai darītu Jahve man un tā lai vēl pievienotu, ja ⟨tikai⟩ nāve šķirs mani un tevi.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ruth\/1\/17-20.1792529756187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "tu mirsi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "es miršu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "un tur"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "tiksšu aprakta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tā"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lai darītu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "un tā"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lai vēl pievienotu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המות",
+      "gloss": "nāve"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "šķirs"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "un tevi"
+    }
+  ],
+  "timestamp": "2026-10-20T20:55:56.188436884Z",
+  "model": "glm-5.3"
+}

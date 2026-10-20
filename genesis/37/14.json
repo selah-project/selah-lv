@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "lv",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "שלום šeit nav ‘miers’, bet ‘klabība, kā viņiem klājas’ — atstāts kā klabība"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨taču⟩",
+      "rationale": "נא maigā lūguma daļiņa, latviski pievienota iekavās"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ceļš",
+      "rationale": "Ģeogrāfiskie punkti — Hevronas ieleja līdz Šekemai — iezīmē ceļa garumu"
+    }
+  ],
+  "translation": "Un viņš tam sacīja: Ej ⟨taču⟩, apskaties ⟨את⟩ savu brāļu klabību un ⟨את⟩ ganāmpulka klabību, un atnes man atbildi. Un viņš viņu sūtīja no Hevronas ielejas, un viņš nonāca Šekemā.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/genesis\/37\/13-16.1792512340903.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Un sacīja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨taču⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "apskaties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu brāļu klabību"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "klabība"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "savu brāļu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "un ⟨את⟩",
+      "marks": "ganāmpulka klabību"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "klabība"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ganāmpulka"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "un atnes man atpakaļ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "atbildi"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "Un viņš viņu sūtīja"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "no … ielejas"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "un nonāca"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Šekemā"
+    }
+  ],
+  "timestamp": "2026-10-20T16:05:40.907708225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "lv",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas no",
+      "rationale": "Izvērsts konstrakts ומתק רעהו — 'un drauga saldums' — latviski vajag saistītāju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvēsele",
+      "rationale": "נפש tuvāk ir 'rīkle\/elpas dzīvība', nevis dvēsele dvēseles-tēlainā nozīmē."
+    },
+    {
+      "kind": "crux",
+      "subject": "no padoma dvēseles",
+      "rationale": "מעצת נפש: 'no savas dvēseles padoma' (drauga paša padoms) pret 'padoms dvēselei' (BSB)."
+    }
+  ],
+  "translation": "Eļļa un kvēpi priecina ⟨את⟩ sirdi, un saldums, kas no drauga, — no dvēseles padoma.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/proverbs\/27\/9-12.1792528900187.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "eļļa"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "un kvēpi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "priecina"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sirdi"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "un saldums"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "drauga"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "no padoma"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dvēseles"
+    }
+  ],
+  "timestamp": "2026-10-20T20:41:40.188301904Z",
+  "model": "glm-5.3"
+}

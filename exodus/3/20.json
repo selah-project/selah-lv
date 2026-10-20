@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "lv",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ושלחתי את ידי",
+      "rationale": "Burtiski 'un es sūtīšu savu roku' — idioma 'izstiept roku' nozīmē rīkoties ar varu."
+    },
+    {
+      "kind": "you",
+      "subject": "Mozem",
+      "rationale": "Jahve runā tieši pie Mozes — solījums par brīnumiem un faraona pakļaušanu."
+    }
+  ],
+  "translation": "Un es izstiepšu ⟨את⟩ savu roku un sitīšu ⟨את⟩ Micraimu ar visām savām brīnuma zīmēm, ko es darīšu tās vidū; un pēc tam viņš laidīs jūs ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
+    "user-sha256": "2005100f72f4c77e74267f87ec30189fb5e0dbda32230829456b792831c36db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/exodus\/3\/17-20.1792512766720.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Un es izstiepšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savu roku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savu roku"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "un sitīšu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ar visām"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "savām brīnuma zīmēm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "es darīšu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "tās vidū"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "un pēc"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "viņš laidīs"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jūs",
+      "marks": "jūs"
+    }
+  ],
+  "timestamp": "2026-10-20T16:12:46.722193283Z",
+  "model": "glm-5.3"
+}
