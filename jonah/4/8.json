@@ -5,49 +5,23 @@
   "book": "jonah",
   "lang": "lv",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dvēsele",
-      "rationale": "נפש ir tuvāk 'elpa\/dzīvības spēks' nekā 'dvēsele'; 'vēlējās savu nefes lai mirst' burtiski: lūdza savu dzīvību nāvei"
-    },
-    {
-      "kind": "hapax",
-      "subject": "חרישית",
-      "rationale": "'karsais\/klusais austrumu vējš' — vārds Tanahā parādās tikai šeit"
-    },
-    {
-      "kind": "addition",
-      "subject": "man",
-      "rationale": "'Labāk man mirt' — piederība izteikta ar datīvu, ebrejuss nav; 'man' pievienots latviešu skaidrībai"
-    }
-  ],
-  "translation": "Un notika, saulei lecot, ka Elohim sagatavoja karsu austrumu vēju, un saule sita uz Jonasa galvas, un viņš ģība, un vēlējās ⟨את⟩ savu dvēseli lai mirst, un sacīja: Labāk man mirt nekā dzīvot.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "0e885026ef46f46e4231db1b89a3594b4d3d33fe362c6b588dd6e370fb65d332",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jonah\/4\/5-8.1792526447491.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un notika, kad saule uzlēca, ka Elohim norīkoja ruah, austrumu vēju, kvēlu ⟨את⟩, un saule sita uz Jonass galvas, un viņš apkrita ģībonī, un viņš lūdza ⟨את⟩ savu nefesu, lai mirtu, un sacīja: Labāk mana nāve nekā mana dzīvība.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Un notika"
+      "gloss": "un notika"
     },
     {
       "surface": "כזרח",
-      "gloss": "lecot"
+      "gloss": "kad uzlēca"
     },
     {
       "surface": "השמש",
-      "gloss": "saulei"
+      "gloss": "saule"
     },
     {
       "surface": "וימן",
-      "gloss": "sagatavoja"
+      "gloss": "norīkoja"
     },
     {
       "surface": "אלהים",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "רוח",
-      "gloss": "vēju"
+      "gloss": "ruah"
     },
     {
       "surface": "קדים",
-      "gloss": "austrumu"
+      "gloss": "austrumu vējš"
     },
     {
       "surface": "חרישית",
-      "gloss": "karsu"
+      "gloss": "kvēlu"
     },
     {
       "surface": "ותך",
-      "gloss": "sita"
+      "gloss": "un sita"
     },
     {
       "surface": "השמש",
@@ -83,28 +57,28 @@
     },
     {
       "surface": "יונה",
-      "gloss": "Jonasa"
+      "gloss": "Jonass"
     },
     {
       "surface": "ויתעלף",
-      "gloss": "ģība"
+      "gloss": "un apkrita ģībonī"
     },
     {
       "surface": "וישאל",
-      "gloss": "vēlējās"
+      "gloss": "un lūdza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savu dvēseli"
+      "marks": "savu nefesu"
     },
     {
       "surface": "נפשו",
-      "gloss": "savu dvēseli"
+      "gloss": "savu nefesu"
     },
     {
       "surface": "למות",
-      "gloss": "lai mirst"
+      "gloss": "lai mirtu"
     },
     {
       "surface": "ויאמר",
@@ -112,17 +86,17 @@
     },
     {
       "surface": "טוב",
-      "gloss": "Labāk"
+      "gloss": "labāk"
     },
     {
       "surface": "מותי",
-      "gloss": "man mirt"
+      "gloss": "mana nāve"
     },
     {
       "surface": "מחיי",
-      "gloss": "nekā dzīvot"
+      "gloss": "nekā mana dzīvība"
     }
   ],
-  "timestamp": "2026-10-20T20:00:47.499342837Z",
+  "timestamp": "2026-10-21T00:00:44.330983206Z",
   "model": "glm-5.3"
 }

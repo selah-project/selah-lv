@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 57,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "pie ķēniņa",
-      "rationale": "למלך: 'pie ķēniņa' (sūtņi Mezopotāmijas valdniekiem) pret 'Molekam' (BSB — pārliktao patskaņu lasījums)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sūtņus",
-      "rationale": "ציר burtiski 'eņģis\/sāpes'; kontekstā 'vēstneši, sūtņi'"
-    },
-    {
-      "kind": "addition",
-      "subject": "sevi",
-      "rationale": "Ebrejs darbības vārds ותשפילי ir pārejošs, bet objekts netiek minēts; latviski vajadzīgs 'sevi'"
-    }
-  ],
-  "translation": "Tu devies pie ķēniņa ar eļļu un vairoyi savas smaržvielas, un tu sūtīji savus sūtņus līdz tālu projāmai vietai, un tu pazemoji ⟨sevi⟩ līdz šeolam.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/9-12.1792522904259.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un tu ceļoji pie ķēniņa ar eļļu un vairoji savas smaržvielas, un tu sūtīji savus sūtņus līdz tālienei, un tu pazemināji sevi līdz šeolam.",
   "tokens": [
     {
       "surface": "ותשרי",
-      "gloss": "tu devies"
+      "gloss": "un tu ceļoji"
     },
     {
       "surface": "למלך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ותרבי",
-      "gloss": "un vairoyi"
+      "gloss": "un tu vairoji"
     },
     {
       "surface": "רקחיך",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מרחק",
-      "gloss": "tālu projāmai vietai"
+      "gloss": "tālienei"
     },
     {
       "surface": "ותשפילי",
-      "gloss": "un tu pazemoji"
+      "gloss": "un tu pazemināji"
     },
     {
       "surface": "עד",
@@ -82,6 +56,6 @@
       "gloss": "šeolam"
     }
   ],
-  "timestamp": "2026-10-20T19:01:44.259860996Z",
+  "timestamp": "2026-10-20T23:58:57.907443831Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "רוחא šeit ir vējš — vārds ruah patur vienu formu trim nozīmēm"
-    },
-    {
-      "kind": "substitution",
-      "subject": "māls",
-      "rationale": "חסף burtiski 'māla gabals', rindkopā atkārtojas kopā ar pārējiem metāliem"
-    },
-    {
-      "kind": "mystery",
-      "subject": "akmens un kalns",
-      "rationale": "Panta noslēpums: akmens kļūst par kalnu, kas piepilda zemi — jēga vēl nav atklāta šajā brīdī"
-    }
-  ],
-  "translation": "Tad kopā tika sasmalcināta dzelzs, māls, varš, sudrabs un zelts, un tie kļuva kā pelavas no vasaras kulšanas laukiem, un vējš aiznesa tās, un nedrīkstēja tām vietas atrast; bet akmens, kas trāpīja tēlam, kļuva par lielu kalnu un piepildīja ⟨ visu⟩ zemi.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/2\/33-36.1792530133490.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tad tika samaltas kopā vienā ⟨vienā⟩ dzelzs, māla keramika, varš, sudrabs un zelts, un tās kļuva kā pelavas no vasaras kulšanas laukumiem, un vējš tās aiznesa, un nevienu vietu tām vairs nevarēja atrast; bet akmens, kas trieca attēlu, kļuva par lielu kalnu un piepildīja visu zemi.",
   "tokens": [
     {
       "surface": "באדין",
-      "gloss": "Tad"
+      "gloss": "tad"
     },
     {
       "surface": "דקו",
-      "gloss": "tika sasmalcināta"
+      "gloss": "tika samaltas"
     },
     {
       "surface": "כחדה",
-      "gloss": "kopā"
+      "gloss": "kopā vienā"
     },
     {
       "surface": "פרזלא",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "חספא",
-      "gloss": "māls"
+      "gloss": "māla keramika"
     },
     {
       "surface": "נחשא",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "והוו",
-      "gloss": "un tie kļuva"
+      "gloss": "un tās kļuva"
     },
     {
       "surface": "כעור",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אדרי",
-      "gloss": "kulšanas laukiem"
+      "gloss": "kulšanas laukumiem"
     },
     {
       "surface": "קיט",
@@ -99,19 +73,19 @@
     },
     {
       "surface": "וכל",
-      "gloss": "un ne"
+      "gloss": "un nevienu"
     },
     {
       "surface": "אתר",
-      "gloss": "vietas"
+      "gloss": "vietu"
     },
     {
       "surface": "לא",
-      "gloss": "nedrīkstēja"
+      "gloss": "ne"
     },
     {
       "surface": "השתכח",
-      "gloss": "atrast"
+      "gloss": "varēja atrast"
     },
     {
       "surface": "להון",
@@ -127,11 +101,11 @@
     },
     {
       "surface": "מחת",
-      "gloss": "trāpīja"
+      "gloss": "trieca"
     },
     {
       "surface": "לצלמא",
-      "gloss": "tēlam"
+      "gloss": "attēlu"
     },
     {
       "surface": "הות",
@@ -158,6 +132,6 @@
       "gloss": "zemi"
     }
   ],
-  "timestamp": "2026-10-20T21:02:13.491685027Z",
+  "timestamp": "2026-10-20T23:57:29.527067952Z",
   "model": "glm-5.3"
 }

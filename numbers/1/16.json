@@ -5,75 +5,49 @@
   "book": "numbers",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Ebreju valodā nav saikļa; latviešu teikumam vajag ⟨ir⟩."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נשיא",
-      "rationale": "Nosaukts par 'galva (vadonis)' — ebrejiski 'paceltais', cilts firsts."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tūkstošu galvas",
-      "rationale": "Skaitīšanas struktūra: galvas virs tūkstošiem Jisraēlā."
-    }
-  ],
-  "translation": "Šie ⟨ir⟩ aicinātie no ⟨А sapulces⟩ — no diecības sapulces, savu tēvu cišu galvas; viņi ir galvas virs Jisraēla tūkstošiem.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b7cded9ddfaf92860216f3a10e403838892aa2248a781cc1fc823dc22b543ce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/numbers\/1\/13-16.1792515285520.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šie ir ⟨את⟩ saucie no saiesanas pulka, cilšu valdnieki no savu tēvu ciltīm — tie ir tūkstošu galvas Jisraēlā.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Šie"
+      "gloss": "šie"
     },
     {
       "surface": "קריאי",
-      "gloss": "aicinātie"
+      "gloss": "saucie"
     },
     {
       "surface": "העדה",
-      "gloss": "no sapulces"
+      "gloss": "no saiesanas pulka"
     },
     {
       "surface": "נשיאי",
-      "gloss": "galvas (vadoņi)"
+      "gloss": "valdnieki"
     },
     {
       "surface": "מטות",
-      "gloss": "cišu"
+      "gloss": "cilšu"
     },
     {
       "surface": "אבותם",
-      "gloss": "savu tēvu"
+      "gloss": "no savu tēvu ciltīm"
     },
     {
       "surface": "ראשי",
-      "gloss": "galvas virs"
+      "gloss": "galvas"
     },
     {
       "surface": "אלפי",
-      "gloss": "tūkstošiem"
+      "gloss": "tūkstošu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraēla"
+      "gloss": "Jisraēlā"
     },
     {
       "surface": "הם",
-      "gloss": "viņi ir"
+      "gloss": "tie ir"
     }
   ],
-  "timestamp": "2026-10-20T16:54:45.521704098Z",
+  "timestamp": "2026-10-21T00:00:20.636580476Z",
   "model": "glm-5.3"
 }

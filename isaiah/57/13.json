@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 57,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tukšība",
-      "rationale": "הבל ir 'elpa\/tukšība' — nevis 'veltīgums' kā abstrakts jēdziens; te tas personificēti aizrauj elkus"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישא\/יקח",
-      "rationale": "divi darbības vārdi 'celt\/aiznest' un 'ņemt' paralēlē par elkiem, ko aiznes vējš"
-    }
-  ],
-  "translation": "Kad tu kliedz, lai tevi izglābj tavi pulci; bet ⟨את⟩ visus tos aiznesīs vējš, aizraus tukšība. Bet tas, kas patvēršas manī, mantos zemi un iemantos manu svēto kalnu.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/57\/13-16.1792522906811.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kad tu kliegsi, lai tevi izglābj tavi pulki; bet ruah aiznesīs ⟨את⟩ tos visus, tukšība aizņems tos. Bet tas, kas patvērš manī, mantos zemi un iegūs manu svēto kalnu.",
   "tokens": [
     {
       "surface": "בזעקך",
-      "gloss": "kad tu kliedz"
+      "gloss": "Kad tu kliegsi"
     },
     {
       "surface": "יצילך",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "קבוציך",
-      "gloss": "tavi pulci"
+      "gloss": "tavi pulki"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "visus tos"
+      "marks": "tos visus"
     },
     {
       "surface": "כלם",
-      "gloss": "visus tos"
+      "gloss": "tos visus"
     },
     {
       "surface": "ישא",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "vējš"
+      "gloss": "ruah"
     },
     {
       "surface": "יקח",
-      "gloss": "aizraus"
+      "gloss": "aizņems"
     },
     {
       "surface": "הבל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "והחוסה",
-      "gloss": "bet kas patvēršas"
+      "gloss": "bet tas, kas patvērš"
     },
     {
       "surface": "בי",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "ויירש",
-      "gloss": "iemantos"
+      "gloss": "un iegūs"
     },
     {
       "surface": "הר",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "svēto manu"
+      "gloss": "mano svēto"
     }
   ],
-  "timestamp": "2026-10-20T19:01:46.812323376Z",
+  "timestamp": "2026-10-20T23:58:59.264570716Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bija",
-      "rationale": "Ebreju teikumam nav izteikta darbības vārda; latviešu valodai vajag ⟨bija⟩."
-    },
-    {
-      "kind": "crux",
-      "subject": "raqia",
-      "rationale": "רקיע: 'izpletne', 'velve', 'cietums' — tulkoti dažādi; saglabāts skaņu vārds raqia."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כעין הקרח",
-      "rationale": "עין 'acs\/izskats' ar ledi — spīdoša, caurspīdīga virsma; latviski 'izskats'."
-    }
-  ],
-  "translation": "Un pār dzīvās būtnes galvām ⟨bija⟩ raqia līdzība — kā biedinošā ledus izskats, izstiepts pār viņu galvām no augšas.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/ezekiel\/1\/21-24.1792524646735.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un pāri ⟨את⟩ dzīvā radījuma galvām bija līdzība — izpletnis, kā briesmīgā ledus acs, izstiepts pāri viņu galvām no augšas.",
   "tokens": [
     {
       "surface": "ודמות",
-      "gloss": "un līdzība"
+      "gloss": "Un līdzība"
     },
     {
       "surface": "על",
-      "gloss": "pār"
+      "gloss": "pāri"
     },
     {
       "surface": "ראשי",
@@ -47,23 +21,23 @@
     },
     {
       "surface": "החיה",
-      "gloss": "dzīvās būtnes"
+      "gloss": "dzīvā radījuma"
     },
     {
       "surface": "רקיע",
-      "gloss": "raqia (izpletne)"
+      "gloss": "izpletnis"
     },
     {
       "surface": "כעין",
-      "gloss": "kā izskats"
+      "gloss": "kā ... acs"
     },
     {
       "surface": "הקרח",
-      "gloss": "biedinošā ledus"
+      "gloss": "briesmīgā ledus"
     },
     {
       "surface": "הנורא",
-      "gloss": "biedinošais"
+      "gloss": "briesmīgā"
     },
     {
       "surface": "נטוי",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "pār"
+      "gloss": "pāri"
     },
     {
       "surface": "ראשיהם",
@@ -82,6 +56,6 @@
       "gloss": "no augšas"
     }
   ],
-  "timestamp": "2026-10-20T19:30:46.736168266Z",
+  "timestamp": "2026-10-20T23:58:50.785175500Z",
   "model": "glm-5.3"
 }

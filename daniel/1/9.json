@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "lv",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed un rahamim",
-      "rationale": "לחסד ולרחמים burtiski 'labvēlībai un iekšķīgām žēlsiržībām'; 'жēlastība un rūpības' tuvina nozīmi, zūd vārdu forma."
-    },
-    {
-      "kind": "hapax",
-      "subject": "הסריסים",
-      "rationale": "Eunuhu priekšnieka amats — Babilonas galmtermins, latviski bez precīza atbilstīga vārda."
-    }
-  ],
-  "translation": "Un Elohim deva Daniēlam ⟨את⟩ žēlastību un rūpības priekšā eunuhu priekšnieka.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/daniel\/1\/9-12.1792530128594.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un Elohim deva ⟨את⟩ Danielu hesedam un rahamim priekšā sarim virs eunuhiem.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Daniēlu"
+      "marks": "Danielu"
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniēls"
+      "gloss": "Danielu"
     },
     {
       "surface": "לחסד",
-      "gloss": "žēlastībai"
+      "gloss": "hesedam"
     },
     {
       "surface": "ולרחמים",
-      "gloss": "un rūpībām"
+      "gloss": "un rahamim"
     },
     {
       "surface": "לפני",
@@ -59,13 +38,13 @@
     },
     {
       "surface": "שר",
-      "gloss": "priekšnieks"
+      "gloss": "sarim"
     },
     {
       "surface": "הסריסים",
-      "gloss": "eunuhu"
+      "gloss": "eunuhiem"
     }
   ],
-  "timestamp": "2026-10-20T21:02:08.594868217Z",
+  "timestamp": "2026-10-20T23:57:13.780423014Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "lamentations",
   "lang": "lv",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רוחתי",
-      "rationale": "'Mans atvieglojums\/atelpa' — attieksmes infinitīvs no ruah; elpojums pēc atbrīvošanas, ne vienkārši 'vaimanas'."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve",
-      "rationale": "Vēršanās tieši pie Jahves lūgumā neatbildēt ar klusumu."
-    }
-  ],
-  "translation": "Tu dzirdēji manu balsi; neslēp ⟨to⟩, Tavu ausi, no mansēdas elpas, no mana kliedziena.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "b1a95eaa7da2d8359f2e549e92b042dcab6a18a9537568d9a8436e45db1a7032",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/lamentations\/3\/53-56.1792529815608.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨⟨Mans⟩⟩ balsi Tu dzirdēji; neslēp ⟨את⟩ savu ausu manai atvieglojumam, manai kliedzienam.",
   "tokens": [
     {
       "surface": "קולי",
@@ -42,21 +21,22 @@
     },
     {
       "surface": "תעלם",
-      "gloss": "neslēp"
+      "gloss": "slēp"
     },
     {
       "surface": "אזנך",
-      "gloss": "Tavu ausi"
+      "gloss": "sava ausu ⟨את⟩",
+      "marks": "sava ausu"
     },
     {
       "surface": "לרוחתי",
-      "gloss": "no mansēdas elpas"
+      "gloss": "manai atvieglojumam"
     },
     {
       "surface": "לשועתי",
-      "gloss": "no mana kliedziena"
+      "gloss": "manai kliedzienam"
     }
   ],
-  "timestamp": "2026-10-20T20:56:55.608929225Z",
+  "timestamp": "2026-10-21T00:00:42.749049676Z",
   "model": "glm-5.3"
 }

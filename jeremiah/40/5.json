@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lv",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Nebuzaradans sacīja",
-      "rationale": "ebreju tekstā runātājs netiek nosaukts; latviešu valodai vajadzīgs paskaidrojums, kurš runā"
-    },
-    {
-      "kind": "crux",
-      "subject": "רב טבחים",
-      "rationale": "burtiski 'bendžu pavēlnieks' — KJV 'sargu kapteinis', JPS 'sardzes priekšnieks'; 'bendis' (טבח) ir burtiskais vārds"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ועודנו לא ישוב",
-      "rationale": "daudzi lasa 'un viņš vēl nebija atbildējis' (YLT), citi 'kamēr viņš vēl neatgriezās' (KJV); abi iespējami no שוב"
-    }
-  ],
-  "translation": "Un, kamēr viņš vēl nebija atbildējis, ⟨Nebuzaradans sacīja⟩: Atgriezies pie Gedaljas, Ahiqama dēla, Šafāna dēla, ko Bābeles ķēniņš iecēla pār Jūdas pilsētām, un paliec ⟨את⟩ viņu tautas vidū, vai ej, kur vien tavās acīs ⟨šķiet⟩ pareizi iet. Un bendžu priekšnieks deva viņam ēdienu devu un dāvanu un viņu aizlaida.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/jeremiah\/40\/5-8.1792524309441.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Un, kamēr viņš vēl nebija atgriezies, ⟨viņš sacīja⟩: Atgriezies pie Gedaljas, Ahikama dēla, Šafana dēla, kuru Babilonas ķēniņš ir iecēlis pār Jūdas pilsētām, un paliec ⟨את⟩ kopā ar viņu tautas vidū, vai arī ej, kur vien tev šķiet pareizi iet — ej! Un miesassargu pavēlnieks deva viņam ēdienu devu un dāvanu un atlaida viņu.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "kamēr viņš vēl"
+      "gloss": "un, kamēr vēl"
     },
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "atbildējis"
+      "gloss": "bija atgriezies"
     },
     {
       "surface": "ושבה",
@@ -59,27 +33,27 @@
     },
     {
       "surface": "בן",
-      "gloss": "dēls"
+      "gloss": "dēla"
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahiqama"
+      "gloss": "Ahikama"
     },
     {
       "surface": "בן",
-      "gloss": "dēls"
+      "gloss": "dēla"
     },
     {
       "surface": "שפן",
-      "gloss": "Šafāna"
+      "gloss": "Šafana"
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "kuru"
     },
     {
       "surface": "הפקיד",
-      "gloss": "iecēla"
+      "gloss": "ir iecēlis"
     },
     {
       "surface": "מלך",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bābeles"
+      "gloss": "Babilonas"
     },
     {
       "surface": "בערי",
-      "gloss": "pilsētās"
+      "gloss": "pār pilsētām"
     },
     {
       "surface": "יהודה",
@@ -99,12 +73,12 @@
     },
     {
       "surface": "ושב",
-      "gloss": "un paliec"
+      "gloss": "paliec"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "viņu"
+      "marks": "kopā ar viņu"
     },
     {
       "surface": "בתוך",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "tavās acīs"
+      "gloss": "tev šķiet"
     },
     {
       "surface": "ללכת",
@@ -152,11 +126,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "priekšnieks"
+      "gloss": "pavēlnieks"
     },
     {
       "surface": "טבחים",
-      "gloss": "bendžu"
+      "gloss": "miesassargu"
     },
     {
       "surface": "ארחה",
@@ -168,9 +142,9 @@
     },
     {
       "surface": "וישלחהו",
-      "gloss": "un viņu aizlaida"
+      "gloss": "un atlaida viņu"
     }
   ],
-  "timestamp": "2026-10-20T19:25:09.442430758Z",
+  "timestamp": "2026-10-21T00:02:39.501723548Z",
   "model": "glm-5.3"
 }

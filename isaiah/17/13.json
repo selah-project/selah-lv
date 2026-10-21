@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lv",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שאון\/ישאון",
-      "rationale": "Saknes atkārtojums: kā (-)šaon viņi jišaon — šalči šalc, ebreju atbalss latviešu valodā daļēji atjaunota ar dun\/šalči."
-    },
-    {
-      "kind": "substitution",
-      "subject": "רוח",
-      "rationale": "ruah — 'vējš' šeit; pēc D2 ruah vienmēr rakstāms pēc skanējuma, bet te tas ir konkrēts vējš, kas dzen pelavas."
-    },
-    {
-      "kind": "crux",
-      "subject": "גלגל",
-      "rationale": "'Veltenis' \/ 'vērpes putekļi' \/ 'pīšļu vītulis' — ritenis vai kas pa vējam velošies; latviski 'veltenis' kā vārda formas atbilsme."
-    }
-  ],
-  "translation": "Tautas dun kā daudzu ūdeņu šalči, bet Viņš tos apsauks, un tie bēgs tālu projām, un tiks dzīti kā kalnu pelavas pirms vēja un kā veltenis pirms viesuļa.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "1eba63a3497c77aeb6ec83b0f83c491964bb75dfef2bee0e19b1ccf39713e5d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/isaiah\/17\/13-14.1792522139211.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tautas ⟨ir⟩ kā daudzu ūdeņu šalcoņa — tās aizšalcs, bet ⟨viņš⟩ to apsauks, un tas bēgs tālu projām, un tas taps dzīts kā kalnu pelavas ruah priekšā un kā ripulis vētras priekšā.",
   "tokens": [
     {
       "surface": "לאמים",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "כשאון",
-      "gloss": "kā šalči"
+      "gloss": "kā šalcoņa"
     },
     {
       "surface": "מים",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ישאון",
-      "gloss": "dun"
+      "gloss": "aizšalcs"
     },
     {
       "surface": "וגער",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "tos"
+      "gloss": "to"
     },
     {
       "surface": "ונס",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "ממרחק",
-      "gloss": "tālu"
+      "gloss": "tālu projām"
     },
     {
       "surface": "ורדף",
-      "gloss": "un dzīs"
+      "gloss": "un taps dzīts"
     },
     {
       "surface": "כמץ",
@@ -83,25 +57,25 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pirms"
+      "gloss": "priekšā"
     },
     {
       "surface": "רוח",
-      "gloss": "vēja"
+      "gloss": "ruah"
     },
     {
       "surface": "וכגלגל",
-      "gloss": "un kā veltenis"
+      "gloss": "un kā ripulis"
     },
     {
       "surface": "לפני",
-      "gloss": "pirms"
+      "gloss": "priekšā"
     },
     {
       "surface": "סופה",
-      "gloss": "viesuļa"
+      "gloss": "vētras"
     }
   ],
-  "timestamp": "2026-10-20T18:48:59.212188306Z",
+  "timestamp": "2026-10-20T23:59:07.197405910Z",
   "model": "glm-5.3"
 }

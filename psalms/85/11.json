@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lv",
   "chapter": 85,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "hesed nav tikai 'žēlastība' — uzticīga labvēlība; saglabāts transkribēts."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נפגשו \/ נשקו",
-      "rationale": "personifikācija: abstraktas vērtības satiekas un skūpstas — hiasma ar 85:12."
-    }
-  ],
-  "translation": "Hesed un patiesība sastapas, cedek un šaloms savijas skūpstā.",
-  "provenance": {
-    "system-sha256": "7e894710d56e7553c9e3ae539427341ed0ecdd935108daffba3e8e93de8b01a2",
-    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lv\/psalms\/85\/9-12.1792527984481.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hesed un ⟨אמת⟩ patiesība sastapās, cedek un šaloms ⟨vienam otru⟩ apkampuši skūpstu.",
   "tokens": [
     {
       "surface": "חסד",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נפגשו",
-      "gloss": "sastapas"
+      "gloss": "sastapās"
     },
     {
       "surface": "צדק",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "נשקו",
-      "gloss": "savijas skūpstā"
+      "gloss": "apkampuši skūpstu"
     }
   ],
-  "timestamp": "2026-10-20T20:26:24.482486519Z",
+  "timestamp": "2026-10-21T00:02:15.746984951Z",
   "model": "glm-5.3"
 }
