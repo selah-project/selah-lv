@@ -16,7 +16,7 @@ Tiek nodots saskaņā ar licenci **Creative Commons Attiecinājums-Līdzīga kop
 
 ## Ar šādiem nosacījumiem
 
-- **Attiecinājums** — norādi, no kurienes darbs nāk (**Selah**, https://selahproject.com), pievieno saiti
+- **Attiecinājums** — norādi, no kurienes darbs nāk (**Selah**, https://s33k3r.com), pievieno saiti
   uz šo licenci un norādi, vai kaut ko mainīji.
 - **Līdzīga koplietošana** — to, ko mainīsi vai izveidosi, balstoties uz šo darbu, izplati ar to pašu
   licenci.
